@@ -10,6 +10,6 @@ Zanima me če lahko s pomočno Google Trends napovemo ceno Bitcoinov.
 Ceno bom skušal napovedati še s pomočjo Reddita. Vsak dan se na /r/Bitcoin odpre tema Daily Discussion. V komentarjih te teme bom poiskal besede ki se uporabljajo za napovedovanje (increase, decrease, high, low,...) in s pomočjo količine dobrih/slabih besed poskušal napovedati rast/padec cene za naslednji dan.
 
 Podatke bom pridobil iz spletnih strani: 
-	* Coinmarketcap
-	* Google Trends
-	* Reddit
+* Coinmarketcap
+* Google Trends
+* Reddit

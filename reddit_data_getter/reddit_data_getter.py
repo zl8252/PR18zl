@@ -1,4 +1,5 @@
 import praw
+import re
 import time
 
 
@@ -7,6 +8,26 @@ def create_submission_file(subreddit, submission, file_name):
     submission_title = submission.title
 
     file = open("./../data/reddit/{}/{}.txt".format(subreddit_name, file_name), mode='w')
+
+    # saves some meta information
+    file.write("File created at: {}\n".format(int(time.time())))
+    file.write("Subreddit: {}\n".format(subreddit_name))
+    file.write("Submission title: {}\n".format(submission_title))
+    file.write("Submission created utc: {}\n".format(int(submission.created_utc)))
+    file.write("Submission score: {}\n".format(submission.score))
+    file.write("comments: (level\tcreated_utc\tcomment_score\tcomment_body)\n")
+    file.write("\n")
+
+    return file
+
+
+def create_daily_discussion_bitcoin_file(subreddit, submission):
+    subreddit_name = subreddit.display_name
+    submission_title = submission.title
+
+    file_name = file_name = time.strftime("%Y-%m-%d")
+
+    file = open("./../data/reddit/daily_discussion_bitcoin/{}.txt".format(file_name), mode='w')
 
     # saves some meta information
     file.write("File created at: {}\n".format(int(time.time())))
@@ -89,27 +110,51 @@ print()
 print("Saving data")
 print()
 
-# Bitcoin
+# Bitcoin ------
 print("/r/bitcoin ----------\n")
 subreddit = reddit.subreddit("Bitcoin")
 save_subreddit(subreddit)
 
-# Btc
+# Btc -----
 print("/r/btc ----------\n")
 subreddit = reddit.subreddit("btc")
 save_subreddit(subreddit)
 
-# BTC News
+# BTC News -----
 print("/r/BTCNews ----------\n")
 subreddit = reddit.subreddit("BTCNews")
 save_subreddit(subreddit)
 
-# CryptoCurrency
+# CryptoCurrency -----
 print("/r/CryptoCurrency ----------\n")
 subreddit = reddit.subreddit("CryptoCurrency")
 save_subreddit(subreddit)
 
-# BitcoinMarkets
+# BitcoinMarkets -----
 print("/r/BitcoinMarkets ----------\n")
 subreddit = reddit.subreddit("BitcoinMarkets")
 save_subreddit(subreddit)
+
+# Bitcoin daily discussion -----
+print("Saving Bitcoin daily discussion")
+
+bitcoin_subreddit = reddit.subreddit("Bitcoin")
+
+# finds the correct submission
+bitcoin_daily_discussion_submission = None
+
+for submission in bitcoin_subreddit.hot(limit=20):
+    if bool(re.match("Daily Discussion*", submission.title)):
+        bitcoin_daily_discussion_submission = submission
+        break
+
+if bitcoin_daily_discussion_submission is None:
+    print("Could not find Bitcoin daily discussion")
+    exit(1)
+
+bitcoin_daily_discussion_file = create_daily_discussion_bitcoin_file(bitcoin_subreddit,
+                                                                     bitcoin_daily_discussion_submission)
+
+save_comments(bitcoin_daily_discussion_file, 0, bitcoin_daily_discussion_submission.comments)
+
+print("Saved Bitcoin daily discussion")

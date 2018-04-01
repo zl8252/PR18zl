@@ -8,5 +8,19 @@ Uses "PRAW" to obtain reddit data.
 
 ## What is saved
 
+### Submissions
+
 Creates a file for first 10 top submissions with time_filter="day".  
-For each of these submissions it saves comments up to level 10. 
+For each of these submissions it saves most of top comments up to level 10.
+
+**Subreddits:**
+
+* /r/bitcoin
+* /r/btc
+* /r/BTCNews
+* /r/CryptoCurrency
+* /r/BitcoinMarkets
+
+### Daily discussion
+
+Saves Bitcoin daily discussion Submission 

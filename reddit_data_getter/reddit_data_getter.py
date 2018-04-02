@@ -25,9 +25,29 @@ def create_daily_discussion_bitcoin_file(subreddit, submission):
     subreddit_name = subreddit.display_name
     submission_title = submission.title
 
-    file_name = file_name = time.strftime("%Y-%m-%d")
+    file_name = time.strftime("%Y-%m-%d")
 
     file = open("./../data/reddit/daily_discussion_bitcoin/{}.txt".format(file_name), mode='w')
+
+    # saves some meta information
+    file.write("File created at: {}\n".format(int(time.time())))
+    file.write("Subreddit: {}\n".format(subreddit_name))
+    file.write("Submission title: {}\n".format(submission_title))
+    file.write("Submission created utc: {}\n".format(int(submission.created_utc)))
+    file.write("Submission score: {}\n".format(submission.score))
+    file.write("comments: (level\tcreated_utc\tcomment_score\tcomment_body)\n")
+    file.write("\n")
+
+    return file
+
+
+def create_daily_discussion_cryptoCurrency_file(subreddit, submission):
+    subreddit_name = subreddit.display_name
+    submission_title = submission.title
+
+    file_name = time.strftime("%Y-%m-%d")
+
+    file = open("./../data/reddit/daily_discussion_cryptocurrency/{}.txt".format(file_name), mode='w')
 
     # saves some meta information
     file.write("File created at: {}\n".format(int(time.time())))
@@ -158,3 +178,27 @@ bitcoin_daily_discussion_file = create_daily_discussion_bitcoin_file(bitcoin_sub
 save_comments(bitcoin_daily_discussion_file, 0, bitcoin_daily_discussion_submission.comments)
 
 print("Saved Bitcoin daily discussion")
+
+# CryptoCurrency daily discussion -----
+print("Saving CryptoCurrency daily discussion")
+
+cryptoCurrency_subreddit = reddit.subreddit("CryptoCurrency")
+
+# finds the correct submission
+cryptoCurrency_daily_discussion_submission = None
+
+for submission in cryptoCurrency_subreddit.hot(limit=20):
+    if bool(re.match("Daily General Discussion*", submission.title)):
+        cryptoCurrency_daily_discussion_submission = submission
+        break
+
+if cryptoCurrency_daily_discussion_submission is None:
+    print("Could not find CryptoCurrency daily discussion")
+    exit(1)
+
+cryptoCurrency_daily_discussion_file = create_daily_discussion_cryptoCurrency_file(cryptoCurrency_subreddit,
+                                                                                   cryptoCurrency_daily_discussion_submission)
+
+save_comments(cryptoCurrency_daily_discussion_file, 0, cryptoCurrency_daily_discussion_submission.comments)
+
+print("Saved CryptoCurrency daily discussion")

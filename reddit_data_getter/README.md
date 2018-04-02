@@ -15,7 +15,7 @@ For each of these submissions it saves most of top comments up to level 10.
 
 **Subreddits:**
 
-* /r/bitcoin
+* /r/Bitcoin
 * /r/btc
 * /r/BTCNews
 * /r/CryptoCurrency
@@ -23,4 +23,7 @@ For each of these submissions it saves most of top comments up to level 10.
 
 ### Daily discussion
 
-Saves Bitcoin daily discussion Submission 
+Saved daily discussion submissions for subreddits:
+
+* /r/Bitcoin
+* /r/CryptoCurrency

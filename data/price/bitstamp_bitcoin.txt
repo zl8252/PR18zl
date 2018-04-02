@@ -1,0 +1,2 @@
+year.month.day;hour:minute;price€
+2018.4.2;20:18;5640.33

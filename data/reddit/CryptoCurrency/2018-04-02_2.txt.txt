@@ -1,0 +1,111 @@
+File created at: 1522692490
+Subreddit: CryptoCurrency
+Submission title: Our KuCoin Listing Nightmare, and Why It's The Last Place You Should List.
+Submission created utc: 1522604294
+Submission score: 359
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522610370	52	Guess I'm not using Kucoin anymore
+0	1522606036	69	r/KuCoin skip them... they are suddenly asking for 100btc for a listing... they are mad... don't use them as we have many better exchanges already
+1	1522620918	30	Maybe they got wind that Binance have reportedly been asking for five times that.
+1	1522629208	11	Happen to know from experience, most of their fees before went straight back into promotional contests. Haven't seen anything about it being 100btc though, it was 200eth before. Source? 
+1	1522628819	10	Hey, rob. Have you got a reference for the 100-btc listing cost? I've just started analysing some related stuff, and would love to be certain of how nuts Kucoin has become.
+1	1522644121	3	they're telling people to buzz off, we don't need another coin
+0	1522615631	39	This is a disgrace - no other way about it. I've used Kucoin before but won't touch it again. I've transferred anything I've had to MEW and in the future I will use the likes of IDEX or ForkDelta for smaller cap coins. I've also multiple friends that have seen this article and will avoid Kucoin moving forward if possible.Its so unprofessional and disrespectful to treat a project/business like this.I really hope the Kucoin team issues some form of a response to this article or public apology to the Verify team.
+1	1522644705	3	Some form of response? Maybe if they fix their English first lmao
+0	1522604836	17	This has happened across multiple coins. Hopefully this will lead to change 
+1	1522629139	6	But it seems like Kucoin has a new coin listed every damn day
+1	1522605619	3	Same story with bitcoin private
+0	1522613830	11	I can't remember the last time I heard anything good about KuCoin... After the airdrop I think I'm gone...
+1	1522629204	6	I actually like using Kucoin. Their online support is decent (can be at times useless).
+1	1522618090	3	Well it's just a few clicks moving your PRL's to a regular ETH address (just use MEW and/or metamask if you're unfamilliar with it) and then you know for sure that you will get your SHL tokens the moment they are distributed!
+0	1522610252	37	I do always wonder why projects put so much effort into getting on exchanges and are even willing to pay for it. Like, shouldnt the project just focus on building a good project and if they are successful, the exchanges will want to list it cause it brings good volume? Still, shitty behavior from Kucoin 
+1	1522611009	42	Because crypto is about hype and most of these projects don't have a working product. If exchanges cut off the projects that were vaporware then they'd be pretty empty. 
+2	1522628009	5	ITT: people realizing that things don't just happen by magic in crypto world. If you can trade it on an exchange that isn't a DEX, how do you think it got there?...In before claims of "community voting got it in!" exceptionalism.
+1	1522618177	12	It's simple supply and demand. There are too many coins that need to be listed, so the exchanges start to ask as much money as they can get away with.Binance asks 25-50 BTC, Polo/Bittrex too, Okex/Huobi ask for 100 BTC.Even trash like Yobit still wants 10 BTC for listing.
+2	1522621015	8	Reports are that Binance is asking for well over a million USD for a listing.
+3	1522627567	4	Last numbers I saw were 1.2 million per pair. So get xxx/eth and xxx/btc and you're looking at 2.4mil usd
+4	1522672304	1	It's more than that.But it varies 
+2	1522620424	3	I haven't seen specific numbers, but it's been known that this is how the game is played for a long time. I don't see any easy way to fix it, but I just wish there was a lot more transparency about it.
+3	1522621545	3	Bisq like exchanges?
+2	1522672199	1	cannot believe okex/huobi ask more than binance
+1	1522617535	8	yes you are right, but shitcoin dev teams need somewhere to dump their bags.
+1	1522618174	11	Take a look at mywish, project that focused on getting it's product out and working but because it isn't on any decent exchange no one knows about it and it's hard for it to get any type of volume. https://contracts.mywish.io/dashboard/createhttps://coinmarketcap.com/currencies/mywish/#marketshttps://twitter.com/mywishplatformYa probably haven't even heard about it have ya?
+2	1522619626	4	Actually have a pretty large stake in mywish hahaha
+3	1522622342	7	well uh awkward.. but my point still somewhat stands hopefully.
+2	1522627486	2	Thanks for the headsup on this project. Looks very interesting and I'll be taking a closer look later. I wouldn't call bancor a no name exchange tho but I do get your pt. 
+2	1522636258	1	Did you get that on Coss?
+3	1522640023	1	I got mines from Cryptopia.
+1	1522665807	2	Because so-called investors will light the butt of developers if they don't make listing on a bigger exchange a high priority.I am perfectly happy to trade on cryptobridge or IDEX, but most speculators prefer centralized solutions.
+1	1522668612	1	> Like, shouldnt the project just focus on building a good project and if they are successful, the exchanges will want to list it cause it brings good volume? That would be nice, but none of the big exchanges operate this way.
+1	1522671331	1	>>Like, shouldnt the project just focus on building a good project and if they are successful, the exchanges will want to list it cause it brings good volume?    Not when it's a shitcoin alt/fork that has a sole purpose of existing for the creator to cash out their stockpile the moment it is listed. 
+1	1522676828	1	> Like, shouldnt the project just focus on building a good project and if they are successful, the exchanges will want to list it cause it brings good volume?They should. But most projects are more concerned with getting listed on exchanges because they don't actually know what they're doing from a technical point.
+1	1522629381	0	+1
+0	1522608357	21	Ya, Kucoin is an absolute joke
+0	1522608182	17	I had stuck ETH in withdrawal, after receiving a response from their support I vowed to never use them again.The response I got was something like "well u make sily mistake.. maybe if he good man he return it"
+0	1522607496	12	Shame to see KuCoin have acted in this way. Although I'm not entirely surprised.
+0	1522624642	14	The exchange has always worked good for me. 
+0	1522605264	19	Kucoin is a shit hole. They need to see this.
+1	1522645292	2	They wont care.
+2	1522662828	2	Eh, them offering the 0.5btc to not publish the article shows they do somewhat care
+3	1522680756	1	Thats like, nothing 
+0	1522617470	7	kucoin was hot for a second but everyone found out they were complete shit way before March 5th. Kucoin is nothing but a shitcoin graveyard. Like Bibox 95% of the volume is bots washtrading and scalping the coins into dust. Just look at the KCS token. It really is Binance/Huobi or bust as far as centralized exchange listings outside of Korea. 
+0	1522626346	9	Kucoin is unbelievable. * KCS bonus and referrals stopped paying out, despite being in the whitepaper as part of the exchange* Horrible and embarrasing use of English* Nonstop listing of shitcoins while KCS bonus went unanswered for months* Kucoin reddit is toxic, any criticism is extreme FUDThey singlehandly destroyed what was once an up and coming promising exchange. It took a lot of talent but they brought themselves down wonderfully. 
+0	1522628878	3	Thanks so much for your effort in writing this. It will help me in some analyses I'm doing. [And call me a cynic, but the first robo-reply ya get from *any* exchange? Pull your funds, and move on!]
+0	1522647990	3	Okay so my 2 cents. Kucoin has been listing a ton of coins lately, some of it doesn't really seem like the best stuff either. They need to be more choosy if they want to be taken more seriously. The lack of contact does suck, but I've seen that a lot of places even when trying to list sadly.I would love to see them improve as we're lacking decent exchanges. I think they're right to be more picky.Also, this has nothing to do with the coin in question. I have no opinion on them in particular. 
+0	1522647444	5	Tried COSS? Very professional.
+0	1522607468	8	I stop using this asshole exchange after they stopped my QLC withdrawal, so they can take all of users fund to dump on binance making quick bucks first, then come out with hack excuses EVEN saying that they need to replenish their hot wallets( which they did buy back after the dump) and then acts like nothing happened. Fucking scumbags asshole. I suggest everyone withdraw all theirs NEP-5 tokens right now
+1	1522621105	3	Someone tried to make a quick buck, got punished and is looking for someone to blame.
+1	1522627685	2	Ha I never thought that KuCoin stopped withdrawals so they could go use those qlc on binance for themselves. Thanks for opening my eyes to this. Shady! You'd NEVER see CZ doing that.
+1	1522617607	-5	[removed]
+2	1522622828	0	Plus there are no custom Wojacks.
+0	1522631155	8	Lmao your coin has only 700 dollars of volume per day and you expect to be listed?
+1	1522671177	3	Seriously, if they think getting listed on kucoin is bad they're going to be in for a surprise when they try any of the other bigger exchanges. Even at a $40,000ish entrance cost plus a huge stake of the coin for kucoin giveaways when listed, that is cheap compared to most places that have a lot of volume. 
+0	1522652977	5	This is a very good reason not to buy this CRED coin. Not because I am taking the side of KuCoin, but because your job is to create a coin of real value, not to pay BTC to get listed. If you have some BTC to spare, spend them to pay developers, not for an easy way to get 'adoption'.
+1	1522657541	2	So you wouldn't buy most coins? I mean, paying for a listing on an exchange is usually the way to go. Exceptions are only coins that get in via community vote.
+2	1522677091	2	Yes, sure, if I want something supported by a company I'd buy some stocks. 
+1	1522690800	1	Sadly that's not what token holders want. Yazin stated quite clearly multiple times in the coins telegram that he was more focused on the tech and building a successful company than short term hype from exchange listings. The problem is people aren't really in it because they believe in the company, they're in it because they want to see short-term profit and move onto the next coin.
+0	1522621794	2	Little did they know that almost 4 months later, they be getting dragged along with a web of broken promises so thick that you’d need a chainsaw to break out of.
+0	1522607270	3	Maybe they are just protecting themselves from a shit coin scam?  They have listed plenty of other coins during that time frame.
+1	1522612771	17	That's why they led them on for ages, collected the necessary pay, did nothing then after a while then tried to further extort more money from them? Yeah, something sure is a scam but Kucoin would need to look at a mirror to see it. 
+1	1522608661	8	You do know that Kucoin had listed Confido right?  Jibrel and SpherePay also being recent listings.
+2	1522621223	3	They refunded investors for Confido though.
+3	1522622415	3	Yes, but Confido was an actual scam coin that was traded on Kucoin.  /r/HipOGear assumes Verify is a scam coin with no research
+2	1522642754	1	[deleted]
+3	1522644489	1	No it’s not
+2	1522612354	-2	So what do you think is the reason you didn't get listed? From watching their twitter I got the feeling they take every coin that wants to be listed. Maybe your coin is just that bad, or you talked to a fake team?
+3	1522613843	4	I’m with you bud. I use kucoin and have never had problems. Telling investors not to use an exchange because they wouldn’t list your coin is immature as hell
+4	1522645616	4	Yes, exactly.  It's sad to see how immature the crypto community has become.  These clueless kids go apeshit crazy if an exchange doesn't list their coin, talking about reporting to the SEC, or telling people not to use that exchange,etc...Heck, if the coin is decent, and the devs understand how to get their coin listed it's not that difficult.
+4	1522617730	0	Kucoin is literal trash
+5	1522618302	4	Any particular reason why? 
+0	1522636109	2	Confused as to why he thinks being listed on an exchange is a partnership? 
+1	1522669920	1	[deleted]
+2	1522669928	2	**Partnership**A partnership is an arrangement where parties, known as partners, agree to cooperate to advance their mutual interests. The partners in a partnership may be individuals, businesses, interest-based organizations, schools, governments or combinations. Organizations may partner to increase the likelihood of each achieving their mission and to amplify their reach. A partnership may result in issuing and holding equity or may be only governed by a contract.***^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/CryptoCurrency/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]^Downvote ^to ^remove ^| ^v0.28
+0	1522649771	1	Thank you for posting this.
+0	1522654584	1	We give these Exchanges Power.. It's time we ALL moved to iDEX.
+0	1522660138	1	I've only had good experiences with kucoin as an exchange platform. Thats bad behaviour towards you guys with the changing fees though, although they probably were very busy and things in crypto do change at the speed of light.
+0	1522661236	1	I actually like using Kucoin despite all the hate here. Its very easy to use, fees are very low. Not too excited about the news though
+0	1522663927	1	Bad news for Credits tokens, which have the highest trade on this exchange
+0	1522666480	1	Not just kucoin, but hitbtc too. Hitbtc will charge bomb to list your token. And then their bots will kill your coin price. If hitbtc is the biggest exchange you are on, your coin price is ruined. Not to mention super shitty hitbtc support 
+0	1522672060	1	Never had any problems with Kucoin and their support was really gast when I needed it..
+0	1522672255	1	As an ordinary buyer, I have never had any problems with kucoin
+0	1522692231	1	People could do whatever they want, and me too. 
+0	1522637326	0	I'm going to play Devil's Advocate here. Has anyone considered that every coin under the sun is applying to get listed on Kucoin? They are a relatively new exchange so I'd imagine their team size is still small. Like all exchanges once they are a certain size they need to be more selective on listings, see Bittrex and Binance for example.I hope Kucoin refunds your 5BTC but crucifying a new exchange dealing with 100s of applicants a day... seems over the top. It seems like the people here have a misconception it's easy to list a coin, it's more effort than you think.
+0	1522622417	1	They be getting dragged along in a web of broken promises so thick that you’d need a chainsaw to break out of.
+0	1522636553	1	Kucoin has always been shit. PRL needs to get out of there asap
+0	1522621854	-2	Let me get things straight:1) KuCoin has a due diligence process prior to listing tokens. The delay can be due to many reasons. First, it may be because the development team has no real history and the coin has no real background nor necessity. If it qualifies as a shitcoin, chances of listing are greatly diminished. Secondly, the team applied for a listing during the bull run, when KuCoin was overwhelmed with insane demand. Since it's an asynchronous exchange, the developers were more focused on keeping their exchange functioning rather than please some no-name developer's listing wishes.2) They gave them a listing price, 5 BTC. They clearly specified that paying the fee would get them into a queue for listing, not an instant listing. There are other coins with much bigger communities and better use cases waiting to get listed there because they applied before them. New rules were implemented and they were nice enough to let them know about it instead of going into radio silence with 5 BTC still missing.Advice to avoid these situations: Start with the smaller exchanges if your coin is unknown and your team still needs to show what they can do before the bigger exchanges trust you.The fact that these developers only cared about the huge exchanges right after their token sale shows me several red flags:1) They were attempted to garner as much volume as possible to pump and dump their own coin.2) They had a clear intention to sell their bags while knowing that listing a fresh new token into a large volume exchange right after the sale would make it a pump and dump fest and very unsafe for the token sale investors.Who's guilty here ?Both parties. KuCoin for struggling to keep up with the demand and changing the rules after accepting payment, and the token developers being greedy clowns.
+1	1522627573	5	> New rules were implemented and they were nice enough to let them know about it instead of going into radio silence with 5 BTC still missing.Dude, read what you wrote here. Do you work for Kucoin? Cause it reads like you do. No crypto exchange deserves this level of apologist rationalization.> Advice to avoid these situations: Start with the smaller exchanges if your coin is unknown and your team still needs to show what they can do before the bigger exchanges trust you.Kucoin is not a large exchange. Go look at their volume. The conspiracy-level nonsense that follows this quote is only further embarrassment.
+2	1522651499	0	So it's conspiracy-like and embarrassing to say that token developers need to wait for their turn to get listed ? That they can't bully their way into an exchange ? Since you didn't bother interpreting my comment properly, i clearly blamed both parties here. KuCoin IS a large exchange by today's standards, considering their growing volume. Even if they weren't, you just confirmed my point that they clearly struggled to keep up with the demand in the last few months. I'm not defending anyone here, but when you apply for listing at that place that's barely keeping up with the market, you're set to have complications, especially if you are not a well known project.
+1	1522627510	2	Kucoin wasn't a huge exchange when they applied and still isn't huge, more medium sized imo. 
+2	1522650755	1	They are not Binance, i give you that.
+1	1522623686	3	I think it's unfair to assume the developers were just trying to get it on a bigger exchange so they can dump their own coins. 
+2	1522654490	1	Well only 90 percent of developers have done that. What gives you hope that these devs are good people. 
+3	1522654604	1	Did not know it was such a high % of developers that did that. Any links for further reading on this?
+2	1522623976	-6	You are right. Didn't want to make it look like they had bad intentions. I just pointed out possible red flags. I still think both parties handled the situation badly. 
+1	1522654381	1	I dunno why your getting down voted. Some people are just stupid. 
+0	1522648221	1	KuCoin is Garbage. 
+0	1522627278	-2	Said team Verify which CHANGED bounty campaign RULES after the end of bounty campaign and CUT huge amount of tokens that was fixed at the BEGINNING for bounty hunters. 
+0	1522631132	0	FWIW, it's the only exchange I could get LOOM. (this is probably why I get downvoted in this sub all the time LOL)
+0	1522638755	-2	New coins are popping up on Kucoin all the time.  This story is what Happens when someone who has no clue tries to get a listing at a Chinese exchange.This is great example of how NOT to go about it.  I'd suggest finding someone with a clue and guanxi to help you for a small fee, or taking the long route and learning how business is done in China, and slowly developing your own guanxi in the Chinese crypto world.
+0	1522643047	-1	I’m ok with it if they are spending time making a better overall ui 
+0	1522619742	-4	Sweet. More fud. 

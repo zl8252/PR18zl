@@ -1,0 +1,9 @@
+File created at: 1522692516
+Subreddit: BitcoinMarkets
+Submission title: Bitcoin - Trading Made Easy
+Submission created utc: 1522677954
+Submission score: 10
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522683490	2	Do you think the violation on the main support line (the one from July) could trigger a sell off?How long can the indecision last (from a TA perspective obviously)?
+0	1522691850	1	I don't know a lot about Stochastic RSI, can someone provide info about it?  This strategy seems to have a very reliable backtest.

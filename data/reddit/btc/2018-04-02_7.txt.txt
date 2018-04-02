@@ -1,0 +1,20 @@
+File created at: 1522692471
+Subreddit: btc
+Submission title: Waves had added Bitcoin Cash gateway
+Submission created utc: 1522672319
+Submission score: 84
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522672499	6	Awesome!
+0	1522683472	5	Waves is the most undervalued platform right now.
+0	1522687567	1	Sadly volume is very low. 
+0	1522678188	1	Waves sounds awesome until you realize their blockchain is a Proof Of Stake system. :(
+1	1522680615	5	Is that bad? 
+1	1522681102	2	Nothing wrong with seeing competing paradigms in action. Even though PoS doesn't have me convinced either
+2	1522682307	2	I'm upvoting you, even though I develop ethereum smart contracts and hope to promote and use proof of stake (in the case of Casper) -- it is a hybrid system, not pure PoS.  I believe it has massive potential if successful but I'm not 100% convinced yet, just hopeful as a developer. 
+3	1522685041	2	I support diversity. If someone(s) manages to make a system that works, hey.... awesome... the more experiments, the better.u/tippr  100 bits
+4	1522685044	1	u/jayAreEee, you've received `0.0001 BCH ($0.067041 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+4	1522685459	1	Whoops. Dropped a zero.u/tippr 900 bits
+4	1522687412	1	Giving you back your tip, thank you sir.  I really, as a developer, want to try to figure all of this out and strive for all of the best solutions on all chains.u/tippr 100 bits
+5	1522687445	1	u/laskdfe, you've received `0.0001 BCH ($0.0669854 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+1	1522681912	1	Maybe for a specialized asset exchange platform, that doesn't aim to be a currency or replace Bitcoin, PoS is a lesser problem

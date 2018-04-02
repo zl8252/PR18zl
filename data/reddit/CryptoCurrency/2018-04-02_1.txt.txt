@@ -1,0 +1,57 @@
+File created at: 1522692486
+Subreddit: CryptoCurrency
+Submission title: Next Brave Browser Will Support Chrome Extensions. Earlier This Month Washington Post, Vice, Guardian and some famous YouTubers started using BAT payments.
+Submission created utc: 1522619606
+Submission score: 466
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522627786	37	This is what I've been waiting for. I love Brave and I've made the transition on mobile, but I work online and I reeeaaalllyyy need some Chrome extensions that currently don't have an alternative in Brave. I feel like this will lead to A LOT of people making the transition as well.
+1	1522659904	2	I agree, personally, I use the Brave browser for a while now but I really missed Chrome extensions, so for the time being I used to browsers. But this development will ensure a 100% transition from my side an could transition a lot of other people to Brave as well. 
+1	1522649466	1	I tried the transition last year but I needed the extensions. This time around I can see myself making the transition for real.
+0	1522622184	22	I own some BAT and like Brave but really wish they were building off of Firefox instead of Chromium.
+1	1522623187	36	Bruh. The CEO of Brave, their browser, is the co founder of mozilla Firefox.
+2	1522625333	33	And yet Brave is build off chromium. 
+3	1522647540	2	And at the moment its significantly more glitchy/incompatible than either of them individually. This has been frankly a huge disappointment due to how slow their development has been. The premise is such a good idea in many respects, the implementation at the moment is terrible. It would also be great if they (or somebody) brought a renewed focus to resource management and how background tabs/resources are handled especially. Its a huge bottleneck for usability. If you have 20 tabs open could you not set a default preference for when a tab or what domains behave live and manual right click settings for each tab specifically? There are some tabs that dont need to be these massive ram/cpu hogs for no reason when i'm not going to need any other content from them than what was originally loaded.
+4	1522672868	4	>The premise is such a good idea in many respectsWhy do we need a new coin for either* Tipping, or* Paying to use AdBlock
+5	1522674953	3	I've been wondering the same. I'm still not entirely convinced advertisers care about views from people looking to make money watching ads.
+6	1522675138	1	That part was already a thing, it's "pay to surf" and ends with an arms race.
+5	1522680157	1	The main reason that i see is to help facilitate anonymous donations. They use a system where all the donations become harder to track so that not even the Brave team can know who donated to who. The other things are raising money and using an existent system. if they made a non-crypto BAT coin that they could produce at will, they would have to make a system for sending it out to people etc. It would have no value except whatever the Brave team could afford to say the BAT coin is worth. With BAT actually being  a crypto, the value comes from what others have donated to the system which in turn has allowed the existance of their UGP(i forget what it stands for) where in they use that money to help pay for spreading out use of the Brave browser(for instance, giving all users some tokens to donate to who they like). I think the above two points are the major ones. I kinda agree that the reasons seem less solid than what i would like. 
+6	1522681784	1	* It's an ERC20 token, so it isn't any more or less anonymous than most blockchain transactions. * If the token exists to fund development, then what's stopping people from free riding? That is, let Brave do all the work, and then implement it with a more popular coin (maybe ETH itself).
+7	1522682828	2	In terms of anonymity, my understanding is to be more anonymous than traditional forms of payment, bank transfer etc. not compared to Crypto. But you are correct otherwise. When you say people, do you mean another development team? I suppose that is possible, but depending on the team, may not have a large following. Brave is like Bitcoin to Crypto in that the Brave browser is the first to implement the idea and has a bit of an advantage because of that. i am certain new browsers similar to Brave will sprout up if Brave becomes popular. In general, this could kill Brave if users switch to these other browsers. One thing that also goes against these hypothetical new browsers is that many people using Brave will see them as copying and will be resistant to using it. So these new browser would need to attract a lot of attention from those people that don't know of Brave, and offer more than what Brave offers, enough to convert Brave users.  
+8	1522684077	2	>many people using Brave will see them as copying and will be resistant to using it. So these new browser would need to attract a lot of attention from those people that don't know of Brave, and offer more than what Brave offers, enough to convert Brave users.  Why would they resist using a different browser this time? Copying is a big part of open source and not a bad thing. If it was exactly the same except all funds went exclusively to the donation recipients, then it would be more cost-effective.Do you understand what I mean by free riders?
+9	1522686069	1	People having negative views on copying, whether its ultimately good or not, makes people resistant to switching. In addition, people with BAT have more incentive for Brave to take off. I agree though, that more competition is better for us as users. To my understanding, all the payments do go straight to the publisher. Brave will make money from 3rd party Ads sent to users. no i don't know what you mean by free riders. 
+4	1522691143	1	Glitchy? It's still a beta.Slow to develop? It took Google over four years to release chrome. The Brave company is barely half that old. 
+2	1522625483	14	and Javascript. The Mozilla CEO that got fired for his political views.
+3	1522654362	3	So what's stopping this from happening again? A lot of left leaning sites will happily boycott and encourage their users not to use the browser if they knew the CEO has such a strong stance on same sex marriage. 
+3	1522626449	5	Oh shit really? What’s the story there?
+4	1522626803	10	https://en.wikipedia.org/wiki/Brendan_Eich#MozillaRead the section on Mozilla. I am not taking a stance.Edit:I'm a BAT holder.
+5	1522645179	14	Fucking petty SJW's.
+5	1522654076	3	Yikes. Didn't know he's against same sex marriage enough to make a big donation. That's troubling to be honest. 
+6	1522660701	8	It's not troubling if you judge a technical person based on their competences instead of on their views.
+7	1522685527	1	Maybe not to his technical competence but definitely to his competence in leadership positions.
+5	1522627028	-2	What a dope. Messing up a CEO gig for petty views.
+6	1522627780	14	Yes, better watch out that people don't find something you did 6 years before so they can get you to leave your gig too, eh.
+7	1522628083	-1	[deleted]
+8	1522629047	4	He made no controversial comments, besides that he didn't apologize to the satisfaction of people on the internet when his 6 year old $1000 political donation suddenly became newsworthy. At a time when a number of interested parties didn't want him to continue being the new CEO of Mozilla.
+9	1522629418	-2	[deleted]
+6	1522653905	-8	You’re a moron. An absolute moron. I’m not even going to bother explaining why either, because comprehension just isn’t your thing. 
+3	1522672551	2	The Mozilla Board of directors also believe he lacked experience.
+3	1522674829	1	He resigned.
+1	1522627522	2	Chrome has miles higher usage rates though so it's the right choice, for now at least. 
+1	1522688928	1	I believe they are building off of Chromium to leverage Chrome extensions.
+0	1522626926	10	> Earlier This Month Washington PostThen why hasn't the post made any statements about this? The only source is cryptocurrency websites.
+0	1522642891	6	Lower end machines still struggle with the BAT browser and I've had a few crashes myself. Firefox is the best browser right now for low end machines.
+0	1522639386	4	I'm a daily Brave user and the ONLY thing putting me off is chrome extensions.Extremely happy about it. Well done Brave team
+0	1522643060	3	Anybody got a quick rundown of the benefits of brave over a traditional browser?
+1	1522660412	2	Blocks all ads and trackers out of the box. You can also donate BAT to certain publishers if you enjoy their content proportional to the amount of time you spend on their site. The end goal is that publishers will pay to have their ads viewable on the Brave browser and you, the user, will receive BAT in return for viewing these ads. So this receiving and giving BAT will sort of even out. 
+2	1522672331	5	So then its not really No Ads is it?
+3	1522680999	2	Its opt in Ads that Brave will allow. If you dont want Ads, then you don't get Ads. If you feel comfortable recieving Ads aimed at you, and getting paid for it, then you can view them. Note: nobody knows how much we'll actually be getting since the Brave Ads havent been implemented.  
+1	1522655759	2	No ads, no trackers, because of that it should be faster. As easy to use as any other browser. Isn’t that enough?
+0	1522654312	3	[One of the reasons I have been using Brave browser since the very start on mobile.](https://imgur.com/a/z2UDE)
+1	1522671444	3	I love when I get to *invest* in a product I'll happily pay to purchase. 
+0	1522652123	1	Vimium is the one thing stopping me using Brave full time 
+0	1522685860	1	the only reason I don't use Brave now is that I'm tied to my Evernote, Honey and Pushbullet plugins.
+0	1522670282	1	this could be the start of ungoogling web. i wish these guys worked off a open web foundation or something bring ipfs and other decentralised tech mainstream
+0	1522655617	0	Thai people will soon buy all BAT as they think it’s the digital equivalent to their national currency the Baht. 
+0	1522633038	0	Yeeeeeeee
+0	1522666133	0	I just want in-browser-built mouse gestures. Rather not install Chrome extensions that have access to every web page you visit.

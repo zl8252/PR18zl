@@ -1,0 +1,38 @@
+File created at: 1522692498
+Subreddit: CryptoCurrency
+Submission title: OmiseGO ahead of development on Plasma, forking 1:1 on cosmos network to allow staking in Q2!
+Submission created utc: 1522615452
+Submission score: 178
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522631362	24	Shhhhh. I'm trying to buy cheap coins over here. 
+1	1522656832	1	Be quick buddy
+0	1522622489	8	The idea of a soft spoon would be to create two competing branches of a protocol within the same blockchain
+0	1522619581	5	Is there anything i have to do with my OMG Coins? There‘re at the moment on Bittrex. Cheers 
+1	1522649225	9	Put them in a wallet
+2	1522669625	2	Will any wallet work?
+3	1522674878	2	If you aren't trading get them off the exchange. Exodus has a nice, easy to use desktop wallet which is much better than an exchange.  https://www.youtube.com/watch?v=imC38KjMTbY  This video covers the wallet and its features quite nicely.
+0	1522637467	4	Eli5?
+1	1522658463	4	Staking goes live in Q2, you receive a free token 1:1 with the amount of OMG you have in order to earn passive income from transaction fees.
+2	1522681503	1	Ok so this will be run on a blockchain other than ethereum but the OMG token will also be used for other purposes on ethereum. 
+3	1522681834	1	In the end there will be 2 competing chains, both can be used to stake. This is ultimately very, very good news for OMG. 
+4	1522682631	0	Seems silly to think they will compete... cosmos is an improvement. Bad for ethereum. It will probably go something like OMG pumps before fork then dumps afterwards. Also, it seems like OMG is basically ripping of Ethereum (stealing plasma idea), then abandoning Ethereum blockchain and creating their own. Then being nice guys by saying they will remain using Ethereum but not really. 
+2	1522658631	-1	That’s not what the article says.... 
+3	1522659214	5	Eh, yes it does. The token is going to fork, all holders in an ethereum wallet receive this token. The honte version of the network will go live in Q2. You stake those tokens in order to receive transaction fees. Then further down the line when plasma goes live you use your original OMG tokens to stake on that network. However, this may take some time. So basically yes, this is what the article says
+4	1522673700	1	Do we know about the economics of OMG staking yes, i.e. will there be a minimum amount for staking, what's the ROI, etc?
+4	1522675657	0	Where does it say Q2? 
+5	1522680281	1	Its in the roadmap, which they have nailed every milestone so far.
+6	1522681367	0	It literally says in the article that they are delaying staking.... 
+7	1522681670	1	Please ffs read the article. Staking on honte will soon commence, they are ahead on development on Plasma so they will no focus on getting a working product out asap for the world to see. Then when everything is functional and it's rolled out completely they move over the plasma chain after which staking will be possible. 
+8	1522681880	0	Again, nowhere does it say Q2
+9	1522682250	1	Again, its in the roadmap. Again, read the article. Again, it literally says the staking contracts are already working. 
+0	1522652528	4	More speculation!
+0	1522676733	1	https://i.imgur.com/k8NvO55.jpg
+0	1522677999	1	Will leaving in binance account work? 
+1	1522680313	2	no one knows yet
+0	1522639384	0	Bearish 
+0	1522675505	1	Does anyone else feel that this basically kills OMG’s chances of getting on Coinbase? The staking/passive income should certainly qualify OMG as a securities asset, which Coinbase stated they will not support, and the forking into another network complicates matters if Coinbase is performing only an ERC20 implementation. And they are diehard ERC20 fans after all. Any opinions on this?
+1	1522680650	1	I don't believe staking will have anything to do with it being considered a security. I expect OMG is a security already, as we are investing and expecting profits from the work of a company, Omise. 
+1	1522687848	1	As validators will be required to do work to secure the profit you could argue it's not a security, not sure how staking pools would get on though.
+0	1522628531	-27	Ethereum is in alot of trouble I'm not suprised
+1	1522639073	19	Lol, no its not. Based on what, price? Haha. Man.. this place.. Plasma, at least for the next 2 years will be a game changer and OMG is benefiting from how well its moving along, literally the opposite.

@@ -1,0 +1,51 @@
+File created at: 1522692469
+Subreddit: btc
+Submission title: Let's remember why we're here!
+Submission created utc: 1522619976
+Submission score: 121
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522629135	17	Great post! /u/chaintip 
+1	1522629428	8	Thanks! And chaintip is great!
+2	1522629735	9	Yes, and we have 3 tipping bots for BCH :) tippr, chaintip and bchtips ! Ultra fast with 0-conf
+1	1522629192	2	***u/writingabout, you've [been sent](https://explorer.bitcoin.com/bch/address/bitcoincash:qrelay2cqzpa59nj0yh87mxcvczj58269vuwyztsrs) `0.00015574 BCH`| `~   0.10 USD` by u/BitcoinXiovia [chaintip](http://www.chaintip.org).***
+0	1522629568	8	Happy Easter to you too ! My favorite : Near-instant secure transaction verification for small purchases. (0-conf)u/chaintip
+1	1522629723	4	Near-instant indeed, it's already there thx to chaintip! Thanks!
+1	1522629648	3	***u/writingabout, you've [been sent](https://explorer.bitcoin.com/bch/address/bitcoincash:qrelay2jcg03sklmy30wkja0ur545s0ydv7huwyk2v) `0.00077869 BCH`| `~   0.51 USD` by u/CityBusDriverBitcoinvia [chaintip](http://www.chaintip.org).***
+0	1522630592	9	Those aren't the only reasons, if people knew the [history](https://np.reddit.com/r/BitcoinMarkets/comments/6rxw7k/z/dl8v4lp) or learned more about it they'd jump on board like I did without any hesitation, get involved in adoption and get on http://yours.org and you can make some BCH. The community is back like when Bitcoin began. Happy Easter!The history of /r/Bitcoin, /r/BTC, Bitcoin & Bitcoin Cash                  https://np.reddit.com/r/BitcoinMarkets/comments/6rxw7k/z/dl8v4lp                 A collection of evidence               https://np.reddit.com/r/btc/comments/7qfw2b/a_collection_of_evidence_regarding_bitcoins/                 TL;DR https://www.reddit.com/r/btc/comments/85durg/a_very_tldr_version_of_the_bitcoin_cash_story/             STL;DR :            **Bitcoin** has been a **Cash** System from the very beginning.         "**Bitcoin** - A Peer-To-Peer Electronic **Cash** System"           
+1	1522633181	4	True! Is this history archived anywhere off Reddit too? Just curious.
+0	1522656715	2	Let’s try this again u/chaintip
+1	1522656792	1	***u/writingabout, you've [been sent](https://explorer.bitcoin.com/bch/address/bitcoincash:qrelay2j3hfvvwurlas9mcf704vlejzn8vqt3aqn4k) `0.0006 BCH`| `~   0.41 USD` by u/BenIntrepidvia [chaintip](http://www.chaintip.org).***
+1	1522689395	1	Thanks!
+0	1522684990	2	Great post! THanks!
+0	1522635556	5	People **just don't get** that Bitcoin is the same Bitcoin that was around long before the 2017 fork... It literally was and is Bitcoin, and on August 1st it **continued to be** the Bitcoin closest to the original whitepaper. The only reason it has a 'Cash' suffix now is intentionally so we don't confuse chains. *Don't cross chains bro!!*
+1	1522691543	1	Yep, I just replied to someone else in the comments about that here: https://www.reddit.com/r/btc/comments/88udzy/lets_remember_why_were_here/dwonzi7/
+0	1522659498	2	Great summary my man
+0	1522656733	3	While we're at a sticky, shouldn't there be a weekly Q&A thread?
+1	1522675197	2	You can start that habit, just create the thread and try to answer questions. I'm sure other will help answering questions too.
+0	1522666072	1	I'm all for BCH, but...You start with #1, highly supportive community, and follow it immediately with a comment that divides the community.Quit trying to "sell people" on this notion that BCH is Bitcoin.  There are Far too many arguments as to why it is *not* Bitcoin so you come across as a snake oil salesmen.   You shouldn't need to sell it.
+1	1522689584	1	Not sure what you're trying to get at here. It's **not** the early developers that divided the community, and the community here is very happy and continuing with Bitcoin. And there is no selling necessary, as others in these comments explained a lot better than I could: https://www.reddit.com/r/btc/comments/88udzy/lets_remember_why_were_here/dwnn7hv/ - If only the **quantity** of arguments was an indicator of their truth as opposed to quality https://en.wikipedia.org/wiki/Cognitive_dissonance
+2	1522689588	1	**Cognitive dissonance**In the field of psychology, cognitive dissonance is the mental discomfort (psychological stress) experienced by a person who simultaneously holds two or more contradictory beliefs, ideas, or values. The occurrence of cognitive dissonance is a consequence of a person performing an action that contradicts personal beliefs, ideals, and values; and also occurs when confronted with new information that contradicts said beliefs, ideals, and values.In A Theory of Cognitive Dissonance (1957), Leon Festinger proposed that human beings strive for internal psychological consistency in order to mentally function in the real world. A person who experiences internal inconsistency tends to become psychologically uncomfortable, and is motivated to reduce the cognitive dissonance.***^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/btc/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]^Downvote ^to ^remove ^| ^v0.28
+0	1522632496	1	I just got banned from r/bitcoin for "precrime against the core". Wtf does that even mean?
+1	1522641843	5	It is probably their (not funny) April fools joke. You are not really banned. 
+2	1522646268	2	Derp...
+0	1522652401	-1	"Hundreds of thousands of Merchants are switching to Bitcoin Cash easily."lmfao
+1	1522689757	1	It was linked in the list, guess you didn't bother to read: https://www.reddit.com/r/btc/comments/83av1m/100000_merchants_start_accepting_bitcoin_cash/?utm_source=reddit&utm_medium=usertext&utm_name=btc&utm_content=t3_83h4o7
+1	1522665656	0	Not sure why you are lyfao, item 4 is consistent with what I am seeing on the ground. And, the *only* crypto these local merchants accept is Bitcoin Cash. They have [strong](https://www.reddit.com/r/btc/comments/861i4e/no_way_spotted_in_north_queensland_today_core/) well organized merchant [organizations](https://www.reddit.com/r/btc/comments/7uhy0o/bitcoin_cash_lifes_a_bch/) too.
+2	1522666936	0	> item 4 is consistent with what I am seeing on the ground.Can you substantiate that claim? Or do we just have to take your word for it?
+3	1522671115	1	Given my local population (150k), here is the couple of my purchases on the ground you're looking for:This is coffee and cake (de1964aa830c715673397839e5a31700f725c061e4b7dd8819fd70e08540785a).This is drinks with friends (efa703a506b55ee0c36cd55f68c81008c9fcf78656a5b518c6e8591d62845946).
+4	1522684903	2	Your claim is “Hundreds of thousands of Merchants are switching”. Then you proceed to substantiate this claim with two transactions, for:> coffee and cakeand> drinks with friendsPerhaps I am missing something, but how are two transactions supposed to illustrate that hundreds of thousands merchants are switching to BCH?This way, your claim loses all credibility and you seem like a pumper.
+0	1522680519	0	I once thought the NYA (after the Hongong A) would end the years of stagnation in Bitcoin, but Block(the)stream wants to keep 1MB blocks and the Bitcoin brand at any price, so they forked off !
+1	1522684792	-1	> so they forked offReal bitcoin was forked with a soft fork right?  Bc(as)h got forked (and fucked) hard.
+2	1522691447	1	People should learn about forks but also how they are different when it comes to Blockchain. Soft-fork is really a fancy term for software updates which happens all the time, so it is silly to keep using this term as if it is comparable to a hard-fork. A hard-fork is a permanent split in both code and developer base. Before a hard-fork happens with "the real" Bitcoin there is an original shared history, that is the shared history up until August 1st complete with all the prior software updates until that date. After a hard-fork happens (which it did because there was a disagreement) both new projects both previously called Bitcoin are now not compatible with each other, forever. There is no "I forked and you didn't"... if a hard-fork happens there becomes two new separate chains and software each with their own trajectories, yet both of them share the same Bitcoin history. They were both Bitcoin for all the years prior until August 1st, 2017.The thing about both soft-forks and hard-forks is that they can lead to more proprietary systems (Like macOS derived from proprietary NeXTSTEP + open-source FreeBSD), and that's kind of what the latest **core** soft-fork does, by moving to SegWit and preparing for proprietary off-chain "scaling" (lightning/liquid) money-grabs, at this point the software is so different that in order to remain honest a name-change (probably to Lightning at this point) will be required. 
+0	1522620204	-24	Reasons everybody else hates r/btc:1. Whiny overly vigilant defensive contrarian sheeple
+1	1522650964	5	Projecting much?Everyone hates censorship.  Bitcoiners are supposed to be against centralised power like Blockstream.  Whiny?  Its not even promotional, just a list of facts.  Vigilant like Core advocates parrot talking points to defend the illegitimate? Not quite.Rounding up new sheep is going to be harder after this bubble has bottomed out.
+1	1522621894	8	You brainwashed little sheeple
+0	1522622766	-14	/u/tothemoonguy sold his account and signed an NDA.
+1	1522623008	21	(°.°)
+2	1522623383	-6	😉
+3	1522623522	17	How did you find out?We bought up this account when we bought out all the /r/bitcoin mod accounts. (°◡°)
+4	1522633348	5	Lmao!... :O He speaks!
+5	1522638727	9	(°.°)
+1	1522622790	14	Redditor Spartacus_Nakamoto has low karma in this subreddit.
+2	1522632609	7	Good bot. 

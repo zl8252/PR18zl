@@ -1,0 +1,58 @@
+File created at: 1522692466
+Subreddit: btc
+Submission title: Cryptokid Games removes bch support.
+Submission created utc: 1522619399
+Submission score: 243
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522623650	69	Can confirm. Just purchased “Lost Cities” from you with BCH - what a pain! First I had to select bitpay as an option, then I had to tap “open in wallet”, then I had to swipe right, then I was just done! The whole process was far to stream lined and easy. Not to mention the fees were WAY too cheap! Less than a penny?!? No way, not for me. 
+1	1522624598	49	Ugh. Now I have to put a game in a box and go to the post office tomorrow morning. This is a nightmare. Why did you do this to me? ^^^<3
+2	1522627661	17	100 bits u/tippr to cover this mans caloric needs until he can get out of this low fee, uncensored slavery.
+3	1522627988	10	Heh, is this is a fat joke? Feels like a fat joke. I was just unreasonably disappointed that I can't get a burrito delivered on Easter, so you're probably right. 
+4	1522629973	11	Not a fat joke! Just to help you have enough calories to cover your walk to the post.
+5	1522635547	6	A malnutrition joke. I like.
+6	1522638659	7	Lol. I didn’t intend it that way but I see it now. It will be worth many more calories in the future :)
+3	1522627685	5	u/hiver, you've received `0.0001 BCH ($0.0644458 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+1	1522636808	5	$0.10 u/tippr
+2	1522636865	3	u/bobymicjohn, you've received `0.00015227 BCH ($0.1 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+2	1522637134	2	Thanks!
+0	1522620548	40	We completely understand your decision and can count on our support to help you in the transition to the lighting network.As a token of support we also offer to setup and monitor your watchtowers to absolutely 101% ensure your experience will be better compared to BCH.
+1	1522623992	19	Of course monitoring those watchtowers and making sure this service stays honest. We will also be charging a small fee for this special service.  We have not decided on a name yet, but we have been thinking "Prison Guards"  or "Guy with the Rifle That Will Shoot You If You If You Criticize Lightning." A friend of mine said he doesn't think I'm honest enough and plans on starting another service to 'watch the watchers' watcher. He is really lazy tho so he probably wont trust him to keep his software/HW up to date so you may want to higher another service that will exist in 18 months.Great work TY for this.OP and comment ;-)
+2	1522652769	2	Thinking of a smart contract that can do that. On Bch prolly.
+0	1522623096	16	If you wait 18 months, BCH may have segwit, LN, Watchtowers, drive chains, rear wheel drive and all kinds of cool things that are not part of Bitcoin. Don't be hasty!
+1	1522631505	7	Can we just drop blockchain, please? Are we really need it with LN?
+0	1522623707	11	Ho ho ho ho$3.1337 /u/tippr
+1	1522624828	6	Mmm, I'ma put this toward my own copy of Clank In Space. Thanks so much! 
+1	1522623725	2	u/hiver, you've received `0.00486289 BCH ($3.1337 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1522627924	8	I had not seen your shop. Looks great. Are you thinking about global shipping some time in the future?
+1	1522630505	11	Thanks! International shipping. Sure, I can talk about that. You got a minute? I think my second biggest market would be Canada. Canada shipping is probably something I could figure out; but I doubt it'd be free. (If any of my hockey loving breathren want a game PM me and we'll work it out). After that would be the EU. I'm pretty sure the site is currently something that'd get me fined there, since I don't warn about cookies. Add figuring out how to deal with VAT on top of that and it's a bit of a hurdle for me. I recall Germany having rules about the content of games; particularly those that include reference to a certain political party that is frequently used as a villain. I can't promise that my products have FIGS translations, which I've heard is a regulatory issue in some countries, above also being a terrible user experience. That's another problem. I hear about regulations that may or may not exist, and I have no easy way of figuring out what might be true. I'm a one man shop with no ability to hire a lawyer versed in EU regulations. It's almost as if the EU wants to discourage foreign businesses from entering their territory. (TLDR: I know when I'm not welcome. The EU doesn't want US companies there right now, and I'm not in a position to bully my way in.) Australia and New Zealand I could probably do, but again it wouldn't be cheap. TBH I haven't looked too closely at it; if I hear enough demand from those people I'll take a look at what it'd actually entail.A lot of the prices I pay for games come from the shipping from China to the US; I'm willing to wager enough 'defective' product has made it out of the factory to satiate that market for English language games. There's also a growing counterfeit market that's spilling over into North America these days. I hate to be presumptuous, but... it's probably coming from China. So it's in my interest to distance myself from that scene in general.I sent a package to Brazil once. After being held in customs for a month the recipient got about half the items I sent. This has put me off of shipping to South America in general.Finally, some games are published by different companies internationally, like books and movies. If my distributor or an offended publisher catches wind of me sending games across an ocean without authorization I'm likely to lose my ability to do business. I'd have to jump through quite a few hoops to secure my supply. 
+2	1522630993	6	It sounds like you are already aware of many of the issue you have to deal with. Distribution restrictions are artificial and high-friction constructs. I wish I could help you but I don't think I can. This post you made sounds like a great starting point for a discussion topic - maybe make a new post and you can get some advice?
+2	1522670927	2	I shipped a copy of Gloomhaven to Argentina a few weeks ago.  After the guy paid customs on it he told Amazon he didn't receive it, of course they refunded him.  All of my international problems have come from South America and Mexico.  I'm going to stop shipping there except for Chile.  I haven't had problems shipping anywhere else.  Selling board games for BCH seems like a good way to make sure you get scammed less while still allowing you to help customers with genuine issues.
+3	1522675786	1	Ugh, that's brutal. I just sold my last two copies of gloomhaven over the weekend. They were PayPal orders, I'm super nervous about them. Chargebacks on that title will be a pretty big setback.
+0	1522628867	5	This is really our fault, for making the token more useful and supporting adoption.
+0	1522630318	7	CryptoKid Games is an excellent place to #spedNreplace BCH for board game entertainment. Thank you for providing a great service!u/tippr 128 bits
+1	1522630325	4	u/hiver, you've received `0.000128 BCH ($0.084290688 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1522630450	7	$2 /u/tippr lol
+1	1522633199	5	Hey, thanks duder! If this keeps up I'll be playing a new game in no time. <3
+1	1522630504	3	u/hiver, you've received `0.00301275 BCH ($2 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1522645916	7	You probably should’ve ended this post with a /s. Some people might actually take you seriously. 
+1	1522648525	4	I absolutely did. Until I started reading through the comments, I was like “well, sheeeiiit.”
+2	1522686448	2	lol
+0	1522658179	6	First good April Fools I've seen.1000 bits u/tippr
+1	1522658224	1	u/hiver, you've received `0.001 BCH ($0.677232 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1522631992	5	This was a really funny post.  Get Tokaido so I can buy something from you!!
+1	1522633117	4	Ya'know, this is another game that I've seen everywhere that my distributor just doesn't have. I'm going to spend some time this week trying to get signed up with a second distributor anyway. That process can take several weeks. Would you like a PM if I can get it for you?
+2	1522651140	2	That would be amazing.  I completely understand if you're too busy though, I'll check back in a week or two regardless.Good luck with sales!  I just got obsessed with board games recently, I'm jealous you're getting to do business in them.
+3	1522677018	1	I've made a note in my ledger, I'll let you know when I know.
+0	1522651958	2	Yes can conform it.
+0	1522652649	1	LOL
+0	1522661517	1	$2 /u/tipprLol 🤣
+0	1522670364	1	r/circlejerk
+0	1522671328	1	PSSST bch doesn't have LN. Cheers buddy.
+0	1522631591	-6	Hell yeah, bcash is trash. LN FTWDude, the mempool is fuckin empty right now, connect to my lightning node and we could be like buddies on LN.
+0	1522658394	-6	That escalated quickly. bcash died too fast
+1	1522669263	2	april fools :)
+2	1522670067	-4	Its Real situation is not much different though
+0	1522627697	-17	Lol it has nothing to do with BCH losing 85 percent of it's value?It's less than 0.1 BTC
+1	1522638130	11	I do sell games for BTC. I haven't seen an order come through with that payment option. Targeting that demographic with my jokeyjokes doesn't seem productive when the people here actually seem interested in spending money. If you want to put an order in I'm sure I can come up with some goofs for /r/bitcoin. 
+1	1522654598	-2	Pwned

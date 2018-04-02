@@ -1,0 +1,17 @@
+File created at: 1522692473
+Subreddit: btc
+Submission title: Trezor to Implement Bitcoin Cash Addresses
+Submission created utc: 1522659480
+Submission score: 66
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522666390	7	> Trezor, as soon as two weeks ago, responded to long time Reddit user **u/normal_rc** on the popular bitcoin cash forum, r/btc, about how the company was just outright refusing to add the address change.Wow, I'm famous! LOL
+1	1522674918	3	I think it's funny how the Trezor devs whined at the hard fork that BCH didn't have a different address format but when it got that upgrade they refused to implement it. Really shows how biased they have been.
+2	1522677204	2	There is a big difference between implementing an address change before deployment and on-the-run. So I don't think that this is necessarily a sign of bias.
+1	1522669910	2	hahaha. =)
+0	1522682148	-1	Cashaddr is a travesty. BCH is supposed to be the "real Bitcoin", but Base58 is clearly the address format of the real Bitcoin. The people who are behind Cashaddr should be ashamed of themselves. People that care about the long term survivability of BCH should resist cashaddr as much as possible.I have uninstalled the bitcoin.com wallet and moved everything to Jaxx because they don't (and hopefully never will) support cashaddr.
+1	1522687217	1	Other than, >Because its the real BitcoinWhat's wrong with Cashaddr? It works great, makes using BCH less confusing for new comers and because of that is simply more secure. Am I missing something here? Other than your opinion I mean. 
+2	1522690937	3	> less confusing for new comersThis has never been proven. If anything, Cashaddr makes it more confusing for newbies because there are two different address formats in use. Someone using the Jaxx wallet (which is one of the most popular wallets) can't read a cashaddr address. Merchants who present cashaddr addresses to customers will have more failed payments as compared to them showing base58 addresses to customers. Currently 100?% of all BCH wallets on the market support base58. Base58 is what everyone should be going with.
+0	1522668567	0	Though, how is "Cashaddr support is in standard development process and it’ll be ready when done" an outright refusal to implement cashaddr?
+1	1522670095	1	Reddit is full of drama queens...
+1	1522684630	1	I would like to know that too.I remember [this one](https://github.com/Bitcoin-ABC/bitcoin-abc/issues/35):> prusnak What is the status of this? Tomorrow we are releasing a new firmware for TREZOR with Bitcoin Cash support and we are NOT going to change the address version later. Do you want to change the format or not? I suggest you do it now or never.But that was 2 days before the fork, not two weeks ago and not on /r/btc .

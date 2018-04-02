@@ -1,0 +1,49 @@
+File created at: 1522692467
+Subreddit: btc
+Submission title: OpenBazaar cofounder on Lightning - It seems unrealistic to expect content creators to install and run a full node + c-lightning + Lightning Charge + Filebazaar themselves and on a home computer.
+Submission created utc: 1522635479
+Submission score: 167
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522674522	9	That’s because Lightning is not intended for regular users. It’s  intended for banks and large corporations. They don’t want you to know this.
+0	1522635491	5	^The linked tweet was tweeted by [@SamuelPatt](https://twitter.com/SamuelPatt) on Apr 01, 2018 16:58:40 UTC (1 Retweets | 7 Favorites)-------------------------------------------------It seems unrealistic to expect content creators to install and run a full node + c-lightning + Lightning Charge + Filebazaar themselves and on a home computer.But running it in the cloud is less secure and more expensive.Is the goal having cheap dedicated hardware for LApps?-------------------------------------------------^^• Beep boop I'm a bot • Find out more about me at /r/tweettranscriberbot/ •
+0	1522635596	23	Bcore thugs don't care. They are all about pushing their agenda.
+0	1522671970	8	OpenBazaar deal with reals peoples using real transactions and they know what will and will not work. When it's too complicated, people use an alternative.
+0	1522656950	13	Core turned BTC into an altcoin.
+1	1522676659	2	Yes. An appcoin for micropyaments. 
+0	1522638911	13	Now BCore Soyboys gonna boycott OpenBazaar....
+1	1522667790	9	Can't boycott something you never used or were going to use anyway
+1	1522661565	9	As I keep saying, how do they boycott if all they do is hodl?
+2	1522662660	3	That's exactly how they boycott
+2	1522679691	2	They boycott everything by default.
+1	1522679729	1	What is a soyboy?
+2	1522680315	3	It's a term 4chan hyper-autists use to describe any guy who has the mental fortitude to be interested in anything other than people's fawning perception of his own masculinity.AKA: being a "Chad"One of their more pathetic memes considering large swathes of them would fall into the soyboy category, probably with a heavy dose of Sminem thrown into the mix.
+0	1522663933	4	Let's not forget you can't get any funds if you don't already have bitcoin in the first place. 
+0	1522652713	3	true
+0	1522669578	2	In the same thread, Sam also said he has "no question" about the future success of Lightning:*@SamuelPatt: I have no question that the problems will be worked out and that these LApps (and others) will become usable and be used.*
+1	1522684827	0	Conveniently ignored...
+0	1522659887	-1	for BCH -  only 3000 TPS you need 1 GB blocksize.In one year total blockchain size will up by 52 TerabytesTo run full node i need to buy 5 x 10 TB of HDD every year (5 x 300 usd)so for funny 3000 TPS 
+1	1522668152	10	>  To run full node i need to buy 5 x 10 TB of HDD every year (5 x 300 usd)Not correct. U're ignoring multiple things: lack of demand for 3k TPS **on average** likely for years to come, deflation of storage cost, progress in sharding (ex, decentralized storage of ledger through BitTorrent-like protocol. If u're posing the question as BTC vs BCH, are u aware that LN whitepaper specifies 133 MB blocks for it to work on scale?Full node is a mining (voting) node btw
+2	1522668991	8	The biggest thing he’s ignoring is that pruning makes storage requirements negligible regardless of Bitcoins transaction capacity. 
+3	1522670053	3	Is pruning being worked on by any cryptocurrency right now? As a guy with bad internet and limited storage, I was told around 3-4 years ago that pruning was the way to go, but I haven't heard anything about it since, only theories, that it would be so easy to create light wallets with only your own transaction data.
+4	1522670122	3	It’s around. It’s not very user friendly to activate but you can run a Bitcoin node with pruning and set Blockchain storage to max out at 550 MB. 
+4	1522673847	3	Pruning works perfectly fine on both BTC and BCH.  I have a full node on my server and a pruned nodes on my laptop.   Works out just fine.
+1	1522666121	2	I could only hope we achieve that many transactions per second. Fun fact, in the 1980 a gig would have run you 400K+, today, less than 1C.
+1	1522663901	9	But you don't run a node if you're not mining. Only miners run nodes.
+2	1522668938	-3	> Only miners run nodes.In a world where 90% of mining has centralised into the hands of maybe a dozen people, that’s not healthy. If you’re willing to trust a small number of people to secure your financial network, just use the existing banking system.
+3	1522670626	4	That’s how bitcoin works, sorry. It’s free enterprise, if people don’t like it start their own mining farm. Miners are the only ones that need to be trusted, they secure the network.And of course there are many more benefits compared to banks than just network security. 
+4	1522671325	0	I’m not knocking the idea of free enterprise miners. I’m not suggesting a proof of work change. I’m saying that if mining is going to be that centralised then commercial users should want to run their own nodes and should not be trusting zero-conf transactions. Otherwise they are completely relying on the small number of powerful miners to never screw them over.
+5	1522672471	1	Yes commercial users could run their own node if they do enough volume, you didn’t specify commercial in your post
+6	1522673631	2	The person I was replying to said:> But you don't run a node if you're not mining. Only miners run nodes.This is a terrible attitude. But there has been so much recent marketing to try and combat LN, that people are buying this idea that a network consisting of a dozen miners and infinite SPV wallets will be fine.I can see how the reply I wrote could have been interpreted as advocating for user nodes being important. But that’s not what I meant or what I think. I do however think that there are still limitations on what we should expect a commercial user to invest in running a node. If it’s going to cost a business $10k a year to start accepting BCH payments, the market will be pretty small.
+3	1522674064	2	Blockstream concern trolling points from 3 years ago. We have moved on.Industry will grow and diversify as time goes by.Those dozen people are mainly backed by thousands of individual miners with the expection of companies like Bitfury which are part of the blockstream/axa cabal. 
+4	1522677061	1	> Those dozen people are mainly backed by thousands of individual miners This is utter rubbish, hobby miners haven’t controlled a significant amount of hashrate for years.And the fact that you’re calling out AXA/Blockstream/Illuminati funded Bitfury, while apparently pretending that Bitmain doesn’t exist, shows just how eye-rollingly biased your comment is.
+1	1522676068	1	Only unoptimized coins (like btc) will require nodes to store the historical chain. Ancient tech, bch is removing that requirement this year with utxo commitments. 
+0	1522653215	1	 Noone will touch Ludicrous Netloss.
+0	1522677709	-1	Most people will be perfectly happy trusting a third party node, so that won't really be an issue.LN itself and the services/helpers built on top of it will be streamlined as the platform matures, so I doubt they'll be stumbling blocks for long.
+0	1522670092	-7	With OpenBazaar you need to be all the time online. Any Problem with that?
+1	1522671931	2	They actually want to remove that requirement with IPFS.
+2	1522681790	3	It's already removed. You don't need to be online to make sales.
+2	1522687238	3	Already done. 2.0 launched with IPFS last fall.
+1	1522670114	3	Redditor /u/uglymelt has low karma in this subreddit.
+1	1522687221	2	> With OpenBazaar you need to be all the time online.That hasn't been true since the 2.0 launched last year.
+0	1522664309	-6	This why we need something like Urbit, a personal cloud computer, at the bottom of the stack. All those modules should easily plug into it.

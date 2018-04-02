@@ -1,0 +1,57 @@
+File created at: 1522692458
+Subreddit: Bitcoin
+Submission title: Google Trends on Bitcoin - Newcomers don't care anymore. I find it funny that people will start care again only in case of new ATH.
+Submission created utc: 1522661559
+Submission score: 209
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522670439	27	Now its time to educate these newbs.Get reading:http://lopp.org/bitcoin.htmlhttps://en.bitcoin.it/wiki/Main_Pagehttps://en.bitcoin.it/wiki/Bitcoin_as_a_medium_of_exchange
+0	1522671089	9	Try using google trends to look at the term ''will bitcoin go up again'' - this will give some insight into what people are thinking. 
+0	1522662797	49	I always laugh at this graph.Why should I search "bitcoin" in google when I already know what is bitcoin?
+1	1522669418	28	I do always. The 3-4 artice are always daily news. Want to see what the actual press is writing about.
+2	1522679819	1	same when I wake up I always check my specific crypto sites and then I search bitcoin on Google to see what the mainstream news is staying
+2	1522680858	1	check the first articles and found negative comments about bitcoin?
+1	1522671514	4	https://trends.google.com/trends/explore?q=bitcoin,dog
+2	1522672271	6	So? Dog is popular than gold. It's even popular than NASDAQ. https://trends.google.com/trends/explore?q=%2Fm%2F0bt9lr,%2Fm%2F0g5vy,%2Fm%2F05p0rrx,%2Fm%2F025rs2z,%2Fm%2F05dq_
+3	1522675354	9	> So?It was in response to your question, "Why should I search "bitcoin" in google when I already know what is bitcoin?"I can think of a few answers to that question, but I linked to the results for 'dog' because obviously everyone knows what a dog is and still has reasons to search for it, so people obviously do search for things they're interested in after initially learning about them, and a change in the degree of interest over time may be for reasons other than "I learnt everything I need to know on that subject after searching for it once".
+4	1522679596	1	No point in trying to explain it to them
+4	1522681978	1	Don't bother explaining that. Before you know it you'll be explaining the difference between right and left mouse buttons, geez. Lol
+4	1522680191	1	I agree but People should not check mainsteam media fuds or google phishing links. Instead of searching like that, bookmarking reddit or major cryptocurrency news websites will work better.
+3	1522675776	3	 [Checkmate](https://trends.google.com/trends/explore?q=bitcoin,dog,Porn) 
+1	1522681296	1	because this is what people do who are interested in a topic.
+1	1522681510	1	Well, for starters it's to illustrate that there is less "new money" interest. Secondly, people just search brand names and keywords all the time, then click the link they want. Everyone knows the site is Amazon.com, but they still just type Amazon into Google and click the top link.
+1	1522683419	1	cya at 1k, wanna see how u laugh then
+2	1522690059	1	Probably the same way I would be laughing.... maniacally while buying as much as possible.Bring it on!
+1	1522685669	1	Every time I want an update about Bitcoin, I Google "bitcoin." Don't you?
+2	1522687969	1	Nop. Cointelegraph, Reddit BTC front page and Coindesk meets your needs. I've google'd Bitcoin now and first 2 pages was just SEO. At news section, there were news that I've already seen and some FUD news in Bloomberg & Forbes etc.I'm not trying to be salty. It feels like googling "terror activity in America" versus visiting news websites. 
+0	1522669249	5	People google Bitcoin when the price is going up – not the opposite.
+0	1522665558	12	You are right... only if you define "don't care" as four times higher than last year...
+0	1522672489	5	This is good for bitcoin
+0	1522663020	23	The big money is waiting in the weeds, not googling "BITCOIN" when the news covers the next bullrun.
+0	1522675216	9	I don't find that funny at all, actually.  What is disappointing about this is that newcomers are attracted by the price increase and the hope of earning a big ROI.  Once that idea goes away, they couldn't care less.This is not sustainable.  We need people to want to actually *use* bitcoin.  We want newcomers to come into it because it's an efficient way to transfer money and helps their lives in some way.  That first needs to happen to lead to a huge price increase.  Not the other way around.
+1	1522685313	1	Don't know. I think I will only ever care about using Bitcoin when it's easier or more beneficial to use over fiat/cards.If I live in Europe, I use the Euro, because all my bills need to be paid in Euro and I get paid in Euro. Why would I care about paying in USD even if I had this option? There's no real benefit. Similar for Bitcoin at the moment.The only situation right now where I'd use Bitcoin is if I needed to make an international transfer to another person, but that person would already need to have their own wallet set up (so chances of this happening are close to 0%), or purchasing something online.What's worse is that I have an investment in Bitcoin, so if I were to use Bitcoin I'd look to add back to my initial investment, which at the moment requires me to make a bank transfer to an exchange (I don't have any local Bitcoin ATMs around me), and this takes time. Need to transfer to a personal wallet? Takes more time. I think you get the point.
+1	1522684109	1	Ive been in since 2010, and im more interested in its value rising than seeing it used in daily transactions. Pretty alarming how many conclusions people are coming to over one very general data set.
+2	1522692220	1	My entire point is that the values can't keep rising without use case being applied.  People need to actually find benefit in the network and use it for *something*.  That will bring value to the network.  Sustainable demand isn't something that's just wished upon and all you need to do is wait.  Speculation bubbles may come here and there, but they won't stick.This graph implies that there wasn't usage adoption during 2017's bull run, and people have limited general interest in the use case, at least at this time.  They are interested in profiting from the speculation.  One is good, one is not so good.
+0	1522672247	3	then it's time to buy ;)
+0	1522672948	3	This lagging indicator just shows there was an increase in interest during a bubble, not "there is no interest now"
+0	1522682595	1	I find it funny that you measure care with a google trend.
+1	1522683292	1	why? the same pattern can be observed in crypto related yt views, new subs/day on all crypto related reddits and bitcoins transaction volume.
+0	1522672473	2	this is actually fantastic news.   Hopefully the market will return to a more normal cycle and be more about the tech with a steadier rise in price.
+0	1522684380	1	It correlates with the endorphin release if you own bitcoin and google it. All the good news and praise when it was near that 20K mark was probably made it a very satisfying task to google bitcoin if you owned a substantial amount. Also the more it is worth, the more it's worth googling to check up on it and make sure it doesn't plummet 200% in a few months.....and here we are.I'm joking, of course. And this chart is a joke, obviously. There is not a direct correlation to bitcoin's value and the amount of times people type the word into a google search. 
+0	1522688596	1	Back in December when this chart was at its peak people in this sub cited it at "proof" that bitcoin was taking over.  Now that interest in bitcoin has tanked along with the price the same people now want to claim the graph is unimportant.Only a small fraction of the population knows anything about bitcoin.  If it was continuing to grow in popularity the chart would be going up, not down.  Also of note is that the chart has been tracking the price.  The overwhelming majority of people searching for bitcoin weren't doing so because they want a replacement for the "FIAT" US dollar.  They were looking to get rich overnight.  Once it became clear that wasn't going to happen they lost interest.Cognitive dissonance at its finest.
+0	1522681182	1	Now's the time to buy. Not when it's spiked. Duh.
+0	1522681344	1	Bullish
+0	1522682015	1	Hodling!
+0	1522682401	1	And once that Google trend graph gets to its all time high, we all sell and trap them noobs, lol. 
+0	1522683152	1	They'll start caring precisely at the point you should probably start profit taking.
+0	1522688797	1	Why would people want to buy high?? The dip is great for a real chance at bitcoin accumulation 
+0	1522689173	1	Good. Let me accumulate this year. 
+0	1522661884	3	We need time.(couple of years)People will forget this bubble in couple of years. Bitcoin price will decrease until that time.  Then it will suddenly increase and will be headline in newpapers again.
+1	1522664201	5	Yep people will say  :  wow bitcoin still exist.
+2	1522666930	2	people will say: wow bitcoin is resilient.
+3	1522670432	5	Wow I should have bought in
+4	1522672097	5	And then; is it too late to buy now?!
+5	1522684618	1	It is just like planting a tree. The best time was 10 years ago. The next best time is now.
+1	1522672624	2	i agree but disagree with the timeline.  If the price stabilizes around these levels or at least does not go below 5k this year could end very strong
+0	1522669104	1	They are the buy high/sell low people. I welcome them during the next run up. 
+0	1522676719	1	Newcomers aren't newcomers anymore, and these "newcomers" don't Google bitcoin all day anymore. 

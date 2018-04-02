@@ -1,0 +1,25 @@
+File created at: 1522692496
+Subreddit: CryptoCurrency
+Submission title: NEP-5 Token Exchange Switcheo launches MainNet on NEO blockchain
+Submission created utc: 1522664258
+Submission score: 210
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522676366	14	Seems like a  good buy to pick up the entire Neo booster pack now 
+0	1522675123	12	The key for these DEX is volume.If they share volume across different DEX...That will be killer.
+1	1522677976	4	I know Blockport wil try to do this... Don't know any other exchanges?
+2	1522680938	2	Thanks I've been looking for folks who plan to do this.I see IDEX has the most volume right now. But it makes sense to connect all the volume together then all members should benefit.
+2	1522680942	2	0x has the Standard Relayer API, which allows exchanges to share volume
+1	1522677019	2	+1
+0	1522668469	16	The UI looks great...  If these new exchanges pick up volume, its gonna be the death knoll for shittrex, poloniex, kucoin etc which never gave a damn about its customers 
+1	1522676429	7	aww come on don't say that lol I have got around ~15/20$ just from RT their stuff lol **kucoin
+2	1522681121	2	Wait are they giving out money for retweeting their posts? 
+3	1522682744	2	they gave out free coins. like 0.005 eth or whatever it added up. Some tweets responded by saying it's a scam. I was like, who cares, it's just an RT. Well, I got my coins so I'm glad haha
+1	1522688783	0	> If these new exchanges pick up volume, its gonna be the death knoll for shittrex, poloniex, kucoin etc which never gave a damn about its customersA pipe dream. It will always be a niche market.
+2	1522688974	1	Nah, I seen days when shittrex did a total volume of 1m or less... 
+0	1522672367	10	Switcheo has potential and is first to market before Nex. I think if they can deliver their roadmap on time, then they will be a good solution. 
+1	1522679535	2	Agreed. Just had a play around and it's a nice little exchange, a few more improvements and it'll be my go to for NEP 5 tokens.
+2	1522681268	1	There need to be more NEP5 tokens, I think Qlink is already making moves while I have high hopes for ONT.. 
+0	1522680291	2	Think it has a lot of potential. Still needs to polish the DEX though
+0	1522688275	2	Im glad to see more exhanges getting support for Neo and NEP5. So much potential here
+0	1522680469	1	Future plans for Switcheo will include launching on QTUM and Ethereum. In the meantime, the team says it will continue to

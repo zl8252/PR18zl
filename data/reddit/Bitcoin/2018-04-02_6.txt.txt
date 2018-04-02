@@ -1,0 +1,45 @@
+File created at: 1522692459
+Subreddit: Bitcoin
+Submission title: Found a bitcoin "vending machine"
+Submission created utc: 1522675553
+Submission score: 321
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522678616	1	Weird, looks like an ATM to me.
+0	1522677060	15	Wait that's so cool, where is it?
+0	1522691390	1	I remember when there was a gold vending machine out there - trading on the OTC markets. https://youtu.be/UA-zP5ss-dM
+0	1522685934	1	More to come no doubt.  I saw a billboard in ATL announcing over 100 bitcoin ATMs.  I forget who the vendor was - probably Coinsource, but the part that was amazing to me is that bitcoin promotion has now made it to billboards.  Thought that was interesting.
+0	1522685201	1	Anybody know if these have vulnerabilities? I try to always check for fake card readers when I use a typical fiat atm. 
+1	1522692099	1	Yea fees
+1	1522689921	1	Lol
+2	1522690186	1	Thanks for contributing to the discussion 
+3	1522692182	1	lmao
+0	1522682477	1	where are all the people?
+0	1522691642	1	Shit is sleek!!!
+0	1522691816	1	That looks real fancy
+0	1522692441	1	Have you ever wondered why that thing has to be so  big. I I can fit 4 Time as meny coins in my Trezor and I can fit that on my key chain.. So what to they have in there.  extra wires ? 
+0	1522688969	1	So how do these work exactly?  And what sort of fees would you have to pay if say you wanted to take $100 USD out that you held in BTC?
+1	1522691216	1	Credit / debit card goes in, crypto purchased, paper wallet comes out
+2	1522691563	1	The perfect clone machine :)
+0	1522680378	1	hidden time capsule
+0	1522682190	1	I saw one just like this in Melbourne last year
+0	1522682384	1	Shiny golden color. How classy.
+0	1522682607	1	We should see them everywhere!
+0	1522684546	1	'Vending machine' means one-way: it only sells crypto for fiat, yes?
+0	1522688928	1	http://www.kryptokiosk.comLooks like you can buy and sell, and referring to investing in a kiosk, you're asked to provide an Aussie dollar equivalent, so there's that as far as origin.
+0	1522689538	1	if we adopted these on street corners then everyone could use bitcoin for every day uses. i never touch paper money anymore anyway
+1	1522691027	1	Im sure no ones gonna go to the trouble converting their fiat which is already spendable anywhere into an unspendable bitcoin.  You make no sense.
+1	1522690557	1	This doesn't really increase adoption though... Why use an ATM when I can buy/sell from my phone? Half the point of a digital currency is the convenience factor. ATMs are a half-assed solution to add convenience to the traditional banking system, I really don't see the point of bringing that sort of "solution" to crypto.
+0	1522689904	1	It's just a start soon it will be all over the world good time to invest 
+0	1522689913	1	[video](https://youtu.be/cu9r6n3XvEQ) 
+0	1522690529	1	a thermal printer for public, and private keys, so stupid.An accidental scratch can obliterate sections of the QR code or ID sequence.
+0	1522690719	1	It should have a seating area, so you could read a magazine while waiting for your transaction to verify.  
+0	1522679924	1	That "o" should be changed to "d"To be clear: I meant kryptokids. You all got rekt. But remember - don't get rekt.
+1	1522681614	1	?
+2	1522682371	1	In kios.
+2	1522684459	1	kryptdkios
+2	1522684692	1	kryptdkios?
+3	1522685637	1	Kryptokids....
+1	1522687116	1	not sure if you're just trying to make a joke but the "k" at the end seems to be taped over.
+0	1522684417	1	Glad they are not supporting "obvious" scam coins.
+0	1522685051	1	It’s an ATM. 

@@ -1,0 +1,246 @@
+File created at: 1522692450
+Subreddit: Bitcoin
+Submission title: Just bought the dip and will put one BTC on look down for my 4 year old daughter and give it to her on her 18th birthday.
+Submission created utc: 1522620458
+Submission score: 962
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522620784	82	Things can change in 14 years so keep an eye on the tech. iPhone didn't exist 11 years ago. Bitcoin is slick now but in a decade it might be looked at as basic and primitive, and something else entirely may be the hot tech of the day.
+1	1522621524	22	I trust in the developers to continue doing a great job and promised myself to separate this coin from my portfolio, period!There are a lot of scandals, fake news and so on. I think that just will continue and become even more sophisticated. I had a break from reading the news and checking my portfolio for 3.5 years (2014 - 2017) Why, because every time I did - I ended up questioning my own judgement, the tech, my evaluation. Same stuff was going on as it is today, people were screaming and articles would be saying it died. You could find predictions contradicting each other every day. I don’t consider the odds are high, to predict the fall of bitcoin if that ever happened, the spreads on the exchanges are not to huge and if someone sold a huge aka Winklewoss twins amount, it would flash crash and go to zero, with all buyers not placing new orders. But this I don’t think will happen, probability is not high in my opinion.
+2	1522623496	8	Best advice ever, thank you.I will try the same, buying some btc and stay away from forums and social media.But, you also did not check the BTC price in 3.5 years ?
+3	1522626408	7	As the price is going up, keep watching and be happy. When the price is going down, stop watching and be happy.
+4	1522638069	3	I've been doing it wrong! For me it has been keep checking price hourly. Repeat for 5 years. 
+3	1522623913	6	Cool man 😊When I got in the market I did check the first few months. Became like an obsession and I also lost 40 BTC day trading like an idiot.After that I stopped and probably checked the BTC price once a month or less. Basically just forgot about it 
+2	1522681966	1	> I trust in the developers One of the key aspects of Bitcoin is to be trustless ;)
+3	1522689466	1	i think it can be boiled down that i trust the community to be greedy and therefore do the best thing for bitcoin, they will not adopt something put forth by the devs that hurts usit's almost like a herd immunity given from healthy greed
+2	1522661181	2	The “Coin” is gonna be worthless when she is 18 mate.
+2	1522626378	1	My point is in the 3.5 years or whatever other coins came out. These coins work just as well at getting sent around (changing ledger entries really). Some work even better in subjective terms, like confirmation speed, privacy, or low fees. The only thing bitcoin has over them is high hashrate which after a certain level is not any more beneficial. And it's all open source so even lousy altcoin developers can copy anything good developers come up with.
+3	1522626827	4	All true. There are many coins superior to bitcoin,  even superior to BCH (to the ones on that side of field) - if bitcoin cash had baptised their coin xcoin or supercoin, they would have never have been where they are today.First mover can be an advantage and disadvantage, only time will tell.Hell, an acquaintance spoke to me and some others about Verge, convinced that it would become a leader. Reading about it my view is very different.
+4	1522627173	2	Verge is dogecoin over TOR. Most coins likely can add TOR support (and some have) showing dogecoin over TOR the joke that it really is.
+5	1522657972	1	TOR also isn’t very effective for a currency. There’s a reason Monero doesn’t use tor and is developing its own darkweb tech. 
+3	1522669226	1	Bitcoin is a distributed ledger my friend, and if in 3.5 years you come up with and idea how to store 1 billion transactions per day and run this on a laptop with a normal internet connection, I will buy tokens from that ledger.
+3	1522689534	1	what is preventing bitcoin from adopting superior open source technology?
+3	1522657919	1	Most of the alt coins come with compromises. Monero is the closest to being a “true” bitcoin competitor, but it has even worse fee issues than BTC does. Also, bitcoin can incorporate most advances into its code, if needed. I think there’s room for tokens that do other things, but as a pure store of value/ peer to peer currency, I don’t think bitcoin will be replaced, and the more research I do the more I become convinced of this. 
+1	1522632824	4	No doubt they will continue to update it.
+2	1522633192	9	Remember the iPod? It was rather successful. It is no longer being updated, it's dead. It's now an app in the iPhone.
+3	1522633412	7	The iPod is not software. Anyway you could argue the iPhone is an iPod.Unix and TCP/IP and other software have been around for decades.
+4	1522659437	2	Nobody has ever dropped software support?
+5	1522686845	1	Companies yeah. Bitcoin is not proprietary software.
+4	1522655910	2	Why are you being down voted? Everything you said is 100% true and none of it is really controversial. I guess there's some Unix haters out there or someone really hates the idea that an iPhone is an evolved ipod. I have to assume since this is happening on the internet that they don't have a problem with tcp/ip but who knows, this is reddit. 
+4	1522659864	0	Almost nobody is using IPX anymore
+5	1522686819	1	And nobody will be using Bitcoin as it is now. It will be something different called Bitcoin.
+3	1522679232	1	Actually, my 1st and second gen Ipods have gone up in value considerably. There is a pretty nice secondary market for them. I have come close to selling the "bricks" a couple times, but once I power them up, the feels come back and I can't do it  
+1	1522652540	2	People been wishing this for the past ten years, they'll be wishing it for another 1000 and it will never happen lulz. 
+0	1522621583	76	You could use the timelock to send it to her around her 18th
+1	1522624066	77	That is risky.  Timelock might not be supported the same way and you might loose it all. 
+2	1522632779	37	Lose.
+3	1522678595	1	He means loose. The loose protocol coming early 2030. Takes all your loose btc dust and settles it to the blockchain when fees are low and the network is damn it I missed April fools.
+2	1522666240	5	Just do this: https://www.reddit.com/r/Bitcoin/comments/8605cl/comment/dw1t38yIf timelock ever stops working (I doubt it but w/e) you still control the coins with your original address (cause the coins will have never moved).
+2	1522624171	7	Could you expand on that? It's invalid now to then
+3	1522627527	11	I can't, maybe someone else can.  I was told it is possible for Bitcoin to drop support for timelock or change the code for it enough your coins wouldn't be safe.  I was told it happened previously with an old timelock system and it is possible to happen again.  They said not to trust timelock more than months away.  I could have gotten bad info.  Please tell me if I had. 
+4	1522636323	12	There's certainly no guarantee forks will support it.  And there's a pretty good chance what we know as "Bitcoin" in 14 years will be a fork.
+5	1522652476	-7	How can bitcoin ever become a fork? You get the concept of forks? 
+6	1522653454	1	He gets it. If bitcoin fails, and bitcoin cash gains traction, we'll start calling bitcoin cash just "bitcoin". That's his point
+7	1522655447	19	That's about as likely as it starting to rain jelly beans and gumdrops but it does illustrate the idea. 
+8	1522658872	1	Well it has happened before, and they were some damn good jelly beans
+9	1522659610	1	Were they jelly bellies or the other kind where you can only define the flavor in terms of color? 
+7	1522656222	-3	Huh? Trust me mate I or the consensus is never calling bitcoin cash bitcoin lol. Good lick with this vision hahha
+8	1522657874	7	It's.. it's an example. Just mentally replace "bitcoin cash" with any hypothetical future fork able to survive a bitcoin debacle.
+6	1522653248	1	I'm sure this person understands how forks work, but you can fork the mainly use version into the not mainly used version. Now I've only been in this space for a few years but I assume such is the case as with the difference between Ethereum classic and the now number #2 Ethereum. 
+7	1522656296	2	No they don't. If 51% nodes agree a chain is bitcoin, ain't noone fucking going to change thay unless they control the 51% nodes. Bitcoin cash remembers the consequences of trying to manipulate consensus. You can't beat decentralization
+4	1522659918	1	I think the intuition here is correct. We know wallets, keys and sending money works because we use this everyday (there is no crypto without these features). If you are manage risk with your portfolio you take many different scenarios into consideration. Something may be highly unlikely but nonetheless, if it’s easy for you to manage that risk, like not using timelock, than that’s what you do. Simply the minimal risk still outweighs the benefits. 
+4	1522662069	1	You can always fork bitcoin and then give her the fork where timelock is still supported.  That's the genius of bitcoin.  It can encompass any change or feature we want.
+5	1522662513	3	Lol, hey sweetie!  Remember when I locked you up $7000 worth of bitcoin?  As you know, a bitcoin is now worth $3 million, well, timelock isnt supported, so I did a special fork just for you.  It doesnt have any value and no one is trading it with anyone else, so it doesnt have a use, but here is a wallet I made that says "one bitcoin" at the top....
+6	1522664131	1	aw, you shouldn't have... literally.
+2	1522647127	3	Timelock was a part of the protocol since the beginning. There are absolutely no reasons to believe it won't work.However, there's a risk: if ECDSA is broken it might inhibit your ability to upgrade.
+3	1522656033	1	Why would anyone use this timelock? Against hackers? 
+4	1522656507	2	It's useful for various smart contracts. Particularly, you can implement a will this way (bitcoins distributed according to your will after you die).
+2	1522639663	1	Bitcoin will stand by its previously valid transactions.   Lots of people are using timelock (OP_CLTV).  The altcoins will screw things like this up.
+1	1522653807	2	next please share ideas on how to get the tooth fairy to give you more money. 
+1	1522648730	4	There is a max timelock allowed by code.  I think it's about 1 year in Bitcoin.
+0	1522634648	215	Dear daughter 14 years ago I blew $7000 on this token which is now worth 13 centsGood life lesson  
+1	1522641861	9	wow you talking to me? I spent ~$7k and loss ~$5k and counting, may hit 13 cents at some point.
+1	1522646178	39	Let me tell you the story about when I spent your future college fund on gambling... She would probably be more happy to hear he spent it on weed.
+1	1522640816	6	This could be a possibility too. Treasures of one generation could be garbage of the next generation. We have seen too many examples of this. Money, or objects of value are no exception.
+1	1522647360	18	Dear daughter. 14 years ago I blew $7000 on this token which is now worth  $100 000.Good life lesson 
+2	1522658461	27	Actually, even if that happens, it shouldn't be considered a good life lesson.
+3	1522659415	12	The lesson is: Nothing is free of risk, take measured risk when you can and never stop learning.
+4	1522659686	13	"Locking" $7000 for 14 years on a speculative investment, with no ability to get out or change tracks along those 14 years if need be, is not called taking measured risk.
+5	1522660087	-5	Well, 7k is no meaningful amount of money (disclosure: I basically did the same for my nephews). I don't expect that I have to get out. But I could swap it in a matter of min. if need be.
+6	1522679827	1	$7000 is a lot of money for many people.
+4	1522686556	1	I consider bitcoin to be risk free
+1	1522656107	7	You seem to have overlooked that he bought it with gains from selling at ATH. At worst he made slightly less money than he would have otherwise by putting a portion of it back in. It's already pure gain so even if it did go to 0 there was no loss. 
+2	1522657930	19	That's not a good way to look at it. Op has x amount of money. If he then loses 7k, it's a 7k loss no matter how he got x.
+3	1522659527	0	No, that's a pretty reasonable way of looking at it. OP already say he had plenty of other investments put aside for her. He took something that had already tripled for him at least (don't know what he bought in at but chances are even in this dip it's probably plenty more than he paid) and put some aside for his daughter. From an objective perspective it sounds pretty reasonable. 
+4	1522666853	11	No it's completely unreasonable and illogical. It's like saying "I made $1000 today so if I buy a new phone, it won't cost me anything". Whether op bought btc at $5 or $19000 it doesn't effect the reality that buying a coin now for 7k and losing it, is a 7k loss.
+5	1522670870	2	I like your analogy.  I really shouldn't buy this $700 cellphone, but  I already have 6 others so it's not like it's costing me anything if I lose it.  It wont feel like losing $700 with 6 other cellphones at home will it?  Yes, yes it will.   Losing that new cellphone is EXACTLY like spending $700 and losing all of it.
+5	1522673660	2	It's more like buying a phone for $5 then selling it a little while later for $1000. Then buying 2 of the same phone for $200. Then it would be perfectly reasonable to say that I made $795 and got 2 free phones. 
+6	1522677183	1	But it's not free if you paid $200. After getting your $1000 you can't say, "ohh I can get some free phones now"
+5	1522671128	1	Funny thing is that everyone can decide this for himself. You dont have to force your opinion to others, its very subjective.
+6	1522672997	3	It's not subjective at all. Can you explain to me how I can buy a btc now at 7k, have it go to zero, and not lose 7k? 
+7	1522675702	1	Your statistically correct.Its the monty hall problem.
+7	1522679687	1	buy a bitcoin for 7k, sell half at 14k, and watch the rest go to 0.You end up with 7k and you had some paper profit for a while. 
+4	1522674217	0	ZOMG - you are hilarious!  Tell me this is theater - please. 
+5	1522675225	2	I have yet to see one of you morons actually give a half thought argument to anything I said. Come back when you can actually say something intelligent because you clearly are incapable of independent rational thought and the idea is obviously going way over your head. 
+6	1522675290	0	This is pure godl!  
+2	1522674178	2	This is such a horrible way to look at anything.LOL
+2	1522664930	4	Lol wutThis is the stupidest thing I’ve ever read.Sound like a gambling addict who finally wins it big then dumps a portion of those winnings into more gambling saying “no loss cause Muh free money”
+3	1522673170	0	You don't get out much do you? I've had responses to that comment that are more stupid including yours. Why do you feel so threatened that someone else made some money off trading and wanted to do something for his daughter? Did you not get enough hugs as a kid? 
+2	1522670987	1	So say I have accumlated 50k saving up over the years. I'm up 50k from when I started.I take out 25k and burn it.It didn't lose 25k right, I'm still +25k?
+3	1522674752	1	There's a big difference between buying something at one price, selling it for 10x that later then buying 3x the amount shortly after and saving money for years then burning it. Ashes will always have a value of about 0. Despite this clearly fud-ridden agenda that's running rampant in this thread, even during this dip btc is about 5x the price it was this time last year. With a couple notable exceptions, bitcoin has pretty steadily gained value from its inception pretty much more than any other asset. Name one other asset class that is 5x higher than it was a year ago. You can't because there isn't one. Bitcoin has more inherent value than the fiat you're pricing it in that would definitely lose its purchasing power over the next 14 years. In the end he traded inflationary bits of data for deflationary bits of data. Sounds like a pretty reasonable thing to do. 
+2	1522660679	-1	I'm sure that's interesting for his brat who gets a 13-cent Bitcoin in 14 years
+3	1522672909	1	Wow... Not just shilling fud but calling a 4 year old girl names too. Real classy there guy. Your mom must be proud. 
+1	1522661992	2	Nah.  Just don't tell her.
+0	1522635580	9	No one can predict the future. The most reliable way to earn a return with any security is to maximize the amount of time you spend in the market and to long-run average yourself to a nice return. I believe what you're doing is the correct choice if cryptocurrency is the investment vehicle you've decided on.
+1	1522654126	6	The most reliable way for a return is to spend time and bond with his daughter, giving her the love and validation she needs to get her through life
+2	1522687560	1	I didn't know you could only do one or the other.
+3	1522689343	1	I didn't say you couldn't...
+0	1522620818	96	Here's some advice:  Start a college fund and invest that money into a low fee unmanaged index fund.  Bitcoin is not an investment-it produces no dividend, rent, etc.  You're not making a sound investment decision by taking 12K and buying bitcoin with it for your daughter.n 
+1	1522621605	46	Of course not. We already have a nice diversified portfolio that is expanding. We will continue to put a fixed amount towards her “savings” every salary.
+2	1522624278	-32	So what's the point of giving a 4 year old bitcoin if it's not as an investment?
+3	1522626460	61	As a lottery ticket
+4	1522648105	6	Very expensive lottery ticket
+5	1522650805	1	The only difference this lottery ticket is 50/50 compared to the 1x10^8 chance of winning an actual lottery 
+6	1522658201	8	Heh… is that like the old joke? What are the odds of you dying today? 50-50. Either you do or you don’t. 
+6	1522651478	14	50/50 is being somewhat generous...
+6	1522654796	2	50/50??? A 1 dollar lottery ticket can give you a 10^8 fold return.  Bitcoin isn't going to do anything close to that with where the price is.  I'd say it's almost definitely going to be worthless in 14 years.  The regulations are going to kill the ICOs and tether, at which point the artificial price inflations will vanish.  
+7	1522669454	0	I agree.Personally I think that this is a really bad idea. In 14 years its going to be worthless. 
+6	1522671052	0	People really think there's a 50% chance it's gonna skyrocket again? Delusion. 
+4	1522658758	-1	That lottery ticket is very likely to be worth three times it’s current price by the time she is 18 if put in equity instead. It’s far from very likely that it will be worth much if left on BTC. 
+3	1522636792	10	calm down dude.. it's a like a risk free option. He already said he has other investments... "the point" is *obviously* that it could be worth quite a lot more than it is today. Duhhh
+4	1522641034	-9	You just described an investment. Unless you're already a multi millionaire (liquid, not talking property holdings), dropping 12K on bitcoin as an investment is a gross mismanagement of money.  Bitcoin isn't something that's going to make you money as an investment.  The sooner people realize that the better.  
+5	1522647499	8	> Bitcoin isn't something that's going to make you money as an investment.Interesting... Is that you Warren?
+6	1522658331	4	No, it’s grinnersoak from Reddit, a much more prolific investor. 
+5	1522647426	9	But it’s deflating nature and low market cap for now is a pretty sizeable upside. The sooner you realise he’s ok with gambling with that much money the better
+5	1522660395	2	It kind of sounds like op *is* a multimillionaire
+5	1522651167	2	> Bitcoin isn't something that's going to make you money as an investment.Historically that has been very false. Also, if it actually becomes the first actual world currency, that history will repeat itself. Do you really think bitcoin has 0 chance of becoming a significant world currency? 
+6	1522654590	-2	There is no chance it becomes a world currency.  If there were  a world currency, it would be centrally regulated and transitioned at fixed exchange rates (in the same manner that Europe switched to the Euro).  Bitcoin is not something that is worth holding onto long term.  
+1	1522654024	5	Nah man, bitcoin has lost half its value over the last week, they're "only" $6k each now. lol
+1	1522647234	15	> Bitcoin is not an investment-it produces no dividend, rent, etc. TIL gold isn't an investment./r/buttcoin is that way...
+2	1522650475	4	Nor is AMZN.
+3	1522654862	2	Like all other growth stocks, the value of Amazon as a stock is its promise for future dividends.
+4	1522655607	4	I just own it because I expect they will more wisely invest profits in growth than I will.
+5	1522656142	1	At the end of the day, you're still investing in a company that at some point will need to return capital to investors. Holding companies like Berkshire can keep reinvesting, but companies like Amazon at some point have to pay a dividend. Also, Amazon has a very high P/E ratio, so it's not exactly reinvesting all of its earnings..It just doesn't have much profit (in relation to its market cap) because its driving everyone else out of business first.  Eventually they still start paying huge dividends though..Otherwise there'd be no reason to own the stock. 
+6	1522672432	3	Buddy it's blatantly obvious that you have zero financial background. People don't invest in stocks with the expectation that it will one day start distributing dividends. There are lots of stocks out there that have simply never paid out a dividend and yet have still made investors a lot of money.Please stop making these kinds of claims - it really dumbs down the community.
+7	1522674869	1	Not really, he gave a "textbook answer" sorta like how you're supposed to drive with your hands at 10 and 2. Nobody does it all the time, but its a good rule of thumb. 
+6	1522656460	1	When they run out of ideas to stop growing and can’t adequately invest. Which at this rate doesn’t seem to be any time soon or ever if space is on the cards. But in essence I agree.
+6	1522681609	1	Dividends are a sucker's game. Most people trading stocks are doing it based on the greater fool theory. You buy stock because you hope someone will pay more for it than you did at a later time. Dividends are priced in to a stock's market valuation, and there are no good fixed income investments available to us plebs right now.
+4	1522672277	1	What????? That is not at all true lol
+2	1522658821	3	It’s not. It’s a hedge.
+2	1522654918	-1	Gold is a pretty terrible investment. It is still better than bitcoin because it at least has intrinsic value from its industrial purposes and jewelry. 
+3	1522660681	2	What if I told you that the intrinsic value is less than 5% of the price tag?
+4	1522661510	2	And I would tell you that it's a pretty terrible investment.
+5	1522661919	1	I think I understand few things in the world as good as computers and Bitcoin. Remind me in 15 years.
+3	1522684002	1	> it at least has intrinsic value from its industrial purposes and jewelry. Jewelry is valuable only because gold is expensive
+3	1522656365	-1	LOL, I only got 70000% return from investing into Bitcoin in 2012. If only I listened to smart men like you who said it has no intrinsic value...
+4	1522672496	2	Congrats. You speculated and won.
+1	1522659195	1	Actually, It is an investment. It fits the wiki definition. You allocate money for it in the expectation of capital gain - profit that results from a sale, where the sale price exceeds the purchase price.
+0	1522623465	10	Hey a million bucks doesn’t go as far as it used to. Might wanna add a couple more bitcoins to her fund ;)
+0	1522670375	9	[deleted]
+1	1522672588	2	Yeah I'm also smelling bs
+1	1522679621	1	You're being such a retard. If you're going to call someone out, make sure you're quoting the right person. Because in this case you're quoting the wrong person, OP just commented on that post. 
+0	1522659152	4	If you don’t want her partying it away, I’d give it to her after college or when she’s 25. They’ll hopefully have a better grasp on life compared to 18. 
+1	1522682245	1	Good point
+0	1522674662	3	Give your daughter the money after she turns 25. After she's had time to be a reckless teenager / college student and when she may be getting ready to get married or buy a house.   If you give her the money when she's 18 she'll spend it recklessly
+1	1522681970	1	Actually that’s a good point! 
+2	1522685678	1	You're welcome :)
+0	1522647259	10	Such a dad joke, to give your daughter $20 on her 18th birthday
+1	1522659531	3	It’s important, because he bought it on April’s fools. No hard feelings. 
+0	1522627663	6	I almost would be worried about her personally. Hopefully you raise a child that becomes humble and grateful. A crap ton of money sometimes changes people for the worst. Because Bitcoin will be worth a ton by then I’m sure. I do like the idea of keeping it a secret. That way they don’t become mentally spoiled early on. 
+0	1522630055	6	"WOW dad thanks for the .02 cents"
+0	1522643363	4	What she going to do with $5 by that time? 
+0	1522652614	2	Congrats on your profits! And I think that’s a terrific idea how to spend them. Your daughter will probably buy new spoilers for her self-driving car or have a holiday on Mars with SpaceX. Don't worry about other cryptos. Bitcoin was the first and will always have a value as collectable.
+0	1522656295	2	Nobody knows what the future of BTC looks like. Why didn't you spend the money investing on Amazon, Tesla, or something else that will be much more likely to see a return?
+1	1522682350	1	Like I mention at the bottom of my post, we have other investments too and are diversified. 
+0	1522657521	2	I did exactly the same 5 years ago for my daughter who was then 5 weeks old. I intended to give the bitcoin to her when she would turn 18 years. Last year september I decided it would be better to cash and invest elsewhere, since this thing was going way too fast. 18 years is a very, very long time and I would urge you to reevaluate your decision at least once a year.
+1	1522682303	1	That’s not apart of the strategy. We’re diversified enough to not have weak hands 
+0	1522659220	2	Guy: "I made some smart trades and tripled my holdings so I put some aside for my daughter"Sub: "Bitcoin will be worthless" &          "Muh Bcash"SMDH
+0	1522664283	2	That's what I call HODL...Say no more...
+0	1522668273	2	Nice :)
+0	1522688133	1	So wonderful you are doing that for her. I  have a gem and mineral shop and Ido have a 5 inch quartz crystal ball, never used so no bad juju or whatever. Its beautiful. You've actually just sparked an idea that I cannot believe it didn't occur to me already, that my business should accept crypto. So thank you, I have three daughters and I'm working on doing the same for them soon, I've been building up to it though. 
+0	1522690412	1	"Bought the dip"... you mean from the dip of last week? Or the week before that? Or the week before that? Or the week before that?I've been involved in BTC for a while now but it just makes me laugh when people say buy the dip, it's not a dip if it dropped 60% in the past 4 months, that's a landslide.
+1	1522691715	1	Haha. I’ve been in since 2013, so for me it’s a dip ;) 
+0	1522621621	5	If I told my wife I am trading CC - she wouldn't want kids from me.
+1	1522630491	0	Eek barba durkle 
+0	1522666975	3	That's so sweet! My Grandparents did the samething with a Princess Diana beanie baby.
+0	1522624422	4	that is going to go really well..... or really poorly
+1	1522672908	3	Thats the reason why you diversify 
+1	1522647938	2	Worst case scenario is that 7k goes to zero, that's not a massive loss over a 14 year time span.
+1	1522624513	2	For me things are going pretty well actually 😄 
+0	1522653875	3	*Suffered through 18 years of listening to my father trying to shill me bitcoin, and all I got for it was this worthless entry in a digital ledger that stopped being mined years ago.*
+0	1522621314	2	great!...but u know this is troll land...there is alot of truth here )) and alot of uknow what...so i would so see beyond bitcoin is the ability to see what is real...myself i get energized to combat trolls...bitcoin itse;lf has given me time to do this np ))...price will go up and down but just holding some bitcoin means you stand for change...hey they wont  let you protest withought photo an all that jazz...today we only got crypto...and our cameras to combat
+0	1522627779	2	She's going to be very grateful.
+0	1522635230	2	Congrats! I've been doing the same!!
+0	1522635511	2	Great idea!You are great dad!
+0	1522636724	2	Congratulations, I hope it is worth a mint by then and helps set your daughter up! 
+0	1522647615	2	BUY THE FUCKING DIP HODLERSS
+0	1522621759	2	Haha, I’ll do my best to raise her in a way that she has ambition even with money 
+0	1522650444	2	Can't wait to see your face when you end up giving your daughter 3¢ because Bitcoin crashed and burned and it turned out the way of the future was actually UgandanKnucklesCoin.
+1	1522662357	3	You bought high and sold low
+0	1522627128	1	> on lockdownhave you considered locking it up with OP_HODL?
+0	1522636169	1	I think this is great. As long as it’s part of a reasonably diversified portfolio you’re fine. Maybe take some exists at major milestones; 25k 50k 100k you know the big ones (if they happen)
+0	1522647657	1	BUY when theres blood in the streets!!!!!!!!!!!!!! money is never lost it is like mass only trasferred.......
+0	1522649898	1	Congrats!
+0	1522650937	1	Nice plan Stan. Wish wife would let me do it for my kid. She won’t budge and I know she’ll regret it.
+1	1522673757	1	You dont have any spending money? what is stopping you from buying say 0.01BTC? Will she go through your bank account and get angry?
+2	1522681548	1	I’m such a cuck, right. I wanted her to go all in with the kids savings. She’d rather leave it in bank at 1.2%
+3	1522682274	1	>I wanted her to go all in with the kids savings. You mean everything on BTC? If so, then good for your kids that ure a cuck.
+0	1522651184	1	Can’t wait to hear how disappointed she is on her 18rh birthday
+0	1522651433	1	You would probably be better off taking that Bitcoin and short it at the high peaks and then rebuy at the dips. Then give her the cash for that. As it's been said here there is no idea what or where Bitcoin will be in 14 years. Some new coin that does what Bitcoin does, but better might come along etc. I think what you are doing is great, but be prepared for change.
+0	1522651572	1	Raise her properly then you wont be afraid she will waste her whole btc. 
+0	1522652791	1	Congrats!
+0	1522652975	1	I'm here for the dips!
+1	1522692236	1	which one
+0	1522654433	1	I’m sure she is going to be better off with that 7k sitting for 14 years in bitcoin and not an index fund
+0	1522656720	1	Nice investment for our children. 
+0	1522658056	1	English 100.
+0	1522659246	1	Is bitcoin is really dead ? I am really too much afraid about these kind of news. because I bought 3 bitcoin when it was $16k. Please suggest and support me I am really afraid.
+1	1522666363	1	Don't panic.Yet. 
+2	1522666471	1	thank you grooljuice 
+1	1522692273	1	Never buy in a bull market.
+0	1522659650	1	I wish my parent's gave me $10 on my bday :(
+0	1522659701	1	Better buy an ETF for your daughter. BTCs is very risky, it's very likely that your daughter gets nothing out of it
+0	1522660959	1	dips not over yet bro
+0	1522663404	1	I'm gonna give my kids potcoin.
+0	1522665245	1	this girl is going to be rich
+0	1522666038	1	Awesome, well done, kudos and respect 
+0	1522666416	1	Well done, daddy! A nice present option would be to print the private key on a metal coin :)
+0	1522666591	1	So many financial advisers on here.
+0	1522675885	1	CODL not HODL (Clever Old Dad Learned)
+0	1522678239	1	This already proves bitcoin has a future
+0	1522679599	1	Hey its me. Your daughter. I think you put your btc in the wrong wallet. Here try this one. 
+0	1522679711	1	You can get a crystal ball from a metaphysical shop!
+0	1522682375	1	ITT: no coiners
+0	1522685969	1	Life lesson, instead of putting $7,000 down on something that will compound interest over time and actually gain value, I decided to gamble away your first semester's worth of text books. Enjoy
+0	1522688341	1	Stock market averages about 10% annual returns.  If you parked that in an index fund for her, on her 18th Birthday, she's receive a payout of about $42,000. . .not bad. If she left it in the market, and worked and lived on her earrings and didn't even put away any more savings - On her 28th Birthday she's have $113K - That's a downpayment on a house.But let's say she says no, she's going to keep it in the market and continue to live on her earnings.  On her 38th Birthday, she's have over 300K.  On her 48th Birthday - >800KOn her 58th Birthday 2.2MillionAnd. . .if she left that amount she's be able to retire at 68 with $6Million dollars.  And if she had managed to sock away another 200 bucks a month, she'd have 10Million in retirement.Now that. . .would be one helluva gift for your daughter.   that might not be lambo dreams - but it's a fuckton more than anyone hodling bitcoin will have at retirement.  
+0	1522689735	1	I hope her ESA is funded to the tune of $140k.
+0	1522689913	1	Save her the trouble and disappointment, give it to me now and enjoy a great deal of shared joy.
+0	1522631274	0	what is it about your personality that makes you need to tell people you bought bitcoin?I mean, is there anything else we should all know?
+1	1522632838	8	Is this not the Bitcoin sub?  Is his post not about Bitcoin?  What is it about your personality that led you to make this post?  Is there anything else we should all know?
+0	1522621308	1	Your daughter maybe able to retire right out of middle school. Great parents.
+0	1522649476	1	The fact that people from this sub have children is a scary thought for the future of humanity 
+0	1522653771	1	Throw in a beanie baby too, why not. Copy and paste the following into your post:Edit 3; We also got her some beanie babies just in case the price goes up. We did everything everyone suggests we do in the comments. We even printed out a copy of this thread so she can see it when she is 18 just in case this sub is so exclusive by then that only those with 15 lambos and 500 btc can gain access to it.These falling bitcoin prices cause people to take more meds than usual and they show up here with nonsense stories. 
+0	1522644408	1	So she'll be getting $50?
+0	1522645277	1	Couldn't have done anything worse. You should have burn the money instead of that stupidity. 
+0	1522654710	1	This seems to be good as Fiat halves in worth every ~ 18 years
+1	1522671235	3	And Bitcoin halved in worth in about 3 months.
+2	1522674812	1	For different reasons...
+0	1522668615	1	Your daughter is gonna be really pumped about that $500
+0	1522669893	1	Is this what we're doing again? Bragging with the "I bought a whole BTC and here's my wholesome excuse for anmouncing it" thing? Didn't that die off in Nov-Dec?Dad with multiple investments, also buys some BTC. Also, water is wet...
+0	1522628024	-1	rofl college fundswhy is there need to fund 19.2€ per semester?... oh wait Americans Actually pay Money for studyingREKT
+1	1522633636	4	Dang man, just openly slamming a country?  Is that an acceptable thing to do socially now?  Because if so I've missed a ton of great LULZ in reading about the world.
+1	1522633226	2	We also graduate into jobs paying $120k+ day one... Gotta love high tech!
+2	1522660199	1	Yes, it's a well known fact that every US graduate lands a $120k+ job "day one" and immediately pays off their student debt.
+2	1522661349	1	THASSASCAM 
+2	1522671645	1	Yeah not all are us are coding geniuses who get silicon valley tech jobs day 1.
+0	1522625653	-3	Buy lisk and you will get rewarded every week
+0	1522640463	0	By your daughters 18th birthday quantum computers will be around that will crack BTC crypto like butter. You threw money away.
+1	1522642035	9	Don’t forget that if that scenario happens, Facebook, google cloud, banks, everything that’s in the cloud will be vulnerable. Something that would be a disaster. That scenario is way more nuanced than bitcoin or crypto 
+2	1522673967	1	No. Quantum proof encryption is possible. Its just due to the decentralized nature of Bitcoin that it cant be fixed for BTC.You cannot fork BTC in a way that old users keep their BTC, but new private keys are quantum proof, because the old private keys werent either.
+3	1522682008	1	Any good sources on this?
+4	1522684000	1	The only way people can retain their BTC in a forked chain, is if they can use their old private key to access funds in the fork. A powerful quantum computer can crack the private key in the current chain, therefore it could always also access the fork.Centralized databases can create entirely new passwords from scratch, and have people get them through personal authentication.
+1	1522652792	2	FUDREKR
+1	1522659591	1	Lol, This is so dumb
+1	1522673895	1	You are nothing sort of ignorant if you think you can predict when quantum computers will arrive?
+0	1522670136	0	Sweet! So it will be worth about 3k?
+0	1522647406	-2	Sad you will be giving her $11 dollars on her 18th birthday. Really sick if you ask me. -Sorry been reading troll posts in the discussion thread all day. Must have worn off. APRIL FOOLS!(err uhhh apr 2nd?)

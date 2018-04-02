@@ -1,0 +1,120 @@
+File created at: 1522692453
+Subreddit: Bitcoin
+Submission title: Listen to him!
+Submission created utc: 1522604265
+Submission score: 574
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522607697	144	Yeah but don't forget:  "The market can stay irrational longer than you can stay solvent."
+1	1522608288	56	Also “buy low, sell high”, “don’t catch a falling knife”, and “bulls and bears make money, pigs get slaughtered” edit: thanks for the full quote, u/tallmon
+2	1522628740	5	The whole saying is "bulls and bears make money, pigs get slaughtered"
+2	1522613059	16	The trend is your friend :) 
+3	1522640333	6	... until the bend at the end
+4	1522640992	2	where I stab you in the goddamned eye with a dull plastic fork.
+3	1522633172	11	The trend is your friend until it's no longer the trend.
+4	1522671738	1	Always better to bet with the trend and not against it.
+3	1522620219	3	Fear of missing out
+3	1522666314	1	Is that you Gerald Celente?
+2	1522628677	3	Pigs get fat- hogs get slaughtered
+2	1522632777	1	Don't you mean "buy low, sell high"
+2	1522666273	1	When main street talks, wall street walks!
+1	1522618491	2	Wanna bet? ;)
+1	1522612452	-1	[removed]
+2	1522646108	-1	[removed]
+1	1522631828	1	Doesn’t that mostly apply to short sellers? Shorts hope to cash in on an irrational market... but have to pay (in the case of shorting dividend stocks) while maintaining their short position. Going long would simply mean weathering through paper losses, unless using a margin account was involved. In which case a margin call would really hurt. 
+2	1522640547	3	applies to any form of borrowing and simultaneously applies to anybody that uses their income to pay expenses
+1	1522641386	2	Are you fucking kidding me? The rarest shit on the planet? You are going to basically warn people about the evils of Bitcoin? Bitcoin is freedom from tyranny... it's a social network...either you are in or you are not.
+2	1522643322	2	It's just trading the tyranny of banks and government for the tyranny of whatever mining pool and code devs own your coin. Nothing has changed.
+3	1522676725	2	The current code devs have been very good at setting the precedent that in the case of a controversial fork, the old fork is Bitcoin proper. During the segwit debacle they made a point that they couldn't force the change on anyone, and if the community refused it then that was it.Mining pools also have limited power. They can censor a chain and veto protocol changes, but they can't really force a protocol change on the community either.So the things you are talking about only works on hypecoins that doesn't take decentralization seriously.
+2	1522666605	1	> The rarest shit on the planet?I doubt bitcoin is the rarest shit on the planet
+2	1522672716	0	Lol you’re the perfect example of the crazy paranoia that’s made so many crypto bros get into the scene.What tyranny is your bank currently subjecting you to? What freedom are you fighting for? Hmm the ability to safely store your money somewhere, in a currency that has very low volatility so you can actually keep it there for years and save by adding more to it regularly. Oh you how about accessing your money from machines installed all over the planet that you can walk up to and use 24/7. Oh wait? You’d prefer not to even get your money out of your account, you’d like to just swipe (or tap) a card on a payment machine when you’re out shopping and have the money be taken from your account later on? Ok sure thing.Moved on from using your own money and want $300k to buy yourself a house... Look out those tyrannical banks are at it again, offering you hundreds of thousands of dollars!Phew thank god for crypto, someone save me from this tyrannical madness. /s
+1	1522663482	1	Bitcoin being over $1000, maybe even over $100, is the market being irrational for way too long...
+0	1522604568	37	We’re not there yet, it’s just urine and vomit at the moment...
+1	1522623717	1	[deleted]
+2	1522623805	2	Expect the worse and hope for the best. I expect worse ...
+3	1522623903	1	[deleted]
+4	1522623973	3	Fuck no, expecting the worst doesn’t make me a weak hand, if anything a more solid one.
+5	1522624044	1	[deleted]
+6	1522624265	2	Be stubborn and hold till the bitter end if you can afford too. Look at it as a test of character, you never know, you might be pleasantly at the other end.  If not at least you know you have will power made of solid steel. forged in the fires of hell ! 
+0	1522627386	11	Doesn't mean you can buy anything. He is purely talking about timing, not what to buy. GL holding some garbage because you bought in when there is blood.
+0	1522637398	8	Haven't seen any blood yet. Worst is yet to come.
+1	1522651202	4	A guy almost commited suicide in a japanese exchange a few days ago... Is that not blood? 
+2	1522685218	1	no, he would have had to do it
+1	1522644647	6	Up 600% over the past year, and OP is talking about blood in the streets, so ridiculous.
+2	1522648556	1	people were posting this when it first dropped back to 9k. ¯\\\_(ツ)_/¯ 
+3	1522649092	7	Yes, it's amazing how shortsighted people are. When the market is irrationally high, they think they are Warren Buffet, and when a traded goes against them, they cry market manipulation and talk about the need for regulation.
+2	1522646074	0	Lots of people went all in on december, who knows how long btc will stay down, might be years for all we know.
+1	1522638066	1	Yep, not yet. No widespread panic yet
+0	1522613862	32	He only meant things with actual value, not gambling tokens.
+1	1522687633	1	If you see 1.2 billion dollars worth of gambling tokens maybe you should ask yourself if maybe youre a dumbass and they aren't really valueless gambling tokens...but rather there is value you don't see.
+1	1522613991	-4	Things like gold?.... :)
+2	1522616245	31	nah, more like shares in well established and profitable companies that produce goods and services people rely on everyday
+3	1522633749	-7	Hey everyone look, we got a sheep right here!
+3	1522622155	-5	like enron?
+4	1522650320	8	No, that won't work. Too similar to cryptocurrency. 
+4	1522645366	1	Hahaha
+4	1522632166	-3	More like Target, eBay, yahoo, TJX, J.P. Morgan... u know. Those bastions of industry that never ever experienced a major data leak of customer information. Unlike that silly bitcoin blockchain where every week we’re hearing about how people’s social sec number, address, credit score, date of birth, social media likes, and purchasing patterns are being stolen from and being leaked. I swear, this blockchain thing is just a silly tech buzzword./sEdit: people know I’m being sarcastic about everything I said in this comment, right? Or do some people need to go back to Eng 101 and reading comprehension?And yeah, another data leak at lord n Taylor and saks fifth ave. Gotta love their central points of failure.
+5	1522643647	4	Blockchain doesn't really solve personal privacy issues. Like, in any way, shape, or form. Companies still need people's addresses and date of birth for their records. That either goes on the blockchain or does not. If it does, then it's decryptable. If it does not, blockchain does nothing.Merkle trees aren't actually new tech.
+6	1522644952	0	So...... when I pay for things using the bitcoin from my digital wallet (which I never ever put my name or any info when setting up), then doesn’t that seminal act inoculate me from the dangers of data leaks? If my info was never on the blockchain nor on my wallet address to begin with, then my personal privacy is protected. The private info was always mine. In my control. Never on my wallet, and therefore never on the blockchain. As opposed to credit and debit card transactions where all my info is shared and available between me, my bank, the card issuer, the merchant.... oh and now that hacker and whoever buys the leaked data. So yeah... i’ll take bitcoin’s blockchain any day. NOT because the blockchain protects my info, but because my info is not required to begin with for my transaction to be validated and placed on the blockchain. 
+7	1522651060	8	Let's say you bought off Amazon. How do they know where to send your package? 
+8	1522651370	6	The jokes on you! He never gives them his address and amazon just gets free bitcoin! Creating more adoption! /s
+9	1522676357	1	Hornswoggled again! 
+8	1522666342	1	Couldn’t I just use a P.O. box? and order from a Starbucks internet connection? And use a throwaway email address.
+9	1522676335	1	Good luck. I have a po box and half the things I order, Amazon tells me that the manufacturer refuses to ship to Amazon Pickup points let alone my PO box. Furthermore, if I was that chuffed, I would just use a prepaid VISA. Same result, without all the hassle of Bitcoin. 
+5	1522638484	1	check your facts on target , yahoo, tjx, and jp morgan.  ebay is probably rootkitted with something public right now.
+6	1522638568	1	Why?
+7	1522638701	2	because you are incorrect
+8	1522639023	1	Be specific.
+9	1522639395	1	are you claiming that target, yahoo, tjx, and jp morgan have never been owned and exposed their customers' private data which they were responsible for?  or was the /s including that part too?  if so then i didnt follow your sarcasm properly.ebay only exists online as a web site.  this existence can be paused or ended at the whims of very unskilled people.  that is not a bastion of industry.
+3	1522635517	-5	Bitcoin produces goods and services people rely on everyday. 
+2	1522615844	6	Plenty of uses for gold, beyond even exchange or jewelry
+3	1522616256	-1	Plenty of uses for Bitcoin, beyond even gambling or speculation
+4	1522616869	7	Name one.
+5	1522618389	5	Financial independence from governments and banks is one single (pretty big) use case for a decentralized blockchain like bitcoin. I'm sure you can think of interesting stuff you can do with an immutable, uncensorable and decentralized ledger, or do you need me for that?
+6	1522622840	13	No one can use bitcoin independently from governments or banks.the majority of trade is done on government regulated exchanges/payment processors, over government regulated internet and power infrastructure, using government money and centralized payment processors (also regulated by the government).what little is happening outside of those heavily centralized channel is still heavily reliant on the availability of those channels to create enough confidence in liquidity and other forms of government payment and infrastructure (i.e. localcoins still requires people to have bank accounts or fiat cash to be able to trade, and government internet to facilitate the trades)If it was possible to run without governments or banks then it should be already doing so because it directly undermines the supposedly pretty big use case for bitcoin if it builds an infrastructure reliant things that the government can take away.It's not possible to run something like bitcoin without centralized telecoms and power infrastructure. So long as governments are still in charge of who gets to lay fiber optic cable through neighborhoods and who gets to launch satellites into space that isn't likely to change. And so long as decentralized power represents only a tiny of fraction of the worlds energy supply its also not practical to do PoW without regulated government power infrastructure. 
+7	1522624235	2	independence or decentralization is not binary. It's better to have more than less. Obviously it's very hard (or maybe impossible) to have a working society without some sort of government or rules, but with bitcoin you have definitely more freedom and control over your money and the government and banks have less control and knowledge about you. You can go where you want and take everything with you without much of a hassle and pretty much without anyone knowing how much you have if you did it right. Nobody can take it from you without force. Not even North Korea could stop people from using bitcoin since it's also usable via radiowaves or satellite. If a government starts waterboarding millions of people for their bitcoin, I think we have bigger problems to worry about than just financial freedom. There are some people already living only with bitcoin and without bank account. /u/Bitcoin-Yoda might have more insight on how it works.
+8	1522648304	1	>If a government starts waterboarding millions of people for their bitcoin, I think we have bigger problems to worry about than just financial freedom  Exactly, well said.  https://www.youtube.com/watch?v=kPYUNN7QkPY  I live only using BTC from 2015 with no bank accounts, in total freedom. There is no gov that can stop that.
+7	1522644718	1	Your city owns the streets, easements, utility right of way,  and all common property. 
+8	1522669321	1	And thats why its impossible to do any kind of business without reliance on government infrastructure.Unless someone builds a cheap teleportation machine you're going to rely on government infrastructure for transport and logistics.Unless someone builds a decentralized internet and power grid you're going to rely on the government for power and telecoms.
+9	1522687531	1	The point though is no amount of money will punch through the government monopoly. 
+7	1522648402	-4	Looks like they trained you well in the 77th brigade.... your brain is really fucked up.
+8	1522669223	5	>your brain is really fucked upGreat point. I rescind all my previous points.
+6	1522636348	1	Hahaha no. 
+5	1522616963	4	peer to peer trustless transactions with no middle men.
+6	1522618768	8	if that's a useful thing, why are most bitcoin transactions done through middlemen, exchanges or payment processors like bitpay and coinbase?
+7	1522618802	-1	Just because people use it for other purposes does not mean that what I said is not a use of bitcoin.
+8	1522619429	11	you can use a newspaper as an umbrella or a hammer, it doesn't do a particularly good job at either of those things.when people are asking for uses of bitcoin they mean practical use cases where it solves a problem someone needs solving, not just a theoretical use that very few if any people want or need it for.the fact that the vast majority of people using bitcoin (which is supposedly selling itself on being decentralized) are using it through centralized middlemen throws into question whether "decentralization" is something users of bitcoin want or need, let alone anyone else.centralization is very efficient which is why even when people buy into a decentralized cryptocurrency they end up trading it through centralized processors rather than directly with each other.
+9	1522619680	2	I've never sent it through a centralized processor when I'm paying someone with bitcoin. I only use centralized processors to trade, and I imagine that's what most people use it for. Of course the majority of the volume is going to be through an exchange when a majority of people are using crypto as a trading tool. That doesn't make its original function any less valid, it just means that people have found another use for it as well.
+9	1522632481	0	Centralization is very efficient at creating central point of failures.Kind of like how today we’re hearing of another data leak regarding people who bought things off of lord n Taylor and saks fifth avenue. Now remind me again when was the last time someone was able to get ss numbers, addresses, date of births, purchasing preferences, and location activity directly from a bitcoin wallet or directly from the bitcoin blockchain? Because... I don’t remember ever having to put my name or email when I setup my wallet to buy and sell things. 
+7	1522648639	-1	You just named some idiots that they do not respect the definition of Bitcoin.  Reminder: [Satoshi's papers](https://bitcoin.org/bitcoin.pdf), stated: **Abstract. A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution.**  
+8	1522669196	6	>You just named some idiots that they do not respect the definition of Bitcoin.So most bitcoin users are also idiots? Because most bitcoin users are trading bitcoin through companies like coinbase and bitpay.
+9	1522672576	-1	Yes. Many people don't even bother to put their brain in function and think about/ask themselves "why the fuck Bitcoin ever existed".
+6	1522617040	0	PGP?
+7	1522619319	1	How are you going to send monetary value via PGP without any middle men?
+5	1522635536	1	It's good for buying outright illegal stuff like drugs, or for grey areas like private Usenet indexers.
+4	1522616964	1	that escalated quick 
+0	1522640473	3	"In the short run the market is a voting machine, in the long run its a pithy saying"
+0	1522625944	5	I’ll wait till it hits 2000
+1	1522640289	4	Here you dropped this: 0
+1	1522633547	1	You must be a patient man
+0	1522643123	3	You're in for a surprise if you think this is blood in the streets :)
+1	1522644704	0	Up 600% over the past year.
+2	1522645175	1	I don't disagree.I just believe we will be seeing lower prices than now. Time will tell.
+3	1522647496	1	Yes, I was posting that in agreement with you. 600% up for the year in not blood on the streets by any measure.
+0	1522617064	5	That are Rothschilds words. 
+1	1522618535	10	Yes, and the words are quite evil.  He was talking about buying up a country's assets after destroying it through war.
+2	1522628861	2	The picture isn't even JDR. Also, "whorth"  .... That was put together either by a Chinese or Russian miner
+0	1522650361	2	Eventually, Bears must hibernate.
+0	1522672829	2	True
+0	1522644746	2	BTC is up 600% over the past year, can you explain how this is blood in the streets?
+0	1522626891	1	Everyone on this sub is rationalizing buying more when it's really not a good idea until the market stabilizes.
+0	1522649217	1	[Citation needed]
+0	1522653775	1	Shitpost supreme
+0	1522655788	1	The Blood will come. There is no blood yet.
+0	1522669585	1	Are you ready for the long winter and Bitcoin price way below 2k? If not, sell now – it's not your game.
+0	1522670773	1	A lot of whining going on, but be real - there is no blood.
+0	1522673465	1	Anyone else getting tired of the constant regurgitation of these quotes and idiotic memes?
+0	1522649214	1	And when you buy when there is blood.. it drops further with more blood.. don’t listen to these so called experts
+0	1522648591	0	That irrational pump from October is gone. This "crash" was weak. We need a good 50-70% drop from current values. 
+0	1522651110	0	Is that Satoshi?
+0	1522661115	0	hodl!

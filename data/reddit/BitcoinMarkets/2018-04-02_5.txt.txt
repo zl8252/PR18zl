@@ -1,0 +1,10 @@
+File created at: 1522692517
+Subreddit: BitcoinMarkets
+Submission title: Is a realtime GBTC feed available anywhere?
+Submission created utc: 1522677056
+Submission score: 7
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522678305	1	i guess just the trading brokerages like fidelity got live prices. 
+0	1522688555	1	Your stock broker should be able to provide you with real-time prices. 
+0	1522690477	1	Just commenting on GBTC in general.  The GBTC price compared to BTC is so strange.  If there is a crash in bitcoin during trading hours the price of GBTC drops 5-10% more than it should.  If there is a rise during trading hours the price also goes up faster.  But if anything happens outside trading hours, for example like when the price heavily dropped on Thursday night through the weekend and on the 18th the price barely changed since Thursday at 4pm  (Markets were closed Friday through Sun due to Good Friday).  It should have opened .50-1.00 lower but it didn't.  Also if there is a huge run up in the evening or middle of the night all of those gains usually are missed in your GBTC position.

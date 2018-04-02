@@ -1,0 +1,66 @@
+File created at: 1522692501
+Subreddit: CryptoCurrency
+Submission title: April Fools! Vitalik's Hard Cap Proposal was a Joke
+Submission created utc: 1522664233
+Submission score: 169
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522665413	163	« 20% of the blogpost was plagiarized from tron » 😂😂😂
+1	1522682472	26	Lol Vitalik with no respect for Tron life.  I love it.
+1	1522681561	3	Could have been 100% of something plagiarized by Tron at 80% on eth :')
+1	1522667610	-34	Yeah right.
+0	1522669082	77	This is a terrible reading of Vitalik's tweet.His point was that it doesn't and shouldn't matter if the proposal was a joke.The proposal stands, the community can discuss it or try to implement it.He also noted a few more reasons why he likes the hard cap idea.
+1	1522676014	7	Well I mean I think the title is sort of ok because it’d be annoying if they revealed the meta-joke in the title maybe
+1	1522686626	3	For those who don't understand exactly what Vitalik is saying here, he's basically saying "I shouldn't be the one choosing, this is a community. Don't debate over which one i'm going to pick... debate over which one *you* [the community] would rather have..."
+1	1522688504	1	I am confused. As it stands now, is ETH uncapped??
+2	1522689212	1	Yes. The plan was always to move to proof of stake with a far lower issuance, but there is no technical cap.Monero is also uncapped, but has an extremely slow issuance the further out you go, and it be years (decades?) until there is as much XMR as BTC.
+1	1522676558	-1	He’s a guy with clear ideas in mind for the future of ethereum, that’s the important thing. /s (or maybe not)
+0	1522669705	34	Where's the bit where he gives away eth as an apology for the prank?
+0	1522665643	32	Ethereum plagiarized Tron, oh no, Ethereum is a shitofshitcoin. /s
+1	1522679117	5	Literally the worst coin. Today's the first time I've even heard of it.
+0	1522678452	9	Interesting way to taste the water: make an announcement on April Fool's day, if the community supports the idea—implement the suggestion, if not—say it was a joke. It's a win-win!
+1	1522685403	1	"This water tastes like water."
+1	1522687814	1	*test
+0	1522669047	13	Maybe but the cap is needed for ETH
+1	1522674649	5	Maybe he was testing the waters.The kid is 24, I feel ambitious and well rounded at 27, and I dont know how I'd deal with the POS hard fork, pissed off miners, uncapped ETH, and the future of his project. This ETH hard fork is going to be worse than BCH. 
+2	1522675987	3	You realize it's hybrid proof of stake first right?PoS finalization every 100 blocks (1 epoch) with 99% PoW still.That will then slowly shift until total PoS.They're boiling the frogs (miners).
+3	1522680583	3	If casper really changes the block reward for pow from 3 to 0.6 then they are not "boiling the frogs"They are throwing them in ice cold water and 80% will instantly dieMining is already barely profitable at this price if you change the issuance to be reduced by 4/5ths then most miners will gtfo
+4	1522680757	2	I am certain that will not happen.
+5	1522682767	3	are you?http://notes.ethereum.org/GwTgLAZghgRgHGAtABmARgKaLFNzEIwjZgDsAxsBAMzIwbJpA"In this proposed spec for stage 1 Casper, Ethereum will transition from pure proof of work to hybrid PoW/PoS. In this scheme, all of the proof of work mechanics will continue to exist albeit with a **reduced block reward (0.6 ETH)**"https://np.reddit.com/r/ethereum/comments/88r8ed/casper_is_coming/dwmti4q/
+3	1522677882	0	That sounds pretty.Waiting for the next Roger Ver to get a bunch of cult worshipers to use 'the true Ethereum' which benefits miners or HODLers.Whatever the case, the hard fork does not get talked about as much as it should. The april fools day 'prank' shows how divided the community is.
+4	1522683949	1	Bitcoin's situation was pretty unique, where they insisted on no blocksize increase despite 80-90%+ of miners signalling for one, and censored users on their discussion forums who discussed blocksize increase proposals on the grounds that their doing so was "altcoin discussion".I don't think we'll see anything nearly that divisive.
+2	1522686525	1	probably, we need to wait until more details are posted
+0	1522675205	5	VB just testing the waters. We know what he was up to, trying to do a double switcheroo on us. Now we’ll never know what he thinks but the idea has a full proposal behind it. Safest way to do it I guess. 
+0	1522677136	4	Sorry for disappointing you! To make up for it I am giving away 2000 ETH! Just send 0.5 to 5 ETH to the address below and get 3x back!!
+1	1522679113	3	OMG I can't believe it! I sent 1 ETH and got 3 back! Then I sent 10 Tron and got 30 ETH back! HOW IS THAT POSSIBLE??
+0	1522669474	22	The post is missleading, **devs should stand up here**.Vitalik said that the proposal is real and that he believes that a hard cap should be implemented.
+1	1522676135	0	He never said he believes that a hard cap should be implemented.
+2	1522676370	6	He does like the idea, based on his tweets. Also: https://np.reddit.com/r/ethereum/comments/88y85x/if_the_community_wants_fixed_supply_and_people/dwo5veq/
+3	1522676454	5	What he said > I'd support there being a carbonvote on adopting a supply cap.What you think he said> I support adopting a supply cap.
+4	1522676509	4	What he actually said on Twitter: > I do now believe that fixed supply is worth considering. Arguments:>>* With ASICs, PoW issuance fails at making coin distribution more egalitarian>* With PoS, PoW issuance not needed for security>* With rewards coming from rent+other burned fees, can have rewards without issuance
+5	1522677566	1	> I do now believe that fixed supply is worth considering.Or> I wants fixed supply.
+6	1522677761	3	Yes, which is why I said he likes the idea. It's not decided yet.
+7	1522680056	1	But OP said:> he believes that a hard cap should be implementedVitalik wants a discussion. Not a hard cap.
+2	1522680076	0	Not sure why you're getting downvoted. You're right.
+3	1522686309	0	He's not, vitalik commented here on Reddit multiple times about capping.
+4	1522686419	2	Did he say it anywhere in this thread or in the OP? No? Then fuck off. Still the people who posted here with links showed that Vitalik would like the community to think about it, he never said he actually wanted to implement a hard cap.
+4	1522691525	1	He said multiple times that he wants a **discussion** about capping. That's nowhere near "he believes that a hard cap should be implemented". I'd at least expect you to read the tweets in the OP. He never sided with anyone. I don't know why people are assuming things.
+0	1522664234	2	If this submission was flaired inaccurately, [click here](https://www.reddit.com/r/CryptoCurrency/wiki/resources#wiki_flairing_content).*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1522679031	2	Vitalik is from another planet.
+0	1522682655	2	To celebrate April fools we are giving away 5000 eth......
+0	1522678037	1	Really?
+0	1522686229	1	It's *not* a joke, capping is definitely on the table. *Phrasing it as meta* was supposed to be a joke.   Vitalik should apparently refrain from trying to be funny.
+0	1522686820	1	love him
+0	1522687722	1	Perhaps he shouldn't kidding around with peoples' money.
+0	1522689254	1	To be fair, you have to have a very high IQ to understand the humor of Vitalik Buterin
+0	1522689942	1	this was the lamest april fools day ever. i didn't even smile at a single joke
+0	1522691142	1	Vitalik is a PR nightmare. Ethereum desperately needs a new front man.
+0	1522664383	1	Thank God
+0	1522667831	1	Paging r/iamverysmart...I kid, I kid
+1	1522675131	8	One of the cases where the person actually is very smart though
+0	1522675001	1	Shocker.
+0	1522669527	0	That's hilarious /s
+0	1522670039	0	I was sure that Vitalik was always against a hard-cap, it's really only a mechanism to protect speculators and Ether will always be needed for gas, realistic or not ethereum expects to be around for decades if not centuries...
+0	1522671893	-1	So the proposal was a joke but not the idea? such a genius /s
+1	1522676088	4	He's trying to decrease centralization around himself.It does not and should not matter if the proposal is a joke. The logic is real, the community can merge it if they support it.
+0	1522671392	-1	There's no hard cap! April fools.Hahahaahahahaha. 

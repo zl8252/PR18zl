@@ -1,0 +1,12 @@
+File created at: 1522692519
+Subreddit: BitcoinMarkets
+Submission title: Best websites to margin trade and short
+Submission created utc: 1522687469
+Submission score: 3
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522690615	2	Bitfinex seems to have a much better UI. Apparently US residents can use it with a VPN, just deposit crypto rather than fiat or Tether to avoid the verification process. 
+0	1522687515	1	What country are you in?
+1	1522687548	1	Thanks. Just edited it
+2	1522689652	1	Bitmex, sign up using a vpn. Don't ever use more than 10x
+0	1522687978	1	Bitmex

@@ -1,0 +1,58 @@
+File created at: 1522780337
+Subreddit: BitcoinMarkets
+Submission title: Moon Math Update
+Submission created utc: 1522708703
+Submission score: 157
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522719058	19	Thank you for always putting in the work for these updates. 
+0	1522729591	8	Thank you for this post
+0	1522714900	16	Keep up the good work!
+0	1522743009	3	What do you mean by fundamentals?I understand what fundamentals are for the stock market, but can't decide what they are for cryptos. 
+1	1522756311	12	Most crypto have very, very, poor fundamentals. I consider all the following in no particular order:* Real users* Efficient use of blocks* Metcalfe's Law* Institutional adoption* Security* Immutability* Regulatory compliance and acceptance* Liquidity* Price stability* Age* High value* Low inflation* Low distribution inequality* Good public perception* Low transaction fees* Scalability* Usability* Trustless* Decentralized* Active developers* Quality developers* Quality leadership* Focused teams* Organizational knowledge* Low entropy commits* Good immune system - healthy - can't be socially or culturally infiltrated by bad actors* Institutional adoption
+2	1522768150	2	Cool, thanks for the extensive list.
+3	1522770009	1	Some of this is specification defining. For example, I don't think that our current economy is the appropriate use case for a blockchain. The blockchain is better suited for a post singularity economy. So, I imagine transactions and wallets increasing a billion fold over the next 30 years, but most of those not coming online until the mid 2030s when there's an explosion of AIs who want to participate in a faster and more fluid economy. In this case, scalability doesn't have a practical solution yet. So, I just consider the available options based on the likelihood that the project may eventually develop a practical solution.
+4	1522772805	1	> In this case, scalability doesn't have a practical solution yet.I don't mean to shill but your ignoring the obvious solution that already exists. DAGs. 
+5	1522772924	1	> DAGsYou're sacrificing security and you're centralizing. You'd need to create a DAG that's a good store of value, too.
+6	1522772987	1	Yes, and nothing is perfect. Personally I think its a waiting game to finesse the system. (I don't see how its less secure(?)
+7	1522773064	1	Centralization is the biggest weakness. I don't see why you'd use a DAG instead of a regular database. Not understanding the distributed part of a distributed ledger just means one doesn't understand the value of a cryptocurrency.
+8	1522773114	1	Because DAGs aim for decentralisation. But yes, I accept the criticism
+9	1522773150	1	There was a ninja edit.
+9	1522773218	1	Also, lightning is kind of a DAG that's added on as an extension to Bitcoin. It's not clear that it's the only scaling solution.
+3	1522770426	1	BTW, this was a really great question. IMO, you got to the heart of the post and picked out the most important bit. Keep up the good work.
+0	1522742380	3	Thanks as ever. I always look forward to these. 
+0	1522720894	4	Also thanks.  Love your commentary!If anyone's interested here's a link to Google to find jarederaj's Moon Math posts more easily:https://www.google.co.kr/search?q=jarederaj+Moon+Math+site:reddit.com&source=lnt&tbs=qdr:w
+0	1522726726	2	So far so good...
+1	1522756859	2	Yeah... Slept like a baby after finding myself in so much profit so quickly. Could be a good week.
+2	1522774457	2	What exchange do you long and stake on? 
+3	1522774527	2	You need to find one that's appropriate for the country you live in.
+0	1522769747	2	> I'm 10x long. 8x stake @7,001.What do you mean by 8x stake?
+1	1522772051	3	I divide my trading stash up into 20 stakes. After I close a trade I refactor the value of a stake. When I lose a trade I double my stake. If I make a 16x stake and lose it then I have to start over at 1x. If I make a winning trade I start over at 1x.I can't ever lose everything this way... but I can lose a lot really fast on consecutive bad trades.So, a 20x stake is the maximum I'm willing to lose trading Bitcoin and there's no way to ever bet that in this system.It's very experimental. I don't know anyone that's doing it and people have discouraged me from attempting to use this system.It's exactly like thinking in 5% chunks all the time. It's supposed to reinforce the idea that all trades are bad trades. You're just hoping that you get a trade right when there's a higher stake involved. Ideally, good trades erase all the bad trades if you manage to get out of bad positions quickly and let good positions ride longer.So far, the best I've done is get my trading stash up by 25% in a month in a bear market where I'm taking out more longs than shorts. I'm up, overall, 35% if I close my current long position now. Reviewing my trades, I did better than I had a right to. That first 8x trade is a kick in the balls, though. The trades that made the vast majority of my profit have been few and far between.
+2	1522772592	2	Very interesting. I might have to try this myself (I gave up day-trading 1 year ago)
+0	1522724960	4	Sorry for your imminent loss. Global markets are being squeezed for liquidity and I don't forsee a powerful bull market for some months.
+1	1522730272	18	Struggling get by with 45% gain in 5 hours, but I'll find a way to get by with this meager gain.
+2	1522731093	2	Lol, nicely done. Did you cash out?I agree with your noob recommendation to hold off in the near term.
+3	1522754766	7	No. Up 56% now and bears should be just starting to get nervous. This was a high risk trade that seems to have found itself in a good position with an okay entry. If I can ride this for a week I will.
+0	1522724238	2	To me, price may go down to $5,000.I hate this but..Bottom needs sacrifice.Always it overshoots.
+1	1522725023	8	Or heck, even further. Not that I'm selling any BTC... I've been wrong before and I'm in accumulate-only mode.
+1	1522768978	3	> Always it overshoots.I can't believe how many people just don't understand this.  Even forgetting everything we've seen, what would you imagine that the price chart over time of a global decentralized digital currency, bootstrapping itself from nothing, should look like?  It ain't a straight line, that's for damned sure.It looks like a rocky fucking crazy line, like you might imagine the path of a car to drive if the driver was fighting off a wild animal while driving.  The path is not straight.  It cannot be.
+1	1522734907	1	The market demands blood.
+2	1522757244	1	That's relative. What's blood?5K, 2K, 50c? it depends on what you bought at.
+0	1522740510	1	That this passes as analysis always astounds me . . . 
+1	1522756404	8	It passes as commentary. "Moon Math Update" not "sound TA that explains the market." There's a whimsical name for a reason.Check the FAQ on the site. There's a question about efficacy that I answer there.
+0	1522719954	-23	>If you're goal is to DCA through a potential dip, and your comfortable with taking initial losses, then this remains a good place to slowly add to a position without leverage.Lots of work put into this, but I'll never follow the advice of someone who can't figure out the difference between your and you're.
+1	1522720478	14	I’ll never follow the advice of someone who gives too much weight to trivial details. 
+1	1522722369	17	Sorry about failing to edit what is a pretty long post. These are written stream of consciousness and I don't spend enough time editing my grammar. Hopefully you're not to upset and your feelings weren't hurt too bad.
+2	1522728119	9	Being critical of grammar is a relic of the days of yore. It’s nice that you’re bringing awareness to the importance of correct language, but could you try not being such an eggplant about it?As for the OP and his pleasant reply: Continue the good fight, sir! (Your post is appreciated!)
+3	1522752497	5	*days of you're
+4	1522759775	-2	Lol—no, days of yore* is an actual phrase and “yore” is a word.
+5	1522768805	1	Doubly wrong. The spelling is YOR and the phrase refers to the future, not the past.https://m.imdb.com/title/tt0084935/
+2	1522757419	3	> Hopefully you're not **to** upset and your feelings weren't hurt too bad.Not sure if trolling :D
+3	1522757462	2	Classic me, lol
+4	1522757502	3	Great post btw.Thanks for sharing.
+5	1522757650	2	Thanks! Glad you enjoyed reading my commentary.
+1	1522734522	3	"Your" the idiot :). The point of language is to communicate. If you can not figure out which "your" someone means in the context, then you are the fool. Dyslexia is a very real brain state and most great thinkers have it set to on from birth.
+1	1522734936	3	Ugh...
+1	1522764538	2	This just in:3 page market analyses rendered debunk due to single typo!
+0	1522739893	-6	Looking forward to those $80m BTC on April 9th!
+1	1522741551	5	That is volume, from lbc

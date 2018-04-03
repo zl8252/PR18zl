@@ -1,0 +1,29 @@
+File created at: 1522780297
+Subreddit: btc
+Submission title: Found a video from back in the early days of GPU mining (2012 I think) GPU caught fire!
+Submission created utc: 1522731335
+Submission score: 138
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522733857	14	To be real, that GPU didn't actually catch on fire. What you saw was a spark coming from a short-circuit that looks like it was caused by cramming too many cards into such a small space or improperly connecting the power supply. [This is what it looks like when miners actually ignite in flame.](https://www.bing.com/images/search?q=thailand+bitcoin+miner+fire&FORM=HDRSC2)
+1	1522738542	11	Do you use bing?
+2	1522738770	20	OP is singlehandedly keeping the entire service afloat. When Microsoft talks about the Bing user base they are in fact directly addressing OP. Do not underestimate the power OP wields. 
+3	1522741321	5	Microsoft stepped down from being the most evil technology company in the world, and so I figured it might send a good message to the industry by throwing Bing a life preserver. I indeed wield great powers and also J-B Weld.
+0	1522746678	1	I know that feeling of seeing a piece of expensive hardware go down in sparks and smoke. Auch... :-/ 
+0	1522748822	1	Holly shit, static electricity gotchyu.Happened with me once, a chip blew up.
+1	1522749446	1	It was on the power connector end of the card and not by the chip. Static would have dissipated too fast to build up that much light and sound. They've got metal-on-metal somewhere it shouldn't be.
+2	1522749902	0	Well, this happened to me without any metal-on-metal, it was most probably due to humidity or that I didn't ground before powering up. It was a big explosion with a fat yellow light. I found the piece of the chip somewhere in the living room after that.
+3	1522750721	1	If there was a ton of humidity or caked-on dust then static could support a small arc, but these look like new cards in a climate-controlled office with anti-static carpet. Daisy-chaining or using one from each psu on the same card could be another cause. They say it is maybe a "QC" issue in the tweet, but the chips and the final assembly should always go through multiple burn tests. Who knows? Maybe it was delivered by Ace Ventura, and one of those times he kicked the box down the sidewalk it crimped a [couple] of the power connectors together by accident.
+4	1522756086	0	This was a mfg defect. Too much solder. To points on the back of the PCB we're soldered together. Out of the thousands I've had over the years this was the only one. Thought I'd share as it was funny and an anamoly. 
+5	1522756478	1	Thanks for the explanation. 
+1	1522759730	1	It's the GPU risers 
+2	1522766071	1	See the other comments in this thread. He said it was an instance of imprecise solder. 
+0	1522759028	1	hahaha, the good old days
+0	1522768972	1	Windfury 7950? Those puppies were known for blowing capacitors. My radeon's are still working for gaming like a champ though.
+0	1522739735	1	wow
+0	1522731348	0	^The linked tweet was tweeted by [@OGBTC](https://twitter.com/OGBTC) on Apr 03, 2018 04:54:45 UTC (0 Retweets | 0 Favorites)-------------------------------------------------Found a video from way back in the day when we were mining $BTC with GPU's.Apparently they don't QC when you buy 500 at a time. LOL!\#Bitcoin \#Litecoin [Attached video](https://video.twimg.com/ext_tw_video/981032132293181440/pu/vid/178x320/ZZcDyKYJjdfMndNJ.mp4)-------------------------------------------------^^• Beep boop I'm a bot • Find out more about me at /r/tweettranscriberbot/ •
+1	1522738581	1	Good bot
+2	1522738583	1	Thank you, bw88wb, for voting on tweettranscriberbot.  This bot wants to find the best and worst bots on Reddit. [You can view results here](https://goodbot-badbot.herokuapp.com/).   ***  ^^Even ^^if ^^I ^^don't ^^reply ^^to ^^your ^^comment, ^^I'm ^^still ^^listening ^^for ^^votes. ^^Check ^^the ^^webpage ^^to ^^see ^^if ^^your ^^vote ^^registered!
+1	1522731516	1	THANKS BOT! UR THE BEST!
+0	1522734851	0	It's not surprising... the amount of heat that some GPU's put out is crazy. Wonder how many times this has happened hahah
+1	1522736477	3	This wasn't caused by heat. It happened the moment they turned it on.

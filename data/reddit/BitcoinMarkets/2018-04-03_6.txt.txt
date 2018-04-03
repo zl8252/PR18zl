@@ -1,0 +1,9 @@
+File created at: 1522780347
+Subreddit: BitcoinMarkets
+Submission title: Do you lose your maintenance margin if you get liquidated or does Bitfinex gives you back the difference between bankruptcy price the execution price of the liquidation ? Who pays if you you the liquidation order doesn't get filled ?
+Submission created utc: 1522768603
+Submission score: 1
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522770321	2	You keep the remaining money. Platforms like bitmex and okex have to take it because they use it for the insurance fund to avoid putting counterparty risk on traders. Bitfinex puts the risk on the lenders/themselves (it's not clearly stated whether in case of some disaster the lenders will take the hit or if bitfinex covers the losses, but they have covered in the past afaik)
+0	1522771117	1	If the order book can handle the sale of your position (along with the position of other traders in a similar situation), your position will be sold on the market and you will receive whatever is left over after the sale. If the order book cannot handle the sale of your position without you having negative equity, then bitfinex will seize your position (I believe) at a rate such that you have zero equity and will attempt to sell your position over time. This will result in an advantage to you because instead of having negative equity (owing bitfinex money), you have zero equity. 

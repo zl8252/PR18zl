@@ -1,0 +1,20 @@
+File created at: 1522780302
+Subreddit: btc
+Submission title: The truth is known.
+Submission created utc: 1522737214
+Submission score: 100
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522747538	9	I love these, do you have a portfolio or blog where people can view all the ones you've made in order?
+1	1522758073	11	Glad you enjoy them (OP reposted a recent doodle - I am the artist.)You can find them all here:https://www.yours.org/@satoshidoodles or @SatoshiDoodles on twitter ✌️
+0	1522753658	21	This sub war is so childish and cringe, move on already
+1	1522765308	3	I know, the truth hurts. 
+1	1522758755	3	Let him create the art for the posterity first, then we move on.
+1	1522766825	1	Strange how many upvotes you're getting. Astroturf?If you believe this "sub war" is childish and cringe then you really don't have the first idea of what's happening.
+2	1522771083	2	The idea of a “sub war” and that you fight it with memes make me cringe even harder.This is like when those BCC goons threatened some YouTuber by saying something like “there are some bad dudes in crypto. Don’t speak ill of crypto nick. You might have to learn the hard way”.  In both cases it’s not a good look for the community.  And if what is happening is so crazy, is this the best this sub has?  Cute childish illustrations of children.  Imagine is Sarah Connor tried to stop the machines by drawing cute memes and getting in a little circlejerk with a few of her allies.  That’s why this is cringe. 
+3	1522772827	1	> The idea of a “sub war” and that you fight it with memes make me cringe even harder.What..> This is like when those BCC goons threatened some YouTuber by saying something like “there are some bad dudes in crypto. Don’t speak ill of crypto nick. You might have to learn the hard way”.What??> And if what is happening is so crazy, is this the best this sub has? Cute childish illustrations of children. Imagine is Sarah Connor tried to stop the machines by drawing cute memes and getting in a little circlejerk with a few of her allies. That’s why this is cringe.WHAT...??!Hahaha, this was the funniest shit I've read in a week.
+0	1522767371	2	Does the whitepaper really say that 8mb blocks will lead to sufficient decentralisation and that a contecious hard fork to increase the limit won't cause a failure of consensus?
+1	1522768844	1	Bitcoin Cash purposefully separated itself from Bitcoin Core to avoid a consensus issues. And the whitepaper doesn't specify any perfect blocksize, but essentially yes.Based on the fact that you don't know that, I might also mention that every new feature Bitcoin Core has introduced since they forked away from BCH, goes directly away from every basic concept in the whitepaper ;)
+2	1522774447	1	https://www.reddit.com/r/btc/comments/89bqo9/tipping_tuesday_adoption/100 bits /u/tippr
+3	1522774504	1	u/Coinstage, you've received `0.0001 BCH ($0.0714051 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1522765197	1	Why not name it? r/Bitcoin. 

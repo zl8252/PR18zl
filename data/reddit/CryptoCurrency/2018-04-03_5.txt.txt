@@ -1,0 +1,184 @@
+File created at: 1522780328
+Subreddit: CryptoCurrency
+Submission title: Gemini's fees have quadrupled as of this morning for most users.
+Submission created utc: 1522705464
+Submission score: 376
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522717252	60	Damn, well there goes my business with Gemini.
+1	1522735858	14	Same for me. I was pro Gemini and a big customer. I understand why their fees are being increased (they have low volume) in this bear market, but this type of increase doesn't make sense. I would need to sell 100 ETH+ to go back to normal fees as well as wait for re-calibration of fees. Waiting for another location that introduces fiat, then moving there.
+1	1522742740	4	Below are some alternatives.GDAX is actually the only place where you can trade & withdraw Bitcoin with zero fees:- https://i.imgur.com/qtzxJS0.png Here's the link (sort by trade column):- https://www.feexplorer.io/coin/1/BTC 
+1	1522763789	2	Wow. Well, last week I got an email from Gemini demanding a pile of paperwork and externally-sourced documentation proving my origin of funds. (We just went through all this opening the account last fall.) They only gave a week to comply before freezing accounts starting tomorrow, which is ridiculous. I haven't even heard back from my custodian with the documentation they were going to provide. I'm not going to worry about it now though, looks like I'll just let them freeze my account and forget about it.When I started scrambling to put together the compliance paperwork my contacts suggested using Itbit going forward. In case anyone is looking for alternatives.
+2	1522765446	2	Did you withdraw the funds?
+3	1522777637	1	I don't keep funds on Gemini as a rule.
+1	1522756060	1	Yep.  I will take my business elsewhere.  
+0	1522712678	133	1% on every trade. That's fucking abysmal. Coinbase level of fees.
+1	1522713613	50	Isn’t GDAX fee free?
+2	1522716959	35	As long as you use limit orders. Gdax deposit/withdrawal(anywhere) is also free 
+3	1522727776	8	Don’t they also have to be Maker only? Takers still pay fees.
+4	1522728466	15	That's what he meant by limit orders.
+5	1522743327	5	he's wrong though. you can make a limit order that's either maker or taker.
+6	1522746692	6	care the explain ? I get market & limit order but I dont understand maker / taker, thanks
+7	1522750965	3	When you post an order as a Maker, you’re the one buying/selling a specific amount at a specific price. The order will only be filled when orders come along and fill those exact specifications. The people filling those orders are Takers, and they’re the ones paying the fees. I’d assume most of these come from Market orders.
+8	1522752059	2	thanks
+7	1522759148	2	from Kraken support pages: > What is ​Maker vs Taker?> A trade gets the ​taker​ fee if the trade order is matched immediately against an order already on the order book, which is ​removing liquidity​. A trade gets the ​maker​ fee if the trade order is not matched immediately against an order already on the order book, which is ​adding liquidity​.or, from Poloniex FAQ:> What Does Maker-Taker Mean?> Every trade occurs between two parties: the maker, whose order exists on the order book prior to the trade, and the taker, who places the order that matches (or "takes") the maker's order. Makers are so named because their orders make the liquidity in a market. Takers are the ones who remove this liquidity by matching makers' orders with their own.> The maker-taker model encourages market liquidity by rewarding the makers of that liquidity with a fee discount. It also results in a tighter market spread due to the increased incentive for makers to outbid each other. The higher fee that the taker pays is usually offset by the better prices this tighter spread provides.
+5	1522750830	1	You can do limit orders that close as Taker orders, which means you still pay the fee.
+2	1522713912	8	Well I never used gdax. May be that's my next move.
+3	1522724836	2	Make sure to use limit orders for buying and selling for zero fees
+3	1522746731	1	I'm on coinbase since 1y ... tried 100X time to get my second ID validated, never happened. I said fuck it
+3	1522748882	1	Enjoy the nonstop, massive cluster fuck of bots while you are trying to place your orders. It’s unbelievable on there.
+2	1522735470	3	it is free.  But everyone on reddit hates coinbase/gdax for some reason despite them being the largest on ramp in the US and they seem to be trustworthy and have good security so far.
+3	1522742034	4	I understand some of the hate for Coinbase (I think the pros outweigh the cons), but GDAX is fantastic.
+1	1522720821	10	It's definitely not good for the smaller fish.  You have to have traded at least 10 BTC or 100 eth in volume over 30 days to get back  to .25% fee.Still blows.
+1	1522722088	19	10x what Binance charges. 20x if you're using BNB.
+2	1522735531	14	but gemeni allows you to trade to actual USD and not just USDT funbucks.
+3	1522738557	-2	[deleted]
+4	1522738796	1	We shall see. The banking and state regulations are not a small step to overcome. But that would be awesome, I love binance except for some coins have unreasonable withdrawal fees. 
+5	1522748355	1	I really don't why you people still shine about the withdrawal fees even after they were addressed.  it's just a flat payment for any coin you want. You need to pay a fee for the transaction anyway and if you actually withdraw a significant amount then the fee is practically nothing
+6	1522749049	6	yeah....  I remember paying $14 to withdraw some eth a couple months ago at the all time high, the ETH network fee was 50 cents for that transaction so they kept $13.50.Thats a little crazy to me.  Yeah I get it, if you withdraw a million dollars its no biggie to pay 14 bucks, but for us normal losers $14 is not insignificant especially considering some other exchanges charge 1/4 that or nothing at all to withdraw.  Also unless you are actively trading you should not be leaving coin on exchanges.  So if you make a trade every few days and like to withdraw in between those you have to pay the fee over and over and over.Just saying, I know it costs them money and they need to charge something to prevent spam.  But the fees are a little too high on some coins.
+7	1522775392	1	> Thats a little crazy to me. Yeah I get it, if you withdraw a million dollars its no biggie to pay 14 bucks, but for us normal losers $14 is not insignificant especially considering some other exchanges charge 1/4 that or nothing at all to withdraw. Also unless you are actively trading you should not be leaving coin on exchanges. So if you make a trade every few days and like to withdraw in between those you have to pay the fee over and over and over.> > That's why you just withdraw on NEO and convert on Shapeshift.
+4	1522744618	1	Sure as fick not for any usa bank
+4	1522770520	0	not going to happen, especially for US customers
+1	1522724520	3	Binance can't add fiat soon enough.
+1	1522721460	2	Yea, no thanks.
+1	1522727875	2	I was wondering why fees seemed higher than normal 
+1	1522765176	1	It’s been two months and I haven’t been accepted, I’m forced to spend 5%+ In total on coinbase/uphold
+1	1522766788	1	To be fair, you can trade with no fees on GDAX.
+0	1522722595	41	Hello GDAX. 
+1	1522724306	28	My old friend.
+2	1522727348	24	I’ve come to trade in you again.
+3	1522728506	22	Winklevoss twins softly creepingIncreased the fees while I was sleeping
+4	1522730271	7	And the coin, that was ledger stamped to my stashStill better than cashWanna trade fiat on Binance 
+3	1522728384	7	Because a cheaper option, Gemini increased its fees while I was sleeping..
+0	1522717494	74	I wont be using Gemini for trades anymore. Bad move by them.
+1	1522725001	9	Yea same I'll moving within the next week or so. 
+2	1522728067	1	Where ya goin? I was just about to make the move to gemini, but now i dont think i will. 
+3	1522730845	3	Coinbase XD
+3	1522730257	10	Are you from the usa? Check out Bitflyer USA. So far bitflyer USA has been impressive, great support, good tech, low fees.
+4	1522759968	2	In Japan Bitflyer charges 0.13% with slight discounts for large-volume traders.  For limit orders, they only offer BTC for fiat (JPY) and ETH and BCH for BTC.  They also have LTC, Ether Classic, Lisk, and Mona on an exchange with a (substantial) spread.  I wish they had more products, but for small traders, they are fine.
+5	1522776448	1	Thanks for the info. I know right now Bitflyer USA is fee free, but I couldn't find where the fees would be once the opening rate is over. In the US, we only have a few on/off ramp exchanges. GDAX(coinbase), Gemini, and Bitflyer. GDAX offers BTC/BCH/LTC/ETH, Gemini offers BTC/ETH, and Bitflyer USA is just BTC. There are not many choices for alts on these exchanges, you have to move to btc-alt exchanges once you buy your BTC. I have heard bittrex is getting USD banking so that could be a big change there.
+6	1522777210	2	We're working on getting more altcoins listed on bitFlyer USA.We haven't publicly announced what the fees will be after the 0% trading fee promotion is over, but they will be competitive. Thanks!
+4	1522730736	1	Thanks dude!
+0	1522719652	34	Interesting.  For all the complaints about traditional banks, at least on a traditional stock exchange, using my bank's online brokerage service, I can make a quarter million dollar trade for $6.99.
+0	1522705678	60	After selling a bit this morning, I noticed that something wasn't right. Eventually I realized that my fees have gone from 0.25% up to 1.0%. This is now the new standard fee for the lowest tier of users. Tens of thousands of dollars must be traded before you can now move into the (still awful) 0.75% tier. On the bottom of the fee tier page it says:> Any change to our fee schedule, including adjustments to any of the tiers or rates, will be emailed and/or posted no fewer than three (3) calendar days before changes are to take effect and no changes will be in effect for fewer than thirty (30) calendar days.Notice the "and/or". It turns out that just means "or". I never received an email, they just silently posted this notice. Pretty sleazy.
+1	1522717104	31	Can confirm no emails.  I've been telling people to use Gemini.  Not anymore..
+1	1522722044	14	that IS pure sleaze
+1	1522732156	2	No email from them. I just got verified and spent $100 last week. They got my first trade and last trade. Congrats Gemini!
+1	1522728191	3	and/or refers to email or posted. They still have to inform users 3 days in advance 
+0	1522706350	56	The twins took a massive hit during this crash and need to recoup their losses somehow I guess. 
+1	1522717350	37	Orrrr they need more revenue to support a model that will comply with potential new regulatory reporting requirements in the US??!?
+2	1522762078	2	Yep this is what it is. No coincidence the most compliant and regulatory friendly exchange is also the most expensive. Gemini is running their business the proper way. They are the only exchange that seems to have any idea of how the finance industry works. 
+1	1522735933	3	They actually have a very low volume during this bear market, so it might be that too. 
+1	1522738499	6	It was probably them applying all the downward selling pressure. Use the profits from Gemini and their Bitcoin sells to buy the bottom in a big way. Next stop, richest twins on earth!
+0	1522720612	22	As much as I understand the hate Coinbase/Gdax garnered, I've had no issues with using both. But after this, I'm taking all my fiat-BTC/ETH business to Gdax.
+1	1522730387	4	the only people who have trouble with coinbase are those who cancelled a 10k+ wire. And at that point it has nothing to do with coinbase and everything to do with the government having to clear it. Moving more than 10k fiat is going to do that to you no matter where you go. It's one of the reasons why buying cars with cash can still take hours at the dealership
+1	1522763151	1	Isn't Binance getting fiat pairs soon?
+0	1522721275	22	Hahaha what a riot..finally got authorized on Gemini after almost 2 months and I’ll never even use it 
+1	1522734301	2	Same.
+1	1522747047	2	Same. Just got approval email last week. Still haven't used it. 
+1	1522754733	2	Same. Really turned me off them tbh.
+0	1522724165	9	It's all downhill for their exchange now. All the volume will flee. 
+0	1522712056	31	Holy fuck that level of greed is just insane. I don't really understand how 2 people could be billionaires and want even more money.
+1	1522717082	44	You don't get to being a billionaire by being generous
+2	1522727064	6	Zuckerberg got to be a billionaire by screwing over the Winklevii. Now the Winklevii are screwing over their users?! Poetry! 
+2	1522724020	10	Generosity is irrelevant in their cases. They became billionaires by investing in BTC early. 
+2	1522730585	2	keeping the fee low/same is not being generous. It is called running a business wisely, given the market situation
+3	1522766679	1	This pattern is kind of funny on this subreddit. Exchange opens with low fees, people flock to it, quality nosedives, people complain, fees raise to compensate, people complain and flee to another exchange with low fees. Repeat
+1	1522712609	15	It's not about wanting more money, it's about making each business venture self sustaining.That, Gemini gets none of my business. 
+0	1522707511	41	Well Binance just took the crown as undisputed best exchange then
+1	1522727237	7	You can't trade fiat for crypto yet on binance can you? 
+2	1522728916	2	No your choices are gdax (the devil) or Gemini (Satan)I still use Gemini because I just use this shit to buy monero
+2	1522730321	1	See Simon and Garfunkel musings in prior comment ;)
+1	1522718773	0	[deleted]
+2	1522719074	9	Nobody complains about the trading fee. Its the withdraw fee that is the one that keeps being brought up
+0	1522717836	7	Damn.  Since I am banned from coinbase this is really my only Fiat gateway in us
+1	1522722493	10	Um, kraken?
+2	1522726254	4	I can't handle how bad their customer service has been. In the current climate of very limited fiat gateways though, sadly they may be an option. 
+3	1522732748	2	Theyve been great since the update, make sure you reply to emails from support, I had some in my inbox that I overlooked, and they got right back to me
+3	1522735602	1	Their support is great now, always a response within about an hour or less
+1	1522725696	4	I'll bite. How the hell did you get banned from coinbase? 
+2	1522726113	4	Usually sending coin to known darknet markets directly from their Coinbase account.
+3	1522726895	3	We've all been there
+4	1522728081	1	Truth.
+2	1522728896	3	Ive been locked out for months. So annoying. Verified my acct with my hwaiian id and got locked out. Then verified with a new washington id and they say everything looks good on their end. Well its not. Its still locked. They keep saying 10 more days.  Apparently when you acct is locked it should give you the option to withdraw all your funds. It doesnt give me that option and they act like they cant do anything about it. 
+3	1522732274	2	You take your funds, turn it into crypto, withdraw it all and sell it on another exchange....
+4	1522733257	3	? I cant even withdraw. My account is completely locked. Cant view anything. I just get the message saying its locked. 
+2	1522736063	3	Arbitraging for me. I've hard 5000+ tx. arbitraging and they just banned me. I am pretty sure arbitraging is not against the rules, but I might be wrong. I told them I would explain why I have so many tx; but they just didn't care. Coinbase's policy is ban now and don't care since they gain another customer in a few seconds. It is less risky for them this way. 
+1	1522727103	2	How did you get banned from Coinbase? 
+1	1522735122	2	You could exit with nano and choose one of the nano/fiat exchanges
+1	1522727766	-2	Uphold.com Check it out. Better than Coinbase and more coins listed. Easy to buy with fiat 
+0	1522731541	9	Limit Order / Maker Fee:- GDAX: 0%- Gemini: 1%
+0	1522726834	7	Damn, I used to shill them hard.
+0	1522727537	7	As someone living in Minnesota, unable to use head, what option do I have for fiat transactions that doesn't suck ass now? :/
+1	1522728044	-5	Uphold.com They are growing fast. Very professional. 
+2	1522736478	5	Their BTC fees show 1.05%. Gemini would be better.
+2	1522739005	3	Their ethereum fees are 1.4%! Plus they have withdrawal fees. Far worse than Gemini.https://uphold.com/en/pricing
+0	1522722617	6	It took a friend well over a month, maybe 2, to get verified on gemini. They may want more revenue to add more support, and maybe pushing small individuals away which is adding to their backlog.
+1	1522724433	5	I was under the impression that they were trying to cater to high net worth individuals, so it makes sense for them to raise the bar and weed out small time traders. Adding more revenue would also allow them to staff up their customer service to keep up with a big increase in user base, and perhaps add more people who can handle the increased regulatory scrutiny the industry faces. While some may think this is a greedy move, I find it more likely that there are sound business decisions behind their choice to increase fees. Nonetheless, I've also been waiting for months to get approved, but it no longer makes sense for me to use Gemini. Same goes for Robinhood.
+0	1522723988	4	I guess Binance and Kraken are my go-to's now, way to shoot yourselves in the foot Gemini..
+0	1522706315	15	I can see Binance getting a user pump because of this.
+1	1522733480	3	Do they take bank transfer though?
+2	1522737659	0	Buy on gemini, tranfer and then trade on binance.
+3	1522737688	3	not with those fees
+1	1522768667	1	Don’t really see a correlation, one is a fiat exchange the other is crypto to crypto
+0	1522725278	4	Bitflyer
+1	1522725829	5	I think bitflyer USA needs more exposure. Their support is very fast, same day at times. Withdrawing btc from them comes from a bech32 address, impressed me. Maybe if they get more popular their support will change but for now it's my go-to.
+2	1522729217	3	I was surprised sent a wire funds available within an hour kyc  was painless 0 fee trading and .0004 withdrawal.
+2	1522729247	2	Wish they offered more coins though
+3	1522777246	1	We're working on it!
+1	1522735542	2	Do they have fiat on ramp?
+2	1522748107	2	They already have USD via bankwire
+3	1522777274	2	We are planning on offering Bank linking (ACH) in the near future.
+0	1522728260	3	RIP Gemini, way to fuck over your users with at little notice as possible. Never going back now.
+0	1522729565	3	[deleted]
+1	1522732423	3	They just made it super unfriendly to people who have less than 1 million to use their platform...
+0	1522735003	3	Rip Gemini 
+0	1522763996	3	The 0.25% didn't bother me that much, but at 1% I'm done with them.
+0	1522725898	2	 I usually use Gemini when i want to add more fiat for their precredit deposit feature. Not anymore. 
+0	1522734622	2	If they think they have a viable future as a b2b only exchange then that's insanely bullish news for the market as a whole. No communication and no glidepath though means I smell a rat. Almost no one in this space seems to understand the coming battle for liquidity and the tiering of exchanges which is inevitable. This fee hike will probably kill liquidity and seems premature and ill thought out.
+1	1522742625	1	[deleted]
+2	1522743147	1	Explain
+3	1522743319	1	[deleted]
+4	1522743454	0	Well it's ok if there are enough of them and they actually want to drive away the smaller guys. Are there yet already enough institutionals to maintain liquidity? That's my question.
+5	1522744238	1	[deleted]
+6	1522744850	0	1. Well ok, stupid ones will stay. Or smart ones if they can achieve tight enough spreads to outweigh the trading fees. I am sceptical but ok, I don't have the facts at my fingertips.2. I completely agree. But this doesn't explain the fee hike and its timing. The fee hike is only dissuasive for small traders. It doesn't attract large traders. So I still don't get it.3. It was implied. Now explicit ;)I agree with you that almost no one on the subreddit seems to get it. People are good on tech sometimes but have little grasp of the economics.
+7	1522745737	0	[deleted]
+8	1522747104	0	But there was already a tiered fee system wasnt there? It could be implemented without the top tier being at 1%.I'm not going to try to follow further your reasoning but I think we agree that if major institutionals come on board the positive impact for everyone (who holds the right coins) will majorly outweigh any trading fee disadvantage, albeit it's likely that most retail trading will migrate to another platform.
+9	1522748141	0	[deleted]
+0	1522755850	2	For all of you banned by GDAX , check out itbit. 0.2% fee!
+0	1522735310	4	Outrageous fees on Coinbase/Gemini are going to let new fiat exchanges like Coss and Binance dominate. Dumb move on their part.
+1	1522736496	1	Isn't COSS really expensive?
+2	1522770110	1	No.
+3	1522771518	0	Just looked it up - it's 0.2% for trading fees, and possibly 1% for fiat. That makes it one of the most expensive exchanges.
+4	1522775571	1	> 0.2% for trading feesWut? That's on the low side. I'm not sure about fiat. 
+5	1522775758	-1	Well Binance is 0.1% or 0.05% if you hold BNB.  GDAX is 0.25% for market and 0.0% for limit and that's with fiat.
+0	1522720078	0	[removed]
+1	1522723567	11	Who hurt you?
+2	1522724157	14	The twins and their high fees
+1	1522725650	-6	Fuck Trump
+2	1522727097	5	Did I miss something?
+0	1522727972	1	Wow that's actually the worst fees on any actual cryptocurrency exchange that I know of (coinbase doesn't count).
+0	1522729566	1	And then you get taxed on top of that. Lol 
+0	1522732951	1	Winkleboyz gotta eat...  more.
+0	1522735185	1	Too bad, was my main fiat exchange.  Cya gemini 
+0	1522740683	1	I'm really shocked. I used gemini alongside coinbase  because of competitive fees. The business must have been hit hard. You don't just triple your fees for nothing.
+0	1522745937	1	Most of the people I know don't even use gemini. I wanted to but their system doesn't play nice with my credit union. I imagine this will tank their business.
+0	1522746107	1	Let them know your discontent with their incompetence on Twitter @GeminiDotCom
+0	1522746558	1	Well, the BTC is down, and the Vinklevosses are no doubt feeling the pinch, so jack up the prices. But there are so many exchanges out there, not hard to move. And moving BTC/ETH to fiat can be done elsewhere as well, in Europe there's Bitpanda for instance.
+0	1522760100	1	I would use GDAX the problem is that the ACH transfer takes a week or so to post and by then the price is often wildly different. I've used Gemini for upwards of 2 years because you can get the ACH transfer instantly credited (and their low fees until now).Is there a different exchange with USD pairings that will instantly credit up to $500 like Gemini when you initiate the bank transfer?
+0	1522760782	1	Wtf Gemini. I thought they were moving into a direction where they would want to be better than coincunts but this move is uncalled for.
+0	1522762377	1	Gemini is trying to position themselves as the main exchange for institutions. I am not surprised to see this type of fee schedule from them.They reward market makers. Pretty much expected.
+1	1522762610	1	Rewarding market makers makes sense. But if they drive out all the takers, then there's no point in having makers.
+2	1522762761	1	Agreed, but i dont think the fees for the takers is outrageous given their overhead. They are doing some big restructuring right now operationally. they just lowered their auction bounty as well.My guess is they are entering a new phase in their road map for development. Increase/change incentives, ramp up custodial services etc
+0	1522763120	1	So when Binance starts allowing Fiat deposit/withdrawals, what do you think will happen to Coinbase and Gemini volumes?
+0	1522735324	1	Outrageous fees on Coinbase/Gemini are going to let new fiat exchanges like Coss and Binance dominate. Dumb move on their part.
+0	1522726894	-1	I would suggest everyone leave this exchange Now. It is very likely Gemini is insolvent and need to get quick money from their customers now. Otherwise it makes no sense to raise fee now. As makert interests and volumes are down. Their server loading and customer support needed are much less. There is no reason to raise fee to decrease demands trading on the platform now. When an exchange is doing something illogical, you should be very cautious.  
+1	1522729627	4	[deleted]
+2	1522746854	1	Nothing is impossible. Just be cautious. 
+1	1522736202	1	They are raising their fees since their volume went down by -90% and don't want to take a hit or something more. 
+2	1522736734	1	Their volume is much much larger than last year's first 3 quarters. 
+3	1522738114	1	I believe they volume spiked during 3rd and 4th quarter last year and now it's back down.
+0	1522730247	0	lulz best exchange, coinbase so shitty.Told you guys it's all the same
+0	1522727909	-8	Uphold.com Look it up people. Awesome fiat gateway with more coins listed. Screw Coinbase and Gemini greed. 
+1	1522738889	3	Uphold.com has even higher transaction fees, and withdrawal fees. Look it up.
+2	1522742414	-4	Uphold list dash and XRP. Both are better than bitshit and liteshit

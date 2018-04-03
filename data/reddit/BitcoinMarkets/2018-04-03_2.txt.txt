@@ -1,0 +1,21 @@
+File created at: 1522780343
+Subreddit: BitcoinMarkets
+Submission title: GBTC sold off 172k Bitcoin Gold
+Submission created utc: 1522761783
+Submission score: 34
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522765735	7	5 cents per share?  Does this correlate with market price of btc gold?
+1	1522767732	2	Don't forget their recent ish share spilt. 
+1	1522770119	2	At the moment there's about $7 worth of BTC per $11.20 share.So this price is quite fair, yes.
+0	1522771876	5	My enitre Roth IRA is in GBTC.  Am I dumb?
+1	1522773230	5	Time will tell. But I jumped about 15 years of growth in the last 12 months by dumping my Roth in it.
+1	1522772664	1	Only if you didn’t sell at the peak and rebuy and when BTC hit 6k
+2	1522775063	2	That's actually my saddest crypto blunder.  I was trying to sell all my GBTC at $3100 at 1pm PST and the price was fluctuating between 3100-3200, put my sell order in, it didn't go sell for some reason, then the market closed at $3050 and it dropped heavily after.  I was so used to instant trades on GDAX or Binance, I guess Vanguard takes a while?  Anyways, still haven't sold, real bummed. 
+3	1522780107	1	No, not due to Vanguard. GBTC is over-the-counter or pink sheet. So, the market for it is not as liquid as other stocks or crypto.
+0	1522772339	2	The average sale price is around $50...which is pretty bad in my opinion.    [Price Action Graph](https://i.imgur.com/xDp3vT5.jpg)    >On **December 4, 2017**, pursuant to the terms of the Trust Agreement governing the Trust, the Trust, acting on behalf of the Record Date Shareholders, appointed the Agent and distributed all of the rights to Bitcoin Gold tokens then held by the Trust to the Record Date Shareholders by transferring such rights to the Agent.>On **March 14, 2018**, the Bitcoin Gold tokens became accessible to the Agent. On behalf of the Record Date Shareholders, the Agent subsequently exercised the rights it held with respect to the Bitcoin Gold tokens and liquidated the Bitcoin Gold tokens *over a period of 14 days*.
+1	1522772599	1	The [$1200+ average for Bitcoin Cash](https://www.reddit.com/r/BitcoinMarkets/comments/7jc005/gbtc_sold_all_bitcoin_cash_at_average_of_1222/) was liquidated much more quickly.
+1	1522778742	1	Well, you can easily sell 10 BTG at market price, but where can you find the liquidity to sell 172k BTG?Look at this crap: https://imgur.com/a/Gqt7A
+0	1522774342	2	Smart.  It’s horseshit
+0	1522775167	1	Buying this in an ira is a good idea.
+0	1522766492	1	Thats not a lot but Ill take it!

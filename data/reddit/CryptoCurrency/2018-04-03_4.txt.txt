@@ -1,0 +1,48 @@
+File created at: 1522780327
+Subreddit: CryptoCurrency
+Submission title: Coinbase Announcing Commerce API for Merchants to Accept Cryptocurrency
+Submission created utc: 1522719893
+Submission score: 443
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522732777	41	This is awesome news for adoption. Yes, this is centralized, but any large overhaul of an existing system requires bridges to be built.I'm personally part of several projects that concern the crypto space. Happy to hear about an option like this and will most likely implement it for cryptocurrency payments.
+1	1522757325	-8	If you hate lightning network because you think its going to ruin your favorite alt coin's chance to flippening Bitcoin,This is extra bad news. Coinbase has their own layer 2 solution.
+0	1522731840	11	This is exactly what the industry needs to become sustainable.
+0	1522746947	11	So this will help SEC with tracking crypto addresses for tax purposes.
+1	1522760733	3	I feel like your just put together at least 3 functions into the same boogeyman there.
+1	1522762116	4	your point being... what? you want crypto to stay confined to the darknet, with no real world adoption? that's really gonna show the banks...
+2	1522765683	1	Exactly....it sucks getting gov. involved and whatnot, but if it's ever to be widely adopted, it needs to happen.
+1	1522776659	1	they already do that through fiat gateways, or can anyway. 
+0	1522733097	6	Any chance this will eat some of BitPay's lunch?
+1	1522746116	2	why the hate for bitpay ? I use it and like it
+2	1522763429	2	It actually isn't due to Bcash, and I have no hate against Coinbase.  It's because they added an up to 7% "network fee" to Bitcoin at the same time as adding Bcash.  They also now require we use an address system that adds more unnecessary fees and let's them track out transactions better.  It's a complete racket.&nbsp;Consider that they overall charge more for use than CREDIT CARDS!!!   BitPay is no longer helping Bitcoin adoption.
+3	1522767176	3	Shit 7% did not know... 
+4	1522770038	1	Yeah BitPay at most should charge the Vendor 0.5-1% (Since this is cheaper than the 5% Credit Card Company's charge businesses).&nbsp;Charging the shopper is completely idiotic, but they believe they can get away with it because currently the only time Bitcoin users buy at coffee shops is when they are either showing off or deliberately using Bitcoin for fun.  So that 2-7% is peanuts.&nbsp;But I could see Bitcoin (and other coins) gaining some level of competition against things like Venmo this year.  If that happens BitPay will need to remove that or go obsolete overnight.  For now they probably CAN get away with it, but I won't be supporting them.
+2	1522756467	-1	BitPay let people pay with Bitcoin Cash -> some people hate Bitcoin Cash -> some people hate BitPay. Same thing with Coinbase.
+2	1522757350	-1	You know you are paying a 1% fee on every transaction right?
+3	1522757971	1	Pretty sure the 1&#37; is for the ability to be paid in Fiat \(and the costs associated with that\), that's the attraction to all major businesses as they do not want to deal with the volatility of holding onto cryptocurrency and how that affects their profit margin \(especially when the market is on a 3\-month downturn\). You can all but guarantee Coinbase will charge a higher fee for fiat payouts if/when they start allowing this too.
+4	1522758107	1	I use Shift, and as far as I can tell, they dont charge me this fee.
+5	1522758854	1	Assuming you mean the card? That's fine but a $200 daily limit and having to go to an ATM each day won't cater to any medium to large businesses. Also according to their fees page, ATM withdrawals cost $2.50 each so that would be 1.25&#37; fees per withdrawal of the maximum amount.
+6	1522759098	1	I'm not sure I understand, I swipe the card and it pays?Im not withdrawing USD
+0	1522727788	9	What will this mean for req?
+1	1522729329	35	Coinbase Commerce isn’t new, the same way there are many other companies trying to get into the payment world. (Which is worth trillions).The big difference is that while Coinbase is winning the centralized crypto payment, Request is winning the Decentralized one.Is also important to note that Crypto payments is one of the many use cases for Request, some of the big ones are Invoicing, Accounting and Audits on which Request is leading at the moment for blockchain solutions. (And is also a trillion dollar market).The market is huge and I can see many crypto payments companies having a share of it. (Centralized and decentralized).PD: I can’t invest in Coinbase but I can in Request.
+1	1522746456	5	Why should it mean anything for REQ?
+2	1522760650	1	Isn't this exactly what REQ was aiming to do? 
+3	1522765544	5	Not really. First of all this is centralised, e which means it all depends on coinbase and they can shut you down if they are told by the government or charge exorbitant fees. Secondly, REQ is doing so much more then just being a payment solution.
+1	1522730731	-51	REQ getting REKT
+2	1522756294	-10	The shills hated this one... one UpKek for you.
+3	1522777364	1	Yeah REQ shills got butthurt. 
+0	1522722781	14	Although this is great for adoption and now more companies will start accepting cryptocurrency. I have problems whit the Centralized part of Coinbase, especially whit the data they want to collect and what they can do whit it:**Information you provide:**•	**Your Account Information** - In order to create a Coinbase Commerce account, you must provide us with an email address and secure password.•	**Your Products and Services** - We retain information information submitted by you when you create each payment button or donation button, which may include product or service name, price and description.•	**Your Cryptocurrency Addresses** - We retain your public cryptocurrency addresses generated in the course of your use of the Service.•	**Your Transactions** - We retain any records, histories, or metadata for the transactions you conduct on the applicable blockchain. To monitor cryptocurrency transactions and provide you with account balance information, we store the public key associated with your private key.•	**Customer Support** - We collect additional information you disclose to our customer support team.**Automatically collected information**•	**Metrics and Performance Data** - We collect service-related, diagnostic, and performance information. This includes high level information about your activity (such as how you use our Services and how you interact with others using our Services), and diagnostic, crash, website, and performance logs and reports.•	**Device and Connection Information** - We collect device-specific information when you install, access, or use our Services, including your IP address.More information here: https://commerce.coinbase.com/legal/privacy-policy/
+1	1522726232	12	I agree with you /u/ElitePrimal, although this to me is simply a bridge between centralization and decentralization. I think in time we may see solutions that keep more of your data decentralized.But for now, we must deal with Coinbase who is no doubt bringing awareness (and in turn, adoption) about cryptocurrency.I don't care about those buying to make money, but I want people who are coming into the ecosystem to eventually USE it.
+2	1522762464	1	Do you think Waves, Ark or similar coin (I am not aware of) can offer same feature without centralization?
+1	1522757439	8	I have a 100% legal business and none of this is a big deal. Yes  decentralized sounds the best, but I cant deny that I appreciate not having to keep thousands of dollars of bitcoin stored on a piece of paper in my bedroom closet.
+2	1522766568	1	Exactly.  This is very typical when compared to my understanding of traditional credit card/debit machine contracts.Half the information they're storing is public anyways.
+0	1522764102	2	All we need on this is [DAI](https://makerdao.com/) 
+0	1522757831	1	Been emailing them about this for over 3 months. Their response? Uhh just click the Merchant button. I do. "You're not eligible" >> return to accountsWhat the heck Coinbase?
+0	1522769864	1	This is the news we need. 
+0	1522770593	1	Yes merchants...accept crypto but wait 6 weeks to see your fiat as we route it through our banks in Eastern Europe bla bla bla....coinbase needs to go and we need easier and faster options
+0	1522776465	1	Will Coinbase come up with Coinbase coin or something so that they can profit from crypto even more? 
+0	1522737826	3	another way for coinbase to rip people.off and provide horrid customer service. oh joy
+1	1522757465	3	agreed about crappy customer service, but this is good for bitcoin
+0	1522753974	1	RIP Coss - You were too slow. I had high hopes, but everyone is passing you by. I'll ~~never~~ forget you
+0	1522763024	0	This is big news. Although centralized, coinbase will have reach shopify shopify merchants now. 

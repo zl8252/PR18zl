@@ -1,0 +1,131 @@
+File created at: 1522780330
+Subreddit: CryptoCurrency
+Submission title: Vitalik Buterin Calling Craig Wright a Fraud in Public
+Submission created utc: 1522753466
+Submission score: 354
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522761249	44	Congrats, this was due for quite some time.
+0	1522756876	63	Enjoyed the public undressing of CW by Buterin and Poon
+1	1522758831	4	Couldnt really hear what he said. Sounded like "why is this fraud"?
+2	1522759007	48	“Why is this fraud allowed to speak at this conference?!”
+2	1522758981	11	You're right, just missed the end. "Why is this fraud allowed to speak at this conference?"
+1	1522770985	3	I wish I could enjoy it too but I can't hear anything. Anyone have super human hearing and can transcribe?
+2	1522776022	3	Have to assume you found it by now, but in case not and for other people, here's a much clearer version of the incident:https://www.youtube.com/watch?v=TglmWKJBTec
+2	1522776046	2	“Why is this fraud allowed to speak at this conference?” Is what VB says 
+1	1522772871	3	I too enjoy a public undressing of Poon. 
+1	1522763951	-58	I enjoyed them attempting to silence someone they don't like.  When the Lightning network is finally being actually used by real people and Ethereum is used for more than ponzi scams and cryptokitties then maybe they'll have more credibility themselves.  Right now, most won't ever get bitcoin through Lightning because you can't even do that without owning bitcoin first and opening a channel--not exactly an easy on-ramp.  "Hey, I want to send you your first bitcoin, but wait, you have to own some first and  then create a channel with someone."  Yeah, that's really going to help adoption.  Plus, oh yeah, I can't send you any more than you have available in open channels.   So if you want more bitcoin, you'll have to first put more into open channels with others and spend it, then I can finally send you more--derp.
+2	1522764365	19	Damn, you sound salty. Please, tell me what exactly makes  Ethereum a scam?
+3	1522768643	-12	He didn't call Ethereum a scam, he just pointed to the fact that as the primary smart contract platform, it really hasn't seen much use beyond tokens (cryptokitties) and PoWH (ponzi scams).You should really up your reading game, pal.
+4	1522772720	6	My government uses Ethereum to track data surrounding grants and grant applications, and countless companies are using ETH to improve logistics. But yeah, kitties and ponzi scams... maybe that's just what certain people are drawn too...
+3	1522770728	-4	He never said that :)
+3	1522764561	-38	>and Ethereum is used for more than ponzi scams and cryptokitties  Learn to read and not put words in others mouths.
+4	1522765571	10	> Learn to read and not put words in others mouthsLearn what words means and don't just put random bullshit down and pretend to sound smart when literally anybody in this sub knows you're obviously a fucking moron after that comment.You played yourself.
+5	1522765858	-18	The people in this sub that know what's going on realize this is just more /r/bitcoin astroturfing and dolts bandwagoning.
+4	1522776246	1	Lol yeah with no context that’s what that quote isSee watch this - you think you’re a great guy but you’re an idiot asshat who really isn’t a great guy at allBut let me quote that>you’re a great guy That’s all I said right? 
+5	1522778728	-2	One day hopefully you'll realize how astroturfing works and who is doing it here.  Until then, you're just bandwagoning.   Know that most of these downvotes are artificial.  My posts initially had over 10 points.  Anyhow, you should be aware when things are gamed.  
+6	1522779134	1	Well, I wasn’t discussing your downvotes and I wasn’t bandwagoning. I pointed out a flaw in your comment, as you removed a large sum of context, and I wanted to point it out to you to shine light on why you were perhaps being downvoted to oblivion. Amazing the cartwheels and hoops people jump through to rationalize their either wrong doings or justifications haha my man, take this one on the chin and move on. Who care about the downvotes. Stand strong on your opinion, maybe see where your opinion could change, or change your opinion entirely. Pick one and stick to it! No point in making this a conspiracy topic haha 
+7	1522779441	-1	Listen to me.  This is a brigaded post.  It is that simple.  There is no context problem with what I said.  I did not claim Ethereum was a scam.   You are being silly and do not understand the games that are played.  Also, I could give two shits about the downvotes.  
+8	1522780106	1	Your first quote was essentially “when Ethereum is being used for more than just Ponzi scams” your quote indicates that Ethereum is nothing more than a place to host pure and only Ponzi scams. And should not be taken any other way because you said “used for more than just” saying that just all there is. I never said you called Ethereum a scam. Please quote me where I did. I never claimed I knew about “the game” or what ever you called it (I’m on mobile and can’t see what you said). All I said is that, in an attempt to defend your self, you quoted part of your quote that sounded hunky dory >Ethereum is used for more than just Ponzi scamsWhen in reality your quote was >Ethereum is made up of just Ponzi scams right now If you can’t see the gap in context from your comment, I’m sorry you live such a closed minded life my friend. You gotta be open to criticism, brother and admit when youre wrong.Well you dont have to, but if you want to be a better person, try it sometime! 
+4	1522770906	0	And the downvote brigade begins 
+5	1522771552	-3	Astroturfing at it's finest.  What's funny is before the /r/bitcoin astroturfers got here I had 10 points.  Folks bandwagoning are actually upvoting censorship.  That's kind of sad.  Hell, I don't even like Craig Wright but I'll be damned if I ever would say he doesn't have a right to speak at a conference.  
+6	1522772548	0	Dude just leave it be. The cultists here who keep voting against their own well being and not engaging thoughtfully in comments like yours are the dumb money that keep making us profits.The more downvotes the more money I make from this crypto game.
+2	1522765130	13	Ah, the classic "everything but Bitcoin Cash is a centralized scam" Roger Ver sockpuppet.
+3	1522765240	-10	I like a lot of coins.  I also don't believe in censoring people.  
+4	1522765939	5	So you are accusing Ethereum of only being a platform for ponzi scams but on the other hand, defend liars and scammers?
+5	1522766512	-1	I'm not defending anyone.  Vitalik doesn't carry the weight to get to say who can speak and who can't.   That's my issue.  No one should have that authority.  He's gotten too big for his britches.  Poon carries even less weight than Vitalik.  Attempts to censor should be highly frowned upon in any open source community.  Vitalik can say Wright shouldn't be allowed to speak but we should all think less of him for doing that...imo.  It would be better of him to say, "I believe that man is a fraud so I won't respond to him."  Attempting to silence him just looks bad and puts a bad taste in the mouths of those that don't like that kind of thing.
+6	1522772031	4	Who said he has authority? He doesn't. What he does have is the right to an opinion, and a right to give it. He didn't go on and on to *actually* try to silence him like you're claiming. 
+7	1522773830	-2	Well that's a good point.  Still, I think less of him now.
+8	1522774256	1	That's fair enough. 
+6	1522778116	2	The organizers of the conference are the ones who can decide who speaks there. Criticizing the conference for giving CSW a platform is perfectly valid.Honestly, I don't know why Vitalik even agreed to speak there knowing the CSW was also invited to speak. The fact that they gave a platform to someone who's a known fraud and proven liar de-legitimizes the entire conference.
+2	1522767387	7	Hey retard, the second guy calling him out is the creator of LN! 
+3	1522770952	-4	I KNOW!  He carries even less weight than Vitalik.  Maybe you should actually read my post.    For anyone else bandwagoning here, you should know this post is gamed.  It's been astroturfed by /r/bitcon.  My post literally had 10 points and then within minutes went down tremendously.  Don't be fooled by these goobers.  No one should be silenced in this space.  
+4	1522776141	1	Except you. Am I right?
+0	1522763056	43	I have to admit that takes a lot of balls.
+1	1522764804	109	Most people don't realise the following things about Vitalik:1. He doesn't give a shit about what people think of him2. He doesn't give a shit about money3. He never argues with only emotions / rumors / opinions. If he can't prove the stuff that are coming out of his mouth he doesn't say them. 
+2	1522765140	48	Always knew he was a robot
+3	1522773482	5	Master?
+3	1522769038	1	Robot confirmed. Beep bloop.
+2	1522766097	23	Imagine if the US had a president like this
+3	1522767506	21	Vitalik for President? 
+4	1522771925	6	There's a russian joke in here somewhere..
+3	1522778048	1	Yea being all those things makes you a good tech guy and all, but when it comes to running a large enterprise (or a country), you have to make decisions that aren't always based on fact, and things that can't be proven. Look at all the shit going on right now. How would he view immigration, abortion, our military, etc...Those have multiple sides and neither can be proven to be 'right'.
+2	1522765784	9	Easy to not give a shit about money when you have more money than you could spend in 100 lifetimes. 
+3	1522771179	5	You still have Warren Buffets counting dimes because "they didn't get to where they are to say by squandering money", or the lads wanting their 5. private jet. 
+3	1522768203	6	Ya, but the difference between having enough money for 1 lifetime and 100 is pretty big, but in both cases you don't have to care about money
+3	1522768994	2	May not be that easy after all. Most people with money for a 100 lifetimes care a lot about them... 
+4	1522771901	1	It's addicting ;(After a certain amount it becomes a race
+3	1522766397	0	Doesn't change a thing. 
+4	1522767050	6	ofc it does, if he had no money he would give a shit about it. 
+5	1522767949	1	So he doesn't care about money coz he is from money and hence concentrates on making something useful that he believes in...IDK how I explain this obvious thing. IDK what point you trying to make either. Both your statements are most tangent to the thing to what poster said above. IDK why I am even answering you. 
+6	1522771870	1	for a person that doesn't know you sure know a lot
+6	1522768175	-10	Wow, i refuse to argue with someone who has a single digit IQ. 
+2	1522772775	0	It's almost as if Autism makes you more efficient as a human...
+3	1522777239	1	Robot... not human.  Zuck is a great example of why being on the spectrum doesnt always lead to good outcomes.
+4	1522778136	0	So is he not on the spectrum? Because being worth 50Billion+ seems like a good outcome. 
+5	1522778372	2	We'll see if he ends up in jail for his brilliance and utter lack of humanity.  Regardless of networth there is more to being human than dollars... Zuck lacks almost all of those things. 
+2	1522772611	0	Points 1 and 2 are not good when it comes time to do the proof of stake hard fork.
+2	1522775556	0	3 isn't true, I've seen him Shit the bed in a Twitter debate
+3	1522779487	1	source ?
+0	1522774658	10	Yes, Vitalik knows that Bogdanov is the real inventor of bitcoin.
+0	1522760566	62	Two things that baffle me about Craig Wright1. He continues to promote himself as a blockchain expert and innovator even though he's universally accepted to be fraud by technical crypto heavyweights.  2. Craig Wright exposes himself as a fraud every time he speaks or presents something because it's technical gibberish but Bitcoin Cash supporters still support him which makes them look like a religious cult of the Fake Satoshi.BTW, wtf was he saying about the Lightening Network that made Joseph Poon  jump up and join Vitalik on the attack?   Sure you can attack LN in front of technically illiterate people but when you have Vitalik and LN inventor Poon there, you know they are going to clown you.  
+1	1522761331	22	>Craig Wright exposes himself as a fraud every time he speaks or presents something because it's technical gibberish but Bitcoin Cash supporters still support him which makes them look like a religious cult of the Fake Satoshi.Except the majority of BCH supporters are indifferent about him.
+2	1522763453	8	BCH is an open-source project and this guy should not be censored; even though he is a fraud 
+3	1522765483	48	Shouldn't be censored, but also shouldn't be a speaker at a legit blockchain event. 
+3	1522778847	1	That is quite a stretch to be honest...Censorship is not the same thing as not providing a platform.If no one provides you a platform to promote your opinion that is not censorship, that means that you probably have a shitty opinion and/or are an asshole.
+2	1522765306	-1	Except they are not. Even those that are indifferent about CSW are still worshiping Ver or Wu and the very small rest are those with which you can have an actual discussion. Unfortunately, it is rarely possible because the echochamber that is /r/btc will downvote you into oblivion if you criticize one of the BCH thought leaders.
+3	1522768864	8	Venture over to r/btc, right now the top post is about vitalik calling out Craig, and the majority of the comments are in support of vitalikPeople downvote any negativity about Jihan and ver on r/btc for the simple reason that, every single day, trolls turn up in the comments screaming "ver is a scammer gonna steal your money", "Jihan controls BCH". None of this is true. Its a very friendly subreddit, very welcoming. But the same old smear and troll attempts day in and day out gets exhausting. 
+3	1522765878	5	> Even those that are indifferent about CSW are still worshiping Ver or WuCan you base it on something in reality or did you just pull that out of your ***?
+4	1522766389	0	I read the btc reddit daily because i think that BCH is a coin with potential. So no, *of course,*I can't prove that (you want me to do a survey in /r/btc or what?), but it is the impression you get when you visit and post in the subreddit frequently. 
+5	1522769147	6	>I read the btc reddit dailyIf you read it daily you'd know Wu is barely mentioned there and his influence is little, the only thing you could accuse the devs is in letting him keep mining it. Ver became the public face because he was famous for publicizing Bitcoin long before the fork and has huge stakes in it but he joined very late and has nothing to do with development.
+5	1522767917	8	This right here is the important point.  I don't personally put much stock in CSW, Ver, or Wu or most individuals.  I don't think many people supporting BCH hold any of those people in too high of a regard.  I DO think that most people outside of rBtc believe that those three people are held in high esteem by the BCH community - and it is that general impression that needs to be dismantled.rBtc needs to get a grip on itself and realize that just opposing rBitcoin censorship and LN's lack of promise / validity doesn't give rBtc enough substance to thrive (and yes, even some amount of moderation of the trolls in rBtc should be done).BCH supporters need to start finding other forms / forums of communication to direct newcomers to.
+6	1522769416	3	It's hard when there's an army of trolls screaming "bcash scam" in reply to anything about bitcoin cash. The existing community is heavily focused on actual adoption right now. I believe interest will follow innovation, and if people actual care about where their money is going they'll do some more research. 
+6	1522769283	2	The way that those talking heads present themselves turned me away from the coin honestly.
+5	1522770990	1	What potential does BCH offer?
+6	1522776970	2	A highway 40 lanes wide with no one driving on it
+3	1522778773	1	Honestly, as a BCH supporter, I don't get Core supporter's obsession with Roger Ver or Jihan Wu. Sure, it's nice to have them on our side, but there are tons of other great people working for the coin/adoption.
+3	1522771542	1	As soon as I see Ver mentioned, I know the comment is going to be anti BCH. I think you've ended up in a bit of an echo chamber.
+2	1522776825	1	go check out rbtc. It's not exactly a vast majority if it is a majority at all.
+1	1522763458	1	Not sure how you feel about Ryan Selkis @twobitidiot, but that is a prominent person who thinks that Craig Wright is (or at least part of) Satoshi. 
+2	1522764281	1	It most likely was a team effort, no one would release such a code without peer review, so CW can't be Satoshi because it wasn't one person.
+3	1522764608	1	Yeah that's why I said "part of." I personally think it's Nick Szabo, only guy with all of the skills to be Satoshi. Plus he was collaborating with Hal Finney at first, wasn't he? The retort to your above argument is that someone would have come forward already. People ALWAYS run their mouths.
+4	1522765700	6	I think Hal is the most likely Satoshi candidate. 
+5	1522768726	3	This. 
+5	1522774833	2	For those who don't know, key points for Hal being Satoshi (or a part of him)>First person to receive a BTC payment>>Satoshi hasn't been heard from since ALS took Hal's life>>>Hal's neighbour down the road was named Dorian Satoshi Nakamoto. When Dorian was "visited" by the police/FBI and detained, Satoshi came out to say "I am not Dorian Nakamoto". 
+6	1522777997	2	He was also an old cypherpunk who developed the only working Reusable Proof of Work system (for token money) that pre-dates bitcoin. It never gained traction though. I think there were probably only a handful of people that were truly capable of imagining and developing something like bitcoin in 2008, Hal was definitely one of them.
+1	1522775282	-1	>Craig Wright exposes himself as a fraud every time he speaks or presents something because it's technical gibberish but Bitcoin Cash supporters still support him which makes them look like a religious cult of the Fake Satoshi.Bullshit, most BCH supporters don't really like him either, myself included. He does nothing but run hot air from his mouth, talks about patents and other BS, if he isn't an outright fraud he is definitely a massive douche with a sketchy past and a track record for embellishing the truth when it suits him. Personally I wish he would either throw down something useful finally or fuck off. 
+0	1522762775	18	*Microwaves popcorn*
+1	1522764982	17	Vitalik calling out Wright is making all the headlines but we overlook some important points he tweeted from the conference:> "Why Bitcoin is Better than Gold" --> *I actually agree Bitcoin is better than gold as an SoV both individually and socially; I harp on bitcoin PoW mining wrecking the environment a lot, but gold is worse.*Yup, we oversell  and hype up crypto:> "Bitcoin is a really big shift on par with the internet and the internal combustion engine"; --> *even if you replace "bitcoin" with "cryptoeconomics in general", I don't think it's fair to go quite that far. The tech is important, but imo better not to oversell it.*As someone who has used LN in testNet and mainNet, I think this is currently true but if LN UI / ease of use increases/succeeds, it'll help increase the Bitcoin network effect.  But this is certainly a period of opportunity for a crypto like `Nano`:> "It's easier to migrate from bitcoin core to altcoins than to migrate from bitcoin core to lightning" --> *this is actually a very interesting point: lightning only benefits from bitcoin's *currency* network effect, NOT *tech/development* network effect*Also a good point:> Samson: "If you're accepting payments in altcoins, there's very little liquidity" --> *IMO not true since ~2015 for the top ~10-50 coins. Just use the altcoins as a payment channel; when your balance gets to ~$100 convert to bitcoin through shapeshift and sell to fiat from there*https://twitter.com/VitalikButerin/status/981090555697405952
+2	1522774611	2	>I harp on bitcoin PoW mining wrecking the environment a lot, but gold is worse.I usually agree with Vitalik but he's acting as if gold is only a store of value. Every smartphone on earth has a little tiny bit of gold in it, every computer, every television, fuckin toaster, everything. It's one of the best semiconductors on earth, and is the most used because it doesn't oxide. Let's not forget that in the event of some sort of global EMP or catastrophe... I'm still able to hold/use my gold/silver.
+3	1522777384	0	In the event of EMP gold is fucking useless.  It wont regain its use for a generation or two after society gets reset a bit.   Every try to move gold around?  Nothing more important than mobility post EMP.
+4	1522778346	1	Not sure if /s or not
+5	1522778984	0	Not /s.  I made a fortune off of idiots convinced the world would soon end and gold was a good place to put their money.  The world didnt end, and if it did, they werent going to be able to eat it - and thus itd be worthless in trade directly after a catastrophe.  Seriously who are you going to give the gold to in a catastrophe and in return for what?  I cant think of a single situation where I'd take gold for food in troubled times.  Later - post farm and society re-establishment, sure.  But that means you better be sitting on a decade of food before worrying about sitting on gold.
+6	1522779301	1	TIL when an EMP happens we suddenly have no food. if the world were to "end" which is more likely, people using the oldest 'currency' n earth, or people using crypto? That's all i'm saying. I never said that the world was going to end, or that I think you should by gold incase.
+2	1522777335	0	The idea that altcoins have little liquidity is laughable.  Some of them are monstrous in their own right.   Unless we've altered the definition of 'altcoin' to mean 'out of the top 20'. 
+0	1522771000	4	who is this craig guy?
+1	1522774901	6	pretends he made bitcoin, but you can't handle the proof, just take his word for it, he's totally not lying...
+0	1522775206	3	Savage.
+0	1522772664	2	He dares to say that because Vitalik finally started lifting BRO!
+0	1522776350	3	"Craig Steven Wright is an Australian computer scientist and businessman. He has publicly identified himself as the main part of the team that created bitcoin, and has claimed he is the identity behind the pseudonym Satoshi Nakamoto. "He claims to be Satoshi? LOL.
+0	1522778051	2	Nerd fight. 
+0	1522753480	2	^The linked tweet was tweeted by [@yuzushioh](https://twitter.com/yuzushioh) on Apr 03, 2018 09:38:59 UTC (0 Retweets | 7 Favorites)-------------------------------------------------Highlight of the day 1 at \#Deconomy2018 [Attached video](https://video.twimg.com/ext_tw_video/981103119151984640/pu/vid/1280x720/aKRZpij_6m_YT8nS.mp4)-------------------------------------------------^^• Beep boop I'm a bot • Find out more about me at /r/tweettranscriberbot/ •
+0	1522773644	2	https://twitter.com/el33th4xor/status/981206068222144512> Right now, I have BTC, BCH, ETH and ZCash devs in my mentions, all roundly ridiculing Craig Wright's technobabble. Cryptocurrencies have never been as united. Thank you, Craig, for the amazing job you've done. :-)
+0	1522770909	1	Is the rest of the discussion public? I can't really make out what the criticism was.
+1	1522776326	2	[Vitalik's perspective is in this twitter thread](https://twitter.com/VitalikButerin/status/981069924255739904).
+2	1522777024	2	[34. "If you solve lightning, you also solve the discrete log problem". My bulls*** meter is spinning so fast that figuring out the next time it will hit zero *is* a hard discrete log problem.](https://twitter.com/VitalikButerin/status/981086748087173120)
+0	1522767009	1	What did CW do this time?
+1	1522769160	2	Breathed. 
+0	1522777902	2	New found respect for Vitalik.   Now fix the 'unstoppable' nonsense on Ethereum.org
+1	1522779486	1	> Now fix the 'unstoppable' nonsense on Ethereum.orgWhat do you mean?
+0	1522763416	-14	This world we live in is too weird. Vitalik, the creator of Proof of Friendship, criticizes maybe Satoshi maybe not Satoshi. 
+1	1522763692	26	> This world we live in is too weird. Vitalik, the creator of Proof of Friendship, criticizes ~~maybe Satoshi maybe not Satoshi~~ definitely not Satoshi.FTFY
+1	1522763913	0	> Proof of FiendshipFixed.
+0	1522767180	-7	[deleted]
+1	1522768263	5	"Hey this thread isn't talking about my coin! Better do something about it..."
+2	1522769986	1	> ad isn't talking about my coin! Better do something about it..."Touché 
+1	1522768115	3	If ripple was fully decentralised, they might also have trouble reaching consensus on certain issues. 
+1	1522769274	1	Apropos fraud...
+0	1522771328	-10	Vitalik the booger eater will be irrelevant soon then.
+0	1522767601	-17	Craig played a major role in the creation of cryptocurrency. Humiliating him at public conference isn't right to me, especially considering Vitalik has already pulled this stunt before and gotten applause. I love what Vitalik has done with Ethereum but he really shows his youth sometimes. It's not a good look for him IMO
+1	1522768398	9	I'm not usually into celebrity drama, but who's this Craig guy and what has he done? I read that he's some loon that claimed to be satoshi without simply proving it cryptographically (sign a message that says "I am craig" with satoshi's key). Has he contributed any code at all?
+0	1522769980	-6	Who is this Lisa N Edwards chick on Twitter promoting Bcash. shes all over TA on BTC and says Craig Wright is her brother.. is this the same Craig Wright? she believes her brother is Satoshi?

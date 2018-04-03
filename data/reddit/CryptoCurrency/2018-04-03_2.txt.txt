@@ -1,0 +1,167 @@
+File created at: 1522780324
+Subreddit: CryptoCurrency
+Submission title: Made the switch today! Couldn’t be happier. :)
+Submission created utc: 1522721371
+Submission score: 550
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522723096	110	Friendly reminder! Check each address before transferring all your funds, do a small transfer back and forth to see that it works.
+1	1522725986	74	This is no joke. DO THIS FIRST. I didn't, and now I'm paying the price. Having to buy a second Nano S and move 20+ different types of coins and tokens over to it (after testing the restore first, like above, of course) because I may have compromised my seed by trying to verify it after the fact.For real. Test your restore before you load that thing up.
+2	1522731719	33	But, you can make a new seed on the Ledger. No need to buy a second one lol
+3	1522772971	2	You can do this without nuking it first?
+4	1522773368	3	> Restore ledger with new seed -> write down receive addresses for all your coins -> restore ledger with old seeds -> transfer everything to these addresses -> restore ledger with new seedcredit -> /u/tim3k
+3	1522734360	-19	How are you going to send your coins held on a ledger to the new seed after you've already re-seeded? Sure maybe input your old seed in MEW but if you're paranoid about security sometimes a second ledger is best option when reseeding.
+4	1522735768	85	Restore ledger with new seed -> write down receive addresses for all your coins -> restore ledger with old seeds -> transfer everything to these addresses -> restore ledger with new seed
+5	1522758911	5	To the top for visibility. I'm sure lots of people out there have had this problem.    I don't have a ledger yet (Paper baby ;) ) but if i ever do get one i have this comment saved for the future.
+5	1522764892	1	I think the problem they are stating is when the user didn't check their recovery seed before sending coins to the ledger.In this case since they are not sure that they can restore the old seed your provided solution doesn't work.That's why I always advice new ledger users to do a full reset and restore their seed upon set up.An actual solution with only one ledger (and no 100% tested seed) needs a middle step like hot wallet or paper wallet which requires a little more knowledge to be created and used securely.
+6	1522766046	2	They can check the seed using another BIP39 wallet: [Ledger Website](https://support.ledgerwallet.com/hc/en-us/articles/115005297709-On-which-wallet-can-I-restore-my-wallet-if-I-lose-my-Ledger-device-)Edit: is that what you’re referring to with the “middle step”
+7	1522767178	1	They can, but I advice people to consider their seed compromised the second they enter it on a keyboard.Who is to say that there isn't a keylogger installed on your computer broadcasting to an attacker every 24 word list you type on your keyboard? (That's not unheard of) Of course you can mitigate that risk buy using a live CD linux distrib and checking the seed offline. But the risk is never zero.The most important point is to balance convenience and risk it all depends on  the amount you own and your tech savyness. 
+4	1522746146	2	Transfer your coins to a mobile wallet temporarily and then reseed and transfer them back..  Coinomi supports all of them.
+2	1522731293	7	Sorry can you explain why we have to do this? I just hooked up to MEW and did everything exactly as I would in a regular MEW wallet. 
+3	1522732973	15	Ok, sorry, just re-read what the person I replied to wrote, and I had misread their comment. But what they're saying is good advice. Send just a bit of coins to each new address on the Nano, then wait for confirmation that the coins arrive properly. Then send the remaining bulk. Just a smart precaution to make sure you have the address correct.But what I was talking about (and what I mistakenly thought op was saying) is make sure to test your 24 word seed when you first get your nano. Copy the seed words, send a few bucks of coins to the nano, then mistype your password three times. This will kill your instance of the nano. Now, manually enter your seed to recover your wallet. This is an important test too make sure your seed is correct and the recovery process works for you. If it works, you're fine. If it fails, at least you only lost a few dollars, not infinitely more. Again, if it fails, start over and do the same thing until you get your seed to recover properly. Then you're free to start using it for your coins.I did not take this advice, and just started using my nano right out of the box (after diligently writing down my recovery seed). It was fine when I had only a few hundred dollars of coins. But once that eventually grew to a few thousand dollars, I started to worry. What if my nano failed, and my recovery really didn't work? I mean I was 99.9% sure it was fine, but... I had to know. But by this time I had, literally, a dozen different types of coins (mostly Ethereum-type tokens). Testing the seed would mean I'd have to move all those coins. It was going to take forever, be a logistical nightmare, and cost some real money in transfer fees. (I'd have to move everything out of all wallets, kill the nano and test the recovery, then move everything back.)Long story short, installed mycelium wallet because I heard you could recover your nano wallets via mycelium. That didn't work. So then I was paranoid my seed was wrong. Downloaded an html page that actually does work, and test recovered my seed. But then I got paranoid that the people at mycelium now had access to my seed, and that maybe the html page also sent my seed somewhere remote. So now I'm going to get a brand new nano, test the recovery properly at the beginning like I should have, and move all my coins from my original nano to the safe new one, and keep the old one as a backup in case I ever lose my new one. So dumb.
+4	1522733605	7	When I first initialized my Ledger it had me enter some words from the seed I'd written down and only then did it let me in. That's good enough for me. 
+5	1522759307	2	That was the old firmware.  The update makes you enter them all for a restore.  
+6	1522761023	1	Really? The old firmware you could "restore" an entire seed by putting in only a few of the 24 words? How does this work? 
+7	1522766704	1	I don't think so.  I may have misread and replied.  Sorry
+4	1522733379	11	So... basically you're saying to test the seed words to make sure they work... and instead of doing that, you used a third party source.. to save a few bucks.Bro... this is crypto.. DON'T BE CHEAP.. You have a ledger, don't be dumb and violate the integrity of that ledger.You're lucky you didn't lose everything.. seriously.
+5	1522759571	2	From the tone of his post, I think he realizes that. 
+4	1522760115	1	> Restore ledger with new seed -> write down receive addresses for all your coins -> restore ledger with old seeds -> transfer everything to these addresses -> restore ledger with new seedcredit to /u/tim3k
+4	1522764088	0	> But what I was talking about (and what I mistakenly thought op was saying) is make sure to test your 24 word seed when you first get your nano. Copy the seed words, send a few bucks of coins to the nano, then mistype your password three times. This will kill your instance of the nano. Now, manually enter your seed to recover your wallet. This is an important test too make sure your seed is correct and the recovery process works for you. If it works, you're fine. If it fails, at least you only lost a few dollars, not infinitely more. Again, if it fails, start over and do the same thing until you get your seed to recover properly. Then you're free to start using it for your coins. I did not take this advice, and just started using my nano right out of the box (after diligently writing down my recovery seed)....I remember once when I had a similar problem with putting money into my bank account and worrying that if I mistyped my online banking password, all my life savings would be vaporised beyond anyone's reach. Oh wait.... actually I didn't. Also, did you know that if everyone on the planet bought bitcoin (assuming 3 transactions per second and 7 billion people and 80 year lifespans), there would be enough time in a human lifespan to do one transaction to buy your bitcoin and a second transaction to move it onto your ledger... but not enough time to ever get it back out again? Don't take my word for it, do the maths.EDIT:  I don't mind being downvoted but at least do the maths for yourself before you do it.
+2	1522738256	5	Wait how did you compromise your seed and how's that related to checking your public address? 
+2	1522759022	2	Haha, good one!
+2	1522762595	1	I've done the same thing. I've restored the seed after pressing 3 times the wrong PIN. Then send a small amount to the Nano, then send back from the Nano and then send all the remaining amounts.
+1	1522740713	2	Why?
+2	1522779300	1	There is a 1/10000 chance that the ledger doesn’t have the correct private key for the public address it shows.
+2	1522779747	1	There is a 1/10000 chance that the ledger doesn’t have the correct private key for the public address it shows.
+1	1522758815	1	I always send 0.0001 or whatever i can which is a fraction more then the fee to test the address.    Last place i sent anything was Coinbase and even tho i knew everything was correct i still tested it. As soon as Coinbase sent me the confirmation i sent the rest over. Yes i paid double the fee's but i didn't lose all my ETH.
+1	1522760509	1	Also, make a backup of your 24 word phrase and try recover it straight away before putting funds into it. I made the assumption my phrase was backed up successfully. Wanted to test after I had already put funds into it (by inputting it into Electrum wallet) and it was not correct. Now I have he hassle to transfer all funds from ledger to paper/online wallets, reset ledger, making sure I have backed up properly, then send them back -.- 
+0	1522724755	119	I thought I was in /r/Nintendo for a minute...
+1	1522739119	9	I thought I was in /r/GooglePixel
+2	1522744281	32	I thought i was in /r/finelatinahotties
+2	1522762228	2	I thought i was in a Cambodian rock-collecting imageboard
+2	1522765742	1	honestly, im so happy with my pixel lol
+1	1522761027	3	I thought I was in /r/MidgetDildos for a minute...
+0	1522722271	25	Switch from?
+1	1522729753	10	Exodus
+2	1522732271	4	That's an upgrade not a switch.
+3	1522738674	24	Are you trying to say that a switch can't be an upgrade? His title makes perfect sense, you can switch to an upgrade... 
+4	1522773211	1	Switch implies they are more or less equal.
+3	1522739438	2	Yeah, these are both complementary 
+3	1522732309	1	I realize this but it's too late to change the title.
+4	1522732365	3	;-)I bought a Trezor myself just recently. Long overdue.
+1	1522727440	6	That’s what I was thinking 
+2	1522728235	4	Hopefully from an exchange or web wallet
+0	1522722730	17	Update the firmware. 
+1	1522725473	11	I swear to god if I see him post in r/ledgerwallet about bricking it lol..
+1	1522729733	3	Already done. Thx for the reminder anyway
+1	1522749302	2	for everyone else who's had the ledger for a long time do we need to do anything or does it update by itself?
+2	1522755387	1	I believe once you plug it in, you're prompted to update to use the device
+3	1522756102	1	hasn't happened to me  unless it does it automatically 
+3	1522765832	1	so if i bought one, loaded all my coins on it and tossed it in a drawerer for 5 years. In 5 years when i come back ill have acess to all my coins? could anything change that would render them unusable or something.
+4	1522772728	1	The device generates a new seed when you turn it on. As long as you write down your seed and store it in a safe spot where no one but you could get to it, you won’t lose access to your coins 
+2	1522764256	1	You need to load up ledger manager. Then it pops up asking. Also update all the apps too, not just the firmware. 
+1	1522753550	2	I didn't update, how fucked am I?
+0	1522741792	5	why is this tagged as comedy?
+1	1522748382	1	Caz its funny yo. I thought they stopped shipping cause they need to implement moonero first, but nein, these frenchies give no fuck for monero. 
+2	1522771838	1	> these frenchies give no fuck Those crazy frenchies.
+2	1522779920	1	That's cause they are going to add Nano, much more important. :)
+0	1522737586	3	Good job. Peace of mind goes a long way. Anyone investing more than 1k needs one of these. 
+1	1522758005	1	Lol so glad you said this.  I have 2k in crypto and sometimes I feel like it's probably nothing in comparison to some other people and what they have in their ledgers.  I keep going back and forth with justification for buying it, til I take it out and see how cool it looks.
+0	1522737335	4	Cant wait when I can store my Nano on my Nano :)
+0	1522737064	5	Am I the only one to not trust hardware wallet ? I prefer to have a 3rd party actively involved in the protection of my money, like UPHOLD. Give your opinion pls
+1	1522739199	10	Nothing is 100% secure. Im sure people have come up with solutions that are more secure than a hardware wallet; like m out of n multisig off line paper wallets stored in multiple vaults. But when you actually want access to your crypto from a regular PC, hardware wallets are a superb compromise and far less risky than software only wallets.
+1	1522748267	6	Yup why trust yourself and your keys offline if you can just give it to your buddy Chad who'll take great care of him. I heard if you sent eth to vitalik he sends you back more!
+2	1522755852	3	Don't send Vit any eth that's just a scam but do send me your keys and I really will look after them for you ;) 
+2	1522760580	1	I actually almost fell victim to this. From being a newbish twitter 
+1	1522763144	2	Pls explain what uphold is and why you think its safer than hardware wallets. Please, thank you :)
+1	1522760391	1	Yeah, I am also concerned ledger's app want a proper connection to api.ledgerwallet.com and if it is down...
+1	1522757869	1	This. Exactly. Why when we have cloud technology do you go for some old school thing that can get broken, lost, stolen... why take the risk?? The only way it would make any sense is if you could insure it... And I would hate to think what the premium would be if it were even possible.It's the equivalent of putting cash under your mattress.
+2	1522765905	1	It is not equivalent to putting cash under your mattress, everything is on the blockchain to begin with. If it was broken, lost, or stolen you can still recover your wallet with your recovery 20 seed words which you can store online, offline, under your grandma's bed, etc. If you think cloud technology is 100% safe, think again. Cold wallet storage is literally under YOUR own protection, so the risks you take will be on your own terms. But if you would rather trust that the cloud service you are provided with will guarantee you the insurance you need, then to each their own. 
+0	1522733428	2	Thought this was a Juul at first glance. Good for you; cryptos are definitely better for you than nicotine
+1	1522740331	1	>  cryptos are definitely better for you than nicotineIm not so sure about which is more likely to cause heart injuries.
+1	1522755766	1	Aside from the addictive nature of it, nicotine is pretty harmless. On par with caffeine. 
+0	1522753474	2	The switch from BTC TO XRP. Good on you!
+0	1522760993	2	Same wallet buddies
+0	1522763048	2	Good on you!
+0	1522727707	3	How can I buy one and assure it hasn't been tampered with?
+1	1522731441	13	Buy direct from the company.    ledgerwallet.comMy bank wouldn't run the transaction though, I had to pay in BTC. 
+2	1522734331	5	seriously? what bank?
+2	1522740280	10	Man that's crazy. Please switch banks asap. We need to end this bank power trip where they think they can dictate how we spend our money.
+2	1522746344	1	That's messed up.
+1	1522730186	7	I bought from amazon and I had to establish the 12 word phrase out of the box. If you get one that doesn’t ask you to establish it, then someone else already created one. You can reset it and create a new one and you will be good to go. 
+2	1522731821	6	Buying one not directly from Ledger is a horrible idea and you should NEVER NEVER NEVER do it. 
+3	1522780053	1	Unless you understand how to create/manage your own seed.  I think Amazon is just fine.
+1	1522730383	2	I bought mine directly from Ledgerwallet website. They ship to many countries so there is a chance they ship to yours. The best thing about buying directly from them is that you can pay with BTC. 
+1	1522731835	2	If you plug it in and it works on their Ledger Manager app, it hasn't been compromised.Also worth noting that no ledger hacks have been seen used for evil in the wild. Only researchers reporting bugs
+1	1522746574	1	They don't even come from ledgerwallet.com with any tamper-proof tag or anything, because they say the product is actually tamper-proof so you should be fine to just buy it from anywhere. Well, this was at least the case when I bought it. 
+1	1522730367	0	On internet.
+0	1522736191	2	Where can I get one??? I ordered one, but there's a four month waiting list to receive it, and paid for it in advance. Pretty bummed.
+0	1522736679	1	I thought this was a Juul for a second. I wonder what that says about me.
+0	1522738108	1	Wait,Can i choose my key words and "reset" ? I want some words written no where just in my mind
+0	1522740832	1	I just bought one too. Should arrive in a week or so.
+0	1522744731	1	You can just get a second Nano put in the same seed and view your coins.  It is good to have a backup.  I wouldn't rely on my memory for the seed but I would not write it on that card so someone could conveniently find it either.
+0	1522745429	1	Great choice. Better safe than sorry.
+0	1522746450	1	I found the ledger app manager doesn't work with Ad blocker on. Other apps work, just not the manager 
+1	1522780133	1	I use ad blocker plus, no issues.
+0	1522748043	1	I got to upgrade mine and get my crypto off the exchanges 
+0	1522760745	1	I am thinking of buying it as well. Is it good?
+1	1522761109	2	Yeah I love it! No complaints yet
+0	1522763772	1	Always remember to lock in the price during peaks
+0	1522763814	1	Where can I see what coins you can put on this?
+1	1522763940	1	https://www.ledgerwallet.com/cryptocurrencies
+0	1522773446	1	I got 2 ledger, but never tested the 24 words backupHow should I test the 24 words backu ? 
+0	1522780309	1	Tech savvy isn't my middle name but ive has mine for a month and watched a bunch of YouTube videos and can't figure out how to get my coins onto my device.  They also don't have a customer service phone #.Anyone else unable to figure it out? I have my words and passcode and that's all I could figure out.
+0	1522730654	-1	Hopefully not a switch from Trezor, I highly recommend Trezor over Ledger
+1	1522731919	3	Only reason i went with the Ledger was because they supported the specific currencies i needed. Once Trezor adds support for them, I will happily switch. 
+1	1522734605	2	Why specifically?
+2	1522735805	-5	The ledger is difficult to use.  I had to consult the online manual / how to get it working (which shouldn't be necessary), and even that had an incorrect step that I had to solve through trial-and-error.  Additionally the UI is incredibly clunky and can take 10 minutes just to send some coins.  It's very counter-intuitive and generally feels sloppily done and cheaply made.  I'm honestly a bit worried about the security of the device when they can't even get the UI working correctly.The trezor on the other hand is easy to use, has a clean UI, and just generally "works".  They've been very transparents about how everything works, their plans, and various features.  The only thing they haven't done is implement showing an address on the trezor for ethereum.  
+3	1522736160	2	Thanks for the perspective!
+3	1522738678	-8	Not to mention trezor haven't got a 13 year old hack it yet
+4	1522755851	4	You're wrong.Trezor has been hacked at least twice so far.[2015 Jochen Hoenicke](https://jochen-hoenicke.de/trezor-power-analysis/)[2017 Saleem Rashid ("The hacker kid")](https://saleemrashid.com/2017/08/17/extracting-trezor-secrets-sram/)
+1	1522730714	2	Yeah sorry I wasn't descriptive what I switched from. I switched from the PC Exodus wallet. 
+0	1522731021	1	Did it work? Mine isn't recognized by my computer and is completely useless. Teach support wasn't any help either.
+1	1522731063	1	Yea I just followed the directions on the website and it went pretty smoothly. 
+2	1522732994	2	same but nothing ever pops up on the device for me.
+3	1522733026	2	I don't know how to help you man, sorry :/Wish you luck though 
+3	1522734916	2	I had to update the usb driver for it to work
+3	1522741528	1	Check the driver, it may need to be updated. 
+1	1522762358	1	you can't even use your mouse why should you need a nano ? 
+0	1522731609	0	I tried the nano S. It’s annoyIng and the. Platform is difficult to use. Waste of money 
+1	1522731705	2	For me I find the process not annoying at all. It's obviously not as convenient as a single password like my Exodus wallet has, but it's worth trading a little convenience for a lot more peace of mind (at least in my opinion)
+0	1522742335	0	You'll regret this when someone finds a hack
+0	1522734507	0	Where can I buy one those from? I’ve got couple Litecoins to store 
+0	1522738858	-1	[removed]
+1	1522760292	1	**Rule I - Obey the Golden Rule & Maintain Decorum** * Lead by example and treat others as you would wish yourself to be treated.  * No Trolling. Do not make random unsolicited and/or controversial comments with the intent of baiting or provoking unsuspecting readers to engage in hostile arguments. Trolling, in all its forms, will lead to a suspension or permanent ban. Do not waste people's time. It's the most valuable resource we have.See our [Expanded Rules](https://www.reddit.com/r/CryptoCurrency/wiki/expanded_rules#wiki_rule_i) wiki page for more details about this rule.---**Reasoning:** -----[^(Sub Rules)](http://www.reddit.com/r/CryptoCurrency/about/rules) ^**|**  [^(Site Rules)](http://www.reddit.com/rules)
+0	1522738636	-2	its not secure and can be hacked be careful.
+0	1522749269	-1	Imho 100 euro that's a lot of money for a pendrive but it shows people on crypto don't give a shit about price hece also the high withdraw fees from exchanges.
+0	1522734099	-4	Now you can protect your dying investment to the fullest
+1	1522748446	1	The suicide hotline is trying to call you. They wonder where you are.
+2	1522779193	1	😂 
+0	1522721372	0	If this submission was flaired inaccurately, [click here](https://www.reddit.com/r/CryptoCurrency/wiki/resources#wiki_flairing_content).*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1522736694	0	I don't understand the phenomena of physical wallets for digital currencies. Why not just store a software wallet encrypted in the cloud?
+1	1522739370	5	If you have access to your private keys from your PC, then so does any malware your PC is infected with.  Your "encrypted wallet in the cloud" will be secure, until the moment you actually try to access or spend some funds, and thus you need to decrypt it.
+2	1522754636	1	That's a fair point, never thought about it.
+3	1522756182	0	It's insane there are people in the crypto space to whom it's not obvious.
+4	1522757614	-1	If you use Linux based systems you don't really think abut malware too often.
+1	1522762240	0	I think you don't have money to buy a Ledger Nano that's why so many FUD around it. When your exchange will be hacked then you'll be sorry keeping your coins there.
+2	1522773503	1	In which part did I wrote about keeping funds on exchange?
+0	1522755610	-1	It looks like a step to the past. I prefer online safe wallets such as CS wallet or Blockchain wallet.
+0	1522727838	-20	[removed]
+1	1522728004	10	The only salty one here is you 
+2	1522728444	-10	Remind yourself of this a year from now when they find out all the nano ledgers were compromised and sent the entire contents to random developers wallet.You will all have effectively paid someone to steal from you.
+3	1522729826	6	By Chuck Norris 
+0	1522725228	-50	[removed]
+1	1522725362	20	Why are you on a crypto currency sub hating on cryptos...
+2	1522725483	-20	[removed]
+3	1522725522	6	Haha so you have crypto? Or you just like making fun of people in general
+4	1522725612	-13	I do have "some" While it's incredibly stupid to think it should have any value at all, the chance of it actually going up in value is too hard to pass up. Classic fomo.
+5	1522726068	10	Makes sense. I threw some money at it a while ago, just hoping to make profit, but I found myself getting really involved and learning a lot more about it. Now I love the adrenaline of losing thousands of dollars a day. 
+6	1522726616	5	Loss junkie!!!....nice
+5	1522726747	8	@ynnubyzzuf I read some of your comments and you literally spread your cancer all over the cryptocurrency subreddit giving away false statements with very little research 
+6	1522726869	-12	[removed]
+7	1522727153	5	I'm just pointing out that you are angry cause let's admit it your portfolio is down due to this crash and you are venting your anger by calling others idiots when you know for a fact that the only retard here is you 
+8	1522728397	2	Just report him and move on
+8	1522727386	-6	Ain't angry about shit.Also, not down. Still up. Not as up as it was, but not down.So no. 
+7	1522748552	1	Yo. The suicide hotline wants a word with you. They wonder why you dont call them.
+7	1522760461	1	**Rule I - Obey the Golden Rule & Maintain Decorum** * Lead by example and treat others as you would wish yourself to be treated.  * No Trolling. Do not make random unsolicited and/or controversial comments with the intent of baiting or provoking unsuspecting readers to engage in hostile arguments. Trolling, in all its forms, will lead to a suspension or permanent ban. Do not waste people's time. It's the most valuable resource we have.See our [Expanded Rules](https://www.reddit.com/r/CryptoCurrency/wiki/expanded_rules#wiki_rule_i) wiki page for more details about this rule.---**Reasoning:** -----[^(Sub Rules)](http://www.reddit.com/r/CryptoCurrency/about/rules) ^**|**  [^(Site Rules)](http://www.reddit.com/rules)
+3	1522760478	1	**Rule I - Obey the Golden Rule & Maintain Decorum** * Lead by example and treat others as you would wish yourself to be treated.  * No Trolling. Do not make random unsolicited and/or controversial comments with the intent of baiting or provoking unsuspecting readers to engage in hostile arguments. Trolling, in all its forms, will lead to a suspension or permanent ban. Do not waste people's time. It's the most valuable resource we have.See our [Expanded Rules](https://www.reddit.com/r/CryptoCurrency/wiki/expanded_rules#wiki_rule_i) wiki page for more details about this rule.---**Reasoning:** -----[^(Sub Rules)](http://www.reddit.com/r/CryptoCurrency/about/rules) ^**|**  [^(Site Rules)](http://www.reddit.com/rules)

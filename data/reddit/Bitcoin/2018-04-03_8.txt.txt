@@ -1,0 +1,14 @@
+File created at: 1522780288
+Subreddit: Bitcoin
+Submission title: Coinance for Android Has Launched & v1.2 Update for iOS: Add Coins Manually, Check Your Portfolio Development And Much More!
+Submission created utc: 1522760501
+Submission score: 143
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522769837	1	coinance? new one?
+1	1522770137	1	Yes new update for iOS and finally Android support!
+0	1522770301	1	Didn't know coinance was a thing until now.
+1	1522770426	1	We are quite new. Just launched on iOS 5-6 weeks ago, so no surprise. But spread the word of you like it. We are happy to work in any feedback you have for us and directly seek for feedback from our users.
+0	1522776325	1	Your submission has been flagged for removal because it is considered off topic for the Bitcoin subreddit.^^I ^^am ^^a ^^bot ^^and ^^cannot ^^respond. ^^Please ^^contact ^^/r/Bitcoin ^^moderators [^^directly ^^via ^^mod ^^mail](https://www.reddit.com/message/compose?to=%2Fr%2FBitcoin) ^^if ^^you ^^have ^^questions.
+0	1522763982	0	Coinbase hahaha ah 😂 
+1	1522766764	1	Yes. We actually support also Binance, Bitfinex, Coinbase, GDAX, Kraken and Poloniex via API integrations!

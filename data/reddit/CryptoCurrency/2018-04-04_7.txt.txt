@@ -1,0 +1,58 @@
+File created at: 1522866342
+Subreddit: CryptoCurrency
+Submission title: Adoption levels will begin to cap if the user experience isn't improved. As bad as Coinbase is, it is the only choice for beginners that makes the process simple enough.
+Submission created utc: 1522789142
+Submission score: 279
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522807274	24	This is what precisely Blockport, a hybrid-decentralised social exchange is trying to solve.(Beta was released a few days ago. Do check out the screenshots and new website)Its main goal is to be (super) user-friendly and aims to cater to both novice and experienced users.Not only does it provide FIAT to crypto gateway (and vice-versa), it allows you to trade across exchanges on its own exchange, which is great for simplicity sake.You also hold your own private keys, meaning you have full control of your funds all the time!It will also introduce a copy-trader system where you can pay (BPT) to follow/copy an experienced trader’s moves and execute them. You can allocate a certain % of your holdings to use.
+0	1522798143	24	 There are many Fiat to Crypto exchanges in the works. COSS, Blockport, FairX, OMG Dex, just to name a few. We are still in the first inning. Just hang tight. 
+1	1522798466	24	What sets Coinbase apart is that it is FDIC insured. 
+2	1522801961	24	COSS will also be secured afaik.https://imgur.com/KM9Yy8H
+3	1522804053	2	Awesome. Thanks for the heads up!
+2	1522821623	2	Only fiat, not crypto AFAIK.
+3	1522828246	4	Coinbase's crypto is insured through Lloyd's of London
+3	1522821853	2	Yes crypto needs to be insured too...not the value of course but the tokens/coins need some sort of protection, perhaps a reserve that COSS or whatever exchange holds in cold storage.
+0	1522816289	5	I wrote a piece on this a few weeks ago. For mass adoption, the experience needs to be seamless, even beyond exchanges, you need to be using crypto without realizing you are using crypto,As an example, loyalty points could be crypto, these 'points' have a value, they can be exchanged for airmiles 'a (another crypto) or any other industry scheme. Then you enable P2P pay,ment using these points using any digital wallet app, and now you have people using different types of crypto without realising it... since they haven't really modified their user behaviour, and youve added extra capabilitys to their loyalty points because its now a crypto. 
+1	1522853331	1	Hence why I'm extremely bullish on Request Network. It's going to be doing exactly what you say. 
+0	1522823273	5	The one thing that needs improving on is wallets. Someone like my mom can never, never use crypto due to the complexity of the wallets. Just the simple fact that you can send your funds to the wrong address and lose it all is a huge hurdle for "normal" people. It would be great if you could send a password with your transaction, and to confirm the transaction on the recieveing wallet you have to enter the password which was entered for that transaction. If you don't enter the password within X amount of time it is sent back.
+1	1522824779	2	Or have a confirmation period, meaning funds would be pending (can see it, unable to spend) in the recieving wallet till the sending wallet confirms it was sent to the correct address, like a simple 'did your transaction succeed' prompt, and if they say no, the pending funds are reverted back to the sender's wallet without the recieving wallet ever having full control of the funds
+2	1522849514	1	That's not really an issue with wallets, that's an issue with the blockchain. You can't just send a transaction over ETH, you have to pay a fee. So the sender would pay a fee to send a transaction, wait for it to be included in a block, only to have to pay another fee to send it back.It's makes more sense to have human-friendly addresses rather than deal with back and forth transactions you're proposing.If you think the network is congested with high fees now, it would only get worse with people spamming the network with "address-confirmation" transactions.
+0	1522820176	3	Square cash is even easier to use than coin base and probably has more total users than coinbase. Coinbase is definitely not the only choice for beginners. 
+1	1522821918	3	Square Cash is weird tho, my bank charged me a “cash fee” for buying BTC on there.
+0	1522832724	3	UX   experience in crypto is horrible. Sending money between exchanges in a nightmare. 
+1	1522850594	0	That’s why you send XRP or NANO—moves like lightning. 
+0	1522822834	2	Yeah, only in America though. We feel for you guys. Cheers.
+0	1522799247	3	Crypto needs it’s Netscape Navigator moment. It’s coming, be patient.
+1	1522804144	2	Surprised there’s not a Jeeve’s Coin or Altavista ICO yet. 
+2	1522821960	2	BRING BACK JEEVES! I need to ask him how much BTC will be worth next year.
+1	1522853390	2	Request Network
+0	1522804773	2	Circle Invest.
+1	1522814177	8	Circle closed my account because I refused to tell them my salary.
+2	1522840701	1	screw Circle.You can't even withdraw so it's literally pointless.
+3	1522850406	1	I came here to say that I really like Circle, then saw this and was like WTF!? Is that true?   You can withdraw to USD again, but you can't withdraw the crypto.  I guess for the regular Joe who doesn't care this is fine.
+2	1522865904	1	That's lame.
+0	1522815768	1	As long as banks hate and fear Bitcoin, there will never be a “simple” process.
+1	1522822682	1	One of the 2 (crypto & banks) will have to give; I have a feeling it's not crypto.
+0	1522817243	1	I use the motherfucker with zero issues.
+0	1522826656	1	Robinhood is stupid easy to use although you can’t spend your crypto, you just hold it like a stockEthos wallet is out for initial testing and is going to smoke all the competition You will also see Square beefing up their capabilities
+0	1522828867	1	coinbase sucks .. money suckers with crazy fees . . but its sure is user friendly though
+1	1522837355	2	I switched to Coinbase after getting sick of CEX.IO's fee. Coinbases's are generous by comparison.
+0	1522829642	1	Plenty of easy to use fiat to crypto vendors in The Netherlands. I think it is more a problem for residents of the USA.
+1	1522832634	1	Hello, can you name some fiat to crypto vendors in Netherlands? I want to start soon and all these reviews about Coinbase and Kraken are off putting.  Thanks. 
+2	1522855008	1	litebit.eu, anycoindirect.eu, bitonic.nl    All charge hidden fees.
+2	1522855603	1	If you want BTC, ETH or LTC I would recommend BTCdirect. After KYC (takes about 2 days), buying these coins is pretty much instant when using iDEAL. Selling is easy too and I usually have my money on my bank account the next day. They do take a hidden fee when buying though, which is usually between 1%-3%.If you want more alternative coins and don't want to use an exchange such as Binance or Bittrex, there are a lot of other crypto vendors out there (as someone else already commented). 
+0	1522843294	1	Coinbase is fucking shitSource: I’m a beginner losing money in coinbase 
+0	1522797529	1	Why is Coinbase the only choice? this attitude will lead people to fear crypto. What will new people in the market think when old hands are stating that its all difficult to understand. I personally was afraid to try a few different exchanges and opted to only use an exodus wallet to trade due to hearing this rhetoric multiple times. Turns out Binance and Coss (first two I tried that sold coins I wanted) are both super easy to use and noob friendly after all, and I wish I wasn't influenced by what I read on here about exchanges being difficult to use, especially with the difference in fees between exoduses, shapeshift service and binance. 
+0	1522806111	1	For you boys and girls down under. Coinspot offers AUD pairings for hundreds of cryptos. 
+1	1522828352	2	More expensive than BTC Markets no?
+2	1522834243	1	Generally speaking this is true. 
+0	1522795773	1	Genesis is great too.
+1	1522815271	2	Used to be great before they changed fee structure.
+0	1522825966	0	And this is a complete lie. This statement is false - the right statement is that people are too lazy to look for other options. When i started i tried 5 different crypto entry points and ended up using kraken as standard. So stop with bullshit that coinbase is the only way to go. It is the laziest way to go. 
+1	1522832102	5	If you want crypto to be adopted by an audience that is not particularly computer savvy or into the underlying technology, then coinbase is pretty much the only easily accessible way to go because other exchanges like kraken are too much a 'trading platform' and not a platform where people can conveniently buy or sell crypto at going  market rates.And offline wallets are similarly user-unfriendly for someone who is not interested in understanding the underlying technology.2 decades ago, you had to be a computer nerd to set up a secured WIFI network at home. Your argument is that everyone who wanted WIFI without having to understand encryption levels, MAC addresses, DHCP, public addresses and routing was too lazy. And remember that some routers followed the A, B or C standard, and they were not compatible?But guess what: WIFI only became useful to non-techy people when they got a device they could simply plug in and get connected without having to understand any of those things.
+1	1522827689	1	I believe you are confusing busyness for laziness. Have you considered not everyone has the time to go down the path you did?If I'm buying crypto because there's an economic advantage to using it, I won't be interested in the underlying technology or have need for advanced trading software.I will want to understand the reasons for using it and then spend minimal time actually acquiring it. This is the same reason people have mortgage brokers and accountants. Laziness isn't a factor.
+0	1522814483	0	Coinbase is so bad. 
+1	1522828761	1	If there was a r/CryptoCircleJerk sub, this platitude would be the first submission.Edit: Oh snap, it exists.
+0	1522817473	-2	No way, ether delta is way more user friendly for beginners I heard.  I'm so mad  that exchange is fading away.  Coin base is probably the worst experience.    We should get rid of it
+0	1522822307	-2	The Netscape Navigator moment for crypto will be EOS. Steem has been the closest thing so far.

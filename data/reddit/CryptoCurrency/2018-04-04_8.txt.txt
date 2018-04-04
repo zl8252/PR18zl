@@ -1,0 +1,178 @@
+File created at: 1522866343
+Subreddit: CryptoCurrency
+Submission title: Network Attack on XVG / VERGE. Hacker mined a block every second for the past 13 hours
+Submission created utc: 1522854217
+Submission score: 295
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522857864	218	Are you guys that stupid? This a classic scam where you collect the money, pretend to be attacked/hacked, and make up some story on why you will no longer continue.Good luck bag holders.
+1	1522858713	76	Oh man. I could see this playing out for sure. Got hacked, lost the 75 mil donated XVG, partner cancelled but can’t even say who it was because of NDA. XVG actually filtered out by sunejoke through a real privacy coin like Monero. Wait a few months and come up with another scam.
+2	1522864034	2	Dropped my bag at 4 cents after getting in at 50 sats. I'm pretty happy with where I ended up, but I saw the writing on the wall.
+3	1522864317	-7	YOU DUMB FUCKED UP LOOK AT BITCONNECT  AND CENTRA COIN THEY PUMPED FOR DAYS AFTER BEING EXPOSED. ISOINITIAL SCAM OFFERING GET IN ON IT NOW!
+4	1522864608	0	Nah, I'm good. Don't need BIIITTTCONEEECCCTT 2.0.
+1	1522865527	0	Please let this be true. Can't wait till more dumb idiots get scammed haha!
+1	1522864266	-3	Commenting to save this thread until the 17th.  If your presumption is correct, I'll congratulate you for your insight.  If, however, you are dead wrong in your presumption, prepare yourself for massive abuse because of your stupidity.
+2	1522865132	3	> If, however, you are dead wrong in your presumption, prepare yourself for massive abuse because of your stupidity.Go fuck yourself.
+3	1522865327	-3	Hey, is everything ok?  You sound upset....
+2	1522865002	1	You're okay with your coin being centralised? That's what this attack means. Also the exploiter got 4.5m usd worth xvg. More than how much you guys were ordered to raise for the partnership :). 
+1	1522865271	-1	> Good luck bag holders.Lol, nice people we have here in the crypto community. Not a holder, but it's still up 50% for the week which is a lot more than most coins can say right now. And I'd guess that this is probably being blown out of proportion so that people can buy cheap coins again.
+0	1522855897	82	Is it the ending we all have been waiting for?
+1	1522859601	40	Hoping*
+2	1522860340	7	Best ending is we're all wrong and verge makes the crypto space awesome,Scams are bad for the entire space*Expecting* is much more appropriate than "hoping" unfortunately
+3	1522861898	25	Eh, the sooner we offload the shitcoins the sooner actual adoption happens.
+4	1522863844	4	This. Let's build a solid foundation with strong fundamentals, professional teams that communicate clearly and honestly, and provide legitimate value to various industries. Not Verge.
+4	1522864038	4	the next shitcoin on the list is waltonchain
+3	1522864575	1	I agree with the sentiment, but one negative consequence of Verge succeeding is that it gives other unprofessional shitcoins something to point to as an example.
+2	1522864663	0	I would have loved for the XVG “biggest partnership in history” to be real. That would be great for the market right now.I just knew better. 
+1	1522864338	1	Bitconeeeeeeeeeeeeeeect
+2	1522865377	3	Wasa wasa wasa 
+0	1522856669	66	I have a small feeling it's the dev who exploited his own code. Wouldn't put it below him. Edit: Something that seems to support this theory is that he didn't say a word about it until it was posted on Bitcointalk. He was approached privately by Suprnova and he just said "yeah it's working as intended". Maybe working as intended for him l0l. 
+1	1522864054	4	Most likely, I hope those who can, sell while they still can. This coin has always thrown up red flags, to be long on it is betting on white in roulette. 
+2	1522865648	2	0 and 00 are usually green.
+3	1522865696	1	Well then that tells you the odds. Lmao 😉
+1	1522866014	1	So the dev has video ama's and is active on Twitter and on Reddit, why would he do that if he's planning on scamming people? Why would he put his face out there for the world to see?
+2	1522866245	1	Because if he just disappears, the coin will dump instantly and never recover and be won't be able to milk this pump and dump shit another 15x times. Why would he want to kill the chicken that lays golden eggs?
+0	1522863982	13	Looks like the devs finally tweeted about it.Given that tweets don't allow people to expand enough on their thoughts, I'll attempt to provide an in-depth translation. If I've gotten anything wrong please let me know.https://twitter.com/vergecurrency/status/981578693062610950> We had a small hash attack that lasted about 3 hours earlier this morning,Translation: An attacker created 10,000+ empty blocks at a rate of one per second over 3 hours. Over $1 million USD was stolen and will likely be dumped onto the market.> it's been cleared up now.Translation: Due to no effort on our part, the attacker seems to have stopped. We later implemented a "fix," but it likely doesn't work as intended as we're not sure how to calculate the number of seconds equivalent to 15 minutes. https://github.com/vergecurrency/VERGE/commit/7294e062a61f78ffb05689b562f90985463d1179> We will be implementing even more redundancy checks for things of this nature in the future!Translation: Due to our own incompetency, we never implemented a very basic check in the code. But we'll spin the situation to make it seem like this is a positive thing for the network.
+1	1522864624	5	Need you on Google translate
+1	1522864736	4	Thank you for the scam to English translation
+0	1522856147	29	So for anyone who doesn't like to read, it seems that miners were able to spoof their timestamps and mine a specific algorithm while others were mining the "current" algorithm. I guess that gave them majority hashpower since no other miners were in those blocks, causing them to mine incredibly quickly. 
+0	1522858152	41	So the hacker stole $1,004,400 roughly for the 3 hours or$4,352,400 roughly for 13 hours. Either way, Verge is going to lose most of its support from this. 
+1	1522858336	43	Have you seen how delusional that sub is? They’ll find a way to rationalize it.
+2	1522858628	15	Not trying to throw shade but they really are, man. They are so blind to the sketchiness of this company and the "random acts" that just always happen.
+3	1522863847	3	they deserve this. 
+2	1522860119	6	They already are. Check out their reddit. They're all pretty much sleeping like babies while their chain gets wrecked and their lead dev fumbles around changing a constant
+2	1522860949	1	I would bet less than 1% of people that have money in Verge go to the sub.
+1	1522858937	10	They've invested too much into it, and that's why they won't give up support since it means acknowledging all that money is gone.
+2	1522859689	8	Their money just went to live on a farm upstate.
+3	1522866245	1	That legitimately made me laugh out loud. Take your upvote!
+1	1522862953	1	Is it really stealing though? Wouldn't those blocks have been mined anyway? Or are these blocks basically worthless, allowing to collect the block reward without actually performing any mining/ contributing to the network?
+2	1522865652	1	Verge makes itself asic resistant by constantly changing the algorithm.  If a malicious miner mines blocks with the same algorithm and tricks the network into accepting them, it will effectively have all of the hash power for those blocks, thereby reaping the reward for each block mined.This is my super non-techie understanding of what I've read so far.  
+1	1522866265	1	Thanks!  This is the only thing I was actually interested in knowing.
+0	1522854609	97	XVG will make mainstream news because they failed the hardest out of every crypto ever?
+1	1522858404	36	That sub is so delusional. They will find a way to spin it that the devs are hero’s for fixing their code.
+2	1522858581	20	A lot of comments being deleted and people being banned over there for posting or asking about this without even trying to spread FUD. That community and sub is so controlled. 
+3	1522859155	20	Just like r/bitcoin 
+4	1522860643	-20	you mean nano
+5	1522864172	4	If you can make a good case against NANO and the NANO mods I will sell all my NANO. 
+5	1522861465	9	care  to elaborate?
+5	1522863589	2	Really? 
+3	1522863785	1	I used to be in XVG and got banned from the Discord for saying bad things about McAffe before he became persona non grata over there.
+2	1522865175	0	Like bitcoin celebrating when a guy got his coins jacked for making an easy mistake with lightning. Nothing feeds adoption like screwing over newbies!
+1	1522862431	4	i thought trx would too.  plagiarizes white paper, goes up in market cap.  =S
+1	1522863117	2	Failed is a compliment. Fucking scammed
+0	1522860738	9	Yeah, a 'hacker'. *cough cough*
+0	1522854751	35	This really bad news for XVG. From reading that thread, it looks like a code problem in blockchain allowed hacked to mine every single block for past 13 hours. Attack has stopped for now. Waiting on Dev response because it can happen again at anytime
+1	1522856080	4	Dev responded:>it stopped, and was only some blocks during a 3 hour period. we're pushing an update>no they got some blocks during a 3 hour period. not 13.He admits that there was an attack and is working on the fix. But he also says it is much less severe than the mining pool guy claimed ("13 hours * 1 sec blocks"). Will you guys please also write some hatemail to supernova and claim that it is "finally dead" if that turns out to be true?Edit: source in his recent posting history: https://www.reddit.com/user/sunerok
+2	1522859858	25	I wouldn't trust these devs. One guy posted a fix, but he doesn't understand integers/time.https://github.com/vergecurrency/VERGE/commit/7294e062a61f78ffb05689b562f90985463d1179
+3	1522861115	7	People pointed out his mistake. Then he responds with a Wiki page which lists the constants in the codebase (of which nMaxClockDrift is one). I fail to see how that's a relevant response.
+4	1522861440	10	He's an idiot. 
+5	1522862848	11	Stop spreading FUD. I have 3 billion XVGcoins. According to my DD XVGcoin will soon be worth more than the gross domestic product of China.
+6	1522864353	1	sell your coins now.
+7	1522864414	2	Never, I am HODLing to 0 because I am a savvy investor.
+8	1522866067	1	Hodling to 0? Enjoy the ride then :> ^^^^/s
+7	1522865323	1	He's joking bro
+4	1522863607	3	I was honestly confused as to why he posted that link. He posted a link to a defined CONSTANT that isn't even used in the code he changed in the fix. He really doesn't understand math or programming. He's just copying and pastingThis is why computer science majors requires at least calculus 2.
+5	1522864727	3	Lol you don't need calc 2 to do simple division. 
+6	1522864968	2	Yeah, I know. I was meaning for more advanced stuff dealing with encryption and whatnot.
+7	1522865401	2	Naaaa not needed when you copy all your code and say it's okay not to cite it cause "open source lul"
+8	1522865446	1	Verge just became my favorite coin. I can't wait to see what silly shit they do next.
+9	1522865784	1	Look out for their implementation of ringCT. Gonna be good 
+4	1522862770	2	Check out his further replies. Pretty surreal stuff.
+5	1522864271	1	Yeah I mean time trips up the best coders, but that's why you test before you go committing to a master repo for a multi-million dollar code set.
+3	1522864761	2	Wow.  just.....wow.
+3	1522862587	2	That's pathetic. Did he just see 2 "60"s and assume that it was 1 for each hour? 🤣🤣
+4	1522863171	-1	No the explanation is further down. 2 x 60s/m x 60m/hr = 2hr. 
+5	1522864769	2	Do you know what you're saying...? 
+6	1522866205	1	xvg could hire that guy and he would outsmart them
+0	1522855753	48	I pray that this will finally kill the scammiest coin after Bitconeeeeeeekt
+1	1522863790	1	P3d gets1 the 2nd place. Please
+1	1522858077	-21	What does this have to do with Ven?
+2	1522860464	13	List 1 shred of proof VEN is a scam and I'll guild you. I made this bet more than once now and no one has ever even replied because they can't and would look stupid tryingGood luck
+2	1522862331	1	There has been a sudden surge in number of people calling ven a scam. I really hope a competitor is not funding the trolls to badmouth it.
+1	1522856676	-32	you are retarded.. 
+0	1522861313	44	Please stop spreading FUD. I've seen Sunerok in videos and his body language tells me he knows what he's doing. He seems like the kind of guy that likes to leave people hanging on purpose just to surprise them with something amazing. I've spent hours analyzing his mannerisms and can assure you he's legit. In fact, I make all my decisions based on the micro-movements of a person's body -- neither the police nor trained psychologists can do this with any consistent accuracy but I can, and I Believe In Justin. Can't wait to laugh at you guys from my sky lambo. 
+1	1522861622	15	At first I thought you were serious.... enjoy the upvote!
+2	1522861725	10	It's a legit paraphrase of the heavily upvoted reasons people gave after the crowdfunding partnership announcement delay. The strangest rationalizations. 
+1	1522865476	2	I bought in because of his eyes. Those are the eyes of a man I can trust
+0	1522858730	12	But but but....There is a partnership announcement coming up!
+1	1522862630	4	Hope they announce some t shirts 
+1	1522864512	2	A partnership with the one, the only, motherfucking Carlos Matos! 
+0	1522859743	14	Don't worry guys, it's fixed.  Except the lead dev is already called out on how his fix is wrong:https://github.com/vergecurrency/VERGE/commit/7294e062a61f78ffb05689b562f90985463d1179
+1	1522860049	4	No way these guys can actually deliver what they promise.
+1	1522861320	2	Man, I laughed so hard. This is pure gold. No wonder Wraith wasn't delivered. 
+2	1522865729	1	I'm pretty sure it was delivered, just not on NYE. 
+1	1522863691	1	XVG...What a joke...they have a great dev team. 2nd bitconnect.
+0	1522856041	15	1560 XVG is rewarded for mining a block? That's almost $100 per block, at current market price.$100/second. Wat.
+1	1522856802	10	you think hackers 'hack' for just some couple of dollars? if they are gonna steal they are gonna steal big!  that's some organized group there, it's not from an average hacker
+2	1522858437	2	Guess they just got away with 4.6m then.
+0	1522860462	9	How has the price not tanked harder?
+1	1522864639	-2	They found out the hack, they will fix it and not harm will be done and they might be looked like Heroes like what happened with Binance?Then the price might just go up more?
+2	1522865005	1	Don't compare Verge to Binance...
+0	1522860098	4	This doesn't mean the attacker can make fake blocks, right? Just that he will collect the rewards for each block?What are the verge block rewards?
+1	1522864787	1	1560. Which equals to about 100$ per second. (With earlier prices) According to a comment higher up. 
+0	1522863572	4	can it die now
+0	1522856863	24	Finally. Verge deserves a painful death.
+0	1522859117	6	Time to make some popcorn...
+0	1522859534	15	lol, the devs posted a ["fix"](https://github.com/vergecurrency/VERGE/commit/7294e062a61f78ffb05689b562f90985463d1179), but they don't understand how integers represent time.
+1	1522864650	3	Lol, then he posted another [fix](https://github.com/vergecurrency/VERGE/commit/b6c380727ebe285538b9e5ac330176d9e8983f87), putting the constant at 2 * 15 * 15.  Like it was actually a typo in the first commit.  But it's still not 15 minutes, it's 7,5 minutes.  And even if it was intended, why represent it in such a bizarre way?  The purpose of representing time constants as multiplication is for readability ( hours * minutes * seconds).  BRB, I gonna grab some popcorn and watch those git commits :-D
+2	1522864665	1	It seems that your comment contains 1 or more links that are hard to tap for mobile users. I will extend those so they're easier for our sausage fingers to click![Here is link number 1](https://github.com/vergecurrency/VERGE/commit/b6c380727ebe285538b9e5ac330176d9e8983f87) - Previous text "fix"----^Please ^PM ^/u/eganwall ^with ^issues ^or ^feedback! ^| ^[Delete](https://reddit.com/message/compose/?to=FatFingerHelperBot&subject=delete&message=delete%20dwt0r8v)
+2	1522865118	1	He's an arrogant idiot. He calls people pointing out his bugs the "peanut gallery".
+2	1522865493	1	Hahahaha 2 x 15 x 15 cause why the fuck not. Let's just site the source with the default values as an "explanation". 
+2	1522866205	1	> The purpose of representing time constants as multiplication is for readability ( hours * minutes * seconds).This is like that dude who volunteers for a job of which he knows nothing about, but people like him, so he just keeps on winging it.
+1	1522861633	-1	Hey, I'm not here to support this shitcoin, but the code amend is correct - it is 15 minutes.Not saying it's a good fix, but the use of integers to represent time in this case is correct.
+2	1522863311	8	Can you not do multiplication? The previous code of 2 hours was correct.>2 * 60 * 60 = 7200 Seconds / 60 seconds = 120 minutes = 2 hoursHe than replaces it with>2 * 15 = 30 secondsTo get 15 mins, the code would be>15 * 60 = 900 Seconds / 60 seconds = 15 minutesOn what universe does int 2 * 15 equals 15mins?
+3	1522863602	-5	http://wiki.peercointalk.org/index.php?title=Constants_in_peercoin_code
+4	1522864319	4	Please show me how you think this magically makes his math correct. 
+5	1522864588	-1	heh, well, if his math is incorrect, then so is Peercoins ... lol.I'm guessing it's a c++ thing. 
+6	1522864890	3	No, it is not a "c++ thing". The guy made a mistake, replaced the wrong number ( 2 X 15 instead of 15 x 60), and is now doubling down pretending it was intentional.[It's now actually 2 * 15 * 15 \(7.5 minutes\) with no comment whatsoever.](https://github.com/vergecurrency/VERGE/commit/b6c380727ebe285538b9e5ac330176d9e8983f87)
+7	1522865015	1	I stand corrected.Thanks.
+7	1522865242	1	"the guy" is their lead dev :D
+6	1522864828	1	What the hell are you talking about? Peercoin's math is correct. Verge's math is wrong. It's not a C++ thing, it's a Verge developers can't do math thing.
+6	1522864875	1	Do you even code bruh
+4	1522864752	3	This is the second time you've posted this link, without any other context. What point are you trying to make?The link you posted just backs up the parent anyway. But I still can't believe this appears to be an argument about how many seconds are in two hours. I suppose next it will be a debate about whether water is wet.Madness.
+2	1522862852	4	How is 2x15 seconds = 15 minutes? 
+3	1522863445	3	I feel like I stepped into an alternate reality. This dude just said int 2 * 15 = 15mins. And he got upvoted, twice.
+4	1522864839	2	Its driving me nuts! I guess its just a great troll. Gah!
+4	1522864531	1	vergefam influence is strong on this thread xD. 
+3	1522864857	1	15 sec == 7.5 min     obviously
+3	1522863734	-3	http://wiki.peercointalk.org/index.php?title=Constants_in_peercoin_code
+4	1522864470	2	From the link: nMaxClockDrift int64 2 * 60 * 60 two hoursSo obviously 2 x 15 is 30 seconds. Are you just commenting what the dev is commenting? 
+5	1522864846	1	No, I'm using google to find out.https://github.com/peercoin/peercoin/pull/93/commits/4281cb55b04600189bff4f0c8a92e042b34e75f8That's peercoins code. 
+6	1522865200	1	Okay so 2 x 15 is wrong. 
+7	1522865483	1	Yeah, have to say, it confused me somewhat - so  C++ time_t functions give the time in seconds since the epoch? Not a C++ programmer, so, yeah ...
+8	1522865747	1	Well yeah I mean that was understood from the link you linked though? 
+3	1522863081	-3	The base unit is 30 seconds, naturally
+4	1522863228	6	So why was the previous code 2 x 60 x 60 with a comment saying that's 2 hours? 
+0	1522859582	3	Am I mis-reading or did someone just order 1.35 million XVG?
+0	1522862279	3	Well let's all donate another 25 million verge to know who did this...
+0	1522865063	3	• Crowd funds 75 mill for "potential partnership" announcement• Delays announcement to mid April at the tax deadline• Dev announces he needs to pay taxes because his account is locked• XVG gets pumped 60%• XVG gets "hacked"• ??• ProfitI hope I am wrong in this and no one loses their money, but my god... may the crypto gods be in your favor, bag holders. 
+1	1522865448	1	Oh, did it get delayed from 16th to 17th, because they got the tax deadline wrong ?
+0	1522861839	7	Would you guys please just start investing in quality projects like Monero?
+1	1522865126	1	I’ll probably be downvoted into oblivion, but I think there’s, at best, a dozen or so quality, worthwhile crypto projects. And all I can think of off the top of my head are Bitcoin and Monero. 
+0	1522863354	4	Ah yes the perfect excuse for the "mainstream partner" to now call off the partnership so the donation fund goes straight to the dev's bank account...
+0	1522862861	2	HODLers are delusional at this point. Even IF this partnership thing WAS legit, no way that'll happen now with this exploit happening.
+0	1522863915	2	February 2015 :>It has been suggested to change the timedrift parameter value from two hours (set by nMaxClockDrift in main.h) to one minute (http://www.peercointalk.org/index.php?topic=3931.msg37731#msg37731). This would prevent a malicious user to intentionally change his clock and mint far in the future and consequently drastically increase his chances to mint a PoS block.https://github.com/peercoin/peercoin/issues/82So, this was changed in the peercoin code base over 3 years ago... ... interesting ...
+0	1522866239	1	God I love Verge, just when I think it can't get any shittier as a project, Verge comes along and says, "Bro, hold my beer."
+0	1522859262	5	How much did they *just* raise through donations in order to announce an announcement that keeps getting pushed back?  Could this finally be the most elaborate exit scam ever?
+0	1522857783	2	Is this pajama man's coin???
+1	1522862804	2	Yes
+0	1522862219	1	Is not dumpingDid this cause any harm or just fake blocks got mined? The miner got rewarded I take it?
+1	1522864917	2	it won't dump, bag holders are fanatics there
+0	1522862603	1	1 block/second? Imagine if the hacker dump the coin immediately before community realize it.I guess XVG will be 2nd BitConnect, just need someone to make the ~~meme~~ detailed report.
+0	1522864767	1	i lost interest in the project a minute ago, team is rather sketch 
+0	1522863379	1	Sunerok will soon hit rock bottom
+0	1522863531	1	LOL crazy days for the trailer park coin. This is why you shouldn't invest in a blockchain "developed" by people who didn't finish junior highschool.But but Larry and Joe said xvg is the safest and most secure and private...I don't understand? How could a fat meth-head teen and a thugged out senior citizen be wrong?? I mean they said it on Youtube, that's like better than any university paper.
+0	1522856432	-13	Just bought another 100k
+1	1522856795	8	Poor soul.
+2	1522857967	4	Issa joke
+3	1522866330	1	XVG? Totally!
+0	1522858939	-28	It lasted only 3h and hotfix has been applied. Get your facts straight FuDDer. 
+1	1522859364	7	10800 blocks mined.. yikes. 
+1	1522859045	7	SODL!
+0	1522854992	-55	What the FUD!! Haters gonna hate.
+1	1522859361	15	Perfect example of how delusional these idiots are. Someone posts something that is a fact that even the lead dev acknowledged happened and it gets called FUD. Motherfuckers better start weightlifting because those bags are going to get really heavy. 
+2	1522861420	2	This. 
+1	1522856115	23	That's not FUD, that's called a crypto currency breaking bug.
+2	1522861403	6	And a dev who seems to not know what he's doing. 
+1	1522859000	9	You poor delusional bastard 
+0	1522864131	-7	BS.  Already patched and hacker lost money on the effort.   Go back to work.  Nothing to see here.

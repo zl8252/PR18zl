@@ -1,0 +1,11 @@
+File created at: 1522866354
+Subreddit: BitcoinMarkets
+Submission title: Launch of Credit Default Swaps (CDS) on Tether (USDT)
+Submission created utc: 1522832718
+Submission score: 12
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522835080	5	so far any attempt at CDS contracts haven't been anything more than a few novelty trades -- also I wonder the level actual understanding enough for people to even use them and lastly and most importantly you trade BFX/Tether risk for CoinEX counter party risk lol -- imo there is more risk of CoinEx disappearing then Tether
+1	1522864347	1	\> imo there is more risk of CoinEx disappearing then TetherI might just be working on an exciting new product to hedge this exact risk!
+0	1522847893	2	Lol wow Also, probably not much actions because most btc freaks don't understand real financial instruments. 
+0	1522855006	2	Capitalizing on the Tether insolvency conspiracy... Smart

@@ -1,0 +1,14 @@
+File created at: 1522866346
+Subreddit: BitcoinMarkets
+Submission title: Crypto Resources Megalist V3
+Submission created utc: 1522831391
+Submission score: 50
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522835038	2	Good stuff, thanks for sharing
+0	1522839084	2	This looks really interesting. I'm keen to learn more so I'll have a read of these resources, thanks!
+0	1522849795	1	Thank you for this. It’s stuff like this that makes me come back here regularly.
+0	1522859340	1	Saved!! 
+0	1522860151	1	One suggestion I would make is that the text and icons are way too big. Make it a little smaller so more than a couple resources show up on the page at once. Besides that, I think this is a great idea and thanks for doing this!
+0	1522866172	1	Thanks for sharing this. I’d like to point out that CoinLoop hyperlink redirects to CoinMarketCal. 
+0	1522836307	1	It would be nice to have a tax section and add tools like https://bitcoin.tax, https://bear.tax, cointracking.info to the list as it will be useful down the line.

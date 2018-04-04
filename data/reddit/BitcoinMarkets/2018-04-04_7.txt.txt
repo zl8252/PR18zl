@@ -1,0 +1,9 @@
+File created at: 1522866355
+Subreddit: BitcoinMarkets
+Submission title: What the hell are these spikes we see on Kraken trading not that rarely?
+Submission created utc: 1522841394
+Submission score: 6
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522844581	2	Look at the highest time resolution chart, 3m in this case, as 1m does not go that far back. It's probably someone's fat fingers, as the spike represents high, not close, and it's not backed by serious increase in trading volume within that particular 3m timeframe. 
+1	1522859088	1	It followed 10 or more minutes of downtime.  The spike happened on reopen.  

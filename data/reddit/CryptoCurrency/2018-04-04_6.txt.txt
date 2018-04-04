@@ -1,0 +1,111 @@
+File created at: 1522866341
+Subreddit: CryptoCurrency
+Submission title: Flippening happened. At least it did in India. Ethereum is now the King of crypto, more popular than bitcoin
+Submission created utc: 1522838459
+Submission score: 283
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522839437	326	The flippening isn't about popularity, it's about market cap.
+1	1522845969	109	Or  some weird search survey conducted by a single company. That couldnt possibly be shilled...
+1	1522850049	12	Google trends have significant impact on market cap especially when it relates to India. I'd argue we're about to see a massive increase in applications built on top of ethereum coming from Indian companies/founders which directly translates to market cap.
+1	1522841771	16	Totally agree, doesn't matter if it's famous in India, it's not more famous than Bitcoin in the globe.
+2	1522859399	1	I would question ETH is more famous in India.
+1	1522847722	3	Came here to say this.
+1	1522860831	3	Both are equally irrelevant numbers.Market cap is just a bad metric overall for measuring all these coins that have vastly different quantities, most capped but some infinite, and disregarding all external context. For example someone could make a coin with 100 trillion supply, and then sell 1 coin for $1... technically they'd have a 100 trillion market cap coin.Popularity (in regards to search results) also doesn't really mean much. Also disregarding the context whether it was bullish or bearish. Now popularity in terms of usage would be a good metric but that is hard to quantify.
+1	1522856585	2	Right. For a decentralized currency this means nothing.
+1	1522858205	2	plus, id prefer the flip to happen during a bull market not a dead market
+1	1522860547	1	The flippening is based on several metrics, two of which being google searches and market cap.This sample is also a small sample size and numbers can be used in a deceiving way.  
+1	1522864356	1	Market cap is meaningless - old skool speculation built on bullshit.Try active wallets or transactions
+1	1522853437	0	I wasn't aware there was an official definition...
+2	1522855549	5	Now you are.
+1	1522856079	0	I thought market cap is a bullshit metric? This sub literally says that a hundred times a day, and now you're telling me the flipening relies on it?
+1	1522842631	-5	It's not a flippening if it's not for you, huh? :P
+2	1522844018	5	He's right though, "most searched" is not market cap
+1	1522847301	-7	Market cap is deceiving. Bitcoin's market cap means shit when over a fourth of all the generated Bitcoins are lost forever or in Satoshi's wallets.
+2	1522848631	8	You think BTC's market cap is more deceiving than ETH? I wonder where the price would be if all ICO's liquidated their holdings. At least both of them are closer to the truth than shit like Ripple.
+3	1522849582	4	Its a lot more deceiving. ETH is new so the amount of lost ETH is abysmally smaller than the amount of lost BTC. ICO holdings are not the same as "lost" BTC. Thats why ETH Marketcap is less deceiving than BTC's.
+3	1522851032	-5	Ripple definitely isn't shit, there's a reason it's there #3 crypto and banks like Chase are trying and failing to emulate it.
+4	1522851786	3	lol
+2	1522848145	1	If the bitcoins are truly burned then that's a strength, not a weakness. Those are permanent holders.   Bigger concern are coins where the creators hold very large shares of  the supply, ready to dump it all whenever it they need cash. Those market caps are inflated.  
+3	1522849377	1	I like how you genuinely argued that low liquidity is good.
+4	1522852115	1	The value of liquidity depends on the purpose of the protocol. Store of gold = less value on available liquidity. Not necc a bad thing- if you hold btc longterm. 
+4	1522852417	1	lulz right?? whats the market cap on USD while we're here? How about EUR? "you keep using that word. I do not think it means what you think it means."
+3	1522848387	0	Its neither strength nor weakness. It means that amount of Bitcoin is OUT, essentially it doesn't exist, which means marketcap shouldn't really take them into account. Marketcap is defined by the value of float times the total amount of coins, but the total amount is wrong because it doesn't account for burned coins.
+4	1522848531	0	Burned coins still exists, people bought or mined them once, so why shouldn't they be counted?
+5	1522849501	4	Because they will never be bought, sold, traded or used again. Their existence is irrelevant.
+6	1522852219	2	So why are you angry at them so much? Don't get it is all, very confused about your extreme views on the lost btc. If they're irrelevant let them be, youre the one talking about it anyway
+7	1522852561	2	Lets put it this way. Government prints 100m in 100 dollar bills. They are added to the total amount of circulating dollars (marketcap). But then someone gets this money either by stealing or doing good business and decides to literally set them on fire (burned coins). What point is there to keep saying those are still curculating 100 dollar bills if theyre never gonna see the light of day? Thats the deceiving part of market cap. It dosnt account for lost/burned coins.
+8	1522852987	2	But whats the problem if its added to circulating supply? Think calmly, that supply doesn't affect the market cap, 24h volume or any other stat that matters. It just affects that, circulating supply stat. Everyone who sees that stat to make decisions based on scarcity is already smart enough to figure those 3m btc lost to time. So it's not affecting any stat that can affect you, hence my question why is this making you so angry.Plus even for people who see the supply stat, this *is* in the circulating supply for every intent and purpose. They're not correlating market cap with supply due to being angry at btc. I dont even know why you are unless you think the market at large is ignoring volume and market cap and suddenly seeing supply to make trade decisions. Half the people here are xrp fans, most crypto doesnt even understand how supply matters, let alone make mistakes based on a bad estimate of the supply. 
+9	1522853895	3	Im not angry at btc, why do you keep saying that lol.> But whats the problem if its added to circulating supply? But burned goins are NOT EVER AGAIN going to be added to the circulating supply. So accounting for them in the marketcap is deceiving. I feel like we're going in circles and you just cant understand this.Suppose its the year 2140, all Bitcoins have been mined and the float sets Bitcoin's price at 100.000,00 USD each. This means the total marketcap is 21.000.000,00 Bitcoins times 100.000,00 USD, totaling to 21 trillion dollars. But we just learned half of these Bitcoins are lost and can never be reclaimed. So the practical number of Bitcoins are 10.500.000,00. These are all almost traded on a daily basis, having the float set the price of Bitcoin at 100.000,00 USD, as Bitcoin is now usable as a currency. This means the practical marketcap is 10.5 trillion dollars. So you can see the TOTAL market cap is telling a lie while the practical market cap is telling a more real value.if you cant understand my point this time Im sorry but I give up.
+9	1522857211	1	> that supply doesn't affect the market capmarket cap = number of coins * priceThe example is literally an increase in number of coins (dollar bills).Looks like you are mixing up market cap with something else?
+6	1522855121	1	I dont think this is true.  With the rise of quantum computing, coin recovery will likely become a huge enterprise.  Modern day treasure hunting, essentially hacking the unprotected coins that are considered lost ( they are theoretically recoverable but basically only by brute force wich with todays available computeing power could takes years and years,20+ likely,  just to solve a single wallet with an unknown amount of coin. Quantum computeing could turn that into a few months and maybe even weeks)
+6	1522852128	0	Burning a precious stamp collection doesn't change the demand for stamps. It doesn't make the stamps in the other collections less rare, it makes them more rare.  
+7	1522855242	2	But it DOES affect the total value of all stamps available (i.e. CIRCULATING SUPPLY). I.e. Marketcap = Current price x circulating supply. If Circulating supply goes down, then marketcap goes down. The fact that we count coins lost forever as "available and circulating" is by very definition arficially inflating marketcap.What you are talking about has the impact on price. This is already factored into what people are willing to pay for the thing, based on supply and demand. 
+4	1522852085	0	uh why? it's as good as a Hodler who hasnt touch their btc since 2011? that btc is not in trade volume, it holds market capital, keeps the supply of coins outside scarce, was lost by people who fully knew all the possible ways it can be lost (not blaming, this happened due to various reasons sometimes not in hodler's control). Not entirely sure what the complaint here is>but the total amount is wrong because it doesn't account for burned coins.uh but they are not burnt coins, bitcoin stays on the blockchain forever by design it cant just get burned, only transferred. If it's not been transferred it's there, not sure of any other possible alternative. those are still btc held on the blockchain adding to the supply numbers in every calculation.
+2	1522856534	1	So what is Ethereums then when 75% of the current supply was premined and 12 Million Ether of that went to the devs ?And you are wrong about Satoshi's holdings but I assume you lnow that already.
+2	1522859454	1	So Bitcoin is even rarer? Great.
+3	1522859863	1	Yep.
+0	1522846370	62	**Because less people know what Ethereum is then what bitcoin is** thats why more searches. Also this is NOT flippening.
+0	1522840888	85	Flippening = market cap. Not popularity.
+1	1522855573	7	Seriously, the most popular dApp on ethereum is a Ponzi scheme right now. This isn’t the flippening. See: dappradar.com Edit: for you saltlords, #4 and #5 are also pyramid scheme clones of the #1 lol. Maybe we can call it the flippening when ethereums primary use-case is used by more than just scammers and idle-games. 
+2	1522858857	0	I've always struggled to understand why people are so enthusiastic about gambling/ponzi apps on Ethereum.  These are unregulated gambling games which are most likely written in a way to rip off the consumers.  Ask anyone that followed the video game scene with all its gambling websites and such.  So much drama.  This is the stuff that is going to "change the world"?  Heh.I have no doubt that Ethereum could facilitate some good things, but forgive me for not getting excited about Ark...Edit:  If you're going to downvote me, perhaps give me a reason that people are going to use the dapp?
+3	1522860735	1	By definition it isn’t a ponzi though. It doesn’t give money from new investors straight to first investors. New investors get money from old investors if they cash out. It’s easier to think of it as a normal coin that charges you 10% extra to buy or sell and gives that 10% to holders and whose price is always fixed on how many coins there are, can’t have buy/sell walls and price manipulation is much harder, almost impossible
+3	1522859144	0	To be fair, the Ponzi is written well and has no deceptive elements at all: its transparently advertising all components of the scheme. Furthermore, the contract is open source and has been worth millions for weeks. Any hacker capable of draining the wallet would have done so, IMO. The only reason bitconnect and davor shut down were due to regs and fear of regs, respectively. Now we have a scheme that is (for all practical purposes) immune to regs. Greed didn’t die with bitconnect, so it is no surprise to me that people are flocking to this contract. 
+1	1522856251	0	But market cap is a bullshit metric...Popularity is absolutely a big part of the flipening there's just not a solid way to track it so people use the bullshit metric that's meaningless. If the flipening depends on market cap, I'm going to go make a coin with a massive supply and sell it to my friend for a dollar. Boom, flipening, I now have trillions of dollars in market cap.
+2	1522857695	4	Right. Who cares about price and trade volume. Google search trends is clearly the superior way to value a financial asset. 
+2	1522864182	1	Market cap and volume give you a very good way to compare. If people saw your shit coin spike to trillions of dollars with $1 volume then its obviously that, just a shitcoin.
+0	1522838557	52	The other day they said TRX was the king in India...
+1	1522840098	33	Soon DOGE will be the new king and Garlicoin his bitch. 
+2	1522844982	2	loool!yeh it's fortunate that the community has matured enough so that we now see these are clear shill and market manipulation attempts. It should be forbidden though but mehh
+2	1522854960	1	Garlicoin shall rule the world
+1	1522849193	-1	PajeetCoin is the king in India
+0	1522844637	29	Flippening is real!! ICX is more popular than BTC.... In my house... What a shit post this is. 
+0	1522842817	8	Well mainly flippening is not about popularity in a single country, it's about more market cap.
+0	1522849654	4	Flippening didn't happen
+0	1522851137	6	I certainly believe that the flippening will happen in the future because eth does literally every single thing better than Bitcoin does and is faster as well, but this right here isn't a sign of the flippening.
+1	1522859644	0	But Bitcoin has the network effect and it can incorporate smart contracts etc. Eth is eternally playing catch up.
+0	1522840003	12	People love ripple here.
+1	1522849222	6	Where is here? India?
+2	1522849947	3	yes
+1	1522857012	2	Flippening! /r/cryptocurrency loves ripple, it's happening!
+1	1522859532	2	Why?
+2	1522860487	1	Because it went from 20 cents to $3.2
+1	1522842834	2	Here too.. non crypto people ask me about ripple all the time.
+2	1522852334	4	Ripple normie coin confirmed
+1	1522840981	2	SMH
+2	1522841074	4	me too.
+0	1522849692	3	This is not true in terms of trading volume.I have the apps of the 2 biggest platforms hereTodays  trading volume on zebpay:250 Bitc950 Eth So bitcoin has 5x trading volumeOn koinex52 btc350 ethThese are tiny volumes compared to big global exchanges
+1	1522851318	0	...don't those volumes support the article's headline?
+2	1522852287	5	yes if 1btc = 1ethMate seriously?
+3	1522854168	3	lolol oops, I'm used to reading volume in BTC denomination
+4	1522856978	1	Lol all right mate
+0	1522847283	2	When the prices flip, that's when i'll believe it.
+0	1522851819	2	This is good for bitcoin 
+0	1522861620	2	ETH has a long standing record with a multitude of real world applications that rival most alt coins with it's cushy backing of Microsoft and other behemoth's since its inception if i recall correctly.
+0	1522863923	2	FAKE NEWSHere is a link to Google Trends for India and it shows searches for Bitcoin last 90 days and 30 days clearly above and beyond Ethereum.https://trends.google.co.in/trends/explore?date=today%203-m&geo=IN&q=bitcoin,ethereum
+0	1522850263	3	Shipost
+0	1522851413	2	Jesus, the fact that this got over a hundred upvotes says a lot. 'Well I don't know what this means, but it's positive about my coin! Dur UPBOAT'
+0	1522844631	3	Flippening is real!! ICX is more popular than BTC.... In my house... What a shit post this is. 
+0	1522857212	1	This sub is getting out of hand. People are just upvoting good news about whatever coins they own and downvoting whatever doesn't fit their narrative.
+0	1522857499	1	Yet the price still sinks
+0	1522858289	1	What? Did India's Ethereum somehow detach itself from the rest of the world's Ethereum? CryptoMarketCap still showing BTC at least 3X as popular as ETH by Market Cap? I'm confused...edit: Sarcasm btw in case it wasn't clear...
+0	1522858515	1	Well with the price drop ETH is going bad..way bad then a few months ago.
+0	1522860355	1	No
+0	1522860967	1	This is a ridiculous article title. How has the flippening happened when ETH has not overtaken BTC in market cap? If you love Ethereum cool, me too. But you don't have to support this kind of garbage article that tries to sensationalize this lackadaisical information. 
+0	1522863937	1	I thought crypto was supposed to transcend borders
+0	1522866116	1	Doubt that
+0	1522845250	1	It's because a Satoshi is too expensive or what ?
+0	1522856218	1	Misleading title to say the least. It is only referring to google searches.
+0	1522839662	-1	TRX is more popular here than Ethereum smh. What's your point? 
+0	1522845115	-1	Ethereum better sort its shit or it’s gonna disappear.
+0	1522847060	-2	panjeeeeettttttt - fcuk off back to r/biz
+0	1522851412	-1	I think that Ethereum is in the past. It uses the old type of consensus - PoS. Nowadays there are a lot platforms which use dPoS and it is more democratic type of consensus. Then we dont need any coins to become a node, look at Credits platform. They have only one requierement to become a node - good internet connection and you will also gain the reward from the transaction fees.
+0	1522857127	0	Now the next question is, which coin is going to challenge Eth next... NEO? ICX? EOS?Be water my friends.
+0	1522859683	0	Flipping looks as far away as ever.
+0	1522863639	0	ETH can now join other indian favorites such as DBC and REQ :) lolseriously though, indians are the last people you want to be hodling alongside you. get ready for huge panic selloffs at the mere hint of FUD.
+0	1522863921	0	Is it just me or is Ethereum shilling the most annoying of all?
+0	1522864845	0	Pitty Indias a shit hole country
+0	1522845521	-1	Hello sir, please buy my token sir, much improve technology, thank you sir. 
+0	1522847520	-1	Really? They picked Eth? 
+0	1522852166	-1	Pascal Coin is the sleeping moonshot.That coins does things better than Ethereum scalability wise.Also EOS will compete with Ethereum on the contract side of things.
+0	1522852400	-4	who tha heck is India . lol  dont need this dudes

@@ -1,0 +1,19 @@
+File created at: 1522866353
+Subreddit: BitcoinMarkets
+Submission title: Bittrex is holding my money hostage
+Submission created utc: 1522833883
+Submission score: 15
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522844398	3	You couldn’t be “in the business” that long if this makes you feel like they are trying to rob you. 
+0	1522857088	3	Bittrex isn't serious trading platform, it's good for small amount but is a danger for the biggest. I prefer Bitfinex
+1	1522857841	1	Indeed Bitfinex is usually for heavier traders and those who trade large amounts of money, but why you say Bittrex isn't a serious platform?
+2	1522857941	1	For you actual situation (similar to the others ones) 
+0	1522838233	2	It sounds like its a complicated case and they need time to resolve it. It seems exchanges don't have support staff available for unusual cases. I had funds locked up for 9 weeks.
+1	1522838872	3	How did you manage to resolve your case? 9 weeks is a lot
+2	1522839310	3	Apologies, my issue was with a different exchange. I think you will just have to be patient. Trex is probably looking to get bought out by a big institution and needs to have its affairs in order. They may need to be sure that the source can be verified correctly, especially since you are a miner.
+3	1522848109	6	> They may need to be sure that the source can be verified correctly, especially since you are a miner.Sources don't get any more straightforward than mined coins surely. 
+4	1522850687	1	True.
+0	1522844322	1	Same here. I don't even contact support. I just long ripple on bittrex and short same position on normal exchanges. Eventually I will get my money back.If not, it's amount I'm willing to lose.
+0	1522861621	1	You shouldn't use bittrex for such a huge amount, why didn't you use bitfinex? It has it's image for being an exchange for whales and professional traders.
+0	1522857178	0	Bittrex is a pile of crap. They stole money to hundreds of people if not thousands with their idiotic No Recovery policy for tokens sent to the wrong address even if it takes just a minute to be done. These guys are pro thieves

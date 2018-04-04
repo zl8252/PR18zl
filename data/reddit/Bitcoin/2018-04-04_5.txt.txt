@@ -1,0 +1,51 @@
+File created at: 1522866304
+Subreddit: Bitcoin
+Submission title: There is now ~$10 billion USD sent using bitcoin daily. Anyone doubting bitcoin's role as a medium of exchange is clearly not looking at the data.
+Submission created utc: 1522812726
+Submission score: 154
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522817740	72	Isn't this just the total trading volume, as seen on bitcoinity.org? If so, effectively all of it is investors selling bitcoins to other investors. In fact, much of it is probably investors selling bitcoins to themselves, i.e. wash trades. It's not evidence that significant numbers of bitcoins are being spent to procure goods and services.
+1	1522818588	2	Depends what exactly the data is... If it's market trading volume, it's useless as these are all off chain trades.If it's the txn volume * rate, then it's actual value moving over the network regardless of what it's usage is.I think it's the latter because I can't recall the 24h trade volume ever hitting 50B like in that chart. But the price spike could definitely cause that.
+1	1522819419	7	Nope. As labeled in the chart, this is the notional USD value of BTC transaction outputs.
+2	1522820547	17	OK, so it really is just a total trading volume. The total trading volume visible on the blockchain. Includes investors moving coins into and out of exchanges, spreading asks around, or doing arbitrage. Also includes infrastructure upkeep, e.g. miners dumping coins to pay the electrity bill.Is there *any* data on how much of this is actual MoE use?
+3	1522821545	16	That is by definition not trading volume. Trading volume occurs off-blockchain and on exchanges.
+4	1522864677	1	Correct but surely a large percentage of this is people moving around bitcoin to and from exchanges for the purpose of trading. This in no way an indication of adoption as we don’t know the reason behind the transaction. 
+4	1522823516	0	What? That makes zero sense. Trading volume is the amount of stuff changing ownership, regardless of means or methods, per unit time. This is true both in everyday colloquial usage and in technical dictionary definitions.If you sell me a bar of gold, the gold trading volume goes up, right? The transaction does not magically only count if the bar is in some dodgy pawn shop somewhere and the proprietor changes the sticky note with the owner's name on it. The transaction absolutely still counts if it involves physically moving the bar from your house to mine.Are you trolling, or are you just admitting there really is no evidence for any significant MoE adoption?
+5	1522824070	16	He's talking about exchange trading volume which indeed happens off-chain and is therefore not included in the chart above.The chart shows $ Volume moved ON CHAIN.
+6	1522833028	3	Yes, and? MoE how?
+7	1522851734	3	> Is there any data on how much of this is actual MoE use?How would you measure the use as MoE if not by the monetary value moved?
+6	1522851293	1	Volume on chain is less than a billion USD
+5	1522830165	2	For trades on an exchange, the transaction occurs between accounts on the trading exchange site, which is managed by the exchange and doesn't involve movement of actual bitcoins (which are all stored in a central wallet/s). Only when you deposit or withdraw BTC is a transaction made on the blockchain. (and also after you deposit into your account address, those BTC are moved into a central wallet almost straight away).You can see this behaviour if you look up your exchange deposit address on the blockchain. 
+6	1522832993	2	Dude, I know that. And even if I didn't, how does any of this change the facts that (a) his private redefinition of "trading volume" is bonkers, (b) the chart does not actually show MoE activity?
+7	1522834301	3	Where are you from?  You're both arguing over semantics.  Could be regional differences of vernacular.
+7	1522835749	2	I was basing my argument off this: > Isn't this just the total trading volume, as seen on bitcoinity.orgThat volume is from exchanges only, and hence off chain. But I see what you're saying. 
+1	1522846998	1	I wouldn’t be surprised if more than 50% of all volume from day 1 until now was wash trading.  This market is made of a small group of people.  Market movers are taking advantage while they can.  When crypto is more widely adopted and more money comes into the market they will be less and less able to swing prices for profit. The next bull run may be the one that goes high and long with minimal corrections as these market movers take their foot off the gas and brakes and just let it ride.
+0	1522824089	39	Yeah, those are arbitrage bots. Do YOU use bitcoin in your life? Or your parents, friends?      *crickets*
+1	1522853980	1	My grandma uses the bitcoin to buy boner pills from the danknet for gramps.He then snorts them for a wild ride.On a more serious note I think that civil adoption will happen it will just happen slowly like with all technology. We all didn't start using to 2FA/yubi key fobs on the same day or year, we won't have self-driving cars all in the same year, we don't upgrade our operating systems all in the same year ... I see no reason that this technology won't follow the same adoption curves as other Technologies.There was just an article yesterday about how Japan is kicking ass with day-to-day crypto use. Technological leaders of innovation and hopefully poor countries who can use protection from inflation will  pave the way for us. 
+1	1522855374	1	Well uh... uh... DA FOOTURR GUEYS, DOEWN 99.999% IS G00D 4 B1TC01N
+0	1522830960	4	Some questions:1. If you, your parents, your dog or your spouse does not use Bitcoin to buy coffee, does it mean its not a MOE?2. Who are these people who are using BTC to transact billions of $?  Some of these are yes speculators and investors, but surely if everyone was just a net buyer the price will skyrocket, and if everyone is a net seller the price will crash!
+1	1522851557	2	value works in a funny way. In theory transactions totalling 1usd in value can raise the market cap by 100billion usd.
+2	1522854269	1	The other day one buy order spiked the market price $400. That buy was for about 9 million and it increased the market cap by 6.7 billion.This demonstrates how little money can be used to move the value of Bitcoin. Almost 1:1000 ratio
+1	1522849826	1	I use Bitcoin to buy my morning coffee across the street from my house.  Adoption is coming.
+0	1522832446	9	Since the only legit use is to buy lambo and Moon, how many of these are legit transactions?  Stuff on lighting are off chain as well
+1	1522837720	4	where do i buy a moon
+2	1522854491	1	if you need to ask that question then it means you don't have enough to buy it
+2	1522861412	1	I'll sell you the moon.  Send me 1btc and I'll sign it over to you.
+0	1522856585	1	All of that trading volume is simply using Bitcoin is a speculative vehicle. Gamblers inside a casino placing bets that it will go up. Not a good sign of the future.
+0	1522831562	2	Most of this is peer to peer if it was actually in the billions to external sources I.E one of the few (failing) vab companies trying to bring in new customers or the odd mom and pop store then it would be a different story, stop shilling this memecoin.
+0	1522851217	2	WTF is this guy talking about? Data from Bitstamp? What? https://blockchain.info/charts/estimated-transaction-volume-usd?daysAverageString=7
+1	1522852504	1	Go ahead and explain in detail the methodology behind those numbers... I'll wait.
+2	1522854047	1	From coinmetrics.io "Daily on-chain transaction volume is calculated as the sum of all transaction outputs belonging to the blocks mined on the given day. Known “change” outputs are not included. Estimation difficulties remain and the measure is imprecise."Now they say the volume is 5.5 Billion daily now, while various other sites state the volume is less than a billion daily.https://coinmetrics.io/charts/#assets=btc_left=txVolume_zoom=1496584241632.653,1528120241632.653https://www.quandl.com/data/BCHAIN/ETRVU-Bitcoin-Estimated-Transaction-Volume-USDSo I'm not sure which is the correct one but it's not 10 billion like the guy said. 
+0	1522843577	3	Total number of transaction per day is  just 200,000 a day. That is abysmally small for even walmart coupons.
+0	1522821895	7	Because sending a bubbled asset back in forth means it's being used as a medium of exchange. Thanks for the chuckle :)
+1	1522823824	0	You think child rapists shouldn't be arrested. Thanks for the chuckle :)
+0	1522835944	1	*medium of speculation
+0	1522854504	1	LOL nope !
+0	1522863308	1	A medium of exchange needs to exchange something.What is all this transaction volume being used to exchange? Because if its just fiat for bitcoin and bitcoin for fiat then its not the medium of exchange.
+0	1522865664	1	lolit's a very very very minor player as a medium of exchangemost of the transactions are from btc to usd, or the other way around.
+0	1522853436	1	That doesn't tell us what is being exchanged. It could very well be we would want that 10 billion dollar figure to be nearer zero. This is sounding more and more like a body count in the Vietnam war. They settled on these because there were no other goalposts to measure gains.
+0	1522825350	-1	Right, for day traders for example they might execute few trades durimg the day BTC/USD back and forth. So that tops up the volume but it's the same individual.Then you have the other majority who buy their BTC with USD to later take it to their prefered exchange and buy their NEO, POWR or whatever they like.We have to read the data, not only look at it!But yes, its the principal medium of exchange anyway!
+1	1522825618	4	> they might execute few trades durimg the day BTC/USD back and forthExecuting trades on an exchange platform doesn't generate Bitcoin transactions.
+2	1522826293	1	Ah ok Thanks, then where is $10Billion a day data source comming from? I guess total BTC flying around the blockchain in 24h multiplied by price of each BTC.I wonder how much of that total are exchanges moving from Cold to Hot wallets and viceversa.
+0	1522819743	-2	And how much value  BTC  is transfered using fiat?

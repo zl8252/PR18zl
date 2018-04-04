@@ -1,0 +1,19 @@
+File created at: 1522866322
+Subreddit: btc
+Submission title: PSA: Number of Average daily BCH transactions has more than tripled since October.
+Submission created utc: 1522789561
+Submission score: 122
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522789922	39	Now this is the kind of stuff I care about and want to see people getting excited about!! Very nice. Do you have a link to the data? 
+1	1522791228	17	Here's a nice chart with multiple currencies, in Log view, with a 7 day moving average:https://bitinfocharts.com/comparison/transactions-btc-eth-ltc-bch-dash-doge-sma7.html#log&1yIt updates after midnight UTC (8 PM EDT) usually updates 15 - 45 minutes after that time. You can take off or change the moving average on the bottom.https://fork.lol/ provides a 24hr moving average up to the current block. (22,000 tx/day for BCH right now)
+2	1522791367	7	u/chaintip
+3	1522791895	3	***u/324JL, you've [been sent](https://explorer.bitcoin.com/bch/address/bitcoincash:qrelay24m8q2ss3c9duny6upxgvz25e67uh66vsql5) `0.0003 BCH`| `~   0.21 USD` by u/josiahromoservia [chaintip](http://www.chaintip.org).***
+2	1522810177	3	NICE! I like this one too https://bitinfocharts.com/comparison/transactions-btc-bch-doge.html#log&1y (I just don't care about eth/dash)
+3	1522811050	2	Yeah, I like the 7 Day SMA because it smooths out the week.BCH has at least recovered to early December and Mid-February levels, unlike BTC and LTC. That drop in LTC tx volume just looks crazy.Hard to believe Doge had more txs than LTC as recently as May/June. Looks like it will happen again soon.
+2	1522851435	1	fork.lol shows no change.
+3	1522856552	1	fork.lol is showing 188,589 BTC and 22,858 BCH transactions over the last 24 hours, Bitinfocharts is showing 198,756 BTC and 22,117 BCH for yesterday.Also, there's 5,260 tx waiting in the BTC mempool and about 300 in the BCH right now.
+0	1522789793	17	Meanwhile, BTC is doing between 2/3 and 4/5 of what it was doing in the same time-frame.
+0	1522835313	2	https://bitinfocharts.com/comparison/transactions-btc-bch.html
+0	1522795845	1	:) saludos
+0	1522816479	1	Boooooooooom!

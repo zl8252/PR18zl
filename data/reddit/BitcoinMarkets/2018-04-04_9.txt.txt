@@ -1,0 +1,15 @@
+File created at: 1522866356
+Subreddit: BitcoinMarkets
+Submission title: How to maintain constant USD value via a short position.
+Submission created utc: 1522804605
+Submission score: 3
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522812515	3	In order to short you must always use leverage. Because the process of shorting entails that you borrow the asset, in this case bitcoin. You borrow it, sell it, and promise to return the amount you borrowed to sell. 1x would indeed be a non multiple short position. 
+1	1522815205	1	Ah yes, makes sense. Thanks for explaining that. 
+0	1522806177	2	If you want to maintain usd value for your entire portfolio the short 1x your entire stack
+1	1522808161	3	Thank you. So this also means that in order to make gains (in USD terms) with a short position, I need leverage greater than 1x then. Good to know. I'd not have thought it. Will need to study this in more detail. BTW, this applies on both Bitmex and 1Fox? Sorry, as I'm new to this I'm not sure if perhaps there are any differences between the exchanges. 
+2	1522812381	2	On Bitmex use a 1x short on Futures or you'll lose on spot fees over time. Careful not to let it expire (as in if you short June futures close it before the date it says and re-open for September).
+3	1522815185	2	Many thanks. Yeah, I saw someone else mention that on Twitter too. 
+0	1522831603	1	Bitmex use inverse contracts. So if you have 3 BTC and BTC is worth 7000$ ATM : you need to short/sell 3*7000=21 000 contracts on BitMEX. Use futures if you don't want to worry about fundings or perpertual if you don't want to worry about expiry (funding has historically been more positive than negative so this position can actually makes you money but that is not a sure thing as we can't know how funding will evolve in the future. It could very well be very negative and actually it has been negative for like 2-3 months. If you opened this position in early febuary you would have lost 8%)Depending on how comfortable you are with the risk of Bitmex being hacked/stealing your money, you can use more or less leverage. If you deposit the full 3 BTC you can't get liquidated. Otherwise, put some of it in your cold wallet and the res tot bitmex and only send some btc is the price approches liquidation price.
+0	1522849029	1	On 1Fox using 2x leverage seems to double the size of the position size you enter (long or short).On Bitmex it changes how much margin is used but the position size stays constant.I would suggest to experiment with small trades first.I'm using 1x leverage all the time on 1Fox and cross margin on Bitmex so I can't be sure I'm not talking rubbish with regards to isolated margin.Just trade some small positions and make sure everything works as you expect.(testnet.bitmex.com is also an option)

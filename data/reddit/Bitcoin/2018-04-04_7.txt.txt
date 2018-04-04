@@ -1,0 +1,31 @@
+File created at: 1522866305
+Subreddit: Bitcoin
+Submission title: Just founded a LN channel in 2 blocks with $0.01 fee.
+Submission created utc: 1522779979
+Submission score: 91
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522783941	6	What wallet are you using and how did you find the channel?
+1	1522784614	3	As far as I know, you need linux OS, and you need to run Bitcoin full node...then you can have LN node, and open as many channels as you want...wallet has nothing to do with it at this stage...
+2	1522784867	5	You can downlod/run Lnd on Windows as well.  I believe you can compile for MacOS also.  https://github.com/lightningnetwork/lnd/releases
+3	1522788074	1	ty, I am going to buy some external drive soon to store photo and video backups, with enough extra memory to have a BTC node
+4	1522811699	1	Just buy a used Dell Optiplex for like $200, save yourself the headache of running a full node from your personal machine.  
+0	1522796356	3	How much to open the channel?
+1	1522797629	5	$0.01 (see title) 
+2	1522798094	3	Sorry. That's really cheap. 
+3	1522813109	3	Yeah.. cheap enough to destroy the Bitcoin Cash narrative :Ss
+3	1522828188	2	Unfairly cheap!
+1	1522833819	2	https://twitter.com/bitcoin_fees
+0	1522796368	2	Can you link to it?I would like to see what it looks like
+0	1522797703	4	Only nerds understand what you’re saying, believe me, the future is not here.We need simplification of things.
+1	1522813264	3	I totally agree. Once more people start using it though, the path will become more and more clear, and we'll start seeing simple GUI wallets pop up in no time!
+1	1522802137	2	to be honest, I kinda agree.  BUT having said that, hear me out.  Only nerds understand, but Top Nerds have make tutorials and have spend effort and time making websites and articles on how to do things, that they themselves have painstakingly figured out.  So read them and follow the steps, take your time.  You can do it.  Some people are good and love to share their love of things with others. 
+2	1522832372	1	The problem is not “we”, the average joe needs it to be as simple or simpler than what he currently uses.And condescending people will only make them avoid it even further.If Bitcoin wants to be serious about mainstream it needs to KISS all the way.
+1	1522817605	2	Clicky clicky coiney coiney
+1	1522804355	1	Android LN wallet this week, no?
+2	1522811750	2	No.
+2	1522832887	1	I don’t know.Question is, does it do everything automatically for the user?
+1	1522864550	1	Remember when the internet was command line interface and dial up? That was complicated for people. Then a browser came out to automate the dial up. Then DNS servers so you only needed web domain names. And it got easier from there. 
+2	1522864650	1	Unfortunately (fortunately?) I remember, I was one of the nerds! I was the first one with internet in my village!Let’s hope Bitcoin simplification is faster!
+0	1522844386	1	I tried C-Lightning a few days ago, everything went smootly except for funding a channel (took hours). Are miners putting these transactions into low priority in the mempool? What's the deal?
+0	1522813123	1	Can you post Tx ids? That would be amazing counter-propaganda to Bch!

@@ -1,0 +1,24 @@
+File created at: 1522953623
+Subreddit: Bitcoin
+Submission title: Some of the LN apps are really interesting and will surely help adoption of BTC in general. Number of LApps keeps growing by day
+Submission created utc: 1522876408
+Submission score: 214
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522886940	25	All those pay new site should switch to LN payment. There as been so many times I click away from those sites becaue they want me to make an account, fill out my personal info, fill out credit card. I don't want to give my personal info to one more company. And I don't want to sit through the process of filing out my info, then verifying my email, and all that shit. I just want to read the fucking article. Ask me to pay you reasonable number of sats to read just that article. Like the demo LN thing where. You read first paragraph, the click read further. Then an LN invoice QR was presented. You paid and instantly the whole article was readable. Same for music and books and softwares and movies. I want the damn movie. I don't want to give you my fucking SSN and blood sample. I want to pay you reasonable amount of satoshi. If more and more bitcoin/LN app make this effort to make reading, listening, watching things online convenient, instant, and easy, the future for bitcoin and LN is bright. 
+1	1522913013	1	Merchant will love to keep asking petsonal info. Whatever the money service in use.
+0	1522881489	5	Is there a list od LA apps?
+1	1522882166	11	Yes, here it is:http://dev.lightning.community/lapps/
+0	1522887060	7	I just read the first one and its the kind of stuff that renews my interest.  People that provide content need to get paid.  Major news corporations need to get paid too.  Nobody wants to subscribe to the NY Times, but they do want to read specific articles. Or What if you had to pay .25 cents to watch your favorite YouTubers daily video? would you? Micro payments could be a huge catalyst and use case for the Crypto market in general
+1	1522891541	2	<devil's advocate>Or are subscriptions easier?
+2	1522892642	3	my personal experience is that i don't like subscriptions.  Id rather read specific well researched articles and watch content from producers i enjoy.  If it was 10 or 25 cents per video id be into that
+3	1522909482	2	Agreed, but I cringe thinking about the descent into even more clickbait titles.. (I know good content doesn't need them, but it's inevitable some fall into that trap)
+4	1522930932	1	ahh very true.  
+2	1522935023	1	Nick Szabo has a blog post about the inconvenience of deciding when to spend or not and the toll it takes on people's brain.But I think the PPV model needs to be tested too. They can still offer subscriptions at a discount. 
+1	1522935411	1	I see three models:1 - direct subscription  NYT style2 - Pay per view (decide when clicking)3  - Some aggregator like Netflix/Spotify that you pay a subscription to them and they micropay to the content creators.  They can set generous limits to avoid click-farming (Gb per month, clicks per month, etc...)
+2	1522939814	1	cool thanks for your ideas.  I think there's a lot of potential and perhaps each company will try out different options.  I think discussions like these are where its at as it proves the potential of the technology.  It seems that new models based on blockchain apps will eventually be understood to be better than the current models for Both the corporations and consumers 
+0	1522908938	3	LN might just be the thing that pushes the adoption of Bitcoin to the max. I am ready 
+0	1522914723	1	Is this growth artificial or natural? So how much is this process organic today?
+1	1522935512	1	The first wallet was launched today, organic starts today
+0	1522930708	1	Without ico's!!! And without shitty tokens!!!Btc directly!!!This is good for Bitcoin. 
+0	1522934879	1	no satoshidice lapp yet?

@@ -1,0 +1,97 @@
+File created at: 1522953684
+Subreddit: CryptoCurrency
+Submission title: Cryptocurrency has changed my life for the positive, but I have one big issue with crypto which I believe is going to hold it back: you.
+Submission created utc: 1522868715
+Submission score: 170
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522875954	87	If  the adoption hinges on people not being 'cringey assholes' it's all doomed to fail anyway, REAL adoption is people being forced to use your product or face being outcompeted. I didn't want to buy my first Bitcoin, I was forced to because I wanted acid and it was buy Bitcoin or pay a premium to people outcompeting me locally, that is real adoption.Edit: thx for the upvotes people, now go buy drugs, do it for crypto!
+1	1522893203	33	> I was forced to because I wanted acid and it was buy Bitcoin or pay a premium to people outcompeting me locally, that is real adoption.You, Sir, are the **Hero** we need.
+2	1522912619	2	He had to.
+3	1522922186	3	You think crypto is your ally? You merely adopted crypto. I was born into it, molded by it.
+4	1522946245	2	200 yrs from now when tokens are imbedded in people's brains via cybernetic enhancement they'll look back and realize the next great economic awakening, akin to the discovery of the New World, was a turning point where some guy wanted to buy acid. *standing ovation*
+1	1522914566	3	and then they say "drug are bad" SMH...
+2	1522917780	1	Drugs may have introduced me to crypto pretty early in the cycle, but OTOH I have a blockchain.info wallet with over 400 bitcoins used and didn't save anywhere near that amount. What I'm saying is if you buy a bunch of weed and acid make sure it didn't cost you a few million looking back
+3	1522919642	1	trust me its better then having them stolen ^^ 
+4	1522921842	1	Yeah I got goxxed once myself, hope your stack gets back up high :)
+1	1522947759	1	well that example is a niche market.  A better example that would justify a 100s of billions valuation is: "I was shopping at my local grocery store, and they offered a 3% discount to pay with bitcoin instead of credit card, so I paid with bitcoin"
+2	1522951642	1	which grocery store offers a 3% discount for Bitcoin?!
+1	1522918954	0	The sellers who accepted bitcoin are the ones who all have Lambos.
+2	1522922023	1	Depends on when, if you accepted it in December you'd be SOL, even accepting it in 2014 youd have to ride out the long bear market, efficiency of use is independent of speculative price
+3	1522923356	1	Lucky for me I entered this space at the beginning of 2016.
+0	1522900056	12	On the other hand, people on Reddit need to realize that nobody gives a fuck what happens on Reddit. Self-importance is a huge issue on the whole site, and it feeds on itself in some crazy meta fashion. Reddit isn't even a blip on the radar when it comes to the real world. 
+1	1522905424	15	This. The people of reddit making the crypto community "look bad or immature" aren't the reason grandpa joe isn't investing. If reddit had this tremendous sway on the outside world, EA would have gone bankrupt (it didn't), Equifax would have suffered irreparable damage due to their gross negligence (they didn't), Trump wouldn't have won the US Presidential election (he did). The list goes on and on and on. Communities on reddit seem to think they are the majority voice of the people but this just isn't true in the slightest.
+2	1522906422	4	Really good point
+2	1522906440	1	"But I saw this idiot on /r/whatever say........."
+3	1522936363	1	I want to know what the idiot said but /r/whatever is private.
+0	1522875754	22	I would also add bad UX (user experience) to the list. With the exception of maybe Exodus, wallets are clunky and too hard to use. For all the complaints people have about Coinbase, it's a great experience for people who are new to the market. &nbsp; Correct me if I'm wrong but I don't believe there is even a dead simple way to view a transaction on a blockchain. &nbsp;   Right now crypto feels too much like late 90's desktop Linux. Yeah it's free and open source, but if it takes you two weeks to get your wifi working it's never going to see mass adoption.
+1	1522884367	9	not to mention the fact that there is such fandom in crypto that you can't even be critical of something in hopes to improve it. Going back to your wallet example, hardware wallets like Ledger can be hell to use. Un-installing and re-installing chrome apps, firmware updates that don't work, Un-installing and re-installing Ledger apps, drivers that need to be tinkered with, signed tx's that don't happen for hours or days due to bad Ledger servers, updates that wipe the wallets so they need to be restored.. it literally never ends. I feel like I've gotten a comp sci course just trying to secure my coins.A decent secure friendly wallet is a must. 
+2	1522893368	1	Agree with the learning curve and complexity of storing crypto - this can be extremely nerve wracking if you are holding a non trivial amount ...
+2	1522901398	1	Enjin Coin wallet is said to be super secure. But that’s not a cold storage wallet. I would suggest getting a desktop wallet and air gapping a hard drive if you want real true safety. But I’ve used the ledger and haven’t run into any of the issues you mentioned. 
+3	1522917353	2	> I would suggest getting a desktop wallet and air gapping a hard drive if you want real true safetyBut then it's much harder to actually use the cryptocurrency for its intended purpose.
+2	1522905247	1	Amen! Hit the nail right on the head. I’m an average Joe and crypto feels like I’m taking a comp sci course. I’ll stick it out though because I believe in the technology and I’m excited for it. 
+1	1522901096	3	Coinbase is the only UI worth anything positive. When I heard I should use gdax to avoid fees, I opened it up, saw like a dozen boxes and lists of flashing numbers and red and green bars everywhere... "uhhhhhhhhhhh...."I later learned to use it, and other exchanges (which look even more intimidating), but that was a scary first impression. Oh, and that was back when they only had BTC.
+2	1522927151	1	This. I'm pretty experienced and I still use Coinbase for most of my cash in/out needs. I can use GDAX with no fees, but the credit card instant purchase option is much better than waiting a week or more for my ETH to show up so I can go buy some shitcoin
+1	1522910191	2	Ark wallet is the best I've seen so far
+1	1522893110	1	This is just how software goes in general. The nice thing is that as adoption grows software needs to compete to be more user friendly so it's something we'll see more and more of.
+1	1522899200	1	Check out the Lisk UI. Best in crypto.
+1	1522892693	0	Please be aware of Exodus's insecure design https://www.reddit.com/r/CryptoCurrency/comments/86x2p7/many_popular_cryptocurrency_wallets_completely/
+0	1522877512	13	Bearish bullish TA shill bear market bull market... This is all you hear all day... It's like everyone is stuck in 1st grade after learning a couple of new words.
+1	1522890033	12	I just stocked up on 1st grade. Great team. Very undervalued.
+2	1522924745	0	Agreed, it is a sleeping giant with huge potential upside, with very little downside risk. 
+0	1522907934	5	If you enter r/vergecurrency you will understand why some of us are very negative and harsh and/or sarcastic in the language. If crypto gonna survive it has to pass the hard judgement of the people who are in it. Who else would point out scams, irregularities, news, warnings and hacks?
+0	1522885029	18	After reading this I dumped another 5k bitcoins while telling noobs to hodl. Lel.
+1	1522905896	1	To da moon!
+0	1522880497	4	Im sorry to be the one telling you this but trolling is going to be pegged forever to crypto.
+1	1522884208	6	Or the internet in general.
+0	1522902383	8	Nice shitpost. If the tech doesnt see adoption  because of trolling and memes, then its shit tech.
+0	1522872823	8	Sorry but i dont understand the message here. Are you writing this as a message for other people or just for yourself? 
+1	1522873285	6	Other people. I feel like a multitude of people in this community give it a bad look to outsiders, and it often feels self destructive to me and not accepting. I don’t feel as if the people in the crypto community make the technology seem accessible because they’re too busy circlejerking inside jokes and insults instead of actually calmly discussing advantages of their investments over others.
+2	1522889510	3	Every competitive scene is inherently toxic because there's always someone wanting to be the best, even if that means ruining people's lives and ambitions in the process. Business and finance is a dog eat dog world where the weakest people are sacrificed for greed.     All you can do is ignore the elitism and just focus on the businesses/tech, community is dead in the money + innovation game, news is your worst enemy. 
+0	1522907735	3	no u
+0	1522874620	6	If you work with some of the crypto communities trying to do something important (in other words not just get rich), you don't get all the crap you described.
+1	1522900118	3	Amazingly actually going into the world you'll find tons of people doing shit and not caring what happens on Reddit.
+0	1522902292	2	Great Read and Good Points, Thank you!
+0	1522944691	2	Thank you for taking the time to write this out. I too am annoyed as fuck and I like to think I'm pretty zen-like compared to the average person.
+0	1522877292	2	Well said, good points.  At the end of the day, the staking , mining, proof of work, master nodes, etc etc will be sought after by the geekz and the tech savvy as it requires a certain level of understanding. The crypto currency ui experience is being built out and improved on now, and it's not far off IMO.  This is where we need full adoption, not the staking , and masternode stuff. 
+0	1522882519	2	>OMG!😭Can't believe I won ! Thank you Walton team ! ❤️ keep doing the great work. 💪🏻💪🏻💪🏻🚀🚀🚀I want to forget but I can't
+0	1522916816	2	The cringiest thing, IMO, is the "HODL" culture. I don't mean to be blunt, but it is one of the most autistic things I've seen on Reddit. It's not that funny of a joke to begin with, let alone having it create essentially an entire subculture.  I agree, we need to public to adopt Crypto to see both usability and profitability scale. That's never going to happen if the behaviour you highlight and "HODL" persist.
+0	1522884156	1	Every complication is an opportunity for an innovator to come in and make things simpler for the consumer. 
+0	1522884174	1	Although it had to be said, its a little guilty in part to what its points out. Putting that aside, I agree inclusion or at very least education is the key to mass adoption. One does not need negativity to bring to light the bad players in this market, just education for them to see it for themselves. 
+0	1522884446	1	no u
+0	1522890566	1	I hope you are still holding Lumens because if not SCREW YOU.  :)
+0	1522896405	1	I definitely agree that all of the arguing and bickering is bad for crypto as a whole, but I attribute it to the fact that crypto as a whole is still in such infancy and still highly speculative in nature. All of our posts and opinions are how we “feel” about the progress certain cryptos are making and poke fun at ones that fail or misstep. Emotion is still really heavy in crypto, hence all the arguing, but once speculation is replaced with actual working products, I believe the emotion will die down, we’ll come together as a community and build each other up instead of tearing each other down to ultimately further adoption. 
+0	1522902635	1	All I have to say.... is you made this point.... on a social media platform.....
+0	1522902650	1	Decent post, but you traded your ETH for Lumens?  Really?
+1	1522908234	1	I bought $25 worth of ETH and traded it for XML to test the waters, yeah. I hold both now, but we all have to start somewhere.
+2	1522914158	1	Ah okay, you're forgiven then.  ;)
+0	1522910931	1	Think you should keep reading to me it doesnt seem like you get it yet..
+0	1522911890	1	All of this!
+0	1522919555	1	Amen
+0	1522927225	1	Regulation is needed before crypto is mainstream. Why would people give money to someone for a token they don’t understand on faith alone? It worked during a bullish cycle but won’t now that dumb money has fled.
+0	1522930300	1	>TL;DR you’re all cringey assholes to each other and its scaring mass adoption away. **Be nicer, be patient and educate newcomers.** Crypto is not a get-rich-quick scheme, so stop treating it like it is. lol keep dreaming
+0	1522930897	1	If us on the cryptocurrency subreddit being cringy assholes had any large effect on cryptocurrency, Verge would be dead.
+0	1522932738	1	One of the great things about crypto is that much like the internet we use today, Grandpa Joe will never have to know how most of this stuff works to use it. It will be working behind the scenes.Does the average person know what HTTP is? Absolutely not. But we all use the internet every day just fine without understanding how it actually works.
+0	1522934991	1	This.''TL;DR you’re all cringey assholes to each other and its scaring mass adoption away. Be nicer, be patient and educate newcomers. Crypto is not a get-rich-quick scheme, so stop treating it like it is.''
+0	1522949489	1	Culture won't change until whoever buys ink by the barrel wants it to change. Even then, it'll still be here, it'll just be irrelevant by then, and when that day comes all the value will be captured. Get over yourself, 1 Doge = 1 Doge, forever.
+0	1522883427	1	Culture kinda sucks. I hate going in telegrams and seeing nothing but meme,moon,lambo created stickers. They just get posted for the sake of posting. 
+1	1522897087	0	I have gone heavy in xsn for this reason. Pro team, lambo moon children get banned
+0	1522885949	1	I think you make some good points.  Unity and betterment would go a long way in this space, but given the demographics of most hodlers/traders it's not really an environment conducive to that. (For now)There are communities that arent full of snarky lambo weebs. ETH Denver had good people working together to advance the space through education and cooperation. I'm mining turtlecoin now and their discord is full of people with good will. There is also a local group that do weekly educational meetups over beer. There are people in crypto that go the way you describe, they're just hard to find because you have to seek them out. This sub is essentially a battleground for shills, bag hodlers, and scam gods. Don't come here (or biz) looking for anything positive from the community. 
+0	1522915998	1	Everyone is to blame except me! -Literally every fuckin' noob asshole since the genesis blockShut up and sit down. Strap in or don't. We don't care.
+0	1522869643	-5	i heard this in the mid 90s with tech stocks, get over it, this is an emrging market, this is how they look in the beginning.  If you dont have the patience then STFU, sell everything, and come back in 5-10 years.
+1	1522870234	9	They look like a bunch of assholes yelling at each other? You’re proving my point. I’m telling you to be nice and educate newcomers and you’re telling me to get out of your market? Real progress here.
+2	1522871351	-3	im telling you to stop whining, this isnt your diary 
+3	1522871897	8	Way to encourage real dialogue. Looking through your history, I can see just how accepting and encouraging of others you are. You’re really taking what I’m saying to heart and I’m proud of you.
+4	1522872469	-6	dear diary, today someone on r/cryptocurrency hurt my feelings
+5	1522880699	6	dear diary, today i saw a cunt
+0	1522877299	-5	you sound like a whiny bitch 
+1	1522877560	9	"We should create a new, accepting culture""You sound like a whiny bitch"K
+1	1522880743	7	says the bitch whining 
+0	1522880287	-1	look at the IOTA reddit or discord, people reason, discuss as normal people, probably because this tech actually is special and don't need to memes, shills or w/e
+1	1522886765	3	i think IOTA is going to become good tech, but it's really not the one to use as an example of maturity, and openness with a warm welcome to uneducated newcomers... it's pretty much the opposite of that, IOTA if you stored it securely and forgot about it during the wrong time frame: "it's your own fault and fuck you, we'll hold on to the IOTA that you didn't pay close enough attention to for an eternity and talk down on you while we're doing it so please dont spread FUD you ignorant noob."
+0	1522899250	0	20-somethings who know fucking EVERYTHING there is to know about how investments and the economy works - Bullshit
+0	1522905635	0	BITCONNEEEEEEEEEEEEECT !!!!Sorry couldn’t resist
+1	1522944532	1	you're funny
+0	1522879011	-2	Also, fuck miners.
+1	1522895554	2	All miners? Really? They're pretty damn important. 
+2	1522897176	0	Not with pos

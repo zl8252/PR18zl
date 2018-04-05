@@ -1,0 +1,16 @@
+File created at: 1522953696
+Subreddit: BitcoinMarkets
+Submission title: Self-hosted open source crypto portfolio? No web service or app.
+Submission created utc: 1522881343
+Submission score: 9
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522889676	1	Excel. Importing coin prices from excel is relatively easy and is a great way to keep track of all of your investments including roi 
+1	1522891269	1	Thanks for the suggestion -- a spreadsheet is my tedious reality as of now. I'd like to take it a step further, put some automation in place, practise coding a bit (although probably not to the extent of starting from scratch) but still keep it local, that is an absolute must. Nothing wrong with Excel though!
+2	1522893089	1	No reason to reinvent the wheel, mate!
+3	1522895261	2	Yeah, well, Excel has turned into more of a square  for me and I'd like a wheel, is all :)
+2	1522906808	1	If you want to go all Rube Goldberg on this, and you're balls deep in MS Office tools, you could write something that acts essentially as a daemon constantly updating a text file with price data from calling various APIs. You can create an Access DB that reads this text file as a table, and from there on out you can do basically anything you want by linking Excel spreadsheets as tables, or querying that Access DB in Excel. All you would really need to accomplish this is say for example a python script that calls whatever price feed APIs you want to use, and spits out some kind of text file periodically w/ ticker stmbol,price data.
+0	1522906628	1	Is there a reasonably easy way to populate a google docs spreadsheet cell with a specific field from a json API request? That would be a pretty easy way to accomplish this.
+1	1522935511	1	Google Docs? That's not exactly self-hosted or private, is it? This is an absolute no-go (for me). To answer your question: I have no idea.
+2	1522952976	1	Excel sheet with API drawn from cmc or live coin watch! I can upload a template if you’d like
+0	1522953486	1	Not to my knowledge, Although it probably wouldn't be too hard to build something in electron utilizing an SQLite database.

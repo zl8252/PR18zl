@@ -1,0 +1,33 @@
+File created at: 1522953649
+Subreddit: btc
+Submission title: Coingeek: "Over 50 teams sign up to put tokenization on Bitcoin BCH chain". More innovation incoming to BCH.
+Submission created utc: 1522882948
+Submission score: 118
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522893732	10	Did not expect 50 teams. I am overwhelmed by this amount of teams.
+1	1522900616	7	BCH has all the teams nowu/tippr $2
+2	1522900625	3	u/sunblaz3, you've received `0.00310979 BCH ($2 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+3	1522901451	4	good bot
+4	1522901464	4	(☞ﾟヮﾟ)☞
+0	1522884690	13	No wonder 50 teams have signed up.  £5 million worth of Bitcoin Cash is up for grabs.
+1	1522889632	9	This is amazing! There's so much readytorun code out there with a light coat of dust. BCH is already the widest network, longest battle tested, most single-purposed, with most interesting stuff going on. This just laps it again.To paraphrase you, "To me it seems like the sensible thing to do.  Eventually everyone will pile onboard [BCH] because there will be no point in doing anything else."u/windowly
+1	1522887667	4	Good!
+1	1522914005	1	Wondering if that much funding is really necessary for colored coins. That could pay a highly qualified team of 10 devs for the next 2,5 years, each earning 200k per year.
+2	1522919634	1	it's probably not - but this way you get 50 teams (100+ people?) looking at a problem in their own way. not sure if that's necessarily easier either but it should lead to an optimal solution (or mix of solutions) I don't know if it's winner takes all or contributions for all involved though. 
+2	1522931150	1	Are you bummed "your team" didn't get the pick?
+3	1522945381	1	What pick, thought the contest just got started?
+1	1522924869	1	Wow, actually I'm surprised, given that there are really not many overlay-protocols currently on top of Bitcoin and no one has made much effort yet to port one to Bitcoin Cash.
+0	1522903213	4	Any speculation on how long it will take until the first working submission? Knowing there is competition incentives people to work harder, but I have no idea how large of a task this is to create.
+1	1522919702	1	assuming Andrew stone is competing, the first submission is done and running in BU test net.it would be great to see running updates from all teams collated somewhere. 
+2	1522924949	1	Given that it's a contest, there is at least some incentive not to spill out any solutions.
+3	1522926771	1	true, but to be eligible for the prize the solution has to be released (i assume!) - then features/solutions can all be cherry picked if necessary/possible - maybe the prize can be shared, no idea how its actually structured to be honest, but that's how I'd do it....... if I had 5 million to blow.....(ahahhahahahaa)
+0	1522929395	1	I'm not going to do this. I know 5 million is a lot for the winners, but the legal agreement around this is ridiculous. I'm not signing it, I urge other people not to sign it. The field is worth billions, potentially giving away your IP and rights in the space is a really dumb move. If it was about the ecosystem the agreements would be substantially simpler. 
+1	1522929755	1	That's fine, if you don't need funding, you can develop without it. BCH is permissionless, everyone can contribute in any way they like. Some devs will want funding so they can focus on development full time etc. Some won't and thats absolutely fine. 
+2	1522929983	1	No it's not fine. This is a predatory move by nchain. Like running a hackathon to grab IP. Anyone paying attention should pass. 
+1	1522934302	1	do an ICO and collect 200 mill :) 
+0	1522947293	1	Wow, gonna be epic.
+0	1522934246	0	So now long till BCH's Blockstream?
+0	1522925055	-4	Coingeek is a propaganda website owned by Faketoshi Wright and Calvin Ayre.
+1	1522927528	3	Every other bitcoin “news” site is pro-BTC propaganda
+1	1522928039	1	Are you saying that $5mill fund is not allocated to development teams?

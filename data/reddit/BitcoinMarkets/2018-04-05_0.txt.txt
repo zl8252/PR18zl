@@ -1,0 +1,30 @@
+File created at: 1522953688
+Subreddit: BitcoinMarkets
+Submission title: India finally bans crypto exchanges.
+Submission created utc: 1522929121
+Submission score: 46
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522933048	8	Recall what followed after the Chyna scenario.Interest spiked:https://trends.google.com/trends/explore?geo=CN&q=bitcoinThe localbitcoins/localethereum sellers are smiling at their impending premium.
+1	1522935034	2	Yep, the remittance market is what is put under threat. Send the same amount home for half the price.
+0	1522930949	18	1) This isn't an outright ban. Most of the bigger banks had stopped servicing crypto businesses in the last few months. There's still a 3 month timeline for this current set of rules to come into effect.2) The RBI is looking at releasing its own fiat crypto. Could potentially be a way to regulate fiat-crypto entry/exit in the future.
+1	1522940244	17	They are banning all transactions which involve the exchange between fiat and crypto-currency services.  So yes, it's a ban.  Sure, you can always exchange crypto to crypto, and there's no government in the world that will have an easy time banning anything of the sort.  But this puts India in a similar position to China, where it's much more difficult to cash in or out for fiat.And anyone touting a "fiat crypto" as if it's some sort of equivalent to green lighting crypto currency is delusional.  Any form of "Fiat Crypto", especially from a government with tight capital controls like India, is not going to actually be "crypto" in any way you recognize it.  It will not be decentralized.  It will just be a digital currency which is basically the same as the numbers in your bank account with a USD at the end.
+2	1522941161	-5	why would we care ??? they will be behind in technology *like they always have been* .
+1	1522941012	1	1) It makes running an exchange impossible since you have no access to the banking system. OTC trading will survive though. It's good news for localbitcoins.2) centralized crypto is not crypto as we know it. it definitely is not bitcoin. it might as well be paypal.Also /u/makky95 RBI is the central bank of india. Calling them that would have been made it much clearer. Basically this means crypto trading has to move underground.
+1	1522939581	1	This is actually good for Bitcoin.
+0	1522941916	5	Why do you say finally, like this is a good news?
+0	1522942924	3	After this FUD, price on leading indian exchange koinex ,the price of BTC bottemed to 300000 INR/BTC ( 4700 USD) but recovered soon and is now trading at 380000 INR ( 5900 USD) .
+0	1522939177	2	More coins will move off exchanges... This is bad right?/s
+0	1522942607	3	Bad news 
+0	1522929489	1	Hmm... not loading up for me, maybe the site is getting hammered.
+0	1522946500	1	"Indians: We Urge you to sign this petition"  https://cryptotrends.in/indians-we-urge-you-to-sign-this-petition/
+0	1522950086	1	there are almost none in existence anyways
+0	1522953598	1	The prices on Indian exchanges have fallen because there’s no shortage of panic-retards and a major shortage of professional liquidity providers. It sucks that it takes time to deposit fiat into Indian exchanges and there’s no immediate bid liquidity. What a beautiful opportunity to buy at a > 20% discount from international markets if only one could deposit INR fast enough. 
+0	1522931107	-3	There we go, see you soon 3k
+1	1522932426	17	Errr..why does this matter much? It's not like India was ever a prominent player in the crypto market anyway.
+2	1522932756	3	I don't think it does, market even reacts to unconfirmed rumours.
+2	1522933726	4	Exactly. Not every country allows a free and open internet, not every country allows alcohol.When will people get it through their thick fucking skulls.Not everywhere has to accept crypto for it to thrive. In fact, it's naive to expect that ubiquitous acceptance of such a revolutionary technology will occur.
+3	1522933915	3	agreed. they can't even resolve their lack of electricity problem, I doubt crypto is on their agenda
+0	1522939900	1	The relative price stability means this is basically priced in. This gives me some solid reassurance that we can finally get some reprieve from the battering BTC's been taking from all the govt FUD
+1	1522941066	2	price is still going down as usual during a bear market. bad news or good news makes no difference. besides india was a bit player in the market. 
+0	1522941094	1	It's a BS press release guys :)

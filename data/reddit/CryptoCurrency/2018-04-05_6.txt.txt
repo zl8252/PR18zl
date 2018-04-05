@@ -1,0 +1,54 @@
+File created at: 1522953681
+Subreddit: CryptoCurrency
+Submission title: 670 million dollars in cryptocurrency stolen during the first quarter of 2018. That is 40% of the overall $1.7 bln stolen since 2011
+Submission created utc: 1522926639
+Submission score: 234
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522932636	37	I'm assuming this is including the Scam ICO's.
+1	1522942133	11	According to the article, just the Coincheck (NEM) and Bitgrail (NANO/XRB) hacks in Q1 2018 totalled the equivalent of ~$700 million.
+2	1522944559	13	has nano recovered from this? Sorry i dug a hole and buried myself in it for a while. I am avoiding checking any crypto news bc its depressing. Do they require a fork or did they get any of this stolen money back?
+3	1522944820	2	Not as far as I know. IIRC bitgrail/the owner was trying to settle with people who lost nano for pennies on the dollar, and there were talks of taking him to court. Pretty sure there wasn't any fork though.
+4	1522944876	6	i thought nano was going to be big. I guess this news hurt it. Then btc tanked.
+5	1522944997	17	I'm pretty sure nano recovered and then surpassed it's pre-hack level in the following weeks. It's just the whole crypto market that's been tanking lately.I personally still have high hopes for the project.
+6	1522945156	4	i didnt have much to invest as a broke phd student. I put a bit into crypto but lately have been regretting when i got in and how much i put in. Going to just take the advice and hodl forever.
+7	1522948658	1	Consider cost averaging down.  I didn't in 2014 but _really_ wish I had.
+7	1522946040	1	Not forever, but try to hold out until towards end of year
+6	1522947376	0	I always have this doubt but don't know where to ask. Say, you realized Nano is stolen after a day or two days. If it is a huge amount, can the exchange talk to developers and revert back to the block before the hack happened?Like if they realize in 1 hr or so, then they can even compensate to all the legit accounts who received Nano in this period but they can steal back from hackers. Luckily, legit accounts who send Nano in between will get their Nano back as they revert back to 1 hr or so.
+7	1522950019	2	In theory, yes. However, doing so would usually require a hard fork which has the potential to split users into two groups, on who prefer the original blockchain an the other who prefer the new one. See what happened with ethereum after the DAO hack, resulting in eth and eth classic.Doing this also sets a dangerous precedent, as you're basically allowing the devs to nullify transactions on the supposedly immutable blockchain.
+5	1522945017	3	Definitely hurt it, but the tech is inarguably there, imo. I think it is one of the few cryptos with tangible real world use possibilities (full disclosure, I am invested about 20% into it)
+3	1522948000	1	yet here you are, on /r/cryptocurrency
+4	1522948687	1	haha i subbed to the subreddit lol.
+2	1522942886	1	Crypto is worth more overall than in the past
+1	1522953116	1	Yeah, 90% of that money was 'given' willingly...
+0	1522937578	17	BitGrail happened fourth quarter 2017. Sure, it was only announced in February of this year, but you can't say the money was stolen first quarter 2018. It wasn't.
+1	1522939817	6	It's also unclear - someone correct me if I'm wrong - whether it was really stolen, or just an accounting error due to shitty programming, and the Nano never really existed on the exchange.
+2	1522941746	4	I firmly think the latter. We know the exchange was giving out too much ethereum when people withdrew, which is exactly the sort of shitty coding that can cause an exchange to become insolvent.
+2	1522944476	3	It was stolen, poor coding on the exchange allowed people to withdraw more than their balance, they then took it out of BG and never used their accounts again. There were people posting on reddit about how they had 2x of their actual balance deposited in their accounts. Other people had negative balance because of this (it happened with ETH as well on BG)
+0	1522930393	39	The only good news in this is that the major hacks happened with new exchanges, not established ones. That suggests the ones who survive learn their lessons and do a better job of security.
+1	1522936758	8	good point. i'm always worried it'll happen tho.
+0	1522927103	25	Silly title... They should talk in BTC not in USD, since 2011 price increased...  40% means nothing lol 
+1	1522939788	12	bUT ThEN hoW dO i GET cLIckS?
+1	1522948666	1	Also all of the new coins that entered. 
+0	1522927125	9	Bitgrail (owner screwed the pooch completely) and Coincheck (really needed to improve their security but they’re trying to do good) aside, there’s an abundance of ICOs serving as pump and dumps which haven’t gone live yet. We’re surely to see that number skyrocket in the next year. Although it seems like bad news, let this be a lesson to everyone on the importance of proper storage, security, due diligence and care. I’d rather this happen now than at full adoption, causing exponential losses. 
+1	1522927852	-1	oh my goodness, oh my dayum
+2	1522934042	2	Something about bacon and ham?
+3	1522946467	1	This is how bacon is supposed to be.
+4	1522947303	1	The cheese up in here is goin ham.
+2	1522927957	1	U wot m8?
+0	1522927946	19	Mt.gox had 850k btc stolen (including mine) - at todays prices that a bit more than $1.7 bln 
+1	1522935376	26	But it wasn't stolen at today's prices. So comparing that is kinda pointless.
+2	1522935615	9	True, but this isnt a good measure either. Relative to the size of the market I doubt there has been much increase in stolen cryptocurrency/month Still think BTC way better measure over USD, but this does make for a nice title for the newssite 
+2	1522942701	2	Not Pointless...can tank market at will. 
+1	1522928974	1	Mt.Gox got karma-fucked for rigging the system. Fortunately, most people I know removed theirs before the shut down. 
+2	1522936728	3	nice. i wasn't around back then. What kind of news came out before the t hack...anything that gave users a heads up?
+1	1522951800	1	noob question, can you explain why mtgox is not giving you back your bitcoin? I've heard they have a bunch that they are dumping.
+0	1522947658	3	I really believe most hacks where they claim that some hacker got access to internal systems or keys is complete BS. They just wanted to steal that and wanted to become rich. This is just my opinion based on what I read online.
+0	1522945877	2	Thing is, this makes it sound like MORE scams and hacks are happening now, but does it factor in the price of said cryptos that are stolen?If I stole 100 btc back in 2011, id have what like $500?. But if I steal 100 btc today, I have $1,000,000.
+0	1522950753	2	Don't ever forget [where you are right now](https://www.youtube.com/watch?v=_zXKtfKnfT8).
+0	1522949748	1	Bomber did this
+0	1522950785	1	This doesn’t really m an shit. Stealing 1 BTC today is the equivalent of stealing thousands in 2011. Click bait article.
+0	1522952627	1	I’m curious as to what hackers do with their stolen currency. As in, do they sell it or do they hold believing in the tech? I guess it depends on a case by case basis. Maybe some people don’t see it as useful but see crypto wallets as an easy target for scams and then sell immediately. We could all be holding pieces of stolen crypto.
+0	1522936680	1	crazy.....i'd love to see the numbers compared to bank theft. 
+1	1522946510	1	shshshshshshshshshshsh
+1	1522946590	1	Not what you're looking for but I found this really interesting: https://upload.wikimedia.org/wikipedia/commons/c/c4/Wage_theft_versus_other_property_crimes.png

@@ -1,0 +1,69 @@
+File created at: 1522953694
+Subreddit: BitcoinMarkets
+Submission title: Are you reporting your crypto gains/losses in 2017 on your tax return?
+Submission created utc: 1522886761
+Submission score: 8
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522887192	17	Report it, or get fucked by the long dick of the IRS when they audit. Seriously, it’s not really that hard. Hire a CPA.
+1	1522889091	4	Agreed - I don't do much trading but my friends do and they are in a tough position some of them - some large gains in 2017 but not nearly enough cash to pay in now that the market is shot
+2	1522890138	5	And the IRS doesn’t care about that at all unfortunately.
+3	1522895127	1	Yeah understood - just a really weird situation as far as timing 
+2	1522937445	1	You mean if they sold everything they could not cover their IRS bill? Trust me, they will want to report it. Blockchain is NOT private. There are, what, 5 major exchanges. That is not too many exchanges for the IRS to get data from. It could be 10 years from now. The data never disappears. There is no statute of limitations on tax fraud.
+3	1522941521	1	> The data never disappears.It sure does.Most of the exchanges I bought off don't exist anymore
+4	1522942239	1	> Most of the exchanges I bought off don't exist anymoreAnd you think the data is gone? Many of them did illegal things. They will trade the data for reduced sentencing. Others need it for taxes. They will keep it for tax reduction. Etc. There is no reason to ever delete the data even if the exchange is gone.
+5	1522943576	1	> trade the dataThere are no charges against the CEO's of BTC 24, Crypsy or Mintpal.Even if they were, they are in a different country to the rest of the world.
+3	1522949207	0	Just FYI US based exchanges are subject to US law. Many exchanges aren't in the US. Please stop the fear mongering.
+4	1522951396	0	It doesn't matter where the exchange is based. If they service U.S. customers they are subject to U.S. law. 
+0	1522901141	8	Go to Bitcoin.tax and upload your csv files from the exchanges. When you're done you can upload the file to turbotax premier.  it's really not worth risking.  If you want to be left alone in the future, the you gotta pay up.  
+1	1522948482	1	Exactly what I'm doing.  Note though that the online version of turbotax doesn't allow importing, but the desktop version does.  I bought the download on amazon for like $60, uploaded to turbotax, and everything is taken care of.  Now, just have to finally file and pay my capgains.  :*(
+2	1522949408	1	Yes, that is important to note that you HAVE to buy the CD desktop version.  I purchased mine at Target and got them to price match Amazon's price.  Parting with the money will be a sad day.  
+1	1522949794	1	Does bitcoin.tax handle coins being withdrawn and deposited?  For example does bitcoin.tax think that when I send coins to an exchange from a personal wallet it's not a gain or loss?  Cause the coinbase tax report does not handle that and counts every move as a trade.
+2	1522951675	1	It does not.  I'm mostly a hodler and have maybe 15 trades or so, so I calculated my gains manually as well to see if they both matched up and they did.  
+0	1522891353	4	If you traded on the exchanges, you'd be a fool not to. Tax evasion is not something to be fucked with. If you get audited, you'll have to explain all the deposits to your bank account.
+1	1522894158	3	yeah... all those... deposits.... AHHHHHHHHHHHHGGGGGGG
+2	1522907036	5	Shit mine are all withdraws 
+3	1522939679	1	That's where I went wrong! I should have been raking in the money, not giving it away. 
+1	1522895832	1	Yeah the paper trail is impossible to hide - I agree 
+2	1522905568	2	Only if you have converted back to Fiat through a centralized exchange.
+3	1522926627	0	This is so not true....  please describe how you get back to fiat w/o leaving a trail.  I need a laugh this morning.
+4	1522950849	2	Localbitcoins
+0	1522909339	3	Yes. And it's worth the headache you'll save. I've seen someone get audited over $800 of poorly reported revenue because he didn't want to hire a CPA. It was one of the most stressful times in his life. Ended up costing him $800, as I said, but the peace of mind he lost during the audit was worth much more than that. Don't fuck yourself.
+1	1522947636	2	i can't believe some of these stories--upwards of $1 million in gains and they thought they could just handle it themselves with advice from twitter, reddit and 4chan. if you ever have $1 million gains--in anything--call a CPA in November (before year end). you can afford it, and without one you will fuck it up. 
+0	1522909802	3	You know, 9 years after crypto was invented, and there's still no automated way to import crypto into the most popular tax software turbo tax. Still. Shrugz
+0	1522887204	4	Yes. Better to cover your ass than take it in the ass.
+0	1522921897	2	Of course, I have about $60K in capital gains from participating in an ICO. Luckily it was early in the year or it would have been astronomical if I had spent the same bitcoins.
+0	1522925879	2	No, all these people saying they did are most likely lying. We'll see in a few weeks when some statistic comes out regarding who actually paid gains.
+0	1522926508	2	LOL... they have 10 years to come after you with fines and interest and an immutably easily auditable public blockchain to gather evidence for 10 years.  Pay your fucking taxes, you morons.
+1	1522926801	2	There is actually no statute of limitations for tax fraud/evasion. 
+0	1522930085	2	Paid off my student loans this past November.  Needless to say, I didn't score a tax return this year.  Instead I owed another $12k.More of your earned money goes to taxes than to any other single expense.... it's just usually "invisible" to you since you never see most of that money in the first place, so it's easy to pretend it never existed.  Interesting when you're kind of forced to acknowledge it.  Kind of makes you feel sick!
+1	1522945027	1	TIL about taxes.
+1	1522950184	1	You also get a shit ton of stuff from the government both directly and indirectly.
+0	1522944257	2	I claimed all trades using FIFO as well as the bcash fork, which I claimed as income. Even if I entered it in the wrong spot on my return, all amounts are correct to the best of my knowledge and I made a good faith effort to claim everything. This time next year, I'll claim the bitcoin gold that I forked as well as any upcoming ones that I can fork using my Trezor. 
+1	1522944573	2	Yeah I think thats all that matters - no statute of limitations on fraud but at the end of the day if you tried your best to report accurately then you should be good money
+0	1522950863	2	You ought to make friends with more intelligent people.
+1	1522952428	1	You're probably right! But they're great company ok the weekends 
+0	1522896117	1	In this thread: pleading the fifth and no comments being silent and a handful of people who can say yes
+0	1522899127	1	I think the IRS probably doesn't give a shit that you lost $500
+1	1522905608	1	Or gained $500. They really don't give a shit about anything under $600.
+0	1522906487	1	Yup
+0	1522919713	1	Swedish tax authorities have said they will be keeping an extra eye on crypto traders... 
+1	1522926123	1	Well simply don't make an uttag till ditt bankkontot 😉
+0	1522941328	1	> A lot of my friends are saying that it's unlikely that the IRS will > audit individuals with small to modest gains this year Likely. But they can audit you in some years for this year ;)
+0	1522948704	1	Keep this in mind. They're going to make an example out of someone. Do you want it to be you?
+0	1522949352	1	But what if you lost money like this year
+0	1522950940	1	It's highly unlikely that they will today, but in a couple of years you don't want to pay the IRS for something you didn't do 2017. Because those guys are just going to get better at tracking payments.Yes I have reported my gains/losses. I don't want any tax agencys up my ass.
+0	1522906080	0	Stop using exchanges that report you to the IRS. Only pay taxes on money that touches your bank account, and try to keep that number low. I haven't paid crypo taxes for almost 7 years now. Nobody is going to dox this reddit account. Nobody is going to find how much I haven't paid, nobody is going to do shit. Just hide your money better. This is crypto, not paypal money. Come on, guys. Jesus Christ. 
+1	1522927150	2	LOL... easy to get you if I were the IRS.  You've posted pictures from apple devices which have metadata with unique IDs attached.  Ok maybe not you.  But you have an account at thingaverse and have shown various print ideas.  There are literally less than 1000 people on most of those print designs.  It would be trivial to track you down.Dont be a moron.  Pay your taxes.
+2	1522930379	-1	Obviously I pay my taxes. 
+3	1522930525	3	> I haven't paid crypo taxes for almost 7 years now.
+4	1522931548	5	That was obviously satire. It's been a bit longer than 7 years. Hold on, someone's pounding on my front door and yelling something. Brb. 
+5	1522948288	2	I like your style.
+1	1522941275	1	What have you bought with crypto? I understand if you spent it all on drugs but you can't buy cars or anything.
+2	1522942602	1	Gambled most of it away chasing big dreams. 
+1	1522951471	1	>I haven't paid crypo taxes for almost 7 years now.Please report back after you get audited for the lulz
+0	1522947483	0	i guarantee you the IRS has everyone's coinbase (and other exchanges) info and is assembling a task force just to audit those with big crypto gains. why wouldn't they? the task force would literally pay for itself. 
+1	1522948973	1	The IRS has records from Coinbase from 2013-2015 for any account transferring over $20k at one time. So no they don't have everyone's Coinbase records or any other exchanges.
+2	1522949319	1	lol unless you sold your crypto for cash and didn't deposit it into your bank, the IRS 100% knows about. i see a lot of bad advice on this thread. you will be fucked so hard if you try to under report income by $15k.
+3	1522950514	1	That’s not what you said. You said they have everyone’s info from coinbase and other exchanges. Which they don’t. And they don’t have access to offshore exchanges. You said nothing about usd deposits into a US account. Just spewing out garbage. Any money that touches your bank account needs to be accounted for. I’m sure any dumbass knows that. 
+2	1522949695	1	They don’t need everyone’s info for 2017 cause they already have all the info they need (1099-k forms).

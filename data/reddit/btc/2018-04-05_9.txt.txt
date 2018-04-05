@@ -1,0 +1,26 @@
+File created at: 1522953652
+Subreddit: btc
+Submission title: Bitcoin ABC 0.17.0 has been released!
+Submission created utc: 1522884639
+Submission score: 116
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522899428	14	Im just a spectator here to support the chain I believe in.  I’m relying on you tech guys, cause idk wtf you guys are talking about, but all I know is as a merchant.. I like my cheap fees and zero confirmations.  
+1	1522900398	7	with such a large blocksize limit compared to the number of transactions happening, it's safe to assume all unconfirmed transactions will be included in the next block regardless of the fee, aka cheap fees and zero confirmations.
+0	1522886685	12	32 mb blocks + OP codes = Moon
+1	1522889484	-33	We have 70kb blocks and you think we need to inflate the coin supply with an infinite number of tokens?
+2	1522889795	25	Huh? What the hell does this have to do with coin supply?  You don't understand the tech, man.
+3	1522904350	6	I think he’s saying two different things. First that we aren’t close to filling the blocks yet, so why raise the limit? And second, the new op codes allow people to create tokens which will take more hard drive space to track forever. “Coin supply” is probably not what they meant. 
+4	1522914547	2	Oh, ok.  In that case his argument makes sense, whether or not one agrees with it.
+3	1522890918	-9	Can you explain it to me?
+4	1522891739	10	Block size has nothing to do with coin supply.  Coin supply is fixed at 12.5 coins every 10 minutes until the halvening (after which point it will be 6.25 coins per 10 minutes).  Block size has nothing to do with that whatsoever.
+4	1522901044	6	You're the guy trying to sell 20BCH and rumored to have donated 300 bch to a charity - did not expect troll-like behavior...weird.
+2	1522890276	12	What?
+2	1522900326	2	Number of satoshis isn't changing.
+2	1522917735	-1	OP codes is all about inviting things like CryptoKitties and various ICOs , which can generate a lot of transactions and inflate the block size.  This way BCH can at least surpass BTC on the transactions per day metric.This is somewhat similar to an overconfident newbie martial arts practitioner intentionally going to a bad neighbourhood to seek problems and test his skills. Maybe he does have the skills to defend himself, or maybe he will be up to a nasty surprise.
+0	1522889316	9	Awesome- so the code is already done, and this is it? We could enable opcodes in 100 blocks from now if everyone agreed today?So now we know the definitive list of the opcodes? And we can play with them on testnet?What's the status of opreturn/opsec with respect to the manual/quick&dirty coin coloring scheme? Will we see someone trying out a use case (one which doesn't count on wallets interpreting the strings in the near term)?
+1	1522889447	9	You have to wait for May 15https://www.bitcoinabc.org/may15hardfork
+1	1522894987	6	Testnet is forthcoming.  Should be up tomorrow hopefully.
+1	1522924999	1	> What's the status of opreturn/opsec with respect to the manual/quick&dirty coin coloring scheme?So far none of the overlay-protocols have been ported over.
+0	1522928904	2	alright, got my node updated to v0.17.0.0 :D
+0	1522902705	2	On May 15th, 2018, the Bitcoin Cash network is scheduled to upgrade the consensus rules.  The Bitcoin Cash development community performs periodic and regular network upgrades in order to evolve the network. 

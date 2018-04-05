@@ -1,0 +1,496 @@
+File created at: 1522953616
+Subreddit: Bitcoin
+Submission title: Satoshi chose today's date as his birthday. On this date the Federal Reserve confiscated all the gold from the US citizens.
+Submission created utc: 1522912464
+Submission score: 4816
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522912587	718	Satoshi chose April 5 as his birthday in his profile here - http://p2pfoundation.ning.com/profile/SatoshiNakamotoHe chose 1975 as his year of birth. 1975 is the year when the US citizens were allowed to own gold again.
+1	1522913909	208	Was it planned all along to take the gold from the people and then later sell it back to them for more beginning 1975?
+2	1522916110	159	No breakdown of the gold standard followed by breakdown of Bretton woods meant gold wasn't needed for currency anymore 
+3	1522940108	1	Huh, I just failed a quiz in one of my econ courses on the differences in the rules of these two systems yesterday, small world
+4	1522940317	1	Tbf, I'd probably fail a test. I wish I knew more, just don't have time for it. 
+3	1522944356	1	Both these points are wrong. The answer is yes this was planned. The original gold standard was not broken, it was replaced with a pseudo gold standard, that started the decoupling of gold from fiat currency. It allowed the federal reserve system to come into play and eventually the use of a global reserve currency - the US dollar - that came out of Breton Woods. This reserve currency replaced gold as the common global unit of settlement. 
+3	1522920608	-24	It still is needed. 
+4	1522921398	117	The idea that currencies should be gold backed was/is traditionally but backed by no logic or reason.  It could just as easily be backed by moose antlers and have equal worth.
+5	1522923444	81	Get this man in office, the moose-antler-standard is the solution we have been looking for!
+6	1522928459	20	Bull-Moose Party rises again
+7	1522947211	1	Bull Moose Party Too: Electric Moosealu
+6	1522927410	16	it would destabilise the entier moose market, rapid inflation for a few years with biannual crashes right around Novembers antler shedding.
+6	1522923830	18	Money literally grows in the forest!  As close to money growing on trees as we can get!
+7	1522926047	26	As a resident of Sweden (a country with more Moose per capita than people) I hereby self-proclaim myself a multi-billionaire. Bow down to me ya peasants!
+8	1522928473	23	How many people does Sweden have per capita?
+9	1522928710	38	One.
+8	1522928694	17	A Møøse once bit my sister...No realli! She was Karving her initials øn the møøse with the sharpened end  of an interspace tøøthbrush given her by Svenge - her brother-in-law -an Oslo dentist and star of many Norwegian møvies: "The Høt Hands of an Oslo Dentist", "Fillings of Passion", "The Huge Mølars of Horst Nordfink"... Mynd you, møøse bites Kan be pretty nasti...
+8	1522930512	2	That statistic makes zero sense.
+6	1522937542	1	Moose antler could be harvested and grown every year and never run out unless all mice? Were killed off. Gold is limited.
+7	1522940693	1	Clearly you've never studied alchemy 
+5	1522926672	9	It's the rarity and difficulty of forging gold that makes it a logical choice as currency. Obviously paper currency began as promissory notes for specific quantities of gold, for convenience.I might be missing the point you're trying to make though.
+6	1522929035	9	The point of gold being used in currency was because it was hard to fake, and many ways to test it for authenticity to stop forging.Modern paper and digital currency are equally difficult to recreate with many ways to test authenticity.  Gold isn't magical, and isn't inherently valuable outside of very specific applications.
+7	1522929643	8	Youre neglecting the fact that gold based currencies are "sound money" which are much harder to debase... This is wildly different than digital or paper money and has an absolutely massive effect on the economy. Some good, some bad.
+8	1522939741	1	I don’t know about harder to debase. The reason Nixon took us off the gold standard was in part, because Russia started buying up mass quantities of gold- to debase our economy. Edit; added “in part”
+9	1522943077	1	This is the single biggest reason why Bitcoin will never replace fiat.
+7	1522939088	1	Harder to fake and impossible to print out of thin air. Yes, counterfeit is bad. But that doesn't mean government wildly printing "legal" copies of the currency is better. It has the same exact economic effects.
+8	1522939403	1	> Harder to fake and impossible to print out of thin air. Yes, counterfeit is bad. But that doesn't mean government wildly printing "legal" copies of the currency is better. It has the same exact economic effects.Sometimes I forget where I am that shit like this gets posted.  Trust and agreed on value is what makes currency.  In the past only gold could have that agreed upon trust.  Not so much any more.  Simple as that.  Also go post what you just said in any economic or financially literate ^subreddit and see the replies.  
+5	1522926848	6	The idea that currencies should be backed by gold is explained by simple logic and reasoning. A coin that constitutes a certain amount of the currency, is either replaceable by the commodity its linked to, or is made out of said commodity, and the weight gives it the value. This allows faith in the currency, for individuals can go redeem it for a tradeable good at any point. Secondly, for gold in particular, the reason we use commodities is for their store of value ie. gold is still worth the same in a year as it is now. As gold didnt detiorate in quality quickly, we used that as a store of value, so that individuals could replace coins with gold, and it would still be worth the same in a few years time. In previous societies this was needed and necessary due to no computers, and lack of tech to produce polymers that could work as well as gold.
+6	1522929121	30	The point of gold being used in currency was because it was hard to fake, and many ways to test it for authenticity to stop forgery.Modern paper and digital currency are equally difficult to recreate with many ways to test authenticity.  Gold isn't magical, and isn't inherently valuable outside of very specific applications.>gold is still worth the same in a year as it is nowThis is just false, value of gold fluctuates greatly over time, even a basic google search will show you that.
+5	1522932088	1	If the world was made of gold, man would kill for a handful of dirt.
+5	1522933002	1	Incorrect.
+5	1522933673	1	Except you can grow moose pretty easily without adding much value, and become rich. That is, until everyone else starts doing the same thing.
+6	1522934706	2	Spoken like someone who has never tried moose ranching. Moose bites can be pretty nasty.
+5	1522935673	1	moose antlers theoretically are a renewable source. gold is not. this statement is as true as saying you can use a pen to write or you could scrape a rock against whatever you want to write on.
+5	1522938983	1	No. Because moose antlers can be produced. The key factor as to why a currency was traditionally backed by gold is not because "shiny rock". It's because gold is scarce and cannot be printed easily. Gold is a good currency backing because of enforced restraint on the currency.
+5	1522939955	1	>The idea that currencies should be gold backed was/is traditionally but backed by no logic or reason.  It could just as easily be backed by moose antlers and have equal worth."no logic or reason" except for the inert nature of gold and silver metal. They are exceptionally unreactive with air and water compared to every other accessible element at the time. There was no other material that could survive over any appreciable timescale without significant mass loss due to corrosion or weathering. This made gold and silver the best way to measure and maintain value for most of human history. So yeah you might wanna edit that post. Your moose antlers are decaying. 
+5	1522927470	1	Assuming you have an unbelievable amount of faith in whoever is issuing your currency, then yes. 
+6	1522928167	10	No more faith than you'd need for a gold backed currency. I mean to be completely honest you're not going to get your gold OR your moose antlers if the world falls to shit.
+7	1522929620	1	Yeah but as I understand it, it's much more likely that a ruling body would just severely devalue the currency if it's not tied to anything like gold.
+8	1522929982	1	The current currencies in the US and Canada are both tied to nothing other than faith (it's not a promise for gold, it's just a promise that it's worth something). I assume the same is true in most developed countries at this point. Those are devalued year over year because they're backed by belief alone, but if a currency is backed by moose antlers it will serve just as well as a currency backed by gold.
+9	1522931381	10	The U.S. dollar is backed by the production power and assets of the United States. It's not backed by nothing. I understand this is a bitcoin subreddit but some education on these topics would go far for some people.
+4	1522921087	10	For which currencies is gold needed? 
+5	1522924069	4	I'm not Op, but they could probably mean that it's needed, just not necessarily as a currency. It's a pretty useful element that's used in a lot of different fields. 
+6	1522924573	3	Energy has a better use case than gold.Gold is valuable because it’s rare and shiny. Besides some use in electronics (rare earth stuff is better though), you can’t eat it, can farm with it, fuel cars, make robots. It just sits there.With BTC, it’s backed by electricity so I think it’s a better container of value.
+7	1522924831	18	You can't get the electricity back out though. An ideal crypto would grant you rights to real stored energy.I think we're some way off that though.
+8	1522924912	4	That is true. It’s kind of like getting gasoline back into crude oil.
+9	1522936278	3	Except gasoline has energy potential and is a widely used resource. I'd say it's more comparable to trying to turn ashes back into wood.
+7	1522930147	5	In a way, the dollar is energy backed. Establishing the petrodollar when Breton-Woods was abandoned, the dollar maintained some intrinsic value as the only way to purchase the primary source of energy. Other currencies then had their value tied to oil, by way of a floating exchange value, based on how much of that currency was needed to equal a petrodollar. In a loose way, you could say that the dollar is backed by oil, which would allow you to calculate a BTU value of one petrodollar. That in turn, would give you a BTU of energy value for every currency that is more stable than, say, Wh per unit of currency. In fact, I just did a little research, and for tax purposes there is an energy value called Barrel of Oil Equivalent (BOE). The U.S. Internal Revenue Service defines a BOE as equal to 5.8 × 106 BTU. Take that value and divide it by the current price of a barrel of oil and you have the current BTU per petrodollar. Edit: missing comma. 
+7	1522926675	0	Value of gold is representative of the energy required to get it....the principle is no different to Bitcoin proof of work concept
+8	1522927370	4	But encryption and the network has an actual productivity use case. While the gold just sits there.
+9	1522930267	4	>But encryption and the network has an actual productivity use case. The use case being: it makes sure your bitcoin "just sits there", in your wallet, instead of being stolen.>While the gold just sits there.And can't be stolen via computer hacks or scams, making the above encryption and network required for bitcoin obsolete.I'm not some gold fanboy, but your argument sounded silly. The advantage of bitcoin is ability to transmit it over the internet, sure, but the fact that gold "just sits there" is a feature, not a drawback.
+9	1522932777	2	Gold just sits there....but so do most of the bitcoins.
+4	1522930636	3	Gold is in itself not any different from your paper money. Its value is predicated entirely on human projection. You can not eat it, you can not build a house with it. Its main industrious purpose is that of an electrical conductor but that's not what makes it $1,300/oz. Gold's value is predicated entirely based off of what humans believe it to be worth, just like fiat money, just like crypto. They're all the same. True wealth is derived from holding title over land, over the means of production. Not on holding fictitious representations of wealth.
+4	1522931502	1	No it's not.  We have Bitcoin now.
+2	1522934870	71	> Was it planned all along to take the gold from the people and then later sell it back to them for more beginning 1975?The idea was to intentionally devalue the USD against gold.  This was a means to ease monetary policy and the deflationary effects of the Great Depression and most importantly - to save the banks.  The price of gold before confiscation was $20.67 and $35 afterward    - a whopping 69% devaluation of the USD!  Basically the government chose to throw gold investors under the bus to save their banker friends.  The government saved the banks again in 2009 with TARP, but it was much easier because we are no longer on the gold standard so they didn't have to confiscate anything.  They just printed dollars. Not much has changed today!  
+3	1522939555	1	Won't someone please think of the big banks
+3	1522942750	1	> Basically the government chose to throw gold investors under the bus to save their banker friends. It wasnt gold investors who were thrown under the bus, it was the entire populace. Closing off the last monetary escape valve allowed the goverment to implement the ultimate tax: money creation. The US government was gearing up for war and needed the whole country to pay for it.
+4	1522943638	1	Agree - all USD holders were inflated.  The gold investors were hurt more acutely, however, because the government prevented them from hedging against a risk that many of them saw coming and tried to avoid.
+5	1522947408	1	Still are inflated 
+3	1522947558	1	>The price of gold before confiscation was $20.67 and $35 afterward - a whopping 69% devaluation of the USD! Basically the government chose to throw gold investors under the bus to save their banker friends. Haha, you're pretty harsh on them and even that's not harsh enough.This is literal robbery of citizens.  It was a traitorous act to pay for a war.And lets not forget removing the ability for citizens to call in their notes for gold allowed the fed to steal more and more from every person that held USD over the proceeding decades by printing money.   When nixon took us fully off of the gold standard (which US citizens already had been for 40 years) at least he stopped foreign governments from calling in their notes while citizens still couldn't.
+2	1522937581	16	Ye ol' pump and dump schema. 
+3	1522938352	11	Print and dump*
+2	1522951502	1	Not allegedly...
+1	1522934322	32	How generous of our government: 42 years after unconstitutionally seizing all of the peoples'  valuable precious metal property..  now the citizens could buy it back at vastly inflated prices.
+2	1522941637	1	It was obviously different people in power at the beginning of the 42 year span, and at the end.Perhaps Nixon was being generous.  Nixon was forced to take us off the gold standard because France was draining our gold reserves.  After we took over Vietnam from them (they started it), France began converting dollars to gold as fast as they could submit the forms.  (Seems a bit ungrateful to me)  Nixon said enough is enough, we will no longer allow foreign states (normal people had not been able to do this for 42 years) to convert dollars to gold.Perhaps Nixon knew that the dollar would begin to lose purchasing power at a high rate after this,  (it did) and he wanted to return to US citizens the ability to buy gold and preserve the purchasing power of their savings.  Nixon was looking out for us here.
+3	1522945584	1	Very interesting.
+3	1522948325	1	Why was France going all in on gold? 
+3	1522951803	1	I was wondering about this. Woah.
+3	1522952976	1	Well said. Nixon was a great president. But it only takes one "aaaaa sh*t" to kill 10,000 "da a boys".Our government has been controlled by lobbiests and corporations since 1967. I'm not convinced a president does anything but follow orders.  
+3	1522948315	1	> Nixon was looking out for us here.Ah yes, getting us into an unnecessary costly war with many lives lost, what a great guy :|
+4	1522949082	1	Nixon may have intentionally prolonged the conflict to hedge his bets on the election but we were sending advisors under Kennedy and fully engaged under LBJ. 
+5	1522951488	1	It was a clusterfuck and nobody knew what to do.  Look at our enemies now, look how good they are at making us paranoid and turn on each other.  Imagine that, with the extra ignorance of that time period and atoms bombs pointed at your face.  Proxy wars defuse the call of war by not forcing super powers to confront each other directly.  The Syrian conflict today is largely related to pipelines from the middle-east to Europe.  Everyone wants them but Russia.      I have to think that in the past everyone just did the best they could with the people they were, and we're still here.
+6	1522951885	1	I'd believe that more if Nixon didn't tell the North Vietnamese to tank the Peace talks in order to make LBJ look like shit and then spend 5 more years in Vietnam while expanding further and further into Laos and Cambodia. 
+1	1522936627	7	Satoshi is gold reborn. Bitgold.
+1	1522918313	43	I love shit like this. It's like a real life version of the egg hunt from ready player one.
+2	1522925927	1	I love that book! Great reference 
+3	1522934616	2	They could make a great movie out of that. Think of all the IP they could stuff into 100 minutes!
+4	1522939035	1	It was nearly 2.5 hours and really let me down. They made a lot of unnecessary changes that really spoiled the movie for me.
+5	1522941482	1	I think most of the changes were due to licensing issues, and I thoroughly enjoyed the movie in spite of the differences.
+6	1522942055	1	I just don't know why they'd change the first test so drastically. Even if licensing was an issue, what they put into the movie was nothing as heavy as in the book.
+1	1522917113	10	Woah what a brilliant man 
+2	1522920627	13	What a brilliant group of people... I think might be more accurate. This is just a hunch, but "Satoshi" reminds me an awful lot of "Ned Ludd" 
+3	1522930457	1	oh .. is that the guy who lends his name to Luddite? Which, btw, is a misnomer since the group of people called luddites weren't against technology but concerned about their jobs. Severe propaganda by the elites has come to make the term mean anyone against the very progress of civilisation. That sort of prejudice should be reserved to maoism or leninism.This is more akin to Bourbaki imo. An intellectual effort.
+2	1522941031	1	But i thought Craig Wright was a fraud. Vitalik said so
+1	1522939600	1	This means something. What idk
+1	1522940521	1	Original: https://www.reddit.com/r/Bitcoin/comments/229qvr/happy_birthday_satoshi_nakamoto/
+1	1522940611	1	Today was my birthday! Well yesterday now but still
+1	1522944803	1	They can’t take your gold in specimen form *cough *cough natural nuggets! They only confiscated coin and bullion y’all. 
+1	1522948842	1	Today is also my birthday! He/she is exactly 24 years older than me!!
+1	1522949468	1	Totally all things that Craig Wright would have done.  Am I right?  Of course I'm not.
+0	1522916497	502	It seems insane to consider a government **banning** the possession of gold for over forty years. 
+1	1522917383	287	Yet it put the US and the US Dollar as the de facto currency of world trade because FR used to have up to 40% of world reserves of gold post ww2.Anyway, people were compensated for the gold with Dollars, it's not like they got it stolen.
+2	1522920513	95	You sure it wasnt that the rest of the industrial world was bombed and you had to buy american goods?
+3	1522937891	19	Nah, that was completely unrelated, I'm sure.  After all, it didn't happen in 'Merica, so it can't really be significant.
+2	1522936880	38	Yes...it was wonderful. You give them an ounce of gold and you get $20. The very next day gold is repriced to $35. So now if you want to get your one ounce of gold back you have to give them the $20 they just gave you PLUS $15 more. But, that's not theft. No :)
+2	1522918523	174	If i break in to your house, take all your shit, but "compensate" you with a few pieces of paper it's not stealing?
+3	1522920622	140	It's like I come into your house and take gold and give you shit. Because I declared shit to have value and everyone must transact in shit
+4	1522933340	71	You say that like gold doesn't have value for the exact same reason. What does gold's *actual value* come from?
+5	1522934320	33	Its shiny and pretty to look at
+6	1522943522	1	Does anyone realize the irony of saying this in r/bitcoin?
+7	1522944128	1	Nope and it's quite funny. Everyone's too busy acting like appraisers of value. Talking about what value does gold have? Yet same people probably beat their family members over the head trying to tell then Bitcoin is the future over USD.
+5	1522937806	19	The point isn’t that it has value, the point is that it was private property and was taken. 
+6	1522939622	1	That might not be your point but that was literally what the previous guy we arguing about
+5	1522939527	1	I thought value of currencies like gold and silver came from: scarcity, being finite, and being chemically non-reactive i.e. an asset that can't rust away?
+6	1522946244	1	Historically speaking, yes
+6	1522952008	1	Also another important feature, can be safely identified.  It's hard to create counterfeit gold. 
+5	1522934121	20	"Uhh... uhhh.... electronics conductors!"Nah. Silver works just as well.
+6	1522936318	19	I dunno. Monster doesn't sell any silver capped HDMI cables. Clearly a lower standard.
+7	1522938776	8	And Mastercard doesn't issue a silver card! Checkmate, big silver lobby!
+6	1522937496	12	Silver tarnishes
+7	1522943654	1	Platinum is better for my teeth!
+8	1522944466	1	Hell yeah it is! Everything has it's purpose.
+9	1522945359	1	Gives me a proper grill!
+6	1522937728	4	Gold has a history of value for thousands of years so your argument failed to convince me. 
+7	1522937915	2	Ancient aliens. 
+7	1522938510	2	"It's valuable because it used to be valuable"Kind of supports the other guy's point...
+8	1522940536	1	I used to hold value. I still hold value, but I used to too.
+9	1522950470	1	Both of those statements are dubious
+6	1522950405	1	No, Silver works much better as a conductor. Copper is about 45% more conductive than Gold, and Silver is about 53% more conductive than Gold.Gold is useful for plating conductors because it doesn't oxidise on the surface. Gold is rarely (probably never) used as a conductor itself.
+5	1522935480	9	Essentially: market demand. 
+5	1522935870	18	History plus scarcity. The knowledge that it worked for the ancients to today, it'll probably work for us. But yeah, if you drill down far enough value of anything is just belief. Maybe Bitcoin will knock gold off its multi-thousand year throne, who knows. That's gonna take a while to say one way or the other.
+6	1522940147	1	Energy is the currency of the universe.
+5	1522943636	1	Its scarcity.
+5	1522939272	1	Its ability to attract females.
+6	1522942548	1	Underrated historic function in this thread so far
+7	1522948992	1	But they're only attracted to it because it has value and holds shiny diamonds that have greater value. You can do that with a stack of hundreds now, or a hardware wallet with a couple hundred BTC.>Hey ladies, check out this fat stack....of USB sticks.
+5	1522940480	1	Well for one someone can't just print a bunch of it to devalue everyone else's.
+5	1522936614	1	Because they wanted it. 
+5	1522939188	1	Electronics, medicine, dentistry, computing, aerospace, pigments, optics...Though practical uses account for around 10% of demand, about the same for coinage/bullion with the rest being made into jewelry.https://geology.com/minerals/gold/uses-of-gold.shtml
+5	1522940913	1	By the amount of human labor put into it. Das Kapital might interest you if you have those kinds of questions.
+5	1522942314	1	It is rare, pretty, very stable, and actually has a myriad of practical uses in industry and science.
+5	1522942647	1	Value is inherently derived from demand.
+5	1522942782	1	It's malleability and conductive property's give it value 
+5	1522942911	1	It's pretty useful in electronics. 
+5	1522944221	1	It doesn't corrode compared to other metals and it melts over a flame thus making it a great source for currency. Nowadays, I think gold has more intrinsic value in science and technology (please correct me if i am wrong.)https://www.investopedia.com/articles/investing/071114/why-gold-has-always-had-value.asp
+5	1522944480	1	This guy doesn’t gold 
+5	1522945178	1	Because it is scarce. Paper is not.
+5	1522948462	1	Totally irrelevant.  The point is it was taken by force.They could've taken your 100 dollars in gold and given you millions of dollars of real estate as compensation and it would still be theft because it was forced.
+5	1522951266	1	From the fact that it is widely recognized as doing a pretty good job of conveying economic data—which it can do because of certain physical qualities, and not because anyone declared it to be so.
+5	1522952932	1	bitches love smiley facestheres a reason smileys is gold
+5	1522953196	1	According to many precious metal 'experts' building advance hard ware space worthing will need gold more than silver.Plus the mining expense per ouce of gold is 10 to 1 of silver. But really it is based on perception of value. But man I really love my smart phone and computer, so I personally feel silver and silicone has more value per ounce.
+4	1522934154	14	Except in this analogy you're the most stable, trusted organisation in history which gives paper bearing your bond a lot of stability.
+5	1522935829	5	> the most stable, trusted organisation in historyBold claim since it’s only been around for a little over 240 years. There have been many more trusted organizations/countries in the past.
+6	1522941553	1	Granted, but there's never been as much wealth or as many people, so there hasn't been as many to trust or as much to trust about.
+7	1522942597	1	The world was smaller back then. So less people isn’t really a consideration. Relative wealth is in the ballpark as today. 
+8	1522942782	1	Global wealth per capita has increased enormously throughout history.
+9	1522950273	1	Statistics, what is those?
+6	1522941763	1	From an economic perspective he's correct and its really not that bold. Since post WW2 we have controlled the global economy for better and worse. High net worth individuals and countries continue to buy up US bonds and more. I'd be interested to hear your perspective on other countries/organizations though as I may be missing something 
+7	1522942510	1	Sure. You’re concentrating in the past 73 years. I would argue the Roman Empire was a much more trusted organization for a thousand years. OPs comment was that the US is the most trusted in history. There are many empires and countries of the past who had world reserve currency status because they were trusted.
+8	1522950898	1	Yeah i wondered if Rome would be your go to... Rome was localized to North Africa and Eurasia. Not a fair comparison given how much global trade as changed and that we actually have control over large swaths and highly influence anything not under our direct sphere of influence.Also their currency was made out of precious metal anyone could melt down into stock metal. Really don’t see that as a good comparison whatsoever.
+5	1522947057	1	THe UsA iS teH mOSt staBLe TrUSteD gEnIOuS iN HiStoRy, MaYbe EvEr
+5	1522948639	1	While gold has a history of thousands of years of stability.>trusted organizationlol
+4	1522938711	8	I like how you're on a frickin bitcoin sub yet are calling paper fiat currency "shit declared to have value" Idk I just find it ironic 😆
+5	1522941993	1	Bitcoin is voluntary. If you think it has no value, ignore it.  
+5	1522943992	1	Yep, bitcoin helps put shit in perspective for sure.
+5	1522944895	1	It's shit you can't just print more of when you want to. So not as shit as fiat.
+4	1522921750	9	best of reddit
+4	1522927910	1	Epic shit!
+3	1522922644	39	I'm not arguing against or for this law in any way.The point I'm making is that it wasn't 'stolen'. US needed to pump the economy and ease the USD which was hard to do since for every dollar printed the federal reserve needed to back it up with gold.So to make people spend more the law forced people to sell their gold for dollars thus increasing US gold reserves and pumping the economy.In the end this executive order, among other things, did achieve in both the goals, so history can judge the order negatively by a moral point, but not from an economical one.
+4	1522926015	15	FDR’s economic policy was ridiculous, and it lengthened the Depression.  His idea was that “prices are too low”, the problem not being the collapse in demand.  Thus, under the Agricultural Adjustment Act (AAA) the Fedgov destroyed millions of bushels of grain to constrain supply and raise prices!  In 1933 alone, cotton farmers were paid $100M to plow their cotton plants back into the ground.  The federal govt bought 6M hogs from farmers in the same year, and destroyed them.  The AAA was led by Henry Wallace, who was impressed with Soviet farm collectivization, and wanted to bring Stalin’s magic touch to the US.Similarly, there were wage and price controls under the National Recovery Act.  Business owners were imprisoned for paying their workers “too much”.Fortunately, the US Supreme Court struck down the AAA and NRA as unconstitutional.  But the anti-gold lunacy was conceived by the same authoritarians, and it continued until 1975.  As Gerald Ford, the President who ended the ban said, “the government that can give you everything you want, can take it all away.”
+5	1522932261	40	The great depression was a collapse of the economy for both demand and supply. Both were problems. And you are ignoring that FDR also implemented welfare programs and public works projects to put money in people's hands to help with the demand issue.
+6	1522933807	19	Exactly this. What kind of economic policies does /u/oblomov1 think would have been better to end the depression? The “unregulated free market” that got us there in the first place?
+7	1522935147	11	> The “unregulated free market” that got us there in the first place?I'm gonna assume that that's what he's going to swing back with.The free market can fix anything, it just won't bother unless there's a sufficient profit motive.
+8	1522938995	3	> The free market can fix anything, it just won't bother unless there's a sufficient profit motive. Cant tell if you are being sarcastic here or not? Feels like top comment was serious, bottom not.The free market can often work towards Monopoly and can be anti consumer. Look at bitmain and mining cartels for an example of the free market working against us with maximum profit motive.Feel like the free market is used as a hammer. It's not universally true and should not be used as a cure-all for everything.
+9	1522940083	1	It's not sarcastic. Your comments about monopolization and anti-consumer practices are perfect examples of the problems  the free market will rarely choose to resolve on it's own, because it would not be profitable to do so.It's basically my tongue-in-cheek version of "the unregulated free market will fuck you in the ass and toss you aside like roadkill for pennies if that's what it takes, and it'll do so whether it wants your pennies or can get someone else's pennies by virtue of the aforementioned ass fucking".
+7	1522945369	1	Yeah, the market was totally unregulated. No federal reserve at all. /s
+7	1522947871	1	They didn't have a "unregulated free market" prior to the great depression no matter what Keynesians tell you. The federal reserve was established 1913. What did they do before '29 if not regulate the supply of money? Sit on their hands and wait for a crisis so that they could swoop in and save everyone? I would argue that the violent cycles in the american economy by the turn of the 20th century was due to easy credits issued by the government in order to boost a slow economy.I am economist but the competing banks of the 19th century is in my opinion a better solution to large scale crisis than big government regulation.
+5	1522937397	7	Get off the Libertarian subreddit and study any form of history or economics. “Free market” causes a boom and bust every 10 years, in an extremely unstable fashion. Every ten years, the capitalists fuck over every single laborer and then idiots like you say “Please sir, may I have some more?” Get off the American high horse of independent living and “pull yourself up by the boot straps” and analyze what works and what doesn’t. Clearly the US lacks in major development indexes because everything it tries to do has to go through the free market system, even if they end up getting HUGE government bail outs (re: car industry and banking.) 
+6	1522944333	1	We don't have a free market!!!!! The libertarians would like to have one though because the government is fucking terrible at everything
+6	1522949220	1	I'd hardly say the United States is truly a "free market", in addition, wasn't the Federal Reserve created to prevent the Boom Bust cycle, yet we still get them; so I'm not sure you can say that free markets are the reason for boom bust cycles or at least the ways of govt dealing with them simply don't work.
+7	1522950096	1	Don’t conflate coincidence with cause. The Fed rights the ship after major, private sector created, economic disasters occur. They do set interest rates etc but only in response to the economy. The ways government deals with them do work. We came back from Great Depression because of FDR’s policies and from the Great Recession because of Obama’s policies. These were all caused by private sector collapses (stock market, banking, housing).  Governmental entities don’t go through boom-bust cycles, they’re almost always the most reliable and steady services. If you have any evidence to the contrary please provide it. 
+8	1522950453	1	I think some would argue that FDR and Obama unnecessarily prolonged those recessions with their policies rather than help them. The recession of 1920 was almost as bad a recession but recovered relatively quickly with the government having a more hands-off approach to it.
+9	1522950664	1	“Some would argue” can you provide any source? Or is this one of those Trumpisms? “I know it, you know it, everyone knows it.” 
+6	1522949907	1	When did I say anything about “pulling oneself up by ones bootstraps”?  It seems like you would rather play ersatz Rex Tugwell New Deal tough guy and joust against a libertarian straw man than listen.The fact is that Henry Wallace was a Stalinist right up until 1952, which puts him ahead of Kruschev by a year in rejecting the genocides, purges, and political murders.Another example of New Deal economic lunacy was the law that prevented bank holding companies from owning banks across state lines, or from selling notes across state lines.  This resulted in banks being tied closely to the economic conditions in particular communities.  If a large factory closed, bank failures were likely to follow.  Something similar happened in the S&L crisis in the late 80s, after oil prices collapsed.Compare this with the relatively deregulated environment during/after the so-called financial crisis in 2008-9.  Meredith Whitney predicted hundreds of community bank failures in 2011-2013, but this never happened.  In the less authoritarian regulatory environment, these banks had diversified, both geographically and in the types of collateral held.  Most were run well, since the leadership at these banks knew that they couldn’t count on financial “crisis”-style bailouts from their political allies.
+7	1522950605	1	“So called financial crisis” what sort of crazy reality do you live in where it wasn’t a financial crisis? Is there any sources you can find who don’t think it was one? Also, do you have any sources on this love of Stalin you claim? He was anti Cold War and pro progressivism but I can’t find this love of Stalin you repeat like a parrot. Assuming you’re correct, if he was pro genocide, purges, and political murders he sounds very American to me considering that country has done all of that and more. 
+8	1522951460	1	An article from Slate (hardly a bastion of flinty anarchocapitalism)  on Wallace:http://www.slate.com/articles/business/moneybox/2004/01/seed_money.htmlOne from Vox, again not a right-wing journal:https://www.vox.com/world/2016/10/26/13408122/trump-russia-us-election-putin-josef-stalinAnd one from National Review:https://www.nationalreview.com/2015/04/henry-wallace-unsung-hero-left-ron-capshaw/The “necessity” of the bank bailouts and egregious actions such as the expropriation of Chrysler and GM was a political feint.  The real error was the forced marriage of JP Morgan and Bear Stearns, which led the market to believe that the Fed or Treasury would backstop future bankruptcy threats.  The world would have been better off had Bear and Goldman been allowed to go under, and the self-dealing and untoward political influence been prosecuted.
+9	1522951823	1	I’m not seeing his direct endorsement of Stalin after reading the first two articles, if you can archive the National Review I’ll read that one but don’t want to give them clicks. Anti Cold War? Sure. Nuclear disarmament? You betcha. Heavy handed government intervention? Yep. Direct support for Stalin? Didn’t see it. To me it seemed more that Stalin endorsed him “as the candidate of peace” which might be where you’re confused on his endorsement of Stalin. 
+4	1522943220	1	Forcing someone to part with their gold is stealing. If I forced you to sell me all your Crypto right now regardless of whether or not you want to sell at the moment (perhaps you're saving it as an investment for the future) would you not consider that stealing?I could pay you today's market price or less and you're forced to accept my terms regardless of whether you'd like to or not. I.e. the gov stole the people's gold. 
+4	1522948731	1	>make>forced>executive *order*Tell me again how this wasn't stealing?  If it's not voluntary it's a form of theft.
+3	1522918923	18	If your paper was backed by a known source that people believed would pay that debt while also being able to be used throughout the country and held at a stable level countering inflation, then yes, I would take it.  
+4	1522922945	33	The US gov promised everyone that later on they can change USD back to equal amount of gold. Later on they reduced the amount of gold you can get back, and then finally stated that you will never be able to make the transaction back.
+5	1522934694	11	Classic US Government.
+5	1522927822	10	Nice 👍 
+5	1522950955	1	Any time someone says the government has never defaulted on its debt, this event proves them wrong.
+4	1522926510	9	> people believed would pay that debt      It doesnt matter what people believed. It was forced forfeiture of assets in return for fiat currency. It's oppressive as fuck, imagine if Zimbabwe did that. You can totally imagine them doing it because it's messed up as fck, right
+5	1522933932	2	> It was forced forfeiture of assets in return for fiat currencyForfeiture? It was forced exchange of one asset to another. You try to paint "fiat currency" as something bad and evil and gold as an valuable and good "asset".
+6	1522939496	1	A forced exchange is forced forfeiture of one asset in return for one they did not request. I'm not playing semantics, it's literally what it is. I'm not suggesting anything, fiat currency is fiat currency. What happened was oppressive under any definition of the word.    I'm struggling to see what your stance is on this apart from "it was no big deal"  
+4	1522918988	25	Doesn't matter if you would take it. Doesn't matter if the gold was being "bought" for 10x the value. It's theft no matter what they give you in return because you don't get a choice in it.
+5	1522933941	4	Look up the definition of theft. This was not unlawful taking. The government has the right to tax you and it has the right to take your property and compensate you for it when it is in the interest of the public good. You can take that up in court or with your representative, but as it stands this was not ruled unlawful.
+6	1522949065	1	The government doesn't have rights, it only has privileges granted by the people and codified into law.There is no right to tax, there is no right to take *your* property.  But there is law granting them that privilege.   Questionable law of questionable origins, but it does exist.
+6	1522949668	1	I think many people here would argue that the Government has the authority to tax and take property... but not the "right" to take those things, but of course that gets into a whole other debate about what a "right" is in the first place - simply having the ability to use coercion on someone doesn't mean you have the right to do it.
+5	1522922294	4	Sort of like throwing some cash on a woman after raping her.
+6	1522934127	1	Requiring citizens abandon the gold standard for a more federally controllable dollar is akin to rape?
+7	1522949176	1	Financial rape.
+8	1522949980	1	Sure, but OP said rape. Not *financial* rape. Rape, as in rape rape, as in "restraining a woman to use her body for sexual intercourse without her consent through the threat of violence or sedation and leaving years of trauma". That kind of rape. As in OP compared requiring citizens to abandon an effectively unbacked form of currency for another unbacked form of currency to the above definition of rape.
+5	1522920489	3	Exactly. There are some cases where I believe the government should be able to do similar things, eg. forcing you to sell land that is needed for essential public infrastructure, but doing it for gold? Fuck that shit. 
+6	1522936279	7	...or when "essential public infrastructure" becomes "Wal-Mart" and those in positions of authority who have to sign off on the Eminent Domain get political contributions from the corporation. 
+7	1522953573	1	Just to play devil's advocate, Wal-Mart is essential when you are poor as fuck. All other factors aside, if you have $100 to buy groceries and household items, you'll get by shopping at Wal-Mart.. Wholefoods.. not so much. I'm not defending the system, but it's just another realistic layer of the problem.
+6	1522945854	1	> There are some cases where I believe the government should be able to do similar things, eg. forcing you to sell land that is needed for essential public infrastructureYou don't think that a financial system is essential public infrastructure?
+5	1522922564	-1	But it's the law determining if that was theft or not.
+6	1522923044	20	Depends on point of view. When nazis took jew valuables, was it theft? I think it was.
+7	1522928540	2	thread summarized 
+7	1522933817	1	Yeah, it was, because they got nothing in return. Before they had money for lets say opening business and after they had no. Americans on the other way first could start business paying with gold and after they could start it with dollars they got.
+8	1522949721	1	Lets say you had a piece of heirloom jewelry that had been passed down in your family for 10 generations.  200-300 years of history with your family, it triggers memories of your parents and grandparents, and you plan to pass it down to your children.It is made of copper and worth 1 dollar in current scrap metal value.If I hold a gun to your head, take your heirloom, and give you a dollar are you really going to call that anything but robbery?Things have value beyond market value.
+6	1522949367	1	Morality isn't relative.   Theft is described by law, not defined by it.If a law was written tomorrow that declared all assets owned by anyone over 45 to be property of the US government, that would be theft, yet the law would disagree.
+3	1522929752	2	Cause dollar bills are pieces of paper as we all know. Please come to my house take my shitty stuff and leave me some of those pieces of paper. 
+3	1522932497	7	You do realize gold is a flaky shitty rock until humans gave it value just like money is shitty paper that we gave value? So In the end it’s fair as long as the compensation equals what you gave away. 
+3	1522928338	3	Something something Hitler freedom
+3	1522924837	3	but back then the paper was actually backed by that same gold at least. 
+3	1522933446	3	>a few pieces of paperCalling dollars "a few pieces of paper" is like calling gold a hunk useless metal. 
+4	1522949940	1	No, it's like calling gold a hunk of metal.   
+4	1522934217	1	What it is is irrelevant. Forget the gold and the dollars, the problem is the government saying "nah fuck you that property is no longer yours, we're taking it, but here's something else in exchange". Would you be ok with them taking your entire house if they offer what it's worth on paper? Fuck sentimental value and private property,  right?
+5	1522935490	3	That's completely different isn't it? I dont use my house to purchase things.  And who gets a sentimental attachment to gold other than a pirate? 
+3	1522932337	2	dont forget that shitty paper was made almost for free, so i take your gold and give you a draw made by my son and tell that thing have value for now.im a genius!!!
+3	1522937941	1	*a few pieces of paper* lmao
+3	1522948217	1	Depends if those pieces of paper are money.It might not be ethical per se, but it isn’t stealing by any definition.
+4	1522948804	1	I rob you of all your valuables. I leave a dollar note. According to you I've not stolen anything?
+5	1522948847	1	Again, depends.Are my valuable worth a dollar? Because in 1933, they were paid what their gold was worth.
+3	1522949844	1	Paper that I intend to devalue just after offloading it. Classic pump and dump.
+3	1522935773	1	Gold didn't have any inherent value other than what it was worth in dollars.  One was a piece of paper the other was a rock we dug up.  I wouldn't exactly call it stealing to exchange one form of nonsense for another. 
+2	1522932569	11	 > people were compensated for the gold with Dollars,At considerably less than the market price.
+3	1522938145	1	And also the massive demand didn't drive good prices up either.It was lose/lose for the people.
+2	1522936404	3	How does this comment have so many votes? Must be the /r/all crowd :-/
+3	1522950041	1	Never underestimate the reach of government propaganda or overestimate peoples' abilities to think for themselves.
+2	1522941691	1	No you're right, it wasn't theft. It was coercion with the threat of violence, much better!
+2	1522948386	1	Lol, okay in that case I declare your house to have a value of 12 donuts and I'm forcing you to sell it.  I'm sending over a lawyer who will swing by dunkin donuts on the way, have the documents signed by this evening.
+2	1522948804	1	No this is /r/bitcoin you have to say the government is always bad and trying to steal from you 
+2	1522951098	1	Yeah, we'll take your inflation-free store of value in return for these pieces of paper we *promise* we won't inflate away to worthlessness. 
+2	1522952976	1	It was exactly like it was stolen. People wanted gold because they no longer trusted the dollar. Government forced them to give up gold under penalty of arrest / imprisonment / death in exchange for pieces of paper. How is that not [robbery](https://en.wikipedia.org/wiki/Robbery)?
+3	1522952980	1	**Robbery**Robbery is the crime of taking or attempting to take anything of value by force, threat of force, or by putting the victim in fear. According to common law, robbery is defined as taking the property of another, with the intent to permanently deprive the person of that property, by means of force or fear; that is, it is a larceny or theft accomplished by an assault. Precise definitions of the offence may vary between jurisdictions. Robbery is differentiated from other forms of theft (such as burglary, shoplifting, or car theft) by its inherently violent nature (a violent crime); whereas many lesser forms of theft are punished as misdemeanors, robbery is always a felony in jurisdictions that distinguish between the two.***^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/Bitcoin/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]^Downvote ^to ^remove ^| ^v0.28
+1	1522936949	8	It does indeed. I cannot fathom how this was constitutional or held up to legal challenges. It just proves the state can do anything they want under threat of force.
+2	1522943118	1	I hope we are less patriotic and more resistant when the gov comes for our crypto.
+1	1522919656	9	Murica, most free place in the world.
+1	1522936469	2	I think it seems more atypical that they unbanned a thing. Person's don't tend to do such things willingly so to me it seems like a generational or regime change.
+1	1522940254	1	Well we still have plants that you can grow yourself banned even though there are so many other drugs that are way worse for you. Insanity seems to be America's forte.
+2	1522951913	1	That's true for most countries though.
+1	1522944529	1	Land of the frees. 
+1	1522953079	1	Right. Liberty is at risk with every regulation. Imagine the government living on money from the people and making it illegal for plants to be owned. lol (weed/coca). Liberty is a nice dream.
+0	1522915238	169	That's an interesting screenshot of history you have there. The majority of Americans didn't comply with that order, right?
+1	1522917218	147	You could just bury it and they wouldn't know. I doubt they had any proof of how much gold people had.
+2	1522934793	57	Burying it would allow you to keep possession of the gold, but then it has no use to you. You couldn't cash it in later.Unless you had a crystal ball and knew that 40 years later you could. 
+3	1522935784	43	One could argue that buried gold has more use than no gold.
+4	1522936782	19	But would buried gold have more use than american dollars at the time? 
+5	1522937999	11	It may not, but buried gold is also prettier than both no gold and american dollars.
+6	1522941071	1	I have 'buried gold' in the form of a 401k that I couldn't (reasonably) touch for 40 years. Not exactly the same, but close enough. 
+4	1522943610	1	You do realize they were compensated for the delivered gold, right?
+5	1522951269	1	compensated in a currency that they have the power to devalue and did in fact massively devalue 
+3	1522950115	1	Right, I'm sure there were no black markets for gold.  Also no other countries you could take it to.
+3	1522942332	1	> but then it has no use to youProhibition of anything creates the opportunity for a black market of that thing.
+2	1522939226	1	Boating accident
+1	1522917731	31	I dunno, in the 30s people actually thought the president had power and was something to care about.
+2	1522928882	58	Read youself some Mark Twain, friend.Politicians have always been scumbags, and intelligent people have always known this.  I bet you think your generation invented sex, too.
+3	1522929839	26	well it certainly wasn't around when my parents were my age! Wait.... 
+3	1522939158	6	>Politicians have always been scumbags, and intelligent people have always known this.Those intelligent people in democratic systems should probably stop electing scumbags
+4	1522939714	1	Unfortunately the unintelligent will always outnumber the intelligent.
+4	1522950174	1	Difficult when the intelligent are a tiny minority in a representative democracy.
+2	1522922764	7	Yeah it's not like the president has executive power or anything lol
+1	1522949029	1	I think most Americans complied at that time.It was a different culture back then. People trusted the gov't somewhat, and it was patriotic to comply and do your part. Today? Yeah, I don't think we would see the same level of compliance. Try taking Americans' guns away while you are taking their gold and silver, see how well that works out...
+1	1522922969	9	They were compensated, so why not sell your gold?
+2	1522926830	23	Would you sell your bitcoins to gov now if they offered you ~$6800 for them?
+3	1522929293	18	Tax free?
+4	1522936531	1	FDR imposed a 98% cap gains tax on profits from the gold confiscation.
+5	1522937381	6	Do you have a source on that? Very intersting if that's accurate. I couldn't find it with a few Google searches.
+3	1522935806	6	If their use as currency was then banned?Uh, yeah I guess.
+3	1522928060	4	I mean if it were to save my country's economy I wouldnt really be mad. Can't trade or use bitcoins if the economy is fucked. The price of crypto would be 0 so not much of an use. 
+4	1522930252	11	That's not how this works. That's not how any of this works. 
+5	1522940144	1	You're going to have to explain that further because I don't really understand your statement.Seems to me that he's examining cause and effect determining what the positive and negative benefits of the scenario is which seems to be a rational objective way to analyze the situation.
+6	1522945297	1	1. No one 'knows' what will 'save' an economy. They might have an opinion or theory but they don't know.2. No one has a right to just take things from you. Even if there's a lot of them. If my whole neighborhood decided to come clean out my house it doesn't make them right. It makes them numerous and hard to stop. But it doesn't make them right. 3. If they ban bitcoin, they won't be 'right' and the price won't be 'zero'. At some point bitcoin as a deflationary currency is going to start really breaking Keynesian economics. It's going to get messy. They will ban it. They will try to take it. They will try to use violence on people who use it. Bitcoin was designed to be resistant to these measures. You have the right to sell yours. But don't expect everyone to sell. And don't expect it to work. 
+7	1522946077	1	> No one has a right to just take things from you. Even if there's a lot of them. If my whole neighborhood decided to come clean out my house it doesn't make them right. It does if your house is filled with radioactive material that is leaching and causing sickness and death to everyone else. Or a biohazard, or any other scenario where your actions are harming others liberties.Sorry but I philosophically and fundamentally disagree with you here. Civilization is sometimes making hard decisions about personal Liberty balanced against others rights.The problem is is that over all humans are stupid and we don't elect the right Representatives because we are too susceptible to propaganda. So instead of Representatives that are weighing the balance of Liberty, they are instead weighing the balance of personal profit.There absolutely can be moral decisions enacted by groups against people's personal freedoms. 
+8	1522947246	1	There's a big difference between owning gold (which harms nobody) and irradiating your neighbours with irresponsibly stored material.But even ignoring that, the group still has no right to seize your dangerous property. They have the right to make you keep it somewhere else, or store it safely, but not to just steal it.If you run into me with your car, do I suddenly have the right to seize it from you? After all, it's clearly dangerous property that's actively caused harm to another member of the community
+9	1522949538	1	> There's a big difference between owning gold (which harms nobody) and irradiating your neighbours with irresponsibly stored material.My apologies, but I was generalizing. I did not mean to contextualize my analogy towards gold. In the situation of owning gold, the analogy obviously does not apply. The response was intended to communicate that the government and society has a right to act against individual liberty if that persons liberty has violated others rights to a safe and healthy life.>But even ignoring that, the group still has no right to seize your dangerous property.They do if possession presents a clear and present threat to others.>If you run into me with your car, do I suddenly have the right to seize it from you? After all, it's clearly dangerous property that's actively caused harm to another member of the communityNo, but we have given the right to a government agency (the DMV) to revoke your license, and the power to the judicial system to jail you for life for manslaughter.And in this process it is very likely your car will be impounded, yes.
+6	1522946039	1	Sure - first - note that comment ^ is an old meme, its a tongue-in-cheek comment. But my problem with the reasoning is the following - note that everything I'm writing here is still debated, and someone more versed in economics than I may surely dispute this, but: - The way I interpret the comment, the confiscation of bitcoin and/or gold by the government is justified and citizens should trade stores-of-value for fiat currency when the government demands so, to 'save' the economy. - In doing so, the comment presumes that persisting the gold standard, and attempting to manipulate the money supply through it, is beneficial for the economy, but, many economists argue that the gold standard exacerbated monetary contraction and deflation during the great depression- Moreover, the government itself played a major role in worsening the great depression (i.e. Smoot Hawtley 1932) and the comment gives too much credit to the government's decision making capability during that time.  Simply put, the comment presumes that the Gov knows what to do with stores-of-value better than we do. 
+4	1522942111	1	you sound like the kind of person who would report your jewish neighbors to the gestapo.
+5	1522942686	1	¯\\_(ツ)_/¯
+4	1522928917	-4	^ troll
+3	1522953042	1	Too volatile, imagine $1000 per BTC instead.
+2	1522927898	15	They were compensated by $20/oz which was the official pegged dollar/gold ratio, but shortly after that peg was moved to $35/oz, go figure..
+3	1522931881	18	Which means the govt directly stole wealth by devaluing the money they just paid you for your gold. 
+4	1522935301	2	Which is what happens now when they print money, and they get the added bonus of spending it before it lowers the value overall.
+5	1522936463	4	The inflation rate is 2.2% what are you whining about exactly? 
+2	1522930077	5	That' the trap. If the State ask you for something then this something is very important . If they do that to BTC the first thoughts for me would be that they expect to make from BTC a global currency or smth.
+2	1522926701	9	Because they never got the value of the gold back. Decoupling from the gold standard made it easy to print money not backed by material assets, inflating the currency and robbing people of wealth. 
+2	1522930252	1	The point is the word "required"
+2	1522937396	1	I'd sell them half and secretly hodl half and sell at the top 
+2	1522939261	1	Because the government didn't attain consent. It was theft.
+2	1522941874	1	The issues is the initial coercion. If the government said "hey we're gonna need everything of value that isn't nailed down, but we plan to compensate you 44% of it's value so it's ok" would you take it? 
+1	1522931940	1	That is correct. Not a single person was prosecuted, either. This executive order wasn’t going to square off in a court. It was all bluster. 
+1	1522940249	1	Did everyone hand in their wedding rings and other jewelery?
+2	1522943635	1	I don't believe so. I think there was a legal exception for jewelry.
+1	1522953334	1	Safe deposit boxes were locked until opened in the presence of Federal inspectors who would catalog any gold therein.The only way to not comply was to keep your gold at home, in advance of the order, and hide it. It was no longer usable as currency except on the black market. If you were a jeweler, you could work it into your product, but otherwise you were holding an illicit good with no way to use or sell it.But yea, I imagine there was some non-compliance. Americans disrespect of authority by tradition.
+0	1522919185	26	Very interesting piece of history,  thanks for sharing.
+0	1522919586	43	Wait, my actual birthday is April 5th... How do I know if I'm Satoshi Nakamoto?
+1	1522921697	44	Do you have a private key to a 300.000 BTC wallet?
+2	1522921840	31	...no. all i have are these bitconnect and verge tokens... so i could still be a crypto genius right?
+2	1522941063	1	Is that 300 or 300k?
+3	1522942743	1	yes
+4	1522952899	1	Yes/no
+2	1522946195	1	I thought it was 900k?
+1	1522942821	1	My actual birthday is today too! Happy bitcoin birthday! 
+0	1522917753	47	Wait. It did what. How?
+1	1522926144	75	It was during the great depression and was an attempt to prevent the hoarding of gold, and to stimulate the economy, rather than gold just sitting in someone's bank vault doing nothing.https://en.m.wikipedia.org/wiki/Executive_Order_6102?wprov=sfla1Actually during this period, the currency had to be backed in part by gold. The govt couldn't just print an unlimited number dollars as they do now. So it kind of makes sense they had to do this.
+2	1522931193	18	HODL? 
+3	1522944942	1	First time I'm upvoting the hodl meme.
+3	1522950657	1	They made it illegal to Hodl.  :(
+2	1522926156	9	**Executive Order 6102**Executive Order 6102 is a United States presidential executive order signed on April 5, 1933, by President Franklin D. Roosevelt "forbidding the Hoarding of gold coin, gold bullion, and gold certificates within the continental United States".***^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/Bitcoin/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]^Downvote ^to ^remove ^| ^v0.28
+2	1522934466	1	As well as the gold standard hurting the poor
+2	1522938642	1	might make sense but federal reserve is private
+2	1522940310	1	Were people expected to turn in their wedding rings and other jewelery?
+3	1522941007	1	It wasn't that strictly enforced, it was more like a buyback program with a stop of all future sales
+1	1522920622	17	Land of the free. As long as you do what you're told that is
+2	1522931495	16	Nah, America is the land of the free, where you can do anything you want, provided you can pay for it. 
+3	1522933519	3	> provided you can pay for it.Soon.  Oh, BTC below 7k?  Later.
+4	1522933855	3	I mean in general. You can bribe your way out of everything. 
+5	1522938174	1	Oh I know.  I was joking about myself having enough money to do that.  Maybe my phrasing was poor.
+3	1522940259	1	The two-tier justice system is alive and well.
+4	1522950385	1	America really is land of the free though!I mean before this free land, only people like church officials could get out of punishment without issue. Now your everyday multi-millionaire can commit massive fraud or even kill people and get off scott-free! Just as the lord intended! God bless America! 
+0	1522922271	10	So why did they urge the citizens to hand in their gold? 
+1	1522938374	22	They were trying to save the gold standard.On the gold standard you can only print more dollars if you have gold to back it up. In the 1930s gold hoarding was so popular that the Fed could no longer get enough gold to increase the supply of dollars.As a result people started hoarding dollars as well, and the supply of dollars went down by 30% in a few years as everyone pulled money out of banks, which started putting banks out of business which then led even more people to pull money out of banks out of fear the bank that had their money would go bankrupt.This caused very high levels of deflation, so high that bartering started becoming popular again because it was so profitable to hoard dollars that no one wanted to spend them unless they absolutely had to.Levels of investment and economic production plummeted because everyone wanted to hoard currency rather than use it to produce goods and services.In attempt to combat this, the government started seizing gold so they could start replacing the money that  had been withdrawn from supply during the Great Depression.
+1	1522938149	4	It was the depression, and people were hoarding gold. The government wanted to create programs like public works projects to give people incomes, but because the government required a percentage of money be back by gold owned by the government, they couldn’t increase the money supply to pay these people. Basically it was a way for the government to create jobs to decrease unemployment and increase demand and disposable income. 
+2	1522953512	1	As is the way of government, it took money from the people, wasted a bunch of it, then "created jobs" that don't actually produce any wealth or value with the rest.The government doesn't give you anything, it only takes and if you're lucky, hands you back a portion of what it took.   I see this mentality every year when tax returns come back.  People act like its christmas and uncle sam is santa claus because they got some of their own money back.It's cultural stockholm syndrome.
+1	1522923161	0	Because US wanted to push the gold standard for the world, and having as much gold as possible gave them an advantage in this.
+0	1522926496	15	Foreigners also had gold confiscated, and were forced to accept paper money for their gold. The Uebersee Finanz-Korporation, a Swiss banking company, had $1,250,000 in gold coins for business use. The Uebersee Finanz-Korporation entrusted the gold to an American firm for safekeeping, and the Swiss were shocked to find that their gold was confiscated.From https://en.m.wikipedia.org/wiki/Executive_Order_6102?wprov=sfla1
+1	1522926504	1	**Executive Order 6102**Executive Order 6102 is a United States presidential executive order signed on April 5, 1933, by President Franklin D. Roosevelt "forbidding the Hoarding of gold coin, gold bullion, and gold certificates within the continental United States".***^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/Bitcoin/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]^Downvote ^to ^remove ^| ^v0.28
+0	1522917885	58	**This might've been the world's first ICO.** Bottom right says Upon receipt of gold, they'll give them equivalent in federal reserve fiat dollars.
+1	1522920911	22	So which private investor group got the 40% discount to dump on the plebs?
+2	1522928556	11	Read "The Creature From Jekyll Island". It'll be educational for you on this subject. The history of the Federal Reserve is criminal. Most people think it's a government entity. It's not. 
+3	1522946126	1	> The Creature From Jekyll Islandhttps://en.wikipedia.org/wiki/G._Edward_Griffin In his book World Without Cancer, he argues that cancer is a nutritional deficiency that can be cured by consuming amygdalin, a view regarded as quackery by the medical community.[1][3][4] He is an HIV/AIDS denialist, supports the 9/11 Truth movement, and supports a specific John F. Kennedy assassination conspiracy theory.[1] Also, he believes the actual geographical location of the biblical Noah's Ark is located at the Durupınar site in Turkey.[5]
+4	1522949125	1	So he'll fit in just fine with some of the people in /r/bitcoin
+3	1522928912	2	Chwers
+2	1522927790	1	Same guys getting Hedera Hashgraph.
+1	1522923457	3	That analogy is retarded
+1	1522948791	1	Not fiat if there's a gold standard.
+0	1522934023	7	I know it’s not the point of OP, but a lot of people are talking about how currency should be backed by gold... which is hilarious since that is the exact opposite stance that BTC fans should have. If anything, BTC should be a great example of why a backing isn’t necessary. Anyone who believes in using the gold standard should watch this documentary:https://m.youtube.com/watch?v=LMTvf6g_2tY
+1	1522934248	8	Backing currency with rare elements is good to reduce inflation since it creates scarcity.BTC avoids this through artificial scarcity
+2	1522938207	2	Btc does what the treasury/fed should do, but you need to look into the great crime of ‘73. Deflation and commodity based currency ensures that the economy will never grow past the artificial limitation of the commodity. And it ALWAYS ensures that the rich get richer.
+1	1522940671	1	Holy crap. It's the same guy who did _The Money Masters_ in 1996. More to watch. Looks like it's two films, also. 
+0	1522918037	37	The US is scary man I wish there was something to protect us from the government doing things like this 
+1	1522918523	31	There is, it's called Bitcoin. I'm being half.sarcastic 
+2	1522919054	8	Yeah with our money but what about everything else? Our other freedoms?
+3	1522920805	21	The four boxes of freedom:* Soap* Ballot* Jury* AmmoUse them in that order too, if you want to be ethical.
+4	1522922825	0	Soap?I understand the other three...but I really don't get the first.
+5	1522923257	17	A soap box is something you stand on when you hold a public speech and want people to take notice. Obviously it doesn't have to be a box of soap, but I guess it's the most iconic type of box for this purpose. 
+6	1522932166	5	> soap boxI'm guessing kind of like the ubiquitous plastic milk crates of our day.
+7	1522939493	1	But it says right on the side, it's unlawful to use for any purpose beyond carrying milk!
+7	1522934010	1	The Twitter feed in the digital age.
+4	1522943435	1	It's now Soap BitcoinBallot JuryAmmo
+3	1522920271	22	The 2nd amendment
+4	1522923488	7	This is what I was hinting at but I didn’t want to get downvoted. 
+5	1522924990	14	Guns!there, I said the word for you. I will take the downvotes. 
+6	1522930630	6	I’m sure a few assault rifles will protect us from drones and tanks. /s
+7	1522940300	1	At first glance is seems that the government is an insurmountable foe, and the odds are overwhelmingly against a revolutionary force. Tanks, missiles, chemical weapons, bombs, nukes and all that.This is just ignorance.Modern warfare (termed Fourth Generation warfare) is characterized by low intensity guerrilla conflict with a focus on insurgency coupled with strategic strikes against high value targets and control of public media (hearts and minds).Keeping that in mind let's take a look at the realities of a modern US revolution.Best estimates put the sum of our armed forces at about 2.1 million people. That's everybody from the high speed low drag operators down to the janitors and cooks. Reserves included.Federal and State law enforcement totals about 800,000 sworn LEOs. We'll be generous and say a combined total of 3 million give or take 100,000 (remember some of those people are cross over and are counted in both categories).So assuming that every single one of them would side with the government (which is a laughable assumption in the first place) that is a fighting force of about 3 million.In 2012 Wisconsin issues over 600,000 hunting permits. Now some of those will cross with the "government" side, but let's just say half are neither LEO or military. That's 300,000 people who have experience in precision shooting, stalking, tracking, and use of camouflage. From one state.It's estimated that there are about 100 million gun owners in the US (I'd say the number is actually much higher, but we'll use that as the number of non LEO/military gun owners as it makes things simple for the purposes of this discussion.During the American Revolution (the one against England) it is well accepted that approximately 55% of people supported the revolutionaries, while ~25% provided material support in some way (food, shelter), about 10% provided supplies (weapons, etc.) and intel, and about 3% of the colonists did the actual fighting.If we can assume those numbers would be consistent today, the revolutionaries could field a fighting force of about 3 million people. So just at basic clean black and white assumptions we have an equal number of combatants.Now anyone that actually knows people in the military and law enforcement knows that not all of them are going to side with the government in a situation like this. In my opinion, if ordered to take up arms against their own people, better than half of them will refuse or desert. Many of them taking their equipment, training, and experience directly to the revolutionaries, including tanks, APCs, machine guns, rockets, and so on.Now we come to missiles, bombs, bio/chem/nukes.No one is going to use them. First, any commander ordering their use on American soil is more likely to be shot by their own men than to have that order carried out. That's just the facts. But for arguments sake let's say that someone was able to order a strike with a WMD on the revolutionary forces.Can you imagine how that would swell the ranks of the other side? Pretty much anyone on the fence at all (and probably a large portion of their supporters) would instantly align with the revolutionaries.So WMDs are pretty much right off the table.We're left with about even man to man odds in these assumptions and all of the assumption have erred in favor of the government here.That's 3 million revolutionaries hiding in a population of 300 million, no uniforms, a disjointed command infrastructure with cells operating independently and any given person apt to take independent yet copacetic action with the revolution at any time.Against a force that almost exclusively wears uniforms and operates on rules of engagement that preclude mass bystander casualties (because it'll be a PR war as much as anything).Oh, and that tricky Fourth Generation warfare thing.It doesn't need to be a decided victory by man to man body count.You could change the face of the country overnight by killing or capturing just 111 people.100 senators9 Supreme Court justices1 Vice President1 President3 million against 111. It's bad odds. Pretty much an unwinnable nightmare scenario.That aside it won't go down overnight. Armed conflict in this country? At least six months of hell on earth. Can you imagine what this country would look like after a couple of months of cops refusing to respond to any calls? That's exactly what will happen once a few dozen or hundred of them get wiped out in fake 911 call ambushes.It'll be chaos. Gangs won't be sitting still, somebody is gonna figure out that say "Warlord of Detroit" is a hell of a title upgrade from Gang Leader. Not to mention the Mexican drug cartels (who are here and operating throughout this entire country. Do not let the media blackout on it fool you for a second).You think your average person who decides to sit the main fight out is gonna just sit there while it happens? What do you think day to day life is gonna look like in this country for your average person?Revolution would pretty much turn this country into a third world shithole overnight.Now I'm just one guy. Who has put just a tiny bit of thought into how it might actually go down.I'm just sayin, it's scary how easily it could happen.The only question is what would be a big enough spark to ignite that uncontrollable blaze?I dunno. I'm pretty sure repeal or destruction of the Second Amendment would do it.
+7	1522946060	1	https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War
+7	1522950526	1	If I learned anything from my deployments to Iraq it's that a rag tag group of mostly poor, uneducated, untrained, outnumbered, outgunned insurgents can defeat the most technologically advanced, best trained, best equipped, most educated military the world has ever seen... with only assault rifles and some homemade explosives. 
+7	1522947834	1	Why is ISIS still around?
+7	1522951702	1	...*looks at never ending war in the middle-east fought by peasants with AKs and coldwar RPGs against the most advanced military powers in the world**reads wikipedia article about the Vietcong*...
+3	1522919086	3	And that's the half that was sarcastic :(
+3	1522933621	3	Money is a tremendous part of the powers over 'everything else'.  Not entirely, but it is a big part of it.  Bitcoin + 2A is a powerful recipe for liberty.
+3	1522920882	2	So what like some means of force in the hands of the individual to counter the force of the state? Or did you mean a set of rules that dictate the limits on what the state is permitted to make laws upon?
+3	1522937751	2	Lets just build a decentralised blockchain government. You know like, protocols = policies. Seems too futuristic but hey science has always surprised us.
+1	1522929075	5	Right, obviously we need a world government to protect us from shitty governments.
+2	1522936971	2	Riiiiiight. And another government to protect us from that shitty one. 
+3	1522951981	1	It's shitty governments all the way down.
+1	1522928637	6	Pity mine fell off my boat. I was drunk. Don't remember what lake.
+1	1522919280	10	The obvious solution is to dissolve all forms of government. Kokesh2020.
+2	1522928009	1	<3
+1	1522946295	1	It's really scary. Even the kids today are  excited to fight to give up their own rights.
+0	1522924256	45	It is interesting that something as harmless as owning gold can be arbitrarily criminalized.  For decades, owning gold bullion was like being a drug addict, with people who did so being perceived by society and themselves as low-life criminals.  While prosecutions were rare, there were examples of sting operations to trap those engaged in the anti-social behavior of hoarding gold.Nothing useful was accomplished by the gold ban.  It was just used to get around some technical issues with expanding the money supply during the depression; issues which would have been better dealt with in other ways, and eventually were.By this example, you could criminalize anything, and that thing then becomes regarded as deviantly bad and worthy of punishment, like growing marijuana in your house.  Or co-habitating with a member of the same sex or different race (as was the case during apartheid).There are still many harmless things that have been criminalized.  Like shipping beer by US mail or across state lines.  Other things may become so, like gun-ownership or cigarettes.Some of these laws are mistakes, and others are deliberate attempts to change people.  Technically, it is illegal to freeze beer (that would be freeze distillation, and distilling beer to whiskey is illegal).  It is illegal to grow poppy seeds you legally buy in the grocery store (that would be manufacturing opium).  The list goes on, sigh...My point is that the law is not a good guide to morality, but people don't much get that.  If you make something illegal, people come to think of it as immoral.
+1	1522939099	9	>	Nothing useful was accomplished by the gold ban. It was just used to get around some technical issues with expanding the money supply during the depressionHooo boy. We’re just gonna gloss over the usefulness as if it’s nothing? You can’t just say “X isn’t useful. It’s only use is Y”. If it has a use, it’s useful.
+1	1522940424	1	> If you make something illegal, people come to think of it as immoral.This is not a universal truth. I'm sure if you think for 2 seconds you'll come up with a few examples.But I agree with mostly everything you say. It is ultimately true that the law is a horrible guide for Morality.
+1	1522944589	1	>It is interesting that something as harmless as smoking pot can be arbitrarily criminalized.  For decades, smoking pot was like being a drug addict, with people who did so being perceived by society and themselves as low-life criminals.  While prosecutions were rare, there were examples of sting operations to trap those engaged in the anti-social behavior of doing pot.>>Nothing useful was accomplished by the pot ban.  It was just used to get around some technical issues with expanding the pharmaceutical supply during the depression; issues which would have been better dealt with in other ways, and eventually were.>>By this example, you could criminalize anything, and that thing then becomes regarded as deviantly bad and worthy of punishment, like hoarding gold in your house.  Or co-habitating with a member of the same sex or different race (as was the case during apartheid).>>There are still many harmless things that have been criminalized.  Like shipping beer by US mail or across state lines.  Other things may become so, like gun-ownership or cigarettes.>>Some of these laws are mistakes, and others are deliberate attempts to change people.  Technically, it is illegal to freeze beer (that would be freeze distillation, and distilling beer to whiskey is illegal).  It is illegal to grow poppy seeds you legally buy in the grocery store (that would be manufacturing opium).  The list goes on, sigh...>>My point is that the law is not a good guide to morality, but people don't much get that.  If you make something illegal, people come to think of it as immoral....This would make a good copypasta.
+1	1522937385	1	Huh, didn't know you can turn beer into whiskey
+2	1522940518	1	What black magic is this?
+3	1522942445	1	/r/distilling
+1	1522938273	0	This can't be upvoted enough. The older I get, the more I realize how much of a 'Sheeple' I am (and every human is).  There's no malicious conspiracy theory going on, it's just the fact that human instinct is so easy to manipulate and society just glosses over huge things that *should* cause massive cognitive dissonance, but we just forget about them instead. A new 'reality' is created with every generation. Whatever the new generation grew up with is the new norm. As a successful wall street bro, I think of myself as above this - but I'm totally fucking not.  Human psychology, especially on a societal level, is such a weird rabbit hole. Trying to look past the veil and think objectively about the world is so difficult. 
+0	1522927792	12	lol "federal"... they fucking stole our gold
+0	1522925020	23	Land of the free
+1	1522940309	1	_whoever told you that is your enemy_
+1	1522932267	-1	What country are you from?
+2	1522932701	2	Does it matter?
+2	1522933267	1	He could be from any other country which doesn’t brag about “being free”, or he could be from one of the 30+ countries with a higher freedom index than the US,
+2	1522934232	1	Does that matter? Well, it is one of those ranked higher in the freedom index, even though publicly denying the holocaust is a crime here...
+1	1522935252	0	Only applies to the one percent. 
+2	1522947516	1	Technically, everyone making over $34k/year is in the top 1% of the world.
+2	1522939074	1	Should i have tagged it with /s ? Thought the contextual situation would make it a dead giveaway…
+3	1522942160	1	There are two kinds of people in this world: 1: Those who can draw inference from context
+4	1522944018	1	And those who aren‘t aware of the context?/s
+0	1522930888	4	i still can't believe this actually happened and really wasn't that long ago. can you imagine this happening again in our time? wonder how many people just hid or burried it.
+0	1522940373	1	I Chose April 5th as my birthday because on that day I was actually born 
+0	1522918115	26	Bitcoin is “never again” to this.
+1	1522919178	38	Except the bit where it’s a public ledger with the paper trail going to your bank account. Confiscating Bitcoin is the easiest thing ever. One guy plays hard and ends up in a penitentiary, everyone else turns in their coins to not make their children fatherless.
+2	1522920030	12	This is valid only if you need to convert. If enough places accept crypto, paper trail os no more.
+3	1522930292	11	There is still a paper trail from any businesses you interact with bitcoin that use your identity or address, which counts for most my spending
+4	1522931405	16	people for some reason think if bitcoin became the world currency that there would be total anonymity, with nobody ever requiring to put down any piece of info.So basically no more buying shit online because there's no name or address to send too, and the chance for being scammed because no chargebacks is high. 
+5	1522949493	1	Yeah bitcoin isn't getting around anything other than bank fees.  I'm all for fucking banks over but unless you all HODL enough BTC to get cars and houses without mortgages and loans then the fiat system, banks, and government aren't going anywhere. You're all still getting taxed and the government can easily find out what you're doing with a little effort.But this is /r/bitcoin so I'm clearly wrong. 
+3	1522920567	11	Exactly this, if BTC was the standard currency, you wouldn't have a Fiat entry with a paper trail, you'd enter into the currency directly with BTC
+4	1522935749	4	Right, but haven’t the train left the station on that one? Seeing as every transaction is stored, you can always go back to look at a time when people converted. 
+5	1522952872	1	That's why there are bitcoin tumblers.Of course they could criminalize putting bitcoin into a tumbler, but they could criminalize anything.  The key is to stay ahead of it so they're always playing catch up.
+3	1522925663	4	As long as you and those companies need to pay taxes, you'll need to convert. 
+2	1522923351	4	Or you could work for Bitcoin and not leave any connection to a bank account whatsoever.
+3	1522939541	1	Sounds like a great idea that is both scalable *and* sustainable. Can’t wait to quit my seven figure job to wash dishes with illegal immigrants for Bitcoin. 
+2	1522932185	4	Don't worry bruh, I'll still be free so your wife's children won't be fatherless.
+2	1522953219	1	No not really. You could transfer the BTC to a new wallet and then tumble it. 
+2	1522923521	-1	I imagine there are at least a few people out there in the world like me. I love fighting the fucking government.
+3	1522929757	5	...lol
+2	1522940469	1	> Confiscating Bitcoin is the easiest thing ever.That bitcoin that I bought from coinbase?  I transferred it to a seed phrase on a piece of paper that I lost.  It was in a book I had with me in a restaurant that someone took when I went to the bathroom.  Honest, officer.You don't believe me?  Go ahead and search my house and hard drives and phone for the seed phrase or the private key.Bitcoin is can be the easiest thing ever for the government to confiscate, or the hardest, depending on how you use it.
+3	1522942474	1	A judge would break you under a minute. No contest. 
+4	1522948379	1	What happens to people who are truthful about their losses? Judge breaks them too?
+1	1522919839	0	I don't see what prevents your government from issuing the same kind of order for bitcoins. Some people would comply and some would not. Like with the gold. 
+2	1522933718	3	If that happened today I'd keep a close eye on what happens to the price of Monero.
+3	1522949655	1	I'd be very rich.  So I hope that happens! Except no one would accept my Monero now either so I'd still be broke.
+0	1522925361	8	Execute order 66
+0	1522932938	3	Why would people turn in their gold? It's easily hidden. I would never give the government my gold!
+1	1522933863	1	There were plenty of people that felt as you do now, and did what you would have done then.  My grandpa used to bury all kinds of shit in his yard.
+2	1522938621	3	Just realizing.. that's probably why metal detectors were so popular in the 1970s-1990's.Literally the entire nation was burying gold for over 40 years.
+2	1522947522	1	Has anyone gone over the yard with a metal detector?
+3	1522948006	1	ha, probably should have!  Property is long sold now.  He said he got everything of value out, but who knows?  
+4	1522948338	1	Sneak in at night?
+1	1522938067	1	You would if it'd be difficult and/or illegal to get value from it in the foreseeable future. Those shiny fun bucks don't look so good when they must be redeemed in another country and the proceeds smuggled back into the country.
+2	1522947683	1	It's true, you'd have no money from it, but since they raised the value after the first buy back, some might hold out for a higher price.
+1	1522941045	1	Metal detectors.  Plus most gold people bought would have left a paper trail.  And friends and family could turn you in.The government only had to prosecute a handful of people and businesses to get the rest to comply.
+2	1522945795	1	Exactly why there is no gun registration. Never again. 
+2	1522947602	1	I think it would be more like downloading music. Some would comply after prosecution, but the majority would still hide it.
+0	1522938242	2	His birthday is 1975, when the gold was relagalized for the citzens of US.He doesn't speak japanese: **Sa**msung, **Toshi**ba, **Naka**yama, **Moto**rola are clearly pronouncations used by west **The creator of BTC probably is british:** He refered in the genesis block to this article:https://www.reddit.com/r/Bitcoin/comments/26zf5d/the_times_132009_chancellor_on_brink_of_second/I believe the bitcoins was born as explained here:https://www.reddit.com/r/Bitcoin/comments/26zf5d/the_times_132009_chancellor_on_brink_of_second/chw08vb/
+0	1522923301	7	As far as I know, there's no record for forcible confiscation. This is the threat.  They never acted on it.  That doesn't mean it's insignificant.The effect of this threat was that metal markets went underground, cut off from institutional money.Someone please correct me of I'm wrong.
+0	1522933524	2	Satoshi Nakamoto has pretty obvious gematria and story like link to Euclid "ofAlexandria" and Jesus Christ (Septenary Cipher); none of them actually exist but were a team of writers/developers; pure fictional (Jesus is science fiction really).This article was in October 2017.... same thing in it and notice the numbers called out.  the exact prices that safe limit orders to sell (19600) and buy (5900) should of been placed at.http://time.com/money/5002378/bitcoin-creator-nakamoto-billionaire/on the bight side, the last number not to be met yet is 980,000look at the logarithmic graph for bitcoin's price... within 10 years it'll hit 980,000 and have another major planned pull back.... 5 years likely 100,000 but not necessarily supported by that article.
+0	1522934141	2	Executive order 66
+0	1522934821	2	How the fuck was this not challenged at the supreme court? This is a massive overreach to just claim something incredibly valuable to be made illegal.
+1	1522946440	1	>How the fuck was this not challenged at the supreme court? Because people were compensated. 
+2	1522947877	1	Shhh, youre breaking the narrative
+0	1522945145	1	Just an example of how in hard times, rich people will Rob the shit out of the poor to get what they want.Also, any other time.
+0	1522947035	1	The President ordered it, not the Federal Reserve.The "Fed" make a better boogieman for rubes, though.
+0	1522924537	3	ZEITGEIST.
+0	1522919697	4	Land of freedom.
+0	1522919864	3	this is good for chavezcoin
+0	1522929000	4	What a scary executive order. Please note what followed was the second world war. Hurray for fiat money and printing presses! Now we can fuel war by printing "money" out of thin air!By the way if you decided to keep your gold how would you sell it a few laters if you needed cash? Would they not wonder where you got it from?
+0	1522927643	2	I don't understand why anyone likes the government
+1	1522930232	1	Wake up. Government is necessary. 
+2	1522934528	3	At extremely local levels only.What would you do tomorrow if the federal gov ended today?The exact same things you're doing today, no change, at all, but you'd suddenly get to keep 25% of your income again.What would you do if your county gov ended?There'd be panic, people working together to fix what's wrong. You know.... a reformed government.
+3	1522935918	3	You state this like it's a fact. Do you have any historical evidence, however, to back this claim up? When I think of historical cases where the government was localized I can only think of the example of city states, which were constantly at war and infrequently paragons of citizen's rights, or, perhaps, feudal states which really sucked if you were not part of the nobility.Are you just making a theoretical claim? 
+4	1522950224	1	A few years ago, and every other case of, when the federal government shut down, the days that it was shut down, nothing changed. Not in anyone's local, day to day, lives anyway. (this excludes the impact on federal employees and contractors day jobs, but that goes without saying.)
+3	1522938830	2	It's Game Theory at the end of the day.  We don't need a federal government until some *other* country forms a federal government.  Suddenly, our disparate 50-states can't build an ICMB or fund a space-race.  They need to form a federal government. It's a sad result of the fact that "some other group of organized local governments" is competing against (read: wants to destroy)  "our group of local governments". I agree with your sentiment that the Federal government should not have as much power as it currently does.  Local states should compete against each other to keep America efficient.  As the Federal government grows, it squanders efficiency.
+2	1522931088	4	Wake up. No it isn't. 
+3	1522932808	2	Gotta have some kind of body to provide social welfare and justice enforcement.  If you have it done by a corporation then it's still a de facto government.
+4	1522933654	3	I guess you also think there's no difference between voluntary transactions and forceful confiscation. 
+5	1522933755	1	While there is, it's irrelevant to my comment.
+4	1522942348	1	Why do you need a slave master? Reasonable people can handle justice without a master.
+1	1522948101	1	Because it protects their property. 
+2	1522951529	1	No it doesn't. It violates their property. 
+3	1522951675	1	If someone breaks into your house who do you go to?
+4	1522951721	1	 My gun in my night stand. Thanks for disproving your own argument. 
+5	1522953202	1	And if they run off before you shoot them or it happened while youre gone what then?
+0	1522929937	2	I am wondering how many people followed this order as this should not be an easy task.
+0	1522931778	2	that sound like socialism, but thank good is america so is good.
+1	1522935294	2	Try again?
+1	1522948067	1	Socialism isnt the government doing stuff.  
+0	1522927615	1	🖒
+0	1522933714	1	I want to know more about this order and what it actually meant to history. Anybody hiding their power level on this one?
+0	1522933811	1	Satoshi is AI
+0	1522935218	1	Today is Akira Toriyama's birthday as well. hmmm I wonder...
+0	1522936011	1	lmao
+0	1522936124	1	This is just the beginning.
+0	1522936135	1	people choose to forget gold ownership was outlawed for many years
+0	1522936722	1	Satoshi is them
+0	1522936726	1	I bet satoshi would like to reveal who he is. But since this is all working just like he wants it to, he will take his true identity to the grave. Apparently the NSA has figured out who he is. But I think that’s crap. Apparently the NSA is satoshi. I think that’s also crap. Too much politics for them to pull that off. They would have to murder way too many people for that to be true and keep it under wraps. Thousands of people would have to dissapear. And apparently I should get out of my pajamas and stop with this stuff. But there’s really nothing forcing me to do so. 
+0	1522936965	1	But maybe because it’s First Contact Day
+0	1522937907	1	This is similar to what Modi did in India when he demonetized the 500 and 1000 rupee notes. 
+0	1522938900	1	Love it! Didn't know that. Makes me appreciate Satoshi even more :) Thanks for sharing!
+0	1522939134	1	AI wonder how compliant everyone was... and what lengths the fed went to making sure that everyone brought theirs in. Tbh I think only a schmuck wild have complied.
+0	1522939677	1	Today is my birthday too!  I had no idea... am I Satoshi and not know it?
+0	1522940236	1	Legend
+0	1522940755	1	Any cool history on this? I really enjoy understanding what happened and how people dealt with this event.
+0	1522941044	1	The land of the free. What a joke.
+0	1522947394	1	Ay we share the same birthday
+0	1522948727	1	These days people give their bullion away for bitcoin LOL
+0	1522948825	1	Today is also my birthday! He/she is exactly 24 years older than me!!
+0	1522949641	1	This is pretty clear proof of the adage that government doesn't exist to eliminate crime but to monopolize it.  That was theft and those responsible were scoundrels.
+0	1522951116	1	Really interesting, Mr. Nakamoto was a symbolic person.
+0	1522923356	1	Great reminder! I won't be surprised if the same happens with Bitcoin... 
+0	1522925819	-1	jesus, you guys are acting like this is a religion
+1	1522942736	1	Economics and Politics are Religion.Your opinions on economics and politics are the most significant aspect of religion which will dominate your life: in turn your beliefs in those topics shape society.If you believe that bitcoin can take over as the money of the world, that belief actually helps make itself a reality.
+0	1522914795	1	Happy BD! The is going down...
+0	1522915850	1	Alien alert with time travel
+0	1522918535	1	All the signs have always been there
+0	1522919164	1	Historical 
+0	1522919240	1	Is this a good sign or bad?
+0	1522923568	1	It makes sense the random nature of bitcoin value chooses to moon on this day
+0	1522938817	1	Federal reserve in 1933 : "Oy vey gib me your gold goyims"Woke nibbas : "Fight the banksters, buy the satoshis" 
+0	1522939179	1	Can't believe people are still moaning about this.
+0	1522940421	1	As insane as it is to imagine something like this happening now...it kinda worked.  The goal was to break the act and psychology of hoarding money, and in that it was successful.

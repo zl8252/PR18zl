@@ -1,0 +1,14 @@
+File created at: 1522953698
+Subreddit: BitcoinMarkets
+Submission title: Sentiment analytics trading signal hit the bitcoin low point almost to the hour resulting in 15% return on btc.
+Submission created utc: 1522867920
+Submission score: 4
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522881481	3	Post the text here plz
+0	1522914894	2	Basically you can monitor sentiment on social media for your preferred cryptocurrency and make decisions to enter/exit position based on the changes  + much more
+0	1522872928	1	Which analytics do you use?
+1	1522905568	2	We are using machine learning to calculate sentiment of millions of social media posts and aggregate sentiment data on hourly and daily basis for individual cryptocurrencies. 
+2	1522913257	1	Ok, I know that it difficult to understand for me, but one question- It can help me If I beginner In trading and Investing in Cryptocurrency right now?
+0	1522913430	1	Another question Cindicator or Cryptics and your project It is the same? 
+1	1522914743	1	No, i take content for my post from independent analytics platform 

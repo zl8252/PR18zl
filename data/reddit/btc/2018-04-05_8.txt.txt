@@ -1,0 +1,34 @@
+File created at: 1522953650
+Subreddit: btc
+Submission title: ɃitPico: ”The #bitcoin #LightningNetwork DoS attack/test rumors are true. We did create a network stress tool for LN. The network is operating out of 8 countries running 22 attack vectors in-parallel from ~384 endpoints.”
+Submission created utc: 1522890884
+Submission score: 116
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522908317	18	Who are BitPico and what's their aim?Edit: They are working on LN and are [trying to ensure it's resilient](https://www.coindesk.com/bitcoins-lightning-network-attacked-good/)> As people with investment into bitcoin, we want to make sure layer-two solutions do not get [zero-day'ed] out of the gate; trying as many attacks as possible is the only way to make sure
+0	1522891834	21	Boy.... This post gets downvoted... instantly... I wonder why 😏
+1	1522895986	24	Probably because no one cares about what may or may not happen to Scamson Mow's hat store if it ever exists.
+2	1522908146	11	Proof of Hat
+2	1522914055	5	Don't be mean. Selling hats is the only commercial success of Blockstream.
+2	1522924283	-8	Probably because bcashers no longer have skin in bitcoin game. Every time they hear the word LN, they cringe hard. 
+3	1522938743	3	I personally want LN to be implemented in Bitcoin Cash eventually too, if the BTC crowd wants to work out the bugs first, I’m all for it.
+4	1522946711	-2	You do realize that BCH would need segwit too then right? BCH would be a copy of BTC with segwit and LN, just with larger blocks and bigger blockchain. 
+5	1522946717	4	Redditor /u/BeardedCake has low karma in this subreddit.
+6	1522947877	2	Good bot 
+7	1522947880	1	Thank you, Rawlsdeep, for voting on trolldetectr.  This bot wants to find the best and worst bots on Reddit. [You can view results here](https://goodbot-badbot.herokuapp.com/).   ***  ^^Even ^^if ^^I ^^don't ^^reply ^^to ^^your ^^comment, ^^I'm ^^still ^^listening ^^for ^^votes. ^^Check ^^the ^^webpage ^^to ^^see ^^if ^^your ^^vote ^^registered!
+5	1522947776	3	You do realize that it would not need Segwit right? A solution like Tom Zander’s flexible transactions would work just fine.It could be implemented in a much less complex way than the soft fork Segwit was.
+5	1522948819	2	Wrong just needed malleability fix, and we got those elsewhere, fuck segwit.
+5	1522952345	1	Idiot, you probably don't even know how LN works by making such dumb statement. Just like your friend Samson Mow
+3	1522924309	2	Redditor /u/yogibreakdance has low karma in this subreddit.
+4	1522925791	2	Good bot!
+1	1522927083	5	Surely not by LN fans like me who welcome any attack on the network / protocol.
+0	1522922068	9	Why is the LN stress tested in mainnet with 1000 nodes and not in testnet with 100000 nodes?
+1	1522938404	3	Because testnet isn't mainnet?Some things make sense, some kinds of stress testing do not crossover.
+1	1522933779	2	Because there's real money at stake, I'd assume? That's the only way to ensure incentives work.
+2	1522934060	2	Right... and why not test it *both* in mainnet with 1000 nodes and in testnet with 100000 nodes?
+3	1522934319	-2	Probably because it requires resources to do this and why waste them on testnet which isn't realistic?
+4	1522935754	0	Right why would we waste valuable testing resources testing things on *testnet*??
+5	1522935843	1	Living up to your username.
+6	1522940456	1	Good point! It's a clueless twat who agrees that testing things on testnet is a waste of resources. So what's **your** excuse?
+7	1522946264	0	You can test your software on testnet and see if it functions before deploying on the real network. But as others pointed out, in this case testing the resilience of the network does not make much sense on testnet. It is safe to asume BitPico tested their DOS software on testnet to see if it functioned properly before scaling up on the real network.
+1	1522951006	1	Better question would be why is LN on main net with all the issues it has.

@@ -1,0 +1,45 @@
+File created at: 1522953626
+Subreddit: Bitcoin
+Submission title: Is it Acceptable for Altcoins to use "Bitcoin" in their names? - Coinjournal
+Submission created utc: 1522866267
+Submission score: 195
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522870762	36	Makes it easier to recognize as a scam coin, just think of whether or not you would buy koka-kolla, or ship through FedMex.
+1	1522893260	4	FedEx's latino contingent.
+1	1522907828	1	If FedMex delivered my package faster with less fees...just kidding!
+1	1522890859	1	Well said.
+1	1522915221	0	Like Pepsi-Cola?
+0	1522867315	32	It is fine - unless they make their logo almost identical, and more disgracefully, start pretending to be BTC as Ver and his team have attempted.  (But failed to do.)That was just deliberate and cynical market confusion, and should be condemned as such.
+1	1522867549	24	Agreed, Bitcoin is not owned by anyone. But being purposefully confusing in order to make money from ignorance is basically scamming. 
+2	1522887459	10	I’m fine with Bitcoin Gold, 2x, Diamond, etc...If they bought Bitcoin.com, org, Slack, Twitter, Impersonated Persons and brand - less cool.
+1	1522875821	4	Even then, it seems the market is going to punish them accordingly.
+1	1522926808	2	Its ok to say "Bitcoin Cash is closer to the original concept of Bitcoin". I mean that's up for debate, but it's an ethically sound claim to make if that is what you believe. It is not ok to say "Bitcoin Cash is the real Bitcoin that you see talked about on the news, I'm selling some for only $1500!"    One is an ideological debate. The other is straight up trying to scam people.
+1	1522867658	2	> That was just deliberate and cynical market confusion, and should be condemned as such.What do you think putting "Bitcoin" in the name is an attempt to do?
+2	1522868022	10	Here's a history of Ver's team's attempts at brand stealing and confusion using Bcash as I see it:* Launched as Bitcoin Cash* Reasonably, and even affectionately, became known as Bcash* Ver throws a wobbly - he *must* retain Bitcoin in the name for his stealing strategy to work.* Ver takes it a step further, attempts to rebrand Bcash as Bitcoin* That was a step too far: the cognitive dissonance is so hard to reconcile that even Bcash supporters get confused* Ver changes tack, and attempts to rename Bitcoin itself.  Referring to it, incorrectly, as Bitcoin Core.We appear to be at the final stage.  But the lying project is dying, and Bcash is struggling to reach 10% of BTC's value.Game over.
+3	1522909773	2	Goodbye BCASH :)
+3	1522872419	-2	Wasn’t it forked by a developer? I’m confused about why ver’s name is always attached to it, other than him being a supporter.
+4	1522879600	5	He spearheaded the entire project
+5	1522888418	-1	Ok thanks. Do you have a source?
+6	1522899560	8	Ask him, he will tell you, he's said it on multiple occasions. There's no shame in the fact that he wanted bigger blocks and organized the effort. What he did to deceive users later is why most think he's a shit head
+6	1522892510	0	Nope.
+7	1522899484	4	Ask him directly, he doesn't shy away from the fact. No reason to.
+8	1522920490	-1	Nice troll.Paging /u/memorydealers
+9	1522942497	1	okay bcash shill
+0	1522930828	3	If you find it unacceptable then you have a problem because the only other choice is to be emotionally hurt. Accept the things you have no power over.
+0	1522877265	4	As long as they understand they will be called shitcoin, then yes.
+0	1522928403	2	No
+0	1522890935	3	It's fine for multiple countries to use the term "dollar" in the name of that country's fiat. I think this concept translates.
+1	1522920489	2	Not even close.  It would be like the Bahamas government coming out and saying, “the US dollar as it is now is not what the founding fathers would have wanted.”  Then, the Bahamanian government prints US dollars in exactly the same way, with the presidents faces tilted counterclockwise 15%.  Those “Bahamas Bucks” are then pushed to the unwitting public as being somehow better than the original US dollar.BCH is, and will always be, a failed coup attempt on Bitcoin.  
+2	1522943348	1	Lol this is a great analogy.
+0	1522907657	2	Math doesn't care if you fork bitcoin and call it "bitcoin"Math just ignores you as it would if you wrote E=MC^2 and said you're Einstein.Being first matters. Except in YouTube comment section.
+0	1522913997	1	Acceptable? Sure.A good idea? Not for anyone except someone looking to trick noobs into buying the wrong coin.
+0	1522916993	1	I would say it just causes confusion to the general public who have not so much knowledge of how different cryptocurrency work. A lot may think its a sub name of the original. And we see the tension between BTC & BCH The point of a hardfork is to kill off the original chain. But there are also strange names like CREDITS, thinking thats it’s a bank loans, however it’s a blockchain company and cryptocurrency, and there are a lot of same situations, soon will confused in that.
+0	1522947316	1	Is "Bitcoin" a copywritten term backed by a legal system of many countries? What's stopping people from calling their shitcoin Bitcoin?
+0	1522879625	1	People can do whatever the fuck they want. Just like I can call bcash, bcash.
+1	1522915665	0	I am afraid that you spelled **btrash** wrong.
+1	1522919503	0	>If Bitcash supporters can refer to Bitcoin as “Bitcoin Core”, there’s no reason Bitcoin Cash cannot be referred to as Bitcash or Bcash.somehow this goes over their heads, and get upset for calling it bcash. *"they're attacking us"*
+0	1522903382	-1	It's ok as they use "Bitcoin" only as part of their altcoin name and don't claim as true Bitcoin.
+0	1522913811	0	NAB - Not A Bitcoin - aceptable fo me
+0	1522866616	-9	It’s ok 
+0	1522921146	-1	Disclaimer: I am a core developer of Bitcoin Green. We are 100% sure that we can solve global warming through a block chain based solution. I don't see why not, if it's for the greater good of the planet. 

@@ -1,0 +1,18 @@
+File created at: 1522953630
+Subreddit: Bitcoin
+Submission title: First Bitcoin Lightning Network Android App Hits Google Playstore
+Submission created utc: 1522926284
+Submission score: 177
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522929744	12	Its still beta. So lower your expectations otherwise you will be disapointed. Other than that, this is extremely exciting.
+1	1522949553	1	Thanks for the advice. Know of any particular sticking points?
+2	1522949897	1	[deleted]
+3	1522949954	1	No worries. I’m just a noob getting a feel for the space. 
+2	1522952832	1	The main problem I had was I opened my first lightning channel to the ACINQ node (because there's a button there that makes it very easy) and kept getting errors when I tried to make payments. I didn't look too much into the cause of the errors (and didn't save the error msgs) but I think the problem was lots of people using Eclair are connecting to that node and sending money but can't receive it which is causing the channels to be exhausted. For now, I would recommend opening a channel to [one of these nodes](http://lightningnetworkstores.com/) since they're all probably pretty liquid. This won't be an issue in a few weeks once the network grows more. Aside from that, I thought everything else was slick. Bitrefill posted [easy-to-follow instructions](https://medium.com/@bitrefill/mobile-instructions-lightning-on-bitrefill-8f21bbb0cc3) on how to make your first payment. 
+0	1522940668	1	Please LN come out and break this bear market!
+1	1522942347	1	It isn't going to have such a direct effect. If anything it could drive the price down by making bitcoin easier to spend again. At least it should mean that if the bull market does start to kick back in, there should be less flowing into altcoins falsely claiming to fix scalability.
+2	1522942683	1	One of the negative effects of the bitcoin tech was the fact that it could not support the load back in december and the fees climbed up to 100$/trans. At least we won't be having that sort of a congestion for some time.
+0	1522942537	1	Made several LN transactions with the new app this morning - works great! MUCH easier than working with the command line.
+0	1522952139	1	Node.acinq.co is the node we have to use? What is the min funding?
+0	1522945426	1	What about an.. iOS version? >:)

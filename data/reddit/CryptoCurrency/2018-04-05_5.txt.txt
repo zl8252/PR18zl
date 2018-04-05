@@ -1,0 +1,121 @@
+File created at: 1522953679
+Subreddit: CryptoCurrency
+Submission title: Verge Is Forced to Fork After Suffering a 51% Attack
+Submission created utc: 1522911609
+Submission score: 289
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522931998	45	How does all of this news NOT crash the price? What the fuck is going on in this market? Holy shit. 
+1	1522933375	24	Good luck selling when it simply doesn't work. You'd have to have it on an exchange.
+2	1522936026	10	Yeah. Seems people forget that many large holders don’t actually keep their coin on exchanges lol. Only small fishies hold all their coins on an exchange. 
+3	1522950982	1	Yesterday I read that some exchanges (it said Binance as example) even stopped the ability to withdraw/trade verge after the exploit was made public ...
+3	1522948275	0	you can thank the absurd withdrawal fees for that!
+1	1522940161	14	Their blockchain doesn't work so people can't move to exchanges lol. 
+1	1522948719	1	https://twitter.com/vergecurrency/status/981578693062610950that's why
+2	1522950394	2	And the top reply is an ETH givaway scammer...
+1	1522943995	-5	because they know what blocks were compromised. Big exchanges have stopped trading, they wont be accepting coins transfered from the compromised blocks. Once fork is complete, hackers will be stuck with millions of worthless coins.
+2	1522946888	2	Where is your source for this?  I'm being totally serious, I have seen or read nothing like this.  AFAIK exchanges are business as usual, trade is happening.
+2	1522947622	1	Lol which fork?
+0	1522913955	209	just an Update I read elsewhere (cant confirm since I am in no way a coder), it seems the fork was fucked up, and they need to fork again. XVG is in meltdown state. And apparently, the hackers have 2 more exploits ready for the new forks since the core code-problem isn't solved. pure gold ppl, grab the popcorn
+1	1522931495	23	Geez that team just got rich.I haven't followed the rabbit hole of their wallet entirely, but I would only assume they're liquidating the coins fairly quickly.
+2	1522943863	-10	you would assume wrong
+1	1522919227	23	Link?
+2	1522930130	86	No, Verge.
+3	1522930370	17	I see what you did there
+3	1522931833	2	Link?
+4	1522940178	5	[Link!](http://thedailies.grimfandango.org/hp/hp071.jpg)
+5	1522941097	1	Mikey likes it
+4	1522939029	-1	No, Verge
+5	1522948229	3	really, so we're just going to believe the parent comment while making stupid memes off of comments of people genuinely asking for a source on the info?
+6	1522950893	3	you can do what you want. I'm gonna meme
+6	1522952671	1	You must be new to crypto.
+1	1522929776	6	Rofl this couldn’t get any better
+1	1522942684	2	ocminer's latest posts in bitcointalk have a good insight on what is happening.https://bitcointalk.org/index.php?action=profile;u=43526;sa=showPostslooking at it with a grain of salt, but seems like the best current source to analyze the attack
+1	1522931877	2	Please link this.
+0	1522928019	77	I wish these shitcoins would just die already.
+1	1522935866	40	People have no idea how far BTC has come.Years of surviving attacks, years of hype and busts, all of this got us to a 7kUSD/BTC.I dont think a flippening is possible any time soon by any coin outside ETH. 
+2	1522937270	16	PoS will be ETH's defining moment, one way or another.
+3	1522937327	6	Woah, you know your stuff.What coins do you own?EDIT: Was serious, most people are tether shitcoiners. Wanted to hear from the only other person that was here before november.
+4	1522948096	3	>  most people are tether shitcoinersyou've got some weird info 
+4	1522938643	4	100% Bitcoin right now, but I occasionally dabble in other cryptocurrencies when it looks too good to pass up.
+5	1522939201	6	Im basically the same, nearly 70% BTC, 20% eth, 10% shitcoin/altcoin.Funny how people who arent day trading and from November have similar buy strategies. 
+6	1522942357	12	I started in late November and have the exact opposite portfolio so can confirm.
+0	1522934111	82	“Due to constant attacks, Verge’s partnership with unnamed global company will no longer happen. Thanks for donating tens of millions of your XVG to us. Byeeeeeeeeee^eeeeeee^^eeeeee “
+1	1522937830	9	FTFY: Thanks for donating tens of millions of your ~~XVG~~ **dollars** to us. They couldn't care less about xvg. 
+2	1522940499	8	75M xvg * $.05 = $3.75M
+1	1522937652	4	LOL what a coincidence 
+1	1522944707	5	LOL, that would be soooo greeeat for crypto
+0	1522911903	88	How is this absolute joke of a "currency" still popular...
+1	1522935131	9	Look at the type of users who invest into XVG.
+2	1522942829	5	To be fair, Vergins is pretty solid branding
+1	1522912014	23	This is dark version of joke currency (DogecoinDark) 
+2	1522912091	64	Regular doge is actually useful for transfers though since it's so cheap. To the point where I'd trust any other Dogecoin fork over Verge. Not to mention Doge's inherent stability (1D = 1D)
+3	1522914737	18	So true my shibe
+4	1522936428	1	TRUST DOGE!!
+5	1522946711	0	Such trust! Much wow!
+3	1522937028	5	Does that mean my D is equal to your D?
+0	1522915792	20	Look at the blockexplorer attack is still ongoing: https://verge-blockchain.info
+1	1522926414	2	Do you mean the same time stamps or the time diferences? 
+2	1522935168	2	Finding handfuls of blocks with the exact same timestamp. Before that, there were blocks with timestamps older than previous blocks.
+0	1522945162	8	Still remember people calling me a monero shill for saying that this is a shitcoin not too long ago.
+0	1522912675	14	They have more exploits available too? Jesus
+1	1522943097	4	It’s what happens when your blockchain is deprecated and used a version of bitcoin from years ago.
+0	1522933425	15	wish there was a way I could short XVG right now .... (mark my words - the price is going down from here ...)
+1	1522953444	1	You underestimate the power of cumulative Idiocracy. So many people ignore the red flags
+1	1522941879	0	Set your stop losses if you're holding. 
+0	1522946685	4	Question, is this the first 51% attack in crypto history?  I can't find another one as of yet.
+1	1522948040	2	surely not the first one
+1	1522951315	2	Feathercoin is the big one that people usually bring up. There is a couple others 
+0	1522944168	3	Well this isn't surprising.
+0	1522946630	3	The purge is coming.
+0	1522947969	3	R.I.P. XVG, what a scamcoin..
+0	1522922849	5	LOL. 
+0	1522946996	2	How much tokens are they asking from investors for them to do the fork to save the coin?
+0	1522935810	2	is anyone surprised? hopefully people learn that shitcoins arent worth the risk, but i doubt it
+0	1522948253	1	So im afraid to ask really, but what is so bad about a fork? I tried to look it up but its just a coin splitting or so, if someone could give me like a noob explanation i would really appreciate it :)
+0	1522949282	1	Forced is a funny way of saying accidentally 
+0	1522951034	1	If you’re putting more weight into a reply to a response by the team then the actual response itself then by all means, use your own criteria. Just be consistent with your criteria though. 
+0	1522951321	1	Even my wife she won't believe in me
+0	1522953665	1	Monero bois trying to slow us down but you can’t we going to the moon with or without you. Lambo baby!! 
+0	1522919194	-15	It wasn't a 51% attack in the first place, the hacker exploited a timestamp bug to get his Scrypt-mined (ASIC friendly) blocks accepted instead of the other (ASIC resistant) blocks.
+1	1522928935	59	It was a 51% attack.  And a clever one, at that.For those unaware, XVG has multiple mining algorithms (5 in total). Normally, when you mine an XVG block, you must mine it using a different algorithm than was used to mine the previous block.  However, someone figured out that if you modify the timestamp of a block a certain way, then you can mine the next block using the same algorithm (Scrypt, in this case).Since the total network hashrate for XVG is normally split between 5 algorithms, the attacker was able to perform a 51% attack with only a small portion of the total network hashrate. Assuming that all algorithms have an equal share of the hashrate, they would only need 10.2% of the total hashpower in the network to perform a 51% attack (this is also assuming that none of the other miners switched to Scrypt mining). XVG is not a heavily mined coin, so this could likely be accomplished with a handful of Scrypt ASICs.**Edit**: I have not verified, but according to /u/GNUSSR (see below), the timestamp manipulation may have also artificially lowered the difficulty and allowed the attackers to mine blocks with much less effort.
+2	1522933189	8	As cool as it is sad. Thanks!
+2	1522934468	7	Are you aware of any other blockchains using the same multi-algorithm principle? Seems like a dangerous thing to do.
+3	1522935507	5	There are a few other currencies which use split mining, but none that I can think of off the top of my head.  And I think split mining is a decent idea in theory, since it may distribute hashpower better than a single algorithm, but I haven't looked into it enough to confirm that is the case.  However, as we have just seen, it can certainly backfire if proper safeguards are not in place.  It may not be dangerous when implemented well, but there could be an inherit flaw with it that I haven't thought of yet.
+4	1522946479	1	I think Digibytes uses split mining as well but I'm unsure of how they implemented it.  I could be wrong.
+5	1522948080	2	Digibytes had same problem and patched it by considering difference between median times for all algos and limiting how much can difficulty can change per block.Verge only computes average time between blocks with same algorithm and directly sets difficulty from ratio of target time to average time.
+6	1522949579	1	Thank you.
+4	1522938475	-1	> it may distribute hashpower better than a single algorithmI'm skeptical of this theory. All hash algorithms eventually get ASICs, and using multiple algos will just raise the barrier to entry because its ASICs will be more complicated. The epoch between the first ASIC and commoditized ASICs has the highest risk of mining centralization.
+5	1522951705	3	Wouldn't it be easy to break that asic though? Just fork and add another algo, or reorder them?Quick edit: btw, I did not down vote you.
+6	1522953161	1	Then the cryptocurrency in question has committed to permanently recurring PoW forks; that's not economically stable. A PoW hard fork requires that every grandma upgrades her wallet or risk losing money. It's not something to be taken lightly.
+2	1522941735	4	Also to be able to mine new blocks so quickly, the attackers used a flaw where the timestamp of blocks is allowed to be up to two hours *before* the last block's timestamp. This allowed them to alternate between crafting blocks with a good timestamp and timestamps two hours in the past and tricking the difficulty adjustment algorithm to drop the difficulty to zero since it sees a two hour timespan between blocks. This meant they were able to craft a chain with blocks every second (instead of two minutes) or so and collect the coin rewards on it (1560 xvg/block) while using a lot less hashpower than 51% of the nethash (probably closer to 10-20%, easily achievable if the attacker has an ASIC farm). 1 block per second * 1560xvg/block * 60sec * 0.06$/xvg  = 7488$ per minuteI don't know how long the attack lasted but it was multiple hoursAnd the verge dev claimed it wasn't a big deal
+3	1522942329	3	Ah, I was wondering if the timestamp manipulation was affecting the difficulty at all, but I didn't have time to look into it.  Thank you for providing the details!And yeah, saying it wasn't a big deal is... uh, insane. **Edit**: And the bugs are just confounding.  A 2 hour max time drift with block timestamps is beyond excessive, and so I have to think (or hope) it was a bug.  But that's nothing compared to allowing a block to have an earlier timestamp than its preceding blocks... how do you miss that???  I get that everyone makes mistakes, but that is a massive one.I have given the Verge team the benefit of the doubt when it comes to all of the FUD surrounding the project, but with mistakes like this, I'm beginning to feel that it is warranted.
+2	1522941648	1	Sick info! What exactly does a 51% attack mean?
+2	1522947095	1	BTW, as a miner myself, I know a little about Verge mining, and it is not easy.  They had it on their roadmap to create their own plateforum with UI, because of the difficulty involved.  Mining with Radeon was extremely difficult and nvidia was buggy.  Just go to the mining sub to see how difficult it is, and the advice literally is to use a different algo or not mine it at all.  So this played a part in the network security or hashrate, being almost non existent compared to other mined coins.
+0	1522939193	-24	All these news only make XVG stronger. The price is not crashing
+1	1522940205	10	I'm just going to assume you're serious, if this was sarcastic please let me know.I upvoted this comment just to make sure others could see, because your comment is a great sign that there still is lots of dumb money left and the Bear market won't end any time soon.Edit: because it feels like you misunderstood me and I might not have been clear, anyone thinking Verge won't take a major hit from such a major attack is in denial. In other words, you are in a state of denial. Take a step back, set aside all your love for and trust in Verge and make an objective decision (like if it were any other coin/asset) on what you're going to do with this information. Lots of dumb money has enterred Verge around December based on false promises, and lots of those people are probably finally going to lose trust.If I understood correctly, lots of people aren't able to transfer their Verge bags to exchanges right now, because of the blockchain not working right now, which in my opinion is a bad sign and will only lead to a delayed crash.
+2	1522942992	-5	Dude I don't trade XVGAnd lmao who is down voting me for telling the truth?
+3	1522943634	5	You aren't telling the truth.  
+4	1522943731	-2	You can check livecoinwatch yourself. I don't see the price crashing yet even with all the bad news? Unless trading is halted on all exchanges
+2	1522940331	-13	Of course I'm serious. Lol I see people down voted me for telling the truth?Yes lots of dumb people trading for sure
+1	1522942582	1	How does it make it stronger? Lmao. Is verge a superior coin that is soon to be top 3 with biggest partnership in crypto history? Best privacy coin with ""wraith"" and genius developer? 
+2	1522942776	-2	All the bad news have had no negative effect on the trading of XVG.The price has not crashed
+3	1522943145	3	That's bc people aren't able to transfer their coins to exchanges to sell them off.   The crash will happen... Either soon or on April 17th when Justin has run off with everyone's money.
+4	1522943190	2	But everything on exchanges can be sold right or is trading halted?
+5	1522943639	1	Did latest news make CTR stronger? It was pumped like crazy because there is always a greater full out there. I know guys who trade xvg and they are  fully aware that verge is shite,  but they dont care, they would trade snake oil or whatever, it is all about profit.  Verge has nothing to offer, has no future other than speculative  pump and dump sell the news bs; it is shite and had been proven to be such many times in not so recent past.
+5	1522945164	1	Some have halted trading it as far as I know, but not all.
+0	1522923412	-59	Shit happens.  They are working on patches, forks etc, this will improve things.  Price hasn't moved over this, but the competition will fire away, can't blame them.  Many cryptos get hit, some die and some become stronger.
+1	1522927425	55	You are in major denial bud. It’s time to face reality 
+1	1522935428	15	Never heard of Monero getting a 51% attack?Probably because their code is actually hardened down and very private, while Verge on the other hand having all these exploits in the corr system that make the currency unusable by Hardfork..Should make any investor in Verge jump rocket before it implodes into the ground and find a new Privacy coin.
+2	1522943583	2	That's because Monero devs know what they are doing.
+3	1522944627	2	don't bring your logic in here, sir!
+1	1522925713	15	> Many cryptos get hit, some die and some become stronger.Name one.
+2	1522933480	5	Verge is a shitcoin, but let's not forget even Bitcoin and Monero had to hardfork from bugs which enabled people to instamine millions of coins. 
+3	1522945783	1	> Verge is a shitcoin, but let's not forget even Bitcoin and Monero had to hardfork from bugs which **would have** enabled people to instamine millions of coins.They did it before it happened afaik.
+0	1522914906	-106	The fake news here is incredible, keep it up!
+1	1522929189	51	Wow... your post history reads like you’re having a psychotic break. Examples:> The FUD levels will reach an all-time high once the partner's details have be released.  Do not falter Knights of Verge, our fearless leader [Sunrock](https://i.imgur.com/KlifB6w.png) aka Crypto Merlin will lead us to victory, and the Fudmeisters will be silenced !!!> P.S. If you're a hot single female Verge Knight, let me know so we can [plan](https://youtu.be/tKjZuykKY1I?t=18s) from thy private (wraith enabled) quarters—> So I'm assuming the majority of verge hodlers are male.  But what about the females?  Roll call for [hot single females with verge!](https://youtu.be/0lPQZni7I18?t=18s)—Please reach out to loved ones. You’re losing touch with reality, and look to be falling down the rabbit hole. 
+2	1522934735	25	LOL! Holy shit, that's good stuff
+2	1522929282	-26	One day I'll win the Pultizer prize, just you wait bruh!
+1	1522922930	41	So your portfolio is 90% Verge
+2	1522923125	-48	Actually, it's probably 3%, the rest is fedoracoin (which I think is going to make a huge comeback this year)
+3	1522939801	11	Thank you for being one of the many who have to throw away money in the market for others to gain

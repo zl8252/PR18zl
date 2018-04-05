@@ -1,0 +1,65 @@
+File created at: 1522953621
+Subreddit: Bitcoin
+Submission title: LN payment on main net went smooth af. Eclair wallet FTW!
+Submission created utc: 1522927300
+Submission score: 243
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522931062	23	Charge your phone!
+1	1522931498	13	[Done!](https://i.imgur.com/8i2hMn7.jpg)
+2	1522932100	11	Lightning!
+2	1522934789	9	Unfairly fast!
+2	1522945545	1	Marketing genius. 
+1	1522945638	1	Test: How many LN transactions can you do with 1% charge remaining ?
+1	1522938570	1	Charge it on lightning network.
+0	1522934097	9	Just bought five packs of stickers after clowning around and eventually realising how its done. Its pretty simple but so am I - If you're stuck, pm me. 
+1	1522942412	1	I don't even know how many people in the last month alone I've argued on Reddit with that claim that lightning is overly complicated and will never be adopted because of this.Reading statements like yours helps reinforce against this clear propaganda.I'm tired of bcash sock puppets coming in here claiming clean Mountain Fresh Air is poisonous gas.
+2	1522946809	1	Yes its quite strange. I've just received an unsolicited message from a bch/altcoin troll offering me stickers. They seem really quite cross that someone coded something that works. Bottom line is, whatever you're interested in, just engage with it. Life's too short for long threaded arguments will trolls. 
+2	1522950225	1	> Mountain Fresh Air is poisonous gasIt really is like that :(
+3	1522952488	1	sad! Core has poisoned the atmosphere. GMax's beard grants him immunity from the deadly scourge.
+0	1522932702	6	this is the means i needet to Start spending bitcoin. i looove LN
+1	1522939030	5	Being able to do small scale transactions makes such an important difference.  Cannot wait for this to be the norm!  Admittedly, I HODL...but if I could start keeping around $100 "cash" on a mobile lightning wallet I'd love to use that in my day-to-day.
+0	1522937513	5	Can confirm LN on Eclair runs very smooth. Still wouldn't put a large holding into it, but definitely a step in the right direction.
+0	1522936503	5	When are the exchanges going to accept LN withdrawals and deposits ? :)
+1	1522939078	4	First one who does has my business. Blockstream should have come out with that as an app
+0	1522934725	3	no sathoshi dice on LN mainnet?
+1	1522944634	1	They can bring back those tiny "you lost" repayments!
+0	1522930954	2	When they will integrate Eclair to Amazon? 
+1	1522931398	3	The right question is when they will integrate Bitcoin payment to Amazon. I would take a wild guess, probably next year. 
+0	1522936970	2	You can also play around on http://Bight.nl. I finished version 0.1 last night.
+1	1522941088	1	Payment failed
+2	1522943459	1	Maybe there is no path to my node, that's always possible. Have you tried to get 1000 satoshi? What were you trying to do? This isn't ethereum, we try to give each other decent information here.
+3	1522944726	1	I was trying to pay for a list of all Electrum servers and that's the message I got. Not finding a route could have been it. Let's keep the childish comments about others out of this. 
+4	1522948352	1	Fair point, I'll try my best :-) Have you seen my channel balances on the website? That could be helpful. The problem is that for many channels, you only know the total funding of the channels but not if the balance on one side is zero. You can also try a few things on coinpanic.com (not my website), they also show the balances.
+0	1522938967	2	Buying some stickers with LN, nice one!
+0	1522940938	1	#BIG
+0	1522942177	1	As big as  0.0013?Bitcoin rise is loading!!! 97, 98, 98 ...
+0	1522938804	2	I was able to make a smooth transaction using  Eclair as well. It was easy. [Recorded the entire process](https://www.youtube.com/watch?v=fQGbXmkSArs) for your reference. 
+1	1522939506	1	E=MC3
+0	1522930773	1	what did you buy?
+1	1522931293	7	It's literally on the screenshot :o
+2	1522931794	3	Lol wow
+1	1522931325	4	Some stickers from Blockstream store. 
+2	1522932641	1	oh yes, just saw it, wish it'll be soon possible to buy more than bitcoin merchandise :)
+0	1522934883	1	Is it stable or beta?
+1	1522935093	3	Looks pretty fine to me.It is first main net version though so should be treated carefully. 
+0	1522937192	1	Can someone tell me how big these stickers are?
+1	1522939314	1	They are very small. The diameter of the circle of the [liightning sticker](http://bight.nl/contact.html) is 3.5 cm (1.38 inch). The total lightning arm is 8 cm (3.14 inch). Blockstream actually gave me more stickers than I ordered.
+0	1522938654	1	What node are connected to ?
+1	1522939721	1	There is an option to connect to Acinqs node as a default or to put any node you want. It was connected to the Blockstreams node for this payment.
+2	1522940128	1	Where can I find their node uri?Edit: Nvm I found it: 02f6725f9c1c40333b67faea92fd211c183050f28df32cac3f9d69685fe9665432@104.198.32.198:9735
+3	1522940492	1	[Here](http://lightningnetworkstores.com/) you have all the current active LN main net stores with their URIs 
+0	1522943390	1	i have 0.00127749 btc on eclair it says not enough funds when i try to connect to channel by clicking acinq node, please help!
+1	1522948588	1	You can't send more than half of your BTC into a channel. So you will need at least 0.002 BTC in your Eclair wallet before you can open a channel with the minimum of 0.001 BTC.
+1	1522945956	1	Response from Acinq on Github for this known issue:The cause is an overzealous control in the interface.This issue will be fixed in the next release of eclair wallet.
+2	1522946762	1	when is that?
+0	1522943553	1	http://lightningnetworkstores.com/
+0	1522945265	1	Are the routing fees up to the routing nodes, or standard across the network? I understand that fees are meant to be absolutely tiny, but why are they zero here?
+1	1522945500	1	I think it is up to the node. 
+1	1522949270	1	If you are directly connected to the end node then the routing fees are zero.
+2	1522951989	1	Oh yeah, that makes sense!
+0	1522948798	1	How long did it take you to connect to blockstream store's node? I used the one listed on lightningnetworkstores.com and i'm still getting the message WAIT_FOR_FUNDING_LOCKED. how long is that likely to last for?
+0	1522950842	1	Isnt LN still in testing fase? Couldnt people lose their money through this? Not sure if its smart to promote LN already, can i go ahead and use it and be sure i wont lose money? 
+0	1522953244	1	I was confused for a while by how many satoshis did you pay. LOLShouldn't there be some delimiter for milisatoshis?
+0	1522941023	1	Wo such a high fee bruh bcash is better
+0	1522932534	-3	No wonder BTC prices go down since #WaveCrestShutDown... #hard2Spend 

@@ -1,0 +1,178 @@
+File created at: 1522953638
+Subreddit: btc
+Submission title: Bitcoin ABC - May 15 Hard Fork
+Submission created utc: 1522884671
+Submission score: 247
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522888271	26	Can someone ELI5 what some of the uses of these new OP codes are?
+1	1522888410	29	It isn't an ELI5, but it can be useful https://www.yours.org/content/use-cases-for-re-enabled-op-codes-8b150b6a0deb
+2	1522900242	2	Thanks 
+1	1522903750	6	I am still learning a lot about op codes and all the benefits and possible risks but in general the most useful use case as the moment is to allow for a small little bit of extra arbitrary data in the blockchain that can be used for tokens. This will give Bitcoin Cash a bit of the functionality that Ethereum also offers.   Cryptonize.it for instance I think is planning to use these tokens for a kind of reward system. So there will be immediately be some extra usage possible that will find users. Making Bitcoin Cash more attractive to developers and investors and hopefully leading to increased tx on the blockchain. Tx on the blockchain although not a super reliable metric (cause one party could make 50% of the tx and you would have to do some investigation to figure that out) is one of few we have that tell us a bit about adoption. 
+0	1522890485	24	>Finally, the OP_RETURN data carrier size increases to 220 bytesYay!
+1	1522924703	1	What is benefit of having large data carrier size? What can it do?
+2	1522925078	4	It's useful for overlay-protocols, but raising it to this size also fixes the incentives so no other data embedding method is used:https://github.com/Bitcoin-ABC/bitcoin-abc/pull/41---To elaborate further:Overlay-protocols such as Omni Layer or Counterparty use Bitcoin as transport layer and Bitcoin transactions to embed extra data. This data is then interpreted by Omni Layer or Counterparty clients. Examples for those instructions could be "create a new token with 9000 units" or "transfer 10 AliceTokens to Bob".A larger potential payload size allows to have longer instructions or batch multiple instructions into one transaction.
+3	1522926914	3	Thanks.So does it mean it makes more easy to create coloured coin or tokens on BCH? 
+4	1522926980	7	In almost all cases this large size isn't needed, but in some cases it can be useful, so yes. :)
+5	1522927386	2	Can I expect some ICOs launching on BCH blockchain after this upgrade? 
+6	1522928096	4	At some point definitely. But so far no overlay-protocol has been ported over to Bitcoin Cash.
+7	1522935876	1	Do you know what happened to overlay protocol tokens that existed on BTC at the time of the 2017-08-01 fork?  I've been curious about this, but never seen it discussed.  I would have assumed that all such tokens got forked as well but nobody seems to be using them or talking about them as far as I can tell.
+3	1522947652	1	> fixes the incentives so no other data embedding method is usedAnd if you wanted to store more than 220 bytes...?
+0	1522908208	11	Kindly pardon my ignorance. Is Bitcoin ABC a different cryptocurrency or an upgrade to be implemented on BCH?
+1	1522909469	22	Bitcoin ABC is a Bitcoin Cash implementation.
+2	1522909501	2	Thanks!
+1	1522909365	-1	click the link and read.
+0	1522891002	35	"Disregard this, we will have Samson's hat store soon." - Bcore, probably
+1	1522896359	12	lol that was hilarious. that guy is so full of himself...he really thought that was a valid response instead of admitting that it hasn't been implemented yet or that it would take time or any number of counters that could have been used.No...his hat store is coming therefore we're sorted. 
+0	1522895836	8	So no op_group then?
+1	1522895928	9	No, maybe on november, but there is also another proposal that it is still not public now.
+2	1522896932	3	Who’s proposal?
+3	1522896995	6	Just wait :)
+3	1522904374	-2	CSW
+4	1522904687	5	nope
+5	1522908809	-1	Well, then there will be two. 
+2	1522903301	6	Why would it not be public?
+3	1522903531	6	Because it isn't ready, it is still on discussion, to find and fix possible holes on the idea.I also "personally" think that, while it is on this stage of study, there is a worry that someone could start to patent it before it is ready for the public review.
+4	1522906213	11	> Because it isn't ready, it is still on discussion, to find and fix possible holes on the idea.Why isn't that done publicly? That's how Bitcoin development works.>there is a worry that someone could start to patent it before it is ready for the public reviewIf it were public, it would be trivial to point to as prior art. If it's private, not so much.
+5	1522922280	2	It would only be prior art if it were reasonably fully bakedIf what they have is a plan with lots of unknowns, then someone could figure out the unknowns and patent the plan
+5	1522925910	5	> Why isn't that done publicly? That's how Bitcoin development works.The author(s) want to be sure that their proposal is as perfect as they can make it. This is perfectly normal, no-one wants to publish a half-baked proposal.I am sure that the proposal will be made public soon, at which point a public discussion will occur. That's how Bitcoin development works.
+5	1522946204	1	>  That's how Bitcoin development works.then you admit BCH is bitcoin, because that's not how BTC core works, they love theier backroom private deals
+6	1522946440	1	>that's not how BTC core worksYes, it *is* how Bitcoin development works. See [here](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/).>they love theier backroom private dealsSuch as? Certainly you can provide some evidence and this isn't pure conjecture on your part...
+2	1522907333	5	Wow much open source. 
+3	1522916731	1	Good point.
+0	1522904337	10	I agree with the changes. 32 MB is needed now. I'd like to see a service like EternityWall made for BCH.That said, there is quite a disagreement about future upgrade priorities between different BCH dev teams - that is the biggest threat to BCH now. ABC should try to make some compromises with BU and others.
+1	1522937416	2	Nah. They should have disagreements. Let it play out. We know they're all on the same mission, that's enough.
+1	1522941323	2	> that is the biggest threat to BCH nowNo, opportunity. Competition is good
+2	1522950146	1	As Mike Hearn said - governance is BCH's biggest problem. Formalization is needed or....another Core.
+0	1522908370	6	I think it is better to have bigger blocks and small tx than to have big volume of tx and small blocks! 
+0	1522894107	3	😍
+0	1522900072	3	What happens if more people stay on the old software than move to the new software?
+1	1522901785	13	There will be probably two bitcoin cash, but I will not bet on this result :)
+2	1522918586	2	Nah, there's no way we'll do a coinsplit again.
+2	1522905998	0	Well, the DAA will make sure the original doesnt actially die, like clashic...
+3	1522907311	12	Nobody runs Clashic except Samson Mow on a forgotten Raspberry Pi
+4	1522935416	1	Clashic? I assume that’s a slur along the lines of Bcash, aimed against core?
+5	1522936252	3	Essentially, yes.  It was an overly done concern troll that took on a life of its own as a fake fork - a bunch of sockpuppets falsely claiming the last Bitcoin Cash hardfork was an attempt to hijack Bitcoin and pledging to stay with the BCH chain as it existed before the hardfork, naming that chain "Clashic."
+3	1522922323	2	How's your clashic stash doing? Making good money for you?
+4	1522923013	0	Dont worry its gone long time ago ;)Anyways, I just think its hilarious you cant kill off the old chains with the DA algos you got.That, plus the DA takes away miners bargaining chip when forking - you dont actually need them to cooperate, just get the fork running on important nodes and you can keep the chain running with whatever hashpower is left due to the DA.
+5	1522923182	4	>Anyways, I just think its hilarious you cant kill off the old chains with the DA algos you got.I think it's hilarious that you can't recognize an evolutionary advantage when you see one and would prefer to "store value" on a chain that can, potentially, *literally die* in a two week period if there's a sufficient fluctuation in value.
+6	1522924282	-5	You're just jealaus that bcash needs a life support DA. Bitcoin doesnt need it. Changing it would to me indicate a loss of confidence, and also it has a very important function as I said, killing off the minor chains when hardforks happen. Having to change the DA when you fork is a sure sign you are diverting from concensus of the community and a sure sign you forefeit any claim to be bitcoin when the fork happens.This is why, as much as I would hate to have seen it have happen, s2x could actually have been bitcoin.Edit also, it takes away miners bargaining chip completely. For a project such as bcash where miners are seen as the most important actors this is beyond ironic
+5	1522928354	1	I think its even more hilarious if attackers mine worthless old chains that don't have consensus with the majority
+6	1522935301	1	Consensus with the majority?
+3	1522941671	2	Existance at irrelevant levels of every metric = death of the chain
+1	1522916620	3	If not at least a couple of trade markets also stays on the old software it wouldn't matter if many people didn't upgrade since they will soon find out that they have nowhere to exchange BCH for other currency. Then they basically have to change to the new software as well since the old fork is pretty much doomed.The most important actors to get to switch forks are the markets, then the rest will follow.
+2	1522933906	1	So it’s pretty much up to the exchanges what the valid chain is?
+1	1522941539	1	> peopleNo, miners. It's up to miners
+0	1522904568	2	NICE!
+0	1522910778	2	Question: how are hard forks coordinated with multiple clients? In this case what do bitcoinUnlimited users do?
+1	1522915813	2	BU also have to release their client and the users upgrade before the deadline
+2	1522923676	1	Okay so both clients would have to produce a compatible update at the same time? I guess hard fork dates & features are discussed and shared in advance?
+3	1522926632	3	that's right - hard forks are scheduled for may and November. items for Nov are being locked down now (eg op_group). looks like clients are trying to get a release out 1 month ahead of the fork. 
+3	1522926432	2	Yes and the clients are usually ready weeks before the HF.
+1	1522921024	1	People always talk on the common chats.
+0	1522931952	2	What is Bitcoin ABC?
+1	1522933644	3	the biggest BCH node implemenatation:https://cash.coin.dance/nodes
+2	1522947045	1	One might say it's the reference implementation.
+3	1522952531	1	for me the reference is BU xD
+0	1522902194	7	Why do these changes need to be made now?- blocks are currently << 1 MB, why increase to 32 MB now?- OP_RETURN already gives 80 bytes, which is plenty for a hash value - who has been asking for an increase and for what purpose?- what are specific use cases for the other opcodes to be activated? They look marginally useful at best.
+1	1522903040	18	32MB: Because there could businesses that need many more tx, and they can start to evaluate the possibility, to use Bitcoin Cash, only when there is the certain that there is the space for so many tx.OP_RETURN https://github.com/Bitcoin-ABC/bitcoin-abc/pull/41OP_CODES https://www.yours.org/content/use-cases-for-re-enabled-op-codes-8b150b6a0debAnyway, developers will find uses that even BCH devs haven't thought about.Other op_codes will be probably enabled/added on the next Nov. hard fork.
+1	1522911439	10	You have to think about peak capability as well and DOS protection. It's four times more expensive to fill a 32 MB with 1 Sat/B transactions to do a DOS than it is to fill an 8 MB block.That said I would prefer an adaptive max blocksize with a fair percentage of headroom for peak traffic.
+1	1522903736	5	OP responded with use cases for new opcodeshttps://www.yours.org/content/use-cases-for-re-enabled-op-codes-8b150b6a0deb
+1	1522941471	3	> Why do these changes need to be made now?Why wait? With BTC community waited too long and chain split
+0	1522915061	1	This reeks of arrogance again... Starting to think Bitcoin Cash is a lost cause.I didn't come here for a private chain of a few individuals who can do whatever they want.
+1	1522918260	3	please elaborate. 
+1	1522919769	7	This fork has reply protection, so you can easily stay on both chain, IF there will be two chains. :)
+1	1522935117	2	It's not like Amaury hasn't strongarmed forks with subpar code before.
+1	1522939402	1	And you couldn't see this coming?
+2	1522939418	4	Redditor /u/davef__ has low karma in this subreddit.
+2	1522940393	1	I hoped things would change. Sadly, not many seem to care. What's the alternative anyway? Legacy Bitcoin? Please...There is currently no chain I would build for.
+0	1522889634	0	Oh noes. ITEOTWAWKI!
+1	1522890080	10	My raspberry pi is looking afraid
+2	1522897780	11	Interestingly, the Raspberry Pi was launched in 2012 and has gone through several upgrades compared to the 1MB blocksize which was launched in 2010 and hasn't (on the Core chain anyway).
+3	1522906618	2	Exactly
+3	1522948259	1	> has gone through several upgrades compared to the 1MB blocksize which was launched in 2010 and hasn'tHuh, I guess I must be hallucinating that the limit was 4000 weight, not 1 MB, and that blocks larger than 1 MB have been mined. 
+4	1522949611	0	You hold on to that, man. Even if real world use cases put you at a max of 1.7MB when the Segwit justification says the network is capable of supporting 4MB. That'd progress of a sort, I guess. Looks like you're up to 33% adoption so you have a ways to go. It's a shame you damaged Bitcoin so bad to get it.
+5	1522949758	1	>when the Segwit justification says the network is capable of supporting 4MBPlease provide a source for that claim.
+2	1522917700	2	No need to worry, BCH isn't used enough to even fill 500KB blocks. 
+2	1522896393	1	Have you seen the new Raspberry Pi 3 B+? I just got one and it is....slightly better!!!! 
+3	1522906712	1	Are cases etc. compatible with the previous 3?Edit: or more exactly, is the 3B compatible with the cases of the previous 3? Is it the same board layout?
+4	1522907556	1	It's very similar. 3B https://http2.mlstatic.com/rs-raspberry-pi-3-model-b-made-in-uk-1gb-12ghz-wifi-bt-D_NQ_NP_737225-MLA25411973155_032017-F.jpg3B+ https://www.buyapi.ca/product/raspberry-pi-3-model-b-plus/
+5	1522913476	2	You're right, they look very similar, could be that you can just swap one in for the other.
+6	1522939298	2	That was the intention. The RPI foundation is very aware of all the projects that are already built around RPIs and by keeping the general design the same they make their new devices compatible with old projects which is a very useful strategy. It is likely they will only change things if absolutely necessary. Or if they are releasing a new line of products like the RPI Zero.
+1	1522893673	8	We definitely should wait 3 years so that there is consensus. /s
+0	1522900134	1	Out of curiosity, how does a big exchange like Coinbase or Binance upgrade? Can anyone care to ELI18?
+1	1522908403	5	They update their node(s) to the new software.
+2	1522922992	1	Presumably they pause all bch withdrawals and deposits for a while, right?
+3	1522928782	1	Yes, most likely.
+0	1522941326	1	Cool! 
+0	1522944534	1	This is very promising! Hope the next upgrades work just as flawlessly as the last.I bet the core trolls are raging so hard right now.
+0	1522915618	1	32MB sweet!
+0	1522916972	1	Why can't this be miner activated like every other fork?It ensures all the mining nodes are upgraded..I think upgrading like this all the time is a bad idea...
+0	1522887184	-30	Seems a bit optimistic to increase the max block size again eh?
+1	1522888186	23	The goal is to have a way to make it dynamic on the next fork of November 2018.
+2	1522889001	19	that would be freakin sweet.
+2	1522892766	10	that would be the next logical step
+2	1522893731	4	Why dynamic, why not remove it all together?
+3	1522896302	4	> why not remove it all together?It would just result in miners declaring a soft limit, at least for now.The ecosystem needs to dimension itself, since no-one likes being forked off on short notice or unexpectedly. In that respect, a deterministic algorithm is better than no limit at all, since at least you can predict the peak possible resource consumption to an extent.Plus, people need to test their systems. You can't test that "no limit" works, just like you can't prove a negative.
+3	1522893882	3	The general opinion is that it is still needed a limit, but dynamic, always over the usual use of the network, against possible attacks.
+2	1522893075	2	I don't see why you would want or need that. 
+3	1522899476	1	a dynamic blocksize would mean any and all transactions made since the last block get confirmed in the next block. Why would we not want that?
+4	1522915925	1	Why is that better than no limit? Or even the limit set at the current limitations of the software as shown by the gigablock testnet?
+2	1522891853	2	Isn't it already dynamic, based on what the miners choose to include in their block (up to 32mb)?
+3	1522891912	9	With dynamic I mean the limit.
+1	1522887508	42	Nope.
+2	1522887655	7	I knew they had plans in the future to upgrade to 32mb.. But I didn't expect it to be so soon. 
+3	1522887753	46	There is no point to keep the limit at 8 mb blocks if the network can handle 32 mb right now.
+4	1522899336	3	even if the blocksize is 32mb, there is much less than that transaction wise so the blocks won't be made that big... just as big as we need to fit all the unconfirmed transactions in it.
+4	1522888476	2	It can handle 1gb too. It doesn't mean it should. 
+5	1522888598	25	No, it can't. The software is not optimized yet.
+6	1522888654	12	I thought they had been testing 1gb blocks for months. 
+7	1522888736	34	There is a 1GB testnet running, and in theory it shouldn't be a problem. Afaik the current BCH node implementations have not yet adapted multi threaded verification and proper mempool management.Other than that, this is just the max blocksize cap. Miners decide on their max blocksize anyways.
+8	1522892548	23	> Miners decide on their max blocksize anyways.why can't Core understand this?
+9	1522926645	-1	Why wouldn't a miner fill the largest blocks they can? Bigger blocks and more transactions in a block mean a higher reward from fees. Is there any incentive mechanism for a miner to not run the maximum block size?In fact, the fee system naturally works to cause blocks to approach 100% full -  any time the blocks aren't full the fees drop and this probably increases people's willingness to send transactions. When the blocks approach 100% available size, the fees start to go up, discouraging transactions.Obviously full nodes may not want maximally-sized blocks, because the bandwidth used by a typical full node increases as block size increases. I seem to recall reading a BTC full node uses 30 to 50 GB per week (unless you change the configuration to limit bandwidth, obviously.) If the BCH network started to get some serious use the larger block size would probably reduce the number of people willing to pony up for the bandwidth to run a full node.I'm not sure this disincentive applies to miners much though. The type of person who runs a farm of ASIC miners in a datacenter is probably not bothered by a couple hundred gigabytes of bandwidth in a month.
+8	1522889094	4	How are you getting upvotes so fast? I didn't even click the message yet and you already had some. 
+9	1522889718	23	Cause of freaks like me, I upvoted you both since your questions are good. IMHO don't know why you get downvoted.
+7	1522890315	12	Bitcoin Unlimited is running a 1gb experiment - it will still need changes across multiple clients and other systems before such huge blocks will be possible on mainnet. Not anytime soon, but expect to gradually reach there over a few years.
+5	1522892475	6	why not?
+6	1522893350	1	Not yet. Bandwidth is too expensive right now. 
+7	1522893463	4	how do you know what's expensive?  
+5	1522889490	8	Small blockers, small minds, eh?
+6	1522889768	10	I'm pro bitcoin cash. But too much group think here sometimes and I can't have a conversation or talk and ask questions without being down voted. 
+7	1522891278	12	downvotes don't matter, most will still read your comment.
+8	1522892026	7	Also too many down votes too quickly will get your account flagged so you can only reply once every like 8 minutes. It is terrible for conversations. :( so they do matter a bit. 
+9	1522892692	6	the root problem was the premise of your first comment.  blocksizes don't depend on blocklimits.  size is determined by the miners irrespective of the #tx's coming thru the network.  IOW, we could remove the limit entirely and the miners could still keep the network constrained at 1MB blocksizes if they want.
+8	1522891571	3	Lol. I was like - 15 from all these comments until I said I was pro bitcoin cash and then it went positive again.
+9	1522892601	9	stop reading into things.
+9	1522893045	5	You ran into the line of fire xD
+9	1522918170	1	your first comments were badly strucutred and felt like you did not understand what's going on, once I realized you _don't_ know what's going rather than purposefully making bad assumptions I upvoted your later comments. that being said, we do struggle with group think in the entire world. reddit isn't out of it. and that's why you see people still believing in Bitcoin (BTC) \
+7	1522889893	12	Yes, this is getting out of hand. Please mind that people come here to learn more and want to understand WHY WHAT WHEN... because of .....?!?!There are no dumb questions - only dumb answers (and dumb votes).
+8	1522890482	14	Fwiw, we've seen a lot of people who don't care about Bitcoin Cash come in here in droves just to downvote. This community must be doing something right with that much hate.
+7	1522893454	9	>I’m pro bitcoin cashYour most recent thread here is “Why don’t we just embrace the name Bcash?“. And you’re not banned from r/bitcoin. I’m going with concern troll. 
+8	1522893642	2	What? How many months ago did I say that?Three months ago I also posted when bitcoin cash pairs would be added. 
+8	1522894838	1	I've actually been very careful not to be banned from bitcoins sub, this is my only account and I really don't like being banned from subs.
+9	1522896122	6	> I really don't like being banned from subs.Nobody does. Sooner or later, if you express a "wrong" opinion or rub a mod the wrong way in \r\Bitcoin, you'll end up banned. When that day comes, you can post your tale in /r/Bitcoin_Exposed :-)
+1	1522915049	7	32mb is Bitcoin's original threshold due to other limitations of the protocol, before the 1mb limit was put in place for security reasons (and not economic reasons). 
+1	1522893784	5	When someone was testing the network recently and we got up to 100MB...we saw that some miners continue to mine 1MB or 2MB still while others mine 8MB blocks.  I think the 32MB is a good call.  I hope we get another stress test, so even if some miners mine 1MB blocks, we can still chew through 100MB rapidly.
+2	1522897298	9	32mb is the original Satoshi limit, it's very fitting as a first real step towards better, more permanent solutions.
+1	1522889471	3	Negative.
+0	1522943552	0	Why are they increasing the blocksize to 32MB? Is there congestion on the bitcoin cash network ? Does this pose any real spamming threat ?
+0	1522943161	-1	I can imagine unexpected bugs rising from enabling these many OPs. No big deal right ?when we can keep hardforking and nobody cares. Bcash is yet another bitcoin testnet indeed.
+0	1522923673	-9	Is this satoshi vision? Is it even good for bcash? Why the price is at ATL since Dec? 
+0	1522890241	-13	is interesing and great
+1	1522890701	6	double comments xDhappens on mobile sometimes
+2	1522892162	6	Actually triple.
+3	1522895764	6	Posting history is almost entirely such comments.Karma harvester or something silly.
+0	1522901344	-19	So you’re saying the free coins From BCH will turn into even more free coins?!?
+1	1522902068	12	So you're saying you have no idea how consensus hard forks work?!? 
+2	1522902654	0	Oh it’s consensus. So that means it’s analogous to switching from BTC legacy to Segwit right?
+3	1522902946	4	Somewhat - but that was a soft fork (tightening of rules, backward compatible) rather than a hard fork (loosening of rules, not backwards compatible). A consensus hardfork (which BTC has had many over the years) results in two chains with the community only adopting one - a soft fork does allows for two sets of rules within the currently existing chain.
+4	1522921495	3	> A consensus hardfork (which BTC has had many over the years)That's not true at all.
+5	1522924945	2	You're right, I should not have used the word 'many'https://blog.bitmex.com/bitcoins-consensus-forks/
+4	1522941838	1	> but that was a soft fork (tightening of rules, backward compatible)No, chain has split into two. Soft forks don't exist. Protocol changes and possible forking exist
+4	1522903673	1	Thanks for the clarification.
+5	1522903716	2	No worries, and apologies for the initial dicky response
+6	1522907236	2	No worries on my end as well :)
+1	1522902272	5	Sure :)You can even go and trying to take the free coins from the past hard fork https://www.bitcoinabc.org/november
+1	1522918370	2	not necessarily, there are "free" coins if they hold merit and forking was necessary as devs & miners might be at disagreement. that being said, I don't think the outdated free coin will be worth a dime. 
+0	1522899045	-7	[deleted]
+1	1522902145	2	Yes. In honor of you.

@@ -1,0 +1,21 @@
+File created at: 1523038640
+Subreddit: Bitcoin
+Submission title: Lightning Network is vaporware, they said. (Zap Wallet connected to a remote Lightning node on Bitcoin mainnet)
+Submission created utc: 1523013482
+Submission score: 98
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523013685	10	Shiiiaaaat. The GUI looks super nice and clean. Really amazing work.
+1	1523013868	6	Yup, it's beautiful. Wish all the Bitcoin software looked as nice. But we'll get there eventually.
+2	1523038131	1	>Wish all the Bitcoin software looked as nice.I realised how awful most (all?) BTC wallets look whilst watching the new Blocknet wallet reveal, I know function over form is what counts but I see no reason why we can't have both by now.
+0	1523018876	9	I love how the goal posts move, really.It is moved from "LN will never be released" to "A perfect routing algorithm will not be possible".The latter, I actually agree with. But it is also a goal that doesn't matter. We only need a good enough routing algorithm, and *that* is possible. Example: Would you care whether tx fee is 14 or 12 satoshi?
+1	1523019720	5	To be fair I can't make a payment to my friend since all the channels on the way to him have funds only in one direction. Routing will get better for sure, but isn't good enough yet. 
+2	1523020028	3	Sure, and when people put more money in the channels, things will get better. But there still needs to be incoming balance for you to receive a payment, and that *will* create a hurdle for someone. I expect services to pop up, where you can, for a fee (that basically needs to cover an on-chain fee) can order an incoming channel. And I expect that once people part paying regularly, things will improve. But people that receive more than they pay, *will* have to find a plan how to push balance out again.We're still early. These are issues that can be made much more userfriendly over time :)
+3	1523020104	4	I agree. It's still beta anyway :)
+3	1523020689	3	Also, [this](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/000993.html)
+3	1523022644	1	Isn't this solved pretty trivially by maintaining a handful of channels and the software continuously re-balancing. Also isn't this solved with atomic multi path as well? 
+4	1523022773	2	Yes. None of it implemented yet, both is in the queue for implementing soonish.
+2	1523020153	2	It's in beta...like...baby beta...of course it isn't good enough yet. The fact that you had to take energy to say something so blatantly obvious is kind of odd. 
+2	1523022490	2	Seems like a liquidity problem rather than a routing problem. Not surprising for a largely Beta network.
+2	1523029599	1	Imagine is Square Cash's app set up everyone as a lightning lite client
+2	1523036544	1	This is actually not a problem of routing... Well, if there is no possible route its not because routing doesn't work.What can help the problem if unbalanced channels is at some point there will be some auto balance that tries to keep your channels balanced.

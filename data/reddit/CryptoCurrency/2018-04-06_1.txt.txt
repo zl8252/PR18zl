@@ -1,0 +1,181 @@
+File created at: 1523038661
+Subreddit: CryptoCurrency
+Submission title: Nano can now be tipped to anyone with a Twitter account using the @NanoTipBot. See the video on this being sent in approximately 2 seconds!
+Submission created utc: 1522979761
+Submission score: 1011
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522979762	1	**Nano (NANO) Basic Info:** [Website](https://www.nano.org/) - r/NanoCurrency - [Abstract](https://www.reddit.com/r/CryptoWikis/wiki/nano_basicinfo#wiki_short_description) - [History](https://www.reddit.com/r/CryptoWikis/wiki/nano_basicinfo#wiki_history) - [Exchanges](https://www.reddit.com/r/CryptoWikis/wiki/nano_basicinfo#wiki_exchanges) - [Wallets](https://www.reddit.com/r/CryptoWikis/wiki/nano_basicinfo#wiki_wallets)  **Biases:** [Arguments For](https://www.reddit.com/r/CryptoWikis/wiki/nano_pros) & [Arguments Against](https://www.reddit.com/r/CryptoWikis/wiki/nano_cons) | **CryptoWikis:** [Policy](https://www.reddit.com/r/CryptoCurrency/wiki/policy#wiki_cryptowikis_program_-_.28work_in_progress.29) - [Contribute Content](https://www.reddit.com/r/CryptoWikis/wiki/contributing)---*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1522984474	173	Someone should tip Elon Musk and tell him to take Nano to the moon. 
+1	1522995478	86	you mean to Mars.
+2	1523000749	73	There's actually a post in the nano subreddit where someone showed that even with the latency and bandwidth limitations, sending Nano to Mars and back would be quicker than a Bitcoin transaction.
+3	1523002289	15	haha yeah that speaks volumes.
+3	1523002486	1	How about a LN transaction ? Genuinely interested. 
+4	1523002798	13	Opening a channel takes as long as a normal transaction, then you have to send and then close.You can probably ping-pong NANO 5 times until you're done with LN.
+5	1523003101	3	Come on. You know what I meant. If not, for clarity, a pure LN transaction without opening and closing a channel which you could if you wanted keep open for years and transact millions of times within. *When Coinbase start selling you coins that are already on LN will you be moving coins on the base layer except to cold storage or large transfers.*
+6	1523003186	7	Until you close the channel, you didn't transact any value. It's still locked up.
+7	1523014608	1	Question: If Coinbase was to sell you either a coin on the LN or a coin on the base chain. Would you expect there to be a difference in price ?
+8	1523022455	2	Coinbase cannot sell you a coin with Lightning unless you already have a payment channel established with someone and have the available dearth of total channel capacity to accept the coin.  Either that or they have to open up a new channel with you--full on-chain transaction.However, I can see it happening for regular bitcoin users.  I'd do it.  Still, what happens if Nano and others go offchain as well.  If Nano had come before bitcoin, would anyone really go back and create bitcoin?
+8	1523014792	0	Yes, because:1.	I wouldn't buy anything lightning, so it'd have to be for free or 20+% off2.	They have to create a channel, send the funds, and then close it, paying fees three times.
+7	1523003584	0	It's like you're saying If I store money in an exchange in USD and I haven't withdrawn, it won't be profit realized but in reality I've actually made that profit 
+8	1523008134	3	No, it's not
+6	1523020139	2	Think of it this way...Someone sends me a letter in me mail asking me how fast I can take a shit.  I then drop that dirty bomb out of my winking eye at the speed of lightning.  The problem is that they'll never know how awesome my poopkrieg was until they receive the letter I send back in the mail.This is second layer solutions in general; they can be really fast but it doesn't really matter in the end until it's settled on the actual chain.  Otherwise, what's the point of an immutable blockchain?
+6	1523018631	-3	Yeah the users commenting have nano. You can't ask them about lightning network
+7	1523035527	1	Are they wrong tho? Don’t think so
+4	1523004648	7	Oh you mean off-blockchain transfers? Yeah nano doesn't need garbage like that to be usable.
+5	1523007667	4	No. On chain. Just time between blocks but with the full backing and security of the main chain. I get your stance and we probably see LN differently and most likely disagree. 
+3	1523011992	-1	Of course it will.
+1	1523014870	1	ok i will do it
+0	1522987448	43	I'm a bit of a dumb dumb, how do you pay nano to somebody without them having a nano wallet?
+1	1522987604	122	The bot generates one for them and ties it to their twitter account. Then they can send it to others using the bot or set up their own private wallet and withdraw it. My thought is it’s a lot easier to expose someone to nano if they don’t have to do any effort on their end.
+2	1523001992	28	What's stopping the creator of the bot from stealing the private key like it happened with the DogeTip bot on Reddit?
+3	1523002542	20	Absolutely nothing! But I would hope that the creator wouldn't do that. I wouldn't hold any significant amount of NANO in it just in case
+3	1523010405	15	Other posters are correct, this is meant for small tips sent to users, not a storage of wealth. Deposit, send your tip, withdraw. I don’t want to be responsible for your coins!PS - name checks out. 
+3	1523003054	8	If this is a fear a user has they can make another wallet of their very own and send it there. Not the most optimal solution to that problem, but it is an alternative a person can use
+3	1523016313	2	Nothing, but that’s also true of all the exchanges out there that make wallets for people.
+3	1523004644	1	Just deposit small enough for tips.
+2	1523037225	1	Everyone needs to make sure to have 2FA enabled (everywhere). I got tipped some BTC on Reddit and within an hour my Reddit was hacked and my tip gone. Tip bots are followed by hacking bots 
+0	1522989311	71	Someone should convert this to Instagram, so hot girls modeling can receive tips.
+1	1523003453	29	Nudes for nano.
+2	1523025706	3	If anything can get nano to be mainstream its this
+1	1522989387	33	To be fair, those hot girls on instagram probably have twitter accounts ...
+2	1522989460	37	Yes but you don't go to Twitter to look at pics, no one cares what they have to say, they care about modeling pictures. Trust me....if you can implement this to Instagram it will be huge!
+2	1523012663	8	Not at all. I think twitter is mainly an american thing. Where I live (germany) every single 12 year old girl seems to be "modeling" on instagram. I bet you not 1 out of 100 of them have twitter. 
+1	1523001534	26	Instagram, also known as the largest online Strip club. Now we can put small Nano coins in their undies. We should probably call the newly generated wallet underwear wallet
+2	1523020253	1	Please contact me at /u/seishi for bookings
+3	1523028256	1	Booking what?
+4	1523029041	2	It was a poke at how all these twitter instagram "models" have booking information, which is really just an escort platform.
+5	1523035098	2	http://tagthesponsor.com/
+1	1523009034	4	on it
+1	1523020545	2	Put this shit on livejasmin, or make a decentralized cam girls economy
+2	1523029767	3	Spankchain is trying to do this, although I agree it would be better with nano instead of their coin
+1	1523035686	1	Do the girls on myfreecams accept crypto yet?  Asking for a friend.
+1	1523008625	0	Facebook is anti-crypto tho
+0	1522996870	42	BLOCK LETTUCE 
+1	1523001500	5	The last thing you want in your burger, but as it turns out that might be what you get
+1	1523014697	1	/u/banano_tipbot /u/walkwithred 10
+2	1523015823	0	/u/chocolatefudcake bot broken?
+1	1523001874	1	DOUBLE KERNAL SPEND ATTACK
+2	1523013864	0	Is this a thing? 
+1	1523007919	1	PRUNE
+1	1523005360	0	BURGER KING FOOT LETTUCE
+0	1522980537	72	Gotta say... This could be huge.Way bigger than the twitch donation thing.
+1	1522982291	34	Thanks! Just trying to help out the community, and learn some stuff in the process!
+2	1522982563	17	I just posted my idea down below to use this to help nano go viral.Rather than giving to random twitch streamers, we should donate to Twitter accounts.Either those who are our followers, or to anyone, including high profile people.We need a catchy hashtag to make it viral... Something like #nanofastfreefriendly (I'm sure someone will come up with something better)... But you get the point.Come on NANO community... Let's get together on this like everyone has with the twitch streamers.This is a much wider audience, that could catch mainstream attention if we can get it viral. 
+3	1523018438	2	I feell like nano missed out on the marketing of #paywithrai.Smh.  But I'm totally still in nano.
+4	1523020452	1	\#nanoyobusiness
+3	1523004911	2	I think like you too.  Should have tipbot community or discord to make this event happen.Cant think of cool #. Though
+3	1523002661	0	Agreed, maybe something 'eco' too. Help get more on board, including gamers
+3	1523011949	-3	/ #nano4free
+2	1522989483	1	make this for stellar too
+1	1522991228	7	This is the same as if someone had created one for Bitcoin. It is a tidy thing to do, but the principle isn't anything that hasn't already been done. 
+2	1522991337	9	True. This is simply using known mechanisms to advance our cause.Fast, free and environmentally friendly is everything, everyone wants/needs crypto to be.Until the devs decide to advertise (see dash), we can at least do something.
+1	1522998597	3	Sadly no. This has been tried many times before, and it never took off.
+2	1523001616	4	I mean, many alts have had this for a long time and sure people use it. But no, it's in no way "huge"
+3	1523009584	-2	Yeah, too many noobs in the space now. Nobody seems to remember changetip.
+2	1523019925	0	There wasn't a tip bot
+3	1523026374	1	For numerous other coins
+4	1523026500	2	I see what you're getting at.. But they have all lacked the merits of NANO.Fast, free and environmentally friendly.No other coin can say that.Also, we have a fair share of weaponized autism in our community, that could help manifest this reality. 
+0	1522982275	12	Can the bot send a DM if the user is not following and have DMs blocked from people that dont follow?
+1	1522985063	13	Unfortunately it can only DM people who follow it or have sent it a message. That’s why I send out a public tweet that tags them and the tip sender as confirmation as well. 
+0	1522984616	28	>2 secondsi've only bought a few things with Nano but tbh it's never taken 2 whole seconds for me. I time it every time out of curiosity. The speed amazes me.
+1	1522989956	4	tbf it takes a few seconds for my fingers to tap the buttons...
+2	1522991673	3	You should probably get that checked out lol
+3	1523020384	0	[\( ͡° ͜ʖ ͡°\)](https://media.giphy.com/media/1xkMJIvxeKiDS/giphy.gif)
+1	1523018671	2	Let's see how nano handles 9 years of Russian hackers and adaptation.
+2	1523031622	1	So far, it's been "hacked" less times than Bitcoin...
+3	1523032110	0	Bitcoin has never been hacked? There's a $200 billion bounty for hackers with open source code for all to try.Nano/raiblocks had an unfair distribution to "Venezuelan captchas" or premined by devs and told it was distributed through captchas, a centralized fashion. Bitcoin was fair in that it was free to whoever wanted it.
+4	1523032374	3	Except for that time that someone created about 180 billion Bitcoins, and the blockchain had to be forked... but yeah, "never been hacked".>Nano/raiblocks had an unfair distribution to "Venezuelan captchas" or premined by devs and told it was distributed through captchas, a centralized fashion. Bitcoin was fair in that it was free to whoever wanted it.Ironic... here's the better way to put it. Nano had a completely fair distribution, where anyone could get free coins via captcha, and it was marketed to the 3rd world to help bring crypto to them. It is regarded as one of the fairest distrbution methods ever done. Much better than centralized ASIC mining, or an ICO where the founder keeps 50% of all the money...The fact that you said "premined by the devs" shows you have no idea what you're talking about in this case, not to be rude
+5	1523035785	1	Wait that wasn't a true hardfork since you can still feed it blocks onto that old chain. Like it was debatable if that was a hardfork or not. It was a bug that was fixed since no more than 21 million bitcoin. can exist.No nano wasn't fair. How was the captcha able to have the coins in the first place? It was premined. And the developers say it was hosted in captchas but there's no certain way we can know for sure except trust the devs. And it is not regarded as the most fairest way! The devs could have kept it all and said they distributed through captchas and we will would not be able to prove they did not. How is a pre mine fair? Non premined coins like Bitcoin is fair. It wasn't worth anything and whoever wanted it could have it for free. Sorry but it was premined to the devs. You are the one who doesn't understand it. How did the captchas hold the coins in the first place? It wasn't on the lattice. It was centralized servers placed by the devs themselves. Premined. And unfair. No one says that nano/raiblocks has the most fair distribution. If they did new projects would premine and upload to captcha sites to distributed the coins. But they don't because it's not a fair way.
+6	1523035929	1	>It was a bug that was fixed.Sure, that's on way to put it. A clearer way is "Someone created bitcoins out of thin air, they were recognized as real bitcoins, and the bitcoin community had to fork to fix the issue.>No nano wasn't free. How was the captcha able to have the coins in the first place? It was premined. And the developers say it was hosted in captchas but there's no certain way we can know for sure accept trust the devs. And it is not regarded as the most fairest way! The devs could have kept it all and said they distributed through captchas and we will would not be able to prove they did not. How is a pre mine fair? Non premined coins like Bitcoin is fair. It wasn't worth anything and whoever wanted it could have it for free.You really need to do your research here about the distribution method of raiblocks.>The devs could have kept it all and said they distributed through captchas and we will would not be able to prove they did not. this part specifically... have you heard of a blockchain?
+7	1523036357	1	What captcha sites we're used? Yeah the distribution wasn't open and fair. Sorry And Bitcoin could be debated to have hardfork because the old client can still work today with newer ones. https://bitcoin.stackexchange.com/questions/36090/has-a-hard-fork-ever-occurredDo you own nano/raiblocks? I just have skepticism over it's distribution. Wasn't fair. Why Venezuelans? That's not fair. They got preferred treatment. Satoshi did it right. He didn't pick one class over the other. Whoever wanted some can get it.And what do you mean have I heard about blockchain? Do you mean the captchas were on the blockchain/lattice itself? Or was it on a site? Probably a site. That the devs pretended to put on. And kept their premined coin to themselves.
+8	1523037790	1	>Do you own nano/raiblocks?I put 1000 Nano away in cold storage as an experiment to see if currencycoins will actually hold value over the years, other than that, i sold the rest for VEN. (bought a lot right out of the distrbution)It was completely fair. I know it sounds shady, but look back at the raiblocks sub/discord during that time. I remember there were still hundreds of us. I myself didn't join till the 2nd last day of distribution (was not aware it was the 2nd last day) and there were plenty of people, my point is the devs didn't premine and give everything to themselves. Yes, they also did captchas themselves, The lead dev was able to quit his job to become a full time dev in december during the pump. Vitalik had like what? 12 million ETH at the highest? Satoshi was mining BTC since day one. I don't see the issue
+7	1523036871	0	> You really need to do your research here about the distribution method of raiblocks.Guys raiblocks/nano distributed on faucets.... Not on the block chain/dag/lattice. Premined by devs who promised they distributed through faucets... The devs even mentioned how they would turn off faucets, they control initial distribution? Like satoshi turning off miners😂. Centralized piece of shit. The devs even mentioned that the token came from a Genesis address and to the faucet, a site. And that after it was turned off some tokens would go to the development team. And some were burned. Yeah only this shill would say raiblocks/nano is regarded as the most fair distribution. There's a reason why other coins don't distribute through faucets and it's not because raiblocks/nano is better Shill you should have done your research on how premined raiblocks/nano is.
+8	1523038014	1	>Guys raiblocks/nano distributed on faucets.... Not on the block chain/dag/lattice. I... I don't even know how to respond to something this stupid. 
+1	1523022081	-1	Omg this is one pathetic community of bagholders jfc lol
+2	1523031577	0	awe, bitter?
+3	1523031729	2	Just entertained
+4	1523031946	1	Right... not our loss 
+3	1523035962	0	He’s mad cus he lost all his xrb on bitgrail lmaooo. 
+4	1523036049	1	I never used bitgrail. I also bought all my XRB at 10 cents. But yeah so mad.Just realized you're not the guy I thought I was replying too, oops.
+0	1522992370	30	Use case, adoption, strong tech.  Check, check, check.  Great job NANO.
+1	1523021974	-2	Hahaha
+0	1523014864	7	Well, Twitter has suspended the bot's direct message rights due to the outpouring of support here.  I'm working with them now ... Hopefully this will be resolved shortly.  We will be down until Twitter contacts me with a resolution.  Sorry for the issue.Quick work on Twitter's end, it's reactivated now.  Resume tippage!
+1	1523020220	1	Thanks for the update. Looking forward to use this!
+2	1523020319	2	No problem! FYI, it is back up. I’ll have to see if I can get down to exactly what caused them to black list the application so it doesn’t happen again. 
+0	1522998243	6	So it's a hot wallet system..... 
+0	1523002306	11	Obligatory disclaimer, I am not hating but this is genuine proof that this entire community are large Nano holders. This has already been done by a handful of other currencies, neither of which got any sort of recognition for and the one that did (I can't remember which) actually had the post downvoted. It's just a big lol really. 
+1	1523004014	5	It's not even a blockchain solution, just a bot like we have everywhere on reddit, discord, etc.
+2	1523005676	2	yeah, even on discord too
+3	1523006821	1	Meant to write reddit, thought discord, wrote discord
+2	1523013011	-1	Is it not? The discord bot created a wallet for each user and a transaction for each tip.
+1	1523016853	1	Yeah I agree.It's cool I guess, but I find it very off-putting when comments have this synthetic enthusiasm to them.
+1	1523008380	-1	Your comment is like, it's better to do nothing ?Perhaps it's time to realize that the crypto is simply not really used, getting the crypto know by the most people as we can is extremly important for his developement.We have get an extremly high price rise in less than 2 years but it's mostly speculation who can revert back to previous level, crypto need to be used, known, developed, improved ..
+2	1523025160	1	no, not do nothing. but this getting upvoted while other bots of this sort getting downvoted to hell just shows that this specific doesn't show how good a currency is. 
+3	1523026252	2	Tip bot and micro transactions make sense with a currency like nano because of it's speed and 0 fee so it's different than most other crypto, after for the upvote this doesn't pump the price and this post about nano doesn't block important news in this sub, so it's not really a problem.
+1	1523020675	0	/r/cryptocurrency tis a fickle place.  Always good to see community development though.
+0	1523025896	2	Aaaaand the price falls below $5.  Fuck this market.
+0	1523005392	7	Nano can send fractions of dollar because it is feeless.  You can send 0.0000001 nano and it’s fast as hell.
+1	1523010630	4	Very true! But FYI - I’ve limited sends to .0001 on the bot to prevent extreme spam, seeing as this is less than a penny I feel it’s fair. 
+0	1522979772	5	^The linked tweet was tweeted by [@NanoTipBot](https://twitter.com/NanoTipBot) on Apr 05, 2018 18:20:20 UTC (7 Retweets | 13 Favorites)-------------------------------------------------Tipping $NANO is easy on twitter using the [@NanoTipBot](https://twitter.com/NanoTipBot)!  Here's a youtube video where you can see a tip is processed in about 2 seconds!  [https://youtu.be/FQeF0R4t4ic](https://youtu.be/FQeF0R4t4ic)-------------------------------------------------^^• Beep boop I'm a bot • Find out more about me at /r/tweettranscriberbot/ •
+0	1523020504	2	Nano keeps making integrations, and the price keeps plummeting. 
+1	1523028407	1	Yup.. my average buy price of $17 is hurtin..
+2	1523035203	0	Damn dude get out until a bull run starts back up
+0	1523014888	2	Should we tip some famous people? Is this a good practice to stimulate adoption? 
+1	1523021889	2	Hi it's me, your famous people
+1	1523016643	1	Tip trump... Maybe one day he'll actually be rich off of nano 
+2	1523018786	0	What and risk being connected to the trump/putin finances? Noice try mr muller
+0	1522996372	1	Sweet. BCH has this too. $0.01 u/tippr
+1	1523008698	7	Sure, but BCH is a shitcoin
+2	1523009569	-4	whats with the bch hate everywhere ? / genuinely curious
+3	1523031886	2	Roger Ver is a shiesty MF. BCH is his third attempt to fork and gain control of BTC. He spent time in prison for shady business practices. Has no programming experience.
+3	1523031896	2	It's useless, no one uses it, no one needs it, and it's bagholders constantly try to shove it down our throats.
+3	1523012316	-1	[deleted]
+4	1523014683	0	> bashing the other side 24/7I looked at both subreddits a few days ago. It's in my comment history. 18 out of 50 submissions on /r/btc were attacking Bitcoin. 1 out of 50 submissions on /r/Bitcoin was attacking Bitcoin Cash. Please don't lie.
+5	1523025284	1	r/btc is where people who were banned by r/bitcoin reside, so it makes sense you'd see more people "bashing" bitcoin because they were only criticizing LN for example. while it's less lively r/bitcoincash reports news only on bitcoin cash. cheers.
+2	1523025480	-2	To be fair, so is nanoEdit: I know it's unpopular opinion, I do own some
+3	1523027932	2	Nope Nano is an original code and idea, and Nano does a better job as a cryptocurrency than any other. BCH is just a copy of bitcoin with bigger blocks. Like Doge. So shitcoin status.
+2	1523027942	-2	Do some research man. 
+0	1523031701	1	Big Play...Big Plays... 
+0	1523018832	0	Fuck Nano. Greedy devs insist on owning 5% of the whole thing.
+1	1523024180	2	> Fuck Nano. Greedy devs insist on owning 5% of the whole thing.- Ripple owns 55 Billion XRP and founders got another 10 Billion (100 Billion XRP)- Ethereum's ICO sold 60 Million ETH and developer fund got 12 Million ETH (98 Million ETH)- NEO sold 50 Million to early investors and the NEO council kept 50 Million for itself (100 Million NEO)Nano devs kept 5% and let people solve captchas for the rest.  It was only worth it to people in poor developing countries to solve captchas when Nano was worth almost nothing.  Those "greedy" devs certainly need to learn how to be greedy from other cryptos because they suck at it.
+2	1523029619	2	Oh fuck that. A few other devs were even greedier? That's your excuse.How is 1% of a trillion dollars or whatever not enough for a few devs?
+1	1523020050	1	Whats wrong with that? It is way less than with other altcoins
+2	1523033414	1	It's less than some other, even greedier devs.
+2	1523020156	0	I think he's being sarcastic...
+3	1523020774	0	Dont think so, according to his profile he doesnt do anything else than throwing  in this argument again and again.
+1	1523019893	1	We don't know their personal stash, but the development fund is for development purposes only, hence they don't own it, they're simply trustees for it. 
+0	1523014056	1	This might come in handy, given the topic: "[Beginner’s Guide to Buying Nano](https://gadgtecs.com/2018/03/21/beginners-guide-buying-nano/)"
+0	1523013932	-2	It's as cool as XRPTIPBOT
+1	1523031822	2	only faster and no fees... and people will actually use it
+2	1523031861	-2	People actually use XRPTIPBOT. sorry :)
+3	1523031930	3	Lol
+0	1522998913	-5	i been waiting nearly 2 days for my nano to arrive. Sent it to binance, they said they are working on it.
+1	1523012413	2	That's on binance mate :/ If you get 2 nano wallets and transfer between em, you'll see how fast it really is.
+1	1523010547	0	Unfortunately I have no connection with binance, or the core team, so I can only help you with NanoTipBot related issues. I’d suggest reaching out to binance support for help. 
+2	1523018132	-1	>they said they are working on it.
+1	1523018186	-1	downvoting this is like adding insult to injury lol
+0	1523011050	-8	I never thought there would be a worse community than vtc
+0	1523014171	-7	Idotic circlejerk of nano bagholders never cease to amuse me lol. Its faster so it must be better. Nice brain gymnastics there.
+1	1523016551	4	You must not have sent any bitcoin back in December when transactions took several hours or more to complete.... With the added pleasure of paying $30 to do it.Not good qualities of a currency. 
+1	1523014921	2	How is speed not a good thing for certain use cases? 
+2	1523015372	0	Its a good thing certainly. But not the point of crypto. Blockchain is inherently slow and inefficient compared to centralized systems. We don't have a scaling method for distributed ledgers without compromising decentralization or security. LN is closest we have and we will see if its going to fail or not. 
+3	1523015681	1	I think of crypto overall as a microcosm where we can see evolution happen much like biological evolution. We have all these different blockchains competing for survival and growth but each has different cualifica that could give it a different kind of adoption advantage. Nano and IOTA are like a whole different kingdom, they use block lattice which is actually a huge divergence from blockchain technology. I don’t believe the hype that they might replace bitcoin or ethereum but I do think they offer something for the internet of things level transactions or micro payments like the tipbots do. 
+1	1523021847	-1	Nano bagholders are pretty entertaining
+0	1522999657	-5	SmartCash also has one of those! 😬🤐
+0	1522997982	0	I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:- [/r/nanotrade] [NanoTipBot for twitter it seems.](https://www.reddit.com/r/nanotrade/comments/8a7gqp/nanotipbot_for_twitter_it_seems/)&nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
+1	1522997982	1	If any brigades are found in the TotesMessenger x-post list above, report it to [the modmail](https://www.reddit.com/message/compose?to=%2Fr%2FCryptoCurrency).  Also please use our [vote tracking tool](https://www.reddit.com/r/CryptoCurrency/wiki/resources) to analyze the vote behavior on this post. If you find suspicious vote numbers in a short period of time, report it to [the modmail](https://www.reddit.com/message/compose?to=%2Fr%2FCryptoCurrency). Thank you in advance for your help.*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1523001088	-1	Try with mine pls
+0	1523012353	-1	whoa
+0	1522990876	-27	 lol,  verge had that years ago
+1	1522991161	40	Cool! Now Nano has one as well 👌
+1	1522998393	17	But NANO has a product and isn't a scam. Big difference. Crypto isn't a sports competition. Adoption helps everyone in crypto and these things add up and aid in that.
+1	1522995873	7	There was a race? Fuck I missed it!
+1	1523001919	2	Wrong, it's Twitter tipbot has been live since 31 August 2017. Besides, a social media tipbot is not exactly a good thing for a privacy coin..
+2	1523016222	-2	You have literally pointed out a security flaw and you have got downvoted for it. This ^nanoCommunity is ridiculous.
+1	1522991289	0	You are right. I'm not quite sure what is so amazing about this. 
+2	1522998525	5	All bits of adoption add up. This is making people aware of NANO and crypto in general. May lead to people looking into this space and every little bit counts. We are the marketers for crypto at the moment. Instead of critiquing it you should be doing your part to help the crypto community. The OP should be applauded for helping the cause instead of trolling on an internet blog. 
+2	1522995801	3	Hatin. Build something and post about it. 
+2	1522993093	-1	It's not.
+0	1523006423	-2	ok try me
+0	1523025137	-3	XRP Tipbot did this about 2 months ago, just saying :^)

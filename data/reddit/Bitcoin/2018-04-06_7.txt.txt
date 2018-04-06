@@ -1,0 +1,57 @@
+File created at: 1523038639
+Subreddit: Bitcoin
+Submission title: Lightning Network capacity increased by 1 BTC in 12 hours.
+Submission created utc: 1522978851
+Submission score: 107
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522979235	7	Almost certainly. I haven't used it yet but I downloaded it immediately upon hearing about. It. 
+0	1523000166	5	That twitter consistently shows considerably higher stats than other sources, including my own node. I'm skeptical of its accuracy. Even if the node has a better view of the network, it's still unlikely that the metrics are totally accurate. Better than nothing I guess.
+1	1523020425	2	Your node will only see channels from nodes that are online, whereas this bot will also track capacity from channels that are offline.
+0	1523004003	3	Definitely... I didn't try it until Eclair is out.
+0	1523005129	3	Lol :)
+0	1522979346	12	BCH ded yet? If not, this should do the trick!
+1	1523014602	5	It is decoupling from Bitcoin since 2 months ago, went from 15% to 9.4% and is in a downward trend.With each percentage point loses hashrate to BTC making it effectively less secure. When is low enough I hope somebody ends its misery.
+2	1523024434	1	Like the previous failed attempt!!
+1	1523032875	1	Is who dead?/sStop talking about BCH as if it was real. So what if it's alive or not. Doge is the same thing, but still alive. Let altcoins be altcoins. 
+2	1523034670	1	Doge will outlive BCH.  Never underestimate the power of willful stupidity for a good joke.  Hell, I've considered being that stupid and grabbing a few for posterity.  While some might not think it is good humour, clearly some portion of $300 million think it is.
+1	1522993119	4	Absolutely! 
+0	1523031882	1	I tried Eclair but for some reason it says I have insufficient funds to open a channel even though I have 0.0011 BTC with 6+ confirmations. It won't let me open a channel smaller than 0.001BTC.
+1	1523036984	1	I was having that issue too. For some reason it only worked once I had 0.002 in the wallet.
+0	1522995853	3	Guilty - downloaded and bought some stickers and some bitrefill as soon as it went on the play store.  Anywhere else I can spend with lightning ? 
+1	1523018542	1	I'm sure a lot of places soon. It's going to be fun 
+0	1523003699	1	i have a question about lightning, hope you guys will help me.for example i have to receive 500 000 sat from bobi have opened a few channels with 50 000 capacity with nodes that have few millionsin this case bob could send me those 500k sats ? or i need to have channels opened with minimum the amount i should receive?
+1	1523004375	1	~~AFAIK, there is no requirement for receiving.~~ For receiving, see Rannasha's comment.For sending/spending (of course) and routing, your channel's capacity must be no less than the amount.
+2	1523005629	3	Channel capacity is defined on both ends of the channel. When Alice opens a channel to Bob, both Alice and Bob decide what amount to commit to the channel. This amount may be zero, so if Bob doesn't intend to send money to Alice, Bob may decide to commit nothing (for example if Bob operates a store and Alice is a customer).In order to receive X amount of funds on your channel(s), the sum of the capacities of your channels on the side of the counterparties should add up to at least X. If you only open channels where the counterparty commits nothing, then you can't receive any funds. That is, until you spend some bitcoin on your channels, at which point your counterparties will have a non-zero balance and will be able to route funds to you.
+3	1523006349	2	I think I get the idea. Just to confirm:1. Are you saying the max receivable amount of Alice is equal to the capacity of Bob?2. If yes, is it true that the max receivable amount of Alice is the max capacity of all counterparties of Alice's channels if she has opened channels to multiple counterparties, considering the network topography is perfect?
+4	1523006580	2	1. Yes, on that specific channel.2. Yes.
+5	1523006773	1	Thanks for the clarifications.
+3	1523034007	1	I never understood the following, maybe you could be so kind to clarify?Channels with balance at the start: Alice 0 --- 50 Bob 0 --- 50 CharlyCharly sends 50 to Alice, so the balances are: Alice 50 --- 0 Bob 50 --- 0 CharlyCharly closes his channel with Bob. So it's now Alice 50 --- 0 Bob, but Bob now has 50 in his normal wallet. So Bob now cannot send Alice anything despite commiting funds to the channel at the beginning. Is this correct?
+1	1523027236	1	This is a good question. I believe the answer is that Bob pays the chain fee to fund a 450000 sat channel directly with you.If Bob only had funds in LN and you are using a custodial LN wallet, Bob could pay your custodial service to fund the channel to you. Another possibility is that a custodial wallet does not expose it's users directly to the LN but maintains it's own ledger like a bank and facilates all the channel micromanagement and simply gives you an interface to use it. So the bank would have ample channels and could receive almost any amount.
+0	1523004447	1	Eclair
+0	1523017342	1	What does capacity even mean in this context?
+1	1523017909	1	Total BTC locked in.
+0	1523034508	1	That was me :) 
+0	1522991109	1	I don‘t get it, sorry. ELI5? Thank youu
+1	1522993050	10	LN is a new fast , no cost layer to BTC capable of handling millions of txs per second. 
+2	1523032834	1	Not no cost, just low. You still have to pay about 1 penny per 500 transactions. Thats $1 for 50,000 transactions! It's not zero!That means the average person will spend $2 in their lifetime at most with LN. 
+1	1522996154	2	A user needs to create at least one channel to use Lightning Network (LN). To create a channel, the user has to lock in some BTC. What OP says is that the total amount of BTC locked in in LN rose more quickly, indicating an accelerated adoption.
+2	1522999234	5	Isn't 11 BTC like... really low?
+3	1522999523	5	LN is still in testing phase. BTC locked in may get lost for good due to bugs. 11 BTC is a lot.
+0	1523007836	0	12 btc? out of 16 000 000 in circulation ? WOW IF THIS NEWS DOESNT SEND BTC TO THE MOON, I DONT KNOW WHAT WILL
+1	1523008087	10	Wrong understanding, but correct conclusion.
+1	1523031153	1	This is just the beginning. It just started on mainnet.
+1	1523032600	1	It's like if a brand new exchange opened and there was suddenly $120,000 put in the exchange. It is a big deal that it grew so fast.
+0	1522992094	-15	This lighting network is stupid everyone who sells anything needs a node
+1	1522996512	12	"This bitcoin is stupid everyone who sells anything needs a wallet"  See how dumb you sound?
+1	1522992889	8	You are correct---do not use it---it might bite you---I've heard its addictive and tastes bad. 
+2	1523025346	1	Also powered by corpses of dead babies :( 
+1	1523000209	8	Please lurk more to educate yourself.
+1	1522994541	5	Yeah it is cumbersome, but it will get better. Neutrino does not require full node
+1	1522997863	6	You say that like having a node is a bad thing lol. So not only do they get to validate the consensus rules and top of that they can offer instant trustless tx to their customers. Sounds like a burden tbh
+1	1522995478	3	It's still in its infancy and that's likely to change. But for the meanwhile, more full nodes is likely to be great for bitcoin. 
+1	1523012071	3	And for selling online they also need some kind of web server that hosts their website and is online all the time! That’s absurd, isn’t it?
+1	1523014703	2	Clearly you don't understand how it works
+1	1522995300	1	so dumb /s
+1	1523007982	1	> This lighting network is stupidPeople in glass houses...
+1	1523032710	1	Anyone who has a website needs a node, which is just hosting the website. So just program the code into that server. It's not even a big deal, unlike Bitcoin, LN requires next to no CPU usage. Eclair wallet IS a node and it's just an app!

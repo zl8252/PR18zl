@@ -1,0 +1,19 @@
+File created at: 1523038681
+Subreddit: BitcoinMarkets
+Submission title: Crypto fees are insane
+Submission created utc: 1523028584
+Submission score: 17
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523031564	7	I remember being mad about paying 500$ in fees during a single month of finex 4 years ago. I don't even want to know how much i'm paying now.Should have just shilled ref-links instead of trading these past 4 years.
+0	1523030257	5	> any traditional equity broker (etrade, fidelity etc) over what we have now. those markets are a result of decades of cut-throat financial competition between firms providing liquidity. Crypto is like an infant compared to those markets in terms of maturity. Most exchanges are not even 5 years old.
+0	1523032195	2	I hate it too, but considering how many exchanges have tiered fee structures, the people that dislike the fees the most are the ones that matter least.  It's just frustrating to know that at most exchanges, you have to have a gain of 0.5% just to break even on a sale.
+0	1523033978	2	interactive brokers doesn't run the risk of getting hacked and having equity stolen.So the fees reflect the difference in liability.
+0	1523029286	2	You mean lack of liquidity right??  Not volatility.
+0	1523029058	1	Fees are a pain in the ass shortly said
+0	1523029691	1	Cobinhood. No fees.
+1	1523031277	1	I just made an account. The purchase of 1BTC takes the price of BTC/USDT on that exchange to $8900 LMFAO
+2	1523036782	1	Are you serious?
+0	1523035225	1	My local broker charges 0.8% per trade limit or market. you guys on the US have it easy.
+0	1523029651	0	I’ve been trading on GDAX and I pay no fees for buys/sells using limit orders.  Not quite sure why you’re using market orders.
+1	1523030312	3	Well for one. If you are using a stop loss, it is a lot safer to use a market stop than a limit stop. There have been too many nightmares I’ve had where limit stops never got filled due to lack of liquidity. Too much of a risk. 

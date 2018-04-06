@@ -1,0 +1,17 @@
+File created at: 1523038650
+Subreddit: btc
+Submission title: Chainalysis Adds Support For Bitcoin Cash
+Submission created utc: 1523001778
+Submission score: 87
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523003738	30	I don't need "support" by the Chainstasi!
+1	1523006670	13	[Lets make their jobs harder by having them analyze 10,000 tx/s](https://www.yours.org/content/psa--bitcoin-s-success-is-on-you-44fe01ae8fdc) 
+2	1523031461	2	Also, the more people use coinmix.to the harder their job becomes.
+0	1523012889	14	"support" yeah fuck off.
+0	1523011256	12	Fuck Chainalysys.
+0	1523012933	8	This is yet another point proving that bitcoin cash has relevance.Now where are we one confidential transactions and blind thresholds? -.-
+0	1523007999	6	I don't really like the image they used on this article.. So i made [this](https://imgur.com/a/ccjDS) instead. Much more pleasing on the eyes IMHO
+1	1523008011	1	^(Hi, I'm a bot for linking direct images of albums with only 1 image)**https://i.imgur.com/vgx5MHW.jpg**^^[Source](https://github.com/AUTplayed/imguralbumbot) ^^| ^^[Why?](https://github.com/AUTplayed/imguralbumbot/blob/master/README.md) ^^| ^^[Creator](https://np.reddit.com/user/AUTplayed/) ^^| ^^[ignoreme](https://np.reddit.com/message/compose/?to=imguralbumbot&subject=ignoreme&message=ignoreme) ^^| ^^[deletthis](https://np.reddit.com/message/compose/?to=imguralbumbot&subject=delet%20this&message=delet%20this%20dwwksxu) 
+0	1523021846	2	This is the best tl;dr I could make, [original](https://coinjournal.net/chainalysis-raises-us16m-launches-real-time-transaction-analysis-offering/) reduced by 79%. (I'm a bot)*****> Cryptocurrency compliance startup Chainalysis has raised a US$16 million Series A from Brenchmark as it looks to expand its offering and cover additional cryptocurrencies.> Chainalysis develops investigation and compliance software for cryptocurrency exchanges, banks, international law enforcement agencies and other clients, helping them detect fraud and prevent money laundering.> The newly launched Chainalysis KYT product enables real-time transaction analysis.*****[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/8a9k1u/chainalysis_adds_support_for_bitcoin_cash/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ "Version 2.00, ~306639 tl;drs so far.") | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr "PM's and comments are monitored, constructive feedback is welcome.") | *Top* *keywords*: **Chainalysis**^#1 **Cryptocurrency**^#2 **company**^#3 **transaction**^#4 **Bitcoin**^#5
+0	1523032789	1	Hey are confidential transactions for Bitcoin Cash on the roadmap somewhere?

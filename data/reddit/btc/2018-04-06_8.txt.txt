@@ -1,0 +1,37 @@
+File created at: 1523038649
+Subreddit: btc
+Submission title: Roger Ver was so good at Deconomy that even pro-core CoinTelegraph had to give him a relatively fair shake in their reporting.
+Submission created utc: 1522982683
+Submission score: 91
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523000897	11	Not only Ver was good, but Mow sucked.
+1	1523010833	2	True that
+0	1522985460	12	Interpreting the article is just like watching the live discussion... it’s open to existing biases.
+0	1523026391	3	This post is full of bot
+0	1522994999	1	Hahaha good on all parties
+0	1523022496	-1	He sounded like a petulant child. Not a good look.
+1	1523022521	7	Redditor /u/Klutzkerfuffle has low karma in this subreddit.
+0	1522992969	-60	Are you serious? Ver’s speech was pathetic.
+1	1523004763	9	Hey, don't worry about the down votes, people here are quick to assume you're just another troll due to there being so many here. Could you tell us why you think his speech was pathetic?
+2	1523013843	0	Once you remove all the pre rehearsed talking points, he didn't have much to say.The bit about bitcoin core literally killing babies was pathetic. I honestly don't see how anyone can take him seriously after that, let alone cheer him. Also, how many starving $2/day dying babies have the gigabit connections that Roger wants his network participants to have? 
+3	1523014910	11	Countries with lower economic freedom have higher mortality rates.  Providing tools to give people control of their money gives more economic freedom.And SPV wallets are a thing.  As of a few years ago, 43% of Kenya's GDP was transacted with mPesa on flip-phones (not even smart phones).  Gigabit connections are not needed or required.Bitcoin Cash is not mandating everyone run a full node and have an always-on connection.
+4	1523018498	3	> Countries with lower economic freedom have higher mortality rates.Don't think anyone argues against this. But jumping from that to what Roger said is hyperbolic in the extreme. > And SPV wallets are a thing.They sure are. And isn't it lucky they were available on day 1 of bitcoin. Oh, wait, they took time to develop. What craziness is this? > As of a few years ago, 43% of Kenya's GDP was transacted with mPesa on flip-phones (not even smart phones).Which no doubt works just fine for them. So they **need** bitcoin (cash) because... they'll have fewer starving babies if they switch? 
+5	1523028102	2	Thanks for refuting your own talking points.  I am not sure if you were trying to make a point.With the unpredictable fees of BTC, it makes BCH a better solution.Roger was pointing out that Blockstream forced the community to change the focus from adoption and expansion to a multi-year debate on changing a '1' to a '2'.  This hampered (and provably hurt) adoption, causing much harm to those who could potentially benefit.  Whether lives were saved can be argued, but there was certainly no progress towards the solution.
+5	1523022620	1	There were posts here end of last year how Bitcoin Cash was helping people in Venezuela survive, while BTC transactions took sometimes days and fees were between 10 and 100 USD.And yes, SPV actually works with BCH, you don't need a full node.
+3	1523036077	1	You don't need a gigabit connection. I think you misunderstood that.
+2	1523017808	-1	The dying babies thing was enough for me to say his speech was pathetic. 
+3	1523018390	6	That part of his argument is tied to his strong belief that more economic freedom for poor people (by them being able to adopt bitcoin) helps them feed themselves and better their health. I agree that it comes across poorly when seen outside of this context, but there is some merit to that view. Remember when Bitcoin used to be about banking the unbanked? He believes that because adoption has stalled due to insufficient capacity and high fees (and the unbanked have not been banked) that people may have died that otherwise would have lived
+4	1523018602	3	I agree bitcoin is also about banking the unbanked, but there is no correlation at all between bitcoin adoption and dying babies. You just cant say that because its statistically false.
+5	1523019172	5	There's definitely a correlation between GDP per capita and infant mortality, you can look that up yourself. Now we *like to assume* that adopting bitcoin would be good for the economy of a country where the national currency is unstable (and GDP per capita is low), that assumption would imply that increased bitcoin adoption increases GDP per capita therefore reducing infant mortality. There's no proof of that because it hasn't happened yet. However, if we think adopting bitcoin would be bad for such an economy then what's the point of bitcoin at all? To make the rich richer?
+3	1523018452	8	That's all it took for you to ignore everything else?That's some heavy bias there.*Edit - I keep expecting some good counter arguments to Ver's talking points but.. nope guess not.
+1	1522993713	5	u/cryptochecker 
+2	1522993721	10	Of [u/schweizerm](https://www.reddit.com/u/schweizerm)'s last **1** posts and **1** comments, I found **0** posts and **1** comments in cryptocurrency-related subreddits. Average sentiment (in the interval -1 to +1, with -1 **most negative** and +1 **most positive**) and karma counts are shown for each subreddit:Subreddit|No. of posts|Avg. post sentiment|Total post karma|No. of comments|Avg. comment sentiment|Total comment karma:--|:--|:--|:--|:--|:--|:--r/btc|0|0.0|0|1|-0.67**^(very negative)**|-3***^(Bleep, bloop, I'm a bot trying to help inform cryptocurrency discussion on Reddit.) ^| [^About](https://www.reddit.com/user/cryptochecker/comments/7q3jum/faq_about_ucryptochecker/) ^| [^Feedback](https://www.reddit.com/message/compose?to=jamcowl&subject=cryptochecker%20bot) 
+3	1522997201	12	Is that a purchased account?
+4	1522999294	17	Sleeper account from 2014. Probably yes.
+5	1523009815	1	Look at his previous post and follow the keybase.io link, it seems very likely/proven to me that this account is legit
+6	1523011087	1	It's easy to manufacture keybase profiles as well. If I were selling accounts I would throw in that (and an empty github profile) in as well.
+7	1523011767	1	It's possible, sure, but IMO it's far more likely that this guy is legit and that everyone who assumes that it's a sockpuppet account should chill out for a bit
+8	1523012036	2	Everything about this account suggests it's bought. How you find it more likely that he's legit is beyond me.
+9	1523015219	2	and his Twitter and github accounts are bought as well then? Actually I could see a point in thinking his Twitter account has been taken over as he's been silent for 2017 and has switched from Portugese to English since then, but that could just have easily been due to him being busy with his company Quantia CapitalMaybe you should ask his colleagues there, who are listed by name on their LinkedIn page
+1	1523035968	1	What made you think it was pathetic?

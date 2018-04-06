@@ -1,0 +1,26 @@
+File created at: 1523038638
+Subreddit: Bitcoin
+Submission title: Meanwhile ... Electrum is silently working on adding support to lightning
+Submission created utc: 1523020858
+Submission score: 194
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523028298	1	I love electrum because they are little talk and all action. Other wallet developers run scammy icos and make all sorts of never fulfilled promises wall electrum just keeps delivering over and over.Electrum has remained a positive ray of light in the wallet developer Bitcoin wars. 
+0	1523023909	10	Niiice! I hope the samurai wallet team is doing the same! 
+1	1523025370	1	they are too busy trying to convince people not to use the web anymore, because PKI is scary.
+2	1523027830	1	lol
+0	1523024463	1	Great news. All in one wallet would be excellent news for LN adoption.
+0	1523030497	1	What's with the hard-coded IP in this code?>+#machine = "148.251.87.112"
+1	1523036140	1	Probably the IP of a test server that will be removed sooner or later.
+0	1523029490	1	any wallet that wants to stay relevant has to be working on it
+0	1523031213	1	Yeah that's actually incredible if this comes out on a major wallet like that and works well by end of Summer.
+0	1523026825	1	Hallelujah 
+0	1523026837	1	Just what I was hoping for! We need to use Bitcoin for real life transactions.
+0	1523021268	3	Awesome!
+0	1523022080	5	https://github.com/spesmilo/electrum/issues/2557https://www.youtube.com/watch?v=eCE2OzKIab8&feature=youtu.be&t=20553
+0	1523023940	2	Now, it would be great if their Android releases were those too done in the open: https://redd.it/8a1wd7
+0	1523032774	1	Can't wait to make my first lightning donation to them using their lightning wallet.
+0	1523035665	1	Electrum... simply the best. <3
+0	1523036063	1	ooooooooooooooohh
+0	1523036451	1	I guess not silently any more :)
+0	1523036639	1	Love this team. Zero shit coming out of their mouths, and a quality end product.

@@ -1,0 +1,100 @@
+File created at: 1523038648
+Subreddit: btc
+Submission title: Upgrade Time: Bitcoin Cash Plans a 32 MB Hard Fork - Bitcoin News
+Submission created utc: 1523009728
+Submission score: 96
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523015763	23	Why? If it’s necessary for an increase, why not make it dynamic? 
+1	1523017959	18	Why not remove it alltogether ?This may become a serious problem and another Core-like takeover situation if we don't deal with it.But "32MB" is the maximum specified by Satoshi in 2009, anything more requires change to protocol - this is probably the reason.
+2	1523018992	13	The reason as I understand it, is that 32 MB gives room for growth for the next 3 years and hence time to research proper how to scale more efficently on-chain. As a matter of fact there are a few proposals outthere (e.g. Graphene) for block-compression for block-propagation that has the potential to vastly increase the allowed blocksize while keeping the orphan-level down because the resulting propagated data is compressed while traversing the network. 
+3	1523019746	7	>  is that 32 MB gives room for growth for the next 3 years and hence time to research proper how to scale more efficently on-chain4 years is a long time.In four years, whoever is now developing Bitcoin Cash, may grow / be co-opted which will create another Core-like takeover situation and we will need another hard-fork/split and another blocksize wars. Just see how effectively 1MB was used to stop Bitcoin from growing for 3 years. We cannot have the same problem and the same war again.I say remove the limit now, while we still can.
+4	1523020213	7	Actually, if I remember correctly, I think the total removal is slated for the november upgrade. 
+5	1523028151	3	Indeed. May is simply restoring BCH to how BTC was in the very beginning, which should be trivial.The next step is going beyond those protocol limitations that keep it limited to 32mb which requires a lot more changes.
+6	1523028586	2	Just going past the network message size limit of 32mb is not difficult.BU is already capable of that, ABC and others can easily do it as well.So going e.g. to 128mb would not be hard for the node clients, but not sure about other libraries etc.Pushing much higher needs a lot more work even on node side (ref. Terab project)
+7	1523034405	1	Sure, technically it is not that terrifying but still represents a pretty major departure from the original protocol as written to go beyond 32mb, as such should definitely not be done lightly.Overall though I think it is not so much block size threshold that needs attention as much as block propagation and compression, otherwise we risk lots of stales and orphans in congestion periods, particularly in regions without solid network infrastructure. 
+3	1523032765	1	Marketing-wise, it enables a nice round 100tx/sec
+2	1523030285	1	They're are other limits like the protocol limit that need to be tested before we can reasonably go above 32MB.
+2	1523030593	0	1 miner can take over everything. 
+1	1523018172	8	It is under research AFAIK.
+1	1523019637	7	That’s in the roadmap but probably not ready at this point 
+1	1523022074	-17	Its just a desperate marketing gimmick . BCC has almost no usage and many blocks are under 50kB in size . See for yourself - https://cash.coin.dance/blocks. Thus raising the blocksize limit only increases the attack surface and has no benefit whatsoever. 
+2	1523028081	8	BCC is BitConnect
+3	1523029820	-9	Bcash was created and launched as BCC by Viabtc and Bitmain and many exchanges use that ticker so using either bch or bcc is fine
+4	1523032239	6	Viabtc did not launch bcash, you must be confused with another project. 
+5	1523032289	-6	They launch Bitcoin cash as BCC , aka bcash for short
+6	1523033337	5	Have you not got anything better to do than play childish games? 
+6	1523037366	1	You're mistaking itbfor Bitxoin Core, or BCC short, which is a ponzi owned by Blockstream.
+2	1523033238	6	BCH invites you to attack the network. Our miners appreciate your business.
+2	1523023815	12	Bitsh, please. It's BCH not BCC (BitConnect).Raising the blocksize *decreases* the attack surface for DOS as it costs more for an attacker to fill the blocks at the lowest fee level. If it's kept small and a DOS occurs then users have to pay more to get into the blocks and it becomes unreliable and you never know if your transaction will be included. This ruins its usability as a payment mechanism.
+3	1523027616	5	Exactly, **this**. It only made sense to put in the limit when bitcoin had no monetary value, because then an attacker could strain the then fragile network for no real cost.
+3	1523037423	1	it is BCC on some exchanges like Binance and Bittrex
+3	1523029788	0	Upvote for bitsh
+2	1523035256	1	The limit shouldn't just be increased but should be removed.  It shouldn't be possible for the network to get congested unless the hardware doesn't support it (Any decent hardware can support the increases that have happened in the past and will likely be perfectly capable of increases past 1GB). Artificial limits shouldn't be in place.
+3	1523037581	1	agreed, make BCC require 20k nodes like CSW suggests
+4	1523038303	1	The limit is only a limit, it doesn't instantly increase the size of blocks that are mined, and by the time we get to sizes requiring what are now 20K machines they will have dropped in price considerably.  If multiple miners and companies are the only one's that have archiving nodes then that isn't a problem, it's still decentralized, not everyone and their dog has to run a node.http://satoshi.nakamotoinstitute.org/emails/cryptography/2/
+5	1523038387	1	great , which means an attacker can knock all nodes offline for practically nothing ... smart thinking 
+1	1523034009	-1	Adding capacity when it already has excess seems like a waste.
+2	1523034950	3	If there was an additional cost then that would make sense, removing the limit eliminates the possibility of a stalemate again in the future and doesn't increase any costs until usage increases.  If usage increases that will further increase price and will be an incentive to run a node for an increased cost.
+0	1523026640	6	Wow.. so many troll comments -.-
+0	1523014273	9	Yay, I definitely welcome this. It will help future proof the blocksize, show we are committed to scaling on chain, and increase the cost to “spam” the network by filling blocks to capacity.
+0	1523010530	9	When 64mb 128mb 256mb ? 
+1	1523011494	-14	When 1gb so I can upgreade my 100.000Tb SSD to hold the entire blockchain on my node. 
+2	1523014099	11	Let’s work on getting the tx count up there before we start worrying about full 1GB blocks.
+3	1523027899	10	But maxblocksize= the size of every block /s
+2	1523018141	8	Full GB blocks would be glorious!
+3	1523035685	2	Usage at a point that we have 1GB blocks would be nice, but full blocks shouldn't even be a possibility.
+2	1523029978	5	If you need to run a node, you're probably running a Bitcoin BCH related business. If that's the case, it makes sense to assume you hold a significant amount of BCH. If blocks got to be full 1 GB blocks, there's no way storage cost is a problem for you.
+0	1523033334	1	We should say "protocol upgrade".
+0	1523019930	6	Since when 8MB is a problem? 
+1	1523028753	1	It isn't, but BTC originally had a 32mb threshold, the May update is just restoring this in BCH as the 1mb limit was not meant to be permanent and should have simply been removed a long time ago. The only reason Cash started with 8mb I think was because it seemed more "reasonable" at the time and was similar to the original Bitcoin XT client that started this whole mess, even though the truth is 8mb or 32mb are functionally no different to the protocol, it is just headroom to deal with occasional transaction congestion and otherwise true block size will float between 0 and the maximum allowed.
+2	1523035218	2	>and was similar to the original Bitcoin XT client that started this whole messThe mess was started by Blockstream/Core not allowing Bitcoin to scale. Bitcoin XT was just the first attempt at freeing Bitcoin from the scaling bottleneck. Bitcoin Cash was the last and it succeeded.
+3	1523035557	2	Correct, I should have worded that better, I just meant that it was basically when Bitcoin XT was released that the heavy censorship and disinformation against on-chain scaling began on /bitcoin. That is when I and many others noticed a swift and stark turn to the dark side. Bitcoin Cash is indeed the end result of the campaign XT started. The community forked, the chain forked, and here we are to continue Satoshi's legacy.
+2	1523028960	3	This is a good reason to HF???
+3	1523030991	2	Yes, it is
+3	1523028973	4	Redditor /u/jjduhamer has low karma in this subreddit.
+4	1523031056	1	This is pathetic.  I've been involved with bitcoin since before this sub existed.  I'm not a BCH supporter.  It's true that my views usually get downvoted due to the overwhelming pro-BCH bias here.  But I come here regardless because this community says they support free and open discussion.I'm generally respectful towards other users, and I only contribute in threads where there's a real debate going on.  And now I'll be followed around by u/trolldetectr?  This is beyond hypocritical...
+5	1523036923	2	Perhaps the answer is writing higher quality posts and avoiding using terms like "bcash" that I see in your history.  The discussion is open and free, but I don't know what you expect when you go against popular opinion using language known to be inflammatory. Most of us here are also old Bitcoiners (booted from /bitcoin) who campaigned for on-chain scaling for years before we were forced to finally fork as the nuclear option to have the version of Bitcoin we invested ourselves into prior to 2014. So, you won't win any points for acting like we're all noobs here, we were also around before the need for /btc existed. All that said, I do think bots like this are oppressive and unfairly label contrarians such as yourself as trolls just for having a difference of opinion, frankly I'd like to see that bot removed. 
+5	1523032765	-1	Thanks for the concern trolling 
+0	1523012276	5	Hmm.. this is not really necessary.But I‘d rather have a blockchain that regularly upgrades its block size (without risking centralisation) than a blockchain implementing a new network that disregards Bitcoin’s purpose.
+1	1523032812	5	Design for peak load, not average load. 
+0	1523017320	2	If we only could fill 8mb blocks, time to ramp up adoption, not just the blocksize...
+1	1523018135	6	Rome wasn't built in a day, be patient & keep on it.
+0	1523033846	2	I’m curious why BCH is forking to increase block size to 32mb when 1mb blocks aren’t even being filled for the most part ? In fact it looks like they’re less then 500kb. 
+1	1523033855	3	Redditor /u/ryanisflying has low karma in this subreddit.
+1	1523037710	1	We're looking at where we're going, not where we are. The same argument for the 1mb limit could have been made in 2011 when blocks were only a few kilobytes in size. It only became a problem when average block size finally reached 1mb, and we've seen the drastic distortion this causes in the network live now in BTC that results in high wait times and insane fees. BTC is literally broken in this configuration. A high block size threshold enables BCH to handle peak traffic. Real block sizes will always float in size depending on network traffic, which is how Bitcoin was always designed to operate, governed by other economic forces. As such it doesn't matter that average BCH blocks are less than 1mb. 32mb is only an upper boundary where that is as big as one block *can be*, and allows block size to scale organically. Bitcoin started with a 32mb limit as coded by the hand of Satoshi himself, which is due to some other limitations of the protocol and not a centrally planned limit. BCH is restoring this in May as the 1mb limitation was only supposed to be temporary and was no longer needed the minute BTC had a fiat conversion rate, which was years ago. 
+1	1523035370	-1	> In fact it looks like they’re less then 500kb. [Actual BCH usage rarely needs anything more than a 100kb block.](https://cash.coin.dance/blocks)
+2	1523035454	0	I’m so confused here. If that’s the case why the upgrade from 8 to 32mb? In fact the whole point of BCH was to increase blocksize but what for if not even 1mb blocks are being  filled? 
+3	1523035652	2	> If that’s the case why the upgrade from 8 to 32mb?Honestly, I believe it's because there is no innovation on BCH, so they have to pretend like they're doing something.  While raising the max blocksize limit is trivial, it will trick a lot of ignorant users into thinking that the developers are hard at work improving the protocol, when in reality, it's just someone changing a single constant in the code.The whole thing is a dog and pony show. This change is entirely irrelevant and arbitrary.
+4	1523036958	1	Glad to hear this point of view on this sub. 
+4	1523037453	1	Why is it unnecessary to remove the limit before it is hit? Why is bad to do it in advance? Who gets hurt by this?
+0	1523035722	1	So will I have to do anything as someone who just has coins? Like you say hard fork so so I receive some new coin?
+0	1523036825	1	With a 32MB limit, what happens to fees? Can we have subsatoshi/byte fees?
+0	1523019306	2	Dearly needed.
+0	1523021041	0	So now I can fill up 32 MBs of dust transactions without paying any fees right?
+1	1523023174	7	U r free to pay as little as u choose and miners are free to accept mnimum fee they choose
+2	1523029733	0	https://media0.giphy.com/media/tFK8urY6XHj2w/giphy.gif
+1	1523032670	3	Go for it and let us know which block you have "spammed". 
+0	1523022102	-7	Using 70kb yet upgrading to 32000kb ?
+1	1523022115	9	Redditor /u/hashop has low karma in this subreddit.
+2	1523023202	12	Just got a bit lower
+3	1523031151	3	...Still waiting for the answer to his original point
+0	1523011974	-6	Wtf for what we need 32mb blocks? 
+1	1523015688	10	for all the application you can imagine!for what the hell do we need 1mb... remember?its just the limit. will take years to reach it.but if there is a sudden burst she's gonna take it.
+2	1523033045	3	Exactly! This troll swarm does not understand the concept of peak load. 
+3	1523033126	1	flood control
+0	1523026320	-3	Yes, we need more lanes!https://txhighway.com/Will we get free BCH coins?Which fork will have colored coins?
+1	1523029447	3	Sounds like you are confused. A fork is not necessarily a split. The  2017 split only happened because a group of corrupt developers tricked a  bigger group of ignorant users into staying in the outdated and  crippled side of the chain. 
+2	1523029705	-4	Not necessarily but this is Roger's coin so there's no consensus, trust and decentralization, who knows how many splinter groups he will divide it into.
+0	1523013728	-10	Why?I'm (kind of) a small blocker. Not because I think raising the block size is a bad thing, but because it is just kicking the can down the road.This, in my eyes, unnecessary increase is the exact reason why lots of people were against the initial increase. 
+1	1523017332	12	The reason is simple enough - headroom. We want to be sure that no block is held back by an artificial limit. Because it makes no sense to put transactions off to the next block that you can resolve right now.
+2	1523028072	1	In all fairness,  there's already decent headroom at 8mb, and I can't see any serious number of blocks >16mb before 2020 unless Bitcoin cash gains an unlikely dominance of the cryptoeconomy
+1	1523015551	9	would you say slow and steady developing more advanced batteries is kicking the can down the road?just an example of how technical advancements develope.the more users use it the more data is created. there is NO other way than increasing capacity.  this is not kicking the can down the road. this is evolution. my 2 satoshis...
+2	1523015958	3	>would you say slow and steady developing more advanced batteries is kicking the can down the road?No, but this isn't a great metaphor. A more appropriate one would be instead of developing newer, more efficient batteries, we just strap more and more of the same batteries together.Develop the batteries, don't just increase the amount of batteries.
+3	1523016155	6	increase capacity. thats the same as with batteries.storage capacity..  storage capacity and battery capacity is getting more dense. i think it's quite fitting.10 bits u/tippr
+4	1523018858	3	Thanks for the tip. My first BCH :)
+4	1523016184	1	u/ShitpeasCunk, you've received `0.00001 BCH ($0.00613473 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+1	1523019787	4	In big blocker terms it isn’t kicking the can down the road because on chain scaling is the ultimate goal.
+1	1523033118	0	Give me a good reason why it shouldn't be done. 
+0	1523024852	-10	So the new coin will be called Bitcoin Cash Cash? And the old one will be called Bitcoin Cash Classic? So BCC and BCC? Interesting!!!
+1	1523029346	4	Sounds like you are confused. A fork is not necessarily a split. The 2017 split only happened because a group of corrupt developers tricked a bigger group of ignorant users into staying in the outdated and crippled side of the chain.

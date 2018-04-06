@@ -1,0 +1,52 @@
+File created at: 1523038635
+Subreddit: Bitcoin
+Submission title: Things that scare me as an adult.
+Submission created utc: 1522986139
+Submission score: 448
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523000271	35	What’s with the Chinese flag imprint? 
+1	1523006984	14	Do you fear the tariff? 
+1	1523018489	-6	Found the Donald.
+2	1523038408	1	Guy has a 51% approval rating... time to get on board.
+3	1523038587	1	No brakes...
+0	1523013625	11	It'd make sense if he appeared as a big fat red candlestick.
+0	1523014262	6	Is the 3k value wishful thinking? OP shorting?
+1	1523018462	7	[Unique addresses](https://blockchain.info/charts/n-unique-addresses?timespan=all&daysAverageString=7) used on the network daily has dropped to levels not seen since mid 2016. This could be due to UTXO consolidation, but regardless it looks like fewer users.[Daily transactions](https://blockchain.info/charts/n-transactions?timespan=all&daysAverageString=7) have fallen to levels not seen since early 2016. This could be due to batching, but again, an >50% drop since the last peak, in January, doesn't look like people are acually using the network.A network's value is based on how many people are using it for how many transactions. ~~I forget the name of that 'rule'~~, This is Metcalfe's Law. Historically, BTC's [value has closely followed this rule's function](https://cdn-images-1.medium.com/max/1000/1*2ln3aULR3Yra0xIuDcY2sQ.png) on network worth. That chart is from this [Medium article](https://medium.com/@clearblocks/valuing-bitcoin-and-ethereum-with-metcalfes-law-aaa743f469f6), but there's many like it throughout the years.With both actual users and transactions on the blockchain falling to 2016 levels, I'd expect the value to get much closer than it is now to the 2016 value.Edit: added links, and the name for the rule, Metcalfe.I've also found this [real time monitor](https://charts.bitcoin.com/chart/metcalfe-tx#10) for the value of the network vs. Metcalfe's law's predicted valuation.  It looks like through 2016, the BTC network was valued about 4x what Metcalfe would show. In April '17 it was 8x, and Dec 30 2017 it was 94x metcalfe.  We've currently dropped back to 78x.  Before these past months, being above 10x was extremely uncommon. Our previous all time peak was 33x.I think we've got a [ways to fall](https://www.youtube.com/watch?v=aWQBOsKHqpM).
+2	1523033991	1	ROFL
+2	1523025261	1	Metcalfe's law ... lol, gimme a break. Where do people come up with this crap?
+3	1523025760	1	It's a 30 year old mathematical representation of the usefulness, i.e. value, of a network. [wiki](https://en.wikipedia.org/wiki/Metcalfe%27s_law).And it's been used by the crypto community for years to determine if altcoins were actually worth anything, or just bubbles, and to predict the future value of the network. [A quick Reddit search](https://www.reddit.com/search?q=Metcalfe+bitcoin&restrict_sr=&sort=relevance&t=all) will show you it's been a mainstay in justifying and predicting the market for long time.
+4	1523025766	1	**Metcalfe's law**Metcalfe's law states the effect of a telecommunications network is proportional to the square of the number of connected users of the system (n2). First formulated in this form by George Gilder in 1993, and attributed to Robert Metcalfe in regard to Ethernet, Metcalfe's law was originally presented, c. 1980, not in terms of users, but rather of "compatible communicating devices" (for example, fax machines, telephones, etc.). Only later with the globalization of the Internet did this law carry over to users and networks as its original intent was to describe Ethernet purchases and connections.***^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/Bitcoin/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]^Downvote ^to ^remove ^| ^v0.28
+4	1523038291	1	store of value is the use case.  no one is using btc for MoE until Lightning is developed
+2	1523038249	1	welcome to bitcoin, n00b
+3	1523038591	1	Welcome to Reddit!
+1	1523016420	-1	3k makes sense if trends continue https://trends.google.se/trends/explore?q=bitcoin
+2	1523017917	2	Wtf did i just look at?
+2	1523018042	2	So Bitcoin price only goes up if there's new people googling Bitcoin?That makes sense?!?!I haven't googled Bitcoin in 3 years, yet I still buy it from time to time.What you said makes no sense what-so-ever
+3	1523018743	0	Yeah it's bit a direct link as you said, one can google bitcoin and never participate or they can rather ask a friend who is involved and never google it but they do participate. Not mutually exclusive, but I would say that magnitude of drop off seems a bit worrying. It doesn't make sense to link google trends with price directly but google trends being correlated with new interest seems fair. 
+4	1523019120	1	> google trends being correlated with new interest seems fairSure, but new interest doesn't have direct correlation to price increase.
+5	1523019218	-2	It does! http://i.imgur.com/2GQqB.png
+6	1523019354	4	That's from 2011...
+3	1523019154	0	the price lags behind by a week, your n=1 is not very interesting. Price rises mostly by new blood, not by old, old just maintains the price.
+4	1523022056	1	> I'm an old blood, but when I earn fiat, I use that fiat to buy bitcoin.
+4	1523019292	-1	> Price rises mostly by new bloodBlood? wtf?!
+5	1523019392	-1	are you retarded? https://dictionary.cambridge.org/dictionary/english/new-blood
+6	1523035962	1	Or non-native English speaker.
+0	1522999570	2	nice one
+0	1523025325	1	Hodl my friend
+0	1522999635	1	And I am not afraid of the fall of the course, although it is insulting for my bitcoins ...
+0	1523000210	1	I'm afraid of that too!
+0	1523015132	1	Thats the time when im gonna buy in... 
+0	1523017028	1	I like crash more then pump cause im out from 15k
+0	1523018099	1	September chart? Why not December?
+0	1523034033	1	Another dip? buy buy buy
+0	1523034258	1	What’s with the chart? If it were predicting a price rise people would be deriding it. 
+0	1523007676	1	What’s the kid from? He looks exactly like someone I know
+1	1523012366	1	Stranger things and it remake afaik
+2	1523023264	1	> Stranger thingsYou're thinking of another actor who is in It and Stranger Things.
+1	1523016208	0	The new ‘It’ movie.
+2	1523016445	1	What is it called?
+3	1523036973	1	It?
+3	1523020375	1	yes
+0	1523009894	0	fear is a bad advider does not work well in cyberspace , better watch data , works better like the marked went down few days after this -10.000 dump https://blockchain.info/address/16rCmCmbuWDhPjWTrpQGaU3EPdZF7MTdUk?offset=0 know why things happen , and how long people can play that game.fear only works in direct fight or flight situations and there is no such thing in cyberspace!
+1	1523017641	1	Is this bitfinex?

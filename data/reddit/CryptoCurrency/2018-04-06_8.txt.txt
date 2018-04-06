@@ -1,0 +1,191 @@
+File created at: 1523038674
+Subreddit: CryptoCurrency
+Submission title: 1% tax of the total trade value on each crypto to crypto transaction in Poland
+Submission created utc: 1522995952
+Submission score: 267
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522998349	77	a kurwa.
+0	1523001873	60	So, does Poland win an award for the most unfriendly tax regulations in the entire world? I guess it's something!
+1	1523033003	2	PL wins award for most retarded country sadly
+2	1523035052	0	nah Poland knows whats up. There's a reason why they aren't getting bombed by ISIS members
+1	1523002449	-10	No, that is usa
+2	1523015898	9	people in poland are afraid to file for tax refunds because of how oppresive the IRS here is, risk of audit which is like a criminal case in poland makes it so that is well worth losing money if you're running a business, not sure how much worse it can get
+2	1523020812	3	You only need to fill out taxes to the best of your ability in the US. What they want is tedious but they don't expect you to pay 1% every two weeks on every trade even if you lose money. Trading is a no winning scenario in Poland right now. Noone can make 1% gains on both buys and sells every trade. Then you have to pay the 1% to cash out too. 
+3	1523021682	-1	Maybe you can declare yourself a company and avoid it that way
+4	1523022022	3	I think you'd have better luck declaring yourself a church to avoid taxes. 
+5	1523032212	2	Ok let's do this bois. The Holy Moon Church of Crypto where we practice the Lambo on Moon religion. We'll be known as Moonbois. who's in?
+2	1523009560	-8	Not even close, USA has some of the lowest taxes in the first world.
+3	1523009967	11	Not regarding crypto.
+3	1523010921	9	USA is one of the worst countries in the world to trade crypto in, taxwise. 
+4	1523016145	6	compared to poland's crypto tax it's a tax heaven
+4	1523017956	4	US sucks but man compared to what this polish guy has to go through, damn we got off lucky
+3	1523010744	1	yeah good luck figuring out how much the coin was worth in fiat every time you "mined" it (as in what, 1 whole coin? or every second miner is active? who knows!)
+4	1523011655	5	Even aside from the several tools that do this for you, it’s not that hard..
+4	1523015994	3	It's not any different than businesses that do a lot of stock trades or even manufacture and sell products where your cost of goods sold is very complex and can vary by day or even in the same day between batches.  The problem is mostly that the folks going on bittrex or binance and trading like maniacs like this is a slot machine have no idea how to run a business or do accounting or figure out taxes.Back when I ran a tiny bitcoin mining operation I hired an accountant and he monitored all our wallets for the mining outputs and logged the price of bitcoin for those outputs.  I've done it myself as well and while it's annoying it basically just takes a day of sitting down and looking up prices. It's not impossible and if you have the faintest clue how to export and use a spreadsheet you'll have your income and cost basis within a few hours. The tax laws are not really unfriendly in particular to crypto, honestly the only negative is that it's difficult to use as an actual currency
+3	1523012061	-1	Lowest? You're nuts. The lowest tax rate is zero. And the US nowhere near close to that. Half of Europe does not tax cryptocurrency gains. But MURICA right?
+4	1523013743	2	OP was talking about tax other than crypto. You know, the one that affects the entire population of a country and not just the tiny fraction that trades crypto.
+0	1522996381	79	There is one more thing i forgot to mention. The 1% tax is required even on a losing transaction, they dont care if you make or lose money on crypto.Alsi, two weeks ago Ministry send a letter to all crypto exhanges based in Poland to hand in all the data regarding their customers: Names, IDs, bank accoucnts, trade history, wallet addresses. Wtf?
+1	1523003249	65	wow this is just absurd. Honestly the Polish government is just taking a piss.Czas wypierdalac. 
+2	1523024049	1	and if you dont pay them taxes? would they notice?
+2	1523011997	1	Such a tax is also levied when you buy US, UK, etc stocks, though it is less than 1%. 
+3	1523012301	8	Remember that on top of this you are still required to pay the tax on capital gains at the end of the year, 18% or 32% if your total income from all sources is more than 80k PLN (23k USD).
+4	1523012453	3	If you buy or sell a US stock, the NASDAQ remits 0.25% on the amount you invest to the US treasury. If you buy a UK stock, a 0.5% stamp duty is levied. Then depending on the country you live in, capital gains are (sometimes) payable. Not saying it's perfect, but it's not abnormal either. I don't care either way because I live in a country without capital gains tax.
+5	1523016189	5	Do you have a source on the Nasdaq giving 0.25% to de fed of the amount traded?
+6	1523024223	1	There is an SEC fee but it is typically a penny per trade for small investments -- it's tens of dollars per million dollars traded, rounded up to the next cent.
+7	1523028019	1	That's more likely, that's a common practice around the world. 0.25% would be crazy, that's why I asked.
+3	1523017406	2	What tax in the UK and US are you talking about which is equivalent to this?
+4	1523017896	1	Probably this one for UKhttps://www.gov.uk/tax-buy-shares>When you buy shares, you usually pay a tax or duty of 0.5% on the transaction.
+5	1523019314	1	Does it mean there are no day traders in the UK?
+5	1523020125	1	Interesting, I wasn't aware of it. The page there does specifically point to shares, hopefully UK doesn't categorize crypto in this way or the tax level will be insane for anyone who does more than buy and hold.
+3	1523032319	1	You're wrong about the US at least. In the US the only tax is a tax on gains when you sell. Not the entire transaction amount, just the profit. If you lose money your taxes actually go down for the year. It's actually not that bad of a system.
+1	1523017222	8	Well i guess the best way now is to : 1 transfers everything to non polish-market 2 Convert it all to Monero 3 Open a new Account still on non Polish market 4 Transfer all Monero there 5 Go back to BTC/USD/(T) and keep trading happily while paying taxes for your previous trades ofc  6  Remind your best erasmus friend from *portugal how great it would be to keep in touch (for cashing out when wallet("$").figures() >= 6)XD*belarus also works
+2	1523017312	4	Now that you are saying this I remember I indeed have a friend in Portugal :) I guess it's  time to reunite.
+3	1523017723	3	dziękuję Erasmus!
+1	1523022792	4	Regarding the last part,  India already forces all exchanges to do mandatory KYC to trade on an exchange. Now they ban banks from buying crypto because it can be used in money laundering. I hate India. They can suck my dick i ain't leaving my crypto. 
+1	1523029696	1	They are ruining crypto vision with this.
+1	1523012297	1	i give a fuck bc blockchain is decentralized. they are hoping to find dumb people. 
+0	1522998039	26	rekt
+0	1522999768	36	they went insane...
+1	1522999830	47	Never go full Polish...
+0	1523000426	30	This is very bad for short term or daily traders, but doesn't affect long term holders as much. Not sure what they are trying to do here, but it doesn't make sense unless they want to punish cryptocurrency traders. I just want to clarify one thing though; if you pay 1% of the total value of the transaction, after 100 transactions you **do not** pay 100% of your portfolio. Remember, the math here is (Portfolio value-portfolio value* 1%); this changes since portfolio value changes similar to a sequence / series. I did this on excel to show you: assuming someone has $100 and pays 1% of portfolio value per trade...you would get the results below. I am assuming here that trade = no profit / loss.  https://gyazo.com/ab34c8488a839e038c4eea699b048acaLooking at the math, this is done to discourage trading cryptocurrency; I can't see any other reason. 
+1	1523000868	10	Yes, it works as you said but only if you put aside that 1% after every trade for tax purposes. If you keep trading with your whole portfolio then after 100 trades you would have to pay 100%, assuming no gains/losses as you said.
+2	1523001435	5	I see what you mean, trading without putting aside that 1% for taxes, which is a bad idea. If you're from Poland, then you should definitely talk to whoever made this. How did this even pass? 
+3	1523001666	5	To be fair, it's not a bill especially made for crypto. The Ministry of Finance simply categorized crypto as a commodity and applied an already existing law to it. We do exactly the same if we buy an used car. You have to pay 1% tax on the value of the car and fill in a special paper that has to be handed in within 14 days to the tax office. 
+4	1523009596	10	Get a big(ish) group of people trading very small amounts with a bot.  Get a bot that instantly records and write save your trades. If the tax paper is writable on the computer, get a bot that also logs the transactions on that paper. Drown them in thousands of papers over the course of a few days.  Watch them change that up.Also I don't understand, you buy a used car 5000, you pay 1%, you sell that same used car 4000, you pay that same 1%?  Even if you didn't make money? 
+5	1523011628	7	> Also I don't understand, you buy a used car 5000, you pay 1%, you sell that same used car 4000, you pay that same 1%? Even if you didn't make money? Yes, it's a turnover tax. But that's not all. If you buy a car for 5000, you pay 1% tax and then somehow you sell the same car for 6000 you pay another 1% and then you pay either 18 or 32% tax on that 1000 that you made at the end of year depending on your total income in that year. The same applies to crypto of course.
+6	1523018066	1	Fun! 
+4	1523002010	1	I see, so a solution would be to change the category for crypto or just hold long term vs. short term trading. 
+4	1523012206	1	So on an exchange it doesn't apply because you don't really transfer crypto, but simply change some numbers on the exchange's platform. When you withdraw and deposit you should consider to pay the tax. 
+5	1523012443	1	They gave a clear interpretation that crypto to crypto is a taxable event (1% turnover tax within 14 days of the transaction + capital gains tax which is 18 or 32% depending on your total income).
+6	1523012792	1	Ah, ok.  Google translate didn't work on my phone so I didn't read the article. Thank you for the clarification. Sorry for the taxes bro
+3	1523014043	1	> How did this even pass?That same way anything ever does. The public not taking any interest in politics and the legislation that affects them. Then, when an especially egregious bill pops up, they’re like “how did this ever happen?”
+1	1523021011	2	If you don't immediately remove that 1% owed from your portfolio and continue to trade with that money you definitly can owe more than your portfolio value.So all the past traders who made hundreds of trades before this was announced may owe more than their portfolio is worth.I'm not sure why else they would be requesting exchange information if this is not retroactive. 
+1	1523016078	1	Your analysis is silly since nobody set aside 1% each time since they didn't know this law would be put in place.  They can owe well over 100% under this stupid scheme, even 10000% if you traded enough.
+0	1523001008	42	Poland became fucking joke of a country. Just like mine. Flee while you still can.
+1	1523011555	5	What country are you from?
+2	1523011948	8	Croatia
+3	1523021006	3	How is the current tax situation in Croatia for crypto?
+4	1523021241	2	Crypto is not recognized as such and it's treated like foreign investments and taxed according to it. 12% tax + surtax. 
+5	1523023037	1	But only on gains? Not a flat tax on every transaction? If i read this blog post correct: https://steemit.com/bitcoin/@zneeke/bitcoin-trading-tax-and-rules-for-croatiaI ask, because i have roots from croatia, and want to extend a business here. It's a crypto wallet for tourists, so tourists can pay without the need to change their native money (mostly EUR) into Kuna.
+6	1523025377	1	Only on gains.http://liberal.hr/clanak.php?id=1452
+1	1523020648	-2	Apart from this idiotic policy its pretty good in here.
+2	1523020894	1	Well, if you're far-right wing catholic then it's heaven. Or it's not that bad?
+0	1523005734	10	The Polish Central Bank paid a Youtuber to make anti-cryptocurrency videos: https://cointelegraph.com/news/polish-central-bank-secretly-funds-anti-crypto-youtube-propaganda-videosWhich to be honest, I don't mind that much. Governments should be free to produce as much material as they want to warn people about the risks of cryptocurrency investing.What they shouldn't be free to do is throw someone in prison for several years because they didn't hand over a share of the cryptocurrency they privately exchanged. 
+0	1522998275	10	in slovakia theres 19% tax(if its above 35k of profit in year tax is increased to 25%) + 15% to health insuranceHello monero my old friend
+1	1523001076	7	This tax is not an income tax. It's a transaction tax \(whether you made money or lost it, you still pay 1&#37; from each transaction\) xD
+2	1523001818	1	yep I got it buddy :D it sucks even more tho
+1	1523029251	1	however no capital gains tax if held for longer than 1 year! (Slovakia) source: https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/international-business-support/deloitte-cn-ibs-slovakia-int-tax-en-2017.pdf
+2	1523036139	1	wow that sounds good however I cannot find any other post about it in slovak language though
+0	1523016405	6	I need transport for 400kg of paper forms. For a friend.     Oh yeah, and can anyone spot him 20 billion dollars, he left a bot on overnight.
+0	1523006593	9	KURWAAAAAAAAAAAAAAAAAAAAsorry thats the only polish i know and it applies fairly well in this case 
+0	1523014520	4	Poland cannot into ~~space~~ moon? :( KURWA. 
+0	1522999176	17	This is how the world government is trying to strangle crypto.  Insane laws that make any normal consumer into a criminal.
+1	1523016626	2	>world governmentOkay we can all agree taxing each individual trade is terrible, terrible regulation, but screw that illuminati bullshit. Crypto will never be taken seriously if we default to lunatic conspiracies whenever some second-string government makes a bad decision (news flash: lawmakers make bad laws all the time, they don't always spread all over, they're often turned around in time, and Poland doesn't exactly hold a ton of sway on the world stage).
+2	1523031011	1	I'm not calling out bigfoot here.  Governments collectively responded poorly at least.  I think it's more coordinated among major players because there's evidence that it is.
+1	1523015375	1	they simply categorized cryptos as a commodity and applied existing laws to it.nobody is becoming a criminal because this is done to have clear rules.I know the people here only want to hear good things about cryptos but you will have to live with things like this where the government makes the regulations around cryptos clear and it is not in your favor.
+2	1523029244	1	Yes every country is scamming in the same way - misclassify and place restrictions according to some other asset class.  This is the scam.
+1	1523013742	0	Why could crypto be treated different to other assets?It is sure as hell not a currency in it's current form.
+0	1522997772	11	Dobra zmiana
+0	1523012573	6	Make 1 satoshi trades times a billion, nuke their tax agency with paper work.
+1	1523012682	6	Then I'd have to fill in PCC tax report billion times. It's three pages long and you have to sign it by hand :) Even funnier thing is that you have to state personal data of the person that you traded with in this report. But the gov didnt say how to do it in crypto.
+0	1523021686	3	I guess the recommendation would be "don't pay it". I disagree that we should be obliged to pay what is blatant abusive tax.
+0	1523006254	5	Kurwa, what a shithole, sry Polaks
+0	1523015358	2	poland is a tax heaven for the US (IRS equivalent), the US can stop your business for months or years and there's nothing you can do, they even disregard court sentences, the tax law is so complicated that even the US themselves often won't give you an answer how you should do something, no problem to fuck you over that later though
+0	1523015683	2	That's why we need to decentralise exchanges and make them fairly liquid. No law has a power to overrule entity which has no central authority! 
+0	1523018552	2	KURWA
+0	1523025757	2	I can smell some desperate trader going on a shooting rampage
+1	1523025846	1	One of the exchanges claimed that they already received suicidal phone calls from their customers so it's no joke.
+2	1523033955	1	source?
+0	1523035338	2	Make hundreds of thousands of trades with one dollar of crypto . Send pallets of paperwork to the government. See how long this law lasts. 
+0	1523003323	4	who in their right mind would use polish exchanges now...
+1	1523004002	10	They will  go bankrupt or move abroad. To be fair, Polish Prime Minister Mateusz Morawiecki said in an interview during World Economy Forum in Davos in January this year that he will do everything in his power to crack down this "ponzi scam" that is Bitcoin and crypto. It looks like he indeed kept his word.
+2	1523004208	2	still if I use let's say Binance, they have no way of finding out
+3	1523004674	4	Many people in Poland used Polish exchanges as fiat gateways and then moved their crypto to lets say Binance to trade alts. The problem is that these Polish exachnges are being forced to provide all their customer data to the government, including wallet addresses. So if the governments is any smart they can trace all your transactions through public blockchains.
+4	1523007178	4	That's true but they have no way of finding out your wallet's addresses if you never used polish exchanges.
+4	1523009696	2	Shapeshift to Monero, problem solved.
+4	1523012898	2	Trades on exchanges don't occur on the blockchain, so unless binance turned over data they wouldn't know how many times you traded and how much you should be paying in transaction taxes. 
+4	1523016761	1	they can't, not sure where that myth comes from, as soon as your btc enters an exchange wallet it's untraceable
+5	1523016870	1	It's enough that they know you have transferred your crypto, now it's up to to taxpayer to prove that he payed all his taxes.
+0	1523003169	2	What a shame. This means Polish government is doing exactly the same thing Chinese government did:  shutdown all exchanges. 
+0	1523028345	2	This is insane.  Sounds like a communist country with laws like this
+1	1523028423	2	Well, our ruling party is kind of communist so your comment is not that far-fetched.
+0	1523002761	4	I mean that's stupid, but that doesn't mean that you need to pay 100% taxes when you do 100 trades lol, that's not how percentages work buddy.
+1	1523003820	6	We already discussed it in the comments. If you don't put aside 1% for taxes after each trade, then yes, 100 trades = 100% tax (assuming no gains/loses). However, if you set aside 1% for taxes each time you trade, then you would pay less.However, until yesterday no one had idea about this interpratation at all, and I'm pretty sure no one put aside 1% of their portfolio for taxes after each trade. So yeah, most serious traders are fucked :) 
+2	1523016805	1	but can a law or regulation have a backwards power or whats it called in english.   i mean if government puts some regulation into place it will start to effect everyone from that date onwards...
+3	1523016940	3	It's not a new law. It's just an official interpretation of already existing law :)
+4	1523017741	1	well thats bad for polish traders, so basically you could owe the government a lot more money than you actually have at the moment, like 10x more
+5	1523032432	5	if you used a bot for trading it can ever be 1000x or 1000000x more ;).A friend of mine used several bots with 2k USD per one trading 24/7 for past 2 years. He made a hefty profit on it - about 50k USD in 2 years, which is fuckton in Poland. Unlucky for him he will have to pay 3 billion PLN in taxes (830 million USD) which is.. 0.3% of public debt, all alone on him. Yikes.
+3	1523024527	2	> but can a law or regulation have a backwards power or whats it called in english.In English we usually use the Latin phrase *ex post facto* for that.  And in the US *ex post facto* laws are forbidden in the Constitution.  Doesn't stop the government from trying to grab your money in other ways, though.
+0	1523004859	3	"First they ignore us, then they laugh at us, then they fight us, then we win." Mahatma Gandhi
+0	1523008258	3	Something is seriously wrong in Poland, first the justice reform, now this....
+1	1523008463	7	That's what you get when uneducated people get angry and vote for socialist/communist party, which claims to be against communism and socialism. 
+2	1523011257	3	That's the most absurd part in all of this. People are so fucking clueless... 
+2	1523016431	2	Isn't your ruling party extremely right wing? "Law and justice party"
+3	1523016639	3	They claim to be right wing party. They are right wing when it comes to world-views, they are extremely conservative. But when it comes to economy, they are 110% socialists.
+0	1523009997	2	Poland Is insanely Catholic, I also believe PIZ  appear scared of just about any attempt to introduce new culture. WW2 really fucked the leadership of Poland over.
+0	1523018140	2	Even though I am Polish and live in Poland, I am glad I've no economic and emotional connection with this fucking shithole.Agree @kocio09, czas wypierdalać.
+0	1523020645	2	I feel very, very sorry for you guys. Governments officially feel the threat of cryptocurrency. It really sucks that they're fucking their citizens like that.IMO, go 100% in Monero, transfer your shit elsewhere, convert back to BTC and start over on a non-polish exchange.Fuck that shit. I'm so angry and I'm not even Polish.
+1	1523020693	1	Thank you for the support, much appreciated! 
+0	1523009800	1	I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:- [/r/u_moonlambo1] [1% tax of the total trade value on each crypto to crypto transaction in Poland](https://www.reddit.com/r/u_moonlambo1/comments/8a8crl/1_tax_of_the_total_trade_value_on_each_crypto_to/)&nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
+1	1523009800	1	If any brigades are found in the TotesMessenger x-post list above, report it to [the modmail](https://www.reddit.com/message/compose?to=%2Fr%2FCryptoCurrency).  Also please use our [vote tracking tool](https://www.reddit.com/r/CryptoCurrency/wiki/resources) to analyze the vote behavior on this post. If you find suspicious vote numbers in a short period of time, report it to [the modmail](https://www.reddit.com/message/compose?to=%2Fr%2FCryptoCurrency). Thank you in advance for your help.*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1523010803	1	I don't think that many people can afford this.
+0	1523012150	1	Fucked for day traders, nothing special for hodlers.
+0	1523014239	1	This seems absurd, and I'm not saying it isn't. But a good way to views the tax is as a trading fee that works almost exactly the same way as the 0.5 (or 0.25) % fee on Binance. The more you trade, the more you pay, no matter if you win or lose.So it's advisable to trade as little as possible. Buy and hold.
+1	1523014630	2	Yes, but Binance fee is 0.1% or 0.05% which is 10 or 20 times lower.https://support.binance.com/hc/en-us/articles/115000429332-Fee-Structure-on-Binance
+1	1523016950	1	the fee on binance is 0.1% and 0.05% with bnb, 1% on each trade is insane, you also have to file a 3 page long report on each trade and report it within 2 weeks
+2	1523017268	1	Of course it's ridiculous - especially because you pay the exchange for a service and should pay a state in other ways (e.g. income tax).Just wanted to help people understand the trading tax.
+0	1523017209	1	"Come and take it"
+0	1523017243	1	If this turns out to be true and the ministry doesn't change their interpretation (so far it's still not law) it will destroy many people's lives. This is so ridiculously unfair. How are citizens expected to pay more than they have ever had?
+0	1523017554	1	Hope nobody was doing high frequency trading in Poland.
+0	1523030121	1	Too such a system is impossible to apply. 
+0	1523030630	1	Welcome in the real world of state secured "your neighbor can't plant a knife in your to rape your girlfriend" everyday life.
+0	1523033772	1	And I who thought Poland was a reasonable country.
+0	1523000123	1	taxes are going to kill crypto.. it will never be currency.
+1	1523011570	3	I live in Portugal and cryptos are tax free
+1	1523001246	1	Is there a way to make it so it's not trackable to someone?
+2	1523001470	1	Ofc there is. But no one is going to discuss that with you in public
+3	1523006004	1	Really? It's not that hard is it?
+4	1523006113	0	It's not about how hard it is. Why would anyone want to leave a public comment that could be tracked back to them describing how to evade taxes? That's my thought process here.
+5	1523006242	1	I don't think that would get you into trouble
+6	1523007579	1	I don't think so either. But why would I risk that? What value is there to me in answering such a question compared to the risk I'm taking?Do you know how Ross Ulbricht got caught? Someone used Google to find a multiple year old forum post by Ross before he ever created Silk Road asking if it was possible to make an online marketplace on the deep web and then connected the dotsml. Something that simple.Anyway, I'm all about risk management. That's why I made this decision.
+7	1523008685	2	That's only an issue if you have something to hide
+5	1523016528	1	Literally every thread on tax has comments like that. Including this one
+5	1523017021	1	describing how to avoid taxes is not a crime
+0	1523011669	1	First they piss off the EU that subsidized them for years and now they piss off a huge amount of tech startups that could boost their economy. Our German government is pretty retarded sometimes and the Polish politicians can even top that. Impressive.
+0	1523004125	1	Anyone knows how it applies with a "Lex retro non agit (A law does not apply retroactively)" rule? If they really going to tax all past trades, wouldn't it make it unconsitutional?Also, does it affect only trades made on Polish exchanges? I have a hard time imagining they'll get all trades history from Binance etc., but with Polish government, you never know.
+1	1523004515	4	do you really expect Binance to hand out information about it's users if they receive an inquiry from polish tax dept? 
+2	1523005099	3	I'm sure foreign exchanges don't give a shit, but as u/muchacho_pl pointed out, one thing they can do is follow the transactions, so I wouldn't rule it out completely.
+1	1523004460	3	This 1% tax (called PCC in Poland) came into power in 2001. Technically speaking it has been valid since then. The only thing that "changed" is that the government stated that for tax purposes crypto is a commodity and this old bill applies to it. So yeah, you could interpret it in such a way that you are due any tax on crypto since 2001.They are going to get all the data from Polish exchanges including your wallet addresses associated with your account on these exchanges. They won't get data from foreign exchanges, however all the wallet transfers are publicly available so if they are any smart than they can track when and where you transferred your crypto. 
+2	1523015429	1	Everything you say in the 2nd paragraph is factually correct and could be done in theory, but seriously does anyone think they have the resources for this kind of stuff?
+3	1523015541	2	Of course not but it's enough to make people scared. This shouldn't be a role of the government.
+4	1523021838	1	No you are right. I just hope the EU does not latch onto it and see it as positive in someway, as whatever their collective view is going to be pushed on everyone else.
+2	1523005364	1	Thanks for a quick answer. So technically speaking, shouldn't it be valid from the day crypto was qualified as a commodity? Which was sometime last year IIRC?
+3	1523016377	2	I doubt it, that's not how it works in the us either 
+4	1523017698	1	Yup, apparently it's just an interpretation of the law, not a new law itself. So we're fucked indeed.
+3	1523005651	1	I don't know honestly, I'm not a lawyer.
+4	1523005968	1	Me neither, looks like we'll have to see one in that case. Thanks
+0	1523019318	1	Whoops I seem to have had my private key stolen and all my funds transferred to monero by a hacker. Gosh golly Polish government - sorry about that...
+1	1523019465	1	Nice try but it doesn't exempt you from tax duty :)
+2	1523019946	1	I know buddy :) By the way - did you provide KYC information to all the exchanges you traded on? For example the only exchange which has more than my email address is Coinbase. Binance/Bitrex/Bitfinex ever only wanted my email address.
+3	1523020034	1	Only one which I transferred my FIAT to.
+3	1523021638	1	But surely they can follow the addresses and ask for more information?
+0	1523019666	1	Time to exit Poland or evade taxes. If you can't pull it off you are fucked.
+0	1523020795	1	Welp, time to move
+0	1523005539	0	WOW SO CHEAP. Wish I was in Poland. In my country the tax is 35%-45% for every trade Crypto to Crypto.
+1	1523005758	3	Where are you from? But anyway, I guess you are talking about 35-45% only on GAINS, right? Here we have 1% on the TOTAL VALUE of the trade. Imagine you made 1000 trade in 2017, your due tax could easily exceed your gains.
+2	1523015642	-1	I'm having trouble understanding this. You keep talking about 1% each trade, 100 trades means 100% tax.If you made 1000 trades in 2017 you're not paying 1000% tax but still 1%...But it's true that it really sucks because with this system even with loss you have to pay taxes lol
+3	1523016165	3	Each crypto to crypto transaction is a taxable event in this interpretation. Let's say starting capital was 1000 USD and you are an average trader and everytime you trade you are break even - you don't lose any money but you don't gain either. Then, lets say made 1000 separate trades in 2017. Each of these trades is a taxable event which required you to pay 1% of turnover tax, so 10 USD on each trade. Repeat this 1000 times and you have to pay 10000 USD in taxes even if you didn't have any gains. Edit: but it's not that simple because you are supposed to pay this tax within 14 days of each event, and not just at the end of year.
+3	1523017170	1	1000 trades with whole portfolio = 1000% tax (for simplicity assuming the value of portfolio didn't change)
+0	1523033778	0	Buy buy Poland.  Don't worry people will be more than happy to move to Switzerland.
+0	1523027818	-2	Welcome to reality, you have to pay taxes. It's like this sub is full of 12 years old discovering the adult word.
+1	1523028219	4	Oh boy. Paying taxes is one thing and no sane person questions it. But this is just insane. If you had a trading bot you could easily "owe" the government millions even if you traded like 10k.  
+0	1523013672	-2	There will be more of these coming.Poland is an EU country, and other EU countries are paying very close attention how this is going to pan out.If it has the desired effect, other EU countries will follow with similar legislation.Except that in Finland it is probably going to be the standard 30% for under 30K and then 34%.
+1	1523017281	1	This is not going to be the norm.
+2	1523017946	-1	Oh this is absolutely going to be the norm.You cannot trade stocks to other stocks without having to pay a tax on your profits for end of the year. Why on earth do you think that Cryptocoins would not be treated any different.I have been rather amused that people are enthusiastic about crypto getting "legitimacy" as it is being treated as asset, without realizing what's involved.Although I am still expecting that authorities would have killed at least Bitcoin with childporn that is in blockchain or GDPR legistlation. But that can still happen.Techically full bitcoin blockchain is illegal to posess due to couple CP images hidden with cryptograffitti which is a form of steganography. And it only would take one overzealous police unit to cause interesting havoc in any given country. But it has been weeks since the news broke out in a big way, and nothing has yet happened. Which is shame since that would have been amusing show to see.
+3	1523025493	2	>You cannot trade stocks to other stocks without having to pay a tax on your profits for end of the year. Why on earth do you think that Cryptocoins would not be treated any different.You missed the topic a bit here. The 1&#37; tax described here is not a profit tax. Is a tax that is applied to every exchange. Many comments here already cleared this up, but the gist of it is: say you made a 150 crypto transactions on exchanges in the last few years, but in the end you haven't made any profit nor suffered any loss. The new law interpretation just said that you basically owe 150&#37; of your portfolio value.This is not going to be the norm.
+4	1523028768	1	But the question is, do Polish have similar tax for other assets?
+5	1523034162	1	stocks no, they are considered financial instruments, this tax is used for selling/trading stuff like cars and houses
+6	1523037147	1	That is an interesting choice from the government.
+3	1523018082	1	I was referring mostly to the "pay within 14 days" nonsense in Poland. That is not going to be the norm.
+4	1523020270	1	I have no idea about Polish tax code. As far as I understand Crypto will be in the end treated like any other taxable asset. With same rules. 

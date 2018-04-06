@@ -1,0 +1,43 @@
+File created at: 1523038676
+Subreddit: BitcoinMarkets
+Submission title: Is there still hope for a bitcoin ETF this year?
+Submission created utc: 1522998443
+Submission score: 63
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523013530	12	we need bitcoin backed ETFs, not the paper shit. there are plenty of gold backed ETFs so I guess it is only matter of time - but gold is much easier to protect than crypto :-/ so it will take a long time i guess
+1	1523027951	1	Various hardware wallets from different manufacturers in a multisig arrangement. Thats how you do it.
+0	1523021699	3	&nbsp;Hope? —>  https://www.ccn.com/sec-quietly-puts-bitcoin-etf-proposals-back-on-the-table/&nbsp;
+1	1523022962	3	Should be noted that these two did not voluntarily withdraw as mentioned in OP. As such they are proceeding along standard series of (probable) delays just like Winklevoss and SolidX
+2	1523031673	1	Actually these news articles are about the two funds (long&short) from ProShares that were [withdrawn](https://www.sec.gov/Archives/edgar/data/1174610/000119312518006998/d506454daw.htm).We def can assume they will delay it as long as possible though.
+3	1523034704	1	I may not have read and thought about what I was reading at the same time.
+0	1523003407	6	Thanks for the summary,ETF could begin the bull run n2
+0	1523011441	1	[deleted]
+1	1523013393	3	$700B what?
+2	1523013587	1	[deleted]
+3	1523014017	3	$700B ETF that held zero BTC?
+4	1523014187	2	[deleted]
+5	1523014291	5	And you're saying they owned $700B of BTC & ETH in December?
+1	1523018383	2	Swedish has created an ETN for Bitcoin not ETFs -they are not the same thing.
+0	1523009776	1	No way. One of the reasons stated is that the market is open to manipulation due to relatively low volume and zero regulation. Until the ease at which an institutional investor or someone with giant bags (whale) can manipulate the market is stripped, I don’t see ETFs happening anytime soon. Edit: OP asked if they thought we would see a bitcoin ETF this year. I said no way. Do I think there will eventually be a bitcoin ETF...yeah, but I don’t think it’s going to happen this year. The reasons I stated why I think that are reasons stated by the SEC, not me. Read the letter OP linked if you don’t believe me. 
+1	1523014086	11	There's far too much money up for grabs for an ETF to not to happen soon.The race is on.
+1	1523016128	3	Relative to what commodity?
+0	1523005898	1	Why do you even want ETFs? They are not going to anything to price, they are settled in cash. Didn't you learn anything from futures lol.
+1	1523007250	6	just for the hype it would affect the price. Also it would increase bitcoins popularity and it gives the average non-technical investor a way to invest in bitcoin.
+2	1523007375	-3	Bitcoin eft does nothing for average "investor" its not like an index fund etf which grants easy diversification. ETFs are for institutional investors. There is no differance between buying bitcoin and bitcoin ETF for me, except I control my bitcoin when I buy bitcoin. Which is the whole point of it.
+3	1523009872	13	> ETFs are for institutional investors.Anyone can invest in an ETF, not just accredited or institutional investors. > There is no differance between buying bitcoin and bitcoin ETF for me, except I control my bitcoin when I buy bitcoin. Which is the whole point of it.Same with gold. Plenty of people said that a Gold ETF didn't make sense as one of the benefits of owning gold would be negated by the ETF. However, the knowledge to buy and not be scammed and the cost of securely storing are barriers for the average person to owning both Gold and Bitcoin that are offset by an ETF. 
+4	1523010407	-1	I didnt say average people cant invest in etfs, it just doesnt make sense since whole point is controlling your own wealth.
+5	1523012690	7	It's not meant for us on /bitcoinmarkets that have been in Bitcoin for years. It's meant for your average 50-something that isn't very technical yet wants 1% exposure to Bitcoin in their portfolio. 
+6	1523013429	0	exactly - but instead of buying coins these people will buy paper and be satisfied they are invested in bitcoin - and they will not drive the price up at all.
+7	1523014509	9	ETFs hold the underlying asset. Bitcoin ETF holds Bitcoin. Gold ETF holds gold. Supply and demand pushes up or down price. I don't understand the hostility. This is a net positive.
+8	1523016586	1	Could be wrong but I’m pretty sure the ETF would be futures based and not hold actual btc in any sort of reserve. Hopefully you’re right Bc that would be great for btc
+9	1523019590	3	It doesn't really matter. If the ETF is backed by the future, the future is backed by btc. Anyone selling ETF would need to have long exposure to btc for hedge. Therfore btc demand will increase. 
+9	1523026105	1	As I understand it ETF is backed by bitcoins. Even if it is future based, a long future must be hedged by a long bitcoin so it still increases buying pressure.
+1	1523013317	2	Why wouldn't the ETF hold the underlying?
+1	1523007021	2	I actually did say the following :p> Also I don't really care about ETFs, but it's fun to follow IMO (:On short-term, I think an approved ETF would affect the price. It would create some hype etc. Perhaps it's a "*buy the rumor, sell the news*" event (like when CME went live.) So price can go both ways (which should be good for traders.)On long-term, in theory market makers do use spot exchanges (and therefor do affect the price.) I realize this is pretty indirect and perhaps the volumes right now are making it not really relevant. But there certainly are market makers and in theory it should affect the price (could be positive/negative though and perhaps short-term if they need to cover before settlements etc.)
+1	1523009430	1	EUREX is planning btc settled futures.
+0	1523013545	1	After 4 years of hope, I'd say no, not this year.
+1	1523018312	4	This year *is* different, due to futures being available.
+0	1523031690	0	a 'weapons of mass destruction' etf is more likely.
+1	1523032438	2	that already exists lol:iShares U.S. Aerospace & Defense ETF
+2	1523032672	1	BOOM

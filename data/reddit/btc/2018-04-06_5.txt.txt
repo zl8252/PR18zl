@@ -1,0 +1,21 @@
+File created at: 1523038647
+Subreddit: btc
+Submission title: Great to see Coinbase advertising for buying and selling Bitcoin Cash
+Submission created utc: 1522997269
+Submission score: 114
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523007697	8	I thought crypto-ads are banned by google...
+1	1523027960	1	ICO ads only IIRC
+0	1522998699	14	Great find and it's showing us the way forward. There is only so much promoting the community can do, at one point the businesses using it must  take over!
+1	1523028161	1	It's an affiliate link. Somebody's trying to get the referral bonuses. It's not coinbase marketing directly. But if it's working, great!
+0	1523001766	5	It could also be an affiliate and not coinbase
+1	1523008049	1	It shows the link directly to Coinbase 
+2	1523014483	3	Just for transparency, the link text can be modified for ads posted through Google (though the domain must align).
+0	1522997279	2	^The linked tweet was tweeted by [@OnWindowly](https://twitter.com/OnWindowly) on Apr 06, 2018 06:45:16 UTC (0 Retweets | 1 Favorites)-------------------------------------------------Great to see Coinbase advertising for buying and selling Bitcoin Cash\#BitcoinCash is \#Bitcoin \#freemarket \#freespeech [Attached photo](https://pbs.twimg.com/media/DaFJlO9UwAMdGQZ.jpg:orig) | [imgur Mirror](https://i.imgur.com/O6b2P6m.jpg)-------------------------------------------------^^• Beep boop I'm a bot • Find out more about me at /r/tweettranscriberbot/ •
+0	1522998180	6	You are seeing that particular ad copy because you searched for bitcoin cash. Ads are bought at the keyword level. 
+1	1523013241	8	This is an interesting and obvious observation.Lets dig a bit deeper.I started off by opening my browser in incognito mode, then went to google. A search for only "bitcoin" resulted in a couple of adds, but none from coinbase. A search for "bitcoin cash", however, did result in the ad I expected.This can mean one of many different things, for example it could indicate that google fingerprinted my environment to match the add against a sentiment machine learning script.It could also mean that coinbase are using advertising money to get more BCH buyers and sellers, but are not doing so for BTC, or are not overbidding other marketers for BTC.**Either way, the real takeaway here is that they are indeed using advertising money to get more BCH customers.**
+0	1523037559	1	The biggest improvement to BCH to date! Good job BCH on your stellar innovation! 
+0	1523002350	-8	lol bcash shills must be really desperate, is there nothing left to shill about bitmain cash?  :) are u really that much out of shilling material to bring up tailored google ads?  also, wtf is "bitcion cash"?? :) u must be the worst shill/spam bot on this pathetic sub, lol.
+1	1523003517	3	Oh no, you said bcash. I am deeply offended. 
+2	1523007506	-3	so you are ok with bitmain cash and bitcion cash. good to know, sockpuppet :)

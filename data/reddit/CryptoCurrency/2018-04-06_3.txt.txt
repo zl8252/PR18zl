@@ -1,0 +1,481 @@
+File created at: 1523038664
+Subreddit: CryptoCurrency
+Submission title: Verge (XVG) Mining Exploit Attack Megathread
+Submission created utc: 1522953650
+Submission score: 531
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522960810	81	Damn, /r/vergecurrency mods going on a banning spree right now
+1	1522976530	33	I got banned for posting this great screenshot. Fun stuff from the bitcointalk thread by ocminer:https://i.imgur.com/gxVZzUi.pngThe first 'fix' from about 4 yesterday. Devs showing off their 2*15 = 15 quick maths. Then doubling down instead of admitting it was a copy and paste that they didn't event read the contents of (even copied typos into the git commit comment rofl)
+2	1522997536	4	Looking through the threads of peercoin, it actually goes into details about how to exploit it. >Here is a Specific Attack:User manually sets their PC 1 hour & 50 minutes Fast.When their block finally stakes, it kills the network difficulty, lowering it for everyone, and since the block staked 1 hour & 50 min ahead of everyone else, it appears to be the longer chain and any more blocks near staking for that user have a advantage over the rest of the users set to the correct time, so his blocks will then stake and basically block any new blocks from any users at the correct time, until he runs out of blocks, also will cause more blocks to be created than what Peercoin is designed for. And if you think it can't happen test it.Watch the Peercoin block explorer, manually set your clock ahead 1 hour & 50 minutes, if you have any blocks ready to stake, when one stakes, you will own the staking blocks until you run out of blocks to stake. On the block explorer you will see the network difficulty drop by ~ half which will indicate the change and if you check the blocks you will stake almost everyone from then on , until you run out of blocks to stake or quit staking.If that does not happen , then you know it is not an issue for peercoin.If it does , then you need to change Timedrift ASAP.
+3	1523021797	3	At this point blackhats may as well just trawl previously fixed vulnerabilities in other crypto an try them out on Verge since they don't seem to keep their borrowed code up to date.
+1	1522964522	52	I looked at their sub and all I see is 99% of people there are saying that they just bought more and how great xvg is. Did they censor any opposition? Their sub looks retarded.
+2	1522970796	22	Yes. A good number of posts that were removed by mods can be found here:https://ceddit.com/r/vergecurrency
+2	1522968066	24	Pretty much anyone who says anything remotely negative gets banned now, even long time verge supporters.
+3	1522978227	27	Almost as retarded as the cryptocurrency subreddit.
+4	1522989829	3	That’s what makes us special 
+5	1523031014	1	Got banned, but I was kind of mean. 
+2	1523020181	3	Colleague said to me that the hack has been debunked and it is not true. Because his friends are traders with large sum of money and they are very close to the source.Ignored me when I said you could just check their block explorer.
+2	1523000241	0	I see similar with Nano, but Nano actually looks neat from its speed? What are your thoughts (no censor, no bamboozle)
+1	1522970603	11	Bastard banned me when i posted screenshot of bad blocks ... :) I made a video about it here: https://youtu.be/ViW-6GhYy4Q
+1	1523033143	1	That's how it works. Speak the truth, and it's FUD. Speak the truth, and you're a hater. Speak the truth, and you don't know what you're talking about. Lol.
+0	1522957728	27	So everything about it screams red flag and it has a cult of teenagers wanting lambo and moon chasing after it and downvotes anyone to oblivion for stating the opposites. Watching the verge telegram is hillarious. You guys are just pushing bags around to each other. I dont know how many more red flags needed for people but i guess people are blind by the sign of $.
+0	1522955004	54	Every time I think that the party is over, Verge gives me something to pull me back in. This crypto has been my entertainment for the past 2 weeks. Going to leave a big hole in my life when it either collapses or quiets down for a time. 
+1	1522956783	9	Yeah, it’s Bitconnect 2.0
+1	1522956466	-6	Could you imagine if Sunerok pulled it off? Bringing in ebay or something 😂 Damn that would be a twist worth applauding. 
+2	1522956879	17	This doesn’t make any sense. It’s like saying that my grandma (RIP) came to my birthday flying a F16 as a surprise. 
+3	1522957496	-1	Of course not. It was a comment. But it would be such a twist. But the downvoter didnt get my joke. 
+2	1522957515	3	I actually fear there is a renown company. No better sign the market is in a giant bubble than companies jumping on pure hype coins with absolutely no solid fundamentals.Wonder how ringct implementation will work out. Should be one of the next shitshows.
+2	1522956880	-3	I think the current Verge meta is that Amazon is the partner. But seriously, hats off to Verge if there is actually a major partnership in the works. I’ll be very, very, very confused, but it might actually stop Sunerok from blowing up Verge from the inside on his own. Verge Fam needs some good news badly, lol. 
+3	1522957653	5	Im aware of the Amazon but they are too powerful so they could make their own token to loyal customers or howevervthey would sell it in. No one will partner with Verge. Herbalife been mentioned, multi-level marketing. Enough fools who could start shopping coins. 
+4	1522957932	4	There isn’t a snowball’s chance in hell that Amazon is the partner. I’m just referring to what the majority opinion over at /r/vergecurrency has been lately. 
+3	1523003711	0	Do you think Amazon will ask for money for a partnership ? That's why that criminal (Sunerok) raised those funds? To pay Amazon? You are some kind of stupid thinking of this.
+4	1523015587	1	No, I don’t believe it’ll be Amazon or that they have a partnership at all. I even say that like a comment down. My history has plenty of Verge criticism, lol.
+5	1523022012	1	oh ok sorry.
+1	1522955915	-19	Don’t worry, r/cryptocurrency has plenty of hate threads for you to take a shit in.
+2	1522956391	14	Do you ever get tired of doing all the legwork for Sunerok? He’s off riling up half the crypto community and posting shady responses at best. The guy genuinely doesn’t know how lucky he is to have a community that is willing to overlook everything to support the coin. I get wanting to support your holdings. I’ve gone to bat online for the things I believe in too. I just don’t understand how so many people can respond so nonchalantly to every red flag that comes out of Verge on a seemingly endless basis. The enjoyment in watching Verge is not fueling the hate or “FUD”, it’s seeing how every fuck up is excused or ignored. Justin really made a bad judgment call by starting Verge as a crypto and not a cult. 
+3	1523034225	1	Probably all alts of verge team.
+3	1522958700	-2	Sure. But it’s hypocritical to call support of a coin cultish. Everyone wants their holding to appreciate, and fuck a bunch of naysayers on the internet who disrupt your bottom line. The fud forces people into tribes. If you acquired 10,000 BTC in 2008, would you have sold it two weeks later because bitter people on the internet shouted you down? If you are going to shit on a coin, just be honest about. “I don’t like Verge and I want it to fail. Inept developer, shitcoin, blah blah blah.” If the entire thing collapses, congratulations cheeto fingers, you called it. You’re the oracle of crypto
+4	1522959169	8	How is it hypocritical to call the support of Verge cultish? It’s an observation. If you really don’t see the difference between the Verge community and most other top 25 coins, I’m not going to be able to change your mind. You’re in too deep. Plus, I said he should’ve started a cult. The coin is cultish too though. Supporting your investments is one thing. Censoring negative information and screaming “FUD ALERT” at every criticism is a whole different ball game. I wish I had Cheeto fingers. I’m lactose intolerant. I really doubt either of us is going to sway the other. 
+4	1523003952	2	Bitcoin wasn't around in 2008, so yeah 
+4	1522965440	2	No reasoning with biggest part of this sub lol.
+0	1522957615	40	This is shady AF. It’s a bit like those exit scams that start with a fake DDOS attack.First this totally fucked up donation thing to announce a ridiculous partnership (Verge is going to change the world with this partnership, it’s going to be top 3...)All the money comes from a sketchy company. Like, this makes absolutely no sense whatsoever.Then, of course the announcement gets postponed and price grows 50% because of people buying the rumor.And now this bullshit. And of course, because of the poor coding, either the announcement will get “delayed”, “canceled” or will be the crappiest thing ever. - Maybe it’s an elaborate scam (hard to use the word *elaborate* when talking of /u/surenok and Verge development and that community...)Maybe they are using the exploit to reimburse the company that donated like 70 millions XVG and this was planned all along. This would make sense: give 70 millions XVG, pump the price, generate and dump fake money because dumping the donated XVG would be too much, kill the announcement, dump the 70 millions later. 
+1	1522959061	15	The sketchy company is one that Sunerok has been involved in as well for at least six months.... https://mobile.twitter.com/tokenpay/status/936032354489065472?lang=en - donating his own tokens to himself?
+1	1522959888	4	Is it just me, or is it odd that the partnership announcement date was moved to April 17, the day taxes are due in the U.S. this year...?Again, used to hold XVG, not a hater, was thinking of going back in after the partnership spike and dump and it found real price discovery again, but not going anywhere near it now.
+2	1522999768	1	It’s been dodgy from the start, announcements delays development delays more delays crowd funding delays hack fork delays!
+3	1523022036	1	True...😞
+0	1522956352	82	The attack is still going on and the dev said it's fixed(just like last time). Now he says he's working on a more permanent "fix". Whatever that means lol.
+1	1522958946	40	He's going to use a big knife with his hard fork. 
+2	1522964254	6	spork!
+3	1522984516	1	Zork!
+4	1522991952	3	You have been eaten by a grue
+2	1522964736	1	That's not a knife. That's a spoon!
+1	1522964946	5	permanent beta fix version 0.1  permanent beta fix version 0.2 ....etc
+1	1522986149	1	Sorry for the piggyback post, our team (Dero) is legitimately calling out these network attackers.&nbsp;https://bitcointalk.org/index.php?topic=3256693.msg34029455#msg34029455
+1	1523005295	1	lol it means leaving just the word penis on their website....with a one way flight out of the country
+1	1523013164	1	His fix apparently has some new vulnerability where you set your own mining clock 20 minutes into the future.
+1	1523022893	1	So this announcement is real.
+0	1522953987	73	this popcorn is delicious 
+1	1522962692	11	Goes really well with "Bagholders" brand of salt.
+2	1522965740	2	don’t forget the Buttcoin Butter!
+0	1522954331	287	Verge is so fucked. There were so many warnings.Why can't there be legit hype for privacy coins? Look at them all. There's Monero, which is great, but none of the other legit ones even have a name for themselves. Who here's heard of Aeon? Some of you? What about Karbo? Masari?No. You've all heard of Verge. Zcash. BTCP.I know I'm gonna get downvoted by bagholders but that's just the truth of it. People want $$ - And they always seem to choose it over legitimate content. I guess this is the result of that..Edit: Even if you *wanted* money, everyone knows Monero is going to be around in 2 years. There's two Monero forks coming up (admittedly both scams) so there's even a large short-term gain to be made. It's just stupid you would put yourself in a position you *know* is a losing battle
+1	1522954958	123	Great news!!! The hacker is donating the mined coins to the devs so that we can know about the super secret partnerships!!!!/s 
+2	1522960944	17	Don't give the Vergins any ideas...  I expect one of them actually trying to push that idea shortly.
+2	1522957040	15	Better news! They need another round of donation to help pay for the YUGE cost in fees to move all the hackers coins over to their new partners' accounts! /s
+3	1522957579	1	This is great!!!
+2	1522965292	4	lmao but wait, gotta pay my taxes first so i'll need a bit more of a donation!
+2	1523011114	2	Or did the Devs do it all themselves, and their recent cash raising was an exit strategy? 
+1	1522955786	44	Because Monero is in the hundereds of dollars. Most people that are in it just for the money, think to themselves, hmm it's in the Cents. Must have huge potential...
+2	1522957270	35	Fucking idiots, but that explains a lot of "investors" in this space (yes, still). 
+2	1522961132	11	Lol then they should get Turtlecoin. Its the cheapest privacy coin! 
+3	1522963996	10	Whoa, the current price is ~ $0.0000672. If I buy a million and it hits $1, I will have a million dollars! /s
+3	1522973523	5	doesn't get any cheaper than 1 satoshi :D
+3	1523035987	1	Too bad they are having 51% attack issues as well.
+2	1522962098	6	This is why bitcoin needs to freaking rebrand its pricing from .001 whatever btc into satoshis people like the idea of 10,0000 sats vs like .0001 btc  
+3	1522979523	2	I agree... let’s start putting things in milliBits. 
+4	1522982605	3	lol anything to keep people from buying crap like verge because they think its "cheap"
+2	1523019541	2	True, it's absolutely mind boggling how many idiots don't understand the concept of market cap.There's even a handy site called coin**marketcap**. I heard it's pretty famous.
+3	1523035584	1	Rookie mistake. When I was put off by crypto at first was because I thought to myself no way a crypto company with no profits is worth X amount. Then I realized it's not what I thought. But I was noob back then (late 2016-early 2017).
+4	1523036842	1	I think that's even too clever of a thought process. Most people probably think "oh even if this moons to 1000$ like BTC I will be super rich!"
+2	1522959561	0	Well then move the display decimal place a few digits over so they can feel better about it.
+1	1522968053	8	The one who was really looking for something legit and private did hear about Karbo and Aeon.
+1	1522960238	17	Verge would still be irrelevant if it wasn’t for John McAfee. 
+2	1522962514	18	lmao they spent 100k for a tweet instead of hiring devs to fix there shitcoin
+3	1522982420	8	Lol, to be fair marketing probably pays 10x vs actually being competent
+4	1522982556	5	Lol whatever i wish i had bought this shitcoin last week would have been some nice profits. Im just getting pissed cuz the good projects are freaking dying and all we have now is just random pnd's from whatever altcoin that is under 10 cents
+5	1523013330	1	No one can move their coins as the hacker miner is only mining empty blocks.
+4	1523017540	3	Case in point: TRX
+1	1522960892	17	Vergefam...  They're just a cult at this point, and don't care about facts.
+2	1522992615	4	They call themselves "Vergins"
+3	1523013439	7	Ironic that vergins get fucked so thoroughly. 
+3	1523013143	1	Like ... virgins? Why? It sounds so uncool.
+3	1523024268	1	"Vergefam" got pushed and is commonly used now...  
+1	1522962973	11	We don't need tons of privacy coins - just one or two that work. And I know there are criticisms of ZCash, but they are doing legitimate research. Far more than one can say about Verge. (I hold neither of these coins)
+2	1522964376	6	That's a very true point
+1	1522968244	5	I heard of AEON, KARBO and MASARI, although I am personally only with Karbo but AEON seems pretty legit too, thanks to the reviews (however strange it might seem) of Karbo community members. Big buck makes people minds softer but later, the smart ones',  learn by their mistakes and before "investing", self-educate. 
+1	1522954405	11	[deleted]
+2	1522956175	5	Within a week or two it will be the only coin in crypto with private staking
+3	1522956936	1	Colx which is a pivx fork also exists 
+4	1522957123	11	They forked almost a year ago, before zerocoin, and haven't really developed anything since.  If that interests you, I'll fork PIVX and sell you some coins for cheap
+5	1522957377	1	sign me up! jk I’m not really shilling colx. It might be a shitcoin. I have a very very very small amount just in case to hopefully make a few bucks. If it’s nothing then I’m not gonna lose sleep over what I have in it. 
+6	1522957811	2	Hah we in same boat. I got some from loose change on Trade Satoshi. Has a nice roadmap. They wanna be privacy IOTA replacement ?
+7	1522960075	7	Their roadmap is basically copying PIVX further.  They had no whitepaper or stated intent for about 6 months until they said they want to be a storage network like Sia, which is 2 to 3 years away.  They have no development progress to show that they can accomplish this and honestly that's a very weird pivot 
+8	1522960713	2	Well lucky i only have a small amount 😉
+8	1522962442	2	damn had no clue. at least if it tanks I’m only out 50 bucks 
+7	1522958024	3	not sure if they’ve stated that or if that’s what people equate it to. they’ve been progressively updating and seem to communicate well from what I’ve seen. Just released the whitepaper. Well see! I’d be happy to see it at just a few cents 
+3	1522957309	-3	I'm amazed hardly anyone in this sub seems to know NAVEDIT: Oh crap I made the mistake of mentioning an unpopular coin. Guess bring on the "I DONT OWN THAT" downvotes. 
+4	1522957453	-3	Their privacy mechanism is questionable and does not apply to staking, it's only an option for transactions
+5	1522957900	-2	You can't just make statements like that without backing it up. If rich lists are the sole reason you consider NAV to have a lack of privacy, try to track a private transaction made using it. 
+6	1522960375	4	Anyone who owns a navtech server can track private transactions made through it.
+7	1522964115	3	Not sure why you're getting downvoted. The servers that provide the privacy functionality have an omniscient view of their portion of the process. This means you have to trust these servers, similar to how you have to trust mixing services.
+7	1522963633	2	Who knew a centralized privacy system doesn’t work 🤔
+7	1522968830	1	This issue is not being ignored and in fact NAV will be one of the most decentralized PoS coins out there once NAVtech 2.0 is released. https://www.navcore.org/roadmap/Afterwards anonymous transactions will be routed through an untold number of staking wallets. Certainly more decentralized than masternodes. I won't claim that NAV isn't a very speculative project to invest in, but I'm not alone in thinking they have some solid potential. 
+3	1522957434	-5	Linda is a private staking coin, and is doing great. I see huge potential for it.
+4	1522959150	0	I always check biggest gainers and losers on CMC, Linda is in there allot, getting pnded allot or am i wrong?
+5	1522962498	2	Linda coin subreddit is fucking weird, like they hate themselves.
+5	1522998979	1	It's been on there because the team has been making a lot of developments and they announced 2Mil masternodes, down from 30Mil, so there are some organic pumps and corrections
+1	1522956937	6	What's wrong with zCash?
+2	1522957647	37	Trusted setup, no one uses it for private transactions, network is scannable because not enough people use private transactions, private transactions are too expensive to send from phones/hardware wallets, founders reward, miners tax, centralized development, paid shilling against Monero and IOTA and a fuck ton more
+3	1522962598	5	Oh ok that's valid
+4	1522964390	3	Happy to help <3
+3	1522965231	4	Good tech though
+4	1522965685	6	Which is why other coins copied it and removed the bullshit
+5	1523012939	1	other companies don't pay them to help setup privacy coins, they pay them to leave afterwards
+5	1522968856	2	Yes, BTCP did that in a way. I think BTCP is not a shitcoin, despite having Bitcoin in the name. The tech, branding and dev team really aren't bad. It'd probably rise if listed on big exchanges, considering it's volume mostly comes from Tradesatoshi and Nanex and it's #32 right now. 
+3	1522964715	3	Points 2-4 are a sore point for ZCash because of how expensive private transactions are, but that should get substantially better with Sapling https://blog.z.cash/cultivating-sapling-faster-zksnarks/  As for the other things, I don't think centralized development is necessarily a negative. But I agree that the trusted setup is hard to stomach (how can we know that it worked?) Where has there been paid shilling against Monero/iota?
+4	1522982595	1	https://www.reddit.com/r/CryptoCurrency/comments/820v7e/some_anon_user_just_dropped_this_pastebin/
+3	1523038288	1	> paid shilling against Monero and IOTA what are you referring to here? (i'm ignorant)
+2	1523003345	2	Answered this a while back, this is a copy of my own post:The privacy is optional which creates problems (http://jeffq.com/blog/on-the-linkability-of-zcash-transactions/).It is owned by a USA-based company which in my opinion is a dealbreaker for a privacy coin. The CEO has talked about tracing criminals before (https://twitter.com/zooko/status/863202798883577856). He has also talked about manipulating/invalidating peoples keys but I can't find the link.It has a built in possible backdoor because of the trusted setup needed when the project was created. This does not compromise privacy but does compromise coin-minting (https://www.coindesk.com/defending-zcash-blockchain-art-security-theater/).Besides being a for profit company that taxes its users 10 - 20% of all mining, this also means that governments and other actors could strong-arm the company to include backdoors in the code and it doesn't exactly help my confidence that ZCash is a part of the blockchain alliance (http://blockchainalliance.org/). This is an organization meant to track users and combat criminal activity among blockchains. The whole ZK project also has many ties to government and big data (http://www.globalresearch.ca/zerocash-a-cryptocurrencys-deep-state-ties/5553661).And still it's so much, just so so much better than Verge.
+1	1522957616	7	do yourself a favor and check out the Particl Project. it's an under-the-radar coin that is consistently rated in the top 10 for their github activity/progress. literally zero hype and all development thus far, so there is a lot of growth potential when they finally ramp up their marketing soon. they are very close to releasing a likely industry disrupting product---a truly anonymous crypto-agnostic marketplace---the screenshots/gifs i've seen so far look incredible.
+2	1522960345	5	I'm aware of Particl and a really big fan of their Ring Sigs and Cryptonote adoption methods. I just named a few random ones off the top of my head.
+3	1522965018	4	it's nice to see monero and particl making strides to implement ringct bulletproofs to reduce the weight of the transactions on their blockchains, some truly cutting edge privacy development happening :)
+4	1522965721	3	Does Particl have RingCT? Bulletproofs are mainly to improve RingCT so I'm surprised Particl is looking into it O_o
+5	1522967734	3	Not sure if the work is complete yet, but  yes they're implementing RingCT on Bitcoin coinbase.
+5	1522968454	3	ringct is currently on testnet and will be implemented on mainnet when the new jersey tech institute finishes their code audit
+5	1522976055	2	Bulletproofs have many applications actually, u should check out the whitepaper if  u haven’t (i assume u have though)
+3	1522967612	4	Particl doesn't use cryptonote... It's based on Bitcoin coinbase.
+2	1522963710	5	Particl is great!
+1	1522965779	5	Pivx seems good 
+1	1522961966	2	Monero and particl are the only privacy coins i take seriously i also keep tabs on coins that use the zerocoin protocol as well.
+2	1523008672	3	Aren't the particl-guys the same guys from shadowcash (which was a huge scam). I guess dev's name was Rynomster or something. They made promise after promise, never delivered and eventually kinda scammed people out of their money... edit: ya, same devs: https://bitcointalk.org/index.php?topic=1863861.0wouldn't trust this one one bit...
+1	1522958834	3	Particl.Waiting for the downvotes, FUD and statements that confirm my expectations of such otherwise but I suggest you DYOR this during the remainder of 2018.
+2	1522962639	4	lol i got particl on my radar im keeping tabs on there development im really looking forward to see how this decentralized marketplace works out, im expecting with the private sales function its gonna become a silk road/alpha bay 2.0
+1	1522967290	1	TRTL
+1	1522978978	1	DERO gets my vote, cryptonote implementation in golang and prevented this type of issues since is a rewrite of the protocol instead of carrying the C/C++ ancient code.
+1	1522986426	1	Tomorrow's hard-fork of Monero is not a scam, that's a legit Monero hard-fork. MoneroV, that's the end of April - that one is a scam. 
+1	1522990306	1	I totally agree with you about Monero. It will stick around. I also feel like Monero has become or is becoming the privacy coin of less-than-ethical payments. It is developing a stigma. Not too long ago there was a crosspost from some drug subreddit of LSD printed on tabs/a sheet of paper with the Monero logo printed on each dose.It is not a far stretch to assume the alt-currency community would benefit from more than one privacy coin. While Aeon, Karbo and Masai are likely coloring between the lines, Verge is a glorious trainwreck. It's human nature to be drawn to it. There is money to be made it Verge still, just not the moon-lambo kind. Oddly enough, its a game of theft. I'm surprised so many people complain about how ~~solid~~ stupid the "vergefam" is, when there gains to be made trading Verge for the hype-train that it is.
+1	1522994990	1	So many red flags. Just like communism.
+1	1523008483	1	Don't forget ONION.
+1	1523029857	1	I assume the 2 “scams” include Loki. Can you elaborate on why you think Loki is a scam?
+1	1523036009	1	You want legit in privacy coins, look at ZenCash. 
+1	1522963435	0	Once zPoS is released PIVX will have better privacy than Monero, yet no one has heard of that either.
+2	1522964265	1	Zerocoin is very different than ring signatures/RingCT/stealth addresses. Pros and cons to both, but not the same.
+3	1522964586	1	The major con to Zerocoin is that not enough people use it within a given system to provide meaningfull privacy. But zPoS will incentivise using the Zerocoin protocol through allowing people to stake zPIV(the Zerocoin of PIVX) and earn a 50% higher block reward than if they were staking regular PIV. Another con is the ‘trusted setup’ though PIVX currently uses the RSA setup(which is the closest u can get to trustless currently) one of thee authors of the Bulletproofs whitepaper recently joined the PIVX team to create a trustless setup(among other improvements Bulletproofd will bring).These two factors will make PIVX the privacy king by far imo.As for Monero cons, the major con for me is that if ringCT/cryptonote ever gets cracked all past transactions will be deanonymized, how ever minor the odds, thats a chance i don’t want to take.
+4	1522964934	3	Also important for Zercoin: the transaction amounts are visible. This means that under many use-cases, it is relatively trivial to trace transactions if they are for a specific amount. Zcash doesn't use zerocoin (they use zerocash), but [researchers found](http://jeffq.com/blog/on-the-linkability-of-zcash-transactions/) that nearly 1/3 of all funds that touched z-addresses were traceable by looking at the transaction amount and transaction time. Zerocoin is susceptible to similar analysis.For Monero, ring signatures are the weakest part. They should provide plausible deniability in nearly all cases, but it's still best-practice to avoid using KYC exchanges.
+5	1522965197	1	I’m curious if Bulletproofs will be able to hide Zerocoin transaction amounts... that would be cool. Anyways, because of zPoS it won’t be a huge issue anymore, because everyone will be holding zPIV by default(for higher rewards) instead of just minting when they wish to spend.
+6	1522965705	1	zPIV doesn't hide the transaction amount though, which is my whole point. I'm glad there's an incentive in place to encourage private use, but there are still fundamental shortcomings of the zerocoin protocol.Bulletproofs will be interesting and are likely a step in the right direction. I'm glad to see PIVX has a top researcher working on the implementation.
+7	1522965878	1	Yea i get your point, but if u minted your Zerocoin a year ago, and there’s thousands of other mints after yours, then is it a big issue it’s not hidden? (serious question)
+8	1522966299	1	It's hard to say. If you minted 67.34347845 Zerocoin a year ago and you spend this exact amount, it's very likely you will be the only one to mint this amount. You would be at high risk.If it's a very common number, you create several transactions, and otherwise have decent behavior, the risk is lower.It's hard to give definitive answers, since this is mostly a behavior problem. All researchers can do is look at the blockchain and say "we estimate that x% of people f***ed up, and these are the transactions we are concerned about."
+9	1522966376	1	yea, but u can only mint in set denominations, u can’tmint a specific amount. its basically like having bills
+7	1522965951	1	also just fyi, i’m not downvoting u lol, not sure why anyone would.
+5	1522965626	1	i also read in a paper recently that u can guess the correct mixin with 80% accuracy in Monero. Though according to some people in this subreddit that isn’t true... here’s the paper if u want to check it out: https://arxiv.org/pdf/1704.04299/
+6	1522965960	2	I'm very familiar with the paper; [I authored the response to it](https://getmonero.org/2018/03/29/response-to-an-empirical-analysis-of-traceability.html) (and the [previous version](https://getmonero.org/2017/04/19/an-unofficial-response-to-an-empirical-analysis-of-linkability.html))!I recommend you read the response to learn more about it. I contacted the authors of the paper, and they seem pleased with the response.
+7	1522966156	1	ah cool, thanks, gonna read it now!
+7	1522988667	1	It's always refreshing to see civil, well written discourse/rebuttals in the name of cryptocurrency improvements.  Nice response article.
+8	1522988912	1	Thanks! I appreciate it <3
+1	1522971998	0	Not sure why you are calling them bagholders when it's still up over 50% this week, despite all the bad news. Better than any of the other coins you've listed, so how exactly is it "so fucked"?. I don't hold any but I think you vastly underestimate the number of traders profiting off of coins like XVG.
+1	1522957527	-4	Vergins are ass fucked !So, they are still Vergins. 
+1	1522955388	-16	Yeah you’re right, so fucked. Bitcoin and Ethereum never recovered at getting hacked in the past. Are those shitcoins still even traded?
+2	1522956465	8	Bitcoin has never been hacked, exchanges which traded Bitcoin have.Ethereum wasn't hacked,  a smart contract was. 
+3	1522956861	7	This is an important differentiation. If Bitcoin had been compromised at the core, it would have collapsed. Just like Verge will.
+3	1522976250	1	in a way etheruem hacked itself though after the DAO hack. Many people forget/don’t know about it these days though. Say what u will about ETC, but they have alot more existance rights than all these shitty bitcoin forks.
+4	1522977102	1	Agreed.
+2	1522956109	8	exchanges have been hacked, but when were BTC or ETH themselves ever hacked? 
+3	1522956359	1	Ethereum reversed a transactionEdit: read the comments below
+4	1522956671	7	That was from a security vulnerability with DAO, not the blockchain tech itself.  Never heard of any blockchain getting hacked like this before 
+5	1522960392	0	There have been several 51% attacks before, but I'm unaware of any happening to this degree.  There have also been coin generation bugs like the one in bitcoin which generated billions of coins, but that was undone without a chain rollbackSo this may take the cake
+6	1522960667	1	Key takeaway is competence of the dev and community, that's where the flaw is with XVG.  Hard to let go of a coin when you're emotionally involved, but supporters need to be more objective and back out before exchanges halt trading for good
+4	1522976317	1	Eth hacked themselves basically... 
+0	1522959298	41	I tried to warn people 3 months ago and was sent death threats because of it. https://www.reddit.com/r/CryptoCurrency/comments/7m3jt8/if_you_are_invested_in_verge_get_out_now/?utm_source=reddit-androidNothing would make me happier than to see this project finally die.
+1	1523004187	2	Damn, death threats haha I've been publicly fking with Verge since they started their herpa-derp-protocol campaign like 6 months ago and no threats, just tears and rage. Should I feel insulted? Did I not do my job well enough?
+2	1523006232	2	You should step up your trollgame, buddy. 
+1	1522967027	2	Heh I remember this post, it was made in good will. Didn't know you got death threats over it, that's just.. wow. I really don't understand what kind of monsters would do that. I wish you the best!
+1	1523006200	1	When this happens I hope that some crazy maniac bag holder doesn't decide that you are the reason for it. We don't know how crazy those guys might be. 
+1	1522970481	1	Yea u dont think you will be happy anytime soon :)But while xvg is bleeding a little here is what happened with hack: https://youtu.be/Bd4ggbVW1OY
+0	1522954200	160	[deleted]
+1	1522954341	73	Dude didn't even know he hardforked his coin until he was *told* he did...
+2	1522954835	3	Can anyone explain why the code they changed (ie the value of that constant that the Dev couldn’t even calculate properly) was a hard fork?  I am just curious to understand it from a technical view point. 
+3	1522956196	22	Hard fork happens when new consensus rules make some blocks valid under old rules invalid.All the old chain past the first attacked block (with ~2hr difference) became invalid when rules changed to only allow difference of ~~15 minutes, I swear~~ ~~2 * 15~~ 2 * 15 * 15 seconds.
+4	1522956481	8	Lol those strike throughs killed me 😂
+5	1522956677	18	It needs to become a meme, seriously. That was unbelievably embarrassing to see.
+6	1522957042	45	As someone who was pretty strong on the Verge wagon back in November, I'd like to apologize to everyone from the Monero user base for saying they were FUDing. You all had legitimate points and being new to the space I didn't see them at the time.Learning a lot of the technical background in the last few months, Verge is a clusterfuck.
+7	1522957420	18	Hey man, no worries. I was in on it too in December and didn't want to believe that I was getting fucked over by the dev team. But I realised it's better to get out before things went from bad to worse so I just took the L and sold. It's good to admit that we make mistakes once in a while. It's a learning experience. Next time when some one critiques the coin you hold, you won't write it off as FUD immediately :)
+8	1522962415	5	> dev ~~team~~.It was just Justin Erik Valo...  No "team."
+8	1522962883	2	lol once i learned it was originally dogecoin dark i jumped ship also take a look at particl the tech is pretty solid 
+8	1522958469	3	Exactly. If you can't critically look at the stuff you hold, you shouldn't be holding it. I did make a solid profit on it though, which I'm happy about. Buying in August 17 was the move.
+9	1522958888	3	Yeah. Just because we don't like scams doesn't mean we're averse to making money off of some nubs
+7	1522957519	3	No worries. I know crypto can be very tribal at times, but there is a lot of legitimate FUD that does get brought up, especially with projects that don't have the same amount of manpower that stuff like BTC/ETH has.When you're in a batshit insane bull market where *every fucking thing* is mooning to kingdom come, it's easy to dismiss FUD. I get it. When you're in the current bear market, suddenly there is a lot more scrutiny to be had.One of the things I really like about Monero is that they take their time on everything. An example of this is with bulletproofs. They look great on paper, as they reduce transaction fees of Monero by ~80%. Given that high transaction fees are one of Monero's biggest weaknesses, you figure it would be done quickly, but it isn't. The Monero team is taking their time with getting bulletproofs right, even hiring third-party auditors to review the code.As the saying goes, haste makes waste.
+8	1522958277	3	I plan on getting into XMR if I can time it right when things start to recover. My portfolio has just taken a sizable hit, much like everyone else, and really kneecapped my buying power.I got into ECA at 3 sats during the altcoin blitz, and I've honestly been impressed by how that is progressing in the background. Weekly open dev calls, a really good internal roadmap, fast tx times, etc. They need a more developed use case, but it helped me weather the crash better than BTC so I'm pretty happy with it.XVG was definitely a great learning experience though. If I saw the same kind of fuckery there in other coins, I'd dump the many, many coins I have in a heartbeat. Same with ETN and PRL. The bigger coins are obviously less of an issue, but even then: I've learned market cap does not mean stability or trustworthiness.
+7	1522962824	1	Hey if your looking for an undervalued privacy coin take a look at particl they actually take the coding seriously lol and if the decentralized marketplace works out they could become the new silk road/alpha bay
+4	1522957284	2	To follow up, the reason this creates a hard fork is because "old" nodes (without this update implemented) will still be accepting "old" blocks (created by other "old" nodes)"New" nodes will NOT accept the "old" blocks, it will only accept "new" blocks. So old nodes will have a different blockchain because it can accept blocks that the new nodes will reject.As to why this specific variable change prevents accepting any "old" blocks, someone with more insight into Verge will have to answer.
+5	1522958170	2	Not *any* old blocks, only those with times outside given parameters.When those blocks are already accepted and there are more piled on the top, patched clients sync up to the first "invalid" block and keep asking the network hoping to find the next "valid" block at that height since the (unpatched) rest of the network claims the chain should be much longer.
+6	1522958367	1	You're in regards to the Verge situation. I was attempting to expland upon the OP,  which said:> Hard fork happens when new consensus rules make some blocks valid under old rules invalid.
+7	1522958688	0	I'm more in regards to unintended/failed hard fork situation, like the one that happened here with Verge and similar to what happened with SegWit2x (and rebooted SegWit2x) launch.
+4	1523013735	1	What is this from? I feel like it's hilarious
+5	1523014241	1	Original maximum allowed time drift was written in code as     ... = 2 * 60 * 60 // 2 hoursPretty obvious why it's written like this: 2 hours times 60 minutes times 60 seconds.Verge's dev copied an (errorneous) patch from Peercoin making it    ... = 2 * 15 // 15 minutesThen he argued for a while that this is correct. Then he changed his tune to "I just decided to make it 30 seconds on a whim". Then he posted new version changing it to very meaningful 2 * 15 * 15 and said "I think 7.5 minutes will be fine"Current in progress version of hard fork patch has this value as "20 * 60", so it seems somebody managed to explain him the secret of number "60".
+6	1523014461	1	Hahahahahahahahaha are you serious. I knew this project was a joke but damn
+3	1522954931	2	I didn't look at their code at all, just saw the forum where the dev is notified he hardforked.
+4	1522957102	6	"Um...you hardforked."Sunerok, probably, in his head: "I didn't order any hookers..."
+3	1522976768	1	Don't forget about doubling down on the typo (Is it a typo if you copy paste it without reading or understanding it?) that he was "going to reduce the 2 hour drift to 15 minutes, then **brazenly** chose 30 seonds..."https://i.imgur.com/gxVZzUi.png
+1	1522972435	3	/u/knifeofpi2  I really hope you are laughing your butt of with all this stupidity.
+1	1522954305	0	Well at least you can get back at them now.
+1	1522956157	1	I am banned too, said too many funny things I guess. 
+0	1522974963	22	And verge still has a higher market cap than the likes of nano. What the actual fuck. 
+1	1522990992	3	You can really compare cryptos price wise at the moment. The market is currently deciding who deserves to stay in the market. Also note that big exchanges are not accepting deposits for verge. Once they do its gonna crash hard. Once the bulls come back the better cryptocurrencies will soar in value and the shit coins will be left behind. 
+2	1523000111	1	Idk.  Even when bulls return, too many stupid money still in the market.  We still will get shitcoins mooning because too many still not researching on their own and relying on youtube.  Look at all these “shill me the best coin” threads.  They don’t want to do the work.
+2	1523026965	0	And then you wake up..
+1	1523004465	3	Dumb money period, people are generally too retarded to keep an unregulated market somewhat rational.
+1	1522979928	6	Nano will get there. If their block lattice proves to be stable and secure, they will undoubtedly become a big candidate for everyday use. I know they are working on a point of sale thingy and their mobile wallets are either done or really close.  Go Nano!!
+1	1522997222	-3	Because 90% of the world is not sitting on the CryptoCurrency subreddit bashing coins like teenagers with meme-level thinking.  They don't care what coin you back, or what fancy team you have, or tech you think you have with no adoption etc. etc.If people in the world like the coin...regardless of what nonsense is said on here..it will go up much higher as well.  Many of you fail to understand this..and..lash out as a result..at..anything anything anything at all related to Verge lol (Proof will be multiple downvotes on this post...)I understand rational discussion but 90% of posts about this you guys are just insulting like teenagers and being emotional...its a bad look.
+2	1523004556	5	Wow, and to think this might actually be an adult, allowed to vote....no wonder the world has huge problems.
+2	1523005103	5	That’s some pretty shitty logic right there cotton. It sounds like someone got burned by Verge (a coin that is objectively a complete and total “shitcoin”). 
+3	1523022871	-1	Bought at less than 1 penny.  What is it at now ?  So how could I have lost money lol....I already sold Half when it was at 24 cents near ATH because I actually know what I am doing and am not butthurt like most people complaining about the coin on here.   (Or they just hate the tech, or Sunerok personally lol).  I made money.  I support the coin as well for ideological reasons.  And ...90% of the world not on this thread probably finds it appealing as well when they discover it, more so than whatever fancy coin most of these butthurt tech types like.  The world does not care.
+4	1523030912	0	Behold. A typical vergin cultist in the wild. 
+0	1522999608	12	So looks like OCminer permabanned Verge from Suprnova....>Okay guys, as the shit keep hitting the fan harder and harder here I need to take a few steps to actually end that drama for me:**Suprnova will not reopen any of it's XVG/Verge pools for mining whatsoever**. You can mine it freely on any different pool if you like. Withdrawals are possible of course.**The background is that the "fix" promoted by the devs simply won't fix the problem.** It will just make the timeframe smaller in which the blocks can be mined / spoofed and the attackwill still work, just be a bit slower. **Also the over 20 Million XVG which were instamined by the attacker won't be blacklisted, reverted, filtered or rolled-back in anyway** according to the verge-dev, so in my opinion you all (the miners and investors) got betrayed about that 20 M coins .. For some it might be only a few coins, for some it might be a lot.. For some this might all be drama for them, I see you there of course.. Source: https://bitcointalk.org/index.php?topic=3256693.msg34004928#msg34004928
+1	1523004850	2	the hacker got more than 13 Mil. $ from the hack at current market price, or 84$ per second, nice divis 
+1	1523005787	2	Jesus christ the IRC chat 
+1	1523021598	2	Looking at the block explorer, what shows the instamine is still going on?
+0	1522954885	34	From my understanding, Verge protocol cycles randomly through different hashing algorithms (to prevent  ASICs?).  To accomplish this, the protocol will not accept any blocks if the hashing algorithms was used less than 2 hours ago.The attacker exploited this by using fake timestamps spaced 2 hours apart, since the nodes do not validate the accuracy of the timestamps. This allowed him to use the same algorithms repeatedly while other nodes would be attempting to follow the rules and use a different algorithm.Because of this, he was creating 1 block/second, which were all accepted by the nodes due to this bug.  This allowed him to collect the block reward every second, which was the equivalent of $100/s when this took place.There are a few things I'm not sure about, maybe someone with more knowledge can fill me in.1.  People were saying that these blocks had 0 transactions in them. Why do the nodes accept blocks with no transactions in the first place?2. How was he able to hash at such  a quick rate? I'm assuming because the blocks had no transactions, there was less data to hash, right? And also he didn't have to spend time checking which hash algorithm hasn't been used in the past 2 hours, right?3. I understand the timestamp exploit allows him to use the same hashing algorithm consecutively, but couldn't this also have been accomplished by just creating blocks with 0 transactions and using the **correct** hashing algorithm? Sure, it would take more time to ensure the algorithm hasnt been used in the last 2 hours, but it should still create the blocks faster than other nodes because he was hashing blocks with no transactions.  Or did he also pick a specific hashing algorithm so he can use an ASIC??
+1	1522955641	12	The protocol should allow 0 transactions in a block because it can happen that nobody wants to do a transaction. Miners include transactions only so they can get the transaction fee.The hashing difficulty has nothing to do with the amount of transactions in a block. The difficulty is the same for an empty block and a full block.Yes I assume he chose the hashing algorithm Scrypt because it's the easiest one.
+2	1523006041	2	He chose Scrypt because it's rentable in abundance on NiceHash. 
+2	1522956565	1	Thanks! A few comments:> The protocol should allow 0 transactions in a block because it can happen that nobody wants to do a transaction. Miners include transactions only so they can get the transaction fee.I see. So what prevents someone from submitting consecutive 0 tx blocks in the future? Just the hope that other honest nodes will be faster?> The hashing difficulty has nothing to do with the amount of transactions in a block. The difficulty is the same for an empty block and a full block.True, but procuring the data to be hashed takes some time, right? Even if it's miniscule, collecting the tx and extracting the details will take longer than not doing it at all> Yes I assume he chose the hashing algorithm Scrypt because it's the easiest one.That makes sense
+3	1522964350	2	First point is an incentive question. Why would you not want to collect the transaction fees if you could do it for free? In this case tx hashes could have interfered with the hack, and maybe that's why he skipped it. Of would have taken a lot more time to implement that side into the hack. 
+4	1522971440	1	Is there not a timestamp within each transaction? This could be why they opted for 0 tx blocks.Avoids a conflict.
+5	1522992454	1	Makes a lot of sense. Could be. I am not knowledgeable enough to answer this though... 
+3	1522957315	1	> So what prevents someone from submitting consecutive 0 tx blocks in the future? Just the hope that other honest nodes will be faster?Basically yes. I think all cryptocurrencies work that way.> True, but procuring the data to be hashed takes some time, right? Even if it's miniscule, collecting the tx and extracting the details will take longer than not doing it at allYes I guess that's true. But the attack also would have worked if transactions were included. Although the attacker would make a bit less money.
+4	1522957766	1	Gotcha.So the primary reason this attack worked is because he was about to use the simplest algorithm in each block, so no one else would do it faster.Thanks!
+1	1522967089	17	Some idiot in the Verge thread talked about this and then Went On To say that the devs have contacted the exchanges where funds were sent. What? Verge is a privacy coin they shouldn’t be able to see where the funds have been sent. What a shit show!
+2	1523006091	1	Oh my God. Link please, I want to see that idiot. 
+2	1522971619	0	Verge aims to be an optional privacy coin, since the exchange are not using the privacy features it is just as traceable as a normal blockchain transaction. However, it is not true that the devs are trying to get their hands on these coins or even stop them from being sold. They will patch the exploit and move on, general idea seems to be that while bad the exploit is just a drop in the bucket. Hope that cleared that up :)
+3	1522988735	6	You’ve lost your mind if you think someone with enough technical know how to mine their own blocks and basically run the network without disruption is going to optionally let their transactions be viewed. This coin is nothing it says it is.
+3	1522972794	1	They ain't fixing shit. Not without outside help. 2 * 15 != 15. Neither does 2 * 15 * 15. If you can't even figure out how many seconds there are in a minute then you are totally screwed unless you can plagiarize a fix.
+4	1522973067	2	https://bitcointalk.org/index.php?topic=3256693.msg34007687#msg34007687 seems like changing the time isn't their only option for a fix here and was more the aim to slow down the attack while preparing the fork. Shame it initself trigged a fork lol
+5	1522973357	2	Bullshit. They copied code and had no idea how it even worked. Now they desperately need someone to fix it for them. They can't solve it on their own, and if they can't code their way out of a wet paper bag then there's no future for the project.
+6	1522973810	1	The change that was made will undoubtedly slow down the attack. I don't see how that is bullshit, also, in the thread I just linked there are clearly talks about several different ways to fix the problem and also confirmation from the dev team that they are working on them. So really I don't see how anything I said was bullshit really
+7	1522974545	3	I just read that thread you posted. Those fixes didn't come from the fucking devs, I doubt they even understand how they're intended to work. You are basically Baghdad Bob right now.
+8	1522975160	1	No the fixes are not by the devs, I never claimed so, all I've said is that they are working on fixing it aswell as providing a source to this. I really don't see what you are going on about here, the fork hasn't even happened yet and you are already calling it a fiasko. The top concern right now should be that the exploit should get patched not who originally came up with the fix (even if those should obviously be credited). All I tried to do is clear up some confusion about the traceability of the coin and you latched on to a small sentence and started to go attack the fact that it's somehow bad that the team is looking into already developed methods of holding such a attck
+1	1522972270	3	> The attacker exploited this by using fake timestamps spaced 2 hours apart, since the nodes do not validate the accuracy of the timestamps.How was this not noticed as being a major problem? Getting decentralised systems to agree on accurate timestamps is a well researched (and difficult) problem.
+1	1522963519	8	Is there a review or article explaining how this hack was done?? Lol im willing to bet verge isn't the only shitcoin with this problem in which case im going hunting in the jungles of coin market cap into the forbidden zone (past page 3) for shitcoins to kill
+2	1522970810	7	Dont even need to leave the top 10 to find shitcoins that need killing!
+3	1522973318	1	lol true
+3	1522977692	1	This, meanwhile projects like Vertcoin Isn't even in the top 100. We might need to drop BTC to $1,000 just to flush these fools out.
+2	1523001406	1	"timedrift" (nMaxClockDrift) exploit to increase minting probabilitySearch this
+1	1522972256	4	TL;DR XVG is a shitcoin. 
+2	1523015659	2	Don't put Verge in one basket with shitcoins. Verge is a scam.
+3	1523024398	1	I stand corrected!
+1	1522979799	2	Yes, he used the algorithm to use an ASIC. That's the whole point here. Setting the timestamp back allowed him to do 2 things:       - Create a block using the same algorithm that was used in the block before.       - The difficulty is lower because the old block has already been 2 hours ago.- his chain is then always longer than all the other chains which practically lets the exploiter take over the network.  
+2	1522982298	2	Ah, I didn't realize the difficulty was based off of the time difference from the last block. Thanks
+3	1522984853	3	Base the difficulty on something that is not validated... genius!
+0	1522961293	10	Who would have foreseen Verge going belly up with a professional like  /u/sunerok at the helm? /s
+0	1523006581	8	Verge is still being instamined every second. It has been going on for days now. See: https://verge-blockchain.info/If wallet works again after the fork(s) and the exchanges reopen the deposits we might see a dump of epic proportions. How many Verge has the attacker been able to mine so far? It's an insane amount of free money.Marketsell = REKT
+0	1523009632	10	Thank you Verge and Bitconnect. The educational and entertainment value that you have provided me these past few months has almost surpassed the amount of  value I’ve lost being down 65% + on my portfolio. You’ve made this ride worth it. 
+1	1523030962	1	Nice risk management
+0	1522953791	56	inb4 Verge kids try to make this look like a good thing for XVG.
+1	1522954141	-21	Since the dawn of Verge / dogecoindark, any negative news hits the front page of this sub and all positive news is severely suppressed. Why?
+2	1522954297	21	Well it's simple. A negative news post about verge means that positive news about other coins have one less space to fight over or did you mean positive news for Verge? Because *that''s never happened*
+3	1522954541	-13	You say its never happened because this reddit only allows the negative stuff affecting Verge through. Its as if an "implicit deny" rule regarding positive xvg news is imposed here.
+4	1522954694	14	Are you wanting this subreddit to light up with posts about a vague, unconfirmed partnership backed by crowdfunding and rampant speculation? Is that the positive news?
+2	1522954858	22	The simplest explanation is because Verge is a garbage coin with very little in the way of positive news. 
+2	1522956568	2	Go back to modding your sub. Don't you have "FUD" and "lies" to combat? I mean all the other private coin hodlers must be green with envy right now. 
+2	1522966541	2	Hmmmmm wonder why one of the mods of /r/vergecurrency deleted his account. Exit scam incoming?!
+3	1522996614	0	Proof ?..or just more nonsense ?  Maybe the guy quit because he no longer had time, or ..even got fired for not doing the job well.    I think I noticed one mod might have not been listed lately..and I was surprised he was even a mod.  He probably banned too many people or something and could have gotten "fired".    So much nonsense FUD on this coin its funny.Someone quit for personal reasons or other reasons = EXIT SCAM lol,  CryptoCurrency reddit is like the toxic garbage dump of logical reasoning on the internet.
+4	1522997264	2	[removed]
+5	1522999269	0	So you have no proof and just some insults ?    Why are you so mad ?
+6	1523004478	1	Why do I need proof for a joke? Do you understand the concept of a joke?
+7	1523010773	1	Lol
+8	1523012318	1	Yeah that's what I thought. 
+9	1523014900	1	lol...
+2	1522955163	4	Because there is never positive news for Verge
+2	1522956375	2	There are no real positive news. The last major news were a scammy crowdfund which again was fucked up and wraith protocol advertised as the future of privacy while copying 2014 tech and breaking copyrights.Here this is known, on verge channels this is called fud or moderated away.
+2	1522954852	-4	It’s a mixture of people who were burned after purchasing ATH, paid fudders, and troll. Also a sliver of that pie is people with genuine criticism. Mainly whiny bullshit though.
+2	1522962634	0	Considering you're a Trump apologist, this kind of post is what I would expect from you...
+0	1522964451	25	Why is this coin still trading above 0?
+1	1522974772	5	They should be paying me simply because I don’t have any XVG in my portfolio. 
+0	1522963642	8	[https://github.com/vergecurrency/VERGE/issues/685](https://github.com/vergecurrency/VERGE/issues/685)Poor ocminer... He's a good guy and despite all the shit still trying to help.
+1	1522964674	-3	That's excellent to me really.  Means the hatchet is buried.  THIS IS WHAT NEEDS TO BE DONE.  Fuck the infighting and constant fanboy and hater bullshit.  Crypto is either gonna win together or die together.  We will actually create our own self fulfilling prophecy either way so the choice is yours people.  People don't understand, if Verge wins we all fucking win.  One currency on a payment system means more will follow, it could be a race. Everyone wants mass adoption but they are too blinded by their own fucking love for their particular shitcoin (and they are all shitcoins for now, except Corgicoin, they are fine) to actually think about what any win would be.  We are fucking losing the battle, Bitcoin could get dumped any minute and take us all down.Just think about what you are doing and what you are saying for one minute before typing it.  I'm guilty too, but am changing my ways because I like crypto and I like money.  Somebody needs a win or we are stuck in fucking groundhog day forever repeating the same mistakes while the market bleeds out.Good job OCminer, Sunerok.  Fix that shit and get back to business.
+2	1523004678	1	And what happens when the scams eventually collapse? It takes all the legit projects with them.
+2	1523006500	1	Um, no. 
+0	1522965268	8	A shitcoin gets covered in more shit. Big surprise here guys!
+0	1523018615	9	So I'm guessing Verge dev team still hasn't fixed the bug?
+1	1523026367	3	I believe I heard the hacker has another exploit too so even when they fix this one, it might not be over. 
+2	1523029469	-1	You heard that? Like someone is taking to the hacker? Lol get real
+1	1523023228	2	Lol correct
+1	1523035291	1	Doesn't look like it: https://verge-blockchain.info/
+0	1522955944	9	Comment if you got banned from the verge subreddit/telegram/discord
+1	1522958144	7	Here's what I got banned for:https://imgur.com/WdXhgC6
+2	1522958681	6	I got banned for this: https://youtu.be/vhyAREaWfyU?t=32
+1	1522967296	3	Yerp banned earlier today for making valid point.
+1	1522975295	4	Banned from vergecurrency
+1	1522958896	3	I got banned from the Discord for joking about McAffee after he was already on the way out with Verge.
+1	1522980035	2	https://www.reddit.com/r/CryptoCurrency/comments/86fqo3/banned_from_verge_for_saying_no_the_mods_are/Yup #MeToo LMAO
+1	1523004780	1	Got banned folr posting the following in /r/cryptocurrency:https://www.rapsheets.org/florida/fortmyers-jail/VALO_JUSTIN/312753https://twitter.com/thecryptobull/status/919101638119514113https://florida.arrests.org/Arrests/Justin_Valo_4194408/https://www.shroomery.org/forums/showflat.php/Number/18418998#18418998https://mugshots.com/US-Counties/Florida/Charlotte-County-FL/Justin-Erik-Valo.3677113.html
+0	1522970920	7	Finkle is EinhornEinhorn is Finkle 
+1	1522978033	1	say hello to mr. ganish
+0	1522998680	7	So this attack is still apparently still ongoing from looking at the block explorer. There are still blocks being mined every second with minimal difficulty https://verge-blockchain.info/block/000000001380cdd3227c7c41879140a0e5401f45be3b86a3062576882200ba2c
+1	1523000003	1	Why did they use past tense, but not present continuous? Did they fix it or not?>We will be releasing a new Qt wallet for windows and Mac OS tomorrow, along with a detailed explanation of the mining exploit we dealt with. - verge tweet 
+0	1522954802	8	Can anyone explain why the code they changed (ie the value of that constant that the Dev couldn’t even calculate properly) was a hard fork?  I am just curious to understand it from a technical view point. 
+1	1522957531	29	The code changed the rules for adding a block to the blockchain, specifically that timestamps have to be less than 30 seconds apart rather than 2 hours. That means there can be blocks that a new client will reject and an old client will accept (where the timestamp is between 30 seconds and 2 hours apart). Since the clients build the blockchain through consensus, and the two versions of the client will each reach a different consensus on which blocks should be part of the blockchain, this effectively splits the blockchain in two, hence the "fork".The thing is, what usually happens in a hard fork is they set a specific time in the future, like an upcoming block #, where the rules will change, and the client applies the old rules before then and the new rules after. Every version of the client will agree with the existing blockchain up to a certain point, and then the chain will cleanly fork between old and new clients at the designated time. This way everyone has time to update to the new client before the fork happens, so the transition is seamless.What this guy did is flat out change the timestamp rule, which means it's retroactive. The current blockchain already has blocks that don't follow this new rule: the attacker's blocks. When the client tries to sync with the existing blockchain, it'll reject those blocks and fork the blockchain in the PAST, meaning EVERY transaction SINCE THEN is now invalid. It's effectively a rollback to an arbitrary point.Now that rollback means every exchange withdrawal or deposit is reversed, every mining reward disappears, every payment...well, nobody's using XVG as actual currency. Exchange trades are done off-chain so those shouldn't be affected (as far as the chain knows, the exchange has it either way), but the actual amount of XVG at the exchange is reset to the time of the fork. Every coin snaps back in time to the location it used to be in. This would be the current state of XVG if everyone switched to the new client with the 30 second timestamp rule, and transactions would resume from there.I'm not clear on whether they actually undid the timestamp rule change or just changed it again, and when the fork would be if they did, but regardless, this was clearly a half-assed attempt at a fix from someone who has no idea how any of this shit actually works. And now exchanges are disabling deposits because they don't trust the dev not to do something stupid that invalidates those deposits and takes away their coins. (Withdrawals are fine, of course, since invalidating those means they end up with *more* coins.)EDIT: corrected info about exchange trades
+2	1522958638	4	Very well explained!
+3	1522959875	2	I fixed the part about exchange trades, those aren't affected since the exchange holds all the coins and keeps track of balances internally. The coins don't actually move on the blockchain ledger unless they leave the exchange.
+2	1522966758	1	> I'm not clear on whether they actually undid the timestamp rule change or just changed it again,He changed it back to the original value of 2 hours after ocminer pointed out the reality of the hardfork. This left the network vulnerable to the attack, and so it continued.Yesterday, he mentioned that a hard fork would occur sometime today to resolve the problem once and for all, but I haven't seen any updates about that personally.
+1	1522955189	7	As I understand it, before the 51% attack it wouldn't have been a hard fork. I think what the code does is restricting the amount of time stamp difference between two blocks. The attack fucked up the time stamps so the time stamps in the last few blocks are not valid anymore after the code change. But in the old code those last few blocks are valid which is why the attack worked in the first place.If some clients think a particular block is valid and other clients think it's not, then that's called "forked".
+2	1522957148	2	Oh ok, that totally makes sense. That’s why I saw people saying their updated client stopped syncing at the exploit blocks. Thanks!
+2	1522959295	2	Thanks for the answer.  Now I have another question:  if I understand well, the attacker managed to make the system constantly accept his scrypt solutions, by pretending the last scrypt mined block was 2 hours ago. But, how did he still manage to mine the blocks in only 1 second?  Do you think he premined them?  If they contain no transactions maybe premining is doable, what do you think? EDIT: even in this case, doesn’t the algorithm contain a difficulty retargeting mechanism, to prevent having 1 block per second (or maybe the same was spoofed by the fake timestamps?).  God, so many questions, that shitcoin is fucking my brain :-D
+3	1522963165	1	There's a bug in the code that's supposed to rotate the crypto algorithms, they exploited it in a way that let them always use the easiest algorithm so they could churn out 1 block per second. At least, that's what people are saying, I haven't seen anyone pinpoint exactly how they did it yet.
+2	1522956332	1	So lets say they applied this change in code a week back. At that time it would not have been a hard fork because there was nothing to argue about, since the blocks mined by an attacker did not even exist yet. Does that mean there are no millions of XVG generated to the attacker's wallets in the new chain?
+3	1522957118	1	If they would ignore all blocks by the attacker then the attacker would not have anything. That would mean they "roll-back" the chain. But the devs didn't want to do that. (presumably because it undermines the trust in a chain if they do roll-backs)
+3	1522957587	1	The dev said there will be no rollback, so all blocks currently in the chain will still be there after the fork, including attacker's blocks.Initial 30 second version of patch would get stuck since Verge targets 30 second block time and obviously there would be blocks with times longer than that. Second, 2 * 15 * 15 seconds == 7.5 minute version *could* get stuck, but at 30 second target time there shouldn't be that much difference between blocks outside of a major network outage so it got stuck on the first obviously anomalous block.
+0	1522959616	7	Just went through that bitcointalk thread - it turns out, according to the ocminer (and I agree as a dev) that the second fix does not work at all... There are multiple places you have to fix it at, and they did not do that...
+1	1522960352	11	What'd you expect out of a copy-paster? He doesn't even know what the fix does...
+0	1522968298	13	the Dev who is trying to fix this has no idea what hes doing.
+1	1523029692	1	But he will fix it soon !^^/s
+0	1522954676	17	Sold 100k XVG over the last couple days. Wish I would have sold it at the absolute top but profits are still profits. All this shit seemed too risky to keep staying in for much longer 
+1	1522957149	5	You and me both. I moved to dump everything when I saw the shady tax posts and the crowdfunding debacle. I'd been planning an exit since January.
+2	1522972962	1	What happened with the crowdfunding? The devs got the money.. and? Did they announced anything?
+3	1522974048	1	They delayed the announcement 3 weeks, until the day before tax day. 
+0	1522969378	7	Do I own any Verge?*checks portfolio furiously*Fuck :(
+1	1523006607	6	If you have to check your portfolio to see if you own a coin, I think you might be too diversified. 
+2	1523026554	1	Nah, just a master of HODL; I’m actively trying to forget all my crypto investments for a few years
+3	1523031044	1	*Checks portfolio back again in 2 years, it's all zero. Fuck*
+0	1522970477	8	Hackers messed up snooks exit scam 
+0	1522995443	5	Dunno what country sunerock is in but he's gonna end up in jail lol.
+1	1522996728	5	He's in the states, Florida to be exact.
+2	1523011717	5	I should have just assumed that this was Florida stuff.
+2	1523013166	1	/r/FloridaDev
+0	1523017286	6	I like this: https://np.reddit.com/r/vergecurrency/comments/8a83ge/seems_like_its_over/dwwmn2u/People start to ask the right questions. The answer though... xD "Ah, he does not use optional privacy, that's why!" Someone capable of developing the attack is not capable of "turning on privacy with a switch". This is what I call a Vergin xD
+0	1522959279	12	Verge is one coin that has had one of the most red flags pointing to a scam compared to any coin in the top 500. 
+0	1522966788	8	Been banned from XVG sub for raising a clearly valid point. Lol they have lost their minds over there!
+1	1523005274	2	I mean it was a scam project from the start.....how many red flags are needed?https://www.reddit.com/r/CryptoCurrency/comments/8a1f1w/wow_xvg_can_go_from_undisputed_coin_of_the_year/dwv5jpr/
+1	1522974894	1	Me too! 
+0	1522966556	4	Dropped it like it's hot. Made some money along the way. Glad I road the shit train for a little bit and even more glad to wipe my hands of it. Good riddance verge!
+0	1522967280	5	yah i'm out lol . Bought it as a small yolo play last year with some profits.  win some you lose some!
+0	1522954002	21	Great. I hold 7 figures of XVG. Rip.
+1	1522954158	27	[deleted]
+2	1522954197	9	Not at all. I've been mining it for like 6 months if I'm not mistaken.
+3	1522954375	23	at least you didn't buy it, so it's free money. Sell now dude. Sell. fucking. now. Just my (and most's) opinion. Buy something with promise with that money.
+4	1522954468	-8	No but I've been using my electricity and hash power which certainly equals money. But yeah I'm not sure what to do right now. Not making an rash decisions. HODL ;D
+5	1522954700	33	I hope you're able to recognize the sunken cost fallacy at work here and take what you can get now. Those would be some truly massive bags to be saddled with if you don't.
+6	1522955068	1	Well I already stopped mining it a few weeks ago due to the current market. It's a collaborative project so it's not my sole decision on selling, though I'm sure we will sell most if not all of what we have asap.
+7	1522955659	19	When Bitconnect was circling the drain, lots of investors implicitly knew the demise was imminent, but thought that they could be smart and make their gains before it went down.Convert your XVG to ETH or another value-stable medium while you still have any appreciable exchange rate. You are not safe, just as Bitconnect's knowing investors were not safe.
+8	1522955759	-4	I still get paid salary either way, not losing sleep over it.
+9	1522968520	1	HEY MORON SELL YOUR VERGE AND STOP MAKING EXCUSES OR YOU WILL REGRET IT LATER
+7	1522955616	3	Out of curiosity what are you mining instead now?  I just jumped over to LTC but looking for other decent options.
+8	1522955714	0	I am currently mining two, Sumo and TRTL.
+7	1522967256	1	Just take half out or something, so if it's going either way you won't be full of regrets.
+5	1522955114	10	I do hope you're joking, Verge is going to be worth a lot less after they realize there's no partnership on the 16th. the 16th is the day before "tax day" in america. Sunerok has been complaining about owing taxes on money that is locked by coinbase (because Sunerok is a fucking criminal and Verge isn't his first scam, and the SEC locked his account). if you're not joking, dude, at the very least cash out the money you spent getting that verge (ie. the equipment). 
+6	1522960178	3	Sunerok has been complaining about taxes???And is Token Pay also involved in this scam?  The donated the bulk of XVG during the donation “drive”.
+7	1522962157	3	Well token pay is another scam altogether, I assumed it was one of Sunerok's other 'projects'
+6	1522955421	2	I'm really not joking. It's not exactly worth a whole hell of a lot of anything currently anyway, and with the condition of the market I'm only feeling more confident about my whaling. Most of my stuffs is dumped into cold wallets in various increments. Whale all the shitcoins. All it takes is one ;)
+7	1522955966	4	Well, I hope it works out for you but I also don't expect Verge to last the year.
+8	1522956078	1	I honestly never was a fan of XVG from the start. I had my doubts to it's original intent from the get go, but again as I've said previously I'm not the sole investor in this project so it's not just my decision. Everyone is aware of the situation so we'll have a decision to make. I don't expect it to hold any value going forward either personally. Never did. 
+9	1522956221	6	if you don't expect it to hold value, why did you not sell as much as you could of your '7 figures' of it during the 50% pump the other day?
+5	1522955140	2	dude get out now. This is a dumpster fire. You are lucky price hasn't crashed too hard yet. Cut losses ASAP
+3	1522954290	2	[deleted]
+4	1522954333	3	Probably will work out better than Communism ever has ;)
+3	1522958375	-1	Nothing to be ashamed of. You tried and would of still benefited. 
+1	1522954430	7	damn dude. sell before it’s worth nothing 
+1	1522954305	2	No kidding. This is bad. The only fix I can think of would be a roll back plus a fork with an update.
+2	1522954434	2	Sunerok has already said no rollback will take place. Based on the bitcointalk thread, there’s somewhere around 20m XVG mined using this exploit, which is vastly different than the 250k sunerok claimed. Regardless, this was another shot in the foot. 
+2	1522954343	1	Won't be the first nor the last shitcoin I ventured into.
+1	1522957347	7	7 figures acquired over 3 hours?? 🤔🤔🤔
+2	1522958795	1	It’s been going on for at least two days
+1	1522959162	2	Cut your losses
+1	1522955027	1	I will my 500k its not a bad time to get out
+0	1522963223	10	Sunerok create a new kind of fork - a SPORK
+1	1522989719	1	Sporks are actually already a thing on many masternode coins
+0	1523031912	4	This is getting out of hand, everything just leads to the perfect cover up for an exit scam.The amount of blind faith the bag holders have in XVG is astounding. 
+1	1523032519	5	It's like the mtgox hack all over again. No one will ever know who has hacked and the holders will get rekt lol.
+0	1522959273	16	OMG!😭Can't believe I'm going to get scammed ! Thank you Verge ! ❤️ keep doing the great work. 💪🏻💪🏻💪🏻🚀🚀🚀
+1	1522975027	5	Never gets old 
+1	1523003113	0	Waltonchain will be the next on the list 
+0	1522975067	6	Trust me, their forks will not fix anything.IDCoin has 2 other exploits which they will abuse.
+0	1522991772	8	A privacy coin without security?  Ouch.
+1	1523004933	11	And without privacy as well, that was the original problem.
+0	1522986943	6	"VergeDEV left IRC"LMAO
+0	1522962917	8	why is the price still up? why verge team says it was just a small hack? some dude mined for 13H+ blocks with 1min blocktime. ppl start saysing stuff makes sence now must be that hack could happened alot more earlier. if i were a holder i wold sell it all and the coin were death to me
+0	1522954633	3	How is the price going up?
+1	1522954935	11	Disabled deposits means nobody can sell their coins unless they were already on the exchange
+2	1522956255	6	So in this world of crypto it IS better to keep them on the exchange? 😵
+3	1522970323	0	If you own coins that aren't all that safe, yesThings that are unlikely to go belly up are the things to keep in a safe wallet, but all the coins that are weird at best are always on the highest volume exchange
+1	1522955218	2	Where do you see that? CMC shows it down ~10% today...
+2	1522955416	1	Gc does as well but it went up to - 5% and back down to - 10%. I was unaware trading is still active for coins already on exchange. 
+0	1522956641	3	It’s actually very entertaining, and I am glad that shitcoins get crushed eventually, but they are getting so much attention, this is crazy. Anyway, made my day. 
+0	1522976326	3	Can anybody ELI5 how it is possible to edit the timestamps when mining?  Would that be possible with bitcoin for example? Not to attack like this (because btc doesnt change algo every block), but just wondering because it sounds so easy. How could the hackers get that 'deep'? 
+1	1522979584	6	It's pretty trivial, just modify your mining program so that timestamp = clock.now() becomes timestamp = clock.now() + 3600 or however many seconds you want. A similar attack would not be possible with Bitcoin since 1. The difficulty is adjusted every 2000 blocks so an attacker would have to mine thousands of blocks (with each block taking at least 10 minutes to mine if the attacker somehow had control of 50% of the network's hashrate) before being able to lower the difficulty of his fraudulent chain.  2. Bitcoin's network hash rate is way too massive for any single entity to control more than a few percents of it.  3. Unlike verge, bitcoin only uses a single hashing algorithm so the attacker can't get an advantage by focusing on the weakest algorithm while most pools work on the asic-resistant ones  I might not be a big fan of Bitcoin but it is by *far* the safest cryptocurrency (in terms of attack resistance)
+2	1522991414	2	Why did the attacker choose this week to do it? Wouldn’t it have been more profitable in Dec? Or even after the announcement pump?I mean they got a lot don’t get me wrong, but the timing seems poor. 
+3	1523021360	2	This attack would have required a lot of preparation.  The attacker probably just finished their preparation and planning of the attack.There's a lot of physical assets that need to be dealt with (ASICs), then the attacker has to ensure their own security while performing the attack.  Afterwards the attacker has to exfil their ill gotten gains which requires more planning and preparation.EDIT: I forgot the psychological prep as well.  After all the planning, plotting, preparing and checking over all the plans, you'd still have to psyche yourself up to pull the trigger.  Stealing upwards of $50 a second is a big attack.  That's a heavy trigger to pull.  Think about how shot your nerves would be if you were doing this. To the attacker (because I know you're reading this):  I can't approve of what you're doing, but I gotta respect the gargantuan balls it takes to do it.
+3	1523005557	4	One theory is that it is actually the people behind Verge doing it themselves to validate their exit scam. With the whole fundraising and fake partnership thing perfectly delayed with tax seasons final day and Sunerok complaining about having trouble paying his taxes....it seems possible.
+4	1523011925	3	Yeah, the "partnership" is enough to keep holders' cognitive dissonance *just* high enough to not sell and allow devwhales to sweep the rug under their feet and milk out every last scamdollar.
+4	1523025670	1	Haha, such a stupid theory. 
+3	1523005323	1	Maybe he only just found out about the exploit
+2	1523000680	1	Thanks a lot man! The +3600 makes it clear how it couod be done.Genius, so simple yet nobody thought of it before haha.
+0	1522978887	3	Where can I sell my verge at this point? I have some that I've been dual mining but cant seem to deposit at the exchanges I use.
+1	1522980220	3	Deposits are shut down until the fork i believe, which is in motion.  Block has been announced.  Updated Wallets tomorrow.
+0	1523007252	3	I though DogeCoin was more robust than this! Shoulda forked TitCoin bros.
+1	1523030854	1	It's not even really a Doge fork they just stole the name to make it cool. Its basically like sunerock copy pasted 50 dead coins to make this abomination of cryptocurrency that will be spoken about like the Nazi regimen for years to come in blockchain development classes.
+0	1522956077	4	Bailed on the investment tonight.Still did v well over a few days.One thing is for sure, no big company worth its salt, will partner with this now. All bets are off for me anyways. But enjoyed the pump. Cheers
+0	1523012809	6	As a Monero miner, it's been absolutely incredible to see their devs *fight ASIC centralization* this week, and then to set this horror show against that backdrop. Verge is such a huge piece of shit.
+0	1522955678	10	Lol@all the Verge bagholders.It's amazing that so many people with a supposed want and need for a privacy coin would buy Verge over the 500,000 or so other privacy coins on the market given how unsecure and unprivate it was. 
+1	1522972479	1	Seems pretty logical to me. It's one of the only coins making money this week, and continues to despite the bad news. Not everyone (read: almost nobody) is buying coins because of their "fundamentals".
+1	1522958856	-1	Bytecoin so much cheaper 😁
+2	1522964501	4	[Bytecoin is most likely a scam](https://monero.stackexchange.com/questions/852/what-is-the-origin-of-monero-and-its-relationship-to-bytecoin).
+3	1522975427	1	[removed]
+4	1522975664	1	Rule 1.
+0	1522958578	2	[removed]
+1	1522963365	1	Please do not brigade other subreddits
+0	1522964115	2	Anyone got a detalied over view of how this hack was performed??? I think its time we start taking the power into our own hands and purge this market of shitcoins 
+1	1523000040	1	["Timedrift" nMaxClockDrift exploit to increase minting probability](https://github.com/peercoin/peercoin/issues/82)>Here is a Specific Attack:>>User manually sets their PC 1 hour & 50 minutes Fast.When their block finally stakes, it kills the network difficulty, lowering it for everyone, and since the block staked 1 hour & 50 min ahead of everyone else, it appears to be the longer chain and any more blocks near staking for that user have a advantage over the rest of the users set to the correct time, so his blocks will then stake and basically block any new blocks from any users at the correct time, until he runs out of blocks, also will cause more blocks to be created than what Peercoin is designed for. And if you think it can't happen test it.Watch the Peercoin block explorer, manually set your clock ahead 1 hour & 50 minutes, if you have any blocks ready to stake, when one stakes, you will own the staking blocks until you run out of blocks to stake. On the block explorer you will see the network difficulty drop by ~ half which will indicate the change and if you check the blocks you will stake almost everyone from then on , until you run out of blocks to stake or quit staking.If that does not happen , then you know it is not an issue for peercoin.If it does , then you need to change Timedrift ASAP.
+2	1523004104	1	Thank you im off to do God's work now!!
+0	1522980963	2	Lolololol good lord, XVG cant catch a break. Wow.
+0	1522987873	2	Buy Dogecoin Dark it will go all the way to New Delhi. Big gains on inverse chart.
+0	1523000833	2	Why isn't the price of Verge dropping?
+1	1523005934	10	you cant even move Verge from wallet to wallet at the moment, Exchanges have also frozen deposits of XVG.Those Vergtards are left to watch they very expensive bags without being able to do anything. Pure gold 
+1	1523003739	5	Binance and Bittrex froze deposits. Nobody can send coins to the major exchanges to dump it.
+1	1523003591	-8	Because the hype is still on, guess you wanted it to drop huh? I fully expect over 1000 satoshihs again before the announcement
+2	1523005756	6	Hahah, I love how people think everything is FUD. I don't buy any altcoins besides BTC and ETH. I'll come back to you when it crashes.
+0	1523034506	2	Question for remaining bag holders of Verge (and Tron actually):  What would it take to admit you are wrong?Are you actually willing to lose it all?
+1	1523037199	2	They're not looking at the realistic appraisal of things. As an early Verge holder, I'm totally out now. No way I was going down with that ship.
+0	1522966365	2	So, I don't hold a ton of XVG, maybe 2700 coins, my average buy price is $0.10. If I were to sell now I'd eat a ~$150/0.06 ETH loss. Should I just sell it off or do you guys think it'll get another pump before everyone else leaves?Edit: XVG is only 5% of my bag.Edit 2: It's sold. Now to figure out the next shit coin to purge from my portfolio.
+1	1522999903	0	You can always buy back in at a lower price. I would suggest never looking back tho. Much better options with less drama.
+0	1522984433	3	Got more amazing partnerships for us buddy?!?!
+0	1522956321	4	Monero bois coming out the woodwork and trying to keep me from mah lambo. Well I’m going to the moon with or without you playa haters 
+0	1522960098	2	What a dumpster fire
+0	1522962389	2	If you want real privacy coins look at monero or particl which is working on a decentralized privacy oriented marketplace that's gonna have "private listings" lol think silk road or alpha bay 2.0
+0	1522984621	2	##OH NOES... XVG GTZ!
+0	1523026249	2	its cool if it dies, its holders and shills are dumb af. like BCH holders and shillers
+1	1523033014	1	Someone's salty
+0	1523029199	1	This is good for Verge^^/s
+0	1523036999	1	I wonder what the future “partner” thinks of all this!?!  LOL
+0	1523027538	1	My coin is better then your coin. No your coin is a shitcoin. This about summarizes the discussions here on cryptocurrency. Deleted Facebook years ago. Removed twitter a while back and now I'm stuck with fucking crypto hooligans. 
+1	1523029427	2	You're not stuck. You're here by choice.
+0	1523005209	1	Just watched "An Open Secret" why the fuck would EOS think it would be a good idea to have Brock Pierce remotely anywhere near their project???? 
+1	1523024564	1	lol
+1	1523030967	1	Because it's a scam and their challenge was to try to leave Brock there unoticed and see how long it would take the retarded cryptogamblers to notice his background.
+0	1522955691	1	And this is why Verge represented less than 1% of my total portfolio. I like to diversify my investments mostly in coins that have proven to be safe: litecoin, ethereum, Bitcoin, Vertcoin. Then I leave the rest of my portfolio to high risk coins like verge
+1	1522956711	4	Less than 1% is ok, but still too much for a dumb/shit/scam coin ;)
+2	1522959147	2	I got like 1400% gains from my risk-portfolio with XVGFeelt really good then I sold to someone who thought ATH wasn‘t enough :)
+1	1522958675	2	Great plan !😀
+1	1522960042	1	Very is probably the only top 100 coins that seems to consistently move sideways or down. Not sure how safe that one is...
+0	1522970407	0	I like how people here are more interested in shitting on Verge then wondering what other coins might be vulnerable to this... So many coins, there have got to be more right?
+1	1522971354	6	All mined coins are vulnerable, especially to a 51% attack.  This was a little different, they call it the time warp attack. But yeah, people love to see coins fail and what they don't realize is that it's bad for everyone.  They just don't get big picture here.  
+2	1522991695	1	It’s that mob mentality. I’m willing to bet majority of the people commenting wouldn’t even know what questions to ask Justin or another Verge dev to explain if given the chance. 
+3	1522991978	1	Pitchforks and torches. Ugh. Makes it hard to get real answers. 
+4	1522992993	1	I’m sure the Verge team will release more information and an explanation as they resolve the problem. But in true Reddit fashion, we will find a way to downvote it to oblivion.Majority of the people here are so blindsided by this false sense of competition of their coin, thinking if they bash one, somehow it raises the price of their own. Instead of supporting and encouraging the developers they criticize and claim scammer or greed. They don’t even consider the fact that this coin has a small team, had multiple chances to dine and dash, and yet still tries to better themselves by trying to communicate more, and still create partnerships to find real world use cases.At the end of the day crypto currency is worthless if there is no mainstream adoption solving real world problems and helping businesses grow
+5	1522994872	5	No it's just that xvg really is shit and high school science fair project level at best. You basically have a shit coin with broken code and shady as fuck devs who paid mcaffee to get shilled in a bull run. And now there's just a xvg bag holders cult, a broken blockchain and people who lost money.
+6	1522995015	0	Okay... so how is that a scam? Yeah they operate slower and have a lot less resources than most of the top coins, but so what? Everyone goes at their own pace.
+7	1522995547	3	"small hash attack that lasted about 3 hours earlier this morning, it's been cleared up now."-verge twitter. Has it been cleared up?
+7	1522995752	5	The whole code is copy pasted. Unsecure. The VP of marketing is mcafee and you behave like a cult. Seriously... 
+8	1522995953	1	Don’t think it was ever confirmed they paid McAfee. Even if they did, he had a huge cult following. Shitty code can be improved. Rare to come out of the gates perfect especially with software.I get the core of what you’re trying to say - they do look like they are figuring things out, but where’s the hostility and scam comments coming fromLol bro I’m just trying to understand you - why are you being a dick
+9	1522997411	1	There's nothing to understand. A blockchain worth billions of dollars is not supposed to be ran by amateurs at best, scammers are worst. Who in their right mind would put money into that ? You just sound like the bitconnect people right before we warned them this was going to blow up in their face. Anyway have fun losing your money to your cult. Maybe you love that coin so much that the value in it for you is it's sole survival. 
+0	1522961041	1	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaahahahahahahahahahahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+0	1522970178	1	Jeeez, i really enjoyed the ride of just getting a few dollars worth before McAfee's  tweet and selling them just a few dollars behind the athBut the shitshow since then has been something else, holy hell
+0	1522984314	1	We (Dero) are calling out the attackers. Come hit our network/blockchain.&nbsp;https://bitcointalk.org/index.php?topic=3256693.msg34029455#msg34029455
+0	1522961965	0	[removed]
+1	1522964019	1	/s?
+0	1522970752	0	[removed]
+1	1522977782	1	Rules 1 and 5.
+2	1522982788	2	sorry.
+0	1522978899	-1	[removed]
+0	1522954530	-5	[deleted]
+1	1522956746	3	“This is a great coin”Seriously dude?
+1	1522955015	0	What about ZIL do you like? Or were you looking for a similarly priced coin?
+2	1522956601	0	[deleted]
+3	1522957633	2	I originally heard about Zilliqa on the Crypto101 podcast back in like January, when the CEO was interviewed. I hardly understood crypto so when ZIL hit Binance I was like "oh whoa...wonder if I should buy." But since then, it's basically been around 5 cents.
+0	1522980743	-22	Fork is set and new wallets tomorrow.  But this thread won't tell you that because it's just for FUD.  Nice job here r/CryptoCurrency, you are a real asset to the community.  Solid.
+1	1522981770	17	Its not FUD lol, there is a serious problem a hacker was able to get a large amount of coins and the devs response was to implement a 3 year old fix from peercoin. Then the dev didn’t realize the fix was a actual hardfork until it got pointed out by someone. Besides that they asked for 75 million worth of donations to secure the supposedly biggest partnership in crypto. Imagine any normal company asking for donations to secure a partnership its ridiculous. And do you really think a huge company would be ok with asking for donations to secure a partnership? My best guess is that sunerok will announce that due to the recent hack the partnership will fall through and even then there will probably still be people saying “moon incoming”. I truly hope you do some actual research and hope you have not invested too much in verge. Best of luck to you.
+2	1522983646	-5	I know all the details way better than most. I read 6 sources.  There's enough misinformation and lack of information here to declare this a shitpile.  So if there is nothing constructive here then it's just FUD and what is wrong with the sub in general.  It is a serious issue and it is dealt with. Nobody lost any coins.  Circulation was diluted less than 0.2% and if the miner who did it didn't move the coins they will be locked up in the fork.  OCminer, the guy who identified it and had some public word with Sunerok came back around and pointed out some other issues and Sunerok took care of them.  Fork is coming, hopefully all issues handled.  Price still solid.  But I agree with the critical analysis and have no problem with the hard questions and understand the concerns.  It really is anyone's guess and I can't tell you with absolute certainty what will happen in the next couple weeks.  Best of luck to you as well. Sorry if I seem agitated with the state of r/CryptoCurrency.  People need both sides, the whole fucking market is shady and could collapse any fucking time.  
+3	1522998877	5	Its shit like what XVG does that makes the market shady. Have fun with your massive bags once the fabled "partnership" does not materialize and you never reach the golden peak of lambo moon land.Also the attack is still active, its coming up to day 3 now. Blocks are being mined every second with minimum difficulty. https://verge-blockchain.info/block/000000001380cdd3227c7c41879140a0e5401f45be3b86a3062576882200ba2cLook at the timestamps, back and forth, 1 second apart.https://verge-blockchain.info/1560 coins per second over the course of 72+ hours. Thats a few more coins then you may think.Exchanges are not even excepting deposits, that is probably the only reason it hasnt plummeted harder. Once they do, expect a dump.
+0	1522964063	-9	so  many people hate verge. It's fine, not your fault you invested when it was at 0.25 :P gl next time"When you mess with the sharks you might just get bit, little fish" -Nas
+1	1522965313	11	People dislike the coin because it is legitimately trashy. There is one dev who literally can't code. Sunerok created Verge by doing nothing but copy/pasting together the source code of other projects. In the last two days he again displayed his incompetence by unknowingly/accidentally hard forking XVG. He also had no idea how a basic variable in his own attempted code fix worked. Verge is supposedly a privacy coin but it isn't really private at all. All transactions are tracked by a block explorer. Wraith is Vaporware. The only reason this coin holds any value is the young, low IQ, new to crypto kids who get sucked into holding bags by the marketing. An irrational emotional attachment to the coin develops. Everyone not invested in this coin views it as a joke and that should tell you something. 
+2	1522966082	2	https://github.com/vergecurrency/VERGE/issues/685LOLThis is the absolute state of Verge development
+3	1522966709	1	we gotta have a chat on the 17th ;) it will be fun

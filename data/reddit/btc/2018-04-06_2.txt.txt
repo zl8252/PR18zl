@@ -1,0 +1,26 @@
+File created at: 1523038645
+Subreddit: btc
+Submission title: OpenBazaar 2018 Roadmap
+Submission created utc: 1522964578
+Submission score: 138
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522972050	10	[My reaction reading this.](https://www.youtube.com/watch?v=trELKmUPoyU)Except the tokens. I will have to do more research on that but I don't view tokens in a good light. I wonder if the investment round had anything to do with it.
+1	1522988431	2	hahaha gold
+1	1522984498	1	I read their other blog posts about the tokens and still don't understand exactly why they are important. Also not sure why their token will be erc20 but they apparently don't plan to support ETH stores in the app.
+0	1522983716	4	Can't wait for it to be web browser accessible as hinted at by Chris. That will truly open it up to the masses.
+0	1522986731	5	I just requested human readable store names on Twitter a couple days ago. Very excited for that change!
+0	1522973901	2	Exciting stuff ahead!
+0	1522984077	2	Wow. Nice.I love the exchange part! Where do I go to FOMO YOLO on the tokens? 
+0	1522998433	1	Missing the feature to find local merchants.
+0	1523012344	1	I gonna give it a try soon
+0	1522985636	-18	*YAWN* no lighting plans 
+1	1522991657	8	Why would you want to use lightning to buy something? Stick to settlement coin
+2	1522996169	-12	Because it's faster, cheaper  than blockchain tech and safer than shitty bcash 0conf
+3	1523015157	3	Yes, pay 3 fees instead of one half-cent fee.  Makes (no) sense.
+4	1523017643	0	This sub is awesome. It's the only place where FUD gets up and fact gets down 
+5	1523028236	1	Maybe the existing facts do not agree with your assertion.
+1	1522988633	3	Lightning?
+1	1523011199	1	They are taking a wait-and-see approach. They are waiting for LN to become stable and not susceptible to loss of funds and then increasing in ease of use before they support it.
+2	1523019226	1	I thought LN isn't possible according to thoroughly analysis from fooyakball and  jstolfi. What you are saying is they are waiting for vaporware to become stable y easy to use? 
+3	1523024556	1	LN isn't specific to btc. It can be used by other cryptos (to a much better extent if I may add).However, LN is barely in beta at this time and should not be used with real value.

@@ -1,0 +1,39 @@
+File created at: 1523038646
+Subreddit: btc
+Submission title: Bitcoin Cash is the fitter Bitcoin. Play on. Bitcoin Cash is the better Bitcoin.
+Submission created utc: 1523011560
+Submission score: 119
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523016679	9	Are they directly taking BCH? Are they converting it immediately back to fiat?
+1	1523018412	11	Easy there cowboy, give it time.
+2	1523018672	3	Give what time? Both of these are possible right now, I’m just wondering what the process of payment is like there. And how they handle the BCH after they receive it 
+3	1523021704	4	Good point - but does it really matter in the grand scheme?If we get everyone accepting BCH first, then its much more likely for them to keep the BCH and to turn off that payment processor's BCH -> Fiat function as they can pay their employees and themselves in BCH as its widely accepted.
+4	1523022183	4	It doesn’t matter, I was just curious. 
+0	1523016325	5	Please submit your business to acceptbitcoin.cash , thanks!
+0	1523011595	16	Strand Fitness Chain joins Bitcoin Cash!
+1	1523012820	13	Best "**Bitcoin Cash accepted here**" sign I've seen too.
+0	1523011860	10	Strand Fitness main site has more than 4000m of fitness services! This chain is a welcome addition to the incredible Bitcoin Cash adoption occurring in North Queensland.
+0	1523011822	6	Bitcoin cash is shaping up! 
+1	1523018206	2	I do hope you're right. Please tell me [this trend](https://cryptocoincharts.info/pair/bch/btc/kraken/3-months) is soon going to reverse - it's getting depressing.
+2	1523019506	7	Not any cause for concern or depression.1. Look to *Value* instead of *Price*. The OP is providing direct evidence of a rising BItcoin Cash value as merchant chains are adopting Bitcoin Cash.2. Bitcoin (BTC) has been crippled to make way for LN which has intrinsic problems of its own. Plus blockstream blundered by driving away Bitcoin (BTC) merchants long before LN was ready to receive them.3. Bitcoin (BTC) price is really a function of effectiveness of their [censorship/deceit campaign](https://np.reddit.com/r/noncensored_bitcoin/comments/7414nf/september_2017_stats_post/). I wouldn't put too much stock in it as censorship is not a long term credible strategy for propping up its price.4. Bitcoin Cash is the better Bitcoin with an awesome scaling roadmap, coin distribution, devs, community and vision to become a global currency that can bank the world's unbanked.Hope this cheered you up.
+3	1523025548	3	Will you at any point accept that perhaps this is just the market talking and not effects of censorship and deceit?Perhaps having a very secure, decentralized and censorship resistant base layer that has proven incredibly difficult to change and facilitates a SoV/digital gold use case (with payment infrastructure being built on layers above) is what the market is valuing above the ability to do cheap on-chain transactions.It's not like Roger and co. haven't been on a huge PR campaign and reached tons of people through tons of media appearances, conferences, Bitcoin.com, @bitcoin (not sure if Roger controls this) and let everyone know how he thinks BCH *is* Bitcoin.Just like bitcointalk.com has become completely irrelevant, r/bitcoin seems to become less relevant over time.Will you still blame censorship and evil Blockstream guys if BCH continues its downward trend to let's say .05 or even .01 BTC many months from now as a result of little real demand for using it in commerce?Nothing wrong with having a preference for on-chain scaling or feeling that things were moving too slowly on BTC, but at some point, you got to get beyond the "Blockstream and Bitcoin Core are the reason for everything that doesn't go after my head".I was initially a big fan of the fork and the prospect of getting to see different scaling approaches duke it out in the wild, but it has become more of a never ending presidential election with everyone slinging mud at the opposing side and interpreting everything as a huge victory for the home team and damning exposure of the opposing one.
+4	1523037478	1	If everyone gave up every time BTC dropped 80% in value there would be no BTC. BTC has no inherent value. I think the leading dev team in BTC is completely economically shortsighted and malicious, so I have no reason to respect the market of their misled newbs. Anyone who downplays utility as the primary reason these currencies have any value is not someone to listen to.
+3	1523020884	1	Thank you. I just hope those who are doing all the selling see the light.
+4	1523022402	2	They're merely providing bargains for those monitoring the fundamentals. 
+2	1523035813	1	Business adoption can actually depress the price short-term. The reason is that any Bitcoin accepting business probably still has to pay their suppliers in FIAT.
+1	1523030051	-2	Really?  Super corny comment dude. Is the price vs btc shaping up? 
+0	1523012262	4	Congratulations Strand Fitness! Love the new slogan too 👍Fitter better Bitcoin - That's Bitcoin Cash for you! 
+0	1523012977	2	Respect to the Northern Statesman!
+0	1523011730	2	Very cool!
+0	1523029763	1	Hey guys how can I encourage the use of crytocurrencies in a practical way instead of HODL where I live in Canada (Ottawa)?I really wanna see this happen where I am and get a head start in the hands on aspect, as I see virtually nobody that encourages this type of use, although there are bitcoin ATM's still lying around.. We're behind in consumerism and business in general... Who would have thought! /s
+0	1523032344	1	Well, I for one can say I have nothing to do with gym, nor any of the people I know that uses cryptocurrency.
+0	1523028893	1	Worst business plan ever, lets loose 50% of our money in 1year
+1	1523028909	1	Redditor /u/Excavateandfill has low karma in this subreddit.
+2	1523029809	2	Bad bot
+3	1523029812	1	Thank you, Excavateandfill, for voting on trolldetectr.  This bot wants to find the best and worst bots on Reddit. [You can view results here](https://goodbot-badbot.herokuapp.com/).   ***  ^^Even ^^if ^^I ^^don't ^^reply ^^to ^^your ^^comment, ^^I'm ^^still ^^listening ^^for ^^votes. ^^Check ^^the ^^webpage ^^to ^^see ^^if ^^your ^^vote ^^registered!
+2	1523029056	1	good bot
+0	1523025665	1	Then why is it worth less on exchanges?
+1	1523025680	1	Redditor /u/themosthatedone has low karma in this subreddit.
+1	1523028939	1	Right now everything is down. Bitcoin Cash needs time to reach higher adoption levels like bitcoin did in the past. The mission is still clear and it IS making progress on that front.  Price will follow fundamentals. I understand there are many speculators in cryptocurrency who are wildly looking for the next moon mission, but when the fundamentals are there for worldwide peer to peer cash, there will be nothing that can stop the value from showing itself.
+1	1523035919	1	Possibly because businesses accepting BCH need to pay their suppliers in FIAT: creating temporary selling pressure.

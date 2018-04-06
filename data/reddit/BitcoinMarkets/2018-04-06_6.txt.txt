@@ -1,0 +1,9 @@
+File created at: 1523038682
+Subreddit: BitcoinMarkets
+Submission title: How long is Bitstamp taking for account verifications these days?
+Submission created utc: 1522981201
+Submission score: 4
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523023683	2	Very spotty. I submitted one in December and put in two tickets and it still wasn't verified I. 2 months. Put in another and it got verified in less than a week. That was the beginning of February. Got an email a week later saying they couldn't verify my first account because I already had a verified account
+0	1523025272	2	Got verification in March for an account submitted in December. 

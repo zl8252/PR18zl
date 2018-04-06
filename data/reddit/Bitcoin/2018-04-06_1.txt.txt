@@ -1,0 +1,183 @@
+File created at: 1523038633
+Subreddit: Bitcoin
+Submission title: SEC Quietly Puts Bitcoin ETF Proposals Back on the Table
+Submission created utc: 1522976134
+Submission score: 984
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522982483	219	If an ETF is approved, moonshot.  Institutional investors will be able to invest on a massive scale, while a trusted 3rd party has custody of the coins.  I don't want that crap, but they do!  Any pension or hedge fund will be able to easily add BTC to their portfolio, which appears to be an uncorrelated asset-class.  Even a 1% allocation would cause the price of BTC to absolutely skyrocket.  Once the price starts rising at a fast rate, institutional FOMO could kick in, which would very likely allow McAfee to keep his dick. 
+1	1522983582	65	Just keep in mind this ETF comes in two forms: long and short, and both use futures. Neither ETF will purchase or hold actual bitcoin; it is cash settled. Institutional investors can as easily short BTC as they buy the futures. 
+2	1522984771	37	Yes and No.First of all, at this moment institutional holding or BTC is literally 0%. Yes some of them will short, but as long as they increase their weight to a positive number, the NET result is institutional buying bitcoin.Secondly, even the ETF is based on futures, price impact of purchasing the ETF will be transmitted to spot bitcoin price, otherwise there'll arbitrage opportunity.So all in all, bitcoin ETF will save McAfee's dick.
+3	1522995026	14	>Yes some of them will short, but as long as they increase their weight to a positive number, the NET result is institutional buying bitcoin. I don't know If I'm being stupid or if you are. You understand the point of a futures based ETF is that the people don't *touch* Bitcoins? Having more instruments *around* Bitcoin that don't actually hold Bitcoin seems like a pretty easy way to manipulate it down. Prior to this it was not possible to manipulate it down because you had to buy it first, causing the opposite. An actual Bitcoin ETF that requires a reserve in Bitcoin would push the price up, however, this just looks like the end game for holding the price down indefinitely. If someone can explain why this is not the case with a reasoned response I'd love to hear it.
+4	1522999977	8	You underestimate the power of arbitragers. Any price difference between these products will be seen as no risk investment for arbitragers. As soon as arbitrage gain goes over interest, money will flow in the direction to decrease it. It will eventually come to spot buying or shorting. More money in the space will mean bigger price for bitcoin. Thinking in the extreme cases might help to understand. Lets say bitcoin is 1 dolar. These etfs can't hold big amounts of money then. You can't have a billion dolar etf product on a 21 million asset. If that would be the case someone would buy a lot of etfs like 100M dolars and then buy a lot of bitcoins with 10 million dolars and sell etf and free money.
+5	1523000442	7	Arbitrage works both ways, and if there is more volume shorting BTC on an ETF, you can be sure the arbitrageurs are gonna devalue BTC, not raise the price of the ETF to balance
+6	1523000764	3	Yes but total money in the space will be proportianal to market cap of bitcoin, no matter what. Arbitraging short is harder on spot market, because either you have to already have bitcoin or you have to loan it from hodlers (which will increase interest rates of bitcoin) and there is limited number.
+7	1523001276	1	Or use kraken
+5	1523002924	2	How would you arbitrage between them? They aren't used interchangeably. I can't take my Bitcoin future from CBOE and cash it in on Coinbase, I don't understand.
+6	1523003775	8	You wait the settlement date. It is called Cash-and-Carry-Arbitrage if future is priced more. I don't know the definition of opposite one maybe Term-Arbitrage. The trick is it should be more profitable than the interest of the period (interest rate*period).Edit : It is called Reverse Cash-and-Carry-Arbitragehttps://www.investopedia.com/terms/c/cash-and-carry-arbitrage.asphttps://www.investopedia.com/terms/r/reverse-cash-and-carry-arbitrage.asp
+7	1523004926	5	That is fascinating and the fact you know about this and I haven't heard of it leads me to believe you are the right person to be asking about this. How certain are you that cash based futures and futures based ETF's will raise the Bitcoin price long term?Thanks in advance.
+8	1523007567	3	I know they can't use it to surpress bitcoin price long periods of time. It depends on how much money will flow to those. CBOE and CME Futures didn't deliver as much volume as predicted. But you never know. They open the doors to instutional FOMO but, doors being open doesn't always mean people will go through. But overall i am optimistic in the long term.
+7	1523018161	2	In the link you gave for c&c arbitrage this example is given:>Example of Cash-and-Carry Arbitrage>Consider the following example of cash-and-carry-arbitrage. Assume an asset currently trades at $100, while the one-month futures contract is priced at $104. In addition, monthly carrying costs such as storage, insurance and financing costs for this asset amount to $3. In this case, the trader or arbitrageur would buy the asset (or open a long position in it) at $100, and simultaneously sell the one-month futures contract (i.e. initiate a short position in it) at $104. The trader would then hold or carry the asset until the expiration date of the futures contract, and **deliver the asset** against the contract, thereby ensuring an arbitrage or riskless profit of $1.I don't think the above example applies to the current BTC CME/CBOE futures contracts as they are paper settled with no delivery requirement for actual bitcoins. I'm in no way well versed in financial products but I am highly skeptical that approval of the ProShares ETF would materially impact BTCs price like you believe. I believe that regulators and other officials are concerned that approval of a 'real ETF' like the Winkelvoss's which requires actual purchase and delivery of bitcoins has the potential of creating a huge BTC price spike with unknown consequences on the broader financial markets. 
+8	1523022187	2	Who cares what are they settled at. You earn fiat or btc at the end. When settlement reached  you might earn more fiat at future than you lose btc on spot or you might earn more btc on spot than you lose fiat on future. After the settlement you sell some of your gains on btc to cover up loses on future or you withdraw some of your fiat earnings to buy back btc you lose on spot.Edit: You are right about  Winkelvoss's ETF will have more direct effect. But even it is cash settled, arbitragers make it matter indirectly.
+4	1523003690	3	*you're
+5	1523038447	1	**youmst
+4	1522995855	6	Read the CBOE/CME bitcoin futures production spec file, and figure out how the settlement price of futures position is determined, and ask yourself if there is a link between ETF, futures, and Spot BTC prices, before coming back showing off your ignorance. Thank you!
+5	1522998628	13	Please continue the debate you guys I'm interested in what the actual answer is 
+6	1522999606	7	Me 2
+7	1523014821	2	The fact it's not tied to spot is only good for 2 things, Hedging (legit) for future buys or sells and 2, manipulation.. These people already said they will 'tame' bitcoin.. not my words theirs. People are too naive. ETF's based on actual bitcoins is MORE SOUND but they want to just add derivative upon derivative to distort the market.
+5	1523004052	8	I think, while you seem knowledgeable, you are being a bit rude compared to the tone he used!Thanks for your answers anyway
+6	1523007530	1	I am usually being more polite to polite people, and being more rude to rude people. You'll have to blame those made the first move. Blaming me doesn't make our world better. ; )
+7	1523010722	0	Right but multiple onlookers politely asked you to expound on your point. Can you please elaborate on your explanations, or point to concise sources that do?
+8	1523010894	1	Check my reply somewhere below
+9	1523011583	2	Awesome thanks
+6	1523005130	1	CommentTooAddictive
+5	1523002713	1	Why don't you just explain it to us? I invited someone to explain:->If someone can explain why this is not the case with a reasoned response I'd love to hear it.You responded with an insult, ignored the request to explain....its so easy to understand, which makes me ignorant for not knowing - yet you spent three sentences, that could have been used to explain, but you didn't.Go on, elaborate for us.... /u/HalfSaiyan 
+6	1523008352	-1	only if you asked politely in the first place
+4	1523008560	0	One could have bought alts, exchange them into BTC and sell them, thus manipulating the alt price up and BTC down.But that is not why BTC is falling. 
+5	1523023174	1	The alt price would fall when you sold alts for BTC.
+3	1523005904	2	Your second part is wrong though. ETFs don’t trade exactly at NAV. There are arbitrage opportunities for ETFs daily. ETFs have a redemption/creation feature, which typically ensures the share price doesn't stray significantly from the net asset value. If it’s well managed, the price of the ETF won’t affect bitcoin prices, but Bitcoin will affect ETF prices. 
+4	1523008288	2	Let's ignore the cost of carry and other complexities in futures pricing and say fair value of futures (F) always = spot BTC price (B), and ETF price is E. All contract sizes are standardized to 1 BTC.Now let's say E > F = B happened due to $ inflow to ETF. Arbitrageur will short N (borrow and sell) ETF @ E, buy N futures @ F to create N ETF and close her short position. Profit = N*(E-F). While she is buying futures, she will drive up futures price and making F > B, which is another opportunity (short F long B). So eventually $ inflow to ETF will drive up spot BTC price, other factors equal.The opposite case is the same logic.
+5	1523012331	1	The futures are cash settled and Bitcoin is not a commodity, so the rules you’re trying to apply doesn’t work. This whole idea is thrown out when the ETF creates more shares so the ETF price = underlying. For this to work, the futures would need to be settled with actual handling of BTC. It’s cash settled, so there’s much less influence on the price of BTC. What you’ve explained only with commodity futures that involve actual delivery of the underlying asset. If the ETF did affect prices, its shares short sold to hell and kill BTC. 
+6	1523019358	2	You don't really understand how futures market works. The arbitrage trade between ETF and futures has nothing to do with whether it's cash or physical settlement. I believe you have never traded futures by yourself. Learn more and think more, and you'll understand what I mean. Before that, don't trade futures as pros are going to crush you.
+6	1523020779	2	You literally have 0 idea how futures or options markets even works.
+7	1523032609	1	LMAO big claim from a nobody. Perhaps I didn't explain it well enough...I have a degree in finance and I am pulling from my fixed income and derivatives textbook from school. There is no documentation that cash settled futures affect or predict price discovery. However, it is documented futures on commodities do affect price discovery because there is physical delivery of the underlying asset. The futures price is then the best predictor of the future spot price upon settlement. For example, if you go long on pork belly to the expiration, you are delivered pork belly. Further reading if you're interested:https://onlinelibrary.wiley.com/doi/pdf/10.1002/fut.21854https://ageconsearch.umn.edu/bitstream/157413/2/jaae608.pdfhttps://ideas.repec.org/p/anc/wpaper/394.html
+3	1523008048	1	Seriously 1 Mil per BTC ? Has anyone calculated with the whole market cap by then? Reasonable ?
+4	1523020947	3	so what youve been thinking everyone who bought in 2013 set their target to 20k and now theyre out? lulz. bitcoin' aim is to take over the world money supply. 1 trillion or 100 trillion. No number is low unless that happens, and it doesn't look any close to happening right now as the value is still a tiny 7ish grand with a tiny 300b cap. do not mistake it, most of us know its going to happen without an inch of doubt, especially now, after seeing 2017
+5	1523021641	1	I’m impressed. Thank you 
+6	1523028058	1	Keep in mind that the money supply keeps increasing since central banks cant stop the money printing machines
+4	1523008615	1	21 Trillion USD, much smaller than US+EU+JP+CN M2 money supply
+5	1523019226	3	I bought bitcoin at $850 and came to $1 million figure as being the low end of bitcoin value, higher end is if it replaces all global currency  AND value is in the high tens of millions.
+6	1523019572	2	congrats my friend. I came in much later than you but have a similar estimation. It'll be a long road but it's inevitable. Let's hodl to the moon.
+7	1523021686	1	Faith kept
+5	1523008932	2	Okay got your point ! I prefer John keep his dick 
+5	1523014698	1	That's not much smaller, more like around the same size as.  Global m2 is like what 50T?
+6	1523018909	2	it's 90T according to http://money.visualcapitalist.com/worlds-money-markets-one-visualization-2017/
+3	1523017819	1	>First of all, at this moment institutional holding or BTC is literally 0%.That is false.
+4	1523018769	1	no it's not false, check my reply to @workamonkey
+5	1523020047	2	I can't find your dumb reply, but you're wrong
+6	1523020197	1	you made my day!
+7	1523020794	1	:)seriously though -- if you have experience in the financial industry and crypto, please share your sources on the claim. I have first hand knowledge of institutions holding btc. would love to see how your sources contradict mine.
+8	1523020949	1	then just ctrl+F search "@workamonkey" and you'll find my reply
+8	1523028150	1	They dont have Bitcoin yet due to custodian issues. 
+9	1523034733	1	\*cough\*https://custody.coinbase.com/https://gemini.com/custody-services/
+3	1523010047	1	> institutional holding or BTC is literally 0%That statement is literally 100% incorrect 
+4	1523010209	1	Any evidence? 
+5	1523010723	1	https://xbtprovider.com/ just one of many i see very regularly There are loads of institutional Bitcoin and cryto funds, in December alone i read dozens of articles about funds being created solely for crypto or adding Bitcoin to certain funds. The fact you believe institutions hold "literally 0%" is insane.
+6	1523018710	1	to all of you @workamonkey @u1004 who pretend to know a lot about investment, current global fund asset under management is over 80 trillion USD (https://www.reuters.com/article/us-global-funds-aum/global-assets-under-management-hit-all-time-high-above-80-trillion-idUSKBN1CZ11B), while BTC's total market cap is just over 100 billion. Do your own math, even if ALL BTC are owned by funds, it's just 0.1/80 = 0.13%. So yes, it IS literally 0%! I don't care how many tinny tiny funds that hold BTC you can find, because their size don't matter at all. Please educate yourselves first before calling out other "insane" or "false". Thanks!
+7	1523024544	1	Lol, "funds can hold 100% of Bitcoin but that is still literally 0% and meaningless"Yeah, solid logic mate, really smart, top notch, #genius at work...
+2	1522992199	8	I seriosly doubt the pension funds (the ones with literally massive amounts of money) will be shorting bitcoin with peoples retirement money. They will be wanting to go long. 
+3	1523035813	1	There are people with Bitcoin 401k (pension fund), it's not new.
+4	1523038220	1	That's something different. I'm talking about pension funds like calpers ($300 billion in assets) so far they have not touched cryptos.
+3	1522995457	1	They may use the short ETF for hedging, though.
+4	1522999701	3	For hedging what? Hedging implies they have a net long poaition.
+5	1523018746	2	Long Dogecoin, obviously.
+2	1523005580	3	> Neither ETF will purchase or hold actual bitcoin; it is cash settled. sure, there are more than 3 efts in the pipeline that will hold bitcoin.
+2	1523031004	1	False. Most ETFs do not use futures. They do buy and sell the underlying assets to form and remove creation units. The fact that you stated this and it got upvoted is a huge swing of misinformation.
+1	1522983070	13	Ah yes, the old McAfee indicator.
+2	1522986481	1	Only tji
+2	1522988108	1	Classic.
+2	1522989262	1	[For the uninitiated.](https://twitter.com/officialmcafee/status/887024683379544065?s=21)
+3	1522989273	1	[**@officialmcafee**](https://twitter.com/officialmcafee/)> [2017-07-17 19:02 +00:00](https://twitter.com/officialmcafee/status/887024683379544065)> @maguraaa if not, I will eat my dick on national television.----^This ^message ^was ^created ^by ^a ^bot[^[Contact&#32;creator]](http://np.reddit.com/message/compose/?to=jasie3k&amp;subject=TweetsInCommentsBot)[^[Source&#32;code]](https://github.com/janpetryk/reddit-bot)[**^[Donate&#32;to&#32;keep&#32;this&#32;bot&#32;going]**](https://www.paypal.com/pools/c/80YvGrbq35)[^[Read&#32;more&#32;about&#32;donation]](http://np.reddit.com/r/nfl/comments/7pwo2m/heres_an_interesting_one_league_source_says/dsmirtu/)
+2	1523022007	1	McAfee Indickator!
+1	1522995273	4	> which appears to be an uncorrelated asset-classreally? says who?
+2	1523002753	1	The market has been saying that for about 5 years now. 
+2	1523004085	0	says empirical behavior
+3	1523013596	1	got an academic paper to link then, bruv?
+4	1523020464	1	who you callin' bruv, guv ?
+1	1522998248	6	> If XXXX, moonshot!We get about 100 posts like this on this sub EVERY DAY. You know what happens when XXXX finally comes true?Nothing. Every single time.
+1	1522993173	2	And then we will again experience a parabolic rise, followed by a decline.
+1	1522985265	1	Maybe we will get a speculative run-up just from this. 
+1	1522988195	1	ole johnny just went from nix to midnight
+1	1522996406	1	When Bull Run?!
+1	1523012422	1	Safe, its safe. McAffees dick.
+1	1523014453	1	But we already have a [BTC ETC](https://xbtprovider.com/), which is traded on [Nasdaq Sthlm](https://www.avanza.se/borshandlade-produkter/certifikat-torg/om-certifikatet.html/563966/bitcoin-xbt).
+1	1523025919	1	Operation keep hot dog in bun
+1	1522988617	0	oh come on
+1	1523013483	-1	This is a joke, right? No pension or hedge fund is going to invest in bitcoin. It’s antithetical to every principle of investing. The largest “bitcoin hedge fund” is astonishingly small (couple hundred million), while most aren’t really hedge funds. 
+2	1523015057	1	Bitcoin is a perfect hedge against inflation.  Prices are soft now because we are in deflation. This will end as the economy begins to struggle in q2 q3
+3	1523015611	1	That’s nonsense. Inflation doesn’t cause the price of bitcoin to drastically go up. It goes up the same as everything else does relating to an inflationary dollar. No institutional investor is going to put money into bitcoin. It’s simply not a reasonable investment strategy by people with a college degree and financial sense. If an ETF comes out it will be targeted at the low information investor that gets financial news from CNBC. 
+4	1523019632	1	Lol, you have no idea what you’re talking about.
+4	1523020983	1	"With a college degree" lol. Yup its the bottom feeders who buy etfs. Say hi to the folks on whatever planet you are on
+1	1522984239	-4	That's also what people said when options happened. I'm wouldn't hold my breath.Price will come back when we see LN adoption.
+2	1522995957	1	Where can I trade options on bitcoin?
+3	1522997399	1	sorry meant cme/cboe futures. I think you can trade options on deribit.com, but I haven't tried.
+0	1522997112	43	Why not approve the Winklevos ETF first? They are working on it for years already, experienced in the industry and own a bitcoin exchange. In that case we would have an ETF that is backed by real BTC, a proper way to start I guess. Now we get sucked in the bankers paper asset market from the beginning. I start to believe the manipulation story more and more......
+1	1523015112	1	> deribit.comTHIS^
+1	1523004051	1	Because they're too closely tied to the gemini exchange. 
+0	1522994707	8	Let's start a save McAfee dick campaign lol
+1	1523009325	3	“Help me Bitcoin ETF, you’re my only hope”-McAfee probably
+1	1523014774	1	I'd suck my own dick for $100k a tweet like he gets🤣🤣
+1	1523024710	1	McAfee`s dick matter 
+0	1522981151	15	This is the best tl;dr I could make, [original](https://www.ccn.com/sec-quietly-puts-bitcoin-etf-proposals-back-on-the-table/) reduced by 75%. (I'm a bot)*****> The US Securities and Exchange Commission has quietly begun considering two Bitcoin ETF proposals, public documents show.> ProShares Bitcoin ETF and ProShares Short Bitcoin ETF would each hold Bitcoin futures contracts, providing retail investors with the ability to indirectly invest in the flagship cryptocurrency - or bet against it - through a familiar investment product.> Last month, Chris Concannon, president of CBOE, penned a letter to the SEC asking them to consider Bitcoin ETF proposals on a case-by-case basis rather than as a product class.*****[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/8a5v7q/sec_quietly_puts_bitcoin_etf_proposals_back_on/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ "Version 2.00, ~306507 tl;drs so far.") | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr "PM's and comments are monitored, constructive feedback is welcome.") | *Top* *keywords*: **Bitcoin**^#1 **SEC**^#2 **ETF**^#3 **fund**^#4 **proposed**^#5
+0	1522978500	7	Shhhh....
+0	1523001187	5	Price suppression, same shit as with commodities 
+1	1523015209	2	Gold and Silver all over again.
+0	1522991540	17	Cash settled futures are a negative value to Bitcoin long term. It's much better for Bitcoin if we get derivatives that are settled in Bitcoin or other cryptocurrencies.
+1	1523010368	1	Andreas was confident that the opposite was going to be the case...
+2	1523019549	2	I think Andreas is a genius and he is right with the caveats that he explains, but I think its very important that cash settled futures do not become the status quo because they are devaluing bitcoin compared with bitcoin settled derivatives. Collateralizing financial assets with bitcoin adds demand to bitcoin, increasing its price.
+1	1523027257	1	I think this has to happen first before derivatives due to the often cited reasons of volatility and lack of liquidity. This will help mature the BTC market. 
+0	1522993246	10	This will further the market manipulation that has been suspected by the original futures that opened at CME in December. Banking combines cannot regulate bitcoin so they will try and control it via derivates markets.They’re either going to fud it until it’s so damn cheap everyone sells and then pump or try and kill it off slowly
+1	1523004084	4	If its soo cheap I'll buy until I own all of them ;)
+1	1523022255	1	Using a derivative market to kill bitcoin cannot work. You can increase it volatility with manipulation, but that will be extremely expensive.Unlike gold and silver,  you cannot counterfeit bitcoin electronically.
+1	1522995519	1	Obviously they're working to kill it softly.  They'll get rich doing it too, one hand washes the other.
+0	1523002057	5	Worked well for silver and gold. 
+0	1522984319	9	This is just the CBOE trying to create some demand for their futures product of bitcoin. The worst part is that it is designed for retail investors to get exposure to bitcoin. Here is the sad part. The retail investor has already signed up with Coinbase, Gemini, or Bitflyer. Don’t these guys know no one wants to trade on full faith and credit. Just own the real thing. 
+1	1523028330	1	You're right about the motives for why the cboe is pushing the SEC to get this done -- it does benefit them. However, this would allow for 401k's and pensions to be able to invest in btc if they want to. Right now they can't. You can't add "coinbase" to your portfolio or fund like you can with an exchange traded asset.I'd also like to note for OP, this news is weeks old and a money maker for CCNdotCOM which is a coin pushing site with little journalistic value.
+1	1523028828	1	> Don’t these guys know no one wants to trade on full faith and credit. Just own the real thing.You're absolutely wrong about this. Many, many retail investors are not going to use unregulated exchanges. Especially after so many highly publicized exchanges going under, like MtGox. 
+2	1523029671	1	Coinbase has over 15 mllion users. Gemini has a few million. Bitflyer has a few mllion. Localbitcoins has a few million. Now ask again if retail is going into the futures market. And if they do it will be Bitmex a crypto exchange for futures. Bitcoin has had futures for a long time. CME and CBOE are just late to the game. 
+0	1523001023	3	Can someone ELI5 how a bitcoin ETF would affect the price of BTC on decentralized exchanges?How are the two prices intertwined? Is the price of the ETF going to be the price of the coin?
+0	1522980775	2	yes
+1	1522981087	9	👍 I smell something starting to brew. It’s just a matter of time folks!!!
+2	1522982222	3	this could very well be the bottom....or not LOL
+3	1522993707	9	BTC made you a bottom 
+4	1522994455	4	Hot, how much doge to get a video?
+4	1522996205	4	damn, you triggered my fire alarm
+5	1522999792	1	Username.. Checks out? 
+0	1523002966	2	Do you really believe that this will happen? I think if this proposal goes through, banksters will be easily manipulating bitcoin prices. Don't you think?
+0	1522986887	1	for what purpose?
+0	1522996468	1	..sounds interesting..hope it has good results.:)
+0	1523007010	1	Good news for McAfee. :)
+0	1523008235	1	If the stock market fails to deliver..is this a good or bad from a bitcoin ETF perspective. Is there a correlation possible?
+0	1523015942	1	I bet they got a confirmation/"suggestion" from the NSA that they've completely sweeped the enitre block chain and can trace everything
+0	1523019545	1	Is there an update anywhere on where things stand on a "real" bitcoin ETF... ie an ETF that actually holds bitcoin?  The above article has to do with a bitcoin ETF which would hold futures contracts, not actual btc.
+0	1523021017	1	It might be worth noting that the US Government actually holds a lot of bitcoin.  They have seized many dark markets and arrested multiple  people who had a lot of bitcoin.         If you commit a bitcoin crime the government is more lenient on you if you surrender wallets.  
+1	1523022990	1	They liquidated the majority of those to wealthy investors ages ago, like Tim Draper.
+1	1523023873	1	Pretty sure they auction off 100% of seized BTC
+0	1523023860	1	Futures? Garbage
+0	1523024413	1	Good news, finally...kind of... this could help tame Bitcoin's volatlity
+0	1523029682	1	I rember, a year ago ppl where predicting the price would go up to 3500$ if the bitcoin ETF would be accepted...
+0	1522986755	1	That would explain all the big OTC buying in the last couple days.
+1	1522996860	4	Where do you see this ?
+2	1523000367	6	You cant. This is why the stock market is a scam, everything important happens OTC
+0	1522993431	1	ARKK is an ETF that holds Bitcoin.
+1	1523006993	1	No it isn't 
+2	1523016980	1	Yes it does
+2	1523018895	1	Ark bridges , it isn't an etf.
+2	1523031736	1	...Yes it is?  I'm looking at it right now, Bitcoin Investment Trust. .58% weighting.
+3	1523032223	1	Link
+0	1522996255	1	'quietly' is such a weasel word 
+0	1522987940	-3	This makes no sense. An ETF for just bitcoin? Why would anyone buy this instead of just buying bitcoin, unless they're fucking retarded? ETFs benefit from inherent diversity in whatever index they are tracking. Doing an ETF for bitcoin makes no fucking sense at all. 
+1	1522994079	9	>Why would anyone buy this instead of just buying bitcoin,For legal purposes, for tax purposes, for custodial purposes.
+2	1522994830	-10	You don't have a clue. 
+3	1523009075	1	He does. Most Hedge fund can own an ETF but not a crypto.
+4	1523015305	1	It's still wrong and not the way to do it. derivatives suck
+1	1522991242	8	>This makes no sense. An ETF for just bitcoin? Why would anyone buy this instead of just buying bitcoin, unless they're fucking retarded? ETFs benefit from inherent diversity in whatever index they are tracking. Doing an ETF for bitcoin makes no fucking sense at all. ETF stands for Exchange Traded Fund.The fund can simply hold bitcoin. It's still a fund without any diversification.Putting the fund on an exchange makes it an ETF.Make sense?It's a way for institutions, retirement funds, regular people with stock brokers, etc. to buy and get exposure.
+2	1522991453	-27	 Wow, you are dumber than a doorknob. Learn first, then talk shit. You don't know what an ETF is. You just looked up what the acronym stands for. That is idiotic. Did you understand that? Like I said, ETFs track underlying indices, which means they are inherently diversified. Do you understand yet? No? I didn't think so. An ETF tracking just bitcoin is stupidly pointless, since the investor can just buy or short bitcoin. Get it? No? Then you don't know shit about investing. You want a bitcoin ETF because you stupidly believe it should be a mainstream investment. That is stupid. I hope you understand now. If not. That's your problem. Not mine. 
+3	1522991795	10	>Wow, you are dumber than a doorknob. Learn first, then talk shit. You don't know what an ETF is. You just looked up what the acronym stands for. That is idiotic. Did you understand that? Like I said, ETFs track underlying indices, which means they are inherently diversified. Do you understand yet? No? I didn't think so. An ETF tracking just bitcoin is stupidly pointless, since the investor can just buy or short bitcoin. Get it? No? Then you don't know shit about investing. You want a bitcoin ETF because you stupidly believe it should be a mainstream investment. That is stupid. I hope you understand now. If not. That's your problem. Not mine. You think an index fund is necessarily the same as an ETF. You're 100% wrong. I'm going to quote you so you can't backtrack when you realise you're wrong.To further your embarrassment, look at an analogous example, a currency ETF: https://www.investopedia.com/terms/c/currency-etf.asp
+4	1523011075	3	That person is clearly trolling.  No point in taking them seriously.
+4	1522991879	-21	You idiot. You don't understand investing or ETFs. Learn first, then talk shit. 
+5	1522992111	14	>You idiot. You don't understand investing or ETFs. Learn first, then talk shit. OK. We'll let other people read our comments and decide for themselves u/fangio2verstappen
+6	1522995369	12	>u/fangio2verstappenYou are wrong. There can be ETF's for a direct asset, it makes it easy for certain parties to invest, hence their appeal. You've made a fool out of yourself with the aggression. 
+6	1522992682	-17	Funny you can't back up your own ignorance. Do you know the definition of an ETF? It tracks an underlying index. If this was about a cryptocurrency ETF then your position would be less idiotic, even though that kind of ETF would be far too correlative to bitcoin to make any sense whatsoever. But you're arguing for a bitcoin ETF. That's just plain stupid. Do you understand yet? It's like creating an ETF that just tracks Apple stock. Why not just invest in Apple? If you don't get this, you need to learn more. It's a waste of my time, but this is seriously a fundamental problem with you crypto nutjobs. You can't see plain obviousness. 
+7	1522993526	19	> Funny you can't back up your own ignorance. Do you know the definition of an ETF? It tracks an underlying index. No. It doesn't. Some do. Some don't. Example: A gold ETF. Many gold ETFs literally buy and hold the gold bullion (others hold futures contracts). This is not a "diversified index fund" as you claim. It's literal gold bullion.Again, you're wrong.>If this was about a cryptocurrency ETF then your position would be less idiotic, even though that kind of ETF would be far too correlative to bitcoin to make any sense whatsoever. But you're arguing for a bitcoin ETF. That's just plain stupid. Do you understand yet? It's like creating an ETF that just tracks Apple stock. Why not just invest in Apple? If you don't get this, you need to learn more. It's a waste of my time, but this is seriously a fundamental problem with you crypto nutjobs. You can't see plain obviousness.Again, just look at the gold ETF example. Other commodities examples, you might start to understand why you're so wrong.Hell, it's literally in the name. It's not an ETIF, it's an ETF. Exchange traded fund. A fund does not necessarily need to be diversified and does not need to represent an index. A fund can just be a fund that holds a single asset if it pleases.Let's take another example, LICs, you might invest in an LIC - but that LIC only holds a single stock as it's underlying asset, say, coca cola. I suppose you're scream and rant and rave about how stupid it is to buy the LIC instead of just buying KO. So you buy KO direct and give the finger to the LIC. The next day the LIC dumps KO and reinvests elsewhere because they saw it was overbought, they make a tonne of cash, and you're down because again, you're a dumbass.and **again** I'll quote you in full so anyone else can read this and judge. I don't want you editing or deleting your comments when you realise how wrong you are.
+8	1522995392	16	fuck, /u/fangio2verstappen just got destroyed.
+9	1523006687	0	I think /u/fangio2verstappen does have a bit of a point since this is Bitcoin we are talking about. Remember that Bitcoin is not a stock, and should not be thought of, or treated in the same way as a stock. It's ultimate goal is to entirely replace fiat currencies around the world. I really don't like the thought of federal regulators getting involved because I think they will try to manipulate things to their exclusive advantage, exactly the opposite of what Satoshi Nakamoto would have wanted.
+7	1522994914	5	what if... the bitcoin etf tracks the bitcoin index...just like... gold etfs track the gold index...and... volatility etfs track the volatility index...lol
+8	1523014667	2	Exactly.  On top of that, an ETF is simply a wrapper and doesn't HAVE to track an index.  There are actively-managed ETFs that don't track indices.
+1	1522988787	6	This is NOT even a bitcoin ETF (like Winkelevi were proposing), this is a ETF for bitcoin futures aka something cringeworthy.
+2	1522989693	0	Very cringe inducing. I think bitcoin investors want this so that their investment in bitcoin goes up due to unassuming institutional investors. That fact just exposes the fraud in the their beliefs. You have convictions? Have the courage to see them through. Don't pass off your idiocy onto greater idiots.
+3	1523000502	5	Damn troll get a life
+1	1523024113	1	Just like an ETF for just gold makes no fucking sense? Oh wait
+2	1523029067	1	Not sure if he's a troll or just stupid. I'm leaning towards just being dumb and mad.There's plenty of ETFs the don't just track indices. Like, it would take 2 seconds of googling to figure this out. There are goddamned Soybean ETFs. 
+3	1523030286	1	It's impressive how confident he is in his ignorance, isn't it? Reminds me of a certain orange clown I keep seeing in nightmare day dreams.
+0	1523015912	0	Hi,  I feel that old time hodlers like myself feel preety good about TIO project vision. I feel TIO project can deliver on global scale! https://trade.io/

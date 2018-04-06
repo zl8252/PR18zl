@@ -1,0 +1,468 @@
+File created at: 1523038658
+Subreddit: CryptoCurrency
+Submission title: Vitalik Buterin just burned Justin Sun on twitter
+Submission created utc: 1523012260
+Submission score: 3256
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523018224	604	The man is on a rampage this week lmaooo
+1	1523019301	251	The Wrath of Vitalik
+2	1523019721	60	Is that the next Star Wars movie? 10/10 would watch
+3	1523023822	26	No, Star Trek
+4	1523029254	10	With unicorns and shit 
+3	1523038613	1	Not sure if intentional.
+2	1523036974	1	You had a typo, it's VVraith
+2	1523033714	0	Who wants to work on a script for a movie?
+1	1523021600	80	He's starting to understand he is in competition. Fuck the high road
+2	1523023142	179	I don't know if it's competition so much as he's just fed up with bullshitters in the space.
+3	1523025275	29	Competition might not be the right word, but Eth will increasingly being challenged. "Ethereum of China", "a faster Ethereum", "anonymous Ethereum"etc etc. Luckily Eth is way too far ahead. 
+4	1523027509	25	Lol I can assure you, any new developer who are learning blockchain/smart-contract programming, even if they were Chinese, will not be looking at 'ethereum of china'.The real ethereum is just too entrenched at the moment, and this 'eth of china' nonsense strangely comes from gullible non-technical speculators from the western world.
+5	1523028257	9	Exactly. Except that's how I got shilled into buying Antshares at 0.50 $ a year ago. The argument was that China will never allow a foreign entity to rule over any of their industry. Maybe I am gullible, definitely non-technical but I made a huge profit. At the time it was pretty logical ; the Chinese are extremely nationalistic. Ethereum is foreign. Antshares is not. Just like Google, facebook, Amazon, Youtube all failed and were pretty much kicked out of China by CPC - the same thing could happen to Ethereum and the government would support Antshares. 
+6	1523029328	4	From a business point of view, that makes a perfect sense, especially in view of the tendency of China to control/clone western companies. However ethereum is **not** a company. It is basically a protocol, platform and a programming language on top of it. If the 'eth of china' argument holds, then how come until.now we haven't even seen a single programming language that comes from China yet? This is despite the fact that there's a huge and thriving IT industries there. Why are they all using the same tools and languages that us western developers and the rest of the world are also using?Developers will learn anything that has the most momentum behind them, becsuse that's where the money is .. and that's usually what the rest of the world is also using. The only way the Chinese government can change this is if they force schools and universities to teach whatever state-sponsored language and blockchain protocol they approve, but that seems very unlikely at this stage.
+7	1523031113	4	I know nothing about programming but I’m pretty sure that programming language has no nationality for the intention of making programming a world wide applicable craft no matter where the programmers come from.
+8	1523032616	4	Which is applicable to Ethereum. It's a world computer accessible to anyone regardless of nationality. That's why "blockchain of China" makes zero sense considering all blockchains are public.
+7	1523030929	-2	The argument of "Eth of China" is not an argument, it's just a fact of life.If there's two blockchains that are equally valuable and relevant, and one is Chinese and one is Western - the Chinese one will succeed. It's as simple as that. Local governments, Universities, companies, the state, etc will simply pick the Chinese one. Anyone in China who wants to use blockchain technology or smart contracts will pick NEO. That's what NEO is for, that's what they are focusing on. China is it's own world tbh. Why would they let their fate inside the hands of foreigners?
+8	1523032974	2	Did they choose the Chinese "internet"?  Blockchain isn't in the hands of foreigners, it's meant to be decentralized and while a number of eth haters love to make the argument that vitalik makes it centralized...he let's the community decide he just has a powerful voice.  By his own admission, he will be stepping away down the road.So if you're asking why would China not choose "eth of China"...because ethereum will be a much better product.   This isn't a social media site like Facebook, it's quite different.  Choosing neo over a superior product (be that ethereum or something else) in this space simply because it's Chinese could potentially put them at a severe disadvantage.
+9	1523033361	0	Look m8. I don't even want to argue this. I didn't read your comment. I am so sure that NEO will be more important than ETH in China that I am willing to bet 1k NEOs on this. We come back in 3 years and see which blockchain is relevant for the Chinese government, companies and economy. You down? 
+6	1523037012	1	> Except that's how I got shilled into buying Antshares at 0.50 $ a year ago. Boi I'd let anyone shill me into ANYTHING for that type of ROI. 
+4	1523035121	1	Imitation is the sincerest form of flattery. 
+4	1523025817	-1	There are plenty of examples of companies/products that were “way too far ahead.” Guess what usually happens 
+5	1523026226	2	Yeah if they are being complacent. Looks like eth devs are full speed ahead in both vertical and horizontal expansion. Imagine any shitcoin announcing Microsoft, Samsung, Toyota, dtcc, jp Morgan, plus hundreds of others as partners. Or having an entire company serve as an incubator for the space, or blockchain llc buying 60+ million worth of land next to Tesla and google to create a space dedicated to advancing its tech. 
+5	1523026235	2	We will see but I think in this case it's different.  Ethereum is not a company, it's a platform and a network. Devs actually want to develop apps on Ethereum, just look at the sheer number of eth-based tokens on the top 100. Companies want to join EEA, and nothing else. 
+2	1523030279	3	[He's beginning to believe](https://media.giphy.com/media/Nn8sKnYPiq2iI/giphy.gif)
+2	1523023259	6	Nobody has ever succeeded by not making waves and playing friendly. Look at the top performers in any field. People either hate or love those people.
+3	1523026815	2	Exactly. 
+2	1523037739	1	if he rly just realised there is competition that there are roughly 100 competitors that are way more dangerous to go after than that good old scam coin TRON
+1	1523029019	4	Vitalik actually wants to make a tangible impact on the world using the tech. He's made it very clear that anyone seeking to gain from speculative mania at this stage of the game is doing more harm than good.
+2	1523029249	-1	Oh so you mean it was ok at some stage for ether to be speculative? Crypto principles be damned, Buterin is just another garden variety capitalist.Edit: oh and Tron? Really defines what a shitcoin is!!
+3	1523038257	1	>Oh so you mean it was ok at some stage for ether to be speculative?Not what he said
+1	1523035694	2	Vitalik had enough of trying to be the nice guy. He is taking no bullshit no more.
+1	1523034475	1	> ek lmaoooYeah :))
+1	1523025782	0	!ban 1
+1	1523029503	0	Must mean EVM is almost complete haha. Haven't seen him with this much free time since WOW
+0	1523016837	639	I like how TRON developers think giving away $1 billion supply to themselves is a plus point.
+1	1523018269	130	Being around since 2011, seeing alt coin mania blows my mind.We have absurd amounts of data points, but despite that people believe.
+2	1523025495	45	Ethereum was an alt coin once. 
+3	1523027021	30	no u
+3	1523027156	59	Errr... still is. Everything but BTC is an alt coin.
+4	1523028509	13	I would argue that definition now excludes ETH, LTC, BCH and BTC. Basically if your grandma can buy it with a credit card it’s not an alt
+5	1523037041	8	> BCH Hhahaahahahahahhahshahahahawhbwhawbawawa
+6	1523038018	-2	Oh look one of these guys
+5	1523029346	-10	[deleted]
+6	1523030907	20	You can’t hold a private definition of “always.” The term “altcoins” has been around for less than ten years, and language changes. It always has been and always will. 
+7	1523030995	2	In your new definition of the word, what does the the 'alt' imply an alternative *to*?
+8	1523033405	-6	It’s a very simple concept, an alt is an alternative to Satoshi Nakamoto’s design and chain. Currently only BCH is following that white paper and scaling model which renders everything non-BCH an alt. 
+9	1523034474	2	No, there are two standards that together determine the single global chain: social consensus and Nakamoto Consensus. Bitcoin has both, while BCH has neither. Bitcoin is Bitcoin. Appeals to authority, including the whitepaper and Satoshi are unilateral attempts to undermine the consensus mechanism designed by Satoshi to objectively determine the single chain of valid blocks, and thus the legitimate Bitcoin.An altcoin is simply an alternative to Bitcoin, not an alternative to your (or anyone's) subjective interpretation of Bitcoin. Try as you might, your unilateral arguments will always fall short. That, more than anything was Satoshi's vision.
+9	1523037766	1	Hardest I've laughed all day, thanks so much for that.
+7	1523032052	0	"Always" is contingent on the timescale of the matter at hand ("I've always been a fan" "I've always hated you" etc). In this case, the timescale is the advent of cryptocurrency to today. Hence, non-Bitcoin cryptocurrencies have always been altcoins. Altcoins have been called altcoins since the first one, Namecoin
+6	1523029468	7	Language works on the basis of consensus and common use, that’s why it’s constantly evolving. 
+7	1523029826	-1	That's my point. A private definition doesn't meet the standard of consensus and common use. By definition :)
+8	1523029962	4	Yeah I didn’t make up that definition, I’m basing that off common use I have observed. The use you’re talking about is mostly found on r/bitcoin which is not surprising 
+9	1523032220	1	I didn't say you made it up, only that it's private.There may be instances of local use but not common use. In that case I wouldn't expect to use it casually on r/cryptocurrency without pushback
+9	1523030927	-1	No litecoin and ethereum are alt coins. Google alt coins. And definitely litecoin is an alt coin.
+4	1523029500	-3	In India BTC is the altcoin
+3	1523036019	3	They're like a hipster alt coin, though. They were an alt coin before it was cool to be an alt coin.
+1	1523021149	72	Also, is he saying more people are using TRON than ETH?
+2	1523021894	76	I know something must be lost in translation cause that's just a straight up lie if that's what he meant
+3	1523023566	15	Probably means, in an incredibly indirect and misleading way, the 24hour trading volume, I think. Any reason to hype a polished turd.
+4	1523036261	1	I'd still expect ETH to have a higher trading volume since it's a more common trading pair and easier to get with fiat. I've never bought TRON in my life, but I've bought a bunch of other coins, and I bought ETH first to get them all. (except XRB back when it was RaiBlocks and not on Binance)
+3	1523031696	4	Justin Sun lies all the time. He claimed he worked with the "Netflix of China" except that company ranks like 11th and has like 0.2&#37; of the industry when it comes to on demand streaming video. He makes outlandish and easily disproven claims every week. People buy it up because there's all these idiots out there that can't google or know nothing about China.
+4	1523035377	0	As if Ethereum doesn't? Casper was supposed to deliver 2 years ago, zk-proofs.. the list goes on and on and Ethereum has delivered diddly squat on their promises while the delusional believers keep cheering.
+3	1523036190	1	If we're talking about holding, then maybe? I still highly doubt it, but it's possible there's more volume of TRON being held.    But if we're talking about straight up transaction volume, ETH wins by miles. ETH is the way most people buy in to other cryptos. So even if you're not holding ETH, you're damn sure using it to some extent.
+2	1523028758	5	He means the tech behind tron is more accepted and used (javascript for example than solidity)
+3	1523028969	7	So he used that point in two different "ticks"? He explicitly said that in another point.
+4	1523029000	1	The man clearly has issues 
+2	1523025765	-2	More potential users if their specific approach works. Kind of like users on facebook *technically* using TRON. You know what I mean?
+3	1523026230	11	So if I say I want to make a coin that takes a one penny fee to put every single death certificate on the blockchain. My potential user base is the entire planet.I then don't make any product and just tweet stuff once and a while.I can now claim I have more users than Ethereum too.Cool.
+4	1523027566	1	That's exactly how it works. It's a play on words - but it still rings true. You have users, and a reoccurring operational model because, well, people die every single day. Your chain would legitimatize death certificates to make sure there's no double-dipping on fake IDs of dead individuals. Etc. For instance: How many USERS does Call of Duty have vs how many users does League of Legends have? How many users are participating in self-directed investment strategies vs how many people belong to a private brokerage? How many people have a Walmart card vs How many people have a <dying retailer> card? It's not about money spent but potential user-base. There's a wider application of something like social media content vs a smart contract platform that not *everyone* would easily partake in. Either way, the volume of transactions in ETH would ultimately still be larger in all monetary values, but TRON would have more users. EDIT: This forum really needs to read before upvoting or downvoting. 
+5	1523027957	3	> potential user-baseIf that's what the guy was bragging about, you'd have an argument.  However, that's not what showed up on my screen when I clicked his tweet.>7. 100 million users vs. small numberAlso, "small" is very subjective.  This sounds like something Jian Yang would say.
+6	1523028492	-1	This forum takes things at face-value so often that it hurts me. Extrapolation is a wonderful thing. Regarding the "100 Million users vs Small Number" was a dumb as fuck thing to say though. How does Justin substantiate a claim with a proxy number that's not even numeric, he could have *easily* done a little bit of research and highlighted key potential figures. 
+1	1523022460	20	Is the $1B for the tron devs or for devs that build things using TRON? Stellar has a chunk of coin reserved for rewarding devs external to the organization for building things to interact with stellar. I don't see anything wrong with this approach. If its just a reserve balance of $1B to pay themselves for working on it, then that seems quite a bit shadier. 
+2	1523024572	5	He specifically called it a community fund.
+3	1523029030	1	It says "developer rewards"
+4	1523029128	3	I know,  I’m just clarifying because he said repeatedly in the live stream that it was a community fund.  That includes developers.  
+4	1523036281	2	As in any user that develops an application on the platform has the ability to earn TRX rewards. It’s almost as if other subreddit users do absolutely no research on the coins they choose to bash. It is a developer rewards program in that EVERYONE who develops something “artwork, payment apps, games, etc”, can earn a piece, not just their 100 developers that work for the company.
+2	1523027332	1	It’s for projects build on the tron network. 
+1	1523022238	8	I believe he is referring to third party developers, that build on tron protocol. 
+2	1523022827	19	YeaIt's still a lie
+2	1523023093	1	I'm not sure; do you have a source saying that core developers are excluded from access to the $1 billion?
+3	1523024428	1	Access to the $1 billion? It says “reward”, if they develop then they get rewarded. Shouldn’t you be rewarded for your work? Or is it just for free? 
+1	1523022874	3	It's for the community that builds upon the network or are helping in some ways.
+2	1523023056	1	So the core developers are definitely excluded from receiving any of the $1 billion? What's your source for this?
+3	1523024335	4	It was in the livestream Justin Sun held last week, I can see if I find some better info about this
+0	1523016777	280	It’s easy to list all your “advantages” when you haven’t ever had to face the reality of implementing them in a decentralized way.
+1	1523018156	171	In any way really 
+2	1523023774	-5	Not even the rear way. And, by that I mean, in his butt.
+1	1523029117	7	or in any way for that matter
+0	1523022489	157	> consistent Coinburn vs. no coinburnIt depends on the coin's economic model, inflation is not always a bad thing.> 10000TPS vs. 25TPSExcept TRX can't do 10000 TPS because it's not a fucking working product.> 1 billion USD developers rewards vs. no planlmao what, any proof of that 1B in rewards?> 100 million users vs. small numberThis one is just sad, TRX has no mainnet, where do these 100M users come from or it's just another "potential" measure?How would you take this project seriously when the main guy is spouting this kind of nonsense?
+1	1523027764	6	Couldn’t ETH say the same thing? Why not say 7 billions users on ETH if we’re just assuming that it’s going to reach full success. 
+2	1523028584	38	100M users means about 1 out of 70 people on this planet using Tron. Nowhere near 1/70 even own crypto, this is downright delusional.
+3	1523028844	4	And comparing it to the network with the most traction.
+3	1523032656	1	Ah but my friends' friends' friend works at netflix, so 1 billion people use TRX, then that person is also connected to someone at google which covers the rest of the 6 billion people.
+3	1523028835	-7	100M users from combined partnerships that will run on TRON protocol.
+2	1523037033	1	He's stating like it's a fact at the present day, TRX has 0 current users, unlike ETH.
+1	1523029018	4	His tweets are not for people who know he's a scamster. They're for the people still holding trx bags and more gullible people who can become potential bag holders.
+2	1523033485	-5	So you missed out on +40% this week?
+3	1523033774	3	I'm not a day trader.
+4	1523033871	-4	Glad to know your bags get heavier each week
+5	1523037682	1	Thanks Mr. Matos! TRON CONNNNECCCTTT!!1!!11!Just checked btw, Tron still down 84% from it's high 3 months ago. Massive returns! (For short sellers :) )
+6	1523037693	1	 > 1!!1!! = 1 > 11!11! = 39,916,800
+6	1523038375	1	You think I don't know when to sell rookie? Keep holding eventually you'll make it back your initial investments. I'm just here day trading a 10k position averaging 3-6% per day. You can still make money in this market kids
+1	1523028864	2	the last point i thiiiink hes referencing the tech behind usability of the platform...eg; javascript vs solidity
+2	1523030775	7	Is it Javascript or Java? If it's JS and Sun called it Java, that's fairly amusing and alarming.
+3	1523033263	0	it was just an example. List used this ''pro'' as well im previous infographics seeing as you could leverage javascript to help develop. wasn't being overtly specific
+1	1523024192	-14	The 100 million users come from partners and investors that will be integrated into Tron network( obike, Peiwo app, UpLive, gifto) all of these would contribute to what he said. Now the 1B investment is a bit up in the air, I’d say it’s a backbone to let developers build in the Tron network.
+2	1523024953	29	You mean all those "partners" that Justin Sun just coincidentally happens to be a member of the board, or a founder of or an adviser to, said "partners"? Tron is joke...
+3	1523037147	1	simply said FUDDER
+3	1523026890	0	How is that a negative, if anything it makes it more likely that these partnerships and integrations actually happen. 
+4	1523027183	11	Because he never discloses that he's part of those "partners" that he brings in. It's kinda like Microsoft announcing "Hey guys we have an exciting new partnership with XBox!!!!".Edit: sorry, it's Tron we're talking about, so if Microsoft would do a Tron style announcement it would be more like "Hey guys we have an exciting new announcement next week announcing our new partnership with Xbox!"
+5	1523029567	5	Or it would be like Elon Musk saying Tesla was going to partner with Solar City.  Does public knowledge about ownership always need to be disclosed?The garbage hype announcements are a different thing and are of course silly.
+2	1523030025	4	Ive never heard of any of those and doubt they have 100m users.
+3	1523032031	0	The level of ignorance lmao just because you don’t know the product doesn’t mean it doesn’t have users lol these are all apps used in China or other Asian countries. 
+4	1523032881	1	How the fuck can you have users when your coin is still an ERC20 token that does nothing?
+5	1523033418	1	The token doesn't have the users the Dapps that are partnered with Tron do. Once the main net gets launched(May 31st) these Dapps will be integrated with the Tron network. 
+6	1523035020	1	What dapps? 
+7	1523035170	1	Obike, Peiwo App, UP Live, Gifto
+8	1523036476	1	Those aren't even dapps. You can use those apps today. How does a bike app benefit from decentralization? How would they benefit from using Tron rather than Ethereum? How can you even know if they would benefit using Tron over Ethereum when Tron doesn't even know how their network would handle scaling issues? How can you be confident that Tron solves scaling issues without compromising decentralization? Tron is purported to be using Raft consensus and DPoS. Raft isn't even suitable for public blockchains. That means that the network will be delegated which means it's sacrificing decentralization for speed, something that's trivial to implement today (see NEO and EOS).  The Tron protocol documentation is also severely lacking in details.You Tron supporters are delusional. Edit: also their protocol documentation mentions web 3.0, yet their website mentions web 4.0. They cant even get consensus on their use of buzzwords.
+5	1523033555	1	Bro stfu. 80% tokens do nothing for now
+6	1523035416	1	Yeah and 99% of those are absolute dog shit, like Tron. 
+7	1523035580	1	Made me 6 figures so idc lol. Keep chasing coins buddy
+8	1523036982	1	I don't chase coins, whatever that means.
+0	1523018957	131	9 . not working product vs working one
+1	1523020741	51	10. Plenty of announcements of announcements vs few.
+2	1523024077	0	Did you see they just bought a huge advertizement for their test net in Times Square? Ugh...
+1	1523027149	9	They say they have 100M users of their dApps. What are these dApps and how is that possible?
+2	1523032682	2	100M bots.
+1	1523037040	0	not working product vs a not scalable product
+0	1523018125	21	Just curious, I know very little about Trx, but how are coins burned if nobody pays fees? How can that work? Somebody has to pay for the burned coins? 
+1	1523018541	46	Free money for everyone.Seriously, if any cryptocurrency gets as big as BTC, they will realize their problems.
+2	1523027175	13	security being the main one?    If Doge rose up to $20,000, it will be the safest coin on the market since 1Doge = 1Doge
+2	1523020173	28	hey hey hey!
+3	1523022306	18	[deleted]
+4	1523022975	12	BITCONNEEEEEEEEEEEEEEEEK! WADDA IAM GUNNA DO?!
+5	1523024941	8	The guy who uses this in his twitch stream cracked me up https://youtu.be/bi_093qnXeA
+2	1523032275	1	Finally someone said it!
+1	1523024945	10	The actual answer is that 1024 TRX are burned every time someone creates a token/app on the platform.   
+2	1523026263	6	So it gets more expensive with time to deploy new apps?
+3	1523026478	6	Or cheaper haha.  Depends which way this goes :p
+3	1523026920	1	Sure, but not significant in any way though. 1024 coins on a 65B supply. That is like 100 people compared to the total world population of 7B just to make a random comparison. I feel it helps better to compare to something real life with these kind of numbers. Tldr; Totally insignificant. 
+1	1523027551	5	The way they are burning is essentially a transaction fee for setting up an app on the Tron Main net. When you set-up an app on the Tron Network it will cost 1000 TRX, those coins will be burnt
+1	1523023966	4	Like Eth, Trx will allow the creating of coins on their network.to create a coin you'll need to pay 1024TRX and those fees get burned.
+2	1523024645	7	Is that 1024 per coin cap or 1024 per separate token? Per total coin cap seems pretty useless. 1024/65B is almost literally nothing. Per coin minted seems weird. Either far too expensive or people will simply create coins with 100 total supply (which still works due to decimal points). 
+3	1523031243	1	seems per market cap but remember they think theyre gonna have a shitload of apps. If they get a million apps, thats 1B tokens burned 
+4	1523032054	2	A million apps though... Even their theoretical tx/s won't be close enough.  
+1	1523022871	0	its not totally free like Nano or Iota there are fees but its fraction of pennies 
+0	1523013484	211	Another idiot got Buterined.
+1	1523024440	24	Buteruined
+2	1523028467	8	This is the correct new term.
+1	1523018715	2	Justin got but hurt.
+2	1523023645	2	In the butt.
+3	1523024551	0	Your mom got it in the butt last night also
+4	1523029534	2	Yeah, because she bought TRX. Now she butt hurt.
+1	1523031502	1	Buterined sounds like a chemical process... Like saponification.
+1	1523019662	-56	ETH investors got buterined. going to $200 soonPS: im not defending TRX. I'm team fiat
+2	1523020958	16	$0.33 to $200 = Buterined? Lol?600x investment. Would get Buterined again any day.
+2	1523019912	32	if you're team fiat, then why the hell are you on /r/cryptocurrency?!just to troll?
+3	1523019991	9	To hate on us.
+3	1523025014	3	check his posts 100% troll, it’s quite incredible actually. There’s so many better things you could be doing rather than being a keyboard gremlin. “we need ethereum to be $25 so people will buy it and cause adoption. I personally like ripple because it is so cheap” 
+2	1523028779	1	Fiat as in dollars/euros/yen/cash?!?  You mean that evil stuff that people use to buy drugs and fund terrorism?!?!
+2	1523020169	-5	Vitalik flat out said multiple times in that mania that traditional investments were better.  I don’t think Tron guy or Ver said anything of the sort.  Team fiat sucked ass last year.  Sure it is more stable now but the dollar lost a lot of value in the past year.  If you played crypto safe last year you destroyed the dollar.  People losing a lot of money are playing stupid.  
+3	1523020607	10	Great investing advice here. Always be able to look into the future. 
+4	1523022152	3	Err, when Charlie lee dumped all his litecoin was that not an obvious signal?  When vitalik here said again and again traditional investments were better was that not a signal?  Only a dumbass needed a crystal ball to not see the whole market was way overvalued late last year.  And only a dumbass held from those highs all the way to here without at least selling some.  Keep doing whatever it is you do.  The quantity of dumbasses on crypto subs boggles the mind.  I like cryoto to gain adoption but holy shit so many idiots are in this it makes me fine with the whole thing going up in flames.  I already pulled stupid money out of it so don’t really care either way.  
+2	1523020668	-3	I’m team Tesla. Fiat sucks.
+3	1523024724	3	Fist...as in, in the butt...?
+4	1523028890	1	Fiat. Autocorrect
+0	1523016867	113	poor tron, we will never forget this plagiarism thing 
+1	1523017082	34	And the [cryptokitties account video.](https://www.reddit.com/r/CryptoCurrency/comments/7oknu1/justinpets_trons_justin_sun_the_blockchain_doesnt/). I dumped mine when he was caught lying the first time. The whitepaper plagiarism didn't come as a surprise at all.
+1	1523020894	7	What happened? Sounds entertaining.
+2	1523021190	38	Their whitepaper is literally copy/pasted plagiarized.
+3	1523021318	22	So why would anybody take them seriously?
+4	1523021689	42	Good question! Any trx holders willing to answer?
+5	1523022082	24	They're too busy making YouTube videos, shitty medium articles, and circle jerking in their own Telegram channel.
+5	1523027163	11	I will try to set the record straight for youTron has launched their Testnet (March 31st)  and has moved their Main net launch up from the original launch date of July 31st -> July 1st -> May 31st.They have 200ish employees in two offices (In SF and China), with plans to open a branch in the EU, and perhaps Malta.They have a very active Github, one of the most active in the Crypto Spacehttps://github.com/tronprotocol/java-tron/pulseThey have partnerships with companies to produce tokens on their Main nethttps://np.reddit.com/r/Tronix/comments/7ppgzt/trons_partnerships_almost_have_as_many_users_as/As far as the direct FUD and allegations against Tron, I would encourage you to read this article to get both sides of the story.https://medium.com/@TwentySumCrypto/tron-trx-coin-killing-fud-rumors-a-presentation-of-counterpoints-1ae14629821dJustin Sun definitely overhypes Tron, to the point of being annoying to some. I would prefer him to let the work speak for itself.He is also not a great presenter and speaks english as his second language, so that is off-putting to some.But to call TRX vaporware or a shitcoin is flat out false and not based on fact.The Memeing and group think regarding TRX on this sub is unfortunate because it undermines the unbiased fact based analysis we should all have regarding any Crypto.
+6	1523028581	15	Do you know why their Github is active? Take a look at their codes and commit histories, and you'd notice that it's full of tiny commits that change a few lines of codes each, many of which also have the same commit messages. There are also numerous spelling errors in the commit messages even. All these are screaming to me, "amateurs", and I can see why vitalik would be shitting on them.
+6	1523027667	-1	Thank you for the good answer! I am a fairly small trx holder, and am excited for the project, but the fud is unreal haha.Not letting it bother me too bad though. I remember when this sub was fudding neo, OMG, and other solid coins when they were young. 
+6	1523031701	-2	This! Yeah the guy doesn't know how to act online, but that doesn't mean the tech is any  less. All the allegations are over hyped and blown up, people have this sheep mentality on this sub, 99% of the people here didn't even read the white paper but have all these claims, but it's easier to jump on a crashin train to feel some sort of superiority, like we are some kind of football team. Yes some codes where copied from an open source, ask any developer and they will tell you this is super common. They do have product which is in test phase atm. If you look up their developing team you realise how great they are, the biggest and brightest names in the industry. Justin is young and too eager atm, he has a lot to learn. But most of the hate here is unfair and childish.
+7	1523034671	-1	The people that did read the white paper read a shoddy english translation. Which was a huge mistake by the Tron team, and one that I think they could have handled much better> If you look up their developing team you realise how great they are, the biggest and brightest names in the industry.If Tron was a scam as so many people claim, There is no way Justin Sun would be spending so much money on overhead costs.The point of a scam is to make as much money with as little effort as possible.
+5	1523021978	7	I'm not a TRON holder or supporter - far from it. But, they usually pop up en mass with things like "it's early days and TRON will change the world" or some such utter BSFor the whitepaper fiasco I believe their common answer is "Nobody had time to write one of those things when they are busy developing and actual product"  --- this one I particularly hold dear. They remind me of Millennial Lemmings. Reverse Darwinism at it's best.
+6	1523032135	0	Was a translation error where volunteer translators didn't include citations for public code that was used. At least educate yourself.
+6	1523023809	-9	[deleted]
+7	1523024298	9	>I wouldn't trust some fancy paper anyway  ...  >Try to act mature and don't talk about stuff you havn't researched.
+7	1523024834	2	Decentralized internet has a few problems.    The absolute massive size of the internet and the fact that China will just block TRON
+8	1523025194	2	I do know it has some issues, just like the internet now has some issues. but i do see the internet grow bigger and bigger by the year and I wouldn't like to see it go the way it is going now.. so i do support him in his huge vision and I do know it's a gamble. but arn't' we all gambling on a coin that will get mass adoption?
+9	1523026230	1	How do you decentralize 2 zettabytes of traffic? 
+7	1523025067	0	Guarantee* - did you write their whitepaper?
+8	1523025717	1	I hope you do speak more than 1 language..
+5	1523032231	1	They have a pretty good use-case & even if Justin doesn't know anything about coding hes been hiring people that do. Throwing wads of cash at people who know what they are doing tends to work out quite well for most businesses TBH. Thats not to say they are doing "well" by any means, but unlike a lot of coins the TRX team is making some sort of progress (testnet finally).The whitepaper part is *really stupid* of them but in the past 3 months alone we had VEN shill their BS BWM 'partnership', multiple NANO hacks/issues, the Waltonchain giveaway scam, the whole thing with LTC, XLM hack, and what can only be called the Verge exit scam. There is also the billion exchange issues but that would take an hour to type up. Almost every coin is looking pretty shady right now.
+5	1523030458	0	It's always good to have a little bit of trx. Shit goes +50-100% every other month. Sell, wait a few weeks/month and buy after it dropped again --> wait for the pump and so on. It's the only coin I am not even looking at the chart or whatever; only coin I didn't get burned yet and I am truely a horrible trader.
+4	1523023328	32	I thought it was only the English translation that was copied/plagiarized. Someone screwed up the translation/got lazy...I believe the original Chinese version was fine. The piss poor translations have hurt the coin several times. 
+5	1523027328	3	And it was only a section of the English translation. 
+5	1523032195	1	More people need to understand this. 
+5	1523031771	1	This!
+5	1523034392	1	It was not a translation problem. Source: read both versions. 
+4	1523025013	2	$$$$$$Quite frankly people don't give a fuck add long as they sell their bags for a profit to the next idiot before the price tanks
+4	1523031548	1	probably because Tron has good marketing professionals + fud is quickly dissipated in crypto. DADI also copied their wp but after a few days people forgot about it 
+4	1523027153	0	GOOD FUCKING QUESTION. we got excited, realized it was horseshit and sold off, but it did no die and TRX is still fuckin' sitting there with it's goddamned twig and berries out just sitting there with a fucking ice goddamn cold cup of rich chocolatey ovaltine like a bitch. 
+4	1523026924	-1	I don't know but it's fucking baffling. Tron is almost worth more than IOTA at this point which is just laughable
+3	1523027041	1	FTFY: A small section in the English translation of the Chinese White paper was copy and pasted from another white paper. 
+0	1523022940	8	I love that kid
+0	1523019244	11	Geez first Wright now Sun? When did Vitalik turn into the Crypto Terminator?
+1	1523021768	-7	He didnt. He had to beg Game.com to allow his stoneage token to be part of Tron Dogs. 😋
+2	1523025195	10	“stone age token” troll or just delusional?
+0	1523019307	21	Holy shit! Vitalik as an advisor to Tron confirmed!
+1	1523021348	5	Justin already editing the white paper to reflect this fact.
+0	1523023306	13	"100 million users vs a relatively small number" 🤔
+1	1523026507	10	This is the most egregious one in my eyes. What services does Tron provide that users are 'using'???
+2	1523027577	0	I heard you can rent bikes. Oh, and buy digital gift cards and in-game microtransactions... soon™. It could be a good currency, you know. But with bullshit posts like these from the founder himself...
+3	1523033296	1	Using what? The ERC20 token? 
+0	1523024283	15	Vitalik is hugely underestimated. He's young and he has vision for the future. His recent antics tell us that he isn't afraid to call people out on nonsense. And the developers have shown that they're willing to make necessary changes based on users reviews and not what they think is best. Which is an excellent decision!
+0	1523024948	8	"High fee" https://i.imgur.com/6gCMx8O.png
+1	1523033808	2	Well TRX has a very low fee.  0.  Considering it doesnt exist. 
+0	1523017471	47	Everyone is saying roasted, but giving free marketing to Tron. You're doing what Justin wanted, which is talking about the project.  No marketing is bad marketing. Tron is in your mouth!
+1	1523018390	22	I'm sure people following vitalik already know the shitcoin...
+2	1523019245	15	I'm sure everyone knows the Top 20 coins on CMC
+2	1523032280	1	Top 10 coin, you mean... 
+2	1523037156	1	Correct and that is Bitcoin Cash. 
+1	1523020186	8	> No marketing is bad marketing.[Carlos Matos begs to differ.](https://imgur.com/a/opAoT)
+2	1523022332	3	lololol
+2	1523021305	2	Thanks god
+2	1523022478	1	That has nothing to do with Carlos Matos or marketing and everything to do with the SEC shutting them down.
+3	1523024032	2	How did the SEC find out about BitConnect then?No further questions!
+1	1523021462	0	it just shows how dumb Justin is tbh, was major supporter of TRX since it came out on binance but lately as im following Justins action...i lost faith on this guy. To cocky and just a wild kid overall. Nothing to impress, just my 2 cents.
+2	1523022320	1	He's certainly taking an off the grid approach that could end up in the gutter really quick. Time will tell.I didn't lose complete faith. The project has not failed yet, and Alibaba devs didn't leave Alibaba for no reason.
+1	1523028910	1	nah. having read this, reminds me of some stupid shit roger ver would pull on bitcoin. i wouldnt touch trx with a 10 foot money making pole
+0	1523027554	3	The age of our celebrities shittalking each-other on Twitter is officially upon us!
+0	1523015249	13	Damn savage
+0	1523017027	16	I'm amazed at how far Tron has gone by copying a whitepaper and delivering pretty much nothing functional, while being a tsunami of "partnership" announcements. A house of cards, which time will reveal. Comparing itself positively to Ethereum after stealing from its whitepaper and delivering so little is ironic.
+1	1523020699	-34	Tron investors like tron because its the only coin with a CEO that actually DOES SOMETHING. Plain and simple. All the other coins just sit back, relax, and DO NOTHING lol. Those are the shit coins.
+2	1523021738	18	This guy prolly joined crypto market yesterday.
+3	1523033196	2	I mean, he's saying the coin has a CEO. That's a fundamental misunderstanding of blockchain.
+2	1523024135	5	I'm not sure collecting and announcing partnerships is a particularly productive deliverable, but I do admit he is very active at that, definitely not "doing nothing". But are the right/important things being done? Time will tell.
+2	1523029785	0	Yikes 
+0	1523012420	37	Justin's a genius for this. I bet this is exactly what Justin wanted... getting attention from VB... clever ass marketing for free.
+1	1523016715	70	This strategy makes sense for celebrities, music, movies, and literature, but not tech-related businesses.
+2	1523017257	27	Your point is "sense" ... this is crytpo, nothing makes sense, its redefining what makes sense. VB has almost double the twitter followers... i bet JD just found alot more
+2	1523020008	2	But in crypto everything that gets popular rises in value (kind of). He definately knows what he is doing, even though it looks extremely stupid and immature.
+3	1523020014	7	You probably meant ***DEFINITELY***  -not *definately*  --------------------------------------- ^^^Beep *^^boop. ^^^I ^^^am ^^a* ^^bot ^^whose ^^^mission ^^is ^^to ^^^correct ^^your ^^^spelling. ^^This ^^^action ^^was ^^^performed ^^automatically. ^^Contact ^^^me ^^^if ^^I ^^^made ^^^A ^^mistake ^^or ^^^just ^^downvote   ^^^^^^please ^^^^^don't
+4	1523020487	2	Good bot
+4	1523025457	2	Good bot. ^^^Definately
+2	1523020853	1	No, at this stage it is absolutely a popularity contest...
+2	1523037260	1	But it worked. We are talking about it right now. Had Vitalik not sent out this tweet, we wouldn’t be here. 
+3	1523037449	1	People talk a lot about bitconnect, verge, and others, too. Attention is important, but the message needs to be positive, too.
+2	1523017436	-14	Says who ? Justin is the Elvis of the cryptoworld. Just remember that all because you may not think much of him the other 1/2 of the world do. He is the pinup boy of crypto !
+3	1523017970	14	Elvis was very bad with money, so at least one point of your comment fits.
+4	1523020015	1	He was also heavy on the mic with the throat if you  know what I mean. 
+3	1523027935	1	Justin is the Gary Glitter of the cryptoworld
+1	1523021592	3	getting flamed by a higher/more important person, converges into good pr exactly how.
+2	1523021840	3	Bcuz of your comment, and the 124 other comments and counting. And, the 1000+ comments/retweets. Clever marketing.
+3	1523025508	0	You're neglecting the fact that 99% of the people commenting in here already know about TRX and know how much of a shitcoin it is. So it's not like there's a monumental awakening happening right now. 
+4	1523029906	1	99% - so you're saying theres still a chance
+3	1523023441	0	So us talking about it with a displeased manner makes us or other people buy the coin exactly how ?
+4	1523029847	1	I didnt say buy. I said market. The more that talk about it the more others see it...maaaaaaaaaaybe just 1 person buys in? Still a win
+1	1523014343	4	Bingo
+1	1523017818	-3	Didn't your mom ever tell you it's rude to talk with Justin Sun's dick in your mouth?
+2	1523018269	6	No. But why don't we get off moms since I just got off yours.
+3	1523018626	-3	Necrophilia is illegal, bruh.
+4	1523022485	4	All the good things are...
+1	1523016313	0	that doesn't make any sense?
+2	1523016374	-1	Basic marketing 101
+1	1523018453	-1	It's like when McDonald's is silent because bitcoin doesn't care, and taco Bell trash talks burger king. 
+0	1523021820	9	Vitalik has had an odd week in terms of relations with other crypto personalities. He [took the original shiba inu from the 'doge' meme for a walk](http://livedoor.blogimg.jp/kabosu112/imgs/2/c/2c30bc40.jpg), showed how Mr Wright was not Mr Nakomoto but Mr Wrong, and now has hurled Justin into the Sun.
+1	1523028831	4	Yeah vitalik seems to have a soft spot for doge, as evidenced by the dogethetrum project (I dunno if he's involved at all?). He's maybe secretly a shibe too lol ..
+2	1523029212	2	Hullo fren!I believe funding the Doge-ETH bridge was privately funded by two generous persons from the ETH community, one of whom is redditor who goes by the username /u/HodlDwon and another whose name I am not sure of. This [very cool and significant bridge project](http://coindesk.com/dogecoin-helping-ethereum-solve-biggest-issue) has often been called Dogethereum however unfortunately some other random people starting a different Dogecoin-related project also called their project the same name, which has created a lot of confusion.
+1	1523024779	-1	HAS HURLED JUSTIN INTO THE SUN HAHAHAHAHAHAHAHAHAHAHAJAHAHAHAHAHAHAHAHAHAHA
+0	1523018705	7	Any Tron advocates - please explain what problem Tron is trying to solve ? - why do we need it?...How will it improve on what exists today - I’ll listen.
+1	1523020148	3	This is a very well thought out question. The thing is, I don't think anyone would reply even if the question was directed to Ethereum advocates.
+2	1523022189	7	I used to enjoy gambling on prediction markets, and in particular Intrade.Then Intrade got shut down.I want a dApp that can provide a prediction market and which can't be banned. Augur progress has been real slow but I think they will get there. Assuming they do, they will have provided me with a product I was missing.
+2	1523021515	2	Exactly. The point of decentralized apps would be for censorship resistance. Eth already blew that concept up completely. Now all that’s left is the concept that these things exist to launch shitty ICOs.
+1	1523032484	2	Higher TPS rate than ETH, no fees, built in coinburn every time a token is made on the TRX chain.
+1	1523024233	-2	They have legit third party companies that are in contract to build dapps on the tron network once it launches main net on 5/31. Justin Sun has very close connections with jack ma since attending his school and working along side him. In time TRX will be huge, it’s only 6mo old and has accomplished a lot in the crypto-sphere and huge trading volume. Justin is doing something right as his product is only in test net phase 
+2	1523027747	7	That did not answer the question in any way or form.  I'm also curious as to what problem Tron is trying to solve?
+2	1523029713	5	What are all these things Tron has accomplished? 
+2	1523033729	2	Im sure Jack Ma becomes best friends with everyone who attends his school.  
+0	1523022796	2	i mean why bother even compare 🤦🏻‍♂️
+0	1523028264	2	Holy Shit haha that's savage
+0	1523029013	2	Going in for the deep cuts!
+0	1523025490	4	Funny how he bashes the same network he built his token on. Some people have no shame.I feel like, as long as most projects haven't launched a working product yet or haven't made an impact yet, a lot of shitcoins will survive, and a lot of dumb money will be lost.Once real projects start rolling out their products, new investors will have an easier time picking tokens that have actual working products that solve real world problems or add value, and the standard will shift from speculation to product usecase and quality.Until then, a lot of scumbags will use the opportunity to try to part us from our money using nothing but fancy websites, and social media hype.
+0	1523029435	4	Why shouldn't TRON copy good material from other systems?(I think I received some unsolicited TRON on ETH addressses I own, but I have no interest in it.)
+0	1523025725	4	> Java as a plus pointLol
+0	1523023247	5	TRX is an Eth token. Oh...
+1	1523031658	4	Until May yes.
+0	1523022804	8	Tron is a Chinese centric platform which takes all of the concepts of Eth and simplifies and generalized it they for sure take the concepts of Eth. Usng Java instead of a Solidity is a clear example of why it will be better, java and C# are close enough to bring  in coders from either background being Java or C# would only speed up the process and leverage patterns and concepts which have been out there for a while. The problem eth has been and is it wasn't built with the right vision as a enterprise platform as VB said you ain't build Uber on Eth which too me sounds retarded and shortsighted, in case he missed the last ten years you want Uber and Facebook and AirBnb all scaled out from your tech and so for Eth success was a result of being in the right place at the right time to be the  platform for ICO tokenization.But what comes next? Mass adoption requires dapps to cater to enterprise not the other way around. Otherwise we have a Balkanisation of cryptos within crypto. Ie Eth and ETC, that will become the norm which no fortune 500 company is going to go for they want stable boring reliable so they can make money.XRP has some of that stuff in terms of TPS etc but ETH is important because it will be the protocoins template for whatever mass adoption ecosystem wins (Tron/XRP/Eth).Because Asian market is the future(SK/JP/CN) just think about how it will spread out from there into Thailand and South east Asian Vietnam etc all the way into India. Western money in Asia is the only new available market with the right set of variables to produce a similar European Union level of wealth growth, Asian want to pull themselves out of the lower rungs of globalization and they understand innovation and a influx of Western money is the vehicle to do it, in the case of China the government has ultimate control but can not enforce that control due to another set of variables. India can use the blockchain for there own money and ID cards but right now they just spent millions of dollars build basically a redundant system Aadhaar which is why they are trying to ban cryptos they want to tie everything to it instead of a blockchain which is sort of ridiculous, but some smart Indian will figure out a way to make the two work and become a billionaire.  
+1	1523037645	1	probably the best sensible comment in this thread after a long time other than all fudders.
+1	1523029518	0	every programmer i know hates java
+2	1523035924	1	I hate java I wish they pick c# but it's better then some one off language that only has one use to writing smart contracts.
+1	1523029551	-1	I couldnt read because your use of grammar. May I reccomend grammarly? Itll help!
+2	1523035947	1	Try spell checker. Lol
+1	1523030733	-1	35 years + developer here. But also businessman lately. Let me disclose a huge secret. Programming language in 2018, with hardware and machine language being astronomically effective is NOT of huge importance. What someone can do in C, C++, C #, Java, or even VB.NET can be acquired also even with...power builder or Lisp lol. Even with Huskell as Charles H could very well tell you. What is way more important is system architecture, efficient coding, best practice algo designs and focus on algorithm performance. A system is a breathing entity in desperate need of a true master. To put it simply. I'd trust more a Vitalik level Genious that a team that has copy cat-ed other peoples work. Not saying that Ethereum is the best. The protocol is a bit old and naturally newer items emerging could be better. But you don't really see Mazda taking over Mercedes spot simply because it has a faster rpm cars
+2	1523035306	2	Having to learn Solidity to write smart contracts is another layer of technical knowledge that must occur, why invent a new language when it can be written in C# with the same patterns. Why because VB said so? From a language standard solidarity is no different than .net. yet it's a entirely new thing to learn when it doesn't have to be. Edit: also your points have lots of flaws.>Programming language in 2018, with hardware and machine language being astronomically effective is NOT of huge importance. What someone can do in C, C++, C #, Java, or even VB.NET can be acquired also even with...power builder or Lisp lol.Not understand the actual code your writing is sort of important. Tron has the benefits of see where Eth screwed up and can avoid that.>To put it simply. I'd trust more a Vitalik level Genious that a team that has copy cat-ed other peoples work. Not saying that Ethereum is the best. The protocol is a bit old and naturally newer items emerging could be better. But you don't really see Mazda taking over Mercedes spot simply because it has a faster rpm carsEth is filled with exploits and holes that have been patched over the time. Saying they copycat eth is disingenuous Tron can handle way more use cases then ERC20 eth. They stole the concept no doubt but that is par for the course.
+3	1523038590	1	ETH has been hard forked once and has the busiest and most battle tested network. Trons code could indeed have some better parts but I do not trust the team. period. Vitalik is considered a world class persona, a true innovator. Justin S is just an announcement expert. So it all comes to the leaders I guess. 
+0	1523017705	7	Nothing like opening /r/CryptoCurrency to get your daily TRX-hate circlejerk...What's next? Ripple?
+1	1523018479	4	TRX is a 6 month old shitcoin. This is a PSA
+2	1523021237	14	The fact that you are downvoted is terrifying. Honestly.
+2	1523032667	-1	Top 10-15 coin you mean, surely you are aware of this?
+0	1523014785	3	This almost belong to /r/murderedbywords
+1	1523018551	0	Post it
+0	1523019234	4	I love Vitalik. Dude is a savage genius! 
+0	1523028435	2	Thats cute, but Justin came through with some heavy hittin facts.
+1	1523031139	0	I would hardly call any of his points "heavy hitting" lol
+0	1523032656	2	Look, I own the tech geek label that we get as early adopters but can we not reinforce that stereotype by pretending that this kind of little slap fight it's anything but petty? Come on, Vitalik and Justin. Don't fight. You're both pretty.
+0	1523020215	2	I read the Tron whitepaper as soon as it came out. I've read probably 50+ whitepaper in full. Tron was by far one of the worst. I hadn't even heard anything about Tron at that point, but I immediately dismissed it as an awful project with no clear use case. It was full of buzzwords and just super cringe. The fact that anyone is still invested in this has me very worried for the crypto space.  Even Verge is still worth hundreds of millions. What the fuck people? I get that you want to make money, but you're all investing in litteral vaporware. Do yourselves and this space a favor and invest in real projects that solve real problems. 
+1	1523032588	6	So you read the original Chinese Whitepaper, right? The real one?
+1	1523034068	1	Litoral vaporware?
+1	1523023877	-2	You mean imaginary blockchain problems that dont need solving yet and all conceptual ? The whole crypto is vaporware at the moment. Except if its the one your invested in ???? Then its gospel........ Da Vinci was considered crazy in his day for his concepts.  People are fighting over a new invention that is so primitive no on knows how it will look in 10 years time. Problem with this invention is people are vested in their own coins cause Money involved. So everyone talks up their own. Keep kissing Vitaliks arse....he made his money he aint losing sleep over you........
+2	1523026494	2	You know that actual operational blockchains aren't vaporware right? Tron wouldn't exist if it weren't for the ERC20 standard. Im not even advocating for Ethereum. If you were invested in Cardano, then I wouldnt pass judgement on you because Cardano has potential to be a reasonable project, even if I disagree with some aspects of it. Tron has nothing reasonable about it. If you can't see that yourself because you're not well versed in the theories underlying blockchain protocols, then you should seek out opinions from experts that are. And the overwhelming consensus is that Tron is a piece of shit.Whatever though, it's your money. Can't say you haven't been warned.
+1	1523023684	-7	Dude shut up, educate yourself on Justin sun and tron before you speak nonsense. Sound like a fool. Justin has a lot of knowledge in marketing and is highly educated. Oh but but the “whitepaper” ahh the old unwritten rule of the white paper. It’s outdated, 2009 shit. Fuck a white paper. Check $KMD. Build a great project and they will come. 
+2	1523025121	5	You're totally delusional. I can't wait to read these comment chains in a year
+3	1523025282	-2	I know, I can’t wait either. lol 
+4	1523026566	2	How long have you been involved in crypto?
+5	1523027644	1	Feb 2017
+6	1523027998	2	Hmm. You should know better then. 
+7	1523028481	1	I’ve done my share of research on TRX. I come from a business background(real estate broker, marijuana dispensary owner), and the background scene of TRX is killing it. Marketing, business partners, exchanges, community, it’s all there, all that’s missing is the main net launch. Test net is currently running. 
+2	1523027726	2	Love these people who are paid to be positive about specific coin(s).
+3	1523027902	1	Lmao shit where’s my paycheck at then?
+2	1523029465	1	What a noob.
+2	1523034125	1	OK I tried fucking a whitepaper but didnt come.  Help?
+2	1523025868	2	Lmao, shitcoin bagholder spotted. If you think a plagiarized Whitepaper and 0 use case and functionality is something to be justified you're a fucking moron. FOH. 
+3	1523027917	1	FTFY: A small section of the english translation from the Chinese Whitepaper was copy and pasted. It was sloppy and lazy work by the person translating it from Chinese. TRX could have handled that mistake better, but to say the entire white paper is plagiarized is not true. 
+3	1523026089	0	Aha once again the old unwritten rule of the whitepaper. It’s outdated, 2009 shit. Build a great product and they will come. Period. FOH, the fact that you think there’s 0 use cases is a clear sign that your just pulling shit out your ass.
+4	1523029324	1	A great product? What's so great about it? What's its use case? What product does it have besides the scummy CEO announcing a new "partnership" every 30 minutes? It's a only good for a pump and dump and for morons to hold bags. 
+4	1523034182	1	Its outdated to explain how your project will work and how you plan on building it?  Totally!  Who wants to know all that before giving them your money.  Fuck that!  I use dowsing rods when I pick what crypto to invest in.  Failing that, I call the psychic hotline.  
+0	1523015842	4	Boom! Roasted. 
+0	1523017488	0	Keep watching Justin's Twitter. He is now kissing ass so hard that his ancestors will taste the shit. This is hilarious.
+1	1523018233	5	Jack Ma will use instant transmission to teleport to Justin's location.  They will then use fusion to form Jasunma and instantly gain 1k partnerships.
+2	1523033995	2	Once mainnet goes live Jasunma will upload their joint-consciousness directly onto the blockchain and TRX will become the first sentient cryptocurrency. 
+1	1523033935	0	Kissing ass? Geeze this sub is deluded with its hate for tron. 
+0	1523016764	1	nerd battles ha! DORKS p.s. free publicity, thanks vitalik!
+0	1523016753	2	He could have gone on. There is so much wrong with that, even the Tron community didn't like it. THAT should say something.
+0	1523017338	-1	Ctrl-v / Ctrl-v instead of M-w / Ctrl-yAbsolutely disgusting. Just dumped all my ETH.
+1	1523019132	1	yp
+1	1523019407	1	Good luck buying icos
+2	1523020741	0	They're moving to better platforms like BCH, BNB and XLM anyway :)
+3	1523021975	3	Oh ok well BCH can die in a fire but yay BNB and XLM!!! :-D
+0	1523012261	1	If this submission was flaired inaccurately, [click here](https://www.reddit.com/r/CryptoCurrency/wiki/resources#wiki_flairing_content).*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+1	1523018764	1	[AutoMod] Scams
+0	1523024620	1	[deleted]
+1	1523024637	1	**[Fixed your link? Click here to recheck and delete this comment!](https://np.reddit.com/message/compose/?to=Gyazo_Bot&subject=delete&message=delete%20dwwwz6z)*******Hi, I'm a bot that links Gyazo images directly to save bandwidth.Direct link: https://i.gyazo.com/b3dc9d8ed2be56129284b7f17a34645a.pngImgur mirror: https://i.imgur.com/6gCMx8O.png^^[Sourcev2](https://github.com/Ptomerty/GyazoBot) ^^| ^^[Why?](https://github.com/Ptomerty/GyazoBot/blob/master/README.md) ^^| ^^[Creator](https://np.reddit.com/u/derpherp128) ^^| ^^[leavemealone](https://np.reddit.com/message/compose/?to=Gyazo_Bot&subject=ignoreme&message=ignoreme)
+0	1523031163	1	lmao savage 
+0	1523031182	1	the two of the most annoying men in cryptocurrency have a battle and we all win 
+0	1523031637	1	AND HIS NAME WAS VITALIK BUTERIN!!!!!!!!!!!!!!!*QUE JOHN CENA MUSIC*
+0	1523032302	1	Damn that was awesome! 
+0	1523032415	1	Gajah and to top it’s off TRON is an ETH token. 
+0	1523032450	1	I don't get it...
+0	1523032515	1	Someone check his drivers license.....it must say BAD Mutha Fuckka on it.
+0	1523032523	1	Buterin is on the run or something and I am loving it!
+0	1523033150	1	It's such a joke in Crypto claiming to be better than another currency.The sad joke is when Crypto, in general, is claiming to be the better financial system in 2017, comparing it to a Financial System of 2007.
+0	1523033216	1	I’m surprised we didn’t get an announcement from him prior posting this on Twitter!
+0	1523033227	1	Vitalik always goes in raw. Always.
+0	1523033283	1	Savage
+0	1523033430	1	I don't get it
+0	1523036136	1	ETher and Tron Whitepaper sharing partnership confirmed.
+0	1523037123	1	umm lets just take it at face value... literally.Justin's twitter profile pic looks like hes auditioning for a childrens shampoo commercial. VB's twitter profile looks like he hasn't showered in a year because hes been too busy with building a real project.
+0	1523037565	1	Hey hey heeyyyyy
+0	1523037572	1	r/murderedbywords
+0	1523037734	1	Why is Justin a fucking idiot ... everything is good untill he opens his mouth and aload of shite comes out 
+0	1523037906	1	https://mobile.twitter.com/justinsuntron/status/982226646202658817
+0	1523038059	1	Son'ing Sun 
+0	1523019726	0	Nice1, we need to get rid of all these scam tokens so the market can start growing again.Here are few facts, Tron is a erc20 token on ETH network, it is a security and will be banned in US, Tron whitepaper was plagiarized literally copy pasted.It is vaporware pump and dump token and should not be listed on exchanges and this subreddit should not allow it to be shilled.
+1	1523028953	3	Ignorance is bliss.
+1	1523022369	-7	Wow its a pitty people feel so deeply over all this. Its just crypto and you can put ur money where u want.....So this thread is only to bag Tron ? Whitepaper dont mean anything with all the jargon etc. Roadmaps are more critical now. Tron will move to their own blockchain but only entertainment based. Asia his market. Interesting trx own partners like ocn will have their own chain aswell. All friends will compete eventually. I like Ether too but the slow gas gotta be sorted. Go Tron 😜
+2	1523022682	3	Are you a paid shill or just a dumb ass ?
+3	1523023079	-4	Neither....just not emotionally attached to any coin like most on here. So all because i dont bag tron doesnt mean i am paid. Its like me saying you and whovever bags tron must be giving head to Suppo and Ballina. 🤷‍♂️
+4	1523026098	6	No idea what you just said, why are you defending obvious scam was my point tho.
+5	1523027392	2	Obviously new people to crypto can't distinguish between legit projects and scams. It's a little disheartening because they are taking market share away from real projects. The space has changed so much in the past two years. I remember when everyone was reasonably informed and people had real aspirations for a different world helped by blockchains. Now no one cares about tech details and whitepapers and they just care about marketing, money and tribalism. Can't wait for these scam projects to die. 
+2	1523033591	1	_Whitepapers dont mean anything with all the jargon_Of course!  Let's forget all that dumb smart people talk about what the token is supposed to do in the real world and like, how it'll actually work and stuff.  What's important is how cool Justin can make it sound and how many "partnerships" can be concocted out of thin air and how many people he can hire who have Alibaba listed on their resume.  Lets not forget that one time he took a selfie with Jack Ma.  Clearly, TRX is the greatest theoretical cryptocurrency ever....
+1	1523032705	0	Jesus you are ill informed. Please, educate yourself. 
+0	1523026600	-1	You TRX haters really need to update your FUD scripts, it really is getting cliche anymore
+1	1523031245	0	You need to update your english anymore
+2	1523033926	1	I'm sorry did I say cliche?  I meant boring.  Also, it seems as if you're the one that has a problem grasping the English language.
+0	1523017050	1	Where did he copy point 1 from?
+0	1523024174	1	Hahahaha.  That's funny because he is saying they copied a lot of stuff in their whitepaper.
+0	1523026530	1	Java is a huge disadvantage since the VM needs to be efficient as possible
+0	1523029396	1	How can Tron have 100M dapp users when Tron doesn't even exist. Am I missing something here? 
+1	1523033799	0	Yeah
+0	1523019450	1	Omg that’s awesome and hilarious 
+0	1523019479	1	Yikes
+0	1523022999	1	Justin Sun didn't sleep that night.
+0	1523023076	1	He ethered him, you mean. Come on.
+0	1523023227	1	Talk about coin burn. 
+0	1523023565	1	This is the best thing i've seen in a long time, lol.
+0	1523023892	1	Oh VB! You on FIRE booooiiiiiii!
+0	1523024394	1	The amount of people who fell for [this](https://twitter.com/slickliltaylor/status/982207032211062788) in the last few hours is disturbing... Check out the [address](https://etherscan.io/address/0x474057ADF42f9F955e86aa1142740f9d7763e41E)
+1	1523031402	1	Actually not many people fall for it...the transactions are mostly the scammer attempting to make it look like a lot of people are partaking in the "giveaway"
+0	1523027863	1	OMG that's some funny shit right there!
+1	1523031195	2	Actually OMG is a very serious and stable project. Nothing funny about it. 
+0	1523027874	1	Anyone could burn Justin Sun, the guys a living fucking meme.
+0	1523036934	1	So much substance to that counter-criticism.... 
+0	1523018057	1	Try to post this on /r/tronix and see how the kids there respond...
+1	1523028808	2	Its worse here though, from eth kids. Get a mirror.
+1	1523024318	-1	They’ll defend Sun like Scientologists defend LRH. 
+1	1523028130	0	Trust me, there is a lot of people on the r/tronix sub that would like Sun to stop tweeting and let the work speak for itself. 
+0	1523018904	0	Interesting to see that he has nothing to say about the tech just about something emotional or irrelevant to the end product...
+1	1523028759	1	He cant argue against simple proved facts.
+1	1523025434	1	There is no end product to criticize. The only thing which exists to criticize is the white paper.
+2	1523028081	2	the Testnet that just launched is not real, nor is the incredibly active git?https://github.com/tronprotocol/java-tron/pulse
+3	1523032084	2	People seem blind to these facts.
+3	1523034036	0	The testnet doesn't bring any new "tech" to the table. It's just a Java implementation of blockchain. One that borrows its cryptographic functions from Ethereum, including the use of keccak. It's not even the first Java implementation of blockchain, as that already exists with EthereumJ.Nothing new so far to criticize. Just a "me too" so far. Any novel aspects of Tron exist only in the whitepaper at this point. Which, itself, was largely plagiarized.
+4	1523034379	2	> The only novel concepts exist only in the whitepaper. Which, itself, was largely plagiarized.This statement is provably false. a section of the the english translation of the white paper was copy and pasted. The original written document in Chinese was 100% written by the Tron team. The Translators were sloppy and lazy, which is was a mistake that I think Tron could have handled better. There was zero ill intent. Writing a blockchain in more accessible and widely adopted coding language is a significant improvement. 
+5	1523034909	1	> Writing a blockchain in more accessible and widely adopted coding language is a significant improvement. I wouldn't call it an improvement necessarily. Many would argue that Java is already on its way out. But regardless, Ethereum already did it. So, again, nothing new here yet.
+0	1523021736	-2	I don't see how that's a roast.  Vitalik couldn't dispute anything Justin said.  All he could do is pull up old news that has already been refuted a number of times.  
+1	1523022669	4	There's nothing to refute. TRX is an erc20 token. All of Justin's talking points are future promises. 
+2	1523033298	2	Yea, except for the succesful test net and incoming main net release that is faster than ETH with no fees. Educate yourself bro.
+2	1523025224	-1	Please correct me if I'm wrong, but it's my understanding that the TRX erc20 token is just a "place holder" until they get their own network launched.  The test net is now live.  Therefore, the ERC20 token should be phased out soon.  As far as the white paper goes, hasn't it been proven that the copying only occurred on the English version of the white paper which was "translated" by the TRX community.  The Chinese (original) version is completely different?Like I said, please correct me if I'm wrong, but this is how I understand the situation.
+3	1523028237	4	You a correct about the white paper, and it was only one section of the english translation not the entire thing as some here would state.And you are correct about the status of the Tron, Mainnet is schedule to launch on May 31st.
+0	1523023533	-1	Honestly the people who are fans of TRX or Verge represent the lowest common denominator in crypto. The average IQ is 100, half the population is gonna be stupider than that and at the very bottom of that group lies the TRX and Verge fans.
+0	1523019635	0	It's interesting to watch where he is going with this vapourware scam.  Will he eventually have to go into hiding?
+1	1523028364	4	I will try to set the record straight for youTron has launched their Testnet (March 31st) and has moved their Main net launch up from the original launch date of July 31st -> July 1st -> May 31st.They have 200ish employees in two offices (In SF and China), with plans to open a branch in the EU, and perhaps Malta.They have a very active Github, one of the most active in the Crypto Spacehttps://github.com/tronprotocol/java-tron/pulseThey have partnerships with companies to produce tokens on their Main nethttps://np.reddit.com/r/Tronix/comments/7ppgzt/trons_partnerships_almost_have_as_many_users_as/As far as the direct FUD and allegations against Tron, I would encourage you to read this article to get both sides of the story.https://medium.com/@TwentySumCrypto/tron-trx-coin-killing-fud-rumors-a-presentation-of-counterpoints-1ae14629821dJustin Sun definitely overhypes Tron, to the point of being annoying to some. I would prefer him to let the work speak for itself.He is also not a great presenter and speaks english as his second language, so that is off-putting to some.But to call TRX vaporware or a shitcoin is flat out false and not based on fact.The Memeing and group think regarding TRX on this sub is unfortunate because it undermines the unbiased fact based analysis we should all have regarding any Crypto.
+2	1523029047	3	I appreciate you telling me about TRX, which I admit I don't know much about.  You are the first TRX investor that I have come across who is not a When Lambo moron, which is probably a big factor in my prejudice.  It's not something I am going to get into though.
+3	1523030096	4	Thanks, and I hear you. I get the desire to make a quick buck, but what happened in 2017 may have been a once in a lifetime opportunity. Need to think long term. Cheers
+1	1523032842	2	If it was a scam, he would have exited at 30 cents moron. You dont ride your scam into the ground for funzies.
+0	1523023901	0	Simply cannot understand why someone will not step in and help Justin and how Tron markets themselves. They are destroying their own credibility and just dig the hole deeper and deeper.
+1	1523025223	3	Funny how digging the hole deeper seems to result in more development on Github, more followers on twitter, and more volume on exchanges lol.
+2	1523026210	0	Don't get me wrong, I'll pick up a bunch as soon as he tweets the project into the .02 range. 
+3	1523028568	3	Apart from trying to be funny, over and over, this subreddit offers nothing else. Which is pretty sad and shows what type of ppl are investing in this industry... teenagers or adult babies.
+4	1523029055	2	Or those of us with a lot of money involved who have been involved with blockchain and crypto for many years and have an opinion. It doesn't have to be black or white and not everything needs to be taken so seriously. You'll last a lot longer in this space by not needing a serious discussion on everything. Plus, I wasn't being funny. I plan to buy a ton of TRX once it hits .02. TRX has been VERY good to me so far.
+5	1523037057	1	It was just at 2.8 cents 2 days ago.
+0	1523017348	-4	R I P tron
+0	1523018245	-3	Thanks for free marketing Vitalik :)
+1	1523019993	2	Guess by your definition, all the "buzz" about the >51% attack on verge is free marketing too?  Go buy the dip m8.
+2	1523024587	1	Look at the charts of both. A lot of nosens make sens this days. Crypto world will not be an exception.
+1	1523026667	1	I love how you praise his marketing skills but proceed to post shit like this:>Vitalik remind me of my Ex-girlfriend, who only know to talk about the past but only got shit personality to offer. At least Tron is an ugly gem, who keep polishing itself to be a priceless gem.>Vitalik know that Ethereum days are numbered. With many Coins offering better platform than Ethereum (ICX, Walton, Neo, Tron, EOS, XRP and many more to come or others that I don’t mentioned). Ethereum platform will be just a history in wikipedia.>Personally, I wish that Justin hold that tweets and only post it after main net. Well as shot had been fired, Tron can’t look back anymore. Tron has only one option that is to prove to the world who is the best now. Go Tron!The horrible line of argument (or language) aside: how can people in this space be so clueless about the dynamics here? You clearly don't care about fundamentals or the fact that TRX is a damn ERC20 coin and thus - at best - piggybacking on ETH. You think that his "days are numbered" as if that would do any good and even is the goal of crypto.You're a blinded kid who couldn't give a shit about technical specs of this whole thing *because you plain don't understand them*. But yeah, go Tron! It's not like there are thousands of red flags!At least Justin Sun will make tons of money live streaming himself eating eggs while talking with his mouth full. Oh, it's so cute. He sometimes takes a little pack of mayonnaise, and he'll squirt it in his mouth all over, and then he'll take an egg and kind of... mmh! He calls it a “mayonegg.”
+2	1523032211	2	You do realize it will soon *NOT* be a damn ERC20 coin anymore? It'll be a damn coin of its own come May lol.
+2	1523033204	1	You call people kid and then act like a child. Please, go back to high school, this crypto stuff is over your head.
+1	1523021830	0	what marketing? it was a simple reply not a devoted post lmao
+0	1523021629	-4	Buterin might be the master but he is still a kid. A persona of his magnitude should NOT play this game ihmo. These kind of arguments are for us redittors not for an iconic figure like V. Just my 2 cents: He shouldn't have taken the bate. He is the lion and Justin Son is the disturbing ant. The lion wouldn't even swing its neck towards the ants direction.
+0	1523020746	-1	This guy burned himself already with publishing the white paper.
+0	1523019777	0	Get Vitalik on the line
+0	1523021320	-2	this must be upvoted more
+0	1523019062	-4	Reasons why Ethereum is better.. Their founder can actually shitpost properly. 
+0	1523023908	-7	lool Vitalik butthurt much? Salty kid 
+1	1523033225	0	Right... Im sure deep down inside Vitalik knows Ethereum is inferior to a nonexistant cryptocurrency....
+2	1523033855	2	Then why does he needs to act like a baby? This is just a butthurt reaction 
+0	1523022256	-2	These post are getting dummer and dummer.. no substance from neither side of the opinions 
+0	1523023830	-5	Who is this Vitalik idiot and why does he think he's the new CryptoJesus
+0	1523029569	-1	TRX is trash, no nice way to say it. It's a classic example of western money being thrown at something they think has demand in the east, when in reality there is no such interest. 
+1	1523037911	1	Well clearly you didn’t do your research. 
+2	1523038077	1	I did plenty, that's why I didn't buy any. Don't fund Justin Sun's personal retirement fund with you hard earned cash. 
+0	1523019878	-5	Fan boys might see this as a blow against Tron. On the flip side, this is free publicity for an Ethereum competitor. 👍🏽 
+1	1523023752	3	Other way around. Free publicity for TRX.
+1	1523027535	0	You mean an Ethereum token*
+2	1523028164	2	Wow, such insight. You should know that Tron is in its testnet phase earlier than expected and will be launching Mainnet next month. 
+0	1523025589	0	Money skeleton wins
+0	1523026015	0	r/murderedbywords
+0	1523029896	0	Ethered 
+0	1523030826	0	LOL amazing - we need him to be ruthless
+0	1523034297	0	Just because his name is Sun, it doesn’t mean he’s bright.
+0	1523035350	0	Now that's a wicked Sun burn.
+0	1523035457	0	Weak “burn”
+0	1523035644	0	Vitalik is gonna be  the Steve Jobs of Crypto
+0	1523035959	0	First and foremost, I love Vitalik's grit. Or stones. Gumption. Whatever you want to call it. The kid's got moxy. And when he's right, he's abso-fucking-lutely right.  But I will say that if he keeps this up, right though he may be, he's liable to get vilified by other people which could start reflecting poorly on him.    I hope he keeps making jabs like this, but I also hope he understands that there are times to make the jabs and times to hold back.
+0	1523036954	0	TRX is about marketing. This justin sun always shill TRX like madman, and if anyone look at his post history, he shill freaking alot and over time, he improves his shill method. This time round, he target ETH and Vitalik fall into his trap, not suprise, Vitalik isn't a mature person. Now, Justin Sun got the attention he wanted from the tweet, Vitalik's followers will read the tweet and then spread the words about TRX.
+0	1523023851	-6	Not a big fan of Ethereum... but fuck TRON. It's the next Bitconnect if you ask me. 
+1	1523037987	0	I don’t think you even knew what Bitconnect actually was if you are making such comparisons. 
+0	1523026885	-1	His minions almost indoctrinated me into thinking that tron has a slight chance of being legit one day and here he is, completely destroying those illusions all by himself with this bullshit
+0	1523029829	-1	Idk but all the features he states make me think the opposite xD. That is a shitcoin.
+0	1523031268	-1	TR(C) ONNEEEEEEEEEEEEEEEEEEEEEEEEEEEECT
+0	1523031828	-1	Both are company-controlled! That makes them worst than fiat (people can elect the governments, but not the company owners)
+1	1523032838	0	Elect governments. Hahaha
+0	1523033689	-2	LMAO.   Yeah I finally took the time to look into "TRON," and it's so painfully obviously a scam lol.  Almost as bad as bitconnect.

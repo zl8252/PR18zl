@@ -1,0 +1,15 @@
+File created at: 1523038682
+Subreddit: BitcoinMarkets
+Submission title: Little help for Indian traders where cryptocurrencies are virtually banned
+Submission created utc: 1523006336
+Submission score: 6
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523008204	7	OTC trades, e.g. localbitcoins
+0	1523013295	4	Use Bisq. Stop letting your masters control you. 
+0	1523013442	5	localbitcoins localethereum
+0	1523014970	3	The exchanges are still open, and you can still add funds using UPI (which is how it's been for the last few months). Once that shuts down, there are still services like localbitcoin. It is now emerging that some banks are actually able to circumvent the RBI guidelines and provide services - but this will take some time to be finalised as the second circular hasn't been issued yet.
+0	1523007794	5	India's situation seems less severe than China's, they haven't ordered exchanges to close, they just prevented banks from transacting with them, right?So basically the fiat on ramps are in trouble, but but the exchanges could stay around as strictly crypto to crypto. On the chance they'll come for the exchanges, keep your coins in a wallet offline and register for Binance.For new people who want to buy cryptocurrency with INR they should do over the counter trades, but need to accept prices higher than other places. 
+0	1523017212	1	Use p2p exchanges duh
+0	1523010819	-5	I think it's finally ban
+1	1523013279	4	Insightful. 

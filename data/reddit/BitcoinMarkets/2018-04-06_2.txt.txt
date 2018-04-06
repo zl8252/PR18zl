@@ -1,0 +1,18 @@
+File created at: 1523038680
+Subreddit: BitcoinMarkets
+Submission title: Am I calulating this correctly?
+Submission created utc: 1522964360
+Submission score: 11
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1522965029	5	just do it and find out. thats the whole purpose of the testnet. takes you more time writing that post than trying it out yourself. Got nothing to lose on testnet my man.
+1	1522972135	2	figured it’d come to that but also wanted to confirm with others
+0	1522965329	5	6732-6200= 532532/6200 = 8.58% gain74.21*.0858 = 6.367 btc profit
+1	1522966180	1	Tracking everything but confused as to where you got the 72 from?
+2	1522967046	2	Oops meant to put 74.21. That’s the total amount you’re betting. So if you have 3 btc and you bet with 25x leverage, you’re betting with 3*25 = 75 btc. For OP’s case he said it’s 74.21. 
+3	1522967123	1	Yeah, got it. Makes sense. The 72 was confusing af and I’d given up before I even begun 😂
+1	1522972144	1	thanks for confirming!
+0	1523008027	2	Use the formula BitMEX provides: nbContracts * (1/entryPrice - 1/exitPrice)In your case -500000*(1/6732-1/6200) = 6.37302819Fees are -0.025% maker and 0.075% taker, so if you were using two maker orders you would have gained  500000/6732\*0.00025 + 500000/6200\*0.00025 = 0.01856803 + 0.02016129 = 0.03872932 BTCAdd to that funding rate every 8 hours and you got your total.
+1	1523025708	1	thanks for that detail! exactly what I was missing
+0	1522987631	1	Fees also will varydepends on what funding is paying (or costing). It can be up to 0.375% of your position per 8 hours. Trading fees are maker taker, with maker getting a rebate. If you  market enter\close, you pay 0.15% plus the spread on your posistion. 
+0	1523020743	1	I can't do the math but I just want to chime in to reaffirm that low leverage is a great idea. Margin is scary territory my friend. Best of luck.

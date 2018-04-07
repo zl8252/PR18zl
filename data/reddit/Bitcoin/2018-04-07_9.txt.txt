@@ -1,0 +1,30 @@
+File created at: 1523120395
+Subreddit: Bitcoin
+Submission title: No Crypto ban in India, clarity given by RBI (India's central Bank)
+Submission created utc: 1523086611
+Submission score: 78
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523092323	11	So, a video with 93 views vs BBC, Times, NYPost and other major news outlets?Seems legit, bud.
+1	1523107924	1	So, fake news from MSM are more valid than the words from the horse's mouth just because they have more sheep following them?
+2	1523109625	1	Yes
+2	1523118306	1	No because they speak about facts.
+0	1523102878	7	Dufus, crypto is banned from accessing the financial system. That's a ban. 
+0	1523106417	1	the opposite I say.here's the last notification from themhttps://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI15465B741A10B0E45E896C62A9C83AB938F.PDF
+1	1523107742	1	Rbi is wrong.Rbi is not banning crypto.Who would you believe?  Rbi or this blogger. 
+1	1523119206	1	RBI releases in English?
+0	1523109684	1	How many times has this happened:"Cryptocurrency is risky""You know what, we're banning it outright.""Wait, wait! We didn't say 'ban'. You just misinterpreted us.""But cryptocurrency is still risky. Maybe we'll ban it.""No, wait! We can't ban it. Who said anything about a ban? You're crazy. You're acting crazy right now. Of course cryptocurrency isn't banned.""But, you know, maybe we should ban it."Ad infinitum.
+0	1523106361	1	This is getting ridiculous day by day. Some dumb people making some dumb comments. If India has banned banks from allowing fiat transfers to exchanges then how the hell Indians can purchase crypto currencies using their fiat.
+0	1523115709	1	China banned bitcoin. Now India *and Pakistan*.  That's about a third of the Earth's population. This sub is in deep denial.
+0	1523099233	1	The release clearly stated people holding VC will be holding at their own risk. They never banned VC.
+0	1523109370	1	Don't care about India 
+0	1523094811	0	wingding the ban is between fiat and crypto, this is what's banned
+0	1523101089	0	Nobody can ban bitcoin. 
+1	1523104485	4	Yes they can.What exactly is one to do with Bitcoin when _no store accepts it_?Which is still ignoring the elephant in the room: If a large amount of bitcoin users use VPNs, the VPN providers have _massive power over the network_. If pretty much all users have to use VPNs, a mining whale can simply bribe the largest VPN providers (who themselves have no stake in Bitcoin's success so have nothing to lose from crippling the network) into blocking block announcements from other miners. This gives _complete control of the network_ to the miner in question.(Which is still ignoring the fact that many governments are trying to ban VPNs, or simply raid them with police and read out all the data anyway)
+2	1523106523	1	Why to use VPN? Bitcoin can be used over Tor (which is decentralized). Currently there are about 300 Bitcoin nodes with an .onion address ( https://bitnodes.earn.com/dashboard/ ) and if there were such a ban, this number would increase.
+3	1523107468	1	> (which is decentralized)And completely fucking trivial to block without harming corporate VPNs at all.
+0	1523087018	-2	Direct Video link : https://youtu.be/D9xY8_nc04g
+1	1523087643	5	The ban is there...The traders can trade virtual currency between themselves but not with the govt or its channels. The sell price is currently 5k  and the buy is around 7k in exchanges in India.Edit*My calculations were wrong, The sell is 5.2k and buy is 6.7k
+2	1523096925	3	Pls don’t talk shit that you are not aware of. Both your buy/sell prices are absolutely incorrect. 
+1	1523092609	0	So basically, the Indian banks do not want to monitor crypto usage.  Which is what will happen if they ban people from using the banking system to buy and sell crypto.  They are basically shooting themselves in the foot.  Great move!Also, he kind of suggested how to do pseudo anonymous trading, he goes use cash and trade amoungst yourselves. Nice guy!!
+2	1523096440	3	They all seem so nice, lol. The interviewer's position was so reasonable - "So everyone invested and you pull the rug from underneath them?" "Well, their system is P2P isn't it? Let it be P2P, what's the problem?".

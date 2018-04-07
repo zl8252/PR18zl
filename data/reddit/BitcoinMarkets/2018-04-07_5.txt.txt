@@ -1,0 +1,9 @@
+File created at: 1523120452
+Subreddit: BitcoinMarkets
+Submission title: Quick question, don't up-vote: can someone point me to a SP500 Bitcoin chart?
+Submission created utc: 1523111545
+Submission score: 1
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523112485	1	Use trading view
+0	1523111554	-1	Is talking about himself

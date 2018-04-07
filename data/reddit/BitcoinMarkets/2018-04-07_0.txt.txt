@@ -1,0 +1,492 @@
+File created at: 1523120443
+Subreddit: BitcoinMarkets
+Submission title: [Daily Discussion] Saturday, April 07, 2018
+Submission created utc: 1523073960
+Submission score: 45
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523117545	13	Closed my long from 6590 @ 7043..happy Saturday everyone one.. 
+1	1523117817	4	Great trade, enjoy the gains.
+1	1523117714	1	what??? 5990? where?It didnt go that low on futs
+2	1523117736	3	Yea typo 6590
+0	1523085134	37	Closed my $7m long posted [here](https://www.reddit.com/r/BitcoinMarkets/comments/8a6k3w/z/dwwhakc) from $6580, at an average of $6840. A gain of approximately 4%, plus earned a bit in maker fees and perpetual fundings.
+1	1523089097	11	To get this right you made 4% on a $7M position so you cleared $280k profit in less than 24 hrs ? Am I understanding this correctly. I’m mean, I read about this, see it in the movies but never did I think in this sub we would see these sorts of positions. Really well done. 
+2	1523089551	13	>To get this right you made 4% on a $7M position so you cleared $280k profit in less than 24 hrs ? Am I understanding this correctly. Closer to $300k due to swap fundings and maker fees, but yes. 
+1	1523087491	10	I hope we won't see you on @BitmexRekt anytime soon.
+1	1523085342	7	7 million ? 
+2	1523085510	11	Mike is a legit whale, I'm not sure why he posts his trades here but if he ever declares a position it's wise to take his view seriously.
+3	1523085668	2	BullshitEdit: Never mind, reading his posts makes me inclined to believe him. 
+4	1523086327	13	There are definitely a few whales / well-capitalized traders on here, Twitter, etc.They need a strong stomach and a lot of patience to deal with the noobs and shitposters, but they're here and they've been around for a while. They trade, trash talk on the internet, and put their pants on one leg at a time just like everyone else.
+4	1523085902	8	Check his post history, he's either legit or has been weaving an insanely intricate story for years now.
+4	1523085881	4	they do exist...
+4	1523087967	3	By the way, it's considered bad Reddiquette to overwrite your post when editing (it confuses people who didn't see the original)... better to add the edit underneath, etc.
+4	1523085978	2	Are you calling BS on position size? Or taking his trades seriously?
+5	1523085999	2	His position sizing. I’m just not sure if a whale would publicly declare his trades on here...natural doubts that’s all.
+6	1523086769	3	It's good to be sceptical, but yes, there are a few such posters declaring their trades on here occasionally.
+7	1523087019	5	Yeah after reading through his post history, I don’t think he’s bullshitting. TIL whales post on here.
+8	1523087443	3	There are also other whales that are less forthcoming about their holdings and position sizes, but still post TA, entries, thoughts, etc.And still more that probably lurk on here to gauge retail sentiment and rarely/never post.That said, it's probably prudent to assume everyone posting is Crypto Chad with fifty bucks until you can ascertain otherwise. After reading for a while, you learn to recognize the serious players and quality posters.
+8	1523097195	2	Hahaha whales are people too 😋
+6	1523086262	2	BitMEX has a lot of liquidity because of leverages. 
+4	1523102110	0	edit 2 : it's bullshit after all, changed my mind again! gonna do some further reading now
+1	1523086099	15	I’m an entrepreneur and have never had an actual job, but I want to work for Mike.Upvote if you also want to work for Mike. Downvote if you are Mike.
+2	1523086192	2	You'll be better off describing your trading skills as your value proposition ;)
+3	1523087736	4	he wears pajamas
+1	1523087769	3	Mike, congrats on the trade...if I may ask, do you work with aabtc or any of the other Mex heavy hitters at all? Or are you a lone wolf?
+2	1523088580	7	>Mike, congrats on the trade...if I may ask, do you work with aabtc or any of the other Mex heavy hitters at all? Or are you a lone wolf?Lone wolf when it comes to trading. I don't participate in any coordinated market pumps or dumps, I suppress the price with limit orders and ride the wave. 
+3	1523090229	2	Good to hear. I'm a lone wolf as well.Funny enough, I almost never have the patience to enter via limit orders...but staggered limits are my preferred exits.Kudos on the trades...if I've been following right, your last three were home runs, huh? I still think your % ratio of stop vs. target is nuts...but hey, can't argue with the results!
+4	1523091397	2	> I still think your % ratio of stop vs. target is nutsit actually kind of makes sense- there really hasn't been that many times that btc didn't swing around a target 3-5 times before not touching it again. 
+3	1523097080	1	Nice. I'm glad I've found another scalper haha.I'll look forward to your comments in the future.
+1	1523090093	2	Hi Mike, i'm wondering what kind of leverage would you be using with these large positions?
+2	1523090462	5	should be 1x though.i dont really know why he would need to use levg. haha
+2	1523090850	2	That's a question I don't think he would answer since that would put him at risk. With such large positions, though, he probably makes sure he can clear 5-10% drops without being liquidated. 
+0	1523110108	13	30 minutes ago I wanted to short and then came the dip which was bought up immediately just like yesterday and then I wanted to long. Conclusion: I'm not doing anything. There's no need to trade every goddamn swing is what the logical side of me always says but the degenerate gambler rarely listens.
+0	1523117831	10	This looks exactly like the last time it ran to 9100 (just under the falling wedge) dumped to 8200 and then ran up and actually touched the falling wedge downtrend line before the real dump
+1	1523118105	4	Must be a lot of stop losses on shorts above that wedge resistance. Good place to catch a wick. 
+1	1523118069	1	Good call.  I've got a feeling history may repeat itself.
+0	1523079249	27	This might not be the bottom, but it's somewhere between here and $0. Currently, that's a difference of $6,840. We're $13,249 from the ATH. Let's assume crypto is a bubble. I don't think it peaked at ~1% adoption and before we've really delved into a world where the Internet of Things is fully integrated and my fridge is auto-purchasing my groceries with WholeFoodsCoin through the ether.If I were just here for the money, and didn't believe a dime in the technology, I'd hedge my bet on this bubble ascending to higher ATH's and begin DCA'ing in right about now. Risk:Reward is generous, the fundamentals of crypto are stronger than ever while sentiment nears multi-year lows. Perhaps even lower? Millennial interest in the stock market and traditional finance. Do what you will, but shorting Bitcoin today seems like a sucker's game. Looking more like obvious profit each day, and we all know what that means.Good luck out there.
+1	1523082654	10	> Do what you will, but shorting Bitcoin today seems like a sucker's game. Looking more like obvious profit each day, and we all know what that means.The chart says the downtrend from $20K is still intact.  To say you seem overconfident in a long position would be a gross understatement.
+1	1523081754	5	I think the bottom for 2018 was set February. If not, I doubt the price will go under $5k.
+1	1523080083	3	Unless at some point people will be paying you to take their bitcoin.
+1	1523079391	5	what's different about this argument and alts? And at what point do you think there will be a top? 
+2	1523079714	11	Cryptocurrency is going to displace paper fiat currency as a medium of exchange. That's my take. Not just paper, but various commodities, too.Crypto, today, is hardly even used. Most of these projects are just now launching their main nets. I believe this is just the beginning of a path that leads to a ubiquitous crypto future. You've heard it all before.There will be a top when we run out of productivity to quantify or find a better system.
+3	1523081147	3	Displace? It has its advantages and will go much further than 1% adoption, but 'displace' is not a term I would be using.
+4	1523081434	5	What term would you use to describe the effect paper currency had on gold?
+5	1523084105	2	Displace.
+5	1523084847	1	Replace
+5	1523103767	1	*Mi dispiace.*
+2	1523083165	4	Totally unproven use case for almost all alts.  Bitcoin definitely hasn't completely proven itself either as digital gold, but it's the only crypto that has proven itself at all.  It's really not a good place for this discussion, but if you really want to get some information on the difference ask in r/bitcoin.  Decentralization is the main thing, and understanding why that matters will inform long term strategies well.
+0	1523092518	9	There was a positive aspect to that soul-sucking sideways action yesterday; it made it very easy to put tight stops. I had my buy orders at 6650-6700 which still made me some profits from my 7013 short. I'll probably sit out for a bit now but my bearishness remains because nothing at all has changed and so far this looks very similar to what we've seen lately.https://imgur.com/0Y0wb8RWhen the price broke through the previous floor and then attempted to break back above it, I highly doubted that it would succeed and it didn't. What about the current support line which held up like a champ these past days? It's obviously much less steep and I wonder if it could actually keep holding up which would mean that we've found the bottom. I doubt it but who knows.The ATH resistance line and the support line meet up in the middle of May, which one will break first? If the support breaks, will it turn into heavy resistance like the previous one? The drama never ends.
+0	1523109407	20	it’s a gray day today, but I’m drinking my coffee with The Masters coverage on TV, Howard Stern on the speakers, charts on the iPad, empanadas in the oven and hopium in the bong. today is a good day hope you are all well. 
+1	1523110362	2	God speed.
+0	1523087064	6	Longed last nigtht at 6605. Technically shouldve stopped out at 6545 but alarm didnt go off... Now my stop loss is at 6800.Anyone got a good price alert app?EDIT: long closed at 6880, nearly made a months rent over night. shits insane.
+1	1523093817	1	Bitcoin ticker seems to alert promptly and reliably
+1	1523096889	1	Well done man, that's one of the many beauties of BTC :)
+1	1523099602	1	Trading view SMS alert
+1	1523087890	0	 Bitcoin Checker on Android is good
+2	1523090813	2	hm, thats the one i use and it didnt go off. gonna figure out why. maybe i killed it with task killer by accident
+3	1523091023	1	What intervals did you use? If it's over 1 minute you might lose a good chunk of price action. I set mine to 5 seconds and it works pretty good.
+4	1523092559	1	got it set to 1 minute. gonna dabble around with it cos if it works for others then it was deffo me that messed something up
+5	1523097961	1	It's not been 100% reliable for me, sometimes I open it and it's showing a timeout, but that may be down to the exchange. 
+5	1523106210	1	I have to have my ringer volume turned up in order to get it to make sound, which is annoying. Phone on vibrate makes it only vibrate
+0	1523110145	7	The past few attempts to dump out of this pattern (yesterday's attempt when it went down to $6520 before going right back up, and just now at $6782) seem to have failed.  Is this regular buyers looking to get back in, or a few whales keeping the price from going down?  If big money is keeping this from going down...that does feel like the bottom might be in, no?
+1	1523110322	7	Starting to think maybe i should go long. Weve got lots of fake big sell walls placed way more than usual and this sudden buying tells me these guys plan on removing the walls and btc will pump
+1	1523112688	3	I tend to think it's MMs testing the resiliency of the market, if satisfying (immediatly bought, be it shorts closing, genuine buying, or longs opening doesn't matter) then it will go up.
+1	1523112508	1	I'm not convinced that those were really attempts to dump out of the pattern. I suspect these are tests.[Look here at this most recent one](https://www.tradingview.com/x/tU7cj3qT/). Notice it took a certain level of volume to dump to a certain level; notice it took less volume to recover that level.
+0	1523115709	7	Some strong resistances directly ahead of BTC:&nbsp;* Downtrend resistance from 11,5k* Fibonacci 0.5 retracement * And 4h Ichimoku resistance. All in one place at the moment. &nbsp;https://www.tradingview.com/x/tlHGUvcn/&nbsp;Really thinking about opening a short here, although I think BTC will move sideways for a couple of hours now and will have one more bullish impulse.
+0	1523119274	7	Closed my 46K long from 6611 at 7040.. Bears, your move.
+1	1523119678	1	Long 6615>6840, reopened at 6850 this morning closed at 6975 thinking 7K might be big resistance that. Seems about right for now. Not sure what to feel. Feel like this is delayed reaction to Soros news. Other than that volume on gdax is anemic. Sub 10btc, 15min candles just shows its whales controlling market.
+0	1523110931	13	Shorting 1.5x @6864 with stops @6950ish.Linear downtrend line is meeting with horizontal resistance soon at around that price point. Bart starts to show signs of weakness with dropping below the range (6815-6935). 3k longs added, RSI is completely reset and near overbought for 2h and below and volume is abyssmal during this rise, which lately has been an indicator of weakness during these mini pumps. Also Bart doesn't seem to break up. Remember that we didn't retrace one bit of this pump. 6.6k and 6.7k have been skipped entirely  BBands are extremly tight below the 1h. However during chop like this 30 or 15 min candles seem unreliable. We have lot of tightening to do on the 1h though so the move could still be out a few hours.If we break up here though I expect a significant move up if we breach 7k. Not only will we have people screaming "muh 7k" "muh double bottom" but we would have breached the downtrend line from the 11.7k double top. Also all this talk about tax season ending seems to be spreading.This could very well turn out as a bad trade but r/r seems good. Edit: Also seems to be building a rising wedge with support @6.8k and resistance depending on how you draw it @7k or 6.95k. That means a total of 3 lines of resistance. If it pumps through that, that is very very bullish. Switching to long @7kEdit2: Not exited yet. Will exit 7k.
+0	1523115582	13	If Bitcoin trading just turns into a series of fractaled Barts, I'm done
+0	1523101418	11	Welcome to era of Bitcoin 2.0 - a much more matured honey badger and aged, loves some power naps before going hunting. Don't get caught on the wrong side. 
+1	1523102347	1	If from now on we got to wait for the 1H BBAnds to close to see movement that's a pretty good way to enjoy the spring :)
+0	1523114476	12	[Bitfinex Introduces Trading For 12 New Ethereum Tokens](https://www.ethfinex.com/posts/242), along with DAI stable coin. For those unaware what DAI is - it's an ERC20 token that will always be 1 DAI = 1 USD. It's driven by ETH smart contracts and is completely transparent. You could read more on DAI and tech behind it [here](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90). This is an excellent safe haven/hedge choice for those who are skeptical of USDT legitimacy. Even with ETH's massive downfall, DAI managed to stay really stable in the past 3+ months. Really good news for whole space.
+1	1523116830	1	Altcoins bottomed-ish and traders impatient from btc being a bit boring last 3-4 days.A couple of announcements like this and i can see altcoin fomo creeping in.EDIT: or am in still denial and we get another 2 month bear
+0	1523109628	17	Is it time to sell it all and go all in? sell my house, sell my wife / kidz.. we shall know in next 12 hours.
+1	1523110156	14	Sell the wife and kids.. No need to go mental and sell the house 
+1	1523110169	8	I heard Coinbase announced that they are starting the first margin trading platform where you can use indentured servitude as collateral
+0	1523100527	12	I just got call from Bogdanov .Told me to remove any sell under 7200 :-)
+1	1523117592	1	I feel this needs more upvotes..
+0	1523109318	9	Wow these dips are legit getting eaten up. Interesting stuff. 
+1	1523109556	10	Also known as the "don't have a cow man" pattern
+2	1523111276	3	Or more appropriately, the "Eat my shorts" pattern
+0	1523079851	7	First real attempt to un-Bart this and go through 6900 was met with fairly solid resistance
+0	1523113472	7	I'm hodl and adding on these big dips. Tinfoil hat time. I like to Google bitcoin under "news" and keep up with what media is saying about bitcoin. Anyone else notice how the media seems to all be actively spreading as much FUD as possible? It's almost like they are saying anything and everything to purposely suppress price by scaring new investors, as well as hoping to get people already invested to sell.Some of the stories, since most people simply skim headlines, are all FUD. "Bitcoin is useless as gold." "IRS will arserape crypto investors." Alls I'm seeing is bitcoin up 4 percent and crypto market up 19 billion.  It's almost like some very wealthy people have the media running interference while they slowly get in position before we Btc takes off. When media is spreading mass FUD like this, it has yet to fail me getting a good position. Crypto is run by very wealthy early adopters who likely all communicate and coordinate when to sell, when to accumulate, etc. Don't beleive me? Try it for yourself and look at it from this perspective. You might be glad you did.
+1	1523113880	9	Or maybe media tends to follow sentiment for more views/clicks and has a pre-existing negative bias toward pretty much everything.
+2	1523114337	2	Yep. It’s pretty simple. When you know that a large portion of your audience has a particular point of view, you tailor stories to confirm their bias and draw them in, exposing them to paid advertisements. Predictability is a big money maker in general. 
+3	1523115374	2	People rag on media constantly, but the previous ATH wouldn't have been reached without fomo encouraged by the same outlets that are reporting negatively now.When a drastic natural change occurs and sentiment flips around, so will media. They'll play on hopes just as they do with fear now. 
+1	1523113617	4	it's funny, the only media I ever see is just 'BITCOIN IS CRASHING' I don't know if I'm just missing all the stories about bitcoin going up but if you believed everything in the media, you'd think bitcoin was worth negative money. It'd be really interesting to see some stats on positive bitcoin articles vs negative in the MSM.
+1	1523115836	1	CNBC is a total cheerleader even in this bear run.
+0	1523117106	8	Holy fuck. I'm not in a rush to close that 6600 long tbh.
+1	1523117239	4	i closed mine from 6.5 :( and on top of it i shorted at 6.8 ;(( 
+2	1523117370	3	Just wait to see if 7200 gets rejected IMO
+1	1523119442	1	When they start dumping again it could be back at 6600 in an hour.
+0	1523117297	8	Rockfellers are also in the game now. http://thebitplex.com/2018/04/07/rockefeller-crypto/
+1	1523117680	2	This is good for bitcoin. 
+1	1523118088	0	not trusting a no name author writing an article on a no name blog. Released today probably 5 mins before the pump started. Nah.
+2	1523118223	5	wow, someone is afraid of being liquidated. LOLhttp://fortune.com/2018/04/06/crypto-vc-venrock-coinfund/Reputable enough for you?
+3	1523118540	-1	So you could have originally posted this one from Fortune, but you thought Bitplex was the better choice?
+4	1523118704	2	I got it from a trusted source, then made the search for you because you were too lazy to do it apparently. 
+5	1523119030	1	I want you to go to Google right now and type in "rockefeller cryptocurrency" and see for yourself.
+6	1523119421	0	Nah. my mission here is done, I have to return to my people, my planet needs me! 
+4	1523118849	1	Maybe he has vested interests in BitpoopEDIT: Sorry spellcheck. I meant Bitplex.
+0	1523075325	15	Sleeping cat forming on the 5mhttps://imgur.com/a/5Hkbn
+1	1523076734	7	rare
+1	1523076692	2	almost literally catbug!http://www.toonbarn.com/wordpress/wp-content/uploads/2014/03/wtVv8F5.png
+1	1523078447	2	Meow 
+0	1523084548	4	The GDAX price has not moved more than $0.01 in 17 minutes O_o
+0	1523117602	5	All right, I bit. I've been convinced the past couple days were sending accumulation signals and was just waiting for it. Opened an unleveraged long at 6960. Wide stop at 6495.If it can stay above 7k I think we could easily short squeeze to 7700.
+1	1523117717	7	Staying above 7k here would be very significant. Important psychological number and the downtrend from that 9k double top crossing here. 
+0	1523103218	11	Lots of shorts were opened during the sideway before the inverted bart, with stops just above the current price. If this breaks up the short squeeze will be glorious. Seems a lot of longs are opening betting on it.
+1	1523104488	5	1) trade in tight range 2)let short and longs get impatient 3) rekt side with the most open 
+1	1523103619	5	This is so ridiculous. Longs havent gotten squeezed after a 50% drop from 11.8k but a 2% pump is going to be the death of bears? This is the new hopium for this sub i suppose, next it might be that soros is going all in on bitcoin with 1trillion contracts on 100x leverage. The lower we drop the more delusional bulls will get.
+2	1523104012	13	I'm curious as to what you think the long term situation here is? Do you think BTC will just die?This relentless sort of "it will always fall now" posting is weird because the lower we get the more likely it will reverse and start to recover.So people calling for a reversal and new bull run actually get LESS delusional, the lower the price goes.Unless you think BTC is already dead and will never reach another ATH. Do you?At least a Bull-attitude can encompass the idea of it going to 100K then crashing to 20K, then going to 500K then crashing to 150K etc etc. An endless cycle of bubble and bust.Bear-to-the-end *now* is a pretty short term attitude, and lacks vision IMHO.
+3	1523104294	-1	The long term situation is: bitcoin never becomes a widely adopted currency, bitcoin becomes merely a speculative gambling tool (already is really) as governments start their own cryptocurrencies, interest continues to fade away and humanity latches on to the next "this time is different" speculative asset and pumps that bubble. 
+4	1523105098	8	Yeah government run currencies has a proven track record of success, so what can go wrong
+5	1523105423	0	Bro i totally agree that government crypto will likely crash and burn, however, i just dont see them ever truly allowing decentralized crypto to gain mainstream adoption as an alternative payment system to theirs.
+6	1523105519	3	yes, but at one point like in Venezuela people will turn to crypto
+4	1523108698	1	"Government cryptocurrency" doesn't make any sense.Cryptocurrency by definition has no central point of control. If government controls it, it is not a cryptocurrency.
+4	1523104439	-1	So you are staying in this forum just to speculate bitcoin down to its death?
+5	1523105385	1	This is a trading sub, pretty much the only one around that deals with just trading, no religion. I believe the talk about how to keep bitcoin alive fits better into r/bitcoin.
+6	1523105740	1	Fair enough. But IMO people who merely see bitcoin as a speculative game won't be able to form a good fundamental opinion of its viability.
+2	1523103963	10	I don’t follow your logic. When we were approaching $20k, that’s just like saying “the higher we get the more delusional bears get”. Of course bulls are going to be more bullish the more it falls. It can’t fall forever, just like it can’t climb forever.
+3	1523106613	1	If I may, I would like to make a smart ass comment. The price of Bitcoin expressed in another currency will reach infinity as the price of that currency approaches zero. So in theory, it could climb to infinity. However, the upside potential on a short is limited and known if expressed in that same currency. 
+3	1523104106	1	Assuming there will be endless bubbles and crashes is your first mistake. Assuming a new ATH can be taken for granted is your second.
+4	1523104314	6	Assuming that cows are made of grass is your first mistake. Assuming that kittens moonlight as sharks is your second. 
+5	1523104435	-1	Agreed, we all have delusions we hold on to. I have these regarding cows and cats and this sub has 'next ATH is a certainty' as theirs.
+6	1523104782	6	Fwiw I don’t “assume” another ATH and I don’t assume the bubble cycle will occur endless times. What I do think is that bitcoin will have more buyers (be more bullish) the lower it falls. This seems obvious to me based on pure technicals. if you disagree I find that strange but each to their own.
+7	1523105083	2	I regret pressuming what your views are but theres no doubt that the vast majority of this sub does assume those very things i mentioned. Your comment about there being more buyers as price goes down seems obviously true but i wonder how strong that inverse relationship is for a highly speculative asset like BTC (i truly do not know)
+8	1523106434	2	Never a good strategy to ignore the sentiment of the 'vast majority'
+2	1523104120	4	The lower we drop the more attractive the price, haveyathoughtofdat?
+3	1523104354	-4	Is this true always and forever with every asset? When new Enron ATH?
+4	1523104989	7	Lmao what a shitty argument shorty
+2	1523104183	5	The new shorts were opened recently anticipating an extra drop. When there is no drop those will close quickly.How do you know the longs haven't been squeezed? The quick drop from 11.8k was partly due to long being squeezed. But new longs opened again after the drop.And longs are inherently more resilient than shorts.
+3	1523105024	6	But the BART.   We have to make a straight drop soon back to 6500 to get a perfect Simpson on the hourly.
+2	1523109517	1	!RemindMe 1 year.My $10k offer is still on the table, btw. 
+2	1523103846	-1	They are desperate and delusional, but longs have gotten squeezed mutltiple times since $11.8K and so have shorts.  Obviously longs were squeezed more, considering the current price.But give the holders their fantasies, because it's about all they have right now.
+3	1523104103	3	So what's your medium and long term outlook then?
+4	1523104752	0	I don't have one.  I have no use for medium and long-term outlook.  There are too many unknown variables as far as more bad regulatory news and rampant manipulation of the market, so there's no way to predict too far in the future with BTC price with any reasonable accuracy.
+0	1523107436	12	Since I never saw a Bart pattern break upwards and the eventual longs funding pump time is over on Bitmex, it's time to look for a short entry with stops above 6900. If 1h RSI hits 70, that's a clear sell 
+1	1523108022	0	good luck 
+2	1523108190	1	Shorted futures from 6780, let's see how things go from here
+0	1523115350	8	Just got stopped out. Soros strikes again.
+1	1523115570	1	If i got stopped out at 7k, and why the fuck would i put a stop just low enough to get wicked?, thats exactly what i would aim to do (open higher).EDIT: why mention me then remove the mention?
+2	1523115690	0	I'm confused. I said, I got stopped out. Sorry if you did too. Bear hug?
+3	1523115692	2	Hi confused, I'm dad!
+3	1523115752	0	always down to hug a fellow bear. I think you got stopped out too early though :(
+2	1523116092	1	Thats why you use Mark instead of Last/Index
+0	1523078650	6	I could see a short to medium term reversal, but we've got a long way to go and a lot of resistance to fight through. All we've managed to do is hold (this) long term log support.https://www.tradingview.com/x/FkNiJeAL/If it fails the blue resistance we could be forming a descending triangle along the log support which could be problematic.In fact that's sort of the problem with each of these--we're running out of time to break through these log resistances to avoid forming a descending triangle right along log support, against the blue, maroon or orange lines. Not to mention the old log support (light blue) that's been untested.Not saying it's impossible, but how many times have we heard this one--we have a long way to go. This doesn't even mention the possible horizontal resistances at the round numbers.Currently underwater in a short and leaving it for now and certainly not in love with that. I'll open up a long if we break blue resistance as I think 7500 would be a fairly reasonable target and 7800-8000 as an optimistic one. But that's getting ahead of things.
+1	1523079130	0	Be careful going long if the blue line is breached. Breakout traders are getting completely annihilated in this market recently. 
+0	1523101098	6	No one else thinks this is just going to bart right back down to 6600?
+1	1523101166	10	It's possible if a whale decides so, but for now the RSI is rather bullish on all timeframes
+2	1523105626	1	how do you mean? 1h RSI @ 63, that cant be bullish?
+1	1523105739	3	Zoom out, it was an inverted Bart
+0	1523094260	3	Question, I've been been hodling trough Q3 and 4 last year. Not much good at trading but i've been paying closer attention to the market. I noticed there are huge spikes in volume. First buying followed by selling and repeat. Seems tempting to trade on this action what do you guys think? I'm not sure the volume is the reason or the result of price movement though..
+1	1523096816	4	Use volume as an indicator, not a standalone trading tool. Let it back up your analysis.Volume is tricky to read, especially on multiple time frames so use it with caution.Looking for huge spikes on longer time frames can definitely suggest a reversal, and if you can find confluence/divergence you're golden.
+1	1523096581	6	just be prepared to lose.This market does whatever the fuck it wants.You’ll get some right, some wrong. But if you’re new I would advise you to just buy and sell. Don’t use leverage and stay away from futures for now, sonce they’re far more volatile.If you trade on Mex, you can do buy and sel by just shorting 1x. When you close your short, you bought back.I’ve been sticking to 1x shorting and sometimes 1x longing since eqrly Feb and I 2xd my BTC, so good luck!
+0	1523117358	4	It's against the resistance line of that big falling wedge on the 4h this could get interesting
+1	1523117479	2	I guess we gonna break that line. If this 4h candle confirms break, it is gonna be big, with all that short squeeze and stop losses.
+2	1523117824	3	big if true
+3	1523117865	1	True if big
+4	1523117943	3	sizeable if verifable
+2	1523117811	1	big up or big down in your opinion
+0	1523117797	2	although iamheavy on my short and have ladders all the way to 8.4k went 25x smallish long on june futs just for kicks, if it were to shoot up great if not my shorts would cover and once it goes back below 6.7k dont think its gonna come back up. 
+0	1523107856	9	It's like a bunch of noobs figured out how to short. They are going to get squeezed eventually. Swap buckets mayhem.
+1	1523108981	-3	Whatever helps you sleep at night
+0	1523082358	7	Followed /u/MikeXBT on his $7M long yesterday (thanks for posting it here!) with a small long at ~6550 DCA. Woke up to see a pretty solid profit. Closed the position for now at 6840 and will re evaluate after my first coffee. 
+0	1523108962	6	got stopped out of my 6712 long at 6790.  Looks like another bart
+1	1523109141	13	Or the stop loss headfake before the breakout 
+2	1523109448	6	omg what a plot twist
+3	1523109957	2	You won't believe what happens next!!
+1	1523109566	6	Looks like it was another Krusty 
+2	1523112541	2	Be careful, Krusty is also a reversal patternhttps://i.imgur.com/NzfyL9u.png
+0	1523119474	7	Short from $7,030 with stops above $7.5K. See you all at $5.9K in about a week.
+1	1523119908	3	Why not wait to short until you see how high this run goes? It just broke out of a falling wedge, so it could have some legs short-term.
+2	1523120171	1	RSI is maxed on the 1hr, 55EMA on the 4hr will act as a resistance, potential bearish divergence on the 1hr MACD, amount of buying effort required to get the price to $7K was already a joke, scraping just above the wedge is an ideal place to slurp short stop liquidity before MMs do a 180 degree turn around. "good" fundamental news has been spent (Soros and Rockefeller).If it manages to creep a little higher I will just add to my short. If I'm completely wrong, I'll get stopped out and wait for another trade. I like the R:R.
+1	1523119956	1	Look you worthless federal fiat shill BTC cannot possibly go under 6k. I know you are here to piss on Satoshi's parade but you and I both know that a) dollar cost averaging works and b) the price of bitcoin has done nothing but go up on average since Satoshi first sat down and penned his glorious whitepaper. Call me back in a few months when your hyperinflated federal reserve funny money goes to shit and you can't even afford to buy a single big mac with 1000 of your fake-ass petrodollars. Unlike fiat, Bitcoin is backed by immutable, trustless mathematics.If you look at the Hertž-Tamoguçi intersection on the 3hr log chart it is very clear we have hit the price floor and are scheduled for a clear bull run up to an ATH of around $55k. Weak hands are done leaving the market, which means only strong hands are left. These strong hands will drive the price upwards to dizzying new heights.
+2	1523120071	3	>tfw can not decide if is copypasta or notwell done
+3	1523120353	1	it would be pretty funny if we kicked off a new bullrun on yesterday’s inverse bart formation
+2	1523119960	2	> fake ass-petrodollars***^(Bleep-bloop, I'm a bot. This comment was inspired by )^[xkcd#37](https://xkcd.com/37)
+2	1523120358	1	haha you'd make a great bull Dushman but I know your heart is dark and filled with bear love :)
+3	1523120414	1	Jokes aside: Donyou really think 5900 in a weekAfter yestday, I’d say it’ll take more than a week to convince people to sell sub 6500
+2	1523120402	1	Why are you plagiarizing other people their text? Or do you have another buttcoin reddit account?https://www.reddit.com/r/Buttcoin/comments/84no2c/how_it_feels_like_to_hodl_in_2018/dvs6bzd/> If you look at the Hertž-Tamoguçi intersection on the 3hr log chart it is very clear we have hit the price floor and are scheduled for a clear bull run up to an ATH of around $55k. Weak hands are done leaving the market, which means only strong hands are left. These strong hands will drive the price upwards to dizzying new heights.Just a tip: you don't need to post every 5 minutes. Also, it's okay to feel sometimes ashamed if you get downvoted. p.s. I am not stalking you, just did a google search on "Hertž-Tamoguçi"
+0	1523105219	3	Been following this descending triangle https://imgur.com/a/3f3xm Could be a couple of more days to go, but sunday is definitely one option to fall through here. Technical target around 4800, but that would mean falling through even the main descending channel support. So probably not that steep of a fall. Thoughts? Any reasons this formation is not valid? 
+1	1523107353	3	I see that too, and as I posted late last night, the medium and long term problem bubbling is that if we fail any of these resistances, we are likely to form one at some pointhttps://www.tradingview.com/x/FkNiJeAL/
+1	1523105432	1	If we breakdown here to 6600 area we will be painting a head and shoulder on the 6 hour which adds more fuel to ur assessment 
+1	1523106277	1	For what i read yesterday, a descending triangle must have multiple contact points from base to resistance. That one only has 1 maybe 2.
+0	1523113313	5	Ben Shapiro mentioned BitIRA on his show today as one of his sponsors, although that seems like nothing, it's a fairly strong indicator, he has a big and loyal following, and he's a smart chap. He mentioned that BitIRA is the same people at Birch gold group.He talked about bitcoin as a hedge against government intervention and also how volatility isn't the only quality (?) of Bitcoin as it's still young.One of his financial mentors had advised him to buy bitcoin.Shapiro doesn't just plug any old crap (even when they are sponsoring him) so it is a positive when someone like that shows confidence in it IMO.
+0	1523110270	6	Looks a lot like the price action before the pump 12 hours ago. Better place a stop on your shorts. 
+1	1523110757	3	I am thinking this will pump too.   Whales bought up that dip. Unless those buyers were idiots these guys have a real plan to pump this thing.  Watch the sell walls disappear in a few
+2	1523113637	2	It looks more like bulls are playing defense. All they need to do is let shorts pile up, keep the price stable, and at some point the cost of shorting will cause people to close... then lots of forced buying on margin calls. Rinse and repeat.
+1	1523110536	4	Yeah kinda looks similar. However, yesterday during the pre-pump sidewards action ALOT of fresh shorts openend. This time, longs have increased in the sidewards action, so i'll go with a hedge short...
+2	1523113904	2	Could play out that way, but longing is cheaper than shorting so I don't see a lot of them closing out of impatience or not wanting to pay the fees.
+0	1523117325	6	It feels a lot like a reversal. The 24hr bearflag that just got denied could just give buyers the confidence to put their fiat back in and give traders the confidence they need to start closing their short hedges from 7500
+1	1523118290	2	I think the real short term reversal will be much bigger than these weak 200$ pumps
+1	1523117607	2	Fiat and Saturday sound wierd when used in the same sentence.
+0	1523079062	5	Hmmm, seems to be an inverse Bart formation.
+1	1523079644	6	a tell-tale sign that the bottom is in and a subsequent reversal is on the way
+2	1523080260	9	*writes on the chalkboard*I will not overleverageI will not overleverageI will not overleverageI will not overleverage
+2	1523080326	2	50k by June!
+3	1523080715	3	Just bought 100k
+3	1523081572	1	01.06.2018
+4	1523103839	1	If nothing else, this post at least proves you are not an American.
+5	1523106715	1	lolI can confirm that I am not american :p
+0	1523090381	5	Going short at 6919 and closing my long from 6597. going for a risky trade given the momentum. Stops right above 7K.
+1	1523099606	2	I would put stops above 7200, since that will probably be resistance again. I don’t think 7k has any real resistance right now, but I could be wrong
+1	1523090593	1	I'm thinking of hedging my 6800 short with a long. Just to be safe 
+0	1523115317	4	Not a great place to open a long if you're not already in one, we're overbought on 30m and 1h and running into resistance at 7k and likely more at 7.1khttps://www.tradingview.com/x/sKjf1Btb/
+0	1523116009	4	Once again, just before a rapid jump up we get a disproportional swing down.Is that swing down a stop loss hunt for people that longed? I longed 6600 to 6800 with a stop 6550. If i had hard stop loss i wouldve chopped out. Someone has got to do that on purpose right? but what do they gain? how does that work?
+1	1523116627	1	Same pattern as yesterday.  Sideways, fakeout dump, then sideways, then big pump.  Bears can't seem to keep it down on those fakeout dumps, and whoever is buying to keep the price up has lots of money to spend.  For now, I would say we keep going up.
+0	1523116505	4	TA doesn't work for me anymore. So I have decided to use Time Honoured Trades which means I open positions at specific times during the day regardless of market conditions or news. I also close out positions at specific times. So far so good.Disclosure: This form of trading requires huge discipline.
+1	1523116587	3	TA does work, but the pumps and dumps are not natural. Therefor it doesn’t work with crypto. 
+2	1523116761	1	It used to work with ETH really well, but ever since the downtrend ETH has been following BTC to a tee. And BTC is heavily manipulated. 
+1	1523116618	3	Another good one is to buy at the 24hr low and sel at the 24hr high (if it’s higher). Doesnt always work, but if you are patient, it usually works alright with tight stops of course
+1	1523116918	3	Please share results. I was thinking of some weather-wise trades. No position at night, sell when clouds obscure the sun, buy and hold when sun breaks out. Stop tightness in proportion to humidity and leverage in proportion to temperature.
+2	1523117351	1	bro i laughed so hard XD thanks
+1	1523116761	1	Are weekend times identical to weekdays?
+0	1523118024	4	Seems to be some resistance at 7050 - closed half my position just in case. Bad move? Still pretty bullish but would be into rebuying in the 6900 range before another move up. All guesswork no TA.
+1	1523118160	1	Always good to take profits.
+1	1523118259	1	Lack of patience IMO. If I were you I'd have just taken a portion instead of 100%.  I could be proven wrong in moments though!
+2	1523118562	5	He closed half 
+0	1523074910	4	This will certainly be an interesting week.Price has found new base at mid to high 6Ks. Indicators suggest that there may be some further upside. Daily MACD and RSI is slowly curving to the upside. There’s also recent news that seems to suggest that one of Bitfinex banking partners has had its money seized under the suspicion of theft involving one Belgium official and drug cartels. It’s speculated that the money stolen was converted to Bitcoin on Bitfinex, potentially sparking a new narrative with buttloads of more FUD. Will be following this one closely. Read more about it [here](https://reddit.com/r/bitfinex/comments/8actyg/poland_seized_300_millions_eur_from_bitfinex_bank/).
+0	1523105435	10	I expect the rektening of shorts to commence within the next 4 days. I expect $10k+ within a week. New ATH by mid May. Buy now or cry later.
+1	1523110235	7	Wow you're going to be very disappointed 
+1	1523107416	6	Goofy post of the day...congrats.  I expect that dumb people in here will continue to have overly precise and unrealistic expectations of the future.
+1	1523105650	3	Feeling bullish?
+2	1523105693	0	Yes, this doesn't look good for bears!
+1	1523105853	13	Too optimistic. Bulls should be happy if it manages to stay above 7k this month.
+1	1523107050	2	Nice TA to support your prediction.
+2	1523108597	2	My TA concurs with OP:https://i0.wp.com/www.psychicgurus.org/wp-content/uploads/2017/11/tea-leaves-e1510935135430.jpgIt's undeniable at this point.
+2	1523109030	1	TA is support for a prediction?
+1	1523113658	1	Weren’t you just calling for sub 2k and no ATH like less than 24 hours ago? 
+2	1523113973	1	i dont recall
+1	1523105764	1	Actually the number of longs is concerning again and there's no reason we'll see more than 8.4 for now, if at all. While there is room for a big short squeeze I expect the buying interest to decrease again as we go up.
+0	1523109474	5	Kobayashi-san, was that you? How weak you have grown, old friend!  You seem to have spent your power. Perhaps time to do the honorable thing and fall on your sword.
+1	1523109813	5	kobayashi isnt that the mayor who got rid of all the canine in new movie ??
+2	1523110385	3	He's also very good at eating hot dogs.
+2	1523110867	3	He works for Kaiser Soze, Gox and now, Bogdanov
+0	1523075816	7	So, yesterday we fell into an inverse bart formation that completed just now. We are now officially “reverse barting”; a tell-tale sign of a bottom and subsequent reversal.Pack up bears; checkmate
+1	1523076774	10	How do you figure? The unique thing about Bart formations is that they are notable price movements that are ultimately meaningless. But an inverse bart has extraordinary significance, signaling the end of a multi month bear market?
+2	1523078663	11	spitposting
+1	1523076802	4	Nah I’m good I’ll be here for a while. Got my shit all over the place still not goin anywhere 
+2	1523079475	3	Spoken like a true hodlr. I'm with you
+2	1523087827	1	I thought you guys shat in the woods.
+0	1523114816	3	Bart breaking upwards ? interesting times. Got stoppped out of my shorts at 6900 :OBitmexico down as usual...
+0	1523115195	2	Got stopped out yesterday and had to take a loss. Now my City is attacked by terrorists. Awesome really.
+0	1523097042	4	A buy order of around 1k BTC on Bitfinex would bring us out of this wedge:[https://imgur.com/a/4Emnc](https://imgur.com/a/4Emnc)I think the next hours are important, because if we fail here, we will not stop at 6.5k the next time when we are going down, wedge support would be then at around 6.1k. If I see this not breaking up I close my tiny margin long here and hold my positions, I will close them with a stop loss order at break even if we fall down.
+1	1523097676	15	Texting Soros
+2	1523097719	8	When Soros entered the market, is it he or the Bogs who make the decisions ?
+3	1523099475	9	Soros = BogsMind = blown
+1	1523097147	10	Don't be shy, hit that market buy
+1	1523097468	5	I'm thinking of buying 15, who's with me!
+1	1523102537	8	'we will not stop at 6.5k' - said with such authority when in reality you haven't got a clueThe amount of times we've heard on here 'we won't stop here'... And time and time again we do 
+2	1523103894	1	easy to say you have no clue without providing a counter argument. I think the likelyhood wie stop at 6.5k again is small but of course we could stop everywhere, it is at the mercy of other players and with enough money you can paint the chart in the way you want. 
+0	1523114953	3	Well thank God I took both sides of the trade beforehand. Dush in disbelief if my ideal scenario plays out here. 
+0	1523104439	5	Luckily the exchanges can simulate an active market to keep it from falling.  
+1	1523107099	3	It's amazing the power they have to get CNBC to run a daily segment on Bitcoin and to get organizations like the Soros one to make announcements about entering the space.  If you look at the mainstream media you could easily be convinced that there is interest in building a position in Bitcoin by some really key new players.  And the markets look like there is bid support as well from patient buyers absorbing the supply as others are convinced to sell into the unstoppable bear market.  It's all could really look like accumulation if one did not know better.
+2	1523109937	1	Keep dreaming.
+0	1523083827	3	Do we have an explanation for that massive green candle earlier? You know the one.
+1	1523086540	3	6.4 much support
+1	1523103550	1	Some people were convinced to sell their coins.
+1	1523084461	1	I'd like to know too. Was it the Soros story?
+0	1523114939	3	As painful as it was to close out an underwater short, did it right before this big ol pump. I can take a win within a loss
+1	1523115039	2	Good for you. Its a hard thing to do. I'm still hanging on to mine like an idiot... If this makes it much over 7k Im going to bail though. 
+2	1523115392	1	Yeah it honestly might end up working out better for you as we just ran smack into some resistance while being overbought. I was debating doing the same but I had too large of a position
+3	1523115877	1	I got a rather small short position i opened at 6.8, im debating on whether i should double up here or bail, i guess i gotta wait and see if it truly breaks through 7k
+1	1523115440	2	I closed a short before for a loss also. When i saw the flag "breaking" down entered a long... The fake outs are back, and going against them is proving profitable 
+0	1523101123	2	Reversal doji on the 4hr closing in aprox 20 min, think this could be the leg down to 6k?
+1	1523101392	4	The relative length of the total doji candle (compared to the other candles) is a measure for its significance. This one is pretty small.
+2	1523101459	2	Sounds good, I was looking on mobile so visually it looks long haha thanks for the insight
+0	1523114695	3	Way too bullish in here but good luck everyone!
+0	1523111035	3	Flipped my perp short into a long and opened the short on june futures instead. I dont want to pay the fee for shorting + i plan to close this long at 7.7 if we get there and go all in on a hedge short again. Ideal price action for me now is: pump to 7.7 so i can close my long and add to my short then dump to sub 2k. If we drop from here ill close my short at 6.4 and ride the june futures to the abyss
+1	1523112802	11	I refuse to believe that this is the real u/DushmanKush 
+1	1523112685	7	When dush go long its time to go short
+2	1523113074	2	My one and only long in the past month was at 7.5 when we bounced off 7.3 all the way to 9.2. I closed it early but sure go ahead and countertrade my entries. 
+3	1523113241	3	Liar still remember, you went short at 8.5 with a liquidation at 9.5k. Then when it went up, you went long at 9.1k and got double screwed when it dumped.I hope not a lot of people follow you with high leverage.
+4	1523113357	0	Did I?  I got bull-fudded into closing for a loss but I'm fairly certain I didn't go long afterwards. Also, my liquidation was above 10k so I'm pretty sure you're just making stuff up at this point. To add to that, after closing at 9.1 it still pumped to 9.8 so I could have made a sizeable profit if I had longed and kept it open for a few days. Pretty sure I didn't long or if I did I closed it very shortly after. 
+5	1523113494	2	I can prove it but you post so many comments in here its not worth wasting my time.
+6	1523113620	3	What are you suggesting? That I lie about my positions? I lied about being massively underwater on a short from 7k to gain internet points with other bears? I lie about opening and closing positions even though I post instantly when I do and the price is still at the level I opened and closed? 
+7	1523114855	2	Dush isn’t a liar y’all gotta relax on all thatEdit: im sick been typing like shit lately my bad lmao 
+8	1523115074	2	Bro this is nuts. I never see these two post positions but they hate non stop. 
+7	1523113848	1	Short the bottom : https://www.reddit.com/r/BitcoinMarkets/comments/83ctvq/daily_discussion_saturday_march_10_2018/dvii244/Long the top : https://www.reddit.com/r/BitcoinMarkets/comments/83kh4m/daily_discussion_sunday_march_11_2018/dvk1sox/
+8	1523114099	1	Did I not state I closed that short at a loss?  Do you not realize it went up from 9.4 all the way to 9.8-9.9 before going back down and that 9.4 was not the top? In any case, I don't think I held that long very long at all. Should I have been wiped out by 1 bad trade? You realize I longed the top in one of my first trades on bitmex and was down as much as 80% at one point? People recover from bad trades, sorry that you didn't but I'm more inclined to believe you don't even trade. You just talk shit pussy. 
+9	1523114198	1	You were sleeping when it pumped and most likely got liquidated lol.You are very bad at trading but please continue posting
+7	1523113944	0	yes u generally do bs. everyone remebers ur 1000 comments everytime u go short or long. i definitly know u lost on that bull un to 9k
+8	1523114261	1	How many times do I have to restate that I closed that short in loss before you motherfuckers develop the reading comprehension skills of a third grader to soak it in? 
+1	1523112620	1	How many times have you gone long since Jan?
+2	1523112860	6	Every bull trap, dush is the best inverse trader in here
+1	1523114678	1	I’m thinking about bailing on my short now lmaooo but I wanna see what happens if/when it breaks 7k
+2	1523115142	1	First test is a rejection. Let's see what happens next. 
+2	1523116053	1	aww fuck it looks like we crossed it decisively. If it holds for an hour its time to close it imo
+3	1523117130	1	Pretty shitty, i shoulda held dat long a bit more XD lets seeeeeee
+4	1523117408	1	Yeah i opened a long on perps and short on june futures to get paid funding for my long. Im making only like 100$ a day from it though. Wish i had just gone long.
+5	1523117516	1	im gonna add a bit to the short at 7050 and wait and see, i feel like ill have a chance to breakeven/small profit soon enough
+6	1523117784	1	Yeah, lower high and higher low is probably a continuation signal for the macro trend. Would start to think twice if we get past 7.5. 
+7	1523119093	1	It reaches 7.5 I’m definitely taking the L
+1	1523111899	1	Would you close out a short for a small loss at this point? I have a low leverage short that is a little underwater and I'm trying to decide if I should cut it loose or not. I don't think we have hit bottom yet but these whale games are making me nervous. 
+2	1523112148	6	I dont close shorts for a loss in bear markets but its a strategy i do not advise. This could easily pump to 7k+ even to 7.7. With that said, RSI is almost overbought on the 1hr. You will probably get a chance to get out at breakeven pretty soon imo. If you dont feel confident in your position then consider closing it at breakeven.
+3	1523112734	2	> I dont close shorts for a loss in bear marketsthis is something i've learned the hard way. sooo many pointless losses taken in..
+4	1523113755	1	Well losses are losses whether you realize them or not. If you believe you can reopen even slightly higher then it always makes sense to do so. 
+3	1523113226	1	Good advice. Im going to try to get out at break even. If I don't get the chance, I think Im going to place stops at just over 7k. I was feeling confident about my position last night before that insane market buy, but now, not so much. 
+2	1523112327	3	My opinion: cut your losses. The longer this stays flat, the bigger and more potent the next green dildo will be.
+2	1523112229	2	Set a stop loss just above $7k I'd say
+0	1523116083	1	BTC $7000 time to celebrate.  Just think the price was only $0.001 about 9 years ago.
+1	1523116246	1	It was also 5k 9 months ago
+2	1523116590	0	So throw a party if it makes you that happy.  I personally am not in a party mood with the current chart.
+0	1523083315	2	the 100 and 200 hourly MAs are exactly at the same level and that's where attempts at another leg up are being rejected. 
+0	1523090610	2	Took some profits but I think this still has more to climb. Will close completely if shorts drop under 30k, and my target is still 7.1-ish.Edit: I may get out completely here, actually. Longs are climbing a lot which seems to be the only demand. Those shorts may actually get a second chance to get out.
+1	1523091140	2	yep,have sells staggered from 6.86( which just got filled)all the way to 8k .dca shud be 7.5 or thereabouts.would be lovely if that happened. fingers crossed.
+1	1523093717	4	I hope so, would be nice to fill my short again above 7000, but I'm starting to doubt we will get that high. Looks pretty ripe for another leg down tbh :/
+0	1523096961	2	What a night, was stuck in my long from 6800 on swaps and then opened another at 6500 something on futures. Woke up at 4 am, saw they were in profit and thought "well this is the typical bart chop" and market closed. Then of course it was time to move a few 100$ higher :) At least I think from a psychological price anchor perspective that 6400 is a strong bottom support is good
+1	1523097298	4	It’s not a higher low, but I think if 5900 was really not the bottom, then the bottom should be above 5k. It will take some serious psychological tormenting to get sellers to feel comfortable selling at 6400 tbh
+2	1523097565	5	Yes that's also a thing I been writing here about the last months, who are the actual sellers? Of course you have traders/whales/miners/Whatever popular FUD reason but then you will have the ones who are either up like 100-200x already and 3k or 6k don't matter to themOr you have the first time buyers who bought at 2k, and think 6k is a nice 3x and they are done with it. Once this group sells out, I think the selling pressure will decrease. same with the other cryptos, and that will be the time to start buying again. That is why I want to learn more about volume/orderbook trend to see if one can make conclusions
+3	1523098868	5	Whoever up like 100x and have enough bitcoins to move the market should have cashed out enough to be millionaires long ago and may be comfortable to hodl the rest at 6k.Those who have only 3x won't be eager sell here too, since the gain isn't significant enough to overcome the regret of missed profit in future.The group that can move the market are the early whales who hold thousands of bitcoins. But these people are a tight group and as a group they probably want bitcoin to succeed and not dump it to hell.
+4	1523099405	3	If you really believe in Bitcoin, then selling now is just plain stupid IMOSure, trade it if you want, but selling and walking away is a cruising for a bruising if you lose focus of what BTC keeps doing
+4	1523099095	1	Yep, so like in all markets it basically turns into a supply vs demand and greed of the both sides. 
+5	1523103846	1	Isn't that what BTC has always been? Just not government controllable and global, Although everything around it is getting pretty controlled, like how much fiat who is spending, making, trading, taxes etc.
+6	1523104872	1	yes, but this is even clearer in this scenario, since it's not FOMO driven
+4	1523103298	1	I'm surprised how seldom I see a post on here that points out people selling might not necessarily sell their entire stack.There have been regular posts saying "there are no strong hands here because the people who bought in early 2017 haven't been underwater for ages, if ever, they haven't been tested."But why wouldn't these people have sold 20, 30, 50% of their stack at $15K+, securing their principle and a bunch of profit too?
+5	1523103875	3	That's why I'm not pessimistic. The dangerous sellers were the late comers after Nov and most of the weak hands would have quitted by now. The mania bubble started at 7-8k and we've already went back down and under it. After the bad news attacks, the recent news were mostly good. So barring major setbacks the current situation of bitcoin is not that bad and a reversal could start at any time.
+1	1523097520	1	Shorted 6780 but that didnt work also. Closed for a small loss. I rather be out of position until market makes its mind... It seems we are going back to a tight range again 
+2	1523097670	1	> I rather be out of position until market makes its mind... It seems we are going back to a tight range againI think the opposite is better, to not get caught off guard. Try to always be in a position but either get stopped out early or ride the 300-500$ any direction. There is currently no good trending direction from what I can see
+0	1523106922	2	I have a question for the more experienced traders here: instead of putting a low leveraged long/short with a tight stoploss, could you not just go 50/100x long/short with like 1% of your XBT stack? That way, liquidation would be your stoploss and you could maybe avoid any extra loss via slippage? 
+1	1523106972	5	Yes but then youre essentially gambling for a perfect entry. 
+2	1523107242	2	Yeah, that for sure. But i see alot of people posting something like yesterday: long from 6550, tight stop at 6475, since 6500 served as a good support so far. Is there any disadvantage for this "method" compared to an ultra tight stoploss?
+3	1523108024	3	Bitmex tends to be more volatile. 50/100x leverage means you can easily be the victim of an "exaggerated" move in the wrong direction.Having a lower leverage basically gives you more breathing room and serves as a buffer for when although you've predicted the eventual move, there is a quick/temporary swing in the other direction.An underwater position can recover. Can't say the same with a liquidated position.
+4	1523108960	2	But an underwater position can not recover if it is stopped out, right? At 6475 in his example. Perhaps there is confusion in the use of the term... some traders say "stop at 6475" when they mean "alarm at 6475 for me to decide what to do."
+3	1523107786	1	Not really any difference, no. 
+1	1523108813	2	That's just flipping a coin.
+1	1523108144	1	You run a significant higher stop  loss risk - your stop may be "run" giving you very ad executions.
+0	1523115350	2	I'm almost tempted to add to my short here if it fails to break 7k..... I've also screwed myself doing the same in the past. Apparently I like to learn the hard way. 
+1	1523115608	-1	in the past, as in 2017?   Because it has been tough to screw up by adding to your short anytime this year.
+2	1523115807	2	What I meant is that it generally hasn't worked out well for me if I add to a losing position long or short. 
+2	1523115792	1	But let me tell you--not impossible
+0	1523116222	1	Looks like 7k is some resistance after all eh?I expect us to make it to 7200 on this, but who knows.PS: the fractals are mind boggling. Inverse Bart the true reversal pattern :)
+1	1523117510	1	If this will be anywhere like previous then we may hit 8 before falling.
+0	1523116801	3	Still rolling with my long from $7300. Growing more confident by the hour that it will close profitably.
+1	1523116931	7	If 7200 gets rejected i would close part. Good luck 
+0	1523105118	2	If there was a double bottom, I guess this would be it
+1	1523107453	1	Or it could be one at $4000 in a few weeks.
+0	1523105946	1	4h Bbands tight, 12h Bbands tight af! at the boarder of the wedge. If this breaks up I see us at 8k in 2 days. 50/50 still all in with fiat and with a tiny margin long.
+0	1523076944	1	First short limit filled at 6890 while I was watching a movie. This is close to where my wick sell filled yesterday at 6935 so all it tells me is that were back in yesterday's position: breakdown into a bear flag from 7000s. Am I missing something extremely bullish about being at yesterday's price? Edit: and I see that 2k shorts closed in the meantime. Congratulations, we have more longs than shorts in an EXTREMELY bearish market and we have only managed to drop 70% in 3 months despite a net positive effect of leverage on the price. Just hilarious how people expect a short squeeze when longs still outnumber shorts and have continued to do so constantly throughout a 70% drop. It's really remarkable. 
+1	1523078730	4	First we went up over 1000 % ,plenty of traders are here holding from 4 + years
+0	1523105207	1	Been doing 3 long/short positions today with considerably bigger contracts size that I am used to, getting a few 2% here and there. Now the hard part to not get greedy and think "wow this is nice" until I get caught in the wrong size of the move. As usual at least the strategy halving the position each time works quite well so far. Then where the pole of this Bart pattern move will do next, that's the real question
+1	1523105296	2	I am thinking it breaks down.  Rsi flattened out.  And it looks like a tight rising wedge.  Lots of resistance above 6900 
+2	1523105370	1	But why would RSI flattening out , instead of overbought, turn to a break down ?
+3	1523105596	1	RSI measures recent gains vs. recent losses, if RSI is flattening out that means that the price is starting to lose more than it gains. Basically the movement in price is losing momentum.
+4	1523105658	1	I see, thanks
+4	1523106160	1	You could also think that the RSI going down while the price doesn't is bullish, but that probably depends on your position...
+5	1523106465	1	Actually that would still be a bearish divergence, with price making a higher high while rsi makes a lower high. http://www.cmsfx.com/en/forex-education/Forex-Glossary/bearish-divergence/index.html
+6	1523106796	3	The price making a higher low while the RSI makes a lower low is a hidden bullish divOn 15min we have both hidden bull and regular bearish divs, on 1H only hidden bull divAnyway I find them really meaningful only on the 3H and it's completely full of regular bullish divs
+3	1523105595	0	The  pressure down is stronger than the pressure up.  Overall.  It is a bear market afterall
+4	1523107457	1	Actually, for now, there's not enough sellers below 6.4 to sustain a breach through 6k. That's what the market is telling us. 
+5	1523107613	0	Fair but people are more likely to come in and sell than buy right now.   People still waiting for cheaper btc 
+0	1523114513	1	For the record, I bought in with stops at 6650 late last night, moving to alts at 6750. Going well so far, seems like we're forming some sort of bull flag right now. If the current daily candle holds (which I'm expecting) there's a bullish divergence on the daily. Mobile so no chart.Would be surprised if this doesn't attempt 7-7.2k, and if it breaks up through there I would look for a break of 7.5k to make a double bottom and maybe attempt 8-8.2k? We'll see how it looks if it makes it up to the mid 7ks... Trying to not get ahead of myself.Then again I thought 7.5k resistance (which admittedly is the zone of a 2017 log support you can draw) wouldn't hold and it did so playing it very cautious. Maybe 7-7.2 will be too much for us now. Maybe we won't get there.Edit: broke up towards 7 right after posting this.If this fails to break 7.5 but gets up to 7.2, maybe 7.3, could set up a hidden bear div on the daily as well.
+1	1523115845	1	Where do you see bullish div on daily?
+2	1523117811	1	RSI low from before 7.5k to the most recent low.RSI is calculated using open / closing prices so when looking for divs you should use the candle body not wick.
+0	1523119961	1	4hr stoch RSI reset and its still 500 off the previous high 
+0	1523120154	1	This is the weirdest 1 day chart I've seen in a while. 
+0	1523120195	2	Long again, this time from 7005 with stop at 6969. Let's see if this can hold 7k for a while and then pump a little more to continue the weird etch-a-sketch staircase. 
+0	1523083614	-2	This is still likely to go much lower (unfortunately), but of course the lower it goes, the more risky it is to have a short position that you don't manage actively.   But hasn't even been close to capitulation and blood in the streets for longs, so still expecting more pain before some kind of rebound eventually.
+1	1523086874	9	This whole blood in the street is a meme tho and doesn't reflect reality in any way. I think the question is more or less "are there more holders ready to sell at that price (at a loss or not) than fiat ready to buy?". It's the point the market is looking for I suppose.
+2	1523095986	0	It's not a meme.  It is an old expression before memes existed and it describes certain market conditions.
+3	1523096164	3	Ye like from 1929 when everybody was running in circles waving their hands in the air in the streets
+0	1523078828	3	I don;t know any long term holder who did not experienced 70 % dowdown !
+1	1523079168	12	What
+0	1523102493	1	Wtf  this thing has been in a rising wedge forever!   When its it gonna break down.  Or whats the sentiment going around?
+1	1523104041	3	Don't worry it's guaranteed to down soon. You can add to your short in fact. Forever rising wedges always break down. 
+1	1523102763	1	How and why would it be in a rising wedge "forever?"  If anything it looks like a bull flag and it has a good chance of breaking up.
+2	1523104553	1	On the hour and 2 hour its def a rising wedge. Not a bullflag 
+3	1523105471	2	chart?
+2	1523108648	1	As expected. Its breaking down as we speak
+0	1523115127	0	Holy shit look how low this volume is.
+1	1523115239	6	Fomo is most dangerous when nobody is paying attention. Low volume is quickly becoming a bullish indicator regardless of price action. 
+0	1523115270	1	This is george soros buying! LOL
+0	1523115834	1	come on little puppy, one more push: https://imgur.com/a/lcCyi
+1	1523116014	1	Is that the log downtrend from 20k through 17k ?
+2	1523116182	2	No, that's still around 9K
+2	1523116160	1	No, it's the log downtrend from $11.5k. Still very significant. 
+2	1523116289	1	I got one from 9k and 11k relativel close by
+2	1523116476	1	no, that will be the one above of it.
+1	1523116491	1	Your chart is pleasing to look at
+0	1523115800	2	Back in long on 6930.  I don't think we go up much from here.  6 hour RSI is back to the middle.  Best case we get a double top with the previous bounce.  I must say this low volatility is great for setting stops.  I wish it was always this easy to catch the pumps.
+0	1523115884	2	my second short order at 6999 got filled.have ladders every 200$ all the way to 8.4k and fully expect it to happen.if everything gets hit my dca shoud be 7.7k
+0	1523117275	0	no sympathy for anyone being liquidated, especially the ones who are long term bullish. Let the market breathe you fucks
+1	1523117991	1	How much BTC have you bought today?
+2	1523118289	2	Weren't you short? F
+0	1523099698	-4	96 hours until my prediction of a daily close under 6k. !remindme 96 hours 
+1	1523099806	1	closed your short ?
+2	1523099874	2	I had closed at 6.6 and the first re-entry executed at 6890. Debating opening it all right now or continuing to ladder in all the way to 7.2 (maybe even 7.7)
+3	1523100238	2	Doubt if we go that far - 7150 is the trend line point on my chart. Another big resistance area is the 20 EMA on the daily which will converge to 7300-7400, if we keep going up. Agree with waiting thought until 7.1 though to add more. 
+3	1523100379	2	Nice, I personally think the risk/reward is better 7.2 and up to 7.5 then watch for 7.8 break but yeah.Seems like most people at least agree, regardless of direction bias, that the 6600-6800 range is the worst to open in
+4	1523100442	-1	Agreed. The absolute top of this run should not exceed 7.7-7.8 imo otherwise I'll have to rethink my medium term bearish bias. 
+5	1523100623	1	The area between the short and long term resistance lines I am watching here basically https://www.tradingview.com/x/KZJy5Hk1. Feels like uncharted territory and in the downtrend, always short those has been the best strategy
+1	1523099811	-1	6 months til my predicted sub 2000 close. !remindme 6 months
+2	1523100409	12	10 years til my prediction above 100k. !remindme 10 years
+3	1523101108	5	10 years? Did you accidentally buy stocks instead of crypto?
+3	1523101701	2	Higher my friend. Aim higher.
+3	1523103500	1	100 years 'til my prediction above 1M. !remindme 100 years
+0	1523116174	2	Weather is getting nice, price soon go up.
+0	1523116690	-10	Good morning bears, daddy's back. I won't be gentle today.
+1	1523116806	12	We are exactly 10% from our local low and you claim a victory?Dat 1m chart tho
+2	1523117080	1	The way bears on this sub gloat over every little $100 move down, it's fair play. If this pattern (up, flat, up) holds for a couple more days, I will dub it the Stairway to Heaven formation. Seems too easy for bulls at this point as whoever was dumping on us seems to have run out of cheap coins to bestow on the world. Just keep it flat for a while, let retail shorts pile up, and liquidate them every 12 hours or so.
+3	1523117250	3	> The way bears on this sub gloat over every little $100 move down, it's fair play. Just because someone else is an asshole doesn't mean we all need to be. 
+2	1523116907	-3	I've been claiming victory since we broke $1000 a year ago.
+3	1523117015	1	Are you the one who claimed it was the last time we’ll see sub 1k?
+3	1523117971	1	Same. This talk of "bear market" is clearly coming from people new to the game. If it's still "down" (it's not down if you've been in longer than, what, four months) in June, that would constitute a bear market.
+1	1523117271	4	Hey bitchface 
+2	1523117801	1	I'll up vote this 
+0	1523118285	-9	So fake, probably back to 6500 tommorow .
+1	1523118573	6	Agree. Good place to short back to $5500. 
+2	1523119139	5	Agreed. Good place to short back to 1$
+3	1523119499	1	Disagree, short to 10 cents. 
+0	1523115047	0	Wooow, incredible! COME ON BTC, were entertained :)
+0	1523082520	-6	Anything above 7100 in short term is delusional, imho. The monthlong downtrend is coming at us hard. and I'm guessing we won't even get close to that. If we get to 7k I'm shorting. I'd put it in here  6860 but I am not certain if we go 7k first.
+1	1523083706	11	Why is everything all or nothing to you. What probability do you think the price will get to 7100 on this bounce?   It sounds like 2% if you are saying it's "delusional" to consider that possibility.  I would probably put it at 30 or 40%.  But 7100 or 7200 is a good place for this bounce to end and then a drop to lower lows.  Obviously if we could take out 7500,that would be very bullish.
+2	1523085914	8	Thank you, tired of this bs.
+3	1523086292	4	Simple people with simple minds can only think in a binary fashion.  They do not understand any probability other than 0% or 100%.   There is no way that they do well at trading over an extended period of time...they just aren't smart enough for it.
+4	1523089243	4	oh the irony:i think u meant to say "there is only a small probability that they do well at trading..."
+5	1523095918	1	Yes good point and I was lazy there and should have said that or at least, "very unlikely".
+4	1523087976	1	sometimes long term resitance lines are very binary. either break it and rally after or do not break it and drop hard.
+5	1523091187	4	"sometimes". You just sneaked in the non-binary outcomes.
+0	1523116268	-2	$7000 on bitfinex! we made it.
+0	1523116571	0	1h RSI touching overbought.  Trying a reshort here at 6990 , at least this will grow to a sideways Bart hair line 
+1	1523116670	1	I agree. We can anticipate a little more upside, 7200 max, but at some point should see a little selloff to the 6800 range again
+2	1523116790	2	If there is one thing I learned is this market is to never hope for the breakouts. And even if they DO move up, then it's ok to still not buy in and wait for them to confrmI say like William Eckhardt, What feels good is often the wrong thing to do. https://www.safaribooksonline.com/library/view/the-little-book/9781118858646/xhtml/Chapter16.html
+3	1523116965	5	Breakout trading in the last few months has been a recipe for disaster. 
+4	1523117039	1	Yeah, and it unfortunatley really fits my trading style :/ But now I long the local bottoms instead and try to sell tops and then reshort 
+0	1523116417	-1	Finally a price rise on really high volume!Edit: /s ;)
+0	1523118052	-18	Soros investing.Rockefeller investing.Tom Lee predicting moon.So much good news. So much huge money coming in. Crypto is the future. $100k by the end of the year. Last chance to buy below $10k. Buy now or regret not having taken advantage of a rare opportunity in a human's life to get wealthy and secure your family's future for generations to come. Or don't and get back to your pleb job in a few years. Now is the time to take risk and go all-in. Just remember it is unlikely you will get another chance like crypto for decades to come, if ever.If you want the honey you must be willing to get stinged.
+1	1523119034	8	My man on his hopium on a beautiful Saturday..
+1	1523119688	4	> "Anything above $1.5k, I wouldn't touch"-You.  Recently.
+1	1523118146	7	Dropped your /s 
+2	1523118219	-3	I didn't. It is not sarcasm post. Dead serious. Wealth and pleasure is not for those not willing to take risks and get out of their comfort zones. Only way to live life is to take risks, get out of your comfort zones, get hurt, and get disappointed. As long as you don't regret anything at the end. You only get one chance at life. If it goes financially wrong, no biggy, different course in life, but still LIFE.Now please don't reply I am having a hot cup of coffee while doing some people watching from me balcony. Ah, its good to be a crypto fool.
+1	1523118354	3	Or buy high sell low and loose it all.......
+1	1523118488	10	Take this shit to /r/cryptocurrency. This is a trading subreddit, not a shill-zone. Everyone here already owns BTC and trades it regularly. Just because you short BTC doesn't mean you don't believe in it. Read the fucking room before you post shilly nonsense.
+2	1523118582	-2	Don't be such a party pooper. Don't take everything so seriously. Nobody will remember any of us or anything we ever say, whether constructive or not. It's all meaningless in the end. You think too highly of yourself, or too highly of men-made rules on a digital platform. It's sad. Are you okay buddy?
+1	1523118334	4	I love how we upvote these and downvote any sellers.  This guy's advice could ruin you financially, too, but it makes us feel good, so have an upvote.
+2	1523118505	4	Thats how it goes around here.  When the last move is green the permabulls run the show.  And vice versa.
+1	1523118467	4	This is too hilarious. -> Price moves down a bit -> bitcoin will be subzero in a month.-> Price moves up a bit -> $1m!!!!!Reality: Still in a downward channel. Hopefully we'll break out, but I'm not counting my chickens.
+2	1523118512	-2	We're in an uptrend. 
+3	1523118609	3	Yes, we are, in a short time frame. We're also down 30% since last month.
+3	1523118609	2	From 6pm yesterday, sure
+3	1523118886	1	No we're not.
+1	1523118529	3	Lol good joke there goes my coffee, last chance to sell above 7K this year is more likely.
+2	1523118635	3	Lol at all the dumb bears and losers not willing to take risks. Never having put your life savings on something equals weakness and sadness. 
+3	1523118744	4	A fool and his money are soon parted.
+4	1523118866	3	Im such fool for buying btc at $100 :'( . When soon parted ? 
+5	1523119121	2	Lol.. you probably bought above 14K with loan and desperate about the current price.
+6	1523119959	1	Hahaha, yes. (If that helps u sleep better, then I did exactly that :D).
+4	1523119248	1	Man, stop calling me out.
+3	1523119119	0	These shorters are gonna get completely rekt soon anyways. Don’t worry bro. They don’t invest in a tech to better the whole concept of money for the world. They shit on the tech and use it like a casino crap table ruining it in the process. Fuck em. It’ll all work out my bro. 
+4	1523120038	1	Yeah 5 years ago everyone called me a fool for buying it. Now they say I got lucky. No, fucking tiny dicked bitches, fish vaginas, I didnt get fucking "lucky". I am a genius investor and saw an opportunity where others saw risk.
+1	1523118231	2	Just realize you named 3 things the media just recently threw at you to make you bullish.
+2	1523118560	2	Don't forget SEC backed exchanges, India not banning crypto, tax season ending and our greatest hope: *millennials*.
+1	1523118318	2	lol, what a shill. None of those people are investing anything. Soros is a prolific shorter, so if he started trading it would be a short. 
+0	1523084665	-10	OK so at what price here are we going to see the ridiculous bullishness from the other day come back.I would think anything above 7k and it's back to the same medium term delusional... "The bear could be ending" sentiment.Within a week or two 6k will be upon us. Downvote it all you want but the odds are overwhelmingly likely we'll attempt the 6k retest. That is the key level, if we bounce super hard off it then potential is there for the bottom, fall through it and we have another 2 to 3 months of the bear market left. 
+1	1523085768	16	Just FYI, you're probably being downvoted for certainty, not bearishness. We might see $6k again; we might not. It might be in a week or two, an hour or two, a month or two, or never. And we might have two to three months of bear market left, or two to three years. Well, you get the idea.Now, some of those possibilities might be more probable than others...and if you believe so, it would help all of us if you shared your reasoning instead of your certainty.
+2	1523086541	1	People can downvote all they want it's fine. My reasoning is that we are in a big bear market and the trend is overwhelmingly down.We couldn't even pierce though 7.5k the other day when most experts thought at least 7.8k was possible.We repeatedly run of steam on any run up. We are no where near breaking out upwards through any of the key resistance points.We are hovering dangerously close to a key support level at 6k,being this close I believe humans being humans.. Will want to see this level tested.The volume is poor. Bitcoin as of yet has no real world application for the masses. The bear will end, but it will take a while longer yet. If it is to last even another month... Are people really saying that in that month or so we won't go down to retest 6k? Let's see, IMO we will go down further. Please remind me when the time occurs 
+3	1523089654	4	I agree with you. People downvote any news that isn't good which means they trade on emotion rather than being realistic. People are freaking out at the drop but forget what the price was a year ago. It's still up over $5,000 usd from last years price. 
+4	1523089811	2	Exactly. To remain above 6k..realistically..we need the bear market to end within a month.I don't believe it will, my best guess is another couple of months. In which case do I believe we'd drop more than 13% within one of two months? Absolutely possible 
+3	1523087169	2	Upvoted, while I don't entirely agree, you do make some good points and that's a much better statement from the bear point of view than your original post (in my opinion).My main contention is that I think Bitcoin has multiple real world applications (some existing, some yet to materialize or be proven)...but that's probably off-topic for this sub.
+4	1523106661	1	Not off topic as that would be fundamental analysis
+3	1523087026	1	How big do you think the risk is for btc to be lower than 6k by the end of the year?
+4	1523088061	1	I think it'll be quite a bit above 6k by end of year. Probably over 10k
+5	1523089812	1	So you see. Thats why people are becoming reluctant to sell at these levels.
+6	1523090123	1	And? People have been selling for a long time now,since January. People will continue to sell.Soon as we break under 6k a lot of people will sell, it's human nature. 
+7	1523091577	0	So probably 10k you say. Even if it is highly likely that you will make at least a 50% profit by end of year human nature is to sell?
+8	1523091725	1	 Yes it is.By your logic people should have stopped selling long ago but here they are... Still selling. 
+9	1523092358	1	Yes they are still selling. But it will slow down. It will get increasingly harder to go to lower levels. The water is getting more and more gelatinous. Imo
+3	1523089648	1	I agree with you. People downvote any news that isn't good which means they trade on emotion rather than being realistic. People are freaking out at the drop but forget what the price was a year ago. It's still up over $5,000 usd from last years price. 
+1	1523087429	5	> fall through it and we have another 2 to 3 months of the bear market left.How did you end up with this kind of time estimate?
+2	1523088014	-1	Because I believe we will slow bleed down and have another series of fakeouts. These all take time based upon the last few months.Should we break under 6k within a few weeks I don't think we'll flash crash I think it'll take time. A few fakeouts back up, more bleeding down.My best guess is that we'll find bottom in and around June. 
+3	1523088094	8	Your points sound like good ol' hope. You'll always get downvoted because you seem sure but provide no arguments to back it up.
+4	1523088550	-1	Not at all. Realism.If the bear market lasts at least another 6weeks minimum are you really suggesting that we won't go down to 6k?Say the bear market lasts 2months more? Do you not think we would retest 6k?What about 3months?No one knows when it will end but I'm very confident  it won't end within 1 month. Therefore it is statistically more likely we'll be going down than up between now and then. 
+5	1523088708	3	What kind of statistics? How many times do you think BTC even had bear markets? This time the ecosystem is completely different, so to base it on previous one is silly.
+6	1523089124	1	OK well please come back to me in a month or maybe longer. I'm not saying it will 100% be under 6k but the odds are pretty damn high at this stage that we'll be going lower. You sound in denial to be honest. I can understand that but don't ignore the grand trend. On practically every time frame it's bearish. There is literally no bullishness. More pain will be here soon 
+3	1523090259	4	It would be great if you could post the size and direction of your position rather than fugazzi.
+4	1523092126	1	I'm out of a trade right now, I short and I long depending on the day. I day trade.If we fall I'll short, if we look like going up I long. Simple concept. 
+0	1523086221	-9	Nice overnight pump but I'm sure it's perfect timing for a run over the weekend to 6k based on pretty much every weekend for the last few months. Taking profits.
+1	1523095703	3	Source?
+0	1523082397	-2	Closed my 2x leverage short at 6812 today for a tiny profit of about 0.04 BTC, kind of disappointed as the price has always been flat when I'm free and all, but the moment I decide to go out and have some fun with my friends price pumps and when I whip my phone out I get a real nasty feeling of losing 0.06 BTC of unrealised profit, which for some reason has always stuck around on my head as 0.01 BTC= $100 
+0	1523115035	-1	Are you guys expecting the usual Sunday dip again? the price just spiked another 100 usd so i don't even know what to expect anymore edit: since it doesn't dip every sunday let's rephrasewhat are your sell targets this time?
+1	1523115369	2	it *doesn't* dip every Sunday.

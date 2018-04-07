@@ -1,0 +1,143 @@
+File created at: 1523120424
+Subreddit: CryptoCurrency
+Submission title: Major News: Coinbase to become a potential SEC regulated Brokerage!
+Submission created utc: 1523044593
+Submission score: 812
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523050048	37	That makes 2 as Circle Poloniex is trying the same.
+1	1523057452	6	There’s already a company that has been blessed by the SEC for this (that happened more than a year ago). So Coinbase might by the second but given the SEC’s recent involvement with ICO’s and trying to understand this stuff, I think it will be a while before they approve another.  They’re trying to get up to speed so that they can properly regulate (I.e. get their  share of the pie). EDIT:  Providing article, you can do your own research from here :). https://news.bitcoin.com/overstock-launches-sec-compliant-ico-trading-platform/
+2	1523066668	1	4 https://www.coindesk.com/not-just-overstock-templum-to-launch-regulated-u-s-exchange-for-icos/
+1	1523053718	4	3 qash is doing the same end of the year 
+2	1523064822	5	That world book looks like it's going to be an absolute monster if they can get it right
+3	1523069398	7	Off to a rocky start with the beta being delayed 3 times now. I hope they get it sorted soon
+0	1523045779	156	Will that finally prompt them to have a halfway decent customer service?
+1	1523046318	136	I’m scared for the next bullrun to happen not because of how much money we will make, but how much volume coinbase will receive and how many times they will fuck up. 
+2	1523058358	28	Same here. Knowing my luck. My portfolio will finally go green in the next major bull run and i might try to cash out profits only for Coinbase to lose it and i end up like one of those stories about how the wire transfer is taking 6 months to go through or some shit.
+3	1523059834	15	If they're regulated, the FIAT in your account should be insured by the FDIC. Everything else might as well be monopoly money
+4	1523080372	5	They have private insurance for everything else. 
+3	1523089723	1	That is exactly why I didn't cash out more during the last bull run. So many stories about Coinbase screwing their customers, and a scary email at that point (about potential locking of my account). Looking back I should have used Kraken, even though their site was barely usable and the ETH price was significantly lower at Kraken.
+2	1523084789	2	Coinbase simply isn't ready. We need decentralized exchanges that can scale up to 100 users per second. Only then will we see a healthy bull run.
+3	1523086424	1	We are gonna look at NEX
+2	1523085872	1	I mean... Even TD Ameritrade has issues sometimes. Just be glad you have access to anything, especially this early on. 
+2	1523105456	1	Anyone interested needs to get fully accredited now and raise their limits. These are times to prepare and develop your base in case your plans do come true. 
+1	1523067321	4	Yes and that means everyone's SSN number is getting sent to the IRS along with all trades  and gains not reported.
+2	1523095206	7	Fine by me.As far as my Coinbase trades go, I listed them individually. I'm going to be honest, I had to start summarizing for Binance. I paid what I owed. If they want to audit me well that's fine. At least I won't owe more, unless they give me penalties. 
+2	1523072149	0	you gave your SSN to coinbase?
+3	1523073336	2	There's a past Reddit post about Coinbase needing the SSN. [Coinbase subreddit question asked](https://np.reddit.com/r/CoinBase/comments/7msabs/coinbase_asking_for_ssn/)
+0	1523059441	16	Meaning they have to report everything?
+1	1523086650	9	Yeah, if you were trying to make teachers and the police work for free for you then this will become more difficult.
+0	1523045874	65	True if huge. 
+1	1523049606	21	Right if massive.
+2	1523049765	19	Gigantic if sincere. 
+3	1523051402	12	Monstrous if correct. 
+4	1523052934	28	Penis if scam.
+5	1523053203	5	Semen if scum.
+6	1523057233	4	To be if not to be.
+7	1523058709	2	I just came from party, kiss me.
+4	1523052800	6	Colossal if factual.
+5	1523052957	16	Substantial if substantiated 
+5	1523053058	6	Horrifying if unfactual
+6	1523054843	7	Fuck a duck
+7	1523072612	2	666.
+8	1523084623	3	Damien if Doberman
+1	1523067971	6	long if erect
+1	1523078770	3	Indubidable If not dubious.
+1	1523114110	2	insert if spread
+1	1523058297	-7	I would love if the mods straight up banned meme comments
+2	1523058710	19	I would love it if they banned you.  
+3	1523060638	10	True if huge /s
+3	1523060204	2	LOL
+0	1523055038	54	I've never had issues with coinbase, ever. They have always answered back in timely manner, and I've had all my requests granted thus far. Happy for them
+1	1523087422	6	Same for me. I had only one issue where an ETH withdrawal stayed unconfirmed for over a week or so. So I wrote a detailed support request and got a generic copy pasta "did you try this 5 basic steps" answer. I felt mistreated, because obviously I'm much smarter then the average idiot using Coinbase and of course I needed personal assistance and not some generic mumbo jumbo. Needless to say, that I didn't read the copy pasta answer. I mean, it was basically a part of their FAQ, which I also didn't read, obviously.So I was writing my second, more angry support request when my girlfriend, who was dutifully reading the generic mumbo jumbo, piped up and said "Oh, here in point 3 it says that sometimes withdrawals have aren't processed properly in which case the funds get automatically transfered back to your coinbase account, even if you initially used GDAX".Aaaand of course I never checked my coinbase balances, and of course my ETH were there. So, yeah, lesson in humility. Also I still kind of believe that I'm not completely retarded (hopefully), so I wouldn't be surprised if 95% of their daily support requests are fairly stupid and unecessary (like mine). So, if we as users think their support system sucks, then we could probably improve it quite a bit by making sure we really need to open that ticket.
+1	1523070806	10	Same experience, I feel like I live in a crazy house with all the complaints.  Makes me wonder if maybe the complainers are actually under investigation of some sort, cause my emails to them are always questions of some sort.
+2	1523079461	4	Most of them make multiple tickets which keeps putting them to the back of the line. A lot are just repeating horror stories that never happened to them personally also. 
+3	1523086115	1	Just want to let you know...ive confirmed this with a lot of long time players in the game butthere are exchanges that advertise here by shilling their exchange whilst simultaneoualy fuddi g opposing exchages. I think its obvious to most what exchange im talking about...but the number of unnatural comments upvotes in every one of their threads since oct 2017...bittrex used to be the no 1 most popular exchange in the west and unlike them this exchange does wash trading.
+1	1523070146	-1	Found their PR account Edit: Apparently I need one of these.. "**/s**" 
+2	1523086854	1	A 6 year old account with mostly posts in counterstrike related subs? Yeah, if you think you found a Coinbase PR account then I found an idiot.
+0	1523055163	11	This is a no-brainer for them. They are going to be a monster huge business. 
+1	1523062232	-7	Not really. Crypto is so yesterday
+2	1523106630	1	what type of revolutionary tech is ‘today’ from your perspective?
+0	1523046750	37	Anybody got a non pay wall / sign in / mumbo jumbo crap version of this article?PRL can’t come fast enough.
+1	1523064868	0	this implies that companies will use PRL when this would require giving up revenue voluntarily, especially given that Ublock O will block PRL scripts anyway
+1	1523063219	-2	Get the "Make WSJ Great Again" plug in for Chrome. It's a lifesaver. 
+2	1523063947	5	I looked around and this doesn't appear to exist, are you sure that's the name?
+0	1523071794	8	Great,   everyone is going so far with crypto.  Its almost like they know for certain Crypto will recover
+0	1523054532	21	Coinbase should become reliable first
+1	1523072874	-2	This comment should be higher
+0	1523046808	8	It's pretty jank they're a US based company but they accept their payments internationally. 
+1	1523055520	3	I deposit with my US Bank account by ACH, which payments are you referring to?
+2	1523066485	4	Debit card transactions. Every purchase I have made with debit card i get hit by my bank with an international debit card fee which is like  3 bucks for a $150 purchase because there card processor is on Europe. 
+3	1523068347	1	Perhaps something specific to your bank?
+1	1523055999	4	European payments are going through a bank  based in Tallinn, Estonia (cryptos are nearly tax free there). Not sure if US Government is going to like that. 
+2	1523091502	1	Not for long. They have jumped in bed with barclays.
+3	1523096422	1	Which is great for us UK folk. Means we can transfer GBP directly.
+1	1523072625	1	No actual brokerage even lets you pay with a debit. Someone, either you or them, is paying a ~2% fee. Just use ACH.
+1	1523056254	-4	Wait. I'm currently working on my own exchange of sorts. Do you know why they are doing this?Right now I'm saving 1M to start a bank because of regulation
+0	1523046033	7	Wheres the price movement, why is the market still flat at 250 Bill. market cap?  These are questions people should be asking every time good news is released.  The front page is littered with what I believe are good news stories, for a few days now, mostly, and yet, prices are staying down.Does the general public just not care?  The question to ask is - what will make them and is that on the near horizon.Is it still too "hard" for the common person to get money into the crypto markets? The question to ask is - what will make it easier and is that on the near horizon.Is the U.S. government going to "crush / kill / stop etc..." crypto?  The question to ask is - what what does the current news say, what path does the government seem to be going down?
+1	1523049549	19	Honestly, most crypto subs are echo chambers. Like any subreddit. That’s just how it is on this bitch of a website.Things that give people hope or validate their views are upvoted.Bad news, even from reputable sources, gets downvotedGet your info from outside of Reddit if you don’t already, lol
+1	1523055423	5	This isn't major news, really.Of course Coinbase has been in talks with the SEC.  Most likely they've been in talks for a long time now.The big news will be once the talks are concluded and Coinbase is registered with the SEC.  That will give validation to Coinbase and to crypto in general.  It will appear to be, and hopefully actually will be to some extent, safer.  It won't reduce volatility, at least not right away.  But it will make investing in crypto seem like less of a scam to main street investors, and might make them more willing to jump on board.
+2	1523065535	5	...I mean, WSJ is pretty good at deciding what is news in the financial sector. This isn't some crypto blog. 
+3	1523072880	1	Fair enough. It's definitely something to keep an eye on. But right now, Coinbase talking to the SEC is a non-event. They aren't going to risk the $1bil+ a year they can make by not playing ball. It would be something else if Coinbase said they weren't going to consider registering with the SEC. 
+2	1523078090	2	No doubt
+1	1523054952	5	It's not too hard to get into crypto markets.  Crypto just still doesn't actually do anything useful.  
+2	1523055795	-9	I agree, but FunFair will change this
+3	1523056679	12	I have a hard time treating a casino/gambling coin as the pinnacle of "useful"..no matter how excellent the team or the code may potentially be.
+4	1523072258	2	I think you may be taking away the wrong point from /u/Crypto-Pittsburgh's comment. Not everyone will be directly affected by evolutions in Gambling tech, but FunFair stands out when talking about usefulness in crypto because the benefits of a trustless, permissionless blockchain and smart contracts translate perfectly to online gambling. It works well as an example of how blockchains may be useful to industries outside of the cryptocurrency sphere beyond simply the "blockchain" buzzword.
+5	1523087948	1	Here here!
+3	1523057731	8	I was really hoping this was brilliant sarcasm. Then I viewed your comment history.
+3	1523057521	1	lol
+1	1523050721	5	I’ve been going to a lot of crypto events and asking general people about crypto in nyc. The public is not educated, are scared, have no capital risk and people trust institutions like banks (no clue why). Some people are just so “dumb” they do not even want to understand the tech and still wanna hustle investors as a Blockchain ICO. People we need to start USING crypto and encourage/educating our local communities to do the same. We need to Have hard conversations/educate and support businesses that use crypto.
+1	1523064412	4	Why would a normal person buy crypto in 2018? To hope to sell it to someone at an higher price? LOLNeed real adoption, not more speculative gateways
+1	1523056185	1	Because fear has been instured in this market. Lately we also had a lot of fail rallies/bullflags coming from whales pump and dump manipulation, so people arent even trusting regular TA breakouts anymore, only breakdowns. It will take a long while (at least another month I think) for the market to be bullish again, but a bullrun like we've had in 2017 is essentially out of the question. There is such a thing as "too expensive to get in", so new money is not incentivized to jump in.Remember, psychology drives markets. In a consolidate bear market a FUD news will have a lot more effect than a bullish one.
+1	1523078047	1	Tax season is ending soonDoomsayers crushed by end of year 
+1	1523096625	1	>Does the general public just not care?  Yes. No one is talking about bitcoin anymore since so many people lost money. They don't need crypto anyway so why would they care?
+1	1523103230	1	If bad news didn't result in negative price action in a bull market, why would good news result in positive price action in a bear market? Remember when China 'banned' crypto in September and the market didn't seem to care? 
+1	1523048537	-4	The current slump is likely due to whale/s offloading a big amount of coins which the market basically eats up. Bitcoin dominance is likely increasing because altcoin holders move into Bitcoin due to the low price. I don't have proof but this is what I believe. The market will turn around as soon as the sell off stops. If it keeps dropping at these price levels it seems like whoever is selling really needs their fiat.
+0	1523059301	3	Come on world, WELCOME to the world of CRYPTOOO!!! 😏😂🤣
+0	1523069336	3	Watching governments try and regulate is funny.  They really don't understand how obsolete they've become. 
+1	1523083248	4	Omegalul
+1	1523100643	1	Cryptocurrency is not immune from regulation mate. 
+2	1523115065	1	Lol
+0	1523073312	1	Does mean that you would be able to import your transactions into TurboTax?  Most major brokerage companies let you do that.
+1	1523115505	1	That's up to TurboTax and Coinbase to implement not the SEC.The real news is Coinbase will now be filing all financial records on customers with the IRS if they were to comply with the SEC. Even if you bought BTC and sent it elsewhere, they would be handing over account numbers (addresses) and they can be traced.
+0	1523074647	1	Is it fast and free?  
+0	1523078989	1	If they do this what are the odds they’ll accept transfers from unregulated exchanges? I’m thinking 0 
+1	1523083179	2	Good. As it should be. Get rid of all the unregulated shit so things start to turn around for the better. 
+2	1523117070	1	How is that good? It sounds like you're in it simply for the money, "please oh please regulate so the guys with the big money can come in and shoot up the price so I'm rich".If every exchange becomes regulated you've essentially just given up all of your purchases and send history to the government because regulated exchanges require identifying (KYC laws, etc). I honestly am having a hard time formulating a response to this because its just so obvious to me, this is something REALLY bad if nonregulated exchanges get outlawed, you're giving power back to the intermediaries. We do not have many decentralized exchanges, if it doesn't happen soon the regulators may not be aware of such decentralized exchanges and outlaw them by accident. Remember, a decentralized exchange is just a computer program or web browser GUI that let's you trade coins with other people. Remember the end goal here is not to have to go to FIAT but to be able to pay for everything you want with crypto.Technology and Bitcoin are great but have you ever though what jf the government banned all crypt occurrences except for their own that they made? They could now follow exactly where and how much money you spend and what you are spending it on, something like tying your social security # with a master Bitcoin address they ALSO have the keys too and could lock or steal your money at any time. That can be seen now with credit or debit cards but its limited to banks and other companies and you can still use cash.
+0	1523085580	1	> "As a broker, Coinbase’s platform would only be allowed to offer tokens that comply with securities laws. That would mean token issuers would have to register their sale with the SEC, providing investors with an extensive set of financial disclosures. Token issuers can avoid those disclosures if they limit the sale to institutions and millionaires, but investors in such private sales aren’t immediately allowed to sell the investments."Probably why most tokens that trade now will never be listed on Coinbase
+0	1523085638	1	 What's the best alternative to coinbase to convert crypto to usd?
+1	1523096662	1	Kraken?
+0	1523086800	1	Its official, Im leaving coinbase... I mean congratulations 
+0	1523092785	1	this great project is the best. I've ever seen. I like it.You will get a higher marketing valu .
+0	1523093047	1	I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:- [/r/u_kevork22] [Good project by best team.](https://www.reddit.com/r/u_kevork22/comments/8agzk7/good_project_by_best_team/)&nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
+1	1523093048	1	If any brigades are found in the TotesMessenger x-post list above, report it to [the modmail](https://www.reddit.com/message/compose?to=%2Fr%2FCryptoCurrency).  Also please use our [vote tracking tool](https://www.reddit.com/r/CryptoCurrency/wiki/resources) to analyze the vote behavior on this post. If you find suspicious vote numbers in a short period of time, report it to [the modmail](https://www.reddit.com/message/compose?to=%2Fr%2FCryptoCurrency). Thank you in advance for your help.*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1523094022	1	Potential.
+0	1523097767	1	The need to become a regulated Brokerage if they want to add any erc20 as they are all Securites, in fact ETH is a security as well.
+0	1523098875	1	Is Coinbase publically traded?
+0	1523099669	1	cryptos are not securities - this would be an overreach.  would the SEC look to regulate EVE and WoW markets too?  the precedent is frightening for internet freedom
+1	1523117326	1	Yup, but nobody cares so long as they can make a quick buck. I honestly believes websites like coinmarketcap make it worth because it makes it look like an asset. It was also a huge mistake to have a Bitcoin logo.
+0	1523107900	1	all part of the boom and bust cycle... looking like the bust cycle is ending... Coinbase expansion is a good sign...https://coinsavage.com/blog/2018/03/emotional-state-cryptocurrency-market/
+0	1523115066	1	Annnnnnd it's gone. Your money is gone. 
+0	1523052617	0	Conbase again?
+0	1523045384	-8	Anyone bullish on this? 
+1	1523046723	10	... Bullish on what
+2	1523052269	1	Coinbase coin?
+3	1523083025	1	Coinbase IPO?!
+0	1523085286	0	Coinbase is a shining example of why the west will loose the race to become a leaders I. The crypto space. Whoever developes solid decentralized exchanges first will have a "yuge" headstart moving forward.
+0	1523101624	0	Looks like the Coinbase seed investor Garry Tan is interested in getting Nano listed? I know his long in Nano, but found no info on other coins he likes, except maybe ETH, but that's already listed. Anyone got anything?
+1	1523112343	2	You trying to start that rumour again?..
+0	1523106678	0	would this mean that XRP can be listed there? as they’ve got a lot of news surrounding whether or not XRP is technically a security?
+0	1523069829	-1	Meaning only the one percent will be allowed to trad e there.
+0	1523048756	-8	Ah man. Now I’m goin to have to report taxes :(
+1	1523051252	7	you already basically had to if you have Coinbase 
+2	1523056305	1	Who else can you use other than coinbase. Honestly asking.
+3	1523056339	5	I use Gemini 
+3	1523063057	2	Binance?
+3	1523062564	1	And Kraken
+1	1523064247	1	Tax dodger!
+0	1523076302	-1	And you guys are mad at Ripple working with banks...lmfao
+1	1523092451	1	Actually, that anger you see is just well reasoned logic. Expressed passionately, to people, groups of people, who are so biased in their views that they cannot see the logic in it. Like the fact that the masses literally cannot see that Ripple is NOT a decentralised token, though it markets itself as such. Some anger, then. Lotsa lotsa anger. 
+0	1523057507	-4	I added wsj to blocked content list, thanks to it's paid membership only program. no thanks. Also this listing is considered as SPAM for advertising towards their revenue. I happily down voted it. You're welcome.
+1	1523092520	1	Heaven forbid a company would try to charge money for its products. You don't know about that. You probably don't pay rent. You live off the crumbs in your fat girlfriend's beard. 
+2	1523100469	1	Wrong on all occasions, but I didn't expect any better. Have fun paying 1$ every week for millions of different online news content providers. You must be a milllionare like the rest of us.

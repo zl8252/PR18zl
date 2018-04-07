@@ -1,0 +1,122 @@
+File created at: 1523120429
+Subreddit: CryptoCurrency
+Submission title: In terms of Adoption this is where we at..
+Submission created utc: 1523040284
+Submission score: 454
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523042042	76	$6k then is like $20k today. Ouch!
+1	1523043955	90	Or $20k then is $6k now .. 
+2	1523045065	36	$6,000.00 in 1979 had the same buying power as $21,848.51 in 2018$20,000.00 in 1979 had the same buying power as $72,828.36 in 2018
+3	1523046782	76	I was referring to bitcoin being $20k then and at $6k now. 
+4	1523064822	1	What about a mining rig
+5	1523091497	4	My 1080 ti was 1000 6 months ago and is 1500 now. In 6 months it will be 500.
+5	1523101496	1	Hashrate >=10!!!
+6	1523101508	0	 > 10!!!10!!! = 280
+7	1523117377	1	Um actually. It's way way larger.2.14959198438682682209741666097410120125982574311717... × 10^12098to be precise.
+8	1523117845	1	Umm, actually its not.You're calculating ((10!)!)! I'm betting. Which isn't what I'm solving, 10!!!.
+9	1523118014	1	Then how do you envision 10!!!?
+4	1523054464	-29	Don't worry he doesn't have the mental capability to understand what you meant.
+5	1523058397	9	What is this “mental capacity” you speak of? Idgi
+3	1523048761	17	Joke - 1.  Your head - 0
+1	1523055391	1	Sounds alot like bitcoin, but in reverse.
+0	1523045389	122	And just like that computer, most cryptos will become obsolete 
+1	1523057592	25	Of course the main difference is that computer was already more useful than crypto is now. It's going to get there. But we shouldn't be surprised at low adoption rates when the valid uses are so limited.
+2	1523097579	4	Smart contracts are the bomb though, they're incredibly useful for business \- tracking inventory, verifying the origins of raw materials, multi\-party approval, invoicing, etc. Projects like Dragonchain and Unibright trying to make user\-friendly smart contract platform for business integration could be a big deal, and when the platform requires its own token to participate, buy smart contract templates, etc, the currency has a real us case.I'm not advocating those particular projects by the way, they could both fail completely for all I know \- I just mean projects with that general goal are a step in the right direction, blockchain business integration is useful and can require cryptocurrency to use.
+3	1523107663	1	I think all the talk of smart contracts is fluff for now. We are still far away from anything practical for companies today.
+4	1523110631	2	Unfortunately I agree, block-chain must get better at handling the 'real' world.  What point is there in a smart contract that says I will pay for my magazine (ahem) subscription when its delivered to my door, when all I have to do is just dispute its delivery?  You really think the postman is going to stand and argue with me over a Turing complete algorithm? S/he is going to give me the darn thing and piss off home early given the slightest chance.How are disputes handled?  Under what legal terms, in what system, under the jurisdiction of what courts?It can all be solved, the point is, most people are gawking at the tech, instead of figuring out how it will actually work.
+5	1523113241	1	This is exactly what I would like to see addressed, but nobody wants to think of this
+6	1523117664	1	CanYa Coin (not shilling here) addressed an approach to handle disputes over smart contracts in its white paper last winter. Essentially, additional crypto costs, proportional to contract value, are incurred for both parties to have a third-party human arbitrator review the validity of the controversy.Yes, it's not a fully automated system at that point, but it would narrow most complaints to people who really were wronged.
+1	1523048870	12	Well, IBM is still in business.. tho they moving now in different levels.
+2	1523071701	3	IBM is also actively using Stellar Lumens for their payments, and they're working with Central Banks. IBM kicked ass with computers, and they're doing the same with block chain. 
+3	1523110985	1	Yea I doubt they fail, they never got into that stupid "we too big to fall" mentality and they always keep developing stuff. I would say they have pretty good future..
+1	1523110764	2	That's the truth. We all know in 2030, dogecoin will be the international currency.
+1	1523070507	1	Consolidation is bound to happen. 
+1	1523081000	1	I can guarantee you that 80% of the parts that made up that computer were made by companies that are now much more relevant than back then. I mean, sure nobody knows who the reseller of that particular PC was but thats not important since back then resellers were highly localized while today it can be done by the manufacturers themselves or by international vendors. 
+2	1523081218	1	So it could be that the underlying "parts" of some decent coins will be relevant in the future as well, like eth or neo. Of course others could come along but its barely ever a single product/company that benefits from a tech innovation boom
+1	1523118113	1	The computer has not become obsolete, you just carry it everywhere with you now in your pocket 
+1	1523045870	-20	So TRON will make Ethereum obsolete, gotcha. 
+2	1523046205	15	Only if Justin can afford his hair stylist
+1	1523067209	-2	Good. LONG LIVE PCMR! Push aside, filthy mining scum!
+0	1523043012	8	I highly recommend everyone in this thread read Where Wizards Stay Up Late if this kind of thing is interesting to you. 
+1	1523087030	1	will suss tonight ,😁
+0	1523058830	16	Notice the name of the company selling the computer...IMSAI. Who's ever heard of them? No one! I say this just to point out that if we are still in the very early stages of blockchain, the ultimate winner in this race to become the number one crypto, probably hasn't even entered the space yet. For all we know, Ethereum could be our version of IMSAI. Don't assume the winner has already arrived...stay vigilant and keep learning/researching.
+1	1523097655	1	Really good point. I have a  problem with FOMO, it's important to stay long\-term focused when it comes to investment.
+0	1523045239	19	Do they have a webshop for online orders?
+1	1523066620	6	www.xvgMining.com/hardware
+1	1523046426	2	😂😂😂
+0	1523055962	15	You could probably mine Verge on that thing. 
+1	1523061227	43	You could probably hack Verge with that thing
+2	1523095875	2	You could probably verge into oncoming traffic with that thing.
+0	1523043504	23	This is like buying Tron at ATH
+1	1523106724	2	No its more like buying BTC at ATH, not knowing it will become obsolete and  replaced in the next decade.
+0	1523061683	5	The problem with all these adoption posts & curves is that all these items gets cheaper as time goes by while bitcoin becomes more expensive as time goes by. 
+1	1523062099	3	Bitcoin is a speculative asset, its price can fluctuate. Blockchain is the underlying tech. Blockchain will get cheaper to develop and operate over time. 
+1	1523085021	1	I thought of this too, but while the blockchain hardware and infrastructure becomes cheaper, the systems still have to run and the nodes (miners/stakers) have to get paid, so the coin price will appreciate as long as the consumer believes in the project (and that their coins/tokens will hold or increase in value).
+1	1523113914	1	These are also examples of things that get damaged and replaced by newer things over time, while Bitcoin keeps improving over time. 
+0	1523058054	5	Are you suggesting we should have invested in Imsai computers?  Just like Bitcoin?
+0	1523041006	5	28 amp power supply! BEEFY
+1	1523085914	1	WTF, on 120V power this could supply 3.4kW?!
+0	1523040569	9	You read it right all for $5995!
+1	1523042546	17	That's not bad for 1200lbs of equipment really.
+1	1523096823	2	FOMO is strong. Where can I buy
+0	1523046155	2	In terms of tech this is probably where we are atI think we are much further along in the adoption curve though - crypto was on ever major news outlet every day for nearly two straight months.
+1	1523052658	3	Computers were a big deal in the news since ENIAC in the late 1940s. However, it took a long time to make them available to the public in a way that the public could afford and understand. That's where I think the comparison comes in.
+0	1523057958	2	I had a similar IBM. 4 MHz, 10mb hard drive.
+1	1523098320	1	My first was an IBM PS/2 for 6000.- CHF :-D
+0	1523058892	2	Just about. BTC = $6500. Tps 7. Transaction fees are high when volume picks up. BTC is like the dos version of a crypto. 
+0	1523073226	2	It's totally worth it to upgrade to the 16bit processor for future proofing. I wish I could also afford the upgrade for that sweet sweet 86 key extended keyboard. 
+0	1523049757	3	And I used to think paying for my Compaq 2500$ in '97 was a ton of money. Mind you it had a ZIP drive. Which I never used
+1	1523050481	9	I remember zip drives. Now I feel old, thanks a lot
+2	1523052549	5	I do too. I remember loading tons of my files from 1.44MB 3.5 inch floppies onto 100MB Zip discs thinking "Storage can't get any better than this!"
+3	1523068196	3	Haha I had Zip disks I felt like one of the top 2% most richest and most intelligent people in the world I still do, but I did then too
+0	1523052637	3	But can it run Crysis 3?
+0	1523055402	2	So you're telling me to wait a few years and I'll get a better price? 
+0	1523058853	2	28 amp! 😱
+0	1523040284	1	If this submission was flaired inaccurately, [click here](https://www.reddit.com/r/CryptoCurrency/wiki/resources#wiki_flairing_content).*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1523041226	1	...I’ll take it.
+0	1523047601	1	10 MB of Hard drive? That's a lot!
+1	1523051748	6	Good enough to store 3 dickpicks
+2	1523058971	2	I lower the quality so I can hold more or do a collage on MS Paint
+3	1523084456	1	you collect dick pics and make collages?lol
+2	1523101178	1	😂😂😂
+0	1523051767	1	will have the same ROI as 98% of current cryptos
+0	1523052990	1	I wonder what its hash rate is?!
+0	1523055617	1	It is not a good comparison this ad is pretty far into the computer age. I think a picture of some average university in the 60's getting their first computer would be more accurate. I think if the mid 80's ad referenced email or something maybe it would work for me.
+0	1523057192	1	Hopefully the price for crypto‘s does not depreciate as fast as the price for computers did? Holy mackerel! 6 grand in the early eighties would be like 40 grand for a computer now.   
+0	1523057564	1	I don't know.  I think we might still be [here.](http://afflictor.com/wp-content/uploads/2010/01/FileAltair-Computer-Ad-August-1975.jpg.jpeg)
+0	1523058230	1	Nevermind the price tag... How about that 28 Amp power supply! How much did this thing cost to run? 
+0	1523058956	1	Bitcoin now only $5995! By Moore's law we should hit $2999 in just 2 years! Incredible!
+0	1523059160	1	Damn it. Paid 20k for a 2mb computer in January 
+0	1523062119	1	Cheap AF!
+0	1523062356	1	Disagree. We're definitely on the downslope
+0	1523063880	1	Correct. Bitcoins tech is there. 
+0	1523069031	1	[This is what the place look like in google map.](https://www.google.com/maps/place/910+81st+Ave,+Oakland,+CA+94621/@37.7521673,-122.1873922,3a,75y,175.75h,84.45t/data=!3m6!1e1!3m4!1sOSfrZlUzZQVyKYYT_OBGFg!2e0!7i13312!8i6656!4m5!3m4!1s0x808f85ed93b146d7:0x74f150d0d06ec98b!8m2!3d37.7513047!4d-122.1867997)
+0	1523070898	1	I kid you not, my office has 2 of these. A client just dropped them off cause he didn't want them and had no idea what they were worth.  They both turned on just fine.
+0	1523078163	1	Would hate to be invested in that today
+0	1523078984	1	I want to know what was on the extra 24 keys on the ASCII Extended Keyboard!
+0	1523081106	1	So u say prices will go down?
+0	1523082832	1	This post is a perfect analogy for the shortsightedness of this community. IMSAI is out of business now. We may be in early adoption of the tech but that doesn’t necessarily mean any of the crypto currencies out there currently will still be around and/or valuable when the tech becomes more widely adopted. 
+0	1523084718	1	It's so strange to have a 10Mb something-or-other.
+0	1523085361	1	If you daisy chained enough of those 16bit micro processors, you can mine.  Also dot matrix printers are still used today lol
+0	1523087201	1	Ironically its probably worth even more today beacuse of collector value.
+0	1523092568	1	So are many other things that may never get mass adoption.
+0	1523093055	1	I’ll take 2!
+1	1523093062	0	 > 2!2! = 2
+0	1523093083	1	There is an INFINITE SUPPLY of hard drives, processors, and memories. That's why the price goes DOWN over time.There is a STRICT LIMITED SUPPLY of Bitcoins. That's why its price can only go UP.Building a computer is like pumping salted water from the ocean. You'll never run out of it.Extracting Bitcoin is more difficult than extracting gold. And we may very well find a new abundant source of gold, bringing its price down. But we'll never find an easy source of Bitcoins.Don't try to compare apples, peers, and pizzas.
+0	1523101728	1	A 28 amp power supply sounds much more impressive than 350W (assuming 12V line), gotta give it to them.
+0	1523103273	1	Omg I'm so sick of these memes. Someone needs to come up with one showing all the "next big thing" type technologies and products and platforms that never made it. It's not just inevitable that Bitcoin will be as big as automobiles or the internet. There are a ton of obstacles to overcome and I'm rooting for it to happen but let's just cool it with the Kool aid. 
+0	1523105453	1	This is where you wish we were
+0	1523110096	1	Comparing hardware innovation + adoption to software probably doesn't work too well.
+0	1523115408	1	Prices go down as the technology gets better?
+0	1523043867	1	What a beast! 10meg
+1	1523059155	5	I used 10MB just to write this response.
+0	1523052553	1	When 1 TB SSD?
+0	1523056045	1	Bitcoin Cash — the New 8 Megabyte Blockchain! Only $600!
+0	1523058274	1	Now we don't even Hard Disk, we only Hard Fork.
+0	1523060642	1	Hmmm. That means... google, dell, a lot of stocks that blew up later don't exist yet.So we have to still invest in new ICOS is what you're telling me. Some of the yet to be discovered/create coins will make it big! 
+0	1523051890	-1	Tronn!!!! Justin son new vision of Satoshi!!!
+0	1523051327	0	Shitty and expensive
+0	1523058547	0	You can easily build a $6000 system today as well. 
+1	1523102060	0	What system would that be, if you only spent the $6k on actual hardware and not gold-plated watercoolers? I'm not sure this price tag is possible for a reasonable top of the line desktop PC.Also keep the inflation in mind — 6k in 1980 is roughly equivalent to 20k today.
+2	1523119167	1	Threadripper 1950x, 64 GB of ram, Titan V, big SSD, big monitor... Hell, you can even get one more expensive than that from Dell; alienware-area51-r5 for example. 20k is also possible.You're not trying very hard if you can't put together a system that expensive. The one in the ad is extremely high end for 1980.

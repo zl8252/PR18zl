@@ -1,0 +1,65 @@
+File created at: 1523120396
+Subreddit: btc
+Submission title: May upgrade is about sending the market the same signal that bitcoin sent 9 years ago:"We are ready. We have revolutionary technology that you can use and that is reliable because we are years ahead of the current demand. Businesses and users, join us and let's all improve our lives with free trade"
+Submission created utc: 1523039670
+Submission score: 420
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523042824	22	You go girl! 
+0	1523041264	14	Is it true there's no test net for the upgrade?
+1	1523054205	18	There is currently a testnet setup and running.Currently the testnet is available for the different implementations to test but that it will be made available for the rest of the ecosystem before long
+1	1523041913	28	I don't know but from what I read from the ABC release, they just changed a variable (blocksize) and de-commented some code that was working already previously and already had extensive testing. As awesome as it is from an economical level because of the message it sends and what it allows to build, this seems to me like almost a non-event from a developer standpoint. (not trying to dismiss the work devs are doing, it's great, but they are not doing overly complicated stuff on mainnet for now, which is fine)
+2	1523052542	6	And that is fine to be honest. Not every upgrade has to be some a revolutionary paradigm shifting event. Just improving what is there such as fixing bugs and refactoring is just as important. The May update is just setting the table for more advanced updates in November by simply re-enabling  useful opcodes that were always there, and restoring BCH back to how BTC was in the beginning which should be dirt simple. If anything it isn't really an *upgrade* for the most part, its a further *rollback* of bad changes made by the Core developers.
+2	1523045610	6	r/cryptocurrency mocks it for not being in test net.
+3	1523046166	30	And they're right to. Even if something is expected to have zero issues, it's still much preferable to confirm the fact before throwing it into the wild.
+4	1523050055	11	Without testnet, there's no good way to test for cross-compatibility issues between implementations. With just 5 weeks lead time, that's not good at all.
+5	1523064525	1	The change is so minor that any cross-compatibility issue would indicate _extreme fault_ in the implementation, and that implementation should probably be discarded anyway.It takes some pretty hackish code to break on a change like this.
+6	1523078247	6	> The change is so minorReally?>There are also several Bitcoin script operation codes (op codes) being added or reactivated.  These include OP_CAT, OP_AND, OP_OR, OP_XOR, OP_DIV, OP_MOD, OP_SPLIT, OP_NUM2BIN, and OP_BIN2NUM.  Finally, the OP_RETURN data carrier size increases to 220 bytes.I'd say changes to the scripting language are anything but minor.
+3	1523053125	2	That subreddit has reasons to mock BCH other than "muh testnet!" Don't listen to them.
+3	1523054003	1	link?
+1	1523054043	6	No this is not true
+1	1523053687	7	IT Works On My Machine!!!!!!!!!!!!!
+0	1523054426	3	What upgrade?
+1	1523055074	17	Blocksize increase to 32mb
+2	1523079873	3	But what's the point if current block size is nowhere near full capacity?
+3	1523079967	6	ask December again...
+4	1523084819	2	1.15MB?https://bitinfocharts.com/comparison/bitcoin%20cash-size.html
+5	1523091667	1	well, i expected December being bigger than January. sorry for my missinformation. still bch had already over 4mb. so this is just preparation for the future
+5	1523109552	1	'average'
+3	1523111977	2	sends a signal of 'yes - you can come and build whatever you want, don't worry about volume' 
+3	1523087370	0	To make illusion of progress. It’s been almost a year since the fork and all the most decentralized multi team development effort managed to do is change the same variable once more, uncomment some code and copy bech32 implementation. Congrats. No wonder the hashrate is steadily in downtrend.Edit: autocorrect
+4	1523093800	3	The Hashrate is a reflection on the price, and the price is mostly a reflection on short and long term price speculation, which is driven by news and rumors about current events.Bitcoin Cash went from 0.1 BTC to 0.2 suddenly the Coinbase listing was announced, then it went gradually back to where it was before the news.It is arguable that price rushes like the one in 2017 is bad news for Bitcoin (and Bitcoin Cash) being used as stateless money.
+5	1523102164	1	There is a feedback loop between hashrate and price, that's for sure, but i'm not so certain which direction is more influential. An argument can be made that price reflects the hashrate more than the other way around, because hashrate is the metric of chain security.
+4	1523108504	1	Not true. There are also new op codes and fixes. 
+1	1523064662	9	This is a scheduled upgrade, the first truly big one, that's been in planning for more than six months. BCH will fork every six months, this one will bring back a lot of things Core had stripped out of BTC. This will probably be the most important fork we do.
+2	1523064860	2	Will the price go up again? I would like for that. Basically, the price of bitcoin seems to have been based on the amount of buzz it got in the media.
+3	1523068932	3	No it's not true that news drove price, rather price drove news.As proof, there was an entire cryptocurrency created because of what you just said, and they optimized themselves to drive news. It was dogecoin.That didn't work out for them.The price will go up once utility increases and begins being used for real.The hard fork will add significant utility. It will still take 6 months or more for use to kick in.
+4	1523071397	5	My friend literally bought a lambo with his dogecoin earnings from his first night mining it. If you mined millions the first night, and held on for just a little while, you made off like a criminal.That said, it was a pure pump&dump play from the beginning. It just got way bigger than most people expected.
+5	1523082280	2	Built on sand though.
+0	1523082202	2	IOW, last chance to convert your BTC to BCH at 1:10+ valuations, something we have not seen since the early days of BCH.
+0	1523075535	1	What are the most scalable coins?
+1	1523079946	2	https://pbs.twimg.com/media/DVDT46zXcAYQ0cM.jpg
+2	1523082686	5	Here's how BCH can do 500 billion+ transactions a day.I'm not sold on proof of stake systems like XRB, and Ripple isn't a cryptocurrency at all.http://blog.vermorel.com/journal/2017/12/17/terabyte-blocks-for-bitcoin-cash.html
+3	1523088607	1	Interesting, not possible yet but maybe one day
+4	1523090254	2	Well the point of that piece is that it's all possible on present and existing hardware. In fact in his recent talk at Satoshi's Vision Conference, he re-examined all the assumptions in here and came up with a completely different improved figure that was, iirc, 20 times less than he assumed in this paper, showing it's even a more reasonable proposition than he initially assumed.So, no new tech needs to be developed to do this, it's available now. That's key in a world where BTC has based its entire value proposition on 2nd layer solutions that thus far don't exist in anything like finished form.
+4	1523108881	1	It is actually possible now, if the SW part is taken care of.The HW is available and actually not so cheap.The biggest problem is to fill a 1 TB block.But 0.04 $/KB is enough for 40M$/block. Enough to buy transoceanic optical cable dedicated to transmitting tx and blocks with just 1% of their capacity. The 99% left can be used for low priority stuff like cat's photos
+0	1523057973	-17	dogecoin was ready years ago, building excess capacity won't attract adoption... expect to keep waiting while BCC continues to capitulate in price against BTC
+1	1523059258	13	Whats keeping your from going all in n dogecoin and btc? Are you posting here for affirmation or permission? Just do it.
+2	1523059774	-7	the point is , we already have many altcoins with tons of capacity. adding large block limits doesn't do anything to attract usage as we see from bcash right now where most blocks are under 100kB ... so no , I have no interest in bcash or dogecoin
+3	1523064570	14	Oh you have plenty of interest that's why we keep making you come back here.
+3	1523066911	10	I see 10 comments a week by your on 'bcash' - seems like you have a lot of time to spend on stuff you are not interested in.
+4	1523081222	6	He's either employed by the government or Blockstream to do this.
+5	1523117882	1	One is likely covertly funding the other. 
+3	1523062408	13	We still doing the 'bcash' thing?
+4	1523063054	0	Who cares what it's called it's still about 100kb per block and no adoption, the truth is the market is saturated with coins that do the exact same thing. 
+5	1523081453	5	The idea is to never actually hit the limit so that 0-conf transactions are secure. Raising the limit once blocks are full is too late.
+6	1523090403	1	It's unlikely that 32mb will ever be hit, or even 16mb, there's not much adoption of crypto and there's 100 coins to choose from for the few people that want to use it. 
+7	1523091157	4	"640kb of ram should be enough for everyone", Bill Gates.
+8	1523111743	1	There are already several megabytes of transactions being recorded every 10 minutes in blockchains around the world, but only 100kb of them on the bitcoin cash blockchain. The problem has been parallelized. I simply don't see adoption of bitcoin cash growing 160 or 320-fold in the future. This is not to advocate for small blocks, set the limit as high as you want, it won't increase adoption. 
+5	1523066867	2	Yeah...I went to a coffee shop to spend some Bitcoin Cash, but they were already taking some Waves, so yeah, BCH is dead at the gate. /s
+6	1523090500	1	I'm not saying it's dead I'm saying it will never ever be popular enough to need 32mb blocks. That's like 16x more popular than the December bubble. 
+1	1523081158	3	Yeah, even Dogecoin is better than Bitcoin Core
+0	1523059133	-20	Will transaction fees still be $20+?
+1	1523059989	15	They never were that high in BCH.
+2	1523077203	2	He's probably confused because this is r/BTC and the post doesn't indicate BCH anywhere, if I had to guess
+1	1523074010	1	Yeah. in Monopoly money

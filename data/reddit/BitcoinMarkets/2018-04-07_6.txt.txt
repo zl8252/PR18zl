@@ -1,0 +1,8 @@
+File created at: 1523120453
+Subreddit: BitcoinMarkets
+Submission title: Share Tradingview account w friends
+Submission created utc: 1523040306
+Submission score: 0
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523068741	1	With disregard for TOS violation, why not? A feature of Pro is specifically running one account simultaneously from multiple IPs. Probably intended for home/work/phone but......

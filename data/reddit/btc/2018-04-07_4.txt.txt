@@ -1,0 +1,44 @@
+File created at: 1523120399
+Subreddit: btc
+Submission title: Ryan X. Charles (CEO Yours.org) "We are going to make it possible for you to use one-touch micro-payments anywhere on the internet!"
+Submission created utc: 1523036561
+Submission score: 202
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523036592	31	> "We want our business to be global and we want BCH to be global. We are going to create value for everyone in the world by making it possible for people to achieve freedom for themselves."
+1	1523039883	17	Beautiful!
+0	1523046384	12	Most people do not care about economic freedom or any of the big picture stuff. It's a sad reality, but it is the reality we live in. BCH or any crypto will gain adoption by ease of use. The easier it is for people to use a crypto, the more likely it gains adoption. People indifferent to crypto are not going to set up LN nodes in order to use money. It needs to be just as easy as using a credit card or cash. 
+0	1523053919	13	Glad you all are interested in this :) If you would like to help, we are looking for a front-end engineer (react.js). Please contact us: jobs@yours.org
+0	1523038637	28	@ 11:25 mark...> One of our top requests is... we get this request from publishers, creators that own their own platform. We really like what you are doing but look, we have a business, our own website.com etc... **We just cant put our content on your platform. But we would love to integrate your micro-payment system into our existing platform!** So this is something we get a lot. And **we started working on this where we are going to make it possible to use one-touch micro-payments anywhere on the internet!**
+1	1523067800	7	Holy cow, that's exciting. BCH is where it's at.
+0	1523039679	17	What would make my life instantly a million times better would be when soundcloud integrates yours technology in to their platform.  
+1	1523039952	10	SoundCloud, bandcamp.. I would love that!
+0	1523036997	30	This is exactly what is needed. Use-cases and making adoption easier and easier. BCH is doing it! This is the recipe for success that BTC used to have before it made the wrong decisions to stop adoption and stop scaling.
+0	1523037191	16	> one-touch micro-payments anywhere on the internet!Yes!  Yes!  Yes!I can't watch the video right now but I really hope he means he's going to transform yours.org from a single website into a platform as described in one of the best architecture/business blog posts I've ever seen: https://plus.google.com/+RipRowan/posts/eVeouesvaVX
+1	1523044928	4	Yes, that's what it seems like. He said content producers have contacted him to integrate one click tipping on their own site.> He micro-manages every single pixel of Amazon's retail site.Now I know why the amazon site's soul feels like is stuck in the early 2000's.
+0	1523057967	5	This whole video was a pleasant listen.I'd like to highlight at 2:53; how they started on Bitcoin (BTC), switched to Litecoin and then came back to Bitcoin (BCH). Also at 3:41 and 5:34; how 1.5 years were spent on developing a second layer tech similar to Lightning Network but they still ended up dropping it when BCH came around.*bitcoin.com need to get a better audio setup however, the bass was way up in this video and there are issues with their previous videos as well. Nothing kills videos faster than poor audio, especially for interviews. Improve both recording devices and pad the room walls. Get a backup non-camera audio recorder in the room as well, good to have in case your primary recording source turns poor in one spot (due to someone bumping a nearby table for example).*
+1	1523066801	2	/u/memorydealers
+0	1523061769	2	Looking forward to one-touch payments.Audio is a bit blurry. Perhaps need better microphones.
+0	1523063978	2	Two touches... first touch is click the button.... second touch is to my crotch area from the excitement of having lightning fast payments directly on the blockchain without any of that lightning network crap.
+0	1523097108	2	You might not understand how big this is. You are on the right track, Ryan.
+0	1523036938	3	uh oh, looks like a fraudulent company led by a conman who doesn't contribute is contributing funding and research:https://www.prnewswire.com/news-releases/yoursorg-bitcoin-based-social-network-raises-15m-in-funding-round-led-by-bitmain-nchain-300585889.html/s
+1	1523039119	10	thanks for reminding me about this investment by BitMain/Jihan Wu & nChain/Jimmy Nguyen into [Yours.org](https://www.yours.org/)! I had forgot!Those bastards!!!             /s
+2	1523039853	3	We all know that after God created all of mankind it was the devil who secretly deep down in the earth crafted the chinese miners together and now has brought them up from the abyss to take over the ground floor of the planet. Right? 
+3	1523047716	3	China miners = Literally Hitler
+0	1523046968	2	Time to boycott the internet i guess /s
+0	1523063045	1	very very cool
+0	1523047988	1	Omg, a thread that's CSW-free.
+1	1523059135	2	Oxymoronic post?
+1	1523048466	1	Give it time. 
+2	1523048616	0	We already messed it up, didn't we?
+3	1523048657	0	Let's down vote ourselves. Quick! 😂
+4	1523048940	0	Before CSWthulhu comes and it's too late.
+1	1523049996	0	Missed my post apparently ;)
+0	1523055987	1	When will yours work on Edge?
+0	1523060269	1	A pretty damning example of payment channels being both unintuitive to users, and impractical on fee-market altcoins like Bitcoin Core.
+0	1523048556	0	That's very dangerous. I sometimes just click around pages for now reason. If, like Yours, there's no confirmation I'll get broke very quickly. Not fun! 
+1	1523059234	3	Perhaps you just shouldn't 'click around pages for no reason' then?  Perhaps just steer clear of Yours if you can't trust yourself.
+1	1523051470	2	Keep a separate wallet for one click transactions and don't put more money than you can afford to lose in it.  Kind of like I put 80+% of my income in a checking account but I don't fucking leave it there lmao
+2	1523053077	0	That might be a little complicated if it uses the same account as what you're logged with on Yours
+0	1523051725	0	I just wish that someone would see that for rapid/extensive adoption of crypto (BCH i hope, but others as well) there is a high need to give economic incentives to vendors AS WELL as buyers to use crypto. The fees for both categories must be minimum possible (such as the integrator turns a profit as well). To date nobody did this to my knowledge.
+0	1523051912	0	This will fuck us if Net Neutrality gets fully appealed

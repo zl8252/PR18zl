@@ -1,0 +1,123 @@
+File created at: 1523120391
+Subreddit: Bitcoin
+Submission title: Elizabeth Stark, CEO of Lightning Labs, on Yahoo Finance: We're in a bitcoin, not blockchain world
+Submission created utc: 1523035133
+Submission score: 494
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523038172	113	She's a good representative for Bitcoin.Also, much respect for throwing in that "hodl" is not an acronym, just a funny misspelling.
+1	1523041202	36	> She's a good representative for Bitcoin.I agree. She's very calm and articulate - makes it easy for newbies to understand and urge them into digging deeper and doing their own research.
+1	1523039155	41	Seriously, we could not have asked for a better rep for the first major L2 implementation. 
+1	1523044243	23	She’s great! To level up her on-camera presence game one more notch, she just need to learn to not talk so damn fast on camera...
+2	1523045958	25	I like the way she talks on camera, the enthusiasm shines through
+3	1523083434	1	This was a great interview, no doubt.I’d good practice to open a topic with a ELI5 , and the proceed to the excited ‘Lightning talk’. The hodl and crytokittes was definitely good. Very ‘customer focused’. The Lightning Network needs a more obtainable analogy. 2 layer doesn’t cut it. This speed of delivery was about perfect. It feels the Lightning haha. I might try:Lightning is like a Credit Card Professor for the Bank of Bitcoin, it facilitates small purchases instantly with a stable penny fee.The power source for Lightning is Bitcoins. One charges a “channel” with Bitcoins. One token used for both, Bitcoin. It’s a functionality improvement, like cars that fly.
+2	1523048349	17	I've noticed Elizabeth getting better over time. In her previous interviews it seemed like she was reciting answers from memory. Here she seemed very natural and conversational.
+1	1523066500	2	Makes Samson look like a child. Although even Roger did that.
+2	1523098488	2	What's the baby mortality rate if BCH not adopted?
+3	1523115899	1	Over 9000.
+1	1523057140	-1	>Also, much respect for throwing in that "hodl" is not an acronym, just a funny misspelling.I still don't understand why this is such a big deal to people. Regardless of the fact that it started as just a funny misspelling (all the more reason why it shouldn't bother people as much as it seems to). The acronym some people have used it for carries the same overall idea of holding onto your coins (whether it's to support the tech or keep your investment, end result is the same). So why do people get so in a tizzy about how it started when the overall idea is the same? Not trying to start shit, it just really seems like such a trivial thing that people get really bothered by when there's way more important things going on.
+2	1523060010	7	I don't know, I guess it's just that a lot of people here are "technical" types and interested in knowing the true meaning of things, and having accurate knowledge.  This one is certainly trivial but I know it makes me cringe a little bit when something is described in a way that is "technically" wrong.
+2	1523059058	10	¯\_(ツ)_/¯Maybe because it shows you are an "insider." Knowing the true story behind it means you've been around the sub before it got super hyped up. Guessing here...
+3	1523059603	2	That makes sense. I figured it was basically that "I was in crypto before it was cool" mentality, but i was hoping it was something deeper haha.
+4	1523062509	1	I can't think of anything deeper than that. LOL. But maybe I'm missing something, too. 
+5	1523076224	0	i'd like to add that there is no agreement on how it is pronounced.  
+6	1523076967	1	In my mind, it does sound different. Not sure how I would vocalize it.
+4	1523080239	1	HipsterCoin
+2	1523067196	2	For me it's because people argue over what the 'acronym' means, some of the acronyms seem like they are meant as semi-serious advice. Also some people point at HODL like it's some serious flaw in the way pro-bitcoin people think. Once you know the truth and the humor behind it, you are liberated to enjoy the acronyms in the same light heart as the original meme. They can be enjoyed in their own without any serious weight. HODL differentiates day trayders from well, HODLers. We can say day trading is not for us, that we can't thrive in that space like some others seem to, and we can say it in a one word joke.
+2	1523082629	2	Then why even bring it up?
+3	1523082684	1	I didn't. The commenter i quoted did, and they did so because Elizabeth Stark brought it up. I see it all the time here on the sub and other places, so i wanted to ask why it's a big deal.
+2	1523082751	1	There's likely a minor correlation of superior crypto knowledge for those who know that hodl is just a misspelling, vs those who think it's an acronym. My main reasoning being, why even research such a trivial thing in the first place unless you research every inconsequential to major topic you encounter?   If you thought hodl was an acronym, you either didn't look it up, or researched poorly.  Only half serious.
+3	1523083966	2	Definitely. I guess it just doesn't make sense to me why something so trivial isn't allowed to take on a life of it's own or evolve to be able to equally correlate to both meanings. In most other communities about anything, little in-jokes or memes change over time or take on added contexts and that's pretty normal, but for some reason people want hodl to only be the thing it originally was and are really against it taking on an added context. It's just really strange. If it was a Bitcoin tech term that actually referred to something that does have a definitive definition, i'd totally get it.
+0	1523047468	16	Minor question: what‘s the business model of that company?
+1	1523051002	5	Tag for interest,Maybe tech support like Ubuntu?
+2	1523094514	1	Most likely this. If Bitcoin gets really big you can bet your ass all major store chains are going to want their own Lightning nodes, and for them it's easier to hire an external company to set everything up and maintain it than to hire knowledgeable people to do it in house. A lot of companies in IT work this way.
+1	1523078379	5	Stripe for Bitcoin.
+1	1523051988	7	They have yet to disclose this but all their technology is open and plans to remain open from what Ive heard.Rumour is they might also be innovating some exciting unseen tech that builds on top of a lightning network so guess they could license this to make money.  Alternatively they may simply purchase bitcoin and by making btc more useful and more people using it the value appreciates which seems a reasonable business model for early innovators.
+2	1523066759	9	Probably either selling support service or more likely, develop a plug and play user friendly version to sell to commercial outfits. Just my guess
+1	1523061620	2	Casual reply: maybe their business model is just to focus on making Bitcoin awesome to increase the value of all their holdings?
+1	1523094007	1	hodl and make the price rise /s
+1	1523116591	1	They will be selling crypto debit cards that use the LN network. Bitcoin, Litecoin, Digibyte, etc...
+0	1523053813	22	~~lord~~ lady of thunder ⚡! this is exactly the kind of bullish media attention bitcoin and lightning needs.
+0	1523054378	6	Nice to see this kind of intelligent coverage. Clear, concise explanation with enthusiasm and humor. We should have more like this representing bitcoin to laypeople.
+0	1523056626	5	She even talks as fast as lightning 
+0	1523057370	3	Great job ! Clear and concise. Great charisma and charm, come across very well. I think ES took them by surprise. Edit: It would be great if the Team (I know they’re a little busy right now) could do an AMA as it would be interesting to hear their backgrounds, what got them involved and how they see the space developing. 
+0	1523061091	7	Love her point of view. Nice representative of the crypto world!
+0	1523053842	9	I like her a lot. This was a fantastic snippet.  Looking forward to each and every development!
+0	1523052175	8	She really need her to do more public speaking - she is excellent!!!People like her, Lee, and Andreas need to make the circuits more often.
+0	1523059684	3	As a non english speaker... so what‘s the rule from switching from normal speak to upspeak and back again?(Edit: btw I think Elizabeth is a huge asset to bitcoin)
+1	1523061771	3	What do you mean upspeak?
+2	1523062618	3	It’s when you end every sentence up here like thiiiiiis and then say some more stuff and end it like thiiiiis and then keep going another time because why not and say thiiiiis. upspeak
+3	1523063774	6	I dunno why but this made me lol.  
+4	1523064222	3	glad you understood what I was going for ha 
+3	1523068229	3	Aha, well i was thinking more about ending non-question sentences in a high pitch like it's a question.
+4	1523081764	0	It’s effectively saying :“I don’t expect you to get this, but may I keep going?”Or“Do I have permission to continue without waiting for you to catch up?”Like “The Lightning Nodes use X 135 flux capacitors, in the mainframe of the auxiliary port twwwoooo thirrtty fivvve.”So as opposed to ‘wanting them to ask about the flux capacitors’ you are saying ‘don’t ask about this cause I am about to say something crazier next’.
+5	1523081940	2	I don't think it says that at all.  It's just a speech style/habit that some people tend to have.
+5	1523088476	1	Ok thanks, that actually makes sense
+1	1523077230	3	There's no rule, it's just a speaking style some people engage in. I've noticed it more in Australia and on the west coast USA 
+1	1523116774	1	Up speak is just a different form of people using the word "umm" and "Like". Like, ummm... When people talk like thiiiiis is like, because, ummm, they are trying to figure out, ummm, like the next thing to sayyy.
+0	1523037882	14	> oh Elizabeth  > you are the light^^(ning) of our ^^(crypto) life,  > the fire of our ^^(bit) coins.  
+1	1523116938	1	And the desire of our ^^Loins
+1	1523055705	-2	be a good baby do what I want
+0	1523057386	9	Yes - finally someone said it. All this 'blockchain' talk, I believe is a conspiracy to try to detract from Bitcoin. It is an attempt by the Fed to co-opt the Bitcoin movement and make it it's own, by making their own blockchains and constantly talking about 'blockchain' and not Bitcoin. Go  Elizabeth Stark ! Nice one! ;-)
+1	1523093908	1	it's not a conspiracy, it's a strategy. And also they can't make money of implementing bitcoin, but they probably hope they can by applying blockchain. 
+0	1523056647	3	She's the best :)
+0	1523043892	4	👏
+0	1523036825	10	Date?
+1	1523037094	39	Nah, I think she's married.
+2	1523037355	13	D'oh. But do you know when it was aired?
+3	1523037777	68	You guys crack me up.(1) I'm not married. 😂(2) The interview was aired live this Tuesday April 3.
+4	1523053886	19	>(1) I'm not married. 😂M’Lightning
+5	1523072860	4	You should have gotten more love for this
+4	1523038345	30	>(1) I'm not married.So...How you doin'?:)
+4	1523068857	6	Reddit comments be damned... You are super cool and I really love watching you and the LL team represent this space.Also really cool how you are empowering the lnd devs to be vocal in the work they do. All eyes are on you (pl) no pressure!
+4	1523038091	4	Thanks. Good luck on your testing and I heard that the CEO of Yahoo is a woman also so more power to you all. 
+5	1523053219	3	Oh boy did you hear that Elizabeth? You are a woman!Dude are you serious? Pointing out women who are also in business to try and compare them based solely on being women is ridiculous. 
+6	1523056332	3	Did you even watch the video? Specifically the last section?
+6	1523057300	2	Good thing you rode in on your white horse to defend her from such a vicious attack. That was close!
+4	1523039844	1	Sounds like you are almost too dedicated to the project haha. In all seriousness, congrats!
+4	1523046180	-3	Well hello there, m'lady.
+4	1523051240	-8	You can interrogate my private digital protocols anytime :)
+3	1523037429	8	Oh, no. I have nothing of value to add to the conversation whatsoever. I just can't pass up a good dad joke when I see one.
+3	1523037838	6	The story went up yesterday.https://finance.yahoo.com/news/lightning-labs-ceo-back-bitcoin-not-blockchain-world-180021768.html
+4	1523037939	14	Yup but the video was geofenced and not available to non-US IP addresses. This one is available anywhere. :)
+5	1523039252	7	Elizabeth, I haven't had time to setup and play with LN yet, but I just wanted to say congratulations for all the hard work you have/are doing for the BTC community as a whole.  send me your address and I'll tip you a beer!  cheers!
+5	1523100902	1	Don't ever give up. No matter what. 
+4	1523050725	1	And?
+2	1523037185	3	Lmao
+0	1523047245	7	Great job Elizabeth!
+0	1523053870	2	Mentioning ice cream on the blockchain woah eyyyyy we out here
+1	1523057519	1	Lol!
+0	1523068184	2	Great interview. She has gotten SO MUCH BETTER in front of the camera.Also props to the hosts, they seem to kind of understand a little bit about the industry and asked just the right questions to then let Elizabeth take the stage.
+0	1523084616	2	Goddess of Thunder.
+0	1523092841	2	Elizabeth the hero crypto space needs, but the hero it doesn't deserve.
+0	1523058016	1	Idiots in r/ethtrader, r/cryptocurrency, and here too tbh, don't understand that blockchain is about application, not "tech".... this is open source software, any "tech" can be copy/pasted or done through added layers, but everything comes with a tradeoff. A blockchain makes it possible for us to have an entirely new asset class like gold, that is completely independent of any authority or organization, that can be sent anywhere in the world directly between two parties without either of them requiring to trust each other or anyone else. You gotta be a fucking idiot if you don't see how valuable that is. It gives people a financial freedom in ways that was never possible before, because with bitcoin's governance and security, you can trust that your money is safe and no one can ever take it away from you (ie- DAO from eth). You can argue not everything NEEDS to be as decentralized as Bitcoin because decentralization is not always efficient. But sound money/digital gold/store of value/pocket swiss bank account/financial sovereignty DOES and there’s nothing like Bitcoin. As far as I'm concerned, until today Bitcoin IS the best application of blockchain. We have 10 years of history of how effective and resilient the Bitcoin blockchain is. The other shit has yet to prove themselves, the MASTER Satoshi himself who gave us "block chain tech" used Bitcoin as the official application, digital gold that's also cash that can be sent anywhere peer-to-peer. LMAO at the dumb fucks who think any shitcoin with a "block chain" - like Tron, XRP, 90% of the top 100 - gets all the properties of an evolved blockchain that's true to its nature like Bitcoin's. 
+0	1523046098	3	Blockchain is a very shitty database. Blockchain only works when its bitcoin. Here me out: Let's say you want to store property deed on blockchain. But who's going to add to the blockchain? Who's gonna mine that blockchain? And why would they? What reward is there? Blockchain only works in context of bitcoin. Bitcoin works only on context of bitcoin. So we are living bitcoin world. Not blockchain world. 
+1	1523052831	6	Well, explain Ethereum then 
+2	1523085846	2	It's a scam. Simple as that really.
+3	1523110306	1	How so?
+4	1523117235	1	Besides cryptokitties, what has it actually produced of value besides being an ICO generator?
+1	1523051063	3	I've been thinking that since people said they wanted to store medical records on blockchain.Wtf why
+1	1523053833	3	I am not quite the bitcoin maximalist that you are, but I do agree that blockchain is not intended for storing data -- instead it should be IMO minimalist distributed db serving as a public ledger. However, other blockchain projects are using bitcoin concepts in interesting ways, ways that make sense. I agree bitcoin is a great use of blockchain, but not the ONLY use of DLT.
+1	1523077303	2	Sounds like you've thought really hard about this
+1	1523055463	2	This^Banks doesn't need blockchain to speed up transactions, also blockchain isn't necessary to track your food since it was just a seed. Blockchain is just a nice name to sell garbage. 
+2	1523059504	3	Blockchain was never created for speed... nowhere in the whitepaper does it say Satoshi proposed Bitcoin as the fastest payment ledger tech of all time
+3	1523060592	1	https://www.cbinsights.com/research/blockchain-disrupting-banking/"Payments: By eliminating the need to rely on intermediaries to approve transactions between consumers, blockchain technology could facilitate faster payments at lower fees than banks."https://www.nasdaq.com/article/why-blockchain-may-end-banking-as-we-currently-know-it-cm841558"Now image yourself using blockchain to pay for your transaction. It would go through almost instantly."thats what people says when talk about "blockchain, not bitcoin".
+4	1523061106	5	Again as I said SATOSHI, not nasdaq, https://bitcoin.org/bitcoin.pdf
+0	1523086550	2	Disagree
+0	1523060580	1	Good point tho
+0	1523068017	1	The only reason I believe in some other blockchains, specifically Litecoin and Vertcoin (mainly the latter), is because you need at least one means of permissionless entry. Vertcoin promises this by being interoperable with Bitcoin through the lightning network and always allowing users to obtain coins with commercial hardware. I think the fact that vertcoin is trying to simply do the same thing as Bitcoin but with more room for testing ideas and allowing anyone to obtain coins on their own is important. Most other coins are either scams or not really useful/necessary. Bitcoin will always be gold.
+0	1523112115	1	Chocked and disturbed by the comments in this thread. Is this a new strategy employed by our sockpuppet adversaries to further corrupt and splinter our community? Or are people really this awful?Starkness is awesome and lightning is the fucking godsend, ungrateful fucks.
+0	1523112709	1	The "blockchain > bitcoin" meme has mostly been driven by people wanting to appear *á joure* with the latest technology without needing to endorse something as crazy as bitcoin. Sure, ethereum is cool and there are certainly other areas of computation where a blockchain can make sense. But in a trusted system it doesn't matter what kind of database you use, just go with the one that scales and solves your problem.
+0	1523097627	0	What an idiotic statement by a congenital liar
+1	1523112758	1	Care to elaborate?
+0	1523047062	-5	She intelligently hot 
+0	1523073823	-4	Can anyone explain to me what contributions she actually makes to Lightning?As far as any of their software, lnd has 0 commits from her, [source](https://github.com/lightningnetwork/lnd/graphs/contributors) and from [her github](https://github.com/starkness) too, it appears she contributes no code at all to any projects.I don’t mean to be rude or targeting, I am just legitimately curious about her role in the company.
+1	1523111758	1	She's the CEO.
+2	1523112317	1	And what does the CEO do?They are not selling anything or even completely ready with their product, and yet it appears that the CEO has little contributions in it, but going around news taking credit(and not to forget, planning conferences for women in crypto currency) for the dev’s work.
+3	1523113658	1	Google "CEO", or maybe compare it to experiences you may have? CEOs manage the company and make things happen. Lightning Labs have seven employees, that's larger than the tech start-up i work at and we have two people working with management and external communication, in addition the CEO. Why are you presuming she doesn't do anything? Steve Jobs is hailed as a fucking saint and never wrote a line of code, but he was great at "playing the orchestra".Personally, i think the glorification of good developers in this community is somewhat overblown. It takes a lot of people with different skillsets to make a good product. A good designer or a crypto-savvy executive making sure people is working in tandem are equally important, and i'd even say there's a lack of the latter in this industry compared with the former.
+0	1523069613	-4	Her hair looks fake.
+1	1523071909	3	Your account looks fake.
+2	1523120258	1	Says the person with "ecurrency" as their handle.
+0	1523046378	-1	husge news if u ask the world economy is getting pirced by the might bitcoin the bubble is gona pop hard banksters pants are full of shit coz they are going down and they are going down hard unite people get on the ship we gona ruin modern capitalism revolution is upon us its time to say we had enough of workingfornothing man im working 8 hours a day and i cant afford a car i cant aford a house i cant do shit and i know the problem and now i also know the solution dump your fiat in to bitcoin guys i know i am 
+1	1523065179	4	Can you afford to find the period key on that keyboard?
+0	1523084701	-1	Is she on drugs?

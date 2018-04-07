@@ -1,0 +1,51 @@
+File created at: 1523120393
+Subreddit: Bitcoin
+Submission title: This is where we are at with the Blockchain technology..
+Submission created utc: 1523039897
+Submission score: 104
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523043121	42	Does that mean we'll see the price keep falling as the tech matures (lol). 
+1	1523044560	7	This
+1	1523048275	1	Depends what company bitcoin is.  Imo its like commodore 64, no upgrades.  Id say falling is right.  Which coin is microsoft like?  Which one is apple?  
+2	1523054834	4	Bitcoin is not a company. Bitcoin is the internet. Blockstream is Microsoft. Lightning Labs is Apple.The other coins, such as Etherium, would be analogous to the different private networks that were competing with the public internet in the 80s. There were multiple competing "internets", just as there are multiple competing crypto networks today. In the end, the public, trustless, most decentralized, most resilient internet won.
+3	1523108356	1	What did it win?   What do people actually do with it?
+3	1523068094	1	How on earth is Bitcoin equivalent to internet. It is the first cryptocurrency just like IBM in computers. It may even be up like Nokia.
+4	1523103146	2	You must be new to Bitcoin. Here's a good start to understanding what I'm talking about:https://theumlaut.com/bitcoin-isnt-money-it-s-the-internet-of-money-203d7eca8119
+5	1523103358	1	Thanks, I will wait when bitcoin is credited with the cure for cancer too! 
+6	1523104719	1	Bitcoin is a protocol, just like the internet. It's a way to have different clients talk to eachother. Bitcoin itself is no where near a company.TL:DR bitcoin cures cancer 2019
+7	1523104933	0	**Facepalm** Its a protocol and there are thousands of competing protocol available now. What makes you think Bitcoin =internet?
+8	1523105282	2	Do you have any concept of how much bigger Bitcoin is than any of its competitors?  It has hundreds of thousands of times more hashing power than Ethereum.  Do you understand the value of nine years of continuous development?  (Really, you think a startup that's been in development for a year or two is somehow ahead of a project that has been improving for nine years?)  Do you understand that trust is very important when it comes to money?  Wake me up in nine years when your altcoin has withstood every type of attack and only grown bigger and stronger.  Facepalm indeed.
+9	1523105596	0	Yup.. the same thing Yahoo said about Google, or Nokia about Samsung or Myspace about Facebook. Dont be a blind follower!
+8	1523107805	1	There are competing protocols for the Internet as well.  Additionally, the Internet we use now isn't useful without 2nd, 3rd, and 4th layer solutions.  http://www.omnisecu.com/tcpip/tcpip-model.php
+9	1523108048	1	So you mean to say that Bitcoin is so far superior to other offerings that they cant even dream to exist? 
+8	1523108791	1	Yes, and this has already been stated by InfoFront to you in this very thread. You compared it to a computer company (IBM) or a company managing phone networks/making phones (Nokia) where it isn't either of these things. Bitcoin is the technology of computers, or bitcoin is the network that nokia makes hardware to. There were several competing technologies in both these spaces, or as you already got explained to you, in the internet itself. In the end one came out on top and became the reference. No one said bitcoin would guaranteed be the successor, that's not even the subject of the thread, you seem to just throw a hissyfit at anything mentioning bitcoin since you believe in some other altcoin.
+4	1523086743	1	Second Layer solutions like Lightning, bruv
+3	1523059173	-1	Blockstream and lightning are not coins.  Id say bitcoin cash is microsoft and bitcoin gold is apple.  Now if bitcoin would get off its hands and start trail blazing like it should be i might have a different opinion of the team.  As of now they r on the shitlist and couldnt care less about bitcoin.  You all been pumped and dumped.  Wake up before its too late!!
+4	1523061405	2	BCash is just the scammy computer store next door...
+5	1523062843	1	Yeah i dunno whos who in terms of the best just took the 2 biggest bitcoins....  they all suck lol..  got my eyes and money on diet bitcoin.  Laugh now but you will cry later lol..
+4	1523103216	1	You must be new to Bitcoin. Here's a good start to understanding what I'm talking about:https://theumlaut.com/bitcoin-isnt-money-it-s-the-internet-of-money-203d7eca8119
+5	1523111995	1	Blockchain is the future.  To think bitcoin will be the main coin in the future is laughable.  It wouldnt be able to handle worldwide adoption.  There are far cheaper coins that could potentially be that coin but its not bitcoin.  Only thing keeping bitcoin from zero is the fact that its paired on exchanges as the base currency meaning you must buy btc to buy another coin.  This wont last long i guarantee.To say btc is the internet of money is a joke.  Another pump and dump for you hodlers lolollol...  you think media is guiding you in the right direction?  Lolol...
+2	1523081462	1	Analogy incomplete - Coin not OS: (A)bort, (R)etry,  (F)ail.
+1	1523057491	1	~~Does that mean~~ we'll see the ~~price~~ transaction fees keep falling while the ~~as the tech matures~~ DAO value increases exponentially 
+2	1523075113	5	I do agree long term demand and savings (hodl) in Bitcoin will increase the price. But focusing on what's happening right now,  maybe, just maybe, the price will continue to fall as fees gets lower (less miner earnings) with full Segwit adoption + Lightning adoption is about to be common (thereby temporarily scares of some % of miners to other places with their computing power). This again creates a potential, but temporary falling in prices of Bitcoin.However, as Lightning gets more commonly adopted and used, something interesting might happen, that will increase the price continuously: Lightning demand and usage will increase demand for holding Bitcoin both for savings and for usage/availability on the Lightning network, so miners will also be coming back to Bitcoin and increase demand for it as well and make it even safer.
+3	1523108496	1	> I do agree long term demand and savings (hodl) in Bitcoin will increase the price.The demand could go down and even disappear, in which case BTC would be worth nothing.
+1	1523060123	1	bitcoin becomes more expensive to produce as production ramps up, so unlikely.
+0	1523061255	6	Adjusting for inflation, $5995 in 1980 would be $19,186 in today's dollars
+1	1523077561	6	And if you held onto that computer today, it would be a nice obsolete antique. 
+0	1523056017	5	Optional 16-bit microprocessor? That's, like, a completely different signal layout. How were they expecting to make that an option?
+1	1523089440	1	Probably by restricting the data bus to 8 bits - like the Intel 8088
+0	1523054214	4	Yeah"Bitcoin is like the internet in 1995"We've been saying that around here for 6 years now....
+0	1523041864	3	Maybe. But that doesn't mean it's going to be good for bitcoin. Actually considering how long ago bitcoin was developed it's like a computer made in the times of this ad trying to compete with a computer of today. Bitcoin is not blockchain. It uses blockchain.
+1	1523042490	5	“The worldwide web is not the internet. The worldwide web uses the internet.”
+2	1523043416	-2	Blockchain uses the internet
+1	1523045574	6	What's your point? Everything else that uses blockchain is either a ripoff of bitcoin, or centrally controlled.
+0	1523060331	2	Yep, they are now in the state of delusion. 
+0	1523074893	1	I beg to differ. TCP/IP wasn't around then. We have LN. 
+0	1523101466	1	I'm running two of these to mine dogecoin
+0	1523109423	1	I had an Imsai 8080 in 1975 or 76, no hard drive, just a jack for a cassette tape player,   No keyboard or monitor, just 8 big switches and one red one
+0	1523117189	1	If I'm reading this right. I can have this all for 5995!
+0	1523040811	0	This advert didn’t age well 
+1	1523041111	1	Actually it did aged well, its called adoption back in the day lots of people bought this at that price and that's how technology adoption works. 
+2	1523052202	0	And we'll look back at Bitcoin and laugh just like we're laughing at this ad. As for Blockchain, what technology?  It's a ledger. They've existed since the invention of the written word. 
+0	1523100256	0	Overpriced and shitty, yes.

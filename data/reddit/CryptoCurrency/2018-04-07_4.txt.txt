@@ -1,0 +1,82 @@
+File created at: 1523120431
+Subreddit: CryptoCurrency
+Submission title: No, India hasn’t banned cryptocurrencies
+Submission created utc: 1523095352
+Submission score: 556
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523099168	93	Oh yea you just can't buy or sell it anymore.
+1	1523100716	27	You can just hodl!!!
+1	1523109969	13	Of course you can, you just have to do it without the assistance of a bank, its how crypto trading started.  Expect more cash for crypto offers online.
+2	1523111750	9	That's kinda stupid though? If India want to prevent money laundering then making fiat gateway and vice versa to crypto as direct cash is a very bad idea. Allowing banks as gateway means you can monitor the transaction (as if they haven't done it already)
+3	1523111917	2	You are preaching to the choir.  We have to question whether the rule is for the benefit of the people in general or perhaps just a subsection?
+4	1523116781	2	You pose good questions, Tyrone Fountain. But I’m not sure I can trust ur credibility due to ur track record. [Never Forgret](https://np.reddit.com/r/CryptoCurrency/comments/826c58/fake_cryptocurrency_lists_ryan_gosling_as_its/)
+5	1523119059	1	Awww... caught again!
+3	1523120391	1	Don't forget that we paid taxes to this gov for our profits. Now they will receive none.
+1	1523107068	25	You can sell/buy them. Exchanges are not told to shut off. Though you have to buy BTC via paypal/international banks. I guess exchanges will now shift to btc pairs instead of fiat pair. 
+2	1523115518	9	No you can’t. PayPal in India is also regulated by the RBI. So, exchanges cannot use it. 
+3	1523117341	1	I couldn't understand what you meant. How is Paypal regulated by RBI? We have to provide PAN but what else? Do they limit the amount you can have in your account or what? Can't i just sell my BTC/Crypto to someone online and tell them to pay me via paypal friends and family? How the hell will RBI know that i sold my coins? It's just a gift for me from someone that they should not care about.Also we can just buy gift cards and sell them on various indian sites and just withdraw money to our banks. If you know the way you will indirectly have your money in your bank.  
+4	1523117815	3	To be clear, I’m talking about exchanges using PayPal because that’s what RBI banned. PayPal is regulated by RBI. That’s why you cannot store money in PayPal India. Coming to peer to peer sales, you can do whatever you want and use any payment channels. The government will not be able to track it. 
+5	1523118996	1	Yeah. Got it. It's better than nothing.
+6	1523119844	1	Totally. China could not control Peer to Peer trades with their Great Firewall. It would be impossible to ban them in India because the government does not filter sites. Trades would just move to messengers like Telegram and Whatsapp. 
+2	1523115309	-2	lol
+1	1523117459	2	cryptocurrencies banned india
+2	1523118061	0	No you can't ban a country.
+0	1523113728	15	Its worse cause now people would use localbitcoins and the govt cannot tax cash transactions.
+1	1523117674	1	If you had a Black Plague in your little finger, would you cut off the little finger or would you keep treating the Black Plague “hoping” you can cure it. 
+0	1523095709	11	https://imgur.com/a/fIF7z
+0	1523111804	10	Not sure if y'all already know about the [2016 Indian banknote demonetisation fiasco](https://en.wikipedia.org/wiki/2016_Indian_banknote_demonetisation), but it seems relevant to understanding the government's agenda in relation to cryptocurrency.At ~8pm on the night of November 8 2016 the current Indian government suddenly announced that all ₹500 and ₹1000 notes (~$7.50 & ~$15) - 86% of total currency - would become illegal at midnight. Usage after that time was banned, though you could deposit them to a bank, where very likely you would then be seriously dicked with special fees.After pulling that fuckery they absolutely cannot be trusted to set up a digital rupee, which seems to be their endgame out of this.
+1	1523117795	4	There were no fees. We just had to wait for many hours just to get our hard earned money. The move might have been successful if it was implemented correctly , banks used to give priority to the rich customers and at the end of the day there was no new cash left for people waiting in the line. This is the reasons why many banks faced shortage of cash.  ** Demetisation is a major reason why people started using digital form of payments like digital wallets etc ** Instead of encouraging new innovation and technology govt. is saying no to it. India will surely miss the next digital revolution if things continue like this. Hopefully we can have new govt. in 2019 elections otherwise India will be fucked for a few years at least.
+1	1523111810	3	**2016 Indian banknote demonetisation**On 8 November 2016, the Government of India announced the demonetisation of all ₹500 and ₹1000 banknotes of the Mahatma Gandhi Series. The government claimed that the action would curtail the shadow economy and crack down on the use of illicit and counterfeit cash to fund illegal activity and terrorism. The sudden nature of the announcement and the prolonged cash shortages in the weeks that followed created significant disruption throughout the economy, threatening economic output.Prime Minister of India Narendra Modi announced the demonetisation in an unscheduled live televised address at 20:00 Indian Standard Time (IST) on 8 November.***^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/CryptoCurrency/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]^Downvote ^to ^remove ^| ^v0.28
+1	1523119263	1	Yeah, I'm like fuck India's monetary policy and problems, and they're going to figure out pretty quickly that the function of money is barter not control.
+1	1523119628	1	That wasn't a fuckery, that was an important decision to save the falling rupee value. We would have been the next Venezuela if it wasn't for demonetization. And no one except ppl holding black money was dicked with special fees. All the news was bullshit too, oh look at these poor ppl in lines, what poor ppl, those fkers had 1000 and 500 rupees notes and even if it was hard earned those idiots needed to learn to keep their money in banks.
+0	1523105705	3	https://medium.com/@blockchainlawyer.india/rbi-press-release-05apr2018-fud-and-what-it-really-means-and-what-it-doesnt-e11a82efb219
+0	1523103033	2	Well every article is saying something different, I would rather wait for some official news.
+1	1523120017	1	I found it to be the opposite,every article is saying the same thing with minor variations, seems like one news source published an article and all others are using it as a source, gonna wait for official notice
+0	1523102605	2	Does this mean exchanges s are banned in India but people can still trade in exchanges outside India? Or are  banks not dealing in any crypto even if the exchange is outside indian? If the latter then Indians can maybe transfer money to a middle man then to the exchange outside india and back again the same way 
+1	1523104480	13	Because of capital control laws, sending money abroad is very very difficult. A really determined person will find a way to buy crypto, but this effectively kills the market for the general public.
+1	1523105556	3	aka... Money Laundering.
+2	1523105955	2	Round-tripping. Not necessarily laundering.
+1	1523106086	2	> Does this mean exchanges s are banned in India but people can still trade in exchanges outside India?Yes, theoretically at least. Buying cryptos was never banned but the new regulation was issued saying that RBI (Reserve bank of India) regulated exchanges can't trade Cryptos. Exchanges outside India aren't regulated by RBI anyways, so yes Indians can still buy cryptos legally but it is more difficult now since none of the exchanges accept Rupee Deposits. Also selling cryptos will be a bit more expensive. >... Indians can maybe transfer money to a middle man then to the exchange outside india and back again the same wayNope this would be practically impossible unless the middle man is close family, then *maybe* the money sent can be claimed as a "gift" but otherwise it would be very difficult to answer the taxman. 
+2	1523107178	2	They didn't told exchanges to shut down,  all they said was that banks dealing in crypto should cease all transactions that are related to crypto buying. 
+1	1523113703	-2	Exchanges are not banned too, as of now atleast. People can trade crypto-crypto. If anything, this ban is only going to boost the market in India.
+2	1523115403	2	If this was fantasy land, it would be the best news ever. Unfortunately, we're not there yet. You can't make everyday purchases with crypto, or even get into the market. Would you really want to get into a volatile market that you can't easily get out of?
+0	1523095597	2	🙌
+0	1523097793	1	Great news!
+0	1523119774	1	**Did india ban cryptos?**Not technically, no. But all indicators point to the fact that they are going to, so far. The only saving grace so far is the bureaucracy taking its sweet ass time to drag this process. It can go either way. Remember: In the past, India tried to ban porn, and resulting backlash immediately made them took back that decision. Similarly, this can change if enough people put pressure on the central bank and the government. **How can you buy cryptos?**You cannot use INR to buy cryptos. But you can probably buy it using USD/EUR. Maybe you could use your international debit/credit card and convert inr to usd/euro? (I am not sure whether this will work or not.). Atleast according to LRS, you can send upto $250,000 abroad without any approval except if your bank asks you to. **Does that mean you can't use indian crypto exchanges?**Depends. At this moment, there is a big legal limbo. India's biggest exchange koinex, in their recent blogpost, told everyone to stay calm. 
+0	1523105235	1	They just banned the means of obtaining crypto. It'll be easy as fuck to get the government crypto they make, though, and everyone accepts it in India. So why would anyone from India want to touch that icky volatile Bitcoin and watch their value dwindle to nothing over something that nobody in India accepts? That is the Indian naritive going forward. 
+1	1523107493	10	They can make their own currency. Maybe we will buy it but who the fuck gives them authority to ban all crypto. It's our money and we should spend it. Exchanges already have full KYC mandatory in order to just trade. Also who knows whether they will be able to create a good coin or not?  Its just a guess game right now. They said crypto is used in money laundering. Real estate is a major contributor towards money laundering and there are shit ton of other ways if you wanna do money laundering. On one hand govt.  is promoting Digital India but they are banning the next digital revolution. India always lack behind technology and fuck them. I ain't leaving my crypto.
+2	1523118767	2	They won't just create some dodgy volatile shitcoin they'll create some pegged-to-the-rupee quantitative easing-enabled coin. And so completely independently of that there will still be speculative demand for Bitcoin etc. 
+3	1523119030	1	You don't know my government. They are dicks.
+2	1523108296	1	IMO they banned because instead of money being invested inside country it was going outside.
+3	1523109061	3	Government's job should be able to facilitate the next wave of tech and encourage innovation. There are tens of thousands of youth that have gotten jobs or employment with blockchain and relating companies. This is massive for a government which has not been able to improve the employment rate. This story happened with the internet. Should not happen again with blockchain.Just hoping for a change in next 2019 elections. Sick of these idiots. 
+1	1523105523	-2	Digital currency =/= crypto. The government will not make a crypto because of the inefficient nature of cryptos.
+0	1523114561	-14	[removed]
+1	1523117636	3	>  they eat with their handsdafaq? how is that even a criticism? You don't eat with your hands? Do you shove your extra large burger into your mouth with a fork?
+1	1523115186	5	Fuck off.  Any mention of India always brings you scumbags out of the woodwork. Is shitting all you think about? I don't even live in India anymore but I'm getting pretty tired of you assholes talking out of your ass.
+2	1523115515	-9	[removed]
+3	1523116771	5	It's clear Indians hurt you at some time and now you feel prejudiced towards a nation of over a billion people. I'd say you need to look in the mirror and do some self assessment. I've only had two interactions with you and you don't seem like the most pleasant person to be around. My advice. Get some professional help. And medical help for the shitting disorder.
+4	1523116849	-2	Thanks for the advice I will ... U are right, Im not the most pleasant person to be around with- if you are Indian... 
+5	1523117534	3	I'd suggest wearing some kind of sign so Indians steer clear from you. Though I have a feeling no one comes near you anyway.
+6	1523117562	-3	Dont worry I dont smell like you guys ...
+7	1523117722	2	Given your shitting fetish, I wouldn't be so sure. You're used to living in your own filth so you might not notice it.
+8	1523118168	-2	No bro Im clean... I have Indian ladies cleaning my appartment for 3$ per month. I can't wait for them to start accepting crypto!
+3	1523116691	1	Continue more bro. 
+4	1523117515	1	Coruption is emense, hypocrits and subjective lyers everywhere, i wish I had some more time for detailed examples but it doesn't make sense to continue anymore. Im becoming like one of them...
+1	1523115312	-8	Amen. I fucking hate India
+2	1523120137	1	Why tho
+0	1523104856	0	So where did those articles came from?
+1	1523113755	3	Crypto was never banned. Exchanges are not banned. It's fiat from and to exchanges that is banned.
+2	1523117846	1	> It's fiat from and to exchanges that is banned.Well then, how are people going to buy cryptos then? 
+3	1523118663	1	I am just clarifying the news for the OP.
+3	1523119076	1	localbitcoins or via international exchanges
+0	1523114023	-2	based pajeet 
+0	1523117768	-3	i wish it dideradicate pajeets
+0	1523107391	-1	Denying it ain't going to do anything. You wanted to get your money in your own hands, here's the consequence. What are you going to do about it? That's the question. 
+0	1523108605	-1	Still lots of he said she said FUD out there. Most signs pointing to a ban. But it hasnt really affected prices. 
+0	1523113823	-5	Does it even matter
+1	1523117442	2	This will likely equate to more money leaving the market as it’s now so difficult to buy and sell I doubt many will want to hold coins they can’t quickly get rid of if need be. Only the die hard s will remain and the general public will withdraw. So yes. It does kinda matter. 
+1	1523119174	2	If a country with $2.65tn GDP bans crypto then i guess it's a little bit of worry. You don't know the exact data how many Indians are invested in crypto. 
+1	1523114717	-1	No
+0	1523116245	-7	India.. where there is no sewer but there is bitcoin.
+1	1523120218	1	You seem to heavily form your opinion through movies and online stereotypes, shame on you

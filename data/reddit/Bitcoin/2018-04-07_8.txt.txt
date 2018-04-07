@@ -1,0 +1,20 @@
+File created at: 1523120395
+Subreddit: Bitcoin
+Submission title: Using Eclair Lightning Wallet Put Chills Down My Spine
+Submission created utc: 1523038218
+Submission score: 84
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523043255	3	How can I receive a lightning transaction on my Eclair Wallet. I could sent one to Bitrefill.What is my Lighting Address? I guess its the ID(channel unique identifier) But when trying to paste it for sening a transaction I am receiving an error message.
+1	1523045624	10	You can't recieve lightning transactions to eclair right now. I have a mobile wallet that is in closed beta that is able to but it requires you to have sent btc from it first in order to fund the other side of the channel. This will all be way easier in the future with watcher nodes.
+2	1523052418	4	Eclair desktop can receive
+1	1523074942	3	Unlike in base bitcoin transactions, you must be online in order to receive Lightning transactions. For online merchants, this isn't a problem since they need to be online all time time anyway. For end users, who many go offline for days at a time, this is a problem. Receiving payments offline is not intended to be Lightning's strong point, and so Eclair's mobile wallet doesn't attempt to accommodate that use case at this time.In the not so near future, solutions will be devised to work around this protocol limitation, but there's unlikely to be any trustless solution to this within the next year. Maybe Eclair will implement the ability to receive payments when you are *online* within the next year or so. We'll see.
+1	1523045695	2	Eclair let you only spend via Lightning (at least at the moment).
+2	1523052409	3	Eclair desktop can receive.
+0	1523103836	1	I love playing with it but I can't actually get it to send a payment. I have opened and closed channels a bunch of times which is cool to test, but every time I try to checkout it fails to send the payment.
+0	1523040356	-14	Maybe you're just too sensitive.
+1	1523043312	7	Too sensitive to what?
+2	1523043389	-10	In general. If simple things have chills down spine effect for you. Do you cry during movies?
+3	1523044617	4	You're a little bitch lol
+4	1523046620	-4	Found a movie crier. It's Ok. I cried when Terminator went down into molten metal in T2 back in the 90's.
+5	1523096781	2	Two words: Lion king.

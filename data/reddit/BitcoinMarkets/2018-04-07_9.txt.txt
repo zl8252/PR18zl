@@ -1,0 +1,10 @@
+File created at: 1523120457
+Subreddit: BitcoinMarkets
+Submission title: Arbitrage considered to remain profitable
+Submission created utc: 1523046147
+Submission score: 0
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523051738	1	Not a single one of those have anything to do with arbitrage being profitable. And is such a silly question. In a bear market, instead of sitting at the crypto you bought at lower price you sit at FIAT gained for selling at higher price, that's just way too simple to do. a bit more complex is scenarios where the deposit and withdrawal of a coin is disables so it's price on that exchange usually becomes much lower in that one .That's a coin flip because when it gets reactivated again it could go to that price or to the market one . for example, this happened with bitshares recently in poloniex : https://poloniex.com/exchange#btc_btsIf you put the monthly chart, you can see a lot of people must have made massive profits  just in that one (although, things said, this one was a bit more complex, as technical problems was just a lame excuse and everyone knew it was just because their lawyers werent particularly happy about a section in the documentation) 
+0	1523074355	1	I think it's a great concept, but I wonder how many exchanges already run their own bots?
+0	1523112311	1	How about instead of the blog spam just link to the originalhttps://hackernoon.com/the-case-for-never-ending-cryptocurrency-arbitrage-spreads-788e94441d60

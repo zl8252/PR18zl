@@ -1,0 +1,21 @@
+File created at: 1523120456
+Subreddit: BitcoinMarkets
+Submission title: Americans owe $25Billion in taxes for crypto.
+Submission created utc: 1523039171
+Submission score: 0
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523041822	6	They are not taxable gains unless you cashed out or traded. How do you know how much taxable gains people had? I could have a coin 500x and still not have any taxable gains unless I trade it. 
+1	1523055187	1	And of course, if your average buy price is above what you sold it at, then you have no capital gains, and hence, don't have to pay any taxes.
+2	1523057334	1	Some people don't want to use average buy price. Like people who got into bitcoin early. All those gains would mean they couldn't ever trade any amount of bitcoin without paying taxes. Fifo and Lifo, fifo is the default with the irs unless you specify. First in first out. Or last in first out. 
+2	1523057475	1	Not true. US capital gains tax regulations force FIFO accounting, so if you bought 1 Bitcoin at $1,000  and another Bitcoin at $19,900, but then you sold 1 Bitcoin for $9,000, you actually have to claim an $8,000 capital gain on the first Bitcoin if you don't sell the second Bitcoin at a loss. The name of the game is HODL. Trading incurs a lot of taxes.**edit:** I am completely wrong on this. Sorry.
+3	1523057647	3	False. FIFO is not required for Bitcoin. There was news about it a few months ago. 
+4	1523057990	3	Okay, you're right. I'm wrong. I was misinformed.
+3	1523057755	1	They don't force fifo, it's just the default, you need to make it clear with your broker, accountant, tax professional. Lifo will work too if you have it specified or early adopters of bitcoin couldn't ever trade it. 
+3	1523058715	1	I think you can also do specific lots.  Not a tax expert.
+4	1523059723	2	I did a bit more research, and yes, there are several ways that you can do the accounting.
+0	1523042577	7	So in other words, the worst tax agency in the world, the IRS, is destroying a newly created asset class by overtaxing initial investors into oblivion.
+1	1523076328	0	I mean they do this with all investments, including stock.
+2	1523076436	1	Do they also tax you when you buy a stock, (obviously when you sell a stock), but can you trade one stock for another stock? And if you can, is it also a taxable event? Because every single one of these things is taxable in crypto, i.e. tax cryptocurrency investors into oblivion.
+3	1523113335	1	You’re always taxed in stocks as well, when you buy any stock and sell any stock (and if I’m not mistaken there is no exchanging stocks). So the same problem (if you want to call it that) is present in the stock marketThis is why keeping your investments long term is better, as the taxes aren’t even as close to short term.
+0	1523054105	1	I thought JPmorgan estimated there was only a total of 20 billion dollars in crypto. Market is fucked if both these figure are true

@@ -1,0 +1,7 @@
+File created at: 1523120448
+Subreddit: BitcoinMarkets
+Submission title: Lightweight Stock and Crypto Tracker
+Submission created utc: 1523093594
+Submission score: 8
+comments: (level	created_utc	comment_score	comment_body)
+

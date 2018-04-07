@@ -1,0 +1,36 @@
+File created at: 1523120440
+Subreddit: CryptoCurrency
+Submission title: Was so happy that i saw this.
+Submission created utc: 1523073457
+Submission score: 134
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523084222	9	I love it there. The pizza steak is awesome...
+1	1523087098	5	Had the philly, and half of a Italian. Both GREAT!
+2	1523109969	1	East Side Deli 1013 Alpine St, Los Angeles, CA 90012If you havent already... tues and thurs they have lasagna special, sooo good!Edit: only mention because you like the italian sub.
+1	1523104590	2	I should try it some time,
+0	1523112524	6	sees sign**smiles**pays with USD xd
+0	1523081909	4	I’d be happy to see Philly cheesesteaks too
+1	1523087070	1	Yes , One of the best too!
+0	1523099788	5	How much are the transaction costs for a pizza? 
+1	1523100499	-5	Irellevant its a cheesesteak place.
+2	1523100611	3	Great! How much is the transfer werth a cheese steak? :-)
+3	1523117585	0	Considering bitcoin transaction fees are way down, I’m sure it wasn’t much. 
+4	1523118486	1	I see...https://bitinfocharts.com/comparison/transactionfees-btc-xrp.html
+0	1523091779	3	[AutoMod] Adoption
+1	1523091780	1	You are receiving this error message because your command is not formatted correctly. Here are the potential mistakes you made:       * You didn't capitalize the flair name.       * You used a plural flair name instead of a singular flair name. For example, if you want to tag a submission with *Tool* flair, use *Tool* instead of *Tools*. See here: `[AutoMod: Tool]`.  Flair names like *Support*, *Politics*, *Trading*, etc. do not require this kind of treatment.       * You used two words instead of one for certain flairs. These flairs are *Focused Discussion*, *General News*,  *New Coins*. To assign these flairs, use `Discussion`, `News`, or `New` respectively. Since this AutoMod rule copies flair text to the flair css class and CSS classes can't be two words, we can only use one flair word in commands for two-word flairs.  If your flair commands are formatted correctly but fail to work, please [inform the mod team](https://www.reddit.com/message/compose?to=%2Fr%2FCryptoCurrency).*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1523092988	3	Ha, one of the first places I ate in the US. I'm from New Zealand and went there in 2013, cool to see. 
+1	1523093217	2	Nice , glad you enjoyed it.
+0	1523079049	6	I read ”boobs”
+1	1523079938	-3	Cause you’re dyslexic? 
+2	1523081980	4	No, because I like men. 
+0	1523086000	2	But how was the steak?
+1	1523087058	3	it was great, can never complain.
+0	1523108570	2	How complicated and how lomg does the transaction typically take? What are the additional costs compared to standard payment?
+0	1523115497	3	Now wait 3 hours while your payment is being confirmed :)
+0	1523095557	2	Boos means mad in dutch, weird name 
+1	1523097022	2	It actually means angry. Gek is the Dutch word for mad.
+2	1523097126	1	No but mad like "I'm mad at you", not like "this guy is mad" aka he's crazy 
+0	1523073457	1	If this submission was flaired inaccurately, [click here](https://www.reddit.com/r/CryptoCurrency/wiki/resources#wiki_flairing_content).*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1523101795	1	Whenever I’m back home in LA from college, I typically stop by to pick up a steak as it’s a block away. Saw that they accepted bitcoin and it became my way to pay.Tried showing the K-Town location Nano once before as well.
+0	1523114724	1	dope need to stop by this spot sometime

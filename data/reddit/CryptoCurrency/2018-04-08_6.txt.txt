@@ -1,0 +1,67 @@
+File created at: 1523211315
+Subreddit: CryptoCurrency
+Submission title: # of Daily HODL Comments on Reddit over Time [OC] [x-post /r/dataisbeautiful]
+Submission created utc: 1523192826
+Submission score: 272
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523194865	68	That's some of the most meaningful graphs I've seen lately.
+1	1523195555	15	Thank you :) I think my favourite is the one that [shows a clear bimodal distribution](https://imgur.com/q5ozcRY). 
+2	1523207896	3	I like this one even more!
+3	1523208008	3	I was thinking about making this the main photo for the post. But I thought seeing this at first glance could be hard to understand right away. Glad you like it :)
+1	1523198259	4	Not really. When the price goes up, activity in crypto subs goes up. When activity goes up, the number of hodl posts goes up. I don't think this graph is actually saying anything.
+2	1523204667	8	Maybe do it as a percentage? Like # of HODL per 100 comments or a metric like that. 
+3	1523204932	7	Stay tuned for pt. 2 next week.I'm going to post about # HODL per 1000 comments (HODL density) over time.As well as subreddits ranked by the highest HODL density in descending order.
+2	1523198447	4	Check out the blog, there's way better data visualizations there. I just couldn't get the album thumbnail working :( [Here's an example of one.](https://imgur.com/q5ozcRY)
+3	1523203498	0	This is a "better" data visualization?  I can't even figure out what it's trying to say.  It doesn't have an x axis.  What is the difference between each of those vertical bars?  It's completely nonsensical. 
+4	1523204101	3	Either you're getting a different chart than me (Edit: turns out they were), or you're unable to read charts, everything is labeled
+5	1523205341	4	He changed the link.  Previously it went to [this](https://cdn-images-1.medium.com/max/1400/1*QU0i64BiBKOzMrwvRzs47Q.png) monstrosity.
+6	1523205658	1	Aha =) my mistake
+7	1523206056	2	Yeah I changed it after realizing it was probably the weakest visualization. Should have left an edit note. My apologies. What I was trying to do there, was to sort the % change in market capitalization instead of datetime.  It uncovers a U shaped pattern for the average daily # of HODL comments. Higher hodls for market loss days, and higher hodls for market gain days. But I think the bimodal distribution graph shows that better. 
+0	1523198538	20	Those damn Russian Bots manipulating our HODLer simple minds. Oops wrong subreddit, Whales it is then!
+0	1523193463	10	That $hodl bull run to ath was fun times.
+1	1523195578	8	top 5 underrated runs of all time 
+0	1523200052	11	I'm bearish on HODL.
+1	1523207327	2	It s a bubble!!
+1	1523208008	2	This HODL comment increases the daily HODL which might turn the HODL statistics up. Will turn bullish again. HODL.
+2	1523208499	1	Blatant market manipulation. Plz report
+1	1523200294	1	Things are bearish on hodl for sure. Lol. 
+0	1523192866	16	Hey guys!I didn't know how to post an album with a thumbnail so the bulk of the actual analysis is in the blog here.https://medium.com/hodlblog/analyzing-every-reddit-comment-mentioning-hodl-since-2017-part-one-d536eb8364adAn increased # HODL mentions weren't just associated with days with the largest losses. In fact, market volatility in either direction was correlated with an increase of HODL mentions. See here for a nice bimodal distribution.[See here for nice bimodal distribution](https://imgur.com/q5ozcRY)     Here's a quick summary of the points from the blog: * Late 2017 — Early 2018 was an explosive time for HODL* Market volatility was associated with higher # of HODL comments* # HODL on losses > # HODL on gains* HODL fatigue in recent monthsHope you enjoy :)P.S. If you guys want to check it out. I made a DIY algorithmic trading bot called HodlBot that automatically diversifies your portfolio into the top 20 cryptocurrencies by market cap. [Link here](https://www.hodlbot.io/?utm_source=reddit&utm_medium=social&utm_campaign=cryptocurrency-daily-hodls) 
+0	1523196588	4	Oh that IS beautiful, thanks for sharing this.  Now to figure out how to use it to make money...Do you think it needs to be adjusted for reddit user growth or crypto comment growth?  I feel like if you adjusted for number of /r/cryptocurrency subscribers or something the current HODL values would be even lower.  Our per capita HODLs. :)
+1	1523197020	1	That's an interesting point! This data spans every HODL mention on reddit not just /r/cryptocurrency. One way I could dig into the data in the future is by looking at how # hodl mentions/ 1000 comments change over time in order to assess HODL density (ok I'm just making up words now) 
+0	1523193114	3	##r/dataisbeautiful---------------------------------------------^(For mobile and non-RES users) ^| [^(More info)](https://np.reddit.com/r/botwatch/comments/6xrrvh/clickablelinkbot_info/) ^| ^(-1 to Remove) ^| [^(Ignore Sub)](https://np.reddit.com/r/ClickableLinkBot/comments/853qg2/ignore_list/)
+0	1523209018	3	You should superimpose this graph over the price graph.
+1	1523209363	1	[Here you go sir](https://imgur.com/gallery/d6VPI) . This was the original I was working on a few months ago. My original hypothesis was that market losses was correlated to a higher # of HODLs.But, actually what I found out later was both market gains and market losses are correlated to a higher # of HODLs. Volatility = more HODLS.It felt kind of messy to try to show that with the original chart, so I decided to ditch it and go with the bimodal distribution graph I posted above. 
+0	1523201229	2	Is it normalized with subscription count? Might be a big factor if not
+0	1523202552	2	May be you'd have to divide by the number of users or comments or something
+0	1523203121	2	Tbh things like this is a good show of human emotions / sentiment. Nice.
+0	1523197695	4	When the masses have lost hope THATS WHEN YOU BUY
+1	1523197789	2	+1 HODL
+0	1523197801	1	Looks like a lot of people couldn't hodl anymore and sold at the end of February 
+1	1523199084	3	How would you not be **able** to hodl any more? Assuming you put in only what you're comfortable losing. Hodling doesn't cost you any money.
+2	1523204313	1	If you believe things will drop below where they're currently at (and you're correct in that belief), Hodling does cost money, even if you think it will eventually pass where it's at, you've missed out on the opportunity cost of selling and then buying at the lower amount.  At the very least there have been some altcoins that have lost everything, the people who held those definitely lost money by doing so
+0	1523199138	1	Look at the quick up and down. People are probably just shorting hodl. 
+0	1523199595	1	Data doesn't seem to be normalized though so the spikes could also be just because there were more crypto posts in general.
+0	1523200729	1	This is a buy signal.
+0	1523200789	1	a.k.a morons per million.
+1	1523201038	9	Sir! I noticed in your comment history that you've also mentioned "hodl". As it stands, you're included in this dataset that you've self described :P 
+2	1523202757	7	BUNR
+2	1523204455	2	There was a time when it was actually funny.  By the end of December I was wishing that it had never gained any traction whatsoever.  Like anything else, once the masses of trend followers start hugging something, they hug it to death.  HODL is like the fidget spinner.  Or those sphere shaped EOS lip gloss things.  Or Uggs.  Or anything else that was once an original and unique product that blew up overnight, and caused lower quality standards, shitty Chinese clone products, stupid prices, and people selling them just about anywhere humans can go without being killed by the elements.
+0	1523203844	1	Not surprised.  Right before the peak (Early December, when IOTA made it’s run) I made a post saying that the “HODL” thing was no longer funny, and that it had become annoying.  I suggested that we should retire the phrase, and move on with things.  You could pick out the bandwagon buyers (only 3 weeks experience, but somehow thought they were the Gordon Gecko of the crypto world) by looking at how often they spammed that word.  The opposition was very strong, but a good amount of seasoned investors agreed with my suggestion.  My post had over 100 replies, and was locked in at 0 karma, lol.  I won’t be surprised when the market starts to climb, and the “I just wanna HODL” dumbasses come back out of their basements.  I kid you not, I saw a comment where I guy was like “When will Binance unlock withdrawals again?  I bought some (blank) and I want to move it to my wallet so I can HODL.  I just wanna HODL!”It’s true that the market it currently fucked, but tbh I am actually enjoying the “peace and quiet” it has caused.  I’d rather see things rising and have to put up with the fair weather fans though.  Up with the market, and down with “HODL”!!!  Cheers.
+0	1523203942	1	Excellent indicator.Can you do the same with “crash” or other groups of words ?Good news regarding the trend btw: Maybe we reached depression phase?
+0	1523207093	1	Post this on r/DataIsBeautiful
+1	1523207210	1	I did! I think it's on the hot page there :P Just fewer upvotes because I think people in general on that subreddit are less aware of HODL and cryptocurrency. 
+0	1523207294	1	Seems that it has returned back to the realistic valuation 
+0	1523207678	1	I still HODL
+0	1523208837	1	I think the moral of the story here is that as the number of people who comment "HODL" increases, that's when it's time to sell.
+0	1523209057	1	I'd like to see number of hodl comments per thousand subscribers or number of hodls per thousand comments. The marketcap explosion brought with it a lot of attention and new subscribers, so of course there will be more comments than in the previous 8 months or so.
+0	1523209533	1	How do I invest in $hodl? Super undervalued right now 
+1	1523209554	1	Check out HodlBot /s 
+0	1523211147	1	Made my day
+0	1523211217	1	Its on 'Disbelief' mode... prepare for it to rise again
+0	1523200496	1	those who blindly followed the crowd and bought into bitcoin when the edgelords were converting to altcoins... you are the weak that would typically be dead if survival of the fittest had not been augmented by society... count your blessings.. but obviously not your BTC
+1	1523202776	3	This might be the most amazing comment I’ve ever seen 😂 #justneckbeardthings
+0	1523192827	0	If this submission was flaired inaccurately, [click here](https://www.reddit.com/r/CryptoCurrency/wiki/resources#wiki_flairing_content).*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1523201118	0	hmm, appears to be following some sort of trend line. /s
+0	1523202507	0	Hodl
+0	1523196791	-2	Lol no one wants to hold anymore

@@ -1,0 +1,83 @@
+File created at: 1523211313
+Subreddit: CryptoCurrency
+Submission title: "When banks stored all our money, the bankers became the most powerful people in the world. When the protocols store all our money, the programmers will become the most powerful people in the world. Fun times ahead if you’re a nerd."
+Submission created utc: 1523174923
+Submission score: 338
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523186574	217	I think the entire point of decentralization is to stop anyone or any small group of people from hoarding that kind of power to begin with. 
+1	1523191715	43	Yeah I've got to disagree too. The fact that blockchains are decentralized and open source makes it much more difficult for a malevolent actor to freeze and steal your funds the way banks do. I mean you can basically exchange any crypto for any other crypto within minutes if the devs or code becomes compromised or even just does something you don't like. Blockchains devs aren't replacing bankers, they are making them obsolete.
+2	1523192269	17	The difference here is anyone can become a programmer. The only barrier to entry is your willingness and ability to learn on your own. The most valuable skill to master as a developer is, "Learning how to Learn." After that development is easy.Becoming a banking mogul takes an enormous amount of money and other slimy things which 99% aren't privy too or want to take part in.  It's not that they'll have an unwisely amount of power anymore so than say your car mechanic.
+2	1523198704	1	Especially when it’s a lot more transparent. Something goes wrong in the banking industry, it can be buried. Bitgrail, verge attack, it was clear what happened...even if we don’t know the exact parties, we know the outcome. 
+1	1523197425	-1	Except this won't happen.  Especially in mining. You'll have a few people with the warehouses who are in complete control
+2	1523200031	7	Monero just stopped that with a simple update and will continue to I'm the future in sure. Anyone could still spin up a bunch of PCs but the ASICs are where your example of warehouse mining comes in to play and they are not able to mine Monero as of this weekend.
+3	1523204121	1	So whos mining then if its not ASIC?
+4	1523205158	5	Gpu 
+4	1523205351	2	Botnets
+4	1523206350	2	Anyone with the hardware can join in. All you need is a CPU and/or GPU. I'm a Monero miner.
+5	1523208357	0	and you are getting pennies compared to these warehouses. What happens when the supply runs out? You all will be fighting for fees. Making fees go crazy high to justify the mining, or you wont ever find any, making it pointless to mine giving all control to warehouse guys.I don't see how this ISN'T in the future. If supply runs out, fees either have to go up or mining wont be worth it
+6	1523210273	1	We aren't allowing control by these big ASIC operations, the code is being updated to prevent them. They are the ones purely in this for the money so the situation you describe would be worse with them in the picture. I don't mine for money because it's not a lot from my machine, I mine to support the Monero network and in return I enjoy some of their coin as a reward. However, there has to be a monetary reward to incentivize people to mine of course. Otherwise there may not be enough people willing to spend electricity or dedicate their PC to this network. Once the supply is exhausted and we rely purely on fees, we will make less. Some will leave, hopefully by that point the network is large enough to remain stable even after that happens.
+7	1523210941	1	You say "we" but then its "one guy or group" who has control of whether or not code changes. So they have the power. Still back to that whole "one small group in charge of everything" area.
+2	1523199006	1	In control of what exactly?
+3	1523203913	1	of the blockchain - and therefore everything
+4	1523206807	1	yeah...right
+5	1523208451	1	Whats going to happen when supply runs out and everyone is only mining for fees? You think there is going to be enough fees going around to justify keeping the blockchain up? Then it's unusable to the people who wanna use it and not pay fees out the ass. This is a huge problem everyone is just ignoring.
+0	1523181033	62	Not really.The developers you refer to are the equivalent of a branch teller in the banking world. They are at the bottom of the food chain.The owners will remain the same. 
+1	1523191234	27	Exactly this.  Terrible tweet.  Coders wrote code.  They don’t control the money. And they don’t make the decisions.
+2	1523197263	-9	[deleted]
+3	1523204971	5	I’m sorry, what? 
+1	1523192136	7	Amazon was made by a nerd, who hired some more nerds to help him code it while he learnt to sell books. But we're just dissecting a motivational poster now...
+1	1523206377	0	Who owns the majority of crypto right now? It's not the bankers. If crypto were to reach universal adoption, wealth would be distributed even less evenly than our current system.
+0	1523175396	38	Since when are bankers not nerds?
+1	1523175608	-35	Have you recently engaged in discourse in a room of devs/engineers & bankers?It's more evident than ever.Frankly: Those I know working in banking right now are lower-IQ lemur types selling their peak cognitive years for $ + ego-fuel.Bring on the downvotes, I'm aware there's many bank employees on here.
+2	1523176731	44	Just because someone doesn't know how to code python doesn't mean they're lower-IQ.These professions require different types of people with different skill sets. Bankers generally know A LOT more about economics and finance than an engineer or a blockchain developer. 
+3	1523176817	-64	> Just because someone doesn't know how to code python doesn't mean they're lower-IQ.Cute. I'm talking raw reasoning & logic. 
+4	1523177846	59	Sounds like you could do with a dose of that.
+4	1523188839	26	To be fair, you need to have a pretty high IQ to pretend to be smart on Reddit by reposting an article and then talking down to people who are actually smarter / make more money than you. 
+4	1523183412	10	Never state being the smartest man in the room, it's not becoming.
+4	1523198089	7	/r/iamverysmart
+4	1523198847	3	This is /biz/ type shit. Keep that shit over there. 
+2	1523182890	10	Anyone who uses IQ is a fool 
+2	1523177492	7	Are your banker friends at the heads of major banks? If not, you're just talking to random dudes bankers employ
+2	1523196675	2	r/iamverysmart
+0	1523198664	5	Are bankers the most powerful people in the world? They are certainly among the most powerful people in the world, and they derive their power from holding money, but does that same logic stand for other, powerful groups like corporations and governments?
+0	1523186595	6	Investment bankers or quants controlling your money are equally nerds/smart imo
+0	1523207136	2	That is if anyone want to use bitcoin to store value. Losing 75% of initial value in 3 minths is not exactly a store of value
+0	1523208481	2	I watch Rick and Morty so yeah, I'm kind of a nerd. Very high IQ tbh. Good times ahead for me!
+0	1523191186	5	Uh no.  Developers are nothing more than coders who create the systems that everybody requests and wants. They’re not in control of the money. They are, just like in real life, workers who build the structure. In the decentralized world of crypto, everybody makes the decisions. That’s why bitcoin cash was created. Because when the developers have too much power, and fuck everything up, you need a way to bypass them and redirect the project back to its original goals.
+1	1523199424	3	The developers who made bitcoin cash caused billions of dollars to come into existence. That’s power. The only reason their power is not as obvious as Vitalik’s and Core’s is because they are out of the spotlight.
+2	1523208089	1	bitmain and coinbase made an absolute killing from the Bcash fork
+1	1523193276	0	except for centralised coins
+0	1523180001	3	It is absolutely true. I remember when I was CIO to a big firm I was constantly calling fin guys stupid (when I was proposing ammendments and improvements which they couldn't-wouldn't get) with the one and only argument : Dudes finance is just another system. I build one system every year. So shut up and learn something. But to the downside I was hated from every body lolBankers right now are NOT needed. A...GPU is way more useful than a banker, as we speak. The world will realize that eventually but till then they will give a hell of a fight
+1	1523182384	11	Agree. Though I wouldn't have called them 'stupid'.
+2	1523188767	-2	Well if you were proving that by using currencies exchanges through a system you could get much better vessel fuel oil deals mid-long term than by paying at fixed rate and they were disagreeing without proof they were either crooks or stupid. And I couldn't call them crooks without evidence.
+1	1523186806	3	we should rush into buying nvidia stock.
+2	1523204566	1	it's probably still down from that mess with the lady getting killed, go all in.
+0	1523199126	1	This is misleading On Bitcoin, Protocol is designed in such a way that no single party not even protocol have controls over user funds. Only Individual with valid private key have total authority and control over their funds. Protocol is decentralize by design.
+0	1523199433	1	That's not how distributed consensus works but ok.
+0	1523202359	1	Nerds will rule the world and it will be beautiful
+0	1523203171	1	I hate it how a programmer / developer, who is good at his job or intensely interested in what he is doing is just a worthless "nerd".Bankers, lawyers or mechanics are never "derivative dweeps", "rule retards" or "gasoline geeks".One can hope that one day a "nerd" is not spat upon so hard in society, but I doubt that will happen. Even if the "nerds" start dressing classy and work out and eat healthy.
+0	1523203321	1	This guy have misunderstood the whole point of decentralization.
+0	1523203873	1	TIL banks just have vaults full of all our money and don't use computers. 
+0	1523205166	1	Yes and no.  Decentralization puts the money in the hands of hodlers, not the programmers.  It removes the effective monopoly governments/banks have on printing money, which is a significant net gain for most people, including programmers.You can make that case for AI programmers, since they can leverage computing power into productivity, in a way that'll scale better with Moore's law than any other field I can think of.
+0	1523205771	1	Naw banksters will still run the world sorry
+0	1523206423	1	-What do you do you?-I'm a programmer-that is so hot!
+0	1523206451	1	Lol this clown thinks the people who control the banks won’t end up controlling the protocols 
+0	1523207759	1	 rich people will hire programmers 
+0	1523211211	1	So he's stupid enough not to realise that ultra-fast algo's and ledgers are the basis of banks and trading. Wonder who set those up?    Guess what, they're not at the top of the chain. Rich people can hire 10,000 nerds.
+0	1523189795	1	Bad usage of title. 
+0	1523176433	0	Movement from Autocracy to Technocracy! I like!
+0	1523183932	0	last few decades have been the rise of the developer, and this trend will only continue
+0	1523184563	-1	Also, pretty much anyone may learn to program. Not everyone had the opportunity to become a banker.
+0	1523179473	-1	Ok, but where are stored all USDs that were used to buy cryptos?
+1	1523183893	2	The whole idea of crypto is that they expect it to replace fiat completely. This is ofc total bs, but hey...if that makes them happy let them believe it :).The world will never do without banks & fiat. Crypto will get rid of *bad* banks and *bad* fiat, but thats about it.
+2	1523191187	2	Crypto will only replace fiat if governments want that to happen, we've seen the power they have over crypto.
+2	1523191243	1	ah i see! You think the next 2 years are examplatory for the rest of human history. And ofc we will always use some form of paper money, just as we will always use horses on our fields, flat stones to make streets, turning sticks to make fire and so on /s. Yes it will replace fiat completely as a lighter did with fire, asphalt did with flat stones and heavy machinery did with horses. just not today.
+0	1523174925	0	If this submission was flaired inaccurately, [click here](https://www.reddit.com/r/CryptoCurrency/wiki/resources#wiki_flairing_content).*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1523194635	0	"We’re sorry. It’s not us. It’s the monster. The bank isn’t like a man.""Yes, but the bank is only made of men.""No, you’re wrong there—quite wrong there. The bank is something else than men. It happens that every man in a bank hates what the bank does, and yet the bank does it. The bank is something more than men, I tell you. It’s the monster. Men made it, but they can’t control it.” ― John Steinbeck, The Grapes of Wrath
+0	1523186811	-1	Fun times......
+0	1523193005	-1	So what happens when the banks invest in crypto for which they will be able to gain a market majority with the funds they have available?The “programmer” will not be the person of power, it’ll be the asset owner. Also unlike banks and FIAT, you cannot increase circulation.
+0	1523193206	-1	problem only with PoS
+0	1523194304	-1	You still have to be a gifted nerd (especially those with cryptography knowledge) to capitalize on these opportunities, same applied to bankers.
+0	1523196262	-1	How far we've come, it used to be dudes with swords and shields defeating armies, scars, blood, women, wine. Now it's Vitalikesque nerds waving the skinny finger at dudes at a conference. 
+0	1523191750	-2	Not on my watch!! Bankers 4 life!!!

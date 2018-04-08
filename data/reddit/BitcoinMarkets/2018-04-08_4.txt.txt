@@ -1,0 +1,17 @@
+File created at: 1523211327
+Subreddit: BitcoinMarkets
+Submission title: Trading exchanges need more competition. There is a serious lack of good UX in the marketplace right now. It is creating a funnel where all new traders rely on a single one like Coinbase.
+Submission created utc: 1523130847
+Submission score: 14
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523157366	3	For GDAX-like "trading exchanges" you have many superior UI/UX options. GDAX is one of the weakest trading experiences in the market. If you are talking about Coinbase, check out Abra or Circle as alternatives. There are other options depending on your market/location.
+0	1523199058	2	It always makes me laugh when people whine about customer service when exchanges have taken on over 100k users a month. 
+0	1523132204	1	I personally know a lot of ongoing projects, most of them with way better UX 
+1	1523133050	4	I am sure there are plenty of team out there who can build a solid exchange. I myself considered building an exchange. But the compliance and regulation required to interface with the banking system is mind numbing. It takes capital and a lot of legal expertise.In theory, you could do what Bitmex did and build a 100% crypto derivative exchange. But then you need to be in a friendly juridiction, and it feels like Bitmex already cornered that market.
+0	1523142241	1	We dont need coinbase or any fucking competition! We need to make people aware lf the real need and thats DECENTRALIZED EXCHANGES! 
+1	1523149024	2	This is exactly it.DEXs. That's really all we need. Built truly decentralized, there is no way for them to steal, no way for funds to get locked, any screw ups occur due to user error.The issue though are the on ramps (and off ramps). You can't buy with fiat on a DEX. And truly, there are plenty of options besides coinbase, so OP already has what he wants.
+1	1523173663	0	Decentralised exchanges will never be able to compete with centralised exchanges. 
+2	1523180217	1	RemindMe! 2 years
+3	1523180223	1	I will be messaging you on [**2020-04-08 09:37:01 UTC**](http://www.wolframalpha.com/input/?i=2020-04-08 09:37:01 UTC To Local Time) to remind you of [**this link.**](https://www.reddit.com/r/BitcoinMarkets/comments/8aklf7/trading_exchanges_need_more_competition_there_is/)[**CLICK THIS LINK**](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[https://www.reddit.com/r/BitcoinMarkets/comments/8aklf7/trading_exchanges_need_more_competition_there_is/]%0A%0ARemindMe!  2 years) to send a PM to also be reminded and to reduce spam.^(Parent commenter can ) [^(delete this message to hide from others.)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete Comment&message=Delete! dx0d6zz)_____|[^(FAQs)](http://np.reddit.com/r/RemindMeBot/comments/24duzp/remindmebot_info/)|[^(Custom)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[LINK INSIDE SQUARE BRACKETS else default to FAQs]%0A%0ANOTE: Don't forget to add the time options after the command.%0A%0ARemindMe!)|[^(Your Reminders)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=List Of Reminders&message=MyReminders!)|[^(Feedback)](http://np.reddit.com/message/compose/?to=RemindMeBotWrangler&subject=Feedback)|[^(Code)](https://github.com/SIlver--/remindmebot-reddit)|[^(Browser Extensions)](https://np.reddit.com/r/RemindMeBot/comments/4kldad/remindmebot_extensions/)|-|-|-|-|-|-|
+3	1523183088	1	Indeed, only time will tell. Let’s see in two years! RemindMe! 2 years

@@ -1,0 +1,18 @@
+File created at: 1523211328
+Subreddit: BitcoinMarkets
+Submission title: GDAX and Coinbase Verification
+Submission created utc: 1523171076
+Submission score: 7
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523203916	6	>Any suggestions?get a job
+0	1523188820	2	Get in contact with them, maybe try gemini?
+0	1523194301	2	Just put down independent contractor
+0	1523202531	1	I’m pretty sure I did self-employed without any issues
+0	1523171198	-1	dafuq is it any of their business where you worked? Use btc-e
+1	1523172855	3	It seems that website's domain has been seized by several different US agencies. I don't think it's an option?
+2	1523205632	1	they moved it: http://wex.nz
+2	1523200524	0	Wax is the new name 
+3	1523202027	2	Not sure that makes it better...
+4	1523207236	2	True
+1	1523211119	1	Basic kyc laws to prevent mules

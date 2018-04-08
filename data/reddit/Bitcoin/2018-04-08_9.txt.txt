@@ -1,0 +1,50 @@
+File created at: 1523211286
+Subreddit: Bitcoin
+Submission title: Did Bitmain just turn on 530.000 antminers? Hashrate increased by 7.5Eh or +30%
+Submission created utc: 1523188428
+Submission score: 46
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523197647	1	It's more like 2.5Eh given variance. Anyways 100000+ ASICS coming online in quick succession is a large farm being turned on. A lot of planned American farms could be coming online around now.
+0	1523192835	6	Maybe they are "testing" their new miners, s11?
+0	1523191974	12	Halong?
+1	1523193148	2	Halong*
+2	1523193445	1	Indeed. Thanks
+3	1523199580	1	Variance*https://i.imgur.com/Bl7BdvL.png
+4	1523202503	1	I love the time and effort so clearly put into these.
+2	1523206740	1	will I slide?
+3	1523207849	1	I don't believe it's bad...
+1	1523203622	1	Not that long apparently. 
+2	1523204542	1	[How long?](https://youtu.be/Vo_GMMLULXw)
+0	1523193235	2	There is a new ASIC......no one knows yet if its Bitmain for sure. But I’d bet its them
+0	1523188530	4	well they sold a lot of miners during the last bubble. these might slowly get shipped/arrive now to the customers
+1	1523190446	6	All the December-January purchases arrived in February-March. The spikes we see on the graph indicate that someone is regularly turning a huge quantity of miners on and off.
+2	1523195128	6	That's just variance.
+3	1523200306	1	Could you elaborate?
+4	1523203013	1	variance / fluctuations / standard deviations over timehttps://i.imgur.com/Bl7BdvL.png
+2	1523191472	2	And now the delivery delay is less than a week  Also the Antminer S9 price increase was cancelled, and now the price is about $200 cheaper than December  Maybe a flood of bargain buyers  > The spikes we see on the graph indicate that someone is regularly turning a huge quantity of miners on and offEvery second day, very odd
+0	1523194754	4	There were some mining restrictions in China and some of the bigger mining farms were moving their equipment because of that.  We might be seeing some of that coming back online.
+0	1523199189	1	Just guessing here but it could be that since Monero kicked all the ASIC off their network with the fork that Bitmain have switched the electricity budget from Monero mining to Bitcoin mining.
+0	1523189049	3	Did the bcash hash rate go down?
+1	1523189452	7	No, both BTC and bcash are up significantly.https://bitinfocharts.com/
+2	1523207270	1	Monero has +54% increase in 24 hours! 
+1	1523206826	1	It has been sliding in recent days, weeks. Down to 7-8% from 10-12%. Will continue to slide as the coin dies.
+0	1523207004	1	They turned off their Monero Miners, Unplugged them, and plugged in these new Miners... I guess they just dont have enough power receptacles.
+0	1523191533	0	Lots of miners were shipped and turned on from more than Bitmain. Haolong and Canaan delivered. I believe only a few mining pools are using Bitmain now. The rest have moved to different more efficient manufacturers. 
+1	1523197487	1	>  I believe only a few mining pools are using Bitmain now. The rest have moved to different more efficient manufacturers. Source?
+2	1523200715	1	Yeah i'd be interested to read... I don't follow asic news much, but still figured bitmain was #1 by a good margin considering the old devices still in use.
+0	1523192604	1	and this is why mining profitability is going down.Good! Good! We need to know what happens when mining becomes unprofitable.
+1	1523192739	3	Nothing much the difficulty will just go down and yeah some miners might looose but those that remain will enjoy less competition until people it’s profitable etc etc cycle cycle. Merry go round. 
+2	1523193080	7	> loooseI've seen it misspelled with two o's before, but three o's, that's a first! Rock on.
+3	1523203034	1	You spell it that way when she's a real slut.
+2	1523195491	0	those that remain will see their hashrate share increase. Just another step towards 51% attack.
+1	1523197426	1	Mining is, and always will be, profitable for some and unprofitable for many.
+1	1523200895	1	I think it was unprofitable 2 years ago? or when the crash from 1,000 to 200 was.
+2	1523207022	1	Compare the network hashrate from 2 years ago to the current one, then explain to me how it is the same thing.
+3	1523208671	1	Profitability is based off hardware cost + hardware speed + total hashrate not just the hashrate. I can remember people complaining 2-3 years ago when BTC was around $200 that it was unprofitable even for the Chinese. Also we know what will happen already, hash may drop, not by much but that doesn't matter as the network is far too over-secured already.
+4	1523210420	1	No it is not. You are wrong.Let me teach you.The bitcoin protocol applies the dificulty algorithm every 2016 mined blocks, increasing the dificulty to maintain a more or less average constant output of mined blocks per time unit.If the number of mined blocks increases, the dificulty increases. Since adding more hashpower into the network increases the probability of discovering a block, then the number of mined blocks increases, that is, until the dificulty algorithm kicks in.By addindg more hashrate to the network, the energy consumption increases, which means more money needs to be spent on energy.So, Bitcoin mining costs increases.Bitcoin network hashrate has trippled in the last six months. Hardware advancement is not capable of increasing the hashrate using the same energy, with the same ratio of growth of the network hashrate.It is simple to understand. The more hash power is added to the network, the more energy is consumed, which reflects in increased mining costs.If miners do not keep adding hashrate into their pools, their profit will decrease over time because other mining pools will increase their hashrate and see their chances of discovering blocks increase.[Bitcoin mining profitability](https://bitinfocharts.com/comparison/bitcoin-mining_profitability.html#3m)
+1	1523203419	1	If you need an experiment to know what happens when mining becomes unprofitable, then you don't understand how bitcoin works. 
+2	1523206967	1	Explain it to me, Mr Genious....
+0	1523196714	1	Haven’t you heard bitcoin cannot be 51% attacked anymore. 
+0	1523202790	1	Samsung?
+0	1523206537	1	It's just variance like the last extreme spikes on the chart. Mining is probabilistic, you have to take an average of block times to infer hash rate. This is why the difficulty adjustment waits for 2 weeks. Wait for a longer average before jumping to conclusions.

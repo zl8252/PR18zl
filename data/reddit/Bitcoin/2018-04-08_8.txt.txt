@@ -1,0 +1,59 @@
+File created at: 1523211285
+Subreddit: Bitcoin
+Submission title: Sassy Satoshi
+Submission created utc: 1523144451
+Submission score: 65
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523163246	11	Notice how he means mining by "running a node"?
+1	1523183841	6	I talk about this in depth [here](https://medium.com/@kellerbarnette/1-billion-of-new-mining-equipment-added-to-bitcoin-f5bbbddf2764), but it is a very big issue. In the White Paper, there were but a few points discussed, many of which are no longer valid today. **In White Paper, "Miners" are never mentioned.** Only Nodes. It was never intended for Miners and Nodes to be significantly different.In White Paper, it explicitly states that IP address would allow one person to accumulate more power than another. But that PoW was "**One-CPU-One-Vote**", which is CLEARLY stated to be the opposite of one person acquiring more power than another. It also states that this method allows for **fair distribution, as there is no central authority** of issuance. Distribution is no longer equal, or even approximate to.In White Paper, regarding 51% Hash Attack, it states that this would '**invalidate their source of wealth**'. This is no longer true today either, as there are many alternative cryptos, such as Bcash. Destroying Bitcoin would not destroy Bcash, thus it would not invalidate their source of wealth. In White Paper, it STRONGLY **warns against anyone group acquiring over 10% of the Hashing Power**. It sets a boundary of 10% as concerning, and 30% as intolerable. Today Jihan has a very significant amount.In White Paper, it suggests **99.9% accuracy should be the standard**. It then says that with **45% Hash Concentration, this can only be obtained after 2 and half days** as opposed to 1 hour, with a maximum of 10% concentration.For those that are unaware, there is no possibility of getting 99.9% accuracy after 51% Hash Concentration. After 51% Hash Concentration, effectively other Nodes become irrelevant. ASIC Resistance is part of what made Bitcoin great, but what we have today is not what Satoshi had in mind or invented. Not due to technical improvements, but due to intentional disregard to his warnings, and his ideals."**One-CPU-One-Vote**"
+1	1523176349	0	At that time you couldn't run a node and not mine. The two was synonymous
+2	1523177542	3	That's not true.  All nodes were capable of mining, but it was optional.  You had to enable "Generate" in Options.
+2	1523177681	2	You could disable it.
+1	1523165330	-9	Yes, and it makes sense. "Mining" will effectively cease once we hit 21 million. To me, the small details in his choice of language signal his unparalleled vision.
+2	1523170050	7	No, mining will continue because of the transaction fees.He didn't think about ASIC centralization, it was not part of the original plan.
+3	1523174899	2	If you limit blocksize and need to use LN to scale are the mining fees going to be enough?
+4	1523177095	1	Yes, the technology is here.
+4	1523180341	1	If I can transact 1000x withing a LN channel, I can pay 10 or 100x the onchain fee and still be out on top
+5	1523181575	2	But what incentive is there for the miners to mine if the block reward is 0 and the fees total due to low block sizing is not worth the effort? 
+6	1523208386	1	You get the fees, and each fee can be alot higher if everyone can use each transaction many more times as per my exacmple. That's why there needs to be limited blockspace. If there is always space in the blockchain then every transaction will be very cheap. Currently there isn't pressure on the blockchain so it's very cheap to transact. But we saw in december that people were willing to pay alot to use the network. Now we don't necessarily wanna go back to those fees for a single transaction. But if LN means I just need to transact on the blockchain once per month and afterwards can use that for 100s of transactions then higher fees are very reasonable to pay.Last block (#517252) had 0.15 btc in fees, 0.15x100 would be 15btc wich is more than the current reward and a net equal for someone in the example I gave.
+3	1523172593	-1	Mining is used to extract virgin metals from Earth. There's nothing virgin about recirculating bitcoin. Miner -> node operator.
+4	1523178194	2	If you grab your mining equipement and start digging the ground you might find virgin gold as well as a gold coin that someone accidentally droped 1000 years ago. Also, what's exactly wrong about recirculating Bitcoin?
+0	1523149528	18	I am sure Satoshi is browsing around the forum and perhaps this subreddit using his burner accounts. Perhaps some of us even got to engage in conversation with him. Or even better - he might be trolling people on forums and subreddits :)
+1	1523151800	7	I kind of assumed he's dead until I saw he made a forum post in 2014 saying "I am not Dorian Nakamoto." I just really really want him to make another appearance online or better in person. There's just a lot I want to know about this guy. He's like the mystery of the century. 
+2	1523156284	5	> I kind of assumed he's dead until I saw he made a forum post in 2014 saying "I am not Dorian Nakamoto." Was that a signed message? If not anyone could have written it.
+3	1523167124	3	Satoshi never signed anything.
+4	1523172582	1	Not true.. He did sign a transaction to Hal Finney
+5	1523176502	3	Yes, Satoshi sent Hal Finney coins.  Satoshi didn't make use of PGP keys to sign messages though.  If you want interpret Satoshi's P2PK payment to Hal as signing something sure. 
+6	1523196044	1	I didn't mean PGP keys. Maybe *signed* was the wrong word. The best proof we'd have is if he moved some of the early coins. Unless there's proof anyone can write messages in the name of Satoshi.
+3	1523164114	5	It was the same forum account he'd used previouslyEdit nope it was a lie 
+4	1523165836	4	I thought that account was fake and the i was an upside down exclamation markSatosh¡[https://bitcointalk.org/index.php?topic=506692.0](https://bitcointalk.org/index.php?topic=506692.0) Follow the username
+5	1523166384	2	That is not even the post in question. This is the post on satoshi's original p2p foundation account.http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A52186Althought it is debatable still if it was him or not as some people claim the account has been compromised in the time between 2011 and 2014 when it was posted.
+6	1523179898	1	Wasn't him. Someone compromised his email by re-registering it when it expired, and reset the password to the forum account that way.
+5	1523165898	0	Oh damn 
+2	1523168782	2	Google “Hal Finney”
+3	1523168841	2	Yeah I've considered him but I don't think he is.
+4	1523172625	2	But why? because it is too obvious? 
+1	1523160604	2	Is there any good argument for it *not* being Nick Szabo?
+2	1523181089	4	Yes. Wei Dai who seems to know Szabo quite well says it's very unlikely: https://www.gwern.net/docs/bitcoin/2008-nakamotoWei Dai is himself creator of b-money and Satoshi candidate.
+2	1523170586	4	Is there a good argument for him _not_ being Batman?
+1	1523185269	1	I really don't like this idea and I would really prefer Szabo, but the theory about Dave Kleiman (working for CSW) looks credible.
+0	1523159616	11	More funny Satoshi quotes:* ["There should not be any signed int. If you've found a signed int somewhere, please tell me (within the next 25 years please) and I'll change it to unsigned int."](https://bitcointalk.org/index.php?topic=760.msg8413#msg8413)* ["This isn't the kind of software where we can leave so many unresolved bugs that we need a tracker for them."](https://bitcointalk.org/index.php?topic=1063.msg13211#msg13211) (Currently there are 533 open issues on Bitcoin Core's github.)* ["I'm sure that in 20 years there will either be very large transaction volume or no volume."](https://bitcointalk.org/index.php?topic=48.msg329#msg329)
+1	1523175594	0	> "tell me (within the next 25 years please) and I'll change it~~I never knew Satoshi gave us a hint about his age. Interesting, he was around 45 years of age then and around 55 now.~~
+2	1523178430	8	How is that a hint at his age? I think he was programmer joking about how long he has to fix it before signed int is a problem 
+3	1523194932	1	Comment aside, he did hang out on a forum populated by older folks, old cryptography geezers like Hal Finney. Chances Satoshi was 40+ are really high.
+3	1523180456	0	Wut?
+4	1523184738	5	He wasn't talking about his retirement age or death or anything. It was simply about signed int overflowing (becoming a problem) in 25 years, so it would have to be fixed before that.
+5	1523185545	1	~~You are right, it' s about integer overflowing but I think the 25 years isn't the time interval for the overflowing to occur but the time Satoshi could still fix it himself when it occurs.~~
+6	1523185703	3	It is:https://en.wikipedia.org/wiki/Year_2038_problem
+7	1523186417	2	Didn't know he was referring to that date, so you are right, nothing to do with Satoshi's age. Thanks.
+7	1523185707	1	**Year 2038 problem**The Year 2038 problem relates to representing time in many digital systems as number of seconds passed since January 1, 1970 and storing it as a signed 32-bit integer. Such implementations cannot encode times after 03:14:07 UTC on 19 January 2038. Just like the Y2K problem, the Year 2038 problem is caused by insufficient capacity of the chosen storage unit.***^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/Bitcoin/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]^Downvote ^to ^remove ^| ^v0.28
+2	1523178300	0	Szabo ;) ?
+0	1523159212	5	satoshi make another post ya bastard!
+0	1523145072	5	This is not the case today, frees are added to all transactions
+1	1523147453	9	Yeah, still funny. Didn't know Satoshi had much of a personality. 
+2	1523148948	5	Satoshi wasn't infallible.  He often changed opinions based on feedback.  So, this is reassuring to see his human side. 
+0	1523172865	1	Some people have angst with Theymos but no matter what they say he had the foresight to appreciate the potential of Bitcoin very early on. 
+0	1523181935	1	It's incredible that we know nothing about the person who gave rise to an asset class, which in turn spawned an economy of billions of dollars.I hope we find out more about him/her. Sometimes wonder if CSW is actually Satoshi(given what Gavin Andersen said), but playing the fool.
+1	1523186640	3	No, he definitely isn't. Subtile intrinsic details in the whole behaviour, speech, tone and attitude about CSW reveal perfectly well that he _is_ a fool, I promise you he is definitely not playing the fool and he is definitely not Satoshi, because these things are impossible to fake at will.
+2	1523206546	1	I haven't seen any clips of CSW - not that interested.How would a guy like Gavin Andersen get fooled though.. that just baffles me.

@@ -1,0 +1,156 @@
+File created at: 1523211278
+Subreddit: Bitcoin
+Submission title: Twitter finally suspended the compromised "@Bitcoin" account
+Submission created utc: 1523172946
+Submission score: 430
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523174793	141	Ah, I see that they finally got [my check](https://i.imgur.com/pULlIcg.png).
+1	1523175465	17	You're doing God's work.
+2	1523201762	1	And by God, we mean good ole dick eating shit drinking John.That man knows how to handle a good payoff.
+1	1523204781	1	[Engage bidding war.](https://twitter.com/cryptomanran/status/983014546343452672) 
+2	1523204794	1	[**@cryptomanran**](https://twitter.com/cryptomanran/)> [2018-04-08 16:11 +00:00](https://twitter.com/cryptomanran/status/983014546343452672)> Hey @Bitcoin , would you sell me your twitter handle? Will pay you $5000!----^This ^message ^was ^created ^by ^a ^bot[^[Contact&#32;creator]](http://np.reddit.com/message/compose/?to=jasie3k&amp;subject=TweetsInCommentsBot)[^[Source&#32;code]](https://github.com/janpetryk/reddit-bot)[**^[Donate&#32;to&#32;keep&#32;this&#32;bot&#32;going]**](https://www.paypal.com/pools/c/80YvGrbq35)[^[Read&#32;more&#32;about&#32;donation]](http://np.reddit.com/r/nfl/comments/7pwo2m/heres_an_interesting_one_league_source_says/dsmirtu/)
+2	1523210197	1	It just got suspended again....
+3	1523211075	1	/u/theymos obviously cut a 2nd check. /s 
+1	1523185307	5	How exactly are you stopping cobra from changing dns of your sites
+2	1523206109	1	That's a good question, but it implies Cobra is trying.There's also a whole cornucopia of speculation paths you can go down, but since none of them are provable, it would be useless to ask how someone manages to be successful at something when there's no proof they had to try.
+1	1523182841	3	I don't know how to pay you for your service 🙏 
+1	1523183047	1	That is fucking hilarious. The smoking gun! 
+1	1523183361	2	Are you sure you have enough left to get the new bitcointalk forum software done?
+1	1523211180	1	Dude, you are freaking awesome!!!
+1	1523192345	0	I hope my DM advice helped, if so I'll be happy to run the account. 
+1	1523195206	-1	your account numbers are ... intimidating.
+0	1523178040	59	It was pretty obvious that Roger bought this account. R. Ver account and @Bitcoin were liking the same stuff at the same time lol.  
+1	1523206219	1	I was simultaneously blocked by both accounts right after commenting on Ver's tweet with a poll.I think everyone knew, but life teaches you to leave 1% open for doubt.Now that @bitcoin is a fresh account, I'm back to polling. [**Results are telling.**](https://twitter.com/StopAndDecrypt/status/982999257618767872)=)**Edit:** Looks like the account is suspended again. Hopefully it stays this way. Nobody or entity represents Bitcoin.
+0	1523175633	84	Let's hope Roger gets the psychiatric care he needs.
+1	1523178590	59	Your comment just killed 10 babies
+2	1523186354	19	I am a self-made multimillionaire and will not be insulted 
+3	1523202048	1	This one and the one above are gold, lol.
+3	1523210731	1	How much revenue does your little porn site generate per year? Hmm?
+2	1523178845	11	Now you've made me cry.
+3	1523185622	4	People only cry when they can't get bcash
+4	1523201860	1	They can't because of censorship!!!!Cens0rsh1p!!11@!!!!1111
+1	1523207471	1	roger is flipping off to the screen probably.
+0	1523179263	34	r/btc mad much?
+1	1523194542	14	Yes, they are
+2	1523206057	1	Excellent. 
+0	1523174968	53	Imagine paying the amounts they must have done for the account, only to have it suspended
+1	1523201898	1	Well hopefully this is suspension is permanent
+0	1523174181	15	censorship bwaa bwaaa core censorship thay dun let us trollin they hatin uzz bwaa
+0	1523173085	31	Yes! F**ck off Roger!
+0	1523183919	5	Of course we are all assuming it is suspended because of Roger's activities on the account.  One hopes it's not part of the wider crackdown on cryptocurrency advertising announced recently....
+0	1523196181	5	@bitcoin just tweeted> https://twitter.com/Bitcoin/status/982980693985808385> Merhaba Twitter! #myfirstTweet
+1	1523198305	1	ya, did someone manage to take it? How could the username become available so quickly?
+0	1523174888	25	Twitter lifted the suspension last time. This might only be temporary.edit: Called it. Now some random Turkish dude has it. https://www.reddit.com/r/Bitcoin/comments/8aq0hw/bitcoin_back_online_with_protected_tweets_and_a/
+1	1523200603	1	LOL. Roger must be in REEEEEEEEEEEEEEE mode. 
+1	1523177289	7	No, this is different.  It is a full suspension.Look at the wording Twitter used last time the Bcash scammers were warned.
+2	1523179635	1	What was it last time?
+3	1523180982	3	It was something like "This profile is restricted, please confirm you want to view this profile?" if you tried to go to the profile page. You could still view it but only after pressing a button saying you wanted to continue.
+4	1523181037	1	I hope this time it's suspended for good
+0	1523178978	4	Ok, it’s suspended but who do they now allocate it to ? 
+1	1523183780	7	Nobody, let it die.
+2	1523186922	2	100% agree. Is it possible to do that on Twitter, Facebook, Instagram etc etc ?
+1	1523198328	1	looks like some random has it right now?
+1	1523209033	1	someone from Turkey i Think got it :)
+0	1523188196	5	Im pretty new to crypto. Can someone fill me in on the difference between btc and bch? Why does there seem to be beef between the two and why is r/btc ran by people who run bch?
+1	1523192681	11	Bitcoin forked into Bitcoin and Bitcoin Cash.Bitcoin added Segregated Witness and is using the Lightning Network to scale.Bitcoin Cash increased the block size, and has been following the Bitcoin white paper for guidance in development.
+2	1523205928	1	> Bitcoin forked into BitcoinThis makes no sense. Bitcoin didn't fork into itself. Bitcoin didn't fork at all.BCash forked off from Bitcoin.
+2	1523206524	1	> and has been following the Bitcoin white paper for guidance in development.Hah. Supposedly. 
+3	1523210288	1	Is there evidence to the contrary?
+2	1523196682	4	A few things that should be added:## Bitcoin **softforked**, Which means that they did a backwards compatible change. Hence, if you had downloaded any full node software BEFORE the fork, and didn't follow any politics or news, your node software would still work and it would be interacting with the Bitcoin blockchain.Between the changes:1. They reorganized how the network stores signature information for newer transaction, preventing something called Transaction malleability (This is what they call segwit, *segregated witness*)    That is, they removed the ability to copy a transaction someone else made and modify it slightly, keeping the signatures valid. Which was a major security hole and a major pain if you want to develop any kind of automated interaction.    Lightning is one of those such applications that relays on automation working well. You could make lightning work without that fix, but it would have been a huge pain to program. 2. Also, they used that opportunity to increase the block size weighting the new information different on a block "total size".## Bitcoin Cash **hardforked**, Which means that they did a non-backwards compatible change. You had to download new software and use it to be able to start working on Bitcoin Cash.Between the changes: 1. They changed how Difficulty discovery happens.     That has had the consequence that they have created far more blocks than intended by design, bleeding a lot more value to miners (You should think of a block reward as a few that everyone pays to miners to keep the network).  Note that it still has less Work on the total chain, since Work is added between blocks, and the total sum of work is much smaller in bch than btc.2. They increased the block size directly, by increasing it by 8
+3	1523203620	1	So you're saying that if I run an old Core node, I'll see Lightning transactions too? And why can't Bitcoin Cash support SegWit transactions if they're just a soft fork?
+4	1523206323	1	## I run an old Core node, I'll see Lightning transactions too?If you run an old software, you won't be able to use the new transaction methodology that prevents transaction malleability, since that is part of the new code. You will still see all transactions going through the network.nonetheless, **Nobody sees lightning transactions**. Lightning "transactions" are simply bitcoin scripts:- If nobody is cheating, they just look like normal 2 on 2 multisig. - If someone is cheating, the script looks a bit more complicated.What Segwit allowed is monitoring the bitcoin network by only requiring the transaction ID of what you are trying to monitor, rather than having to read each transaction, finding out what script corresponds to it, and deciding whether that looks like it might be from a lightning channel you are monitoring or not.## Why can't Bitcoin Cash support SegWit transactions if they're just a soft fork?They don't support segwit because of politics, they could implement it tomorrow if they really wanted... it wouldn't take a lot of effort, everything is already coded already.However, they have been claiming for a long time that segwit is insecure, flawed, etc... So they will probably fix malleability at some point with their own solution.
+4	1523208399	1	For the newcomers, this reddit account used to run a popular bitcoin wallet called Mycelium, then it started scamming customers via a dodgy pre-sale. Now this leader just trolls pro-bcash statements on the bitcoin reddit.Technology has moved on yet Mycelium is stuck in the past.Yes an old Core node will see Lightning channel opening and closing transactions. BCash can't support segwit because it was created to allow Bitmain to be able to continue using covert asicboost, which is broken by segwit.
+2	1523206753	1	Lies.
+1	1523206496	1	BCH was created so that Chinese miners would be guaranteed to keep receiving big fees for transactions. 
+0	1523176982	13	Finally 
+1	1523196303	-1	Took the words right out of my mouth!
+0	1523175772	13	Next one, @CobraBitcoin.
+1	1523180217	16	Don't think he's compromised. Just an idiot.
+2	1523183781	5	Don't think he's an idiot. Just a troll. 
+3	1523195906	3	No one is this dumb accidentally.
+4	1523208566	1	[Hanlon's Razor](https://en.m.wikipedia.org/wiki/Hanlon%27s_razor)
+5	1523208570	1	Non-Mobile link: https://en.wikipedia.org/wiki/Hanlon%27s_razor***^HelperBot ^v1.1 ^/r/HelperBot_ ^I ^am ^a ^bot. ^Please ^message ^/u/swim1929 ^with ^any ^feedback ^and/or ^hate. ^Counter: ^169378
+5	1523208572	1	**Hanlon's razor**Hanlon's razor is an aphorism expressed in various ways, including:"Never attribute to malice that which is adequately explained by stupidity."It recommends a way of eliminating unlikely explanations for a phenomenon (a philosophical razor). And as an eponymous law, it may have been named after Robert J. Hanlon. There are also earlier sayings that convey the same idea dating back at least as far as Goethe in 1774.***^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/Bitcoin/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]^Downvote ^to ^remove ^| ^v0.28
+5	1523208888	1	Yes, and once something can no longer be explained through stupidity, malice is the most likely.
+2	1523185167	1	How exactly is theymos stopping him from changing dns
+1	1523177302	5	proof he is compromised?
+0	1523182316	3	I'm late to the party. This was a BCH account right? Why did they get suspended? What did they do?
+1	1523197267	1	The account was for years and years basically a price bot(with occasional pro bitcoin RT of coindesk articles) until August of last year. Then the bot stopped. The Account was inactive until late 2017 when it re-activated spouting pro BCASH anti Bitcoin articles and whatnot. Quite a textbook account take over.
+1	1523182616	-2	Er, BCH account.  @Bitcoin.Did you answer your own question?
+2	1523182683	4	Still don't get it. r/btc is a BCH SubReddit and nobody closes them. Why would Twitter care about Crypto shills?
+3	1523182824	5	Each company has its own rules.  They are entitled to enforce them.The @bitcoin twitter account was clearly passing off BCH as the well known and well understood public entity BTC.So Twitter shut them down.The same would happen if I opened an @cocacola account, and started selling piss in dark bottles.
+4	1523182976	1	Make sense. I agree they were false advertising. Still seems obscure to me. I mean, Twitter is so full of fake John McAfees and Bill Gates's asking you to send them Ethereum. I thought Faketoshi's vision would be beneath their notice.
+5	1523183109	1	I assume they respond to the weight of complaints.And the weight of complaints isn't some kind of conspiracy (which the Bcashers will claim) - Bitcoin is known worldwide and well understood - you simply can't pass off and get away with it.
+4	1523199267	1	Hello sir, I would like to order 100 cases of your delicious beverage.I am willing to pay using "authentic" bitcoin, BCH.
+4	1523204979	1	cocacola analogy is hilarious
+2	1523206302	1	Bcash, then.
+0	1523198593	1	so.... someone got their hands on this account? https://twitter.com/bitcoin  now has two posts, registered in April (today) and shows a nice picture of a big cat.
+1	1523208726	1	Proof of Meow
+0	1523199655	1	And now it's re-registered by a Turkish person?
+0	1523204556	1	I complained to Google, because when I would Google bitcoin I would get a prominently displayed Twitter feed of @Bitcoin with three separate posts, and always the first one was that bcash was the real bitcoin.  I found it a fraudulent statement intended to confuse and induce newbies to buy their cheap knock off product.  Twitter didn't seem to be shutting it down.  So I complained to Google.  The whole social media seems to be cracking down on bad icos and fraudulent account holders, so maybe we just had to wait our turn to see this crappy Ver site shut down.  If we regulate our own communities we won't need federal regulation, so congrats to Dorsey here for a job well done.
+0	1523173302	7	Good news !! 
+0	1523178381	5	Meanwhile, over on the naughty step, multiple conspiracies are hatching:https://www.reddit.com/r/btc/comments/8anmkg/bitcoin_suspended_on_twitter/?ref=share&ref_source=link 
+1	1523179204	13	Haha, panic in the Bcash community because they lost one of their manipulation tools. Prospects are not so bright for them already.....
+2	1523179383	14	Everything to them is some kind of conspiracy.It is absurd.  The number of times I've been accused of being paid by some higher BTC authority - it is completely absurd.I'm just a guy who owns some BTC and hates dishonesty - but they can't see it.Brainwashed, and washed out of their money.
+0	1523188692	16	It saddens me that everyone is so jubilant about this. If somebody paid for the handle they should be free to do with it whatever they want*. Since when is the bitcoin community in favour of companies running centralised platforms deciding who should be allowed to have what handle?\* Of course, twitter as a private company can do whatever the fuck they want but I don't think we should be edging them on in deciding who is allowed to be the true voice of bitcoin.
+1	1523189260	18	> If somebody paid for the handle they should be free to do with it whatever they want.Pretty sure this is the exact behaviour Twitter is trying to stop, as it is damaging trust in their platform. 
+1	1523193396	8	Well if they use it to scam people into believing Bcash is the true Bitcoin of course we are in favour of it. It will prevent a lot of people from making bad choices
+1	1523204356	1	Centralized companies that are voluntary and people choose to associate with or not are not at odds with Bitcoin.  Centralized companies that are given monopolies by the state are.
+1	1523205328	1	I see your view, it is a very libertarian view which the Bitcoin the community natural leans that way.It is also a libertarian view that Twitter as a private entity has a right to ban accounts they feel hurt their image.
+1	1523206549	1	The account was committing fraud by misleading people into believing that bcash is Bitcoin. 
+1	1523196469	7	Buying/selling Twitter handles is supposedly against Twitter's ToS. The @Bitcoin account has leased OAuth2 access to another publisher in the past, this access was abruptly terminated at the start of 2018 and started promoting Bitcoin(dot)com propaganda exclusively, as well as a wide range of deceptive (fraudulent) altcoin propaganda echoing Roger Ver. The account operator and Roger Ver both claim that the account was not sold, but given the abrupt shift and Roger Ver's proclivity to throw his money around to get what he wants, I think it's likely the account changed hands. Now imagine if CocaCola's Twitter handle started promoting Pepsi as "The real Coke" all of a sudden, while trashing CocaCola. The account would likely be suspended due to impersonation or some other ToS violation. It seems like the same thing happened here. As for "which is the true Bitcoin", that was never a question. Bcash has always been an altcoin since its creation on August 1st 2017. Hijacking the @Bitcoin Twitter account to promote this altcoin and trash talk Bitcoin is a dirty move that amounts to fraud. You can thank Roger Ver for getting the @Bitcoin account suspended since he's largely to blame for the scammy Bcash marketing.
+2	1523199537	1	> "The real Coke" Coke ClassicCoke ProCoke XTCoke UnlimitedCoke GoldCoke DiamondCoke QuantumCoke
+2	1523203421	1	Thank you for writing Bitcoin(dot)com. This way if anyone searched for that domain on Google, they won't find any posts of yours describing it as propaganda and fraud.
+3	1523206288	1	Said the former mycelium shill, now bcash shill.
+3	1523208749	1	Roger Ver has spent millions of dollars on SEO for that domain. I doubt my stupid reddit comments will be able to compete with that, but the more people who know that Roger Ver is a scammer, the better. 
+1	1523194389	2	You were so close. The next step is, "Everyone posting here is a free individual, so I shouldn't be sad that *they* do what they want."
+1	1523206737	1	And we should be free to be jubilant. It's not what it was saying  that was worrying people it was the use of this official sounding handle to spout propaganda. 
+1	1523195101	1	Twitter is a public company
+2	1523208341	1	Yes Twitter is a publicly traded company but I assume he meant they are private sector company and can do whatever they want with accounts which is completely true.  
+0	1523175264	3	This guy:https://www.reddit.com/r/btc/comments/88j59x/i_just_sold_my_last_5_bitcoins_for_bitcoin_cash/?ref=share&ref_source=link
+1	1523177776	6	That was a truly disturbing read.
+2	1523178045	4	Yes - it just beggars belief.
+1	1523178433	11	That’s just posted to make other people buy BCH. I don’t believe a f of it.
+2	1523178618	3	You might be right, maybe just a shill.
+1	1523188958	1	They used to make weekly "sell my last bitcoin" threads during previous bcash low
+0	1523204367	1	Cool now they can create @BCash for themslves!!
+0	1523204479	1	oh no where do I get spammed about bcash now?
+0	1523208804	1	The account is suspended once again. I hope that Roger Ver doesn't get it back.
+0	1523210746	1	Great work.
+0	1523183233	3	fork Twitter then, Twitter Cash will be the real twitter that follows the original vision of twitter 
+1	1523203080	1	Tweety's Vision™
+0	1523177850	4	Wow, that is great news! Hopefully Roger´s account will be banned too at some point. This criminal should be locked up.
+1	1523190389	1	Should every criminal be locked up forever for every petty crime?
+2	1523191208	-1	[removed]
+3	1523198515	1	[removed]
+0	1523174171	3	YES YES YES!YES!(Someone who isn't banned over at r/btc please go over and post this.  I'm messaging RV with my congratulations.)Edit: I edited it
+1	1523177053	0	Man I am so banned over there I am not even allowed to talk to their Mods. Ha Ha. I think everybody who loves bitcoin should go over and give them never ending shit one day and get ourselves baaannned.
+2	1523177096	5	For some reason they don't like my name.
+3	1523177646	2	Heh Heh
+3	1523194990	1	I do
+0	1523173177	3	How did that weasel manage to steal it? Where can I read about this?
+1	1523174240	4	While we don't know who owned that account, it does seem like it was bought by a wealthy bcash proponent recently.
+2	1523178767	4	Yup, posts changed literally overnight, from one grammatical writing style to literal verbal diarrhea
+0	1523195988	2	This is what happens when Coca-Cola Twitter account all of sudden starts to promote diet cherry dr pepper. 
+0	1523196751	1	Bcash is scam. Bcash is NOT Bitcoin
+0	1523194001	2	Wow this thread is toxic
+0	1523198370	1	How good are a lot of millions if one cannot freely scam others to make even more millions?
+0	1523201504	1	There is no need for an official bitcoin handle on Twitter and there won't be any. @bitcoin uses only the name of bitcoin, nothing more.
+0	1523201657	1	Selling of a Twitter account is against Twitter’s TOS. Thus @bitcoin was violating the terms of service they agreed to. They should have been shut down a long time ago. 
+0	1523211075	1	Finally thx god !
+0	1523179069	2	For fuck sake finally... Ive reported it many times.
+0	1523191051	1	https://help.twitter.com/forms/impersonation#brand_impersonationIt's ours. Fill it in.
+0	1523197464	1	#This is good for Bitcoin. 🎉
+0	1523200352	1	Its been a while but I still don't know how BCH supporters own /r/BTC and Bitcoin dot com Its unreal, tbh. How many newbies bought BCH thinking they were getting Bitcoin. 
+0	1523201164	1	Why did @Bitcoin get banned tho? I mean in what way didn't it respect Twitter's rules?
+0	1523202765	1	This is going to be SO easy to put a media spin on about Bitcoin being attacked by trolls and Blockstream shills. It's obvious the people who caused this to happen through constant reporting didn't even think about it. Or knew about the Streisand Effect.
+0	1523174136	0	Independence day
+0	1523186801	0	:-D
+0	1523195096	0	Because Twitter manipulating everything worked out really well for the 2016 USA election
+0	1523173966	-1	good job
+0	1523173794	0	Nice! it's just been decentralised ;-)
+0	1523209054	1	TaxiCash™ is an Australian innovative, patented, Blockchain solution for live processing of ride payments in Taxi / Limousine industries world wide. TaxiCash™ will reduce the travel costs by about 13-18% by eliminating credit cards and Bank interfaces. TaxiCash™ is also the world's first payment progressing system for driver less cars.50% token bonus for ICO pre-sale which starts on 1 May 2018. Visit & Register now at www.taxicash.io
+0	1523173682	-1	cliffs?
+1	1523178557	1	Can you explain?
+2	1523185801	1	Summary / cliff notes ?

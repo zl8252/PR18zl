@@ -1,0 +1,45 @@
+File created at: 1523211284
+Subreddit: Bitcoin
+Submission title: The problem with international wire transfers is far greater than just waiting 3 to 5 business days
+Submission created utc: 1523170773
+Submission score: 96
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523182441	5	Try wiring different currencies. One of the banks will convert it at a rate depending on how much you're wiring, but guaranteed worse than when you naively look up the fx rate (spot rate).In that case, it's better to convert currency 1 to BTC, transfer that, then convert BTC to currency 2 at the receiving bank. I've done this and it's shaved several % off the cost, which adds up quickly of course. But it's a real pain doing all that.I can't wait to not have to convert currencies at all and travel using Bitcoin.
+1	1523183760	9	>  it's better to convert currency 1 to BTC, transfer that, then convert BTC to currency 2 at the receiving bank. I've done this and it's shaved several % off the costIn the meantime bitcoin has crashed 10%
+2	1523191224	8	true, but most of us have learned to look both ways before crossing the street ;)
+3	1523194176	1	Yes, but what about those who haven't?The government should pay treasury officers to hold their hand and escort them across the street.
+4	1523197226	1	Crypto has a very steep learning curve lol. If you're not smart about things you're going to have a tough time. This doesn't help the average person, but that's only because the average person will not take the time to educate themselves. I do believe money should be simple and easy for all to use, and I do believe we should help those who don't know any better. That being said though at the end of the day you have to take the responsibility to educate yourself. If not you should stay away from crypto until it is more accommodating or until such things are in place.
+2	1523209145	1	Bad info.This transaction could occur in under an hour, and BTC ain't that volatile, boy.
+0	1523177777	8	Recently just had an international wire rejected for unknown reasons. Worst thing is I can't get any response from the corresponding bank + got fees deducted.Total joke.
+1	1523179708	5	Absolute insanity
+1	1523193410	1	you should change banks
+2	1523193990	1	My bank is actually fine and refunded me the fees. But the exchange's bank is un-contactable, not sure if i can get back the fees incurred. If not that the end of the relationship /r/QASH
+0	1523188768	8	Use transferwise.comSolves every single problem you just mentioned.
+1	1523200373	1	Transferwise is a great short term work around and good until bitcoin banks the unbanked while debanking all of us.
+1	1523201939	1	It is good until your account is frozen :)
+1	1523190474	1	This is interesting. Unfortunately it probably can't be used for transfer with crypto exchanges since the bank accounts are different and wouldn't pass KYC/AML.
+2	1523191296	2	Yea this has nothing to do with crypto.It's just a good startup that has made international money transfers suck less... and 19x cheaper than PayPal.
+2	1523190636	1	They also don't allow payments to / from exchanges or for crypto\-purposes, I got my old account blocked after withdrawing directly from Coinbase to it.
+0	1523190733	5	The OP is spot on. Even sending money from one country to another *within the same bank* takes days, even if you're sending money to yourself, and there is no 'track your parcel' feature as there is with FedEx. How pathetic is this going to look in a few years' time?
+1	1523209804	1	Citibank usually takes about 5 minutes, to or from the United States and Korea
+0	1523188999	7	**This is why EU residents should be very excited for SEPA Instant Credit Transfers** which have now been introduced as a new standard in the EU \(only supported by a few banks thus far, all banks must support it by the cut\-off date\) which introduces the ability to send a payment within the SEPA zone that has to take less than 10 seconds from being sent to being received and credited to the payee account \(and they must be processed 24/7 not just during weekdays from 9\-5\). Also banks aren't allowed to charge high fees for the ability to make one of these payments.This can have really good implications on crypto too. Imagine buying crypto near\-instantly with a bank transfer instead of a card, it will allow exchanges to offer fiat buys that are as quick as a card but much cheaper \(As they don't need to worry about scammers doing card chargebacks or having to use a card acquirer / processor that takes 3\-5&#37; fees per transaction\). Selling crypto too and being able to have the Euro in your account within a minute would be a massive improvement on the current 1\-2 business days.
+1	1523189650	3	When I lived in Germany a few years ago I would often send money to my swedish bank account (EUR -> SEK). It was always done the next business day. Same speed as transfering between banks in the same country.What you're describing sounds like a huge improvement but it's actually already really good!
+2	1523190471	2	Standard SEPA payments are already regulated that it has to be next business day but that's still a matter of waiting 3 days if you transfer on a Friday and no payments being processed on public/bank holidays. Also the times the receiving banks credit a transfer vary wildly, some may credit a SEPA at 1 minute past midnight as being the next day, others may be 10am or 3pm the next day.SEPA instant credit transfer must be within 10 seconds so they're going for card level of speed and the huge benefit to crypto here is being able to buy quickly without using a card means much lower fees for doing so because the reason exchanges charge 4\-10&#37; fees for card purchases is because of chargebacks and processor fees.
+1	1523193652	3	It's good to be an EU citizen :)
+2	1523195655	3	Yep, it’s stuff like this that pains me that we’re leaving the EU, but hey ho, at least we’re getting our blue passports back.. ;)
+2	1523200859	1	It's almost as if regulation from relatively transparent and not-corrupt governments are more useful than what we see in the rest of the world...
+3	1523207308	1	Some people tend to forget that the ECB is highly influenciated by the Bundenstag, the german central bank, which is the only country in the EuroZone who sufered from hiper-inflation in the last 100 years.This is why Euro inflation is so heavily controlled and it is why austerity measures were applied within the EuroZone.Goverments within the EuroZone don't control the Euro Inflation. The ECB does and it does not like to print money.In the last years there were periods in time were Euro was actually deflating...
+0	1523179175	4	This is an excellent talk on the topic. Given at the Chaos Communication Congress in Hamburg.https://media.ccc.de/v/33c3-8315-a_world_without_blockchain
+0	1523195713	2	banks are slooooooooooooooooooooooooooooooow at adopting better ways to do ANYTHING.
+0	1523202557	1	Just recently I sent an international wire. After 10+ days it bounced and appeared back in originating account. They charged me ~$120 USD for the bounce and it was impossible to determine what went wrong. Both sending bank didn't know the exact reason and receiving bank never saw the money. The problem was "somewhere between correspondent banks". The same wire details and similar transacted amount worked 6 months ago just fine. Now I'm simply afraid using international wire transfers more than copy&pasting bitcoin addresses ;-)
+0	1523203150	1	shit, i'm waiting 14 days here
+0	1523205168	1	Even normal bank transfers take too long. 1-2 days is unacceptable.What's worse is the fact that either bank can block these transfers at their discretion.
+0	1523185797	4	It's the worst possible user experience, especially when large sums of money are in limbo.
+0	1523193383	2	that's weirs because when I buy stuff from amazon using a virtual credit card, the payment is instant.
+0	1523181401	2	> it dissapears from your bank and floats around the worldNow that's "virtual currency". There is nothing "virtual"  about bitcoin.
+0	1523200483	1	Banks have no reason to adapt and compete because they pretty much run all things financial through overt and covert collusion.  Sad state of affairs.
+0	1523204127	1	Yea, I've lost 20k for about 14 days until Bitfinex finally located the transfer.Another instance, when Coinbase lost 9k when I transferred while they were switching banks.  Took around 14 days and several automated emails to get my money back into my bank account.
+0	1523204079	1	Ya? I did an international wire transfer to China from my credit union and it went through in 24 hours and cost $100
+0	1523172714	0	Truth
+0	1523172512	-1	https://youtu.be/gDpOTL_KKys

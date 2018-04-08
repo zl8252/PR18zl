@@ -1,0 +1,48 @@
+File created at: 1523211312
+Subreddit: CryptoCurrency
+Submission title: Quantstamp found 2 flaws in Bancor's smart contract code. It would really be great if Quantstamp or similar companies get more traction in the community - standards and control of smart contracts' code is desperately needed before the mainstream adoption kicks in.
+Submission created utc: 1523143954
+Submission score: 398
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523158864	31	You can't even read QuantStamps audit of Bancors SC.It was not submitted by Bancor - so its not as if Bancor requested the audit.The bugs found are well known. Any decent solidity dev would know of these. In fact check out the Best Practices page from Consensys https://consensys.github.io/smart-contract-best-practices/I think OP needs to delve more into the developer side of things. Developers know of standards like you know ERCs/EIPs, Best Practices (Consensys/OpenZepplin/etc), and all that.
+0	1523158350	44	Give me a legitimate reason why quantstamp can't be a cryptocurrency company without a token. Paid in any other currency. Useless token imo.
+1	1523183309	6	Most ERC20 tokens exist as a crowdfunding mechanism, I thought everyone understood this already.
+1	1523202221	4	It seems as though they are aiming for an automated system not sure if it will utilize AI exactly or how that would work; but it would make sense for a smart contract based system to be on the blockchain.  A third party non blockchain system can just take a company's money say they did an audit and, oh look no flaws, you're good to go; this system you can see is actually worthless. With blockchain backed smart contracts your software/company's ability to actually locate flaws and secure projects is contractually backed by the token.  If their software sucks their token's value will drop as no one would use them to audit, if their software is successful like in this case for Bancor a lot of projects will flock to use QSP's superior system.  This seems like a very logical basis for a blockchain company; it also healthily supports the ecosystem as a whole; as bugs/exploits can be seriously detrimental to these fledgling projects financial foundations and/or reputations.
+1	1523181114	4	How else would they secure millions of dollars as funding unless they give out some speculative shit token for people to make profit off of? 
+1	1523167332	5	Sure, so take a look at the whitepaper:https://docsend.com/view/shcsmheNamely the entire verification process is planned to have nodes:> The validation protocol for security audits rewards participants who provide compute resources> for the purpose of running checks on smart contracts. These checks are run by validator nodes.> The protocol ensures that the certification of smart contracts is part of the “proof-of-audit.”Here's another site that explains it if you are still confused: https://www.mycryptopedia.com/quantstamp-explained/
+2	1523171387	10	butwhy.jpg
+3	1523178303	2	becausemoon.png
+0	1523148596	27	Just checked Quantstamp's roster and their LinkedIn accounts. Wow, so why and how have these guys been flying under the radar on here?
+1	1523158502	10	They were shilled pretty heavily here and on /r/ethtrader for a minute. 
+1	1523163509	14	Because their token is now effectively worthless, when at one point it wasn't. Proof of (me not) caring.
+2	1523175733	4	Yeah they got to stop the PoC 
+0	1523153035	22	NoTokenPurpose.
+1	1523155716	10	They make you hold 200,000 of their tokens to get one of their premium audits.
+2	1523156355	11	which is like 25k usd. Nothing dramatic for ICOs that raise 5m to 120m lol 
+0	1523163238	13	There is absolutely no reason Quantstamp needs their own ICO token. Any private company can offer code auditing services. Their token is a ridiculous cash grab from greedy developers 
+1	1523183149	2	Name me 5 ICOs that arent
+0	1523161220	9	And why do they need a token for that? The quantstamp token, why they need a blockchain for that? 
+1	1523193784	2	They're going to be using decentralised nodes in the future to do the auditing. You need a staked token to be able to penalise bad or corrupt nodes.
+2	1523196377	3	to paraphrase andreas a.BLOCKCHAIN OR BULLSHIT? quantstamps token is most certainly a bullshit. it's just unnecessary, it doesn't need a blockchain mechanism to solve whatever problem anyone could even remotely come up with. 
+0	1523155912	6	I put money into quantstamp as soon as our came across their site (well, shortly after reading about their business). We need more code going through quantstamp!
+1	1523171360	3	do we really though?
+0	1523145024	3	All the ICO's i've invested in before and upcoming have been audited by Lykee, and/or another party. I'm surprised something as big (big-ish) as Bancor had flaws.
+1	1523146829	14	Every codebase has bugs, it's just a matter of finding them (and fixing them after they are reported by whitehats, unlike Panera Bread) before the blackhats do. And an audit isn't going to find everything, but it's a good start.
+2	1523147314	1	I guess i'm also comparing an ICO smartcontract to a much more complicated smartcontract.
+0	1523163233	4	Quantstamp will be the gold standard in validating smard contract coding. Massively undervalued project!
+1	1523171452	8	"undervalued project" buzzword, checkman, this checklist works every time
+0	1523207680	1	crypto companies should have to pay....I don't see the reason why I should hold quantstamp unless it is a standard that is paid for.
+0	1523145071	1	The project offers a network, which we’ll discuss soon, that works to bring liquidity to the majority of tokens that lack a consistent supply/demand in exchanges.
+0	1523164702	-2	Quantstamp token is useless though. 
+0	1523171979	-2	Audit companies are very much needed to minimize hacks/exploits.Their coin is not necessary.
+0	1523149419	-2	[Hosho](https://hosho.io/) is a bad ass third party smart contract auditing company and I know their team well. I guess they find problems in every code that comes by including ones that were audited elsewhere.
+0	1523165753	-2	That's what Callisto aims to solve. Among other things.
+0	1523159033	-6	Perhaps their success will be Quantstamp's downfall.  Now Bancorp has some costly holes to fill and some companies will avoid Quantstamp because they don't want to have to fix things that investors can't see
+0	1523148502	-10	Hacken is the best 
+1	1523156746	4	Why the downsides? I'm surprised people know of hacken 
+2	1523159457	-2	What?
+3	1523159505	-1	Why did people down vote your hacken comment lol 
+4	1523161353	-5	Narrow minded and inpatient investors 
+5	1523162159	-2	I mean I don't have a lot of hacken but it has potential. I mean, even just throwing a 100 dollars into it is worth it.
+1	1523156763	1	I'm invested in a small amount 

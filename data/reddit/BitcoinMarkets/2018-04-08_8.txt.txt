@@ -1,0 +1,17 @@
+File created at: 1523211330
+Subreddit: BitcoinMarkets
+Submission title: Links to fundamental valuation models?
+Submission created utc: 1523137323
+Submission score: 3
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523146031	3	Chris Burniske - Cryptoasset Valuations
+1	1523161308	1	Aha, this looks very promising, thank you. The link is https://medium.com/@cburniske/cryptoasset-valuations-ac83479ffca7
+2	1523207056	2	Chris has a background in doing crypto valuations for venture funding or something like that. He is the real deal. You can find spreadsheets that run his model on popular cryptos. He also just published a book.
+0	1523143660	2	I like this one http://bitcoinsperperson.com/altho I doubt its what you want to hear if you think the gold market comparisons sound bubblely 
+1	1523161293	1	Thanks, that's an interesting piece of the puzzle
+0	1523148208	2	TX Model by /u/_supert_ Recent post:  /r/BitcoinMarkets/comments/88woeq/daily_discussion_monday_april_02_2018/dwnvhbx/Announcement:  /r/BitcoinMarkets/comments/2hyl9c/daily_discussion_wednesday_october_01_2014/ckxhy9y/https://github.com/supert-is-taken/bitcoin-tx-model
+1	1523161489	1	Thanks for the link. However it does not appear to be a fundamental analysis. It simply observes past prices based on tx volume, and says that if those previous prices made sense, this is what future prices would look like. It doesn't actually explain why the past prices ever made sense in the first place, and therefore uses possible bubble valuations as justification for bubble valuations into the future.
+2	1523165582	1	> It doesn't actually explain why the past prices ever made sense in the first placeWell it is a speculative thing, if anyone could give you a metric for why past prices made sense they'd be a magician. This tries to gauge network-effect and the price correlation to transactions. It does something not far removed from:>  "x million people would each need to transact n times a year, and need to hold a balance equivalent of $y for the purposes a,b and c, and that translates into a velocity of money such that there is a market cap of $Z bn because..."tx rate, hashrate and number of unique addresses are some numbers of those flavours, ones we can actually rely on.Honestly anything else would be hindsight.
+3	1523169651	1	> Well it is a speculative thing, if anyone could give you a metric for why past prices made sense they'd be a magician.I'm not asking for why past prices made sense, or why current prices make sense.Instead, I'm looking for a model that does not use past or current prices as part of the justification.In the dotcom bubble that ended in 2000, people were valuing eyeballs. If startup X is worth $20 per eyeball, and startup Y has 50% more users, then startup Y is worth 50% more than startup X and is therefore worth $200 million! But that model is flawed if startup X was misvalued in the first place due to irrational exuberance. The "50% more" part would make sense, but the "$200 million" part would introduce a valuation based on bubble thinking. A fundamental analysis would not justify any existing valuations, but instead come to a valuation without reference to comparables.> This tries to gauge network-effect and the price correlation to transactions.Those are very valuable insights, and give a great idea of comparative/relative value. It does not solve the problem of absolute value.
+0	1523150423	1	CAPM, Metcalfe's law and derivatives of it. 

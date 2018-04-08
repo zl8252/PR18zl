@@ -1,0 +1,21 @@
+File created at: 1523211328
+Subreddit: BitcoinMarkets
+Submission title: Which exchanges allow for shorting the market?
+Submission created utc: 1523151330
+Submission score: 4
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523193360	3	just an FYI, you can't short on Bittrex.
+0	1523152762	2	None in USA as far as I know.New bifinex account requires 10k deposit to open
+1	1523159098	3	Kraken is the only exchange accepting US customers that allows shorting, that I know of.
+1	1523152997	1	Well damn, that sucks.
+0	1523155471	1	Bitmex
+0	1523176033	1	okex
+0	1523210397	1	* It's way too late to safely short,  if you short now,  you're just switching sides at the roulette table.* It's really really hard to short bitcoin if you are in the US,  and you will likely get raped on fees.* Exchanges likely only truly lend bitcoin to shorts when they are very established clients of the exchange.  You'd probably be required to maintain a fiat balance of some kind , and would be limited to a small percentage of that as a lending limit,  i.e. (10-50%)  depending on how trusted you are.   Shorting is one of those things where it really does take a lot of money to make a lot of money.
+0	1523160526	1	You are crazy to short, it's an oversold market 🙈
+1	1523199993	2	People can short to hedge their positions, hedge their mining proceeds, etc., not just because they want to capture the price going down.
+1	1523194073	0	Maybe not on the hour or the day but yes overall it is.
+0	1523157723	1	BitMEX and Kraken.
+1	1523168652	4	GDAX doesn't do shorts any more. https://support.gdax.com/customer/portal/articles/2725963-intro-to-margin-trading 
+0	1523174548	0	Bitfinex if you're not from states.
+0	1523174556	0	Bitfinex if you're not from states.

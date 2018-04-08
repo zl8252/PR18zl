@@ -1,0 +1,77 @@
+File created at: 1523211298
+Subreddit: btc
+Submission title: Upgrade Day is coming!
+Submission created utc: 1523148438
+Submission score: 118
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523180356	7	when is upgrade of upgrade? I want 1Tb block size
+0	1523149190	9	Yay!
+0	1523152930	13	Any client released for BU or the others? I have only heard of ABC.
+1	1523166562	6	ABC released just a few days ago their code and BU has started merging it in order to be compatible.I'm sure the BU client will be released in time for the HF.
+1	1523162883	1	Curious about this as well. PS great username
+0	1523179828	9	I'm curious why, not trolling genuinely curious, from what I can we weren't even filling up the 8mb blocks? 
+1	1523190402	5	It never hurts to have excess capacity well in advance.
+1	1523188950	5	because every full node implementation should be able to handle it. there is really no reason not to.
+2	1523200964	2	Any reason not to make them unlimited? 
+3	1523207313	2	i think that is the plan for november (dynamic limit). there are also a few other changes that need to be made to go over 32MB.
+3	1523207296	1	From a pragmatic standpoint, if blocks are less than the block-size cap, they are not limited.So... yeah if it was unlimited, in theory blocks wouldn't be any larger than current.
+1	1523207194	1	Perhaps ask this: if the limit is greater than the block size, does it matter what the limit is?If you're the owner of an all you can eat  (but only up to 8 plates!) buffet, and nobody eats 8 plates worth... why have the limit?
+1	1523180986	-2	Not filling up 1MB blocks, actually struggling to fill 100KB most of the time.But as a pump catalyst 32MB upgrade might work. 
+0	1523183892	17	This is the equivalent of upgrading your house from an 8 bedroom house to 32 bedroom house, while there's only 2 rats and 10 spiders living inside the house, not even a single person.How about making a party?Announce May 20th to be "Destroy Bitcoin Cash Challenge" day, where everyone would be encouraged to make as many transactions as possible, to try to make the blocks full and mempool congested. Whoever has BCH, move tiny amounts ($0.1) as much as possible. Tip like crazy. Split your savings to 100 different wallets, then consolidate it again after an hour. I doubt it would actually be possible to overload BCH this way, so it would be just excellent marketing, a tour de force showing the coin's scaling abilities.EDIT: If the unthinkable happens, and BCH proves on-chain scaling as it's main selling point is dead in the water, then at least a big lesson will be learned for the entire crypto scene. That's why this is a challenge. Lightning Network, your move!
+0	1523166785	5	Thanks for showing your support for the HF.If possible please stay with BU for mining.  I'm sure the new client will be released soon.
+0	1523160303	5	Are we adding anything else, or is it just a blocksize increase at this time?
+1	1523161898	11	we are enabling a lot of op_codes that will essentially make Bitcoin Cash the only blockchain that needs to exist in this world.
+2	1523187313	4	Exaggeration but yes, the re-enabled opcodes will allow for more complex smart contracts (but not as complex and as easy as in eth)
+2	1523162747	6	Lol
+0	1523151405	6	Do I need to upgrade my client?
+1	1523167120	3	yep.
+2	1523167608	0	Why do we need 32MB blocks now, blocks are currently under 50kB on average.
+3	1523172766	6	Why do people want 1Gbps at home? They often only use like 5Mbps.
+4	1523173024	0	Really? There’s a difference between want and have. Do you seriously think everyone in the world has a 1Gbps connection and not utilizes it fully?
+5	1523173155	11	The point is to have more capacity than you currently need so that you're prepared for the times that you do which will become more frequent over time. It's about preparing for the future. There's nothing to lose here. 
+6	1523173641	-1	<50kB blocks say it’s not needed yet.
+7	1523175314	8	It's getting a little tiresome to hear "it's not needed yet". It doesn't matter whether or not it's actually needed, the limit increase is so that what happened with BTC won't happen with BCH. It hasn't even been five months since BTC's fees tarnished bitcoins's reputation.If blocks keep being 50 kB it matters not if the max is 1 MB or 32 MB, they will still be just 50 kB in the blockchain. The only difference is that when needed in 1 or 5 years the extra bytes are there.Edit: Spam won't be a problem either since at 1 satoshi per byte you'd have to pay 32000000 satoshis (0.32 BCH) every ~10 minutes to fill up each block. That's ~46.08 BCH per day. Plus if the attacker has a fee of just 1 sat/byte their spam is just as likely to be included in the blocks as any legit transactions, so realistically you'd have to use a fee of at least 2 satoshi/byte to create a somewhat effective denial of service (~92.16 BCH per day).
+8	1523175510	3	Okay ty. Why not remove the limit altogether?
+9	1523176362	6	Because it's better to spread out a denial of service attack if it does happen. That way people will download the 32 MB block within 10 minutes and keep their node functioning until the next 32 MB block.If there were no limit at all there could all of a sudden be a 100 GB block which would be too much to download in 10 minutes for many people and effectively cripple their node.Another reason is that people have time to react to denial of service if it is 32 MB blocks. You see your disk fill up and have time to upgrade your hardware. If all of a sudden your disk is too small for the next block your node is crippled until you've got a new disk.And another reason is that friendly miners could have a chance to react to 32 MB blocks. Could implement temporary policies to block transaction broadcasts from a certain set of IPs. With an immediate enormous block you have no time to prevent further denial of service, you then have to deal with the big block.Yet another reason is to share the revenue from the denial of service. If one big block it would mean one very lucky miner would collect a very juicy amount of fees. (This also ties in with the previous point since it would also prevent friendly miners from being able to reject malicious transactions.)Finally we have the processing power. Miners could have hardware (CPU and RAM) able to handle 32 MB blocks every 10 minutes. But they might crash or slow down immensely if they need to process 1 GB blocks every 10 minutes.
+9	1523176202	1	That's the plan for november
+3	1523175774	5	Do you want to wait until blocks are full and lt’s too late? We’ve seen how that works out...
+0	1523149230	3	Can’t wait!
+0	1523151432	3	#MayItCome
+0	1523196312	1	Wonder if we’ll see a stress test after the upgrade. Would be expensive me thinks though 
+0	1523161800	2	Awesome graphic!
+0	1523162077	2	Beautiful graphic.
+0	1523180078	1	Why though.I mean you guys can't even fill 1mb blocks.
+1	1523182418	11	Makes sense to change those settings now when there isn’t a crisis than wait til it’s desperately needed. 
+2	1523182537	1	But having massive block space means that unless you get massive adoption to fill it or a multi trillion market cap, in the next six years the 3bch block reward subsidy is going to be pitiful for securing the network hash-wise.Small chance either of those could happen, but betting the network on it seems risky
+3	1523183120	8	Same can be said for core, can’t it? Trying to push transactions off the chain altogether into lightning channels. Who will secure their network then, if most the coins aren’t generating transaction fees?But without deflecting: Let’s see where we’re at 5 years from now. With the timeframe you’re talking about, it’s like someone in 2011 voicing the same exact worry. “If difficulty keeps going up and rewards keep getting halved, then how will people be able to afford enough GPUS to keep the mining blocks in 2018?” Perhaps there ought to have been a hard cap on network difficulty to prevent that from happening, right?
+4	1523183234	2	Ok cool good luck
+1	1523186254	2	Why not though? 
+2	1523186287	1	Overselling a resource that is outstripping reasonable demand
+3	1523186486	5	Again, what’s the problem. It’s a limit. Who cares if it’s reached today.
+4	1523186886	0	It's a security parameter Satoshi implemented that directly affects spam resistance, sustainable block rewards, curbing growth limits on utxo bloat and assisting in maintaining decentralisation of mining farms and nodes. If you believe that it should have been raised from 1mb to 8mb and that's why you're here, fine. But what possible reason is there for making it even looser with no demand or mid term need?
+5	1523187517	5	There is no such thing as spam transactions.Your philosophy is to permanently set the limit to 1mb, cripple the network, pop champagne, kick the poor off the network and let babies die?No thanks, I’ll stick to global adoption with constant growing blocksize limit.
+6	1523187696	0	No, its to intelligently make transactions more efficient, move certain classes of transactions offchain/to other layers and apply conservative and researched base block increases when necessary. Ie how most systems such as the internet scaled. The infanticide is just a Greg Maxwell thing we indulge.
+7	1523188571	3	>intelligently make transactions more efficientThanks for the laugh.>move certain classes of transactions offchain/to other layersThat is working out terribly. You core minions are moving tranactions off Bitcoin to other altcoins. Quite the opposite.>apply conservative and researched base block increases when necessaryWith Segwit? Another complete failure. 
+8	1523188809	1	Bc1 addresses save space right now. Schnorr, sigagg and mast are coming to make it further more efficient. Don't see the humour.Moving to other layers has just started this month with lnd beta - future effects will be seen but looking great. I'm running a node with a few dozen mbtc on it.Segwit has pushed the base block size to the high end of sub 2mb. It's been an unqualified success at solving malleability without risking a hard fork and current uptake is 30-40%.
+9	1523189413	2	Coming soon, coming soon, coming soon!!!! BTC is fucked now and has been for awhile. Coming soon doesn’t help us now. And this thread started with your arguing that raising the blocksize limit to 32mb is a waste. Ironic that we plan ahead so we won’t be in the same shitty situation BTC is and you argue it’s wasteful.
+7	1523202562	1	You already seem to have all you want on BTC chain. No reason for BCH to do the same. If you are right then you have nothing to worry about. But then maybe you are not....... I can see why you are worried about BCH progress.
+5	1523191506	1	AFAIK, the limit was introduced when transactions were free.
+1	1523180097	1	Redditor /u/Hark- has low karma in this subreddit.
+0	1523154745	1	To the moon ^
+1	1523166422	5	To the.........  cliff? I don't feel any pump. We currently are at 0.093 lowest point since last pop
+0	1523191153	1	I really like the green color in the Bitcoin Cash logo, I find it looks nicer and more professional than the garish orange ;)
+0	1523174832	-2	Without any constraints on UTXO set size growth, this is like the Titanic steaming full-speed ahead into an iceberg.
+1	1523183308	3	/u/cryptochecker on the one year old account with -4 overall karmaEDIT: Oh look another obvious paid troll account. Anyone who still cant see through this bullshit is an idiot.**Bitcoin Cash for the world**
+2	1523183315	1	Of [u/zonola](https://www.reddit.com/u/zonola)'s last **3** posts and **64** comments, I found **3** posts and **64** comments in cryptocurrency-related subreddits. Average sentiment (in the interval -1 to +1, with -1 **most negative** and +1 **most positive**) and karma counts are shown for each subreddit:Subreddit|No. of posts|Avg. post sentiment|Total post karma|No. of comments|Avg. comment sentiment|Total comment karma:--|:--|:--|:--|:--|:--|:--r/noncensored_bitcoin|0|0.0|0|1|0.35 **(quite positive)**|1r/Bitcoin|0|0.0|0|30|0.1|68r/btc|3|0.03|0|33|0.04|-59***^(Bleep, bloop, I'm a bot trying to help inform cryptocurrency discussion on Reddit.) ^| [^About](https://www.reddit.com/user/cryptochecker/comments/7q3jum/faq_about_ucryptochecker/) ^| [^Feedback](https://www.reddit.com/message/compose?to=jamcowl&subject=cryptochecker%20bot) 
+1	1523174844	6	Redditor /u/zonola has low karma in this subreddit.
+2	1523183788	0	That’s what you get for telling the truth here.
+3	1523191346	1	Defender of the truth hiding behind a sockpuppet account
+1	1523181048	1	Dont worry - theres no tx to create utxo's :)
+1	1523180193	1	Then short it, genius. Free money for you.
+0	1523181431	-4	"Satoshi's Vision™®©"A vision of 32mb blocks, governed by a wave of patent trolling run by the holy trifecta of a convicted felon and sociopath, a compulsive liar and fraudster and a ladyboy lover who is wanted for financial crimes, all of them cheered by rogers paid tweeter botsBcash sinking lower by the day.
+1	1523191202	1	Bad hair day?
+0	1523189940	-1	3rd hard fork in less than a year can't come soon enough! How many hard forks do you have planned before Aug 1? 
+1	1523191406	1	Never heard about Google?
+2	1523194484	-1	Oh no, I use google all the time. Are they accepting "bitcoin cash"?
+3	1523204809	1	Well, google it, don't be so lazy

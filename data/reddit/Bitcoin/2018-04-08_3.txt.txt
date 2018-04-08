@@ -1,0 +1,90 @@
+File created at: 1523211280
+Subreddit: Bitcoin
+Submission title: The convenience store down my house just got more convenient by adding this little puppy.. really did help me a couple of times I needed an instant emergency cash widthrow :)
+Submission created utc: 1523138486
+Submission score: 215
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523142260	19	How big are fees?
+1	1523144257	12	gotta admit that the fees are higher than a regular online exchange wallet such as Quadriga or coinbase but the fact that I can use it for instant cash is pretty convenient.. and I only go for it in case of emergency cash need (like small amounts for a quick fix)
+2	1523153535	42	An emergency small amount of cash, that you pay a huge fee for, that keeps happening? Sounds like you are a great financial planner. 
+3	1523154960	-23	Because sometimes some people need money ASAP, that makes them bad financial planners? Get out of here dude, some people have skin in the game they may need right when they want it, and don't have 7 days to wait, and **dont** want to take out of their checking account. I have plenty in my checking and savings, but I've dipped into my coin stash a few times for some purchases like that 
+4	1523155565	29	Can you explain why, when you had an emergency purchase to make, but did have the cash on hand, you chose to pay high fees to liquidate part of your portfolio? When I need a drink of water I turn on the tap, I don't put ice cubes in the microwave.
+5	1523166482	6	Pshuh, and rely on chlorine alone? I make Ice cubes out of boiled water then microwave them when thirsty.
+5	1523156324	-12	[deleted]
+6	1523165841	7	>And by the way, I don't pay fees at all to sell my crypto, nice try to sound like a smart ass.Dude, this is literally about using Bitcoin ATMs. There's obviously nothing wrong with cashing out. But if you have the option of using an ATM or not using an ATM and using cash on hand instead (and then cashing out the same amount of bitcoin through better channels) you'd have to be pretty punishingly stupid to use an ATM.
+7	1523167323	-10	There's extenuating circumstances for almost every situation, so for you to say it's stupid for anyone to use one is incredibly ignorant.
+8	1523196863	4	In most cases its stupid, why are you so offended by that? If you are moving around money and get to a point where you NEED cash and have no means of getting it without fees, yeah, you probably aren't the best at planning your finances out. 
+6	1523163888	5	Don’t let dudes on the internet get to u homie.
+7	1523164093	1	His comments are ignorant so I have to say something, but I appreciate it. Funny thing is, I've never used a bitcoin ATM, but I can easily understand why someone would use one. Not everyone cares about fees in every instance. 
+6	1523165285	1	What kind of stuff are you buying?
+6	1523196847	0	I'm sorry that you seem to have provoked the iamverysmart crowd.  Occasionally, the time-value of money becomes a huge deal.
+4	1523158976	8	If you don’t have enough funds for regular expenses, you are investing too much. If you decide to pay 6.5% instead of using checking you’re a fool.
+2	1523149452	9	But how much higher? Are fees 5%, 10%, 20%?
+3	1523150632	3	they charge 6.5% per transaction with a shadowy btc market value tbh.. but as I said .. in case of emergency that's the best option.. at least in here (Toronto)
+4	1523153761	54	I love how we went from start using bitcoin to "be your own bank and avoid all those transaction fees" to "they charge 6.5% per transaction with a shadowy btc market value."You are going backwards.
+5	1523169452	14	This is good for Bitcoin 
+5	1523153884	1	It's just like ATMs that charge 3 bucks to take out 20 bucks.  
+6	1523154401	48	> It's just like ATMs that charge 3 bucks to take out 20 bucks.Let's have an honest discussion shall we?  Point A) that's $3/transaction.  Sure if you take out $20 and pay $3 you are paying 15%.  That $3 is fixed though.  If you take out $100 the fee is 3%.  If you take out $300 the fee is now 1%.Point B) there are lots of fee free ATMs out there.  My ATM cards work at thousands of ATMs and I pay zero fees.   You can avoid fees if you want to.  Where are the 0% bitcoin ATMs at?  That's right they don't exist.Point C) He stated 6.5% **and** "shadowy market value" which means they are giving you a shit exchange rate to further pad their fees.Point D) The one point of bitcoins is to get away from a faceless corporation separating you from your hard earned cash and now you are bending over backwards to defend a faceless corporation separating you from your hard earned cash.  Bitcoin needs to be **better** than the alternatives.  If your defense revolves around "but this other thing sucks too" then your egalitarian currency revolution is going to fail.
+7	1523160122	18	You're making too much sense. We frown upon that around here.
+7	1523160052	-1	No one ever said this egalitarian currency revolution... was going to be easy.  
+8	1523165508	19	Or even work at all.
+8	1523181856	9	LOL LOL LOL “egalitarian”Did you mean to say “insanely concentrated and controlled by a Chinese mining pool, a cabal of exchanges run by criminals and over 50% of the entire supply is controlled by under 200 people?
+7	1523154532	-14	Tldr
+8	1523154671	24	> TldrIf you don't have enough attention span to read 186 words then I cannot possibly help you.
+9	1523155023	-12	Wasn't a debate.  You missed the point. 
+8	1523165679	8	> TldrI want to sell 0.1 BTC.  On an exchange right now it's $7000. so I'd get $700.If I went to this bitcoin ATM, the spread is probably like 4% (so it will sell you a bitcoin for $7280 buy a bitcoin for $6720).  So you sell your 0.1 BTC and get $672.  But then there's a 6.5% ATM fee, which is $43.68.So instead of getting $700, you only get 628.32.  You've paid 11% for the privilege of using a bitcoin ATM.   That's worse than using a CoinStar!EDIT:  A quick google brought up a site that says (who knows if this is accurate though): "Current worldwide average bitcoin ATM fee is 8.4% for buying bitcoins from machines, and 5.4% for selling bitcoins for cash."So if you want to buy a $7000 bitcoin from an ATM it will cost you $7588, and if you want to sell one of your $7000 bitcoins then the ATM will pay you $6622 for it.
+9	1523184502	3	From 185 words to 163. A 12% reduction is not exactly a "Tldr" - though requesting a Tldr for such little is just plain lazy from /u/swimfan229's end. I don't get this 'Tldr' stuff. It's like reading the synopsis of a book, rather than the entire book. How can one grasp an understanding of the subject / topic that way? I honestly feel like it's not worth my team speaking to people requesting Tldrs.
+9	1523166686	-3	that 11% is cheaper than taxes.
+8	1523160195	7	> TldrUsing btc is more costly than using fiat. 
+9	1523208364	1	Well technically you are using fiat if you are converting btc to fiat.
+8	1523155733	4	> TldrFixed fees are different from percentage fees so your analogy doesn't work
+9	1523157512	1	How about this.  A currency exchange ATM. 
+6	1523165945	9	Part of the fees that banks and Credit Cards charge is because every transaction is guaranteed, and in the event something happens you get reimbursed.   These Bitcoin fees are just a money making scheme
+6	1523158707	2	Mine charges $5. I win.
+6	1523169109	1	FWIW some banks like Ally Bank reimburse you for that. I haven't paid an ATM fee in years.
+6	1523181735	1	Lol my bank ATM costs $0 and is everywhere in the country and I have another debit card that I can use at any ATM and they reimburse me for all fees.
+7	1523196163	0	you dont pay a fee because your bank already made money out of you. you just dont realise you already paid the fee.
+8	1523201325	1	If I lend my friend $100 and he uses that $100 for a special opportunity available only to him to make $1000, then gives you back your $100, you haven't paid anything. Other people getting wealthy does not make you any poorer.If you really thought you could make money underwriting loans, why aren't you doing that right now?
+9	1523208969	1	Ok let me correct his. The people that lend your money from your bank are paying your fees. Somebody has to pay. A bank wants money the dont give yoi services for free because they like you so much
+8	1523210041	1	Fortunately I’m a normal sane person and I invest in securities which increase in value and pay interest, rather than parking all of my money in “currency.”Oh yea and my bank pays me a nominal interest rate on my savings account which slightly counteracts inflation.
+6	1523203285	1	You should get a better bank - there's a lot of banks that don't charge you for using any ATM and if you use an out-of-network ATM they will reimburse you.
+5	1523165074	-1	What do you consider to be a fair fee for a Bitcoin ATM operator to charge? Why aren't you making a killing undercutting them all?
+6	1523166307	1	Because when it's worth 6200 the next day it's irrelevant
+7	1523166338	-1	What are you talking about?
+4	1523156466	2	Just withdraw from an ATM? No fees!
+4	1523158464	1	I also live in Toronto. Where is this?
+4	1523185510	1	It is a shame, ATMs are so useful and would be so good for Bitcoin but sadly the fees are unbearable
+4	1523151517	0	KNew this was Ontario
+2	1523152538	0	only way to withdraw cash, unless the store accepts paypal
+2	1523158842	-5	I can't believe the number of negative nannies giving you a hard time for, Taking a photo of a bitcoin ATM, Putting it on Reddit, where perhaps another kwiki mart owner might go "Hey that might work for me" and then when I am travelling using crypto to pay for stuff, I can make use of the service. After all I only paid $800 a coin for my stash. 6% what the fuck do I care? And before someone goes yeah but I paid 20,000 for mine yeah but in a couple of years you will be gloating and saying "I only paid $20,000 for mine wish I bought more"edit: And I do wish I had bought more.
+3	1523197228	1	I know its 2018 and people can't determine criticism from bullying BUT the "negative" people are simply pointing out the reasons why a BTC is in my opinion a gimmick. If you want to pay using crypto, pay using the crypto. Creating a network of crypto ATMs is taking away from creating an actual infrastructure where crypto is used for commerce and not fiat. 
+4	1523207622	1	Of course the ideal and inevitable answer is to be able to spend bitcoins everywhere, however you can't force people to take them. Bitcoin ATM's will help with adoption. The more in your face bitcoin becomes, the more acceptable it becomes. Look at it as a stopgap measure during this increase in adoption phase. This is a long journey we are on, not a sprint.
+3	1523173793	-2	You know which sub all  the negative nannies are from dont you?
+0	1523147669	7	Good progress. But these ATM people srw crooks charge a lot. We need more of these companies to increase competition and bring down reasonable proce for customer
+1	1523194573	1	To be fair, they have overhead that many don't consider. Rent, BITXATM takes 1% of every transaction, insurance, volatility of the coins sitting on the machine, and cost of licensing in some places. 
+0	1523149684	5	I like how you can just throw your money in the trash can vs bothering with extra steps of transacting.Forward thinking & convenience all in one
+0	1523140640	14	I thought about buying a bitcoin ATM about 2 years ago and wanted to put it in my local convenient store. But I decided it was more work than I wanted to put in. Especially convincing the store owners to let me put it in their store. 
+1	1523159056	1	I was very interested in setting up my own ATMs when I saw the clientele of these machines and the insane fees they were getting away with.  Big hold up was it didn’t sound as easy as buying a machine and placing it in a store.  There’s licensing and regulations to comply with.  Plus you need liquidity - meaning you need a large chunk of fiat and BTC for the machine to use.  TLDR - much harder than it sounds. 
+2	1523162312	6	Providing a banking service IS harder than it sounds!
+0	1523155927	7	1. Sorry, but I would never use or advise someone to use these.  The rates are stupid.2. Proofread titles before hitting submit.  It's not difficult.  "The store down my house"......  And "withdrow"?  lol
+0	1523156442	3	That design looks rather flimsy...
+1	1523188521	2	Clearly not made by a multinational banking conglomerate. Probably couldn't survive five minutes in a dark corner with a crowbar...
+0	1523157720	3	I'm sorry, but where's the puppy?
+0	1523194249	3	Does it come with lube or does it fuck you raw?
+0	1523159319	2	Awww they even provided a bin for your bank cards!
+0	1523164914	2	how cute... the bitcoin atm comes equipped with some optional btrash hahahaha :-)
+0	1523146569	1	Sweet
+0	1523154886	1	Watch the fees but Awesome!
+0	1523160510	1	Is this in BC?
+0	1523160677	1	Wow, such a cool little ATM
+0	1523161898	1	How much information do you have to feed it? A private key? Full name? Shoe size?
+0	1523166613	1	There’s  a shitty Bitcoin atm near my work. They take way too much off the top last time I saw bitcoin at $10K they were exchanging dollars to bitcoin at $13K. Some of these things are scams. 
+0	1523169810	1	What about if you need a lengthrow?
+0	1523181548	1	I’ll be travelling to US and since banks have banned exchange accounts here in Chile if possible I’d like to withdraw some USD in my visit. How does the atm really work? Do you need any ID? Would a passport work?
+0	1523196501	1	And we (Zimbabwe) only got our first ever Bitcoin ATM last week 😓
+0	1523201131	1	I must comment on all the dirt on the floor next to the atm. Dirt road + lazy cleaner?
+0	1523146762	-1	Turning crypto into fiat is going backwards in my opinion. 
+1	1523150851	4	totally agree .. but i only used this for emergency.. when I was running low in cash
+2	1523181973	6	Yea I could see how in an emergency you might want a form of cash that people actually accept
+0	1523142774	0	Why not stack the cases of pop on top of the ATM machines so everything blends in?

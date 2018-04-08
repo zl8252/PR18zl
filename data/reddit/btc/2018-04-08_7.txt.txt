@@ -1,0 +1,58 @@
+File created at: 1523211297
+Subreddit: btc
+Submission title: Bitcoin Core Fanboys Celebrating Censorship of @Bitcoin. Censorship is What They Do Best
+Submission created utc: 1523176049
+Submission score: 122
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523182484	36	Do these people actually believe Roger Ver controls literally everything related to BCH. Are we all Roger’s sock puppets to them? 
+1	1523186800	20	Yes?
+1	1523188693	15	Well, they've preached it in such a consistent manner over the past few months that I have started to blame Roger for things like ... rainy days, my domestic bills, Ukraine crisis, my hairline ...
+1	1523193817	10	Yes, everything is controlled by Jihan, Craig and Ver.. according to them.They probably think the other developers, like Amaury, Zhander, Stone don't even exist. 
+2	1523206268	5	Bitcoin Cash has no developers, remember? /s
+3	1523207917	1	Ah yeah I heard that a few times.
+1	1523194167	7	yes bleep bloop Roger very good 👍
+1	1523192369	4	Every account on everything is Roger Ver's sock puppet including you.
+2	1523206303	3	We are all Roger! ;)
+1	1523202288	1	In the same way people that are always thinking bad of others, don't believe other people are not like them, it's a projection.
+0	1523176902	30	There was a time Bitcoin (BTC) was all about censorship-resistant sound money. Now it's a failing store of money controlled by a censoring clique.
+1	1523187242	6	To me while BCH are here, the Bitcoin idea still be a censorship-resistant. We can use it.
+1	1523179639	-20	It has also a counterfeit protection. You can't spend BCH on the Bitcoin Blockchain.   Edit: It's telling that this gets down voted.
+2	1523182525	16	You can on the valid one.
+2	1523179703	23	BCH is the bitcoin blockchain.
+3	1523181812	-4	:D
+2	1523200499	5	And sometimes you can't even spend BTC on the BTC blockchain. Revolutionary.
+0	1523178427	19	Oh dear, LTC fanboys really are the dumbest fuckers on the planet, core playing them like fools and they just lap it up.What future are they looking at ? a future where LN works ? Well what use will LTC be to core then ? No use at all, LTC will be back to being a shit coin in the eyes of BTC and then the propoganda campaign will be on them. Will Charlie care ? Um no, he cashed out long ago you dumb fucks. LTC supporters, honestly, without doubt the dumbest most easily manipulated group of fools on the planet.
+1	1523182282	6	Yeah beyond me why everyone didn't cash out when he did. Their sub is pretty awful. Thing goes up 4% = Fucken lite coin roller coaster post thats gilded with 500+ up doots. They dont fuck up about lambos either. Who dafuq would ever cash out and buy a lambo unless they had the income to accomodate, which I'd highly doubt anyway as people invest to make money.
+0	1523191838	6	Bitcoin is bitcoin, bitcoin core is neither a currecy nor a blockchain, its a software.
+1	1523193971	6	Bitcoin Core is both the team developing the Bitcoin Core client and also the reference client that has 93% of market share. So Bitcoin BTC is essentially Bitcoin Core.
+0	1523176059	2	^The linked tweet was tweeted by [@SatoshiLite](https://twitter.com/SatoshiLite) on Apr 08, 2018 07:14:48 UTC (344 Retweets | 1168 Favorites)-------------------------------------------------Oh snap! [@bitcoin](https://twitter.com/bitcoin) 😂 [Attached photo](https://pbs.twimg.com/media/DaPjQvEUwAA0yDs.jpg:orig) | [imgur Mirror](https://i.imgur.com/8Fy0nqV.jpg)-------------------------------------------------^^• Beep boop I'm a bot • Find out more about me at /r/tweettranscriberbot/ •
+0	1523200430	2	Then these two faced morons will turn around and say they're on the side of decentralization and censorship resistant money.
+0	1523187815	1	And another small death on BCH's slide into irrelevance. :-)
+1	1523187920	6	Oh I'm not worried about BCH. I will do fine. BTC on the other hand is doomed. Lightning Network is a smoke screen.
+2	1523188446	-3	Keep telling yourself that if it makes you feel better.
+3	1523188592	9	Oh I don't have to keep telling that myself. I actually understand graph algorithms and have researched the topic. But hey, good luck anyway.
+4	1523189144	0	Man, you guys must really be terrified by the Lightning Network. You keep bringing it up in every conversation. :-)
+5	1523190070	8	Terrified? Thanks for the lols! Can you explain how routing will work in LN?
+6	1523190430	9	You mean how routing does work? I am not a techie, but a basic explanation can be found at the 9:03 minute mark of Andreas's video here: https://www.youtube.com/watch?v=c4TjfaLgzj4&feature=youtu.be&t=543
+7	1523193780	12	Incidentally, I watched that video yesterday. And he skirts around the issue. He just says that the path will be calculated at the source, and that better implementations will be available in the future, without going into more detail.The problem with this is that the source needs to know the liquidity of **every** channel along the path, and that liquidity changes with each payment. In other words, each channel must broadcast its liquidity to the whole network for each payment, and there are a few channels being traversed with each payment, so that means a few broadcasts per payment.Do you have an idea how massive the bandwidth requirements of that will be if the Lightning Network is to scale to more than just a few thousands nodes?As a reminder, with on-chain scaling, you only broadcast the transactions once, and the mined blocks can be drastically reduced as most nodes already have the transactions included in the block.But this problem with the Lightning Network never gets adressed, we are to believe that "it sill be solved" somehow.
+8	1523195388	3	I don't know what the bandwidth requirements would be. Do you have any numbers on the current bandwidth usage by LN nodes right now?I couldn't find any in a brief search.
+9	1523201952	3	I don't have hard data but here's an heuristic.If every user has to be an LN node and every user needs to get every LN transaction to keep up with state, then that's the same topology as onchain Bitcoin where *every* user is running a fullnode.And since in reality only a few thousand Bitcoin users actually run full nodes and end users never actually have to run full nodes, then we can safely say that Lightning Network scales *vastly* worse than onchain.
+9	1523205881	1	I don't have data, but from a high-level view, if the design of decentralized routing in LN is indeed such that every node has to keep liquidity information about every channel on the network, and we know that liquidity changes for every channel along a payment, then the protocol would be very noisy.For an average of five hops (making this number up), that would make five liquidity broadcast to all the network. I hear the average transaction size in Bitcoin is 500 bytes. That's not very big. I don't know the actual size a liquidity broadcast would be, but I don't think it would be that much smaller.Even if the broadcast is only 100 bytes, it still wouldn't bring any advantage compared to on-chain broadcast transactions.Remember, what LN aims to do is only have messages exchanged between nodes on a payment route, to avoid having a noisy protocol. But having to broadcast the liquidity change of a channel with every payment ruins everything.The alternative is to have a few trusted nodes in a hub and spokes model, but centralization is bad...I would love to see a rebuttal of the way I think LN routing would work, but so far this topic is shrouded in mystery.
+8	1523200190	1	I also would love to see your numbers on bandwidth.  Valid analysis is so rare... I am eager to see what you have.  Thanks for rational arguments. 
+9	1523206033	1	See my reply to Uvas23
+7	1523191925	-6	Stop bringing facts to a "stupid fight", they will just ignore it.  Lighting is the future and it's alive now because it's actually working and bigger than bcash already in terms of nodes.
+8	1523193806	5	See my reply to Uvas23
+8	1523202849	2	1 node = 1 user on LN.Nothing precludes layer 2 on BCH. If yours ever becomes useful we'll have it too without first crippling our base layer.
+8	1523193360	3	its alive to lose money. How lost money for a bug in BCH/BTC ?? nobody
+9	1523193542	-6	Clearly I am not going to argue with a mentally challenged 5 year old so I'm not even going to bother with a thought out reply to your word puke that you spit on your keyboard.
+5	1523202780	2	You do realize that if your side ever manages to make it useful at all that it can be added to BCH right?
+6	1523204486	0	I question the technical ability of your team to accomplish that. It is no longer a matter of copying code. Each upgrade and fork BCH makes increases the difficulty of adding LN exponentially. It took years of research to get LN where it is right now. It will take a competent team years to fit it to your chain safely.Last I heard, no BCH devs are working on LN. I could be wrong about this, but that is what I heard.
+7	1523208504	1	If there is no one outside of Core who can continue to upgrade Bitcoin then you've already lost. If LN ever works it will be highly worthy of someones' time to port it.
+8	1523209238	1	There is a large community of devs connected to bitcoin. They are not all in core.
+9	1523209966	1	So there is a large community of people who can add to BTC with LN, but no one in the world capable of porting open source code to BCH?
+0	1523207512	1	Censorship my ass. Ver can't use another account? Preferably one less misleadingly official-sounding?Meanwhile I can only post here every 9 minutes in this bastion of free speech.
+1	1523208845	1	This is a safe space where BCH users can openly criticise other projects
+0	1523209120	1	Anyone else starting to worry about free speech?
+0	1523197809	-1	Bitcoin Core... Ahahahaha
+1	1523207065	1	Agreed, BCore rolls off the tongue better.

@@ -1,0 +1,93 @@
+File created at: 1523211295
+Subreddit: btc
+Submission title: @Bitcoin twitter account is back online, but all of the followers are gone, and the tweets are protected.
+Submission created utc: 1523192749
+Submission score: 127
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523194972	51	Looks to me like somebody was handed the account name.
+1	1523195946	18	Aside from the followers being reset to zero, what makes you think that it has been handed over to another party?Edit: Oh...perhaps this:> Joined April 2018Edit 2: And now this:> https://twitter.com/Bitcoin/status/982980693985808385
+2	1523196409	19	Looks like twitter deleted the account and presumably a Turkish speaking someone got a hold of it at that instant.
+3	1523206577	7	if an account gets suspended there is no way to register the suspended user name again. Something fishy is going on here.
+3	1523206574	5	That's not how twitter works. When they suspend an account the @ is also suspended. Some rogue employee at twitter must have manually enabled the @ again, and possibly sold it to someone
+4	1523210084	1	Do we know why it was suspended in the first place?
+5	1523210599	1	Because of a lot of false reports from /r/shitcoin, and possibly to do with @Jack (Twitter CEO)'s involvement in Lightning Labs
+6	1523210678	1	That’s so crazy... Did the owner file a complaint?Edit: what complaints were those assholes even filing with twitter? I thought they very rarely deleted an account and only for like threats or terrorism??
+2	1523197510	8	Lol It's a serious issue but I can't help but be laughing..  Blue bitcoin with a cheetah > Merhaba Twitter: D
+1	1523199439	7	It already has over 1,000 followers and a bunch of CoreTards followers, like Hamel and StopDecrypt.
+2	1523201504	10	Totally organic.
+1	1523206381	1	he was hacked and the @ was changed. Should report the hack to twitter.
+0	1523192883	23	Wtf? Why?
+1	1523198028	27	AFAIU Twitter management is supporting BTC against BCH.  This seems to confirm that sides have been taken.
+2	1523199067	15	Jack is an investor in LN
+0	1523197501	20	And Theymos and team carry on without reprisal.
+1	1523210332	1	And make jokes about it on rbitcoin.. (top saying he sent a check..)
+0	1523193724	14	Before it had over 820K followers, now it says 1,675.Also, the tweet count has gone from 3,200+ to 564.
+0	1523195910	33	Oh my :(They actually destroyed the Twitter account successfully
+0	1523198270	30	I strongly suspect this is not the same guy.Kinda suspicious that someone registers it so quickly after the original account gets it terminated. Who would be surprised if the new owner of this account turns out to be pro blockstream ? Not suspicious at all jack Dorsey. Is this what BTC is now ? A bunch of super greedy fuckers using every dirty trick in the book to control the supply of money ?? BTC is now everything I believed bitcoin was created to replace. 
+1	1523199651	18	> Is this what BTC is now ? A bunch of super greedy fuckers using every dirty trick in the book to control the supply of money ?? BTC is now everything I believed bitcoin was created to replacesadly it is. Mike was correct in saying that bitcoin is a failed experiment.
+2	1523201017	-8	Who's Mike? A buddy of yours?
+3	1523201599	7	https://www.reddit.com/r/btc/comments/89z483/ama_ask_mike_anything
+4	1523201793	8	dont bother, its a troll
+5	1523202195	5	Mmmm, tasty!
+6	1523202677	7	there's a reason we have so many active users, /r/bitcoin are making posts saying come here and post shit to try and upset usthey spend more time attacking us and BCH than they do working on their own shitcoin
+1	1523199722	7	After they fail with these social media games, what comes next? I hope they won't resort to violence.
+1	1523209632	1	>BTC is now everything I believed bitcoin was created to replace. ‘This..
+0	1523193716	18	We have to build a decentralized Twitter.
+1	1523196671	8	Mastodon. You can run your own instances that federate with other instances.Not truly decentralized but censorship-resistant for sure
+1	1523194047	7	Gab.ai ?
+2	1523194293	12	Gab isn't decentralized. It's just committed to free speech.
+3	1523207569	0	gab doesnt have free speechhttps://www.oneangrygamer.net/2017/09/gab-ai-forced-to-censor-post-after-registrar-company-issues-threat/38824/
+3	1523200869	-6	It's also a cesspool of edgelords and neo-nazis, and they're actively catering to that "demographic".
+4	1523203797	5	Understand that using the word neo-nazi in such a gratuitous manner accomplishes only two things. 1) It robs the word of any meaning. 2) It exposes you as a mindless parrot.No-one of substance takes that epithet seriously any more, because people like you have cheapened it to mean "people I hate who should shut up because I say so".
+5	1523204490	-4	[This](https://i.imgur.com/mFZS6AS.png) is taken from the current top page of the politics section on Gab.The venn diagram between people who talk about "white genocide", and nazis, is a near-perfect circle.
+6	1523207920	1	Ok, friend, you got me there. That's definitely a Nazi. While we're at it, you know who else we should purge from social media for inciting  violence? Vegetarians. There's actually a near-perfect circle between vegetarians and homicide. "Don't eat animals" is actually subterfuge for "Eat all humans". Also Hitler was a vegetarian. Good luck out there comrade, and be careful!
+1	1523206140	5	"We"? Who is "we"?What are you waiting for??
+1	1523206284	4	Just fork Twitter and call it twitter cash, easy.
+0	1523194928	6	Wow wtf
+0	1523195618	6	If I click on roger’s tweet https://mobile.twitter.com/rogerkver/status/982964459663646720 on phone it links to an account with 5 followers, but using the twitter app the @bitcoin links to the original account. 
+1	1523196618	5	Also on the app some @bitcoin links go to the red background one, whose name has now been changed to bitcoinsbsh7 Very strange
+0	1523196682	4	someone else has registered it...
+0	1523193315	18	Here is what I see: [Imgur](https://i.imgur.com/llYFNud.png)
+1	1523193674	17	Roger, you know the owner of the account. Can you give us more information about what is happening?
+2	1523193889	26	He is a Bitcoiner since 2009.  I sent him a message,  but he is on the other side of the earth, so I likely won't hear back until the morning my time.
+3	1523193977	8	He's Canadian, right? I wonder if he knows yet...
+3	1523195625	6	Maybe twitter gave the account to someone else. [edit] or it was deleted and picked up by random person. 
+3	1523203533	-10	Did you tell him he's literally killing babies with the account?  
+4	1523204239	-10	Roger memes himself again lol.
+5	1523204251	8	Redditor /u/AdvancedExpert8 has low karma in this subreddit.
+3	1523209934	-1	Whats the matter, can't afford to pump your shitcoin anymore?
+1	1523196032	5	I currently see 36 followers and 1 post.
+1	1523198576	6	what you see is this account: https://twitter.com/Bitcoinsbsh7
+2	1523200114	2	Not sure why this was downvoted, I think you are right.
+1	1523200411	3	Looks like you have a few unread notifications there. I will summarise for you.REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+1	1523193656	1	I see the same thing. 
+0	1523196880	4	The handle links to the following instagram account : https://www.instagram.com/g.g/
+1	1523205303	2	gg wp
+0	1523206511	5	The in-fighting and drama has detracted from the movement so much that I almost want to sell and buy into some traditional investments like real estate. 🙄
+0	1523198631	4	Merhaba is Hello. Maybe Turkey 
+0	1523201069	5	It looks like that person wont post anything much.Merheba is Arabic. Some dud tried his luck and ended up with a the Bitcoin account.
+0	1523192814	7	Is it the same person? Or did someone steal the account??
+0	1523204951	7	Did Twitter straight up hand the @Bitcoin handle to someone else despite the original owner not breaking the terms of service?
+0	1523199672	3	So mission accomplished? Damn..
+0	1523198419	5	Twitter bio links to an Imgur profile with the same photo as the user Gafur Kahraman. Looks like this Gafur Kahraman person has control.
+0	1523192766	6	oh dear :(
+0	1523203302	1	This article is crazy, is this normal for sites to publish things like this?http://bitcoinist.com/misleading-twitter-account-bitcoin-banned-again/
+0	1523206326	2	Looks like it was snagged.
+0	1523200705	2	I wouldn't let that account go without getting at least 1 billion from Roger.*then report again. rinse and repeat. :D
+0	1523198238	3	Well, if followers are reset, I guess there is nothing stopping anyone from making a new (real) Bitcoin twitter profile. E.g. @bitcoinbch :-) But yeah, core supporters are quite pathetic.
+0	1523209328	1	Have you seen "Bitcoin" thread posts?https://np.reddit.com/r/Bitcoin/comments/8aojsg/twitter_finally_suspended_the_compromised_bitcoin/Why are they blaming Roger Ver??? Wtf?
+0	1523207820	1	Why not just use @bitcoinCash ? 
+0	1523206406	-1	Haha the salt in here...
+0	1523206503	-1	Roger- It looks like your account was deleted and someone new opened it.
+0	1523200830	0	Nothing to lose here
+0	1523207003	-1	take the L
+0	1523209155	0	This is getting retarded; just pull the plug. 
+0	1523195892	-29	Stop complaining about free speech when you personally block Twitter accounts and create the same "censorship" you complain about others doing.  Sad sack of bull... 
+1	1523196088	36	One man blocking people on his personal account is not the same (or even close) as the company blocking the account from everyone. Stop reaching. 
+2	1523196504	-15	One company blocking an account that Broke its terms of service vs one man who decries censorship blocking Anyone.You cult of Roger folks are legit nuts.Love being rate limited in this shit hole.  Even more censorship.  I'm sure you will all gang up on me before I can do anything with 10 minute response times so, I'm out. Y'all are supporting a fraud. 
+3	1523196645	21	> Broke its terms of serviceCan you elaborate? Preferably with proof of your claim?
+3	1523205010	2	Please explain how the user was breaking the terms of service.  Otherwise how can you blame us for downvoting this comment?
+0	1523199892	-17	The Bitcoin account on twitter should be controlled by:Andreas M. Antonopoulos@aantonopPlease make it happen. Retweet my Tweet calling for action to have this account under the control of Andreas.https://twitter.com/vintagebazaarOB/status/982997301739315202
+1	1523201660	7	Is he the CEO of Bitcoin?
+2	1523209622	0	Bitcoin is a protocol, not a corporation. I can call myself the CEO of the sky but it doesn't make it true.

@@ -1,0 +1,22 @@
+File created at: 1523211296
+Subreddit: btc
+Submission title: My response to Purse.io trying to get me to use purse again
+Submission created utc: 1523151486
+Submission score: 129
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523155958	29	I believe Roger mentioned at Satoshi's Vision that Purse will in fact be adding BCH support! So it looks like you will get your wish.
+0	1523153147	25	I used to use it quite often.  Hopefully they get their act together and enable native BCH support soon.
+0	1523153526	13	you cant be the only one to have stopped using their service due to the crippled coin fees/tx delays etc....Seems like a no-brainer to stay in business (let alone grow)-add/use a reliable/essentially-0 cost fee crypto (BCH) for this  kind of business.Ryan X. Charles (CEO Yours.org) [saw the writing on the wall yrs ago](https://www.youtube.com/watch?v=FaQjCvmrz7U&feature=youtu.be&t=11m20s) with the cripple coin scaling issues and even spent 1-1/2yrs working on their own micro-pmts solution and then when BCH came out threw out their 1-1/2 yrs of work and put in BCH and presto-chango... DONE DEAL!!!
+1	1523158218	4	> you cant be the only one to have stopped using their serviceI am another one.
+0	1523153473	14	That's really fantastic. A response like this after the company has initiated the correspondence really should have an impact.
+0	1523166041	7	I've heard very good things about the people at Purse.  Don't be too hard on them.
+1	1523169204	3	More of this. Though, I too stopped using them due to Bitcoin Core fees.
+2	1523172775	0	I started using them because of Bitcoin Core fees. It was a decent way to dump some while the price was high.
+0	1523194140	3	Ouch...https://www.alexa.com/siteinfo/purse.ioThey should have integrated BCH months ago...  Evolve or die.
+1	1523194225	2	I will put this side by side with the mempool and share here.
+2	1523194444	1	Oh, that would be very interesting, thanks!
+3	1523195393	1	https://cdn.pbrd.co/images/HfFAsGS.pngThree fee peaks, last one fatal!
+0	1523160786	8	Are the morons who work at purse.io so incredibly dense that they honestly have absolutely no clue why people don’t use their service and would never use their service? SMH.
+0	1523169552	2	I asked them to support BCH so I can buy stuff. They responded that they will support purchases with other cryptos. "An announcement coming soon."
+0	1523177792	2	Development takes time.  I believe that they are working on it.chjj is not some core troll, he has been doing good work for a while.

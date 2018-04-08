@@ -1,0 +1,55 @@
+File created at: 1523211282
+Subreddit: Bitcoin
+Submission title: In Venezuela where minimum wage is around around 4 USD per month, people is trading 3,000,000 USD per week (LocalBitcoin).
+Submission created utc: 1523150260
+Submission score: 132
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523155744	4	Exchange rate is above 400,000 VEF / USD
+1	1523192516	1	Yes you are right, but maybe the last week average was around 300,000 VEF / USD (Maybe more like 350,000 Bs.)
+0	1523180587	4	I will hire a village at those prices
+1	1523192123	1	A lot of people is doing that.
+0	1523151402	11	Four dollars per month. Don't believe that. Big mac index price is $2.53.
+1	1523158086	24	This is entirely true. I know someone who lived in Venezuela all of her life who was fortunate to leave the country recently. I don't think people realize how bad their situation really is.
+1	1523198748	1	That just says McDonalds is an upper class food there. 
+1	1523203641	1	Probably explains why people are starving....
+2	1523208216	1	Exactly
+1	1523154736	8	What is it like in that bubble?
+2	1523156141	0	https://www.reddit.com/r/litecoin/comments/81z3us/see_how_much_is_0004125_ltc_in_bolivares_honest/
+1	1523184457	2	It simply means that they effectively don't have a minimum wage anymore.
+2	1523189992	4	Can't have a minimum wage if you don't have wage!
+1	1523193474	1	it's true bro, venezuela is a socialist countrythis is what socialism does
+2	1523208622	1	Because whole Scandinavia is dying of hunger and poverty.
+1	1523152260	1	http://money.cnn.com/2018/03/02/news/economy/venezuela-minimum-wage/index.htmlhttp://qcostarica.com/venezuela-where-its-more-expensive-to-go-to-work-than-it-is-to-stay-home/
+0	1523182635	2	people are*
+1	1523208231	1	Thanks, English is not my first language
+0	1523189271	2	So if they work a 40 hour week they make .10 an hour?
+1	1523192327	1	Yes, you can read about my history here https://www.reddit.com/r/litecoin/comments/81z3us/see_how_much_is_0004125_ltc_in_bolivares_honest/ and here https://www.reddit.com/r/litecoin/comments/87aflu/i_used_the_equivalent_of_016394414_ltc_to/Anyway, some prices here are very low and match the wages (for example electricity, water, gasoline, internet and some others) 
+0	1523196280	2	What are your thoughts on the upcoming Venezuela Government crypto Petro?http://www.thecryptotrader.io/crypto/petro-ptr/
+1	1523196951	1	https://www.caracaschronicles.com/2018/03/11/supcacven-cant-scam-a-scammer/
+0	1523207079	1	http://www.dashvenezuela.org/
+1	1523208253	1	Yes, dash has a good advertising here.
+0	1523170567	4	Yes, there a lot of poor people in Venezuela. Doesn't mean there aren't any rich people either. They control the wealth there. 
+1	1523177469	5	mostly government related people.
+0	1523182638	1	Around around
+0	1523185553	1	Well when the value of your currency is halving every month the volatility in Bitcoin seems pretty safe.
+1	1523192174	2	That is exactly what happens, but it's a easy way to get USD with Bs. (Bolivares)... Bs>Bitcoin>USD
+0	1523186948	1	I wonder if Petro will change this
+1	1523192195	2	Petro is a scam https://www.caracaschronicles.com/2018/03/11/supcacven-cant-scam-a-scammer/
+0	1523150464	-3	I doubt this information 
+1	1523150669	18	I live here and I think it's correct. There isn't (well technically there is, but it's very small and non-competitive exchange rate is fixed under the street rate) legal market forex, so people go USD > BTC > VEF, even big companies.
+2	1523169857	2	good to know
+2	1523150841	1	Then in that case how do I sell to someone in Venezuela 
+3	1523203886	1	What kind of idiot sells anything for Bolivares? You want some Zimbabwe dollars too?
+4	1523206836	1	He's just saying the exchange rate, he never said about selling Btc to bolivars. Also if you do like in Venezuela you need bolivar to buy stuff to survive so I guess the country's residents? 
+5	1523208309	1	Exactly.. you have to use bolivares to buy things, If you see my post in the litecoin sub Reddit I explain that... 
+3	1523150979	3	You need to have bitcoin, but also you need a Venezuelan bank account (With Bolivares), where you can receive the Bolivares after selling bitcoin.1 Bitcoin is around 3,000,000,000 VEF (Bolivares).
+4	1523154984	6	Lots of coca!
+4	1523154735	2	And what would someone outside Venezuela do with Bolivares ?
+5	1523154831	19	It is a lifetime supply of toilet paper at a huge discount. 
+5	1523157687	5	Buy stuff. In the border with Colombia and Brazil you can buy almost anything you can buy in your own country
+5	1523156044	3	Nothing.
+4	1523170355	1	> 3,000,000,000 VEFBut that's 60,000 USD!
+5	1523174645	4	Not at the real exchange rate. The goverment has its own exchange rate which is obviously a scam and nobody has access to it (only people from inside the goverment). The real rate is rather around 400.000 BsF / 1$The official rate, no so long ago was around 10 BsF / 1$, so I guess you could imagine the kind of massive business was done. Probably the greatest capital leak in the history of mankind, and all thanks to the good ol' socialism
+5	1523192463	1	Only if you have big contacts inside the goverment, volia, you found the way people at the government is getting rich!Real exchange rate at the streets is between 300,000 / 400,000 Bs. / USD, see how crazy is the market... there is a 25% spread in the exchange rate....
+5	1523210587	1	3000000000 are $7500 at true (black) market price (400k).There is an artificial gov price (50k?) that almost nobody can get to, and those select few who do, immediately sell it back at the black market price... profit!Venezuela is a corruption machine imploding itself.

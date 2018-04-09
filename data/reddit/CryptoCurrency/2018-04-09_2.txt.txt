@@ -1,0 +1,162 @@
+File created at: 1523298251
+Subreddit: CryptoCurrency
+Submission title: Twitter CEO Jack Dorsey invests $2.5 million into Bitcoin's Lightning Network. This is the future.
+Submission created utc: 1523228424
+Submission score: 414
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523265532	17	Why is no one talking about Square? Jack Dorsey is also the CEO of Square, the money transfer app in US. They just recently enabled buying and selling Cryptocurrencies in the square app. Also, Jack Dorsey has been extremely Pro Crypto for a long time. Square is making some sort of an exchange now. It is a good idea for him to expand his portfolio and $2 Million is small change for him. 
+1	1523287581	4	I had no clue he was CEO of Square. 
+2	1523287764	3	Yeah, most people don’t. But he is extremely pro crypto. He is a major investor in lightning labs, the company behind lightning network. 
+0	1523254543	12	IF you set up a microscope you can almost see a little green peak on the exchange 
+0	1523241808	107	Just because someone with a lot of money invests a drop of it into something doesn't make it the future lol. It just means they think something might come of it and decided to throw some chump change at it to maybe get ahead of the curve. If he invested a couple HUNDRED million, then I would be a little more inclined to agree that he might know something we don't. 
+1	1523250119	18	2 million is still a big investment that you wouldn’t make unless you were pretty confident. Unless you are really just bad at handling your money
+2	1523252634	32	2million for you and for me 20-40 years of work. For them, it is a pocket change they spend in the weekend getaway. 
+3	1523275667	4	Depends on the person honestly. Some billionaires yes. There are others though that still treat money with care regardless of how much they have. 
+4	1523285020	2	Especially if you don't think it's that great of an investment...
+2	1523259508	11	hes the fucking CEO hes a billionaire. 2 million is less than daily fluctuation of his net worth (largely composed of twitter shares). 
+3	1523275740	7	A man who is wise with his money would treat a 2 million dollar investment seriously even if it were small to him. 
+4	1523284944	4	A man who is wise with money looks at percentages not actual amount of money. 
+5	1523288434	2	Neither one is mutually exclusive and you people are idiots for thinking that most people stop caring about $2 million just because they have a lot of money. Rich != financially irresponsible. In many cases it actually means the opposite, either because the person got rich by being very financially responsible or because their wealth gives them access to fantastic wealth management resources. He would spend $2M more casually *than you or I would*, that doesn't mean that he spends it casually.
+4	1523296891	1	To be fair, had you read the article you'd realize it never mentions how much he invested.
+2	1523268789	-2	Lol. You are one naive motherfucker. 
+1	1523275564	2	You cannot pay hundred million in a start up, it cannot absorb the money. 
+2	1523281831	1	Magic Leap?
+1	1523249257	2	but WOW two MILIIONS 
+1	1523277124	2	Typical authority bias. If someone famous did X they must be right, they know something that we don't know.Even W. Buffett loses money, say hello IBM.
+1	1523242330	-19	You think software development needs hundreds of millions?
+2	1523244106	7	Yep, it sure can. For LN completion including getting it working in major exchanges and wallets, maybe. It would be much more expensive if no one was working for free
+3	1523266077	-7	Youre wrong. Do abit of google.
+4	1523273848	1	I'm a software engineer. You're wrong, ignorant and a moron.
+2	1523262626	2	You are not serious with that question right? It absolutley does.
+3	1523265521	-6	No
+0	1523282878	8	Misleading title. Dorsey was just a part of the 2.5 M seed round.
+0	1523277721	6	Clearly he saw more guaranteed profit in  taking a share in the company than buying 2.5 million worth of Bitcoin.
+1	1523282697	3	This
+0	1523228937	15	Just “bitcoins” lighting network work the lightning network that is a layer 2 solution for all cryptos like Bitcoin and Stellar ?
+1	1523249355	5	LN runs off of Segwit. So anyone coin with Segwit can adapt to the LN. Bitcoin, Litecoin, Digibyte, not bcash. 
+2	1523260718	20	LN does NOT run off with SegWit, this is a misinformed idea. LN runs off with any Malleability fix. 
+3	1523293096	1	This. Thank you. 
+3	1523296509	1	Which Segwit addresses. 
+1	1523229101	-48	Shitcoins will piggyback, i see nothing wrong with that. But yes, Bitcoin's lightning network.
+2	1523229172	39	You went full satoshi. Never go full satoshi. 
+2	1523251095	1	Stellar is no shitcoin 
+3	1523265725	5	Fucking massive supply. 75% owned by lead dev. Its a shitcoin mate.
+2	1523237399	1	Lel.
+2	1523255279	-2	You're a tool
+0	1523281987	9	and not surprisingly, decided to hi*jack* the @Bitcoin Twitter handlelol
+1	1523290500	1	Precisely. And more to come.
+0	1523250573	2	cool ! rock the market 
+0	1523258049	16	This is the same guy whose platform just took the @Bitcoin twitter account away from someone who was posting pro-BCH content?Irrespective of what one thinks of the merits of BTC versus BCH, isn't that a bit of a conflict of interest?
+1	1523290533	1	You bet.
+1	1523259311	0	Yes, it seems awfully suspicious. Same thing with how the Reddit admins actively engage with the censored /r/bitcoin community but refuse to ever acknowledge the moderators of /r/btc. 
+0	1523230036	12	If Bitcoin doesn't evolve we are all stuck
+1	1523252886	0	[removed]
+2	1523266521	0	Just because fakesatoshi is a conman, and speaks garbage, don't throw the baby out with the bathwater.
+1	1523243195	-26	It has ...its called nano..
+1	1523230358	-52	#XRPTheStandard
+2	1523234071	23	I'm big into XRP but these comments are dumb as fuck, but that's par for the course in this sub.
+2	1523244914	-1	Zerps unite!
+2	1523238018	-4	Lmaooo coppeeee
+1	1523279238	-3	Bitcoin has evolved. It's just that it goes by another name.  IOTA.
+1	1523254747	-9	XRP not fucked 👊
+2	1523275586	5	shittiest of all the shit coins. congrats. 
+3	1523289404	0	So much haters here in Ethereum land
+0	1523246650	36	Please know all this about lightning before getting too excited Essentially, lightning only works as a scaling solution when everyone is already using it. It has no way to bridge the gap from no users(where it is starting) to everyone worldwide using it.Worse, it has numerous tradeoffs that will discourage the average person from using it. This amplifies the downsides that arise from it not being universally in use instantly, and will prevent it from ever reaching that state. Here are those:1. You must be online all the time to be paid. And the person you want to pay must be online for you to pay them.2. If you go offline at the wrong time and aren't using a centralized hub, you can lose money you didn't even knowingly transact with.3. The solution to #2 is to enlist "watchers" to prevent you from losing money. More overhead the average person isn't going to care about or understand, and more fees that have to be paid. Or people will just be forced to use centralized hubs.4. Two new users to Lightning will not be able to actually pay eachother without using a centralized hub because no one will lock up funds into the opposing side of their channels; No funded channels = can't pay eachother. Hence... Hubs.5. Using hubs will come with monthly fee; They aren't going to lock up their capital on your behalf for no cost.6. The entire system is vulnerable to a mass-default attack. Hubs are especially vulnerable.7. Lightning will not be able to route large payments(no route available).8. Lightning transactions are larger than normal transactions.9. Lightning nodes must keep track of the full history of channel states themselves. If they lose this, they are vulnerable to attacks and may lose coins.10. Attackers may randomly lock up funds anywhere along the chain of channels for extended periods of time(many hours) at no cost to themselves.11. The network randomly may fail to work for a user under certain circumstances for no discernable reason as far as they can see (no route available). And the issues directly related to the not having everyone on the planet on lightning at first:1. Small payments consolidating into larger ones, such as a retailer who needs to pay vendors, will fail to route on Lightning, and the loop between the source of the payments(end users) and their destinations(retailers) is broken. This means every channel will "flow" in one direction, and need to be refilled to resume actually being used.2. Refilling every channel will be at least one onchain transaction, possibly two. If this happens twice a month, 1mb blocks + segwit will only be able to serve 4 million users. Some estimates are that Bitcoin already has 2-3 million users.3. Regardless of lightning's offchain use, Bitcoin must still have enough transaction fees to provide for its network security. Except instead of that minimum fee level being shouldered by 1000 - 500000 million transactions, it is only shouldered by ~170 million transactions with segwit 1mb blocks.That situation doesn't exist in a vacuum. Users will have a choice - They can go through all that, deal with all of those limitations, odd failures & risks and pay the incredibly high fees for getting on lightning in the first place... Or they can just buy Ethereum, use a SPV wallet, and have payments confirmed in 15 seconds for a fraction of the fees. Or roughly the same choice for SPV+BCH.The choice will be obvious.My (and many others) opinion is that lighting is not near as good as people think it will be... It just isn't a scaling solution. Lightning is fine for use cases that need to do frequent, small, or predictable payments with few entities. For example, mining pools paying PPLNS miners. Or gamblers making small bets on gambling sites. Or traders making frequent trades on exchanges.But as a general purpose scaling solution for average people? It sucks, and they are absolutely not going to go through all of that shit just to use crypto, especially not with better, cheaper, more reliable options out there.
+1	1523249336	25	This pasta is spammed in every LN-thread lol.
+2	1523268945	16	> This pasta is spammed in every LN-thread lol.Does the truth hurt if it's said to many times?
+3	1523273578	-7	It's just that it takes time debunking this bullshit over and over again because the spammers are tireless. Extremely annoying. I don't even care anymore.
+4	1523275366	6	copy pasta the debunking post then? 
+5	1523277674	0	Nah, it does not work this way. This needs a proper discussion thread in one place with many comments from different people. I would suggest maybe starting it in /r/TheLightningNetworkThe problem is that the topic starter does not want any discussion and ignores any replies. He is just spamming his vision of "truth" everywhere since a while ago.As for the credibility of such wannabe BCH prophets, some time ago they predicted doom and gloom related to the segwit introduction (the possibility of stealing funds, etc.). None of their predictions came true. Now their target is the Lightning Network.
+6	1523288659	2	>He is just spamming his vision of "truth" everywhere since a while ago.If he's just spamming pasta make a rebuttal pasta and respond to his with it every time. I don't see any reason why it wouldn't work. Pasta is literally copied and pasted so making a copy + paste response would be easily doable and because they're both pasta the rebuttal would always stay relevant.
+7	1523294239	0	Again, you are assuming that I'm supposed to watch a known petty spammer and post rebuttals. Why should I care? The point is that the LN will be alright regardless of what he does.And BTW, these BCH folks are well organized and rather vengeful. They are very effective at downvoting any opposition.
+8	1523294632	1	>Again, you are assuming that I'm supposed to watch a known petty spammer and post rebuttals You took the time to post bitching about "spammers" and replying to people, it would have been even quicker if you could just paste a prewritten response that actually contributes to the conversation. Again, it's pasta. You make one rebuttal and that's it.>Why should I care?You're the one making claims that this shit is false. You clearly do care.>And BTW, these BCH folks are well organized and rather vengeful. They are very effective at downvoting any opposition.BTC's side is just as bad if not worse, don't kid yourself. The censorship in that community has created an atmosphere where people aren't even willing to consider that what they're seeing is not the whole picture or that there's anything wrong. BCH people get tribal as well, but they at least have free discussion on issues. As long as /u/theymos' name is at the top of the /r/bitcoin mod team that sub is going to have *extremely* justified criticism pointed at it.
+2	1523262658	11	Get used to it. It isn’t all rainbows and butterflies like r/bitcoin lies and says it is. 
+1	1523277770	4	8 hours and not a single serious attempt to debunk this.
+1	1523296086	1	The lead dev of vertcoin is developing a solution to #2 which he calls the LITbox. It will be an inexpensive piece of hardware (similar to a router) that will essentially function as your own personal bank. It's very interesting and I recommend researching it. 
+1	1523296216	2	My hope is that people realize this and actually take a serious look at Bitcoin Cash.  It's Bitcoin without all this bullshit being jammed down your throat.. 
+1	1523251149	-5	On fucking que; every single LN thread. Getting tired of this. LN is a great solution; that is the reason why tons of coins are adopting it
+2	1523255986	12	Is there a post/comment that addresses the concerns in the comment?
+3	1523262359	10	One guy tried once. But he had no proof and just personal opinions of it all. It was an attempt, but not successful
+2	1523264758	5	>LN is a great solutionFor machine2machine payments  sure. But human2human? It's awfully unintuitive and nobody would use it in real world use cases.
+2	1523269016	4	Getting tired of hearing the truth? Way to go bud, can't even counter any of it.. 
+1	1523265882	-2	Too many wrongs in this.
+2	1523269137	11	Please state all the "wrongs" in above and why they are wrong according to you please. Just saying it's too many wrongs is just your cognitive dissonance at play.
+1	1523252939	-14	How much does anyone want to bet this shill post comes from bcash?
+2	1523259307	9	FYI I don’t like bitcoin and bitcoin cash the exact same. 
+3	1523260571	-3	[removed]
+4	1523268662	2	**Rule I - Obey the Golden Rule & Maintain Decorum** * Lead by example and treat others as you would wish yourself to be treated.  * No Trolling. Do not make random unsolicited and/or controversial comments with the intent of baiting or provoking unsuspecting readers to engage in hostile arguments. Trolling, in all its forms, will lead to a suspension or permanent ban. Do not waste people's time. It's the most valuable resource we have.See our [Expanded Rules](https://www.reddit.com/r/CryptoCurrency/wiki/expanded_rules#wiki_rule_i) wiki page for more details about this rule.---**Reasoning:** -----[^(Sub Rules)](http://www.reddit.com/r/CryptoCurrency/about/rules) ^**|**  [^(Site Rules)](http://www.reddit.com/rules)
+3	1523265944	-4	You can stop posting lies one day.
+4	1523267623	12	If it ain’t praising bitcoin core and giving it a handjob, it’s lies. (According to the bitcoin core extremists)
+5	1523268361	-7	Which s 90% of the bitcoin sphere, time to look into the mirror.
+6	1523274613	5	Yes lies and false praising are 90% of bitcoin core. I agree
+2	1523257915	-6	Any time I see a post like that one that goes to such great lengths to "inform" others about the pitfalls of the lightning network, I think to myself "I bet this guy is a regular poster on r/btc"Yup.
+3	1523259273	11	Look at my history. Where are my regular posts on r/btc????Moron. Nice try though!
+4	1523262420	3	Dude. You unironically use terms like "bitcoin core extremists" and "the ISIS of crypto" while posting on the most cult-like sub in the entire crypto space.If the irony here is not immediately apparent, I'm afraid there's no helping you.
+5	1523267689	7	The most cult like sub is r/bitcoin
+6	1523267947	2	I'm not sure how anyone could take an unbiased look at r/bitcoin and r/btc side-by-side and manage to conclude that r/bitcoin is the more cult-like one.Would take some serious mental gymnastics.
+7	1523274724	0	That’s what a bcore fangirl would say, yes. 
+8	1523277373	3	Why would you conclude that flameylamey is a girl?  And if flameylamey was a guy, why would you intentionally call him a girl (not that there is anything inferior about being a girl)?  I think your tagline tells everyone more about you than you think.  Try something new and less sexist.
+9	1523279316	2	Consider he also posted "Uh oh, he found out about your gay lover, didn’t he?"There's a bit of overlap between crypto fanaticals and other "anti-social" behaviors. 
+0	1523276488	2	Isn't it amazing how many very smart, very successful people are investing in blockchain technology -- whether cryptocurrency is moving up, down or sideways -- and yet so many people on social media (Twitter, yes, but right here on Reddit as well) are still calling it "pixie dust" or "a solution in search of a problem."
+0	1523288530	2	More importantly he’s the CEO of Square
+0	1523258330	4	Fuck that guy though.
+0	1523250559	0	Jack Dorsey is worth 3.4 Billion. This would be the equivalent of someone with $10,000 in the bank investing $7. It means basically nothing to him.
+1	1523253141	29	That’s not how net worth works. 
+1	1523271951	5	That isn't how net worth works at all.
+0	1523249506	2	Jack Dorsey is an ass, arbitrarily banning people on Twitter all the time
+0	1523233725	3	Sounds like chump change in this market.  Its bigger than that, right?
+0	1523249224	3	Wtf is this obvious shilling
+1	1523277820	3	You must be new here. Welcome to this sub.  
+0	1523246758	2	Big if true.
+1	1523252864	-2	Shit if trueLn is crap
+0	1523264693	1	We need 12-18months till we have great, tested, LN products. Then adoption and price will skyrocket.
+1	1523267727	10	Lol. It was 18 months, 18 months ago. And 18 months before that I believe. Don’t hold your breath. 
+2	1523267990	1	We got Segwit 9 months ago... There are already beta LN wallets, I expect them to be usable in the coming months.
+3	1523268213	5	LN is on main net already and there is a mobile wallet that has LN working on main net, it's "eclair wallet", but it's been taken down from google play because they lost API keys or something, so they need to reupload it and make a small bug fix.source:https://twitter.com/acinq_co
+4	1523268419	2	Well that's reassuring lol. 
+5	1523268803	0	i have the app on my phone, so it works :) they will upload the app in the matter of days probably, people already used it to buy things on the internet tho.
+0	1523228425	1	**Bitcoin (BTC) Basic Info:** [Website](https://bitcoin.org) - r/Bitcoin - [Abstract](https://www.reddit.com/r/CryptoWikis/wiki/Bitcoin_basicinfo#wiki_short_description) - [History](https://www.reddit.com/r/CryptoWikis/wiki/Bitcoin_basicinfo#wiki_history) - [Exchanges](https://www.reddit.com/r/CryptoWikis/wiki/Bitcoin_basicinfo#wiki_exchanges) - [Wallets](https://www.reddit.com/r/CryptoWikis/wiki/Bitcoin_basicinfo#wiki_wallets) **Biases:** [Arguments For](https://www.reddit.com/r/CryptoWikis/wiki/Bitcoin_pros) & [Arguments Against](https://www.reddit.com/r/CryptoWikis/wiki/Bitcoin_cons) | **CryptoWikis:** [Policy](https://www.reddit.com/r/CryptoCurrency/wiki/policy#wiki_cryptowikis_program_-_.28work_in_progress.29) - [Contribute Content](https://www.reddit.com/r/CryptoWikis/wiki/contributing)---*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1523260696	1	Wont advertise but Supports. This man wants the moon to himself.
+0	1523263964	1	So many fud comments on reddit these days. It was not this bad a year ago.
+0	1523291255	1	People often say alt coins will die if lightning network is there but actually lets turn this argument around: Why is lightning network needed if you can have BTC for store of value and then atomswaps with altcoins for actual transactions? Surely a blockchain network or even POS/representatives system is better/just as good as the rather complicated and still quite costly lightning network?For your savingsaccount use the super secure btc network.. for payments use something slightly less secure? 
+0	1523291849	1	They assign funds on the blockchain into an entry that requires both to sign off on what they plan to spend. 
+0	1523293136	1	What's the business model of the LN organization he invested in? Isn't LN open-source and inter-operable? What's the happy-path exit strategy?
+0	1523250800	0	An investment from the CEO of a company who doesn't even know how to deal with politics on his own business, and is extremely biased about many world issues.An investment from the CEO of a company whose main goal is to make money for its centralized company's shareholders.I didn't know how you guys see this as "this is the future". If anything, this investment decision alone could be looked back in the future as the "beginning of the end" if lightning ends up failing. It's full of conflict of interest. All the drama in Bitcoin community came from conflict of interest, and this entire roster of investors (excluding a few VCs) is a terrible disaster of conflict of interests.Before you downvote me down to hell, I just want to clarify that I'm not criticizing lightning or its viability. I'm talking about the investment decision. Before you mindlessly idolize Jack Dorsey, go read the book about Twitter inc.'s history. The drama around Facebook inc. is child's play compared to what happened at Twitter https://www.amazon.com/Hatching-Twitter-Story-Friendship-Betrayal/dp/1591847087/ref=sr_1_8?ie=UTF8&qid=1523250707&sr=8-8&keywords=twitter
+1	1523253042	1	And don’t forget that twitter still has an negative income 
+0	1523247889	2	The lightning network is nothing but central banking 2.0
+1	1523291178	1	No, it's not. At all. LN is not a mint. Central banks have control over the money supply, LN is literally nothing like a central bank. It is a second layer payment vehicle that is OPTIONAL. You can still transact on the main chain as always. The "banks" line is complete nonsense. 
+2	1523296783	1	They tell you it's "optional", which is true. And then years later the lightning network becomes so user friendly that more people use it, and the main net becomes so expensive to transact on, because of high fees of closing channels, that people don't even bother with the main net anymore.Since nodes will be Third Party Settlement Organizations, it means anyone that wants to transact using a hub or node must be registered with a node to prevent "scams" and "protect people". There goes anonymity, and freedom.If you don't see this coming, then you're intentionally putting on blinkers.
+0	1523238743	0	Hey, whatever good news it takes to get the market going again.  I personally do not see BTC as the future of digital payments but unfortunately, at the moment, the whole market is tied to BTC and whn BTC is in the toilet, so is the whole market.
+1	1523247054	5	What about Bitcoin Cash though?
+2	1523285178	2	Na dawg bcash is as obsolete as bitcoin, we going for that new stuff now
+0	1523252161	1	Yeah, I still say the LN is a piece of garbage. Scaling blockchains off blockchains - why not just get some dollars and go hang out with your banker buddies in the fiat world? You know, the guys who'll own all the big LN hubs and thus have successfully super-centralized Bitcoin?
+1	1523265676	1	Go do abit of cs
+0	1523229316	1	[deleted]
+1	1523231313	1	Man this was totally necessary. Most ICOs are literally creating anything and attaching the words decentralised for the investment bait. Have a look at Bunny token. I got an ad through twitter, that shit is cancer to this ecosystem and we will have continued detriment to consumer growth with things like this existing.
+1	1523230195	1	???? Why let scammer ico’s promote their scams on twitter? 
+1	1523230339	1	While it might seem like its on attack on crypto, you should remember (if you were here in the early days), crypto isn't a business. Some people will tell you otherwise, but i can guarantee all they want is your money.
+0	1523271802	1	This does make the banning of @Bitcoin slightly more suspect.  But I guess it's still warranted
+0	1523279998	1	Is this the same guy that has been wrong about literally everything? The CEO who is responsible for Twitter tanking the year after it's IPO?
+0	1523288500	1	Jack Dorsey is a piece of shit. This should not encourage anyone with an interest in crypto.
+0	1523244542	1	Its 2.5 million. Settle down, this is not close to game changing
+1	1523266013	3	Considering 99% of coins get $0 investment. I think your afraid.
+2	1523287167	0	Afraid of what? 2.5Mil looking to "disrupt" the meta? Lol 
+0	1523252846	1	lol!!! Let me match his investment with the same proposition to my entire capital (1/1000): $250Big shot 
+0	1523243156	-10	Nano is better. Instant, free, highest tps in crypto, scalable, green, unique tech, fairly distributed. 
+1	1523243452	6	Then why has nano been disabled on binance due to problems with the coin?
+2	1523250336	-3	Nano isn't perfect for sure but this is a dumb argument. Why *hasn't* Nano been disabled on Nanex? It's different from what most exchanges are used to but it doesn't mean flaws in the coin. 
+2	1523245383	-7	Please don't spread disinformation.Binance is upgrading to the Universal Blocks that Nano implemented. Buy nano or cry later. Or don't, I'm sure other coins will do well also. 👍🏻
+3	1523252525	-3	Don't even bother with ArrayBoy. He is a known fudder that goes around shitting on coins he considers competition to his investments. 
+0	1523248317	0	2.5 million ain't that much yo
+0	1523276414	0	This is old news, plus Jack Dorsey did not invest all of the $2.5M raised by Lightning Network. There were many who invested in it along with Jack. However, it doesn’t mean he’s randomly throwing money into projects and see if it sticks. He must clearly see some value in it and that is a good news nonetheless.
+0	1523251158	-4	Hahaha silly Jack, does anyone like this guy? No more FUD on lightning network please.
+0	1523270219	0	Billionairs spread a little cash into most things that comes their way. They understand 90%+ will fail to make them money, so they spread it around to make sure they find the 10%.Good example is Mark Cuban. Recently he said he absolutely "hated" both gold and bitcoin as investments. Then he said he owned some of each just because: billionaire.
+1	1523271747	3	> Billionairs spread a little cash into most things that comes their way.Jesus that is completely untrue. A small minority of extensively vetted projects get money. They don't just throw money at ideas and take a gamble on "most things that come their way". Also private investment play investment (Mark Cuban) is vastly different than public investment (Jack Dorsey).
+2	1523272768	0	There is no difference between Mark Cuban throwing pocket change at something vs. Jack Dorsey throwing pocket change at something. From interviews, Cuban has thousands of different investments in things at any given time. Sometimes he's asked about one and he seems surprised that is one of his investments. Do they throw money at anyone that comes up to them on the street? No. They have a basic vetting process to keep out pure cranks and crazies, but beyond that it is trivial for them to throw a couple million around.
+3	1523273147	2	I've met and been through multiple Seed and Series A funding rounds with billionaires. You are talking out of your ass. Private investment can be fast tracked if a favour is owed or someone of equal standing vouches for it. Public investment never involves them "throwing a couple million around".
+0	1523279159	0	I understand they are working on implementing the Lightning Network on the Tangle! Then it will really work!
+0	1523283804	0	2.5 million is like 2.5 dollar for them as a investment
+0	1523285678	0	That is not a lot of money 
+0	1523289628	0	I do not trust Jack Dorsey and I fear that privacy violation lawsuits that could be coming his way could potentially threaten the price of any crypto he is invested in, if he ultimately ends up having to sell mass quantities. Sorry, Jack...your platform *was* cool but you are more of a worm than a winner IMO.
+0	1523268785	-1	The future of population control

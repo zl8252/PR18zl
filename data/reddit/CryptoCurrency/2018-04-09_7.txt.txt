@@ -1,0 +1,59 @@
+File created at: 1523298258
+Subreddit: CryptoCurrency
+Submission title: Short and simple Nano review
+Submission created utc: 1523248383
+Submission score: 131
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523248384	1	**Nano (NANO) Basic Info:** [Website](https://www.nano.org/) - r/NanoCurrency - [Abstract](https://www.reddit.com/r/CryptoWikis/wiki/nano_basicinfo#wiki_short_description) - [History](https://www.reddit.com/r/CryptoWikis/wiki/nano_basicinfo#wiki_history) - [Exchanges](https://www.reddit.com/r/CryptoWikis/wiki/nano_basicinfo#wiki_exchanges) - [Wallets](https://www.reddit.com/r/CryptoWikis/wiki/nano_basicinfo#wiki_wallets)  **Biases:** [Arguments For](https://www.reddit.com/r/CryptoWikis/wiki/nano_pros) & [Arguments Against](https://www.reddit.com/r/CryptoWikis/wiki/nano_cons) | **CryptoWikis:** [Policy](https://www.reddit.com/r/CryptoCurrency/wiki/policy#wiki_cryptowikis_program_-_.28work_in_progress.29) - [Contribute Content](https://www.reddit.com/r/CryptoWikis/wiki/contributing)---*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1523248702	38	Nano currently on sale for $5
+1	1523288900	4	still expensive
+1	1523263219	28	Or it's rly expensive right now. No way to know ;)
+2	1523296118	0	Considering its gone way higher before, it has the chance to be a bargain at 5. Sadly I fomo'd at like 13 bucks.........luckily I invested chump change. So, I'm just holding and seeing what happens. If it takes of,I'm sure I will at least break even. If not, it could die and ill be left with scraps. 
+1	1523271607	-13	Nope. Still overvalued.
+2	1523272801	12	  * Bitgrail hack  * Nano lawsuit  * Delay in mobile wallet / friendly desktop wallet  * Delay in ledger support (universal block needed)  * exchange wallet freeze regularyI think it's the end of the price drop, public opinion is relativly bad now and the reddit doesn't have a lot of new subscribers since some time, some news will come this week and unlock other things, public opinion should follow.
+3	1523285699	-4	Nobody is going to use nano especially once lightning is widely used.  Nobody cares if their transaction is 1 penny or less vs free when the security and volatility are worlds apart.  I know this is tough for those hoping to get rich from nano but thats reality.
+4	1523296729	2	"You have been banned from r/nanocurrency"
+4	1523288095	3	Um, there is a big difference between a penny and free, the free is better tech and the 3rd world will want it.  India has more phone users that any nation and a penny, over and over, is a big deal.  Keep dreaming that people would rather pay than not, just because.
+4	1523287334	-1	LN is offchain like my bank account so why i should use LN if my bank account work well (if we speak as payment), each time i want an immutable proof i need to go back onchain (with LN bitcoin) now you should be able to quickly understand the value of nano, also with his feeless system this allow micro transactions.
+4	1523288654	-1	there could definitely be a niche market for NANO. We will most likely have several different types of solutions and cryptos used, not just one who captures all.
+3	1523285435	-2	News will come this week, which will affect the price in a positive way? How do you know that?
+1	1523288671	0	Maybe but I'd still wait out the class action before investing. Unless LN and IOTA have made Nano obsolete by then.
+0	1523249429	23	such an amazing price right now. anyone in their right mind should be buying nano. $37 to $5. Buy now or cry later
+1	1523258897	6	Bought at 7 dollars. No choice but to HoDL
+2	1523264338	14	Same here. But I also bought at 6.50. And 8And 10And 15A bit at 18Some at 22
+3	1523278747	5	lol. You bought the dips I see. 
+3	1523295444	0	Bought the majority of my NANO at $9.25 ... then matched it a few weeks later at $6.50If it dips below $4 I’ll probably match it once more 
+2	1523282868	1	same here all in at $7
+1	1523295959	1	I'll pick some more up when it's under $3. If you think BTC is done dumping than good luck.
+1	1523276070	-4	it will go down more if it hard forks. i would wait until lawsuit is settled until getting back in.
+2	1523284025	4	Hardforks? There will not be a hardfork since that's not possible.
+2	1523284029	3	It's not going to hard fork.
+3	1523286200	1	Care to explain for a noob?
+0	1523259012	10	Did it mention it is fast?
+1	1523265697	6	Yeah, that demo shows it all.
+0	1523274880	2	Hope they give an official response to the law suit soon. And hope they have their lawyers to handle this and not hold back the project
+1	1523287777	1	Yeah, transparency is a must-have in situations like this.
+0	1523281037	1	Hey, I'm assuming you're the author here. I think you got a good rundown on it, but I'd also like to hear what *you* think about it. Do you like it? Not like it? Otherwise pretty good article :)
+1	1523287718	2	If I would summarize, I like it more than I don't like it. What I really like is they use DAG instead of blockchain — not saying that this is better, but I like novel ideas like this in crypto.
+0	1523281645	0	Nano - It's fast.
+0	1523288424	-1	A lot of comments are clearly shilling, listen, its fast, its feeless, its green, let the users decide.  Go download the Canoe app and try it out. I'll send some Nano to play with if you post your address here.
+1	1523288986	-1	nothing wrong though, so chill
+1	1523290052	-1	xrb_1bzoraaoaszyq8mondhphagoicai738bczm9htyh4y4hqmsk1ri46o5en6u3 :D thanks mate!
+0	1523268282	-6	shot and simple nano lawsuit : https://cryptoslate.com/nano-lawsuit/
+1	1523269173	14	Short and simple way for a bitgrail victim to lose more money. Throw mud at everything and see what sticks.
+2	1523286149	2	People who lost all their nano are desperate and its a lot easier to go after the nano team since they are in the US.I feel bad for those who lost money, but the ones who want this lawsuit against the devs are just assholes. Another comment mentioned somewhere you wouldn't sue GM because your car got stolen - it doesn't make sense. All this lawsuit against the nano devs does is hurt nano (build more FUD) for a basically 0% chance of getting anything out of it, but to the people who lost everything they might as well try at the cost of tanking the nano price while they try which is the part that makes them assholes (IMO).Regardless I think nano will come out of it all alive either way, but it will just take longer for it to reach its potential.
+0	1523269895	-1	https://www.docdroid.net/SDl2THZ/2018-4-6-de-1-class-action-complaint-1.pdf
+0	1523273555	-11	the problem with nano are the spam attacks and lack of privacy wallets. also, devs not anonymous.
+1	1523274638	17	Didn't know anonymous devs was considered a "feature" that bitconnect had..... 
+2	1523275676	0	bitconnect was a companycurrencies themselves should be decentralised as they get. If government decide a crypto is used for ilicit trade and laundering, they could decide to prosecute developers.
+3	1523286491	-1	That seems doubtful; prosecuting developers has no effect on the network.Even if that happened, the source is open. Development can absolutely continue.
+1	1523281100	-1	That's... Not a bad thing. If anything it should make it look more legitimate
+2	1523281500	3	The problem is the possibility of a government deciding to imprison them just because they want to.
+3	1523281845	-1	In the US? Even in a worst-case scenario where the US goes ham on crypto, there's still Canada
+4	1523282153	2	https://en.wikipedia.org/wiki/Ross_Ulbricht
+5	1523287051	0	Yes, trafficking drugs is completely equal to making a cryptocurrency
+5	1523285720	-1	> just because they want to.> he was trafficking narcotics
+6	1523285937	2	Easy to make up an accusation, not saying Ulbricht wasn't trafficking. But do you honestly trust in the US legal system? If a cryptocurrency is regarded as a risk for "national security" or interests, anything could be made up to kill it.
+0	1523291886	-1	 The faucet is program that automatically sends small amount of coins to the address specified by user. Anyone could enter their wallet address and get some of the coins. 
+0	1523287484	-5	Nano is a jackpot coin. I HODL it since its raiblock days. More recently, I'm also excited about TAU. Check it out

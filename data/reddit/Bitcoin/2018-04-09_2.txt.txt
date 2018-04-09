@@ -1,0 +1,177 @@
+File created at: 1523298207
+Subreddit: Bitcoin
+Submission title: Someone just tipped me 0.00000000001 BTC using LN. This is insane
+Submission created utc: 1523270688
+Submission score: 681
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523273550	242	Insanely cheap. What an asshole!
+1	1523273712	29	Hahaha
+0	1523272011	194	If you receive a million of those, you'll have a penny! The future is now!!!!
+1	1523282595	81	Actually, 7 pennies!At $7000/BTC, 1 satoshi is worth $0.00007, so 1 msat is worth $0.00000007. A million of those is $0.07.Trivia: 1 satoshi equals $0.01 at $1,000,000/BTC.
+2	1523289307	1	thanks bitcoin value bot.
+3	1523291662	1	I wish I was quick enough to make witty response like this 
+4	1523292616	1	Looks like they had an hour. I'm sure you could have come up with something like that in an hour.
+4	1523291930	1	So you are saying that you are not like "lightning"? 
+5	1523297723	1	I see what you did there 
+3	1523296014	1	G0.0000000000000000d bot
+2	1523289464	1	So even if Bitcoin was $1m you still got stiffed on OPs tip. 
+3	1523295594	1	> you still got stiffed on OPs tip
+1	1523281225	9	This time next year Rodders we'll be pennyaires!
+2	1523285142	1	/r/UnexpectedDelBoy
+1	1523295333	1	Hey, in like a year this tip will be worth a few bucks.
+1	1523286841	1	Actually 0.01£ is 203 satoshis..
+0	1523273592	22	What happends to funds if you close the channel with sub satoshi balance? yet > 0. I suppose it's rounded so your channel partner gets it?
+1	1523276558	23	When the channel closes and the lightning value is written to the blockchain I believe it rounds down.https://github.com/lightningnetwork/lnd/blob/master/lnwire/msat.go#L13-L18It also means you can in theory lose up to 0.999 satoshi when the channel closes.
+2	1523279408	3	Good find.I read that like the values are always rounded down like you say, but is that for the person that closes the channel that stands to lose then, and the partner only stands to gain (1 satoshi). Would be reasonable. Or does it go into fee? It has to go somewhere atleast :)paging /u/roasbeef :p
+3	1523286279	1	It could be for both and so the extra satoshi could go as a miner fee, but not sure.
+3	1523291655	1	It's rounded down for now, but it's not a stretch to have some way to have the daemons trustlessly decide who gets the whole satoshi. You could also chop off the remainder before close and send it back to yourself through another channel, but the min fee on lightning is generally 1 satoshi base fee so it wouldn't be worth it
+2	1523293408	1	> It also means you can in theory lose up to 0.999 satoshi when the channel closes.For some context, we need bitcoin to be $1M per btc in order for 1 satoshi to be worth 1 cent.So even if bitcoin was worth 1 million dollars today, and there was a perfect storm scenario where rounding made you loose the maximum amount of 0.999 satoshi, you would have only had lost .999 of 1 cent.At the current price of $6736 that satoshi is worth $0.00006736 (that is 6/1000th of a penny, meaning this would need to happen 166 times in order for you to lose 1 cent )Does anyone really see this as a issue?
+2	1523288996	1	Don't close. If you must close, keep a channel open for fractions 
+1	1523273859	2	I would like to know the **precise** answer to that also (especially for 0.5 <-> 0.5 satoshi). It's you or your partner or the miner.
+2	1523293003	1	I would imagine in depends on who originally locked up the funds to open the channel. It would be impossible to begin with such a state so I would imagine that you would simply create a rule (or deduce from the LN spec) that says that the person who started off with more funds gets any fractional satoshi left over.
+3	1523293719	1	Sounds reasonable.
+1	1523274591	2	I think its a chance. If you have A 0.7 sat and B 0.3 sat, each has 70% or 30% chance of getting 1.
+2	1523283034	6	This is one proposal, but not a standard yet. Right now amounts are rounded down to the nearest satoshi.
+3	1523293592	1	So 300.4 <-> 200.6 (channel originally funded with 501 satoshi) becomes 300 and 200 satoshi for the users and 1 satoshi gets part of the transaction fee?
+4	1523295404	1	Yes, according to the [BOLT specification for closing transactions](https://github.com/lightningnetwork/lightning-rfc/blob/master/03-transactions.md#requirements-1).>Each node offering a signature:>* **MUST round each output down to whole satoshis.**>* MUST subtract the fee given by fee_satoshis from the output to the funder.>* MUST remove any output below its own dust_limit_satoshis.>* MAY eliminate its own output.
+5	1523295729	1	Nice!
+2	1523279276	2	Is it your guess or have you read that somewhere? Remember where?
+3	1523292543	1	Probabilistic amounts are a proposal and not implemented yet.
+0	1523282051	13	We should start a chain, each passes on the same amount to the next person and show LN in action. 
+1	1523291951	1	This is brilliant. 
+2	1523294409	1	Give me your address...?
+0	1523276670	21	[Github MilliSatoshi](https://github.com/lightningnetwork/lnd/blob/master/lnwire/msat.go#L13-L18)>// MilliSatoshi are the native unit of the Lightning Network. A milli-satoshi is simply 1/1000th of a satoshi. There are 1000 milli-satoshis in a single satoshi. Within the network, all HTLC payments are denominated in milli-satoshis. As milli-satoshis aren't deliverable on the native blockchain, before settling to broadcasting, the values are rounded down to the nearest satoshi.
+1	1523280076	4	Will Bitcoin need to hardfork to accept milisats?
+2	1523280771	8	To support millisatoshis on-chain, yes. Right now, LN rounds. I believe it rounds down.I don't believe such a thing is planned.
+3	1523289331	1	We could create a sidechain that allowed smaller units so that you could settle 'on-chain'.
+4	1523290959	1	LN is already technologically similar to a sidechain. Except less fragile and more scalable
+2	1523280790	3	This post answers your questions fairly wellhttps://bitcoin.stackexchange.com/a/32077
+2	1523280269	1	no, mst is an off chain uniton chain settlements will have to roud up to satoshis
+2	1523295567	1	They could just change the program by consensus.
+0	1523272212	11	Fee? 
+1	1523272497	10	In LN are fees 0 sats. You pay only once for opening channel, if I get it correct. 
+2	1523274883	13	Each node can set their own fee, usually it is 1 sat per tx meaning you have to pay 1 sat per "hop", depending on how many hops away the recieveing node is, the more you should theoretically have to pay. but right now most do it for free.
+2	1523274245	2	Can you explain how this would work for miners when blocks stop giving Bitcoin? I thought miner's incentive once btc stops coming from block rewards, would be transaction fees. If transactions are so low, where's the incentive to mine?
+3	1523274727	8	Trillions of transactions being made on LN will make BTC grow. Millions of channels opened and closed will pay tx fees and make miners happy. 
+4	1523274874	2	Do you in fact pay to open a channel? Or do you just pay a transaction fee to fund a LN wallet, then open channels free and make LN payments free or almost free?
+5	1523275319	5	There is indeed a blockchain fee to open and fund a channel.
+5	1523275700	5	Funding a LN wallet is the same as opening a channel, i believe. You fund by opening a channel (making a tx with a fee). You can then use this channel to receive and make LN payments, provided that the channel opened has routing options to wherever you want to spend or receive coins.
+6	1523280304	1	Some confusion comes from the recent release of a android app I believe.Since you generate a new seed when you open it if you never used that particular wallet before, most people make a transaction first to the "ln network" but just a normal onchain transaction, then they make another to open the channel.This ofc wont be the case if you already have a wallet that gets integrated with LN (or import an adress)
+5	1523289420	1	An LN channel is just a (special) bitcoin address. In order to put money in, you need to send it to that address on-chain just like normal.
+5	1523276304	1	yes
+3	1523274663	0	Until 2140 we got plenty of time lol. You still pay for opening channels though and you can send a normal transaction with normal fee as well. And if Bitcoin adoption & price will increase over time there’ll be a enough fees to cover mining costs. 
+2	1523273114	1	Yes. You spend a cent or two to fund your LN wallet (eg Eclair) then you can send as many LN transactions as you like, often free.
+0	1523271026	28	What’s that worth in US dollars? A sharp stick in the ass I believe. 
+1	1523271442	29	Brain burns ^more calories while reading this ^and that's expensive than 0.00000000001BTC.
+2	1523283619	19	> moreHere, you dropped this.
+3	1523289746	1	He ran out of calories
+4	1523290561	1	Call an ambulance, i think he's having a stroke!
+5	1523294353	1	They're not using lightning network, the fees are too high!
+3	1523288006	1	 energy diet
+2	1523291024	1	Your brain burned more calories reading this than 0.00000000001BTC.*It doesn't make sense even with correct grammar...
+2	1523283837	1	Calories are more expensive than this amount of bitcoin? Think you failed pretty hard on your analogy attempt. 
+3	1523284852	1	It was a comparison not an analogy.Also, if you do the math...Let's assume 2000 kcal daily calorie expenditure. It's tough to give 2000 kcal a price, but let's use bananas for scale. [Bananas also have close to 1kcal/1g](https://www.google.com/search?q=1g+banana+calories), so it's easy math. [1kg of bananas is roughly $1.50 in the US](https://www.numbeo.com/cost-of-living/prices_by_country.jsp?itemId=118). So 2000 kcal costs $3. Assuming someone spends 2 minutes reading the comments here, they'd use (2/(60*24)) = 0.139% of their daily calories, which is roughly $0.004  worth of bananas. 1 SAT is $0.000067, but OP got 1/1000th of it, so they got $0.000000067, which is ~60000 times less than the cost of bananas needed to cover the calorie loss.So not only was this NOT an analogy, it was a very correct remark.
+4	1523290725	1	So to be clear You stole 0.004$ from me?
+5	1523292117	1	Yep, and you wouldn't even notice! I'm a sneaky little bastard
+4	1523286001	1	Such math leaves one open to a slippery slope.(Whoever downvoted that obviously didn't get the banana joke, ffs)
+4	1523288581	1	The statement would probably still be true even using the cheapest sources of calories like beans and rice, too.
+5	1523291434	1	What about an apple from a tree in the wild?
+6	1523292468	1	Well of course then you have to account for the energy expenditure to obtain the apple
+4	1523294192	1	r/theydidthemath
+4	1523287010	1	2000 kcal? Do you have any idea how many calories that is? Do you even grasp the size of that number? 2000kcal (the "K" is a prefix, bet you didn't know that) is 2.000.000 calories, DAILY, you gon' die from that.
+5	1523287276	1	A food calorie is 1000 calories, or a kcal, which is what the rest of the world calls a food calorie. Look at a nutrition label not from America.
+5	1523288227	1	[1 kcal = 1 Cal = 1000 cal](https://en.m.wikipedia.org/wiki/Calorie)Do some basic research before you post something that idiotic next time.
+5	1523288431	1	The "only 100 calories" label actually means 100 kcals because nobody wants to consume 100,000 calories in a light snack. One calorie is the energy necessary to raise the temperature of 1 cubic centimeter of water by 1 degree Celsius. That's not a lot of energy, which is why a meal that contains 1,000 "calories" actually does contain 1,000,000 but nobody wants to hear that or put it on their products. 
+5	1523290093	1	calorie vs Calorie
+3	1523284187	1	What? Buying enough food to feed your brain enough calories to do the reading and thinking for this post  and your body's resting consumption does in fact cost more than the amount sent.
+1	1523274312	5	0.07u$
+2	1523277322	19	0.06796µ$(Hold ALT and type 230 on your keypad for µ)
+3	1523278852	11	Username checks out
+4	1523280310	6	It's on my cheatsheet of symbols I use all the time.ALT-227  πALT-241  ±ALT-242  ≥ALT-243  ≤ALT-247  ≈ALT-248  °ALT-0216  ØALT-230  µ
+5	1523284359	1	ALT-227 is Ò? Actually those read as  Ò  ±  ‗  ¾  ¸  °  Ø  µ
+6	1523285724	1	Weird, different keyboard settings?  Capital O grave is ALT 0210 Ò."Double Low Line ‗" is... I can't even find the Alt Code for it.3/4 is ALT-0190 ¾Cedilla is ALT-0184 ¸
+7	1523285828	1	I'm Canadian but my keyboard ought to be set to US english (stupid É where my " is supposed to be).
+7	1523286120	1	On mobile so can't do it, but I have alt 0230 memorized as it's the e with a Tilda over it for Pokemon.Nothing is more important.
+8	1523288131	1	ALT-0230 as æ.  Lower case e acute is ALT-0233 é.  (Not a tilde.  Tilde is the wavy mark like ~.  Like ALT-164 ñ.)
+9	1523288262	1	You are right. I needed a 9 key numeric pad and I was going off visual memory. It is indeed 233!Yes, I call that little tick a tilde regardless of whether it is or not because thats the first time I learned what the little squiggle over the letter meant. Americans dont use such things so they are all foreign to me :PIm on Désktop now so I can type as I please.
+5	1523292798	1	Ƀ <- guess this is missing in your list.
+3	1523278886	2	µ Woah
+4	1523286873	1	₿
+3	1523280055	1	ALT and type 0160 on your keypad for a non-breaking space when text is mandatoryEDIT: added a 0
+4	1523280396	2	ALT-160 is "á".  You mean ALT-0160 which is " ".
+5	1523280536	1	you're right Oracle :)
+3	1523284274	1	µ$D? 
+1	1523283418	1	[Not much](http://www.wolframalpha.com/input/?i=(1*10%5E-(8%2B3\)\)BTC+to+USD).
+0	1523291184	1	i mean that's great but it probably wasn't worth the electricity cost.I refer to the local processing power to open your wallet and displaying the balance on screen.
+1	1523292955	1	Most Reddit comments aren't worth the electricity costs either.   We do it cuz we can.
+2	1523297043	1	So do we use reddit comments as tips now?
+1	1523291345	1	Haha showing it on their screen is probably my about 1/10th of a cent for a minute, so you're probably right after factoring in the Reddit post. 
+0	1523281527	7	But babies????
+1	1523285732	1	terrorists??russsians??
+0	1523277872	5	Hmm... lightning network can split bitcoin smaller than even bitcoin can?I'm actually not understanding how this could work.  Suppose that this same guy tips him like this a million times.  Then certainly, he will have a sum of bitcoin which is large enough to be settled on the actual blockchain, and that's all fine.But what if he received tips this small from millions of people, and then he wanted to settle the payment channel?  Of course he has enough bitcoin from his lightning channel to settle the payment, but the sender's addresses would be much too small for those deductions to register on the actual blockchain.... so where would his gained bitcoin come from?
+1	1523279986	8	he recieves them from his channels, so if he recieves donations from millions of people, but himself has 1 channel open, then millions of millisatoshis are delivered through this only channel and he can settle it. (His channel partner also recieved millions of millisatoshis through his channels and at the same time he bounced his own away)If it looks like this: Alice->Bob->Cedric and alice pays cedric. Then in reality Alice pays bob, and bob pays cedric the same amount. Alices bitcoins will never end up with cedric
+1	1523287395	1	I think from reading the other comments the mSat get rounded to the nearest satoshi in settlement
+2	1523288458	1	So i get that conceptually, but I am confused at this. > 1 million separate wallets tip someone 0.00000000001 btc. > The channel closes. > The price paid out gets rounded down. > None of the people who supplied 0.00000000001 have sent enough to see a change of balance, but the sum of all their payments are enough to change a balance on chain. So i guess does this require the payers to have sent at least 1 satoshi on that LN for anyone to receive their funds?
+3	1523290087	1	The million separate wallets each have their balance rounded down when they close their channels, so they end up paying a whole satoshi if they close their channel after paying just a fraction of a satoshi.
+4	1523294522	1	So each wallet has its own channel. And different channels can communicate? 
+3	1523294448	1	It could, I'm not really sure. It probably depends on the channel amount they opened
+0	1523281867	4	What is LN?
+1	1523283270	5	Lightning Network
+2	1523290738	1	I heard in a recent interview that Lightning Network doesn't exist. And that it kills babies.
+3	1523291585	1	If it didn't exist, it could hardly kill all those babies!
+0	1523289054	1	In payment channels biggest culprit is capacity. It's not hard to send a million of 1/1000 satoshi payments, but there's nothing to be proud of as in the end of the day you sent 0.10 cents. LN needs to solve liquidity in order to route payments $10+. The bigger the payment you want to send the worse liquidity issue.
+1	1523291682	1	LN fixed this.Because LN channels can be re-balanced in a triangle from and to the same person, and because rebalancing is off chain, if I want to send 1 Bitcoin through you who only has 0.2 Bitcoin, I can still do it even without the liquidity. It just cost 20 hops (because I send through you, they rebalance, I continue sending, you rebalance) so that isn't an issue. Also, instead of 1 second, it would take closer to 6 seconds. And because it's atomic, if it gets interrupted part way it fails. It wither succeeds or fails, no partial completions. Atomic splits also lets you use the balance of 2 sepaprate channels together taking separate routes to make a payment which detects as one payment t, not two, and therefore is impossible for one to fail and one to succeed, preventing partial payments.Brilliant, no?
+2	1523294391	1	What you're talking about is streaming in chunks? Streaming is conditional - if the receiving party frees up capacity again by sending or circular rebalancing you mentioned (btw https://liquidity.network/ for some reason calls such obvious approach "REVIVE").If there's no circular route to you, then it can't work. Did you run a simulation to see how often it's possible? I think it's worth doing asap.
+0	1523288451	1	It's like 2010 again.
+0	1523289553	1	Hodl till 100k.
+0	1523289826	1	don't go and spend it all in cocaine and prostitutes!!!
+0	1523294058	1	No wonder Wu created btrash. Needs those fees.
+0	1523273351	6	Now I know (from the invoice) you're LN node ROMANIA :-)
+0	1523294322	1	Putting those Bcash cry babies to shame. Hell yeah!
+0	1523285472	1	Why is this so insane ? 
+0	1523282497	2	LOL THAT REALLY IS INSANE! no miner's fees and u were able to receive the whole tip. 
+0	1523287297	1	There is a unit smaller than Satoshi ? Never knew.
+1	1523291330	1	It's not Bitcoin native, FYI.
+1	1523291793	1	There isn't, but LN uses floating point btc numbers. You can send pieces of a Satoshi. $1 divided by 3 is 33.3333333c, but when you complete it, it will be 0.33c
+0	1523288960	1	Wait, LN splits btc into micro satoshis ?
+1	1523291738	1	Yes, but it rounds it up when you send to a chain address.0.7 Satoshi is 1 Satoshi. 0.0001 Satoshi is 0 Satoshi. But if everyone uses LN, it doesn't matter. 
+2	1523292604	1	so, i could simply send 10,000 0.7 satoshis and then have 10,000 satoshis?ezy gain of +3000 sats.whos paying for it? does it cover the fee? :D
+0	1523291631	1	So when do we get the Tipbot back?
+0	1523275459	4	Pointless.  When the channel is closed the lightning balance is truncated from millisatoshi to satoshi so this tiny amount  would be lost.
+1	1523276951	11	It´s not pointless of thousands of those payments are made. A one-off payment is pointless but I´m pretty sure whoever sent it doesn´t mind losing the $0.00000007 or whatever to demonstrate a cool use case 
+1	1523276826	10	Until you keep the channel open you can send that millisatoshi to someone else :)
+1	1523280125	3	Lets say someone has a website and instead of adds he ask to be paid 1 millisatoshi. I'd be fine with that. He could have millions of sideviews every week and it would be all good.
+0	1523279582	2	Layer 2 protocols will accelerate the next phase of Bitcoin adoption. Just like the Rooststock RSK MainNet launch
+0	1523281612	1	You have been kerpranked
+0	1523289486	1	Good, we need more tipping but common 0.00000000001 is nothing.
+0	1523290180	1	Great! You solved a problem that never existed. /s
+0	1523297584	1	How many 0.00000000001 BTC tips do you need to get before it covers the cost of opening the channel?
+0	1523282884	1	lol, don't spend it all in one place....oh wait, you have to :-D
+1	1523291933	1	Exactly, you have to spend a penny in one place too. 
+0	1523281352	1	How do you get tipped on LN? Do you have to give an invoice? I think you do. :)
+1	1523281970	4	yes, i'm running a lightning node, i have a few channels opened with other nodes and i created a little shop for charity porpouse ( only LN payments ). on this website i integrated nanotip ( https://github.com/ElementsProject/nanotip )
+0	1523290383	1	Babies are dieing because of you! ...at least someone told me that.
+0	1523295091	1	I wonder what the BCash bois will have to say about that?!
+0	1523270960	1	couple too many zeros there
+1	1523271068	9	nop, it's correct.  1 millisatoshi = 0.00000000001 BTC
+2	1523273010	2	hmm, how many decimals can it go on LN?
+3	1523273281	6	this many
+4	1523274454	1	Now 0.07 micro dollars
+4	1523277648	-1	none manyer?
+3	1523276261	1	yes
+0	1523283059	0	checkmate, bcash
+0	1523286066	1	But only bcash can tip people a dime guys due to the FEEEEEES! This has to be a scam!!! /s
+1	1523291908	1	They will find every excuse tonsay BTC sucks even though we fixed our fees and fixed our problems. We now have a fast, 2 layer, modernized miceopayment system, able to compete with Visa. They are nostalgic. This is like refusing to hop on a modern airliner because the wright brothers vision was a wing-warping, fabric and wood 2 person plane that can fly about 1 hour.
+0	1523278336	-1	Totally not scalable if every person using BTC has to open a channel
+1	1523286606	1	Capacity is around [300,000 transactions a day](https://blockchain.info/charts) (not all currently used) and growing with segwit etc to ~500,000? Space for 200,000 more transactions than are currently going through: **enough for 6 million people a month to open or top up a LN channel**.Ballpark, but suggests significant LN adoption is possible before block space becomes a constraint.EDIT: LN users could buy BTC from an exchange who send it from their LN node to the user's. No on-chain. Some users will send *and* receive on LN, reducing the need for on-chain top up.
+1	1523285369	1	Don't think about opening a channel. You just transfer BTC from your "savings account" to your "everyday wallet" and therefore connect to the LN. Totally scalable and extremely easy when good wallets follow in the near future. Edit:You won't have to open a new channel every time you want to pay somebody in case you meant it that way. Just google "Routed Payment Channel" and you can read more about it. 
+0	1523273460	-1	Lets see bcash try that lol
+1	1523278945	6	unnecessary
+1	1523281052	2	Bitcoin Cash can implement second layers too as it has flexible transactions instead of Segwit... and with cheaper fees to open a channel. But even with BCH at $1,000,000 the second layer adds little value as practically nobody needs to send 1 cent.
+2	1523281097	4	Wake me up once they do..
+2	1523290802	1	> it has flexible transactions instead of SegwitDoes it though?
+0	1523274500	-1	What's the point in having Bitcoin going down that low if you couldn't send such a little amount?  Otherwise handing you a penny might be easier. 
+1	1523277824	8	imagine paying per second or per downloaded Mb for some service.  
+1	1523289025	1	Tipping with btc becomes real again But most usecase There are some ideas to charge Electrocars while they wait on a traffic light. It’s maybe 10 seconds so you can do the math 
+0	1523282551	0	I was never tipped :(

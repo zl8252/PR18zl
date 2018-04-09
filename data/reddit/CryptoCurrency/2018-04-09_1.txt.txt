@@ -1,0 +1,172 @@
+File created at: 1523298249
+Subreddit: CryptoCurrency
+Submission title: How and why exchanges are manipulating the price in order to capitalize on the new market dynamics
+Submission created utc: 1523282462
+Submission score: 568
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523283824	176	It's nice to see someone that actually knows what's going on comes in and puts in on paper in here for everyone to see. 
+1	1523291021	26	Trading volume on BitMEX is more than the trading volume of top 10 exchanges together \(BTC/FIAT or BTC/USDT\). [https://coinmarketcap.com/exchanges/volume/24\-hour/all/](https://coinmarketcap.com/exchanges/volume/24-hour/all/)BitMEX is not regulated / audited. The owners \(or insider\) can easily manage that manipulation.\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*WHAT CAN YOU DO?\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*STOP to trade on BitMEX or to use margin trade \(Bitfinex, Okex, etc\). The eventual quick profit with high leverage is illusion! You will lose all your money!At casino, the house always wins!
+2	1523294948	4	The problem is not margin trading, the problem is high leverage. 
+2	1523295126	2	Tell me how to make money in a bear market with 2% moves without leverage. The rewards outweighs the risk 
+3	1523297182	2	the fuck are you guys doing with margin/leverage in crypto? It's simple to make money in this bear market, easier than the bull market.
+4	1523297282	2	Trading the swings , up and down, accumulating BTC meanwhile. What's your secret trick?
+5	1523297418	0	I buy ETH when it goes down. Then I sell for USDT when it goes up. Repeat.I honestly thought we all just did something like this for the most part. 
+6	1523297473	1	yeah , but then you can not profit from the downswings without margin trading
+7	1523297526	2	I profit from the downswings from buying them and waiting a couple hours/maybe a day. To each their own though
+3	1523298029	1	[deleted]
+4	1523298080	1	but i thought we were referring to crypto markets here? OF course i trade other markets too
+1	1523289008	6	Its likely that unless we see more volume (real buying pressure come back), this incentive to continue with these manipulative ups and down will continue.
+2	1523290264	9	But for how much longer though? Eventually you would think that many of these low capital margin traders will throw in the towel after enough of them get liquidated.
+1	1523295872	3	Why would these exchanges risk it? They have too much money on the line and might get found out during an audit. Who else is making money here?
+1	1523294191	-2	He knows no nothing.
+2	1523296204	0	More than you, that’s for sure
+3	1523297425	1	For sure... :) He's just one of those bugs rekt by low prices now trying to explain his loss with conspiracy theories. When he was buying at 15+k he didn't mind that it was outright pump/manipulation.
+0	1523282939	72	Great post and analysis. I think this is exactly what is happening. Once enough people get burned they will stop risking their money on margin trading. The House always wins 
+1	1523288082	17	I have been saying for some time while looking at BTC charts that these sudden spikes and falls followed by sideways movement do not look organic. I just didn't understand why.
+2	1523288177	15	The only thing I dont understand is why Exchanges want to fuck over their customers. If they scare enough customers away its bad for them in the long run as volume will decrease and people won't want to trade as much
+3	1523289091	44	Because a lot of people in crypto have a memory of a goldfish 
+4	1523289420	13	lmao this is true. And the ones that get rekt will be the ones that come back to try and double down and recoup their losses
+5	1523292183	2	Not necessarily. They might be out of the markets for good and don't want to ever return.
+6	1523292344	3	Sucks for them
+4	1523289392	5	Love this comment. 
+5	1523291622	3	And I love your comment 
+6	1523297664	1	What were we talking about?
+4	1523292473	2	Bingo.Replace goldfish with "goldfish on meth" and its even more accurae.
+4	1523291428	1	Even then, after a bad run most people give up. This can't go on forever, even with new people coming in the market. The constant negativity has a ripple effect.
+2	1523297281	0	And yet a shit ton of retards are like "muuhhh its just failed breakouts" yeah sure retard
+1	1523288560	6	So what is the solution? 
+2	1523292227	17	Decentralized exchanges. We gotta get away from the centralized ones that fuck us over.
+2	1523291043	8	Wait it out
+3	1523295164	1	We could also watch paint dry 
+4	1523295305	1	Whatever gets you through it, you'll need to find other activities though. Paint drying wont last long
+5	1523295640	1	> you'll need to find other activities though. That's what 50x on Bitmexico with constant system overload is 
+2	1523292508	1	kill mex? kill finex?
+2	1523297333	1	When you see a pump, you open a short. When you see a dump, you open a long.
+1	1523294532	2	It is an unregulated space unlike trading on margin with options in the stock market buying calls and puts. The current cryptomarket is in a bear trend for the mean time.
+1	1523295633	1	Margin scares the fuck out of me.
+1	1523296450	1	Just don't use leverage and you can't get liquidated. Sure, you have to set your stops wider to account for the liquidation swings, but experienced traders are still making a killing right now. I don't see that stopping anytime soon.
+1	1523296517	1	Especially if the house gets to see your cards and then influence what's dealt next. 
+1	1523296753	1	the funny thing is that most noob traders feel like kings since they can "obviously short Bitcoin it's so profitable dude, easy money" until they get rekt and then delete their accounts here and head back. 
+0	1523284393	29	a few exchanges are faking their volume, wash trading..some real trades then slip the priceand then that's combining with arbitrage bots
+1	1523285572	14	2/3 of the s&p500 volume is bots, just keep that in mind.
+2	1523287970	7	Do you have a source for this?
+2	1523288210	1	what is s&p500?
+3	1523289230	7	[Standard & Poors 500](https://en.wikipedia.org/wiki/S%26P_500_Index) - top 500 companies used as a stock index
+4	1523289237	4	**S&P 500 Index**The Standard & Poor's 500, often abbreviated as the S&P 500, or just the S&P, is an American stock market index based on the market capitalizations of 500 large companies having common stock listed on the NYSE or NASDAQ. The S&P 500 index components and their weightings are determined by S&P Dow Jones Indices. It differs from other U.S. stock market indices, such as the Dow Jones Industrial Average or the Nasdaq Composite index, because of its diverse constituency and weighting methodology. It is one of the most commonly followed equity indices, and many consider it one of the best representations of the U.S. stock market, and a bellwether for the U.S. economy. The National Bureau of Economic Research has classified common stocks as a leading indicator of business cycles.***^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/CryptoCurrency/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]^Downvote ^to ^remove ^| ^v0.28
+4	1523289353	5	thank you!
+3	1523289096	15	1. Google it... 2. Please tell me you spent less than 100$ in crypto
+4	1523289931	6	In invested  10k in crypto and  have no idea  what s$p 500 is  ..................
+5	1523290680	9	> s&p500I've invested more than that in crypto and didn't know what S&P was. Never been interested in the stock market so far and I'm not American, so...
+6	1523290928	5	same here  not  american  and don't  care  about stock market                 
+7	1523291494	13	I have no idea why people say this like it's something to be proud of. Understanding stocks means one understands valuations. Something that 95% of crypto "investors" have no idea.
+8	1523293434	5	Now you understand another reason why the market is so volatile. People investing money with little knowledge of investing.
+8	1523296798	1	This is why you see people spamming HODL. They don’t understand market dynamics and how to take advantage of the swings to profit. Vechain is making me a lot of money off of this dumb CCK pump.
+9	1523297339	1	I didn't see the most recent CCK tweet, was it about Louis Vuitton's announcement an hour ago?
+8	1523293019	1	If your country isn't returning 5% on index funds then what's even the point?
+5	1523291477	1	Now I understand why there's rampant exit scams going on in crypto world.
+6	1523294548	1	Why??
+4	1523289340	5	oh sorry.  i did not think it would come up in google.
+4	1523290659	1	I laughed too hard on the second point.
+4	1523289711	-2	If you think that the average crypto "investor" is knowledgeable, you're very naive.
+3	1523289140	5	It's where companies go to be bought by government.
+3	1523293253	1	"The Standard & Poor's 500, often abbreviated as the S&P 500, or just the S&P, is an American stock market index based on the market capitalizations of 500 large companies having common stock listed on the NYSE or NASDAQ"Wiki
+1	1523292452	1	> a few exchanges are faking their volume, wash trading..For sure, I remember there was an analysis a while ago that one of the bigger Korean exchanges was >90% fake volume by bots doing wash trading.
+0	1523283954	24	Your post is very thoughtful and states some very important facts. In my opinion it's very likely this is actually happening on Bitfinex in particular.
+0	1523287948	12	I certainly had suspicions of this since there isn't much incentive for Whale to come in and manipulate in that kind of way unless the market follows suit. But then again, it could still be Whales poking at the market trying for a decline to greatly increase their bags. All in all, great post! Much Research! Good Info!
+1	1523288584	1	Why is there no incentive? the whale doesn't need the market to follow him, liquidations will follow him anyway.
+2	1523296109	1	Fair enough. I'm just throwing my speculation that total market manipulation "feels" more likely to come from exchanges to corroborate with the OP's findings. I very well could be wrong.
+0	1523289104	6	We really need to have more exchanges go into FIAT pairs, and we need to get people to stop taking these crazy 100x bets on margin. It pretty much incentivizes bad behavior, and we need as a market to drive this stuff away if its to be a healthy market.
+0	1523283777	13	No way this market is mature enough for margin trading, fucking stupidest thing ever.Also, can't we all just use fiat DEX's 
+1	1523284191	-19	That's like saying, lets all switch to Euros or Pesos. That's never going to happen.
+2	1523284452	15	It's actually nothing like that but ok
+3	1523284843	2	Lol he has no idea was DEX is
+3	1523284752	-16	Good constructive feedback, just what I expected from a Monero fan.
+4	1523285853	5	Not his job to educate you on your ignorance
+4	1523298237	1	What is this? Are we like football fans now? 
+0	1523283032	17	So there are no laws that apply to this kind of manipulation in crypto markets?Exchanges have too much power here. There are hardly enough secure or high-liquidity exchanges for people to even begin voting with their feet.
+1	1523283781	26	[deleted]
+2	1523285778	9	The SEC are actively pursuing organizers of PnDs so it's not 100% unregulated.
+3	1523290465	5	[deleted]
+4	1523291125	3	>Running a Ponzi scheme with bitcoin or pump and dump with crypto isn't illegal in and of itself and that isn't what these guys were charged with. If you think I am wrong feel free to point my towards any current cryptocurrency regulations regarding traditional marketing scams...Fraud is still fraud, just because it happens in the crypto world doesn't mean it's necessarily legal, and actions within crypto doesn't magically become legal just because there's isn't a law explicitly mentioning the crypto space. Regulation would refer to something like the uptick rule, rules against wash trading and so on, rules that specifically apply to the trading of securities - but said lack of regulation does not mean a lawless free for all, atleast within the US.
+3	1523292201	1	The SEC can only do so much. The decentralized nature of crypto makes it inherently unregulated. Why would China obide by SEC laws? 
+4	1523292742	2	They obviously wouldn't, but fraud is legal in China either. I seriously doubt they'll do anything about Bitfinex, but everyone is acting like literally any play in crypto is immune to punishment, just because the sector is largely unregulated.
+5	1523295579	1	I wouldn't say immune. But to think the SEC is just going to step in make this market regulated like the stock market is a pipe dream. This market will always have more scams/fraud/ponzi than any centralized market. It's just the reality of it. Sure, some scammers will be punished. But the majority of them won't and it will keep attracting that crowd as time goes on. Money laundering is not that difficult. Scammers can/have/will continue to scam and cash out without any repercussions.
+1	1523287037	8	Yes thats why we partly need DEXes. Exchanges don't manipulate the price themselves but have traders and market makers that they share information with. These traders act on this proprietary information and use large liquidations to fill their positions, both short and long. This doesn't mean that every upmove and downmove is manipulation designed to #rekt as many as possible, but it does mean that price movement will generally shoot towards the direction where the majority of margin traders will get stopped out and liquidated. DEXes will result in the fact that this information will no longer be available to the exchanges and manipulation based on propietary information will become much harder.My suggestion is to put your bids and asks where you would normally put your stop and layer your entries, exits and stops at multiple price levels.
+1	1523285014	5	You are in the wild west Baby!
+1	1523287831	2	Decentralized exchanges are coming. 0x and Kyber are the frontrunners, IMHO
+1	1523283123	4	I'm thinking the same. The market might be unregulated but manipulation on this scale is surely illegal?
+2	1523284692	1	Which law is being broken and who will arrest them?Shits not illegal if it’s NOT REGULATED
+3	1523285465	4	Unregulated doesn't mean completely above the law. If a company operates out of the US then they still have to comply to existing laws. What I'm wondering is, if this isn't inherently illegal, much like promoting a ponzi coin is, even though the law in question isn't targeted specifically at cryptocurrencies. Committing fraud is still illegal, and if OP is correct in his assumptions, this definitely counts as fraud.
+4	1523287161	5	This is what came to mind for me. Ponzi schemes are still illegal even if they're in the crypto space. Why would massive market manipulation which is illegal elsewhere, and *especially* by those who run the exchanges, be immune?
+4	1523291780	1	When there is no specific law for what they are doing, you don’t have to be “above the law”. 
+5	1523292198	2	There doesn't need to be a specific law - fraud is illegal. Anti fraud laws doesn't need to mention every single instance of imaginable fraud, what matters is purposely misleading/misinforming people to increase your own profits. Proving it is obviously harder in crypto but it's still not legal.
+6	1523293724	1	The proof is the tough part. You can know as much as you want, but with no proof, good luck
+3	1523292420	1	Still illegal. They keep this up and you will see how they go after some of the exchanges.
+4	1523293664	1	What countries are the exchanges based exchanges in and what country has the laws you are referring to?We all know America likes to think they control the whole world and do as they please, but that’s not true. 
+5	1523294454	1	You let Americans use your exchanges, they feel like they have jurisdiction. Just a matter of time. 
+1	1523286813	0	[deleted]
+2	1523287375	2	Personally I never wanted a market without regulation. The crypto space *needs* regulation. Anyone who thought that would never happen is fooling themselves, and the more it's resisted, the harsher the oversight will be.
+0	1523288481	9	Great post, agree with nearly everything. Bitmex and liquidations are what moves the market these days. However, you have no evidence that it is the exchanges doing this. This can also be easily done by a group of whales. But at the end it doesn't really matter who is doing it anyway.
+0	1523284080	9	very good post! thank you
+0	1523290760	3	I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:- [/r/neo] [This is why we need a good DEX. Go NEX! x-post from r\/cryptocurrency](https://www.reddit.com/r/NEO/comments/8b0i66/this_is_why_we_need_a_good_dex_go_nex_xpost_from/)- [/r/oyster] [Not whales or team, but exchanges may be biggest manipulators of price in low volume market](https://www.reddit.com/r/Oyster/comments/8azo81/not_whales_or_team_but_exchanges_may_be_biggest/)&nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
+1	1523291028	0	If any brigades are found in the TotesMessenger x-post list above, report it to [the modmail](https://www.reddit.com/message/compose?to=%2Fr%2FCryptoCurrency).  Also please use our [vote tracking tool](https://www.reddit.com/r/CryptoCurrency/wiki/resources) to analyze the vote behavior on this post. If you find suspicious vote numbers in a short period of time, report it to [the modmail](https://www.reddit.com/message/compose?to=%2Fr%2FCryptoCurrency). Thank you in advance for your help.*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1523291793	4	Don't do margins, period. You try to get rich quick will only make you loose it all very fast.
+1	1523296689	1	This is all that needs to be said. Stop gambling, folks 
+0	1523285954	9	I share you views that the volume patterns we are seeing of late are very strange, but I don't see any evidence that this is being caused by exchanges.  It could be anyone.
+1	1523289992	3	I don't know the answer, but I think his point is that noone but exchanges has anything to gain from it?
+2	1523290348	-1	Well, it could also just be big traders that are not the exchanges that can gain from it.  The fact that levered long positions on Bitfinex cut during that big bar down does not prove that it was the exchanges that initiated the order, all it shows that these margin traders responded to the price action.  There really is no way to prove who initiated those orders I don't think.  It could be them, it could be someone else.
+0	1523289074	3	Do you think this will essentially keep us in a buyer's market (bear market) until regulations?  That's not neccessarily a bad thing.  Alhough I, like most others, enjoyed the hell out of those massive bull runs, prices had become scary high and we all knew this drop was inevitable.  I appreciate the opportunity to come back in at a price that will show some profits again.  I think, aside of the exchange manipulation, the big money has some of their top pros working their black magic on things too, to keep prices down while they accumulate. Once the regulators come in and kill our once beloved volitilty, I would imagine we will see one last massive bull run before the market bottoms once more and then mellows out and heads towards a more even paced, organic, long-term bull.
+1	1523292755	3	so you think the TOP PROS are trying their hardest to bring the price down so they can Hoard more coins.  Do you think it was possible that  the BULL RUN was also cause by greedy exchanges, Whales etc to  gain massive amount of fiat?     Probably not eh?   Only the BEAR run is being manipulated but never the BULL RUN....... China Hustled!
+2	1523294183	3	...Yes...yes...umm, finishing coffee to be able to interpret your comment/question/assumption/condescension/....i'm sorry, but i'm now fairly confused as to the intent of your tirade, but I think I've got the gist of it.  I'm not  entirely sure your reading comprehension is much better than mine at present, but, anyways, um, yeah, I guess.
+2	1523297932	1	I believe you. I think the pump was more about manipulation and the dump was more organic.
+1	1523297886	1	I notice a lot of people blame the bear market on insidious forces. Far less people put the bull market on insidious forces. It's like people believe A 1000% price increase is organic, but a 70% correction is manipulation. I don't buy it.
+0	1523290480	3	I always wondered if exchanges would be able to do shit like this, damn. Is there anything btc users can do? 
+1	1523292300	3	If people aren't selling and ignore obvious whale moves, they can't trigger panic sales or people selling in the hopes of buying lower. So if you don't want the price to drop further, bulls have to decide what price they don't want to go beyond, and change the market sentiment. So the answer is surprisingly ... #HODL
+0	1523286543	6	My question is why did regulators allow this shorting and longing process to exist and be legalized in the first place? What benefit does any country gain? It definitely doesn't produce anything of value and doesn't create growth of any kind that I can see. 
+1	1523289995	5	Because regulators secretly want to kill Bitcoin to protect Wall Street. So they allowed shorting because it puts additional downward pressure on Bitcoin while simultaneously allowing them to profit off it. ^^^^/s
+2	1523290344	1	And in general in other more traditional markets? 
+1	1523292033	5	Shorting can be beneficial to market liquidity and price discovery.  As an example, Muddy Waters will short companies and then release investigative reports on accounting irregularities and potential fraud at those companies.  It's useful to have more skeptical investors participating in markets, otherwise unbridled optimism can dominate and encourage mania-like behavior.Also, shorting is important for hedging and managing risk.  Paired trades (long a stock, short the index) can assist a manager in exposing themselves to a specific risk while hedging out the general market risk.
+0	1523288503	6	What happens once enough people catch on and stop margin trading?
+1	1523295941	1	The same thing that happens when people realize why casinos are extremely profitable. 
+0	1523287099	2	[removed]
+0	1523292087	2	the CHINA HUSTLE.
+0	1523292258	2	great article, thanks.
+0	1523293852	2	I think you need to replace word exchange with whales. Can exchange be whales? Sure, I don't think there's rule out there saying they can't trade themselves. However thinking exchanges are the only ones doing this is wrong. Any whale outhere with sufficient resources and technology can do this. It's part of how the market works. The downside is that we get all these artificial pumps and dumps. The upside is that we get liquidity we need. 
+0	1523295947	2	Bitfinex pumping and dumping btc with scam tether.
+0	1523296058	2	Awesome post and something that I have been curious to understand more.Sometimes reddit it is truly excellent. Thanks for sharing.
+0	1523296913	2	Anyone know what sort of derivatives are being traded, apart from futures? Are there standard derivatives or are they all OTC? Who's issuing these derivatives?
+0	1523297126	2	Welcome to trading, where everyone is out to fuck you. 
+0	1523289889	2	What is a good way to monitor the amount of open shorts and leveraged longs?
+1	1523290233	2	https://datamish.com/dashboard/db/btcusd
+2	1523290875	2	Maybe it would be interesting to make a long term chart which correlates the amount of longs/shorts to price movements to see how often the market is getting manipulated in this way?
+0	1523290749	3	Where is your evidence it is exchanges doing it and not just smart whales wrecking people?  This reads like a long diatribe written by a gambler to explain how the house is cheating him when his sure-fire strategy failed otherwise.  You do leveraged trading this is the gamble you take.  The market hates inefficiencies, and natural checks and balances from other traders occur when people all crowd into doing the same thing too much.  The past few months it was Bitmex shorts and longs with leverage, if anything I’m surprised it lasted as long as it did.
+0	1523285382	3	So basically:* HODL meme during a bubble* Tether FUD during a bubblebut* Market manipulation during margin trading memegood to know but also ffs \>_\>
+0	1523287524	2	[removed]
+1	1523288486	3	>If you cannot fulfill your maintenance requirement, you will be liquidated and your maintenance margin will be lost. If BitMEX is able to liquidate the position at better than the bankruptcy price, the additional funds will be added to the Insurance Fund.https://www.bitmex.com/app/liquidationIts a "zero sum game" in the sense that each short must have a corresponding long and they both cover their position before liqduiation. Its not a zero sum game between two players when a liquidation happens.Bitmex gets the market fee on the nominal value of liquidations. A 10x position means that 10x the market fee is theirs.
+1	1523288811	3	[deleted]
+1	1523287610	4	Forced liquidation = forced market fee
+2	1523288610	0	thats not what he (OP) said. He said that the exchange gets the full stack when you get liquidated. Which is nonsense.       When you go short you borrow coins, they are sold on the market. You then rebuy them if the price goes down, pay back the lender and keep the profit. Or, if you get liquidated as the price goes against you, you are forced to sell them at a higher price which results in the lender get his full amount back and you losing the principle of your loan to price differences (the amount you had on balance to borrow against). The same mechanisms work in reverse if you go long.          The exchange gets fees on the trades, and a fee on the lending rate. There is no advantage to forcing liquidations, all open trades get closed eventually anyway, and the longer they are open the more they get paid in lending fees.   His theory is rubbish.
+1	1523288748	0	Hilarious how uneducated OP is and the fact that you are the only one calling his BS on this shit post. I like how OP wrote, they have “liquidation prices” where they get to take your whole stack! Lol lol lol... the nonsense is beyond hilarious. That is not how longs and shorts work lol... my god this sub has absolutely gone to shit. Just to let everybody here know, OP has clearly demonstrated he/she has no idea what margin trading is. Nothing to see here.  
+0	1523287282	1	Even if true. Once, the market figures out the whole scheme should stop as there will be parties that can monitor the positions and side with the exchanges. If the long and short interest is not known you are brave to engage in these markets. 
+0	1523295950	1	If BTC doesn't drop soon, it will fly. They are massively shorting it right now because of how much money they are making selling and shorting it at the same time. Eventually though,  FOMO kicks in. It kicks in to the veterans first but once we are back above $12k, it will spread to the mainstream. 
+0	1523297690	1	That's /u/arsonbunny for ya. Quality post.
+0	1523297760	1	Thanks, I always knew those rapid up/downs were fabricated, not natural. But I had no knowledge what and how.
+0	1523298099	1	Yeah this has been pretty obvious since early march or so. Sideways for X amount of hours then go up or down depending on whatever liquidates the most people. There's too little liquidity in the market atm since interest is low so this is easy to do for them.
+0	1523298243	1	https://www.bitmex.com/app/feesDo I see correctly? They offer x100 leverage? Kraken offers up to 5x and I think Bitfinex does 3.3x. But 100x is pretty, pretty crazy? Do people not realize that anything can happen in Crypto, every day? Who the fuck trades Bitcoin on a 100 leverage? Please, can someone tell me, that I'm totally wrong about this? 
+0	1523285846	1	Thank you for this write up. I feel like I can finally wrap my head around some concepts that I was having difficulty with. This also shows how badly this market needs DEX's.
+1	1523288799	4	[removed]
+2	1523289719	5	Yes!!!edit: this guy ^ said "NEX is coming!". Not sure why it was removed
+0	1523295268	1	There is a lot of money to be made playing arbitrage between exchange then, the pumps all seem to happen on the exchanges at the same time, how can this be coordinated it’s strange...
+0	1523284698	-2	I am holding now and checking back in 2-2.5 yearsThis just proved that decentralized can't work.
+1	1523289606	3	Exchanges are centralized, so they are easy to manipulate by the owners.Decentralized exchanges will be harder to manipulate once the volume/market cap are much higher.
+0	1523294181	0	> they get liquidated by the exchange, essentially the exchange gets the entire stack they bet withDo you have any clue about how margin trade works?
+1	1523294524	1	Why take half the sentence out of context?The sentence continues: >and extracts a high market fee multiplied by the leverage
+2	1523295071	1	Sorry if I misunderstood. My point was that the rekt amount does NOT go to exchange, If you didn't mean it, sorry for misunderstanding.
+0	1523295660	0	I'm just going to put this right here...https://www.alphapoint.com/Github/remarketer.htmlUnderstand that many of the exchanges are merely rebroadcasting volume from other exchanges.Until each crypto is exclusively traded on a single exchange (venue) this dynamic will exist and the markets will continue to have liquidity issues and be subject to price manipulation even from small (large retail) participants.
+1	1523295825	1	and to add to that, most of the shorts are likely coming from liquidations from the large OTC desks like Cumberland as they will take down very large blocks which are immediately out of the market in their favor. Merely hitting the bid in these jokes of exchanges (binance, huobi, hitbtx, kucoin, bittrex, etc) will earn a profit for someone who just bought a block
+0	1523295864	0	Your title is "**How** ... exchanges are manipulating the price" but I don't see any explanation of **how**. I don't buy this manipulation conspiracy fantasy until someone can show real, and not just circumstantial, evidence of manipulation.You cannot look at an order book or any price or volume history and determine that there is manipulation. That is like saying that some unexplained phenomenon proves that aliens, ghosts, demons, or psychic abilities (take your pick) exist.
+0	1523288764	-4	>Both longs and shorts are bets on the price moving up or down and they have a "liquidation price" at which they get liquidated by the exchange, essentially the exchange gets the entire stack they bet with      No they don't.    **/End thread**
+1	1523290545	3	Aren't the exchanges the lenders, and if the long/short gamblers get liquidated (lose their bet) they lose their money to the exchange? If not, who does the collateral go to?
+0	1523291518	-1	Why would an exchange doing this put the order in the orderbook for everybody to see?
+0	1523293414	-2	firstly: where are you getting your information on long/short positions? secondly: what actual proof do you have that bitfinex itself is manipulating the market by participating in it?thirdly: anyone can stop-hunt... its a _well_ known tactic in every market... it would constitute a crime if and only if you had insider knowledge of where the stops / liquidation points are. forth: careful saying "exchanges are manipulating the market" and calling out specific exchanges by name - its borderline libellous. 

@@ -1,0 +1,74 @@
+File created at: 1523298254
+Subreddit: CryptoCurrency
+Submission title: Another big company entering blockchain and cryptocurrency world: Salesforce planning a "blockchain and cryptocurrency solution."
+Submission created utc: 1523225145
+Submission score: 316
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523229070	41	This is pretty huge if it does happen. Salesforce is a dominant product and I have no doubt a crypto project of theirs would be wildly successful, especially if they can integrate it with their core business offerings. They would have almost instant adoption in the fortune 500.
+1	1523233214	12	I wouldn't be surprised this becomes a trend and soon enough competitors like SAP come up with their own products.  They could all add up to in various industries as a very competitive but lucrative market that will further boost Bitcoin and crypto prices... Hopefully.
+2	1523233851	13	SAP is already working/researching on blockchain.Source : a friend of mine works there.
+2	1523247482	5	We are already prototyping blockchain solutions. ;) Working there. You can just google for “block chain sap”. It’s public. It’s no own solution. Multi chain and hyper ledger.
+2	1523250945	2	Google SAP Leonardo
+1	1523253147	2	What exactly would it do?
+1	1523261617	2	I work for a corporate company of 100k employees world wide. We use salesforce when setting up new projects. Exciting.
+1	1523250224	1	that sounds amazing.. can't wait to see it 
+1	1523297381	1	It could completely change how the world sees blockchain tech. 
+1	1523235230	1	Huge if big.
+0	1523232347	24	Nah, I'm good homie.There's going to be a huge problem with these corporations implementing blockchain into their business products and structures when people want to see the transparency and honesty that naturally stems from DLT into every facet of their organization.So many will get exposed for their shady business ethics, as a consumer and believer of DLT, why would I want to do business with an organization that won't be as transparent as the products they're building. The only way to exist is to build your whole enterprise and infuse it with the natural laws that stem from blockchain.  The future is wild folks. Nobody is ready for the mass amount of corruption and dishonesty we display on the daily. 
+1	1523233328	5	Private blockchains utilized primarily for an immutable ledger will most definitely be a thing. Don't even need a token. Companies will utilize it for their own record-keeping. No ICO. No volatile coin/token needed; just the benefit of a nice handy ledger. Nothing wrong with that.
+2	1523237832	19	That just sounds like a regular database with extra steps.  Why use block chain for that?
+3	1523261240	4	You're right. But no one here is going to admit that really all a blockchain is that its just a immutable database... Which frankly isn't all that good for most companies anyways. Its completely pointless to implement a blockchain in most companies. Also nice rick and morty reference.
+4	1523289505	1	Many companies have an intranet but that's not enough. They need the internet to connect to all kinds of other resources too.
+4	1523263510	1	Thanks for noticing!  Wubbalubbadubdub!!
+3	1523239726	4	No idea. Blockchain is the buzzword and everyone wants in.
+4	1523247184	5	By this time next year they'll have moved on to a new buzzword. 
+3	1523262158	1	Permissioned blockchains are useful for ensuring trust between select few entities. 
+4	1523263432	3	So is PKI infrastructure, and you don’t have to validate the entire transaction history or compete for computing resources just to digitally sign a record.
+5	1523287004	1	Why not enhance PKI with blockchain?https://pomcor.com/2016/10/25/implementing-a-pki-on-a-blockchain/
+3	1523239070	1	DB can be hacked 
+4	1523239113	7	So can blockchain.
+5	1523239264	-3	Bitcoin is going on 9 years strong.
+6	1523240272	4	Bitcoin is not blockchain.  No company is going to spend the amount of money required to secure against a 51% attack, and stuff like p2s is hilariously limited versus maintaining even a trivial relational database.
+7	1523241482	3	Corporate blockchains have the advantage of nkt requiring PoW and can utilize PoS to a much further extent.If youve ever worked on an enterprise data network, spread across multiple continents you should understand how data replication within the blockchain could be very helpful.
+8	1523263324	3	I have, and the overhead required to do replication is a lot lower for validating data integrity by using traditional checksums and created/modified columns than verifying all the blocks in a chain.
+9	1523274119	1	And that can be applied to blockchain.Once you no longer require trust, you can verify integrity in in any fashion you want.Blockchain has a place in replacing/Integrating with distributed database technologies like Cassandra. 
+7	1523241471	1	Guess we'll see in due time, won't we
+3	1523249521	0	look into distributed ledger technology. 
+1	1523283978	1	I’m ready for the truth.YOU CANT HANDLE THE ROOT!
+0	1523228190	21	Snifff snifffff. The Stinky Linkies are coming 
+1	1523236648	11	Well world economic forum did give chainlink money. And their parent company smartcontract is mentioned in the book by WEF director.
+1	1523264697	4	Delete this 
+1	1523275578	2	You mean chainlink ? Is it corelated ? SHILL ME !
+1	1523229963	4	Sup... I've heard some things. >.>
+2	1523232901	2	Linkholders say #MeToo
+0	1523245395	3	If it works anything like Salesforce, expect quite a bit of latency.
+0	1523244031	7	Solution for what? This is a cash grab to attract more dumb investors
+0	1523233437	14	I could spam chainlink in threads like this for a month straight and this sub would still sleep on it.
+1	1523235017	3	There are some dots that clearly connect salesforce with chainlink. Matter of time that people realise it
+0	1523233720	5	Here's the part of the interview where he talks about how someone approached him at WEF and shilled him on blockchain.[https://youtu.be/2nC0TX_GCIM?t=33m12s](https://youtu.be/2nC0TX_GCIM?t=33m12s)Please god let it be chainlink
+0	1523255181	5	Chainlink ; D
+0	1523240998	5	Chainlink 
+0	1523245840	2	What puzzles me is that what would be something that salesforce does, and is low volume enough to make a blockchain even remotely feasible solution?Blockchain is absolutely horrible solution with high transaction volumes, ans companies like salesforce will generate from millions to tens or hundreds of millions of data entries per hour. And blockchain implementations celebrate if they are able to sustain millions of transactions per day.Also this obviously will not be a feasible solution in EU due to GDPR legistlation, as people have the "right to be forgotten" which kinda collides with blockchain and the fact that you cannot remove or alter.Of course you can encrypt every customer with own key and the throw away the key. But that kinda negates the immutability of blockchain, if you have sections that you cannot decrypt anymore, and don't know what was there (as per GDPR requirement).
+1	1523263871	1	Simply throwing away the private keys of customer data will likely not suffice due to 'erasure of data' requirement. 
+2	1523267056	0	Correct. I was referring to additional encryption in addition to what happens in blockchain. So basically blockchain would be treated as a slot based storage for encrypted customer data blobs, encrypted by separate that are stored off blockchain?Convoluted? Inefficient? Stupid? Yes!But that's what you get when you try to combine privacy and blockchain.All in all there are very few actually useful applications for blockchain, electronic voting is about the only one that comes to mind.I have a feeling that too many customers have asked SalesForce for blockchain support, and they are going to implement it since customers pay for it. And then the customers are going to learn how absolutely stupid idea it is for most things.Anyone who nowdays designs a datastore without planning for to deprecate and delete data is an idiot. And then we have these brainiacs who come up with an idea where it is impossible to delete data :/
+3	1523285284	1	>All in all there are very few actually useful applications for blockchain, electronic voting is about the only one that comes to mind.Really? I agree that many people try to add blockchain to everything for little benefit, but applications like supply chain transparency, data provenance, and IP protection are extremely useful applications. >Anyone who nowdays designs a datastore without planning for to deprecate and delete data is an idiot. And then we have these brainiacs who come up with an idea where it is impossible to delete data :/I disagree, as obviously immutability is important to many organizations and users. It mainly depends on *what* kind of data should be immutable and this should be clear to all parties. Imo GDPR doesn't do a good job of allowing innovation, and I fear it may be more difficult for future blockchain development in the EU. 
+4	1523290113	1	There are very few things where keeping full history is beneficial. And those things do not tend to be in SalesForce. And have been already secured by time stamping and other notary services. Blockchain is beneficial for a notary. For most others things in business inability to deprecate data is detrimental and expensive. And GDPR is the best thing for a long while. As you can see from Facebook scandal not all innovation is good.And already now EU citizens privacy is much better protected and they have more control than US. 
+0	1523251627	1	It's a great, great sign that intelligent people like Benioff are making bets on the space.
+0	1523260400	1	Big company like Salesforce are gonna be as dominant as BTC or ETH. a big company wont settle for something they wont earn. Hope this gonna be a big hit. We'll see in the next days
+0	1523265727	1	This is big news. Many biggies are working on blockchain solutions that can be integrated with their tech. 
+0	1523268967	1	It is always good to hear big companies entering the blockchain era
+0	1523283551	1	jesus fuck please not another shit coin. We dont need more coins to speculate. We need actual solutions
+0	1523291960	1	He said that the idea of a product dawned on him after thinking how to have his company utilize blockchain tech.
+0	1523294866	1	Most silicon valley startups will go into the blockchain space within the next 5 years IMO. 
+0	1523295961	1	Super interesting... interested to see how this goes
+0	1523239533	1	Seems like the big companies like this are going to develop their own crypto which probably makes the current coins less valuable. 
+1	1523242004	1	There will be public and private blockchains. Both will be valuable for their own reasons. 
+1	1523246768	1	Depends on the coin ;)
+0	1523231991	0	I’ve never heard of salesforce?
+1	1523233188	5	known for being the first 100% cloud software company. Their niche was sales CRM solutions. They do a lot of stuff now.
+1	1523236899	3	use in many many different industry… the defaulto go to for crm solutions. many unproductive hours have been sunk into this cloud solution
+1	1523233691	2	My company uses them for our internal data tracking for helpdesk, customer cases, software bugs etc. they’re pretty huge and if this is rolled out as part of a specialty tier of products adoption will be huge
+0	1523240166	0	Ooh ooh! Bitcoin is decentralized P2P currency.But that's no good, so let's make fucking centralized corporate-coin. Yeah, so much better now! Every corporation can make their own
+1	1523249558	1	you sound stupid. look into distributed ledger technology. 
+2	1523255395	1	yeah - i read about it in the bitcoin whitepaper

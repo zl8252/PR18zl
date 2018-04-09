@@ -1,0 +1,220 @@
+File created at: 1523298206
+Subreddit: Bitcoin
+Submission title: Bitcoin has more MONEYNESS than any other currency.
+Submission created utc: 1523243992
+Submission score: 814
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523247897	208	But Fiat has more car sales than Bitcoin. Checkmate atheists.
+1	1523261816	8	The world is flat!
+2	1523278071	10	is there an r/fiatearthsociety ?
+3	1523288021	1	No but you're on to something here, the earth isn't flat, that's crazy talk. The earth is fiat, it's all so obvious now.
+1	1523255694	17	Fiat the car company or fiat the debt cash?
+2	1523259282	48	Yes.
+3	1523282885	2	/r/inclusiveor
+0	1523247860	370	What the fuck is the Y Axis?How can you say "This has a moneyness of 20!" What does that mean??
+1	1523248773	302	People say that btc is better than gold, well now you know it's exactly 5 better.
+2	1523249115	38	Where do stalks of corn fit on this scale?
+3	1523251359	163	If I told you, you'd be a*maize*d
+4	1523256958	25	My ears heard what you did there.
+5	1523256971	43	That was corny.
+6	1523257110	21	oh another  bitcorn  news
+7	1523259140	22	Shucks, nice one. ;)
+7	1523271712	20	I'd be downvoting if it weren't for the kernel of truth
+7	1523263357	19	bitcorn? time for a new ICO
+8	1523284209	1	Eh, I been using that term for a while. I usually say Bitcorn to the norms outside this sub as a grandpa like joke. Like the intreanets.Please no initial corn offerings.
+9	1523293446	1	Thank you for corning the term, here, have an upvote
+8	1523287792	1	Sorry you already missed the Initial Crops Offering and the first Bitcorn Harvest ;-)https://bitcorns.com/https://bitcorns.com/bitcorns.pdf
+7	1523278522	18	# BITCORNNNNNNNNNNEEEEEEEEEEEEEECTTTT!
+7	1523264839	8	Did anybody call me?  --- Prof Bitcorn
+8	1523288274	1	yes please help, my ears are popping!
+6	1523282836	2	So corny it’s eearie
+4	1523267676	4	I observed your sentence.
+4	1523275741	2	God damn this is why we need tip bot
+4	1523282174	1	... get out
+2	1523273170	3	I just got abs for chortling so long at your comment.
+2	1523277629	1	[I'm not buying back in until we're not at least 11 better.](https://youtu.be/uMSV4OteqBE?t=1m18s)
+2	1523287066	1	Bruh I think it's four better not five
+1	1523274397	26	From Investopedia:  Moneyness is a description of a derivative relating its strike price to the price of its underlying asset. Moneyness describes the intrinsic value of an option in its current state. The term moneyness is most commonly used with put and call options and is an indicator as to whether the option would make money were it exercised immediately. Moneyness can be measured in respect to the underlying stock or other asset's current/spot price or its future price.In English - Moneyness is the difference between a derivative, ex: stocks, current price and its prospective price. A higher moneyness indicates that it's prospective price will be further (either negative or positive) away from the current price. 
+2	1523278135	10	But moneyness of what unit.For an IBM stock priced in $s the moneyness might be $5. It's not 5.For FOREX the moneyness of JPY/USD is in USD. For USD/JPY it'd be in JPY.But it can't be dollars, because dollars is on the list.Thus I suspect the slide deck isn't using the dollar. Thus it should state units.Oh and furthermore, the fact that the strike price of a starbucks card is nearer to the current price would make it more useful. Even the idea of a real strike and current price for much of that list is laughable.
+3	1523281403	7	It's an unitless thing, it's the relation between the strike price and the current trading price of its underlying security, according to the options guide.
+4	1523290919	1	All securities have a currency attached. Boeing is sold in dollars. Forex is sold in the denominator currency.If the trading price of Boeing is $50 and the strike price is $30, the moneyness is $20 and in the money. You might write 20, but only because  Boeing is assumed to always sold in dollars.Trading platforms might suggest you can buy Boeing in BTC, but all you're really doing is a BTC/USD trade and then a Boeing trade and you're both regulated by the SEC for trading dollars and exposed to exchange rate changes.If Boeing listed in BTC that would be a cross listing which is rare. When we see companies listed in BTC then I'll say it's a true dollar replacement :)And again, none of the helps the dollar have a none-zero moneyness.
+5	1523291209	1	The moneyness would then be 50/30 = 1.67.
+6	1523291526	1	~~No. The moneyness is $20. Per Investopedia and Wikipedia. Where's your source.~~Hmm, maybe you are right. Wikipedia and Investopedia insufficiently explain the ratio nature. But this still isn't what that chart shows. USD doesn't have a moneyness ratio of 1200
+7	1523291751	1	As per http://www.maths.lth.se/matstat/research/mathematicalfinance/glossary/?word=Moneyness, it is in fact Strike/Underlaying. The reason usd has positive moneyness, is because people pay more for a dollar than the underlying gold value.
+8	1523291929	1	The real reason is that the base currency is gold.I mean fine, but it's a poor chart where you use something other than the global reserve currency without stating it.It also raises the question of what gold is being priced in. Gold can't ipso facto be being paid for for more than the price of gold.
+9	1523292151	1	Well the gold value is obviously demand vs availability, and there's a lot of availability, and very low demand, but because of the fact that there's quite a monopoly on it, it's way expensive, same with diamonds.Edit: forgot part of my reasoning
+2	1523283957	1	So for a truly stable currency, we should rely on frequent flyer miles? 
+1	1523262995	44	This chart is pretty embarrassing 
+2	1523267543	25	This chart, plus an extra column with Bcash at -10 is the epitomy of this subreddit.
+2	1523293445	1	This sub is pretty embarrassing 
+1	1523265788	13	It's equivalent to about 7.5 banana.
+2	1523268916	5	Bananos
+3	1523273029	2	BitBananos
+2	1523281049	2	Bananacoin! Pegged to the export price of 1 kg of bananas;)
+1	1523258189	14	Don't you know what moneyness is??Finally we have a proof that bitcoin is ~70% more moneynessy than USD!
+2	1523280066	1	doesn't work if it's logarithmic
+3	1523285716	1	> doesn't work if it's logarithmicBut it's not, so...?
+4	1523287262	1	how can you tell?
+5	1523287495	1	> how can you tell?By the labeling of the y-axis. I mean, for as little as you can meaningfully say about this chart or "units of moneyness", it seems pretty clear that the y-axis scales linearly in those units, yeah?
+6	1523288264	1	ever heard of a unit called decibel?
+7	1523289220	1	> ever heard of a unit called decibel?I have, though I hadn't considered it in this conversation, and I suppose that your thinking sort of makes more sense when reasoning about it that way. However, even if moneyness scales logarithmically *in terms of something else*, this chart still scales linearly in terms of moneyness. As I understand it, the decibel scales linearly in terms of power, right (not an expert here)? So while it might make sense to say that 20 decibels is ten times as powerful as 10 decibels, you wouldn't say that it's ten times as "decibely". It's twice as "decibely", and similarly something that is 20 moneyness is twice as "moneynessey" as something at 10 moneyness, regardless of any possible underlying relationship to other units (logarithmic or otherwise).**TL;DR**: You had a good thought, but I'm still technically correct which, as you may be aware, is the best kind of correct.
+8	1523292899	1	the thing is, we don't even know if the measurements was in ordinal scale, interval scale or ratio scale, and even if it's in ratio scale, the unit's meaning. so comments on the ratio of two numbers could have any to no meaning. 
+9	1523294362	1	> the thing is, we don't even know if the measurements was in interval scale or ratio scale, and even if it's in ratio scale, the unit's meaning. so comments on the ratio of two numbers could have any to no meaning.That's fair, and I agree that it's not a meaningful ratio (like 20°F isn't *meaningfully* twice the temperature of 10°F), but it's still a ratio, and the chart still scales linearly in terms of those units.Let's put it this way - at this point, both this chart and that ratio are about as meaningful as this discussion.
+1	1523272376	6	Bullshit slide made up by bullshit BTC Expert. Let’s get real. I’m a long time HODL’r but my overall BTC  “moneyness” is a lot less now than it was before. 
+2	1523279150	1	You're thinking of price moneyness. This is a graph of _intrinsic_ moneyness.
+1	1523275377	3	And why the fuck do we see Brock Pierce's address below the chart?
+1	1523263898	5	This is good for bitcoin
+1	1523283229	2	My guess is that they probably just weighted some factors of money and then manipulated the weights until when they apppied it to tge currencies  it made btc look amazing
+1	1523283776	1	I believe thats love
+1	1523285745	1	Units of moneyness, of course.Wake up, bro.
+1	1523297609	1	Probably 20 different requirements/attributes one would like money to hold
+1	1523297816	1	https://en.wikipedia.org/wiki/Moneyness
+1	1523259075	-1	It's the female version of money. Bitcoin is the sexiest of all the monies.
+1	1523279505	0	Beyond potential cross post material for /r/crappydesign these shitposts about bitcoin just keep reminding me to wait for the nonsense (and yes value) to autocorrect itself. There’s a room full of apparently clueless people motivated by herd greed mentality while some 20 something expert bloviates out of his ass using crappy bar charts. Uugh.
+1	1523248383	-2	Best reply yet
+0	1523252235	90	This is so dumb rofl 
+1	1523289389	1	It’s only dumb as long as we don’t know the definition of “moneyness.” It’s stupid to discard it without understanding what it is.
+2	1523289621	1	now THAT's dumb.
+3	1523290645	1	It's dumb to not immediately discount things that you don't understand?Is today Opposite Day?
+4	1523294691	1	It's dumb to assume there's a greater meaning to the graph in OP's picture, considering there's no units for the Y axis and "Moneyness" isn't even a word. It's obviously a tongue-in-cheek joke.
+5	1523294893	1	I wouldn't say that one should assume that there *is* a greater meaning here (I agree, this seems like nonsense), what I'm saying is that assuming that something is meaningless based on a little more than gut reaction is kind of dumb.To be fair to the chart, I think that the y-axis is implied to be in terms of moneyness, which for all we know is something that was well-defined at some other point in this presentation.
+0	1523245464	67	I dunno I think I might switch to Starbucks cards, that sounds like a more sustainable currency than any of those stupid "currencies"
+1	1523247897	8	They'd have a discounted value on the black market depending on the local demand for $tarbucks.If you're good I bet you could get 80%-95% of the card's value in cash!
+2	1523248655	16	That's still only like 5 moneyness though
+3	1523248888	3	True, and it requires you to deal with gas stations in low-income areas.
+1	1523289271	1	Well I'm from Argentina and the peso devaluated from 1 dollar = 17.50~ to 1 dollar = 20.50~ so I'd rather invest in Starbuck cards
+0	1523249429	55	Can someone elaborate on what moneyness is? That for sure sounds made up. 
+1	1523268136	24	It's not a story the jedi would tell you
+1	1523265298	26	It because it do
+2	1523280117	3	But they don't think it be like it is.
+1	1523268243	13	Moneyness:- forget about money as money- everything is money: potatos, snickers bars, bags of rice, cigarettes- think why cigarettes are more desirable than potatoes- They are standardized (unit of account) can be sold everywhere in a certain price range (store of value), they are divisible, portable, durable, etc.- Everything is money but some things function better as medium of exchange: cigarettes > potatoes- Bitcoin is the best (globally!)
+2	1523271895	30	If this dude is trying to say that Bitcoin is more money-ish than the U.S. Dollar, he clearly has an agenda. A dollar bill is portable, universally recognized (even in remote places), and is a worldwide reserve currency. Bitcoin investors measure their gains/losses in dollars, for goodness’ sakes.Don’t get me wrong - I love me some BTC, but one of the most important features of money is ease of exchange. Right now, this can’t be done in BTC without smartphones, WiFi/LTE, and some lucky breaks with fees and execution time.TL:DR cray
+3	1523272960	5	USD also requires no technology or electricity to transact, clears instantly and can be converted by mutual negotiation into any other Moneyness units - including BC.  
+4	1523276966	2	Lets get on an airplane abroad, you take 100k USD and I take 15 BTC.Who gets through the airport security?
+5	1523277500	6	Well, there is no limit to the amount of cash you can carry - you do need to declare anything more than $10k.  Then again, you can be asked to power on and allow TSA to search your electronics - and make copies of files (https://motherboard.vice.com/en_us/article/qkvmvq/you-have-no-right-to-electronic-privacy-when-you-cross-the-us-border ) 
+6	1523282951	0	So your USD(Cash) has the additional liability that your ownership is contingent on some random government's permission?I'd give it a pretty steep discount in terms of moneyness on this one.> you can be asked to power on and allow TSA to search your electronicsI can comfortably travel with my Bitcoin without any electronics.
+7	1523284157	1	> contingent on some random government's permissionThis is one of those laughable assertions that causes people to roll-eyes at BC.  The US gov is not "some random" - it is the cornerstone of social functionality throughout the world.  If the US gov gets to the point where dollars are an issue we will all be facing MUCH larger problems.  Additionally - if there is social breakdown to the point at which dollars are worthless, do you really think the systems NECESSARY for BC transactions will still be online?  The internet, connectivity grids and even electricity will be bigger problems than the exchange of physical currency.  This is reality, not some SyFy channel movie. 
+8	1523284752	1	> If the US gov gets to the point where dollars are an issue we will all be facing MUCH larger problems.Let's hope we can ready Bitcoin till then.> the point at which dollars are worthless, do you really think the systems NECESSARY for BC transactions will still be online?Yes, look for example at the collapse of the Soviet Union for a recent example.
+9	1523285437	1	The collapse of the Soviet Union wasn't anywhere close to as big of a deal as the hypothetical collapse of the United States government would be. I don't think you realize just how huge the role of the United States is in the global economy.
+8	1523287604	1	Having more than $10k can be reason enough to take it. Ever heard of civil forfeiture? I would never carry that much cash for fear my money would be accused of a crime and confiscated without due process. It happens all the time. "Only criminals carry that much cash".
+5	1523277351	3	Interestingly enough, we could probably argue small amounts of USD(cash) have a higher moneyness than small amounts of BTC(MainChain) but as the amount increases portability, etc. decreases.Further USD(Coin) has a much worse moneyness because you can't even exchange them and nobody outside the US accepts them (not accepted at exchange booth).
+6	1523278414	4	You’ve obviously not travelled very much. USD is accepted all over the Earth. In fact, I’ve been in countries where it was preferred to the local currency.
+7	1523281902	3	Yes, I know that it ranks very high among the fiat currencies. Locality matters.
+5	1523285632	1	You can't "take" bitcoin anywhere, only your private key, just like you can for a bank account.
+6	1523285763	1	I can own and access bitcoin anywhere with my private key. This is obviously not possible with my bank account. I can only make transfers that are approved by relevant banks and authorities at whatever fee they seem fit.
+7	1523285900	1	Then get an account offshore in somewhere with favourable laws, like literally everyone else. Meanwhile Bitcoin is subject to exorbitant fees and a public ledger.
+8	1523286300	1	> get an account offshore in somewhere with favourable lawsBecause Bitcoin is easier and cheaper than that.What fees? Where offshore? Try to set something up offshore ^^
+9	1523287565	1	i honestly have no idea, what people are talking about when they are talking about bank fees. I have never had a bank where the bank took a fee for anything, except a loan. I get the opposite, interest (even though it is almost 0 atm).
+4	1523287993	1	It's also not a standard unit of account, therefore making it not money, just statist points.
+3	1523282267	4	> A dollar bill is portable, universally recognized (even in remote places), and is a worldwide reserve currency. Bitcoin investors measure their gains/losses in dollars, for goodness’ sakes.On a nation level probably yes. For transactions between businesses or people though; only if you are talking about deposits.I’d sell you something for a USD deposit, but USD cash would be pretty useless to me.
+4	1523283289	4	Where do you live that USD has no value?
+5	1523284460	1	I live in Norway. Basically the only thing I would be able to do with USD cash would be to take it to the bank or a foreign exchange and pay a fee to have it exchanged into my own currency.There is one or two cloth retailing companies that I know of that take some foreign currencies including Euros, Swedish kronor and Danish kroner, but even those stores do not accept USD cash that I know of.Perhaps some grocery stores and restaurants might accept payment in USD cash even though they don’t advertise doing so, but if they did the exchange rate would be unfavorable to the customer for sure.All in all, USD cash would be a pain in the ass to find a place to use and once I found some place to use it it’d cost me more.Hence USD cash would be pretty useless to me, and I would not accept payment in it.
+3	1523276901	0	> A dollar bill is portable*^(valid only for the first 9999 dollar bills. Dollar bills are subjected to confiscation by authorities without judicial process. If you are carrying a number of dollar bills that you don't have declared to authorities you will be disposed of them and will be prosecuted and sent to jail)
+3	1523276819	0	BTC has more moneyness than USD(Debit/Deposit). I think OP forgot to differentiate USD(Cash) from USD(Deposit). I would argue that CHF/EUR(Cash) comes probably more handy, less inflation, higher denomination and reasonably easy to exchange.I think your conclusion really depends on location. Also figuring out your exchange rate will probably require some sort of electronic device. I'd say everything Bitcoin needs is ubiquitous (I checked my emails in the middle of the Sahara), but of course, you can always contend this with constructing some scenario, no need to quarrel.PS I don't track my gains and losses in USD. I am just interested in having more BTC.
+4	1523278460	2	That’s a fair point! I was counting cash as a feature of USD. Without paper currency, paying someone in dollars is a pain in the ass (must set up Venmo apps connected to dollar-denominated accounts, or what have you). 
+5	1523282248	1	Yeah, now that I thought some more about it I think that you can't compare them one to one at all. Eurodollar are an interesting example in addition to USD(Coin), USD(Cash), USD(Debit), USD(Credit) or even USD(Balboa) USD(Venmo) ... never mind the USD(EBT) for food stamps.
+2	1523278384	2	Not the definition of moneyness.
+3	1523281759	1	Thanks for providing your insights.
+4	1523291457	1	Okay, I'll bite.You can have a term that means 'more useful as currency', involving stuff like liquidity.But you can't use moneyness, because it's already got a definition in finance.Have 'money-esque'.
+2	1523284471	1	So basically, the compatibility of an object to bartering...?How is it measured? ie what's the Y axis in this silly picture?
+2	1523279829	1	I tried to divide a cigarette once.
+3	1523283011	1	Poorfag.
+2	1523286378	1	You forgot one of the most important aspects: stability of relative value. That is why Bitcoin is one of the worst as a currency. You also forgot wide acceptance.
+2	1523287450	1	> think why cigarettes are more desirable than potatoesit's definitely because of the nicotine
+1	1523273310	3	Its more of a feeling then something that can be pinned down by explanations. 
+1	1523274371	4	From Investopedia:  Moneyness is a description of a derivative relating its strike price to the price of its underlying asset. Moneyness describes the intrinsic value of an option in its current state. The term moneyness is most commonly used with put and call options and is an indicator as to whether the option would make money were it exercised immediately. Moneyness can be measured in respect to the underlying stock or other asset's current/spot price or its future price.In English - Moneyness is the difference between a derivative, ex: stocks, current price and its prospective price. A higher moneyness indicates that it's prospective price will be further (either negative or positive) away from the current price. 
+2	1523276483	4	That’s not how moneyness is being used in this case. It seems to refer to ability to be used as money rather than any relation between spot and future/strike price. 
+0	1523268100	24	TIL "Moneyness" is actually a thing.https://en.wikipedia.org/wiki/Moneyness
+1	1523268110	18	**Moneyness**In finance, moneyness is the relative position of the current price (or future price) of an underlying asset (e.g., a stock) with respect to the strike price of a derivative, most commonly a call option or a put option. Moneyness is firstly a three-fold classification: if the derivative would make money if it were to expire today, it is said to be in the money, while if it would not make money it is said to be out of the money, and if the current price and strike price are equal, it is said to be at the money. There are two slightly different definitions, according to whether one uses the current price (spot) or future price (forward), specified as "at the money spot" or "at the money forward", etc.This rough classification can be quantified by various definitions to express the moneyness as a number, measuring how far the asset is in the money or out of the money with respect to the strike – or conversely how far a strike is in or out of the money with respect to the spot (or forward) price of the asset.***^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/Bitcoin/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]^Downvote ^to ^remove ^| ^v0.28
+1	1523274978	8	Your link isn't the same kind of Moneyness as the above, however.
+2	1523276550	4	Exactly. Moneyness is a thing but not in this context and sure as hell not without a label for the y axis.
+1	1523278021	1	 You're so money, and you don't even know it. 
+1	1523276696	-3	Now I know why wikipedia wasn't accepted as a reliable source in school.
+2	1523278442	7	Wikipedia is accurately recording what the financial industry means, not what this terrible crypto guy means.
+0	1523259535	16	Screenshot comes from this hilarious Twitter thread.https://mobile.twitter.com/squawkfox/status/982618809612763136
+1	1523259556	3	[**@squawkfox**](https://twitter.com/squawkfox/)> [2018-04-07 13:59 +00:00](https://twitter.com/squawkfox/status/982618809612763136)> I am at the Real Estate Bitcoin Wealth Expo. What am I going to learn here? >[[Attached pic]](http://pbs.twimg.com/media/DaL2l_1WAAAnDbN.jpg) [[Imgur rehost]](https://i.imgur.com/Wh6qz9L.jpg)>[[Attached pic]](http://pbs.twimg.com/media/DaL2l_ZWkAIOZbJ.jpg) [[Imgur rehost]](https://i.imgur.com/3PEdBOr.jpg)----^This ^message ^was ^created ^by ^a ^bot[^[Contact&#32;creator]](http://np.reddit.com/message/compose/?to=jasie3k&amp;subject=TweetsInCommentsBot)[^[Source&#32;code]](https://github.com/janpetryk/reddit-bot)[**^[Donate&#32;to&#32;keep&#32;this&#32;bot&#32;going]**](https://www.paypal.com/pools/c/80YvGrbq35)[^[Read&#32;more&#32;about&#32;donation]](http://np.reddit.com/r/nfl/comments/7pwo2m/heres_an_interesting_one_league_source_says/dsmirtu/)
+2	1523272308	1	Lame bot.  Should have a quote bot here.
+0	1523265376	13	I had to double-check I wasn't on r/Buttcoin
+0	1523253906	18	Wtf is moneyness??
+0	1523260154	7	My 2018 investment strategy:1. Bitcoin2. Gold3. Cowry Shells
+0	1523244805	14	Is this a weighted average score of fungibility, divisibility, transferability and adoption?
+1	1523244976	33	Of course. Plus it's a PowerPoint and therefore has to be true.
+2	1523246781	13	Also on the internet 
+3	1523247958	0	Wait, wait, I got this -Fake news.
+4	1523258514	1	Lies!
+5	1523258940	0	(initiate accusation loop)lol XD
+2	1523266915	0	I was gonna down vote you and then I saw your capitalisation of moneyness in the title. Well done sir. 
+0	1523255695	6	Why am I not surprised to see Brock Pierce’s name on that board. Is there any stupid he can not do?
+1	1523290307	1	I'm choosing my wording carefully here, to avoid libel, but...Brock is probably a pedophile. If he is not actually a pedophile, he was still almost certainly complicit in the (alleged) predatory behaviors of former business partners currently on the run.
+0	1523262399	4	Holy....thats a lot of moneyness!
+0	1523264575	4	this is good for bitcoin
+0	1523252461	3	Arg peso? Wtf this must be some crappy meetup in argentina
+0	1523254968	3	USD goes to 11
+0	1523260615	3	checkmate, banks. 
+0	1523248520	5	Money me. Money now. Me a money needing a lot now.
+0	1523267302	2	"Why can't I have zero kids and three money?" Homer Simpson
+0	1523275508	2	What about Shrute bucks?
+0	1523282371	2	 As an argentinian, I'm just happy we were included.
+0	1523284191	1	But does it have electrolytes?
+1	1523293779	1	It's what plants crave!
+0	1523256907	3	Thought I was in r/buttcoin for a sec.
+0	1523265210	4	Yeah an Trump has more truthiness than any other president. LolWhat is this bullshit presentation anyway?Q
+0	1523253313	1	I'm going to @ all three of them just to make fun of this stupid graph
+0	1523257539	1	WOW IT'S OVER 20!!!but wtf is moneyness?
+0	1523259801	1	ELI5 please. What is this?
+0	1523260134	1	How can you say! Now bitcoins go down after ban on crypto ads
+0	1523261790	1	We gots all teh Moneyness
+0	1523266081	1	"Yeah, Jack, we can see that from the recent rise gold has just surpassed 17.5 moneyness, a record since August 2017"
+0	1523268622	1	One mistake is to not differentiate USD(Cash) and USD(Deposit). USD(Cash) has probably a moneyness of 30-40!
+0	1523272711	1	That's great!  I remember a similar chart from around 96 with comparisons among stocks, bonds and Beanie Babies as investment vehicles.
+0	1523273781	1	Source? Based on? Bitcoin has the highest fluffyness as wel..
+0	1523274927	1	I think that they use an old type of consensus, now platforms should use a newer type of consensus - DPOS consensus it is the fastest, most efficient, most decentralized, and most flexible consensus model available now, some platforms like Credits and EOS alredy use it.
+1	1523276296	1	That's why EOS will be one of the best coins in the next years ;)
+0	1523277075	1	Yeah, it's got moneyness .What is moneyness? Do you even know? It's what they use to make bitcoin .Yeah, but why do they use them to make bitcoin ?'Cause bitcoin's got moneyness
+0	1523277395	1	Uh, what?
+0	1523277443	1	Not Monero.
+0	1523277714	1	No wonder we're in a bear market. This post has more upvotes than it should 
+0	1523277726	1	1. If this is referring to option moneyness, it's stupid.2. If this is referring to liquidity, it's doubly stupid.
+0	1523278312	1	WTF is this chart. I agree with others. That number needs some explaining
+0	1523280354	1	What about pork bellies? Christmas is just around the corner, and I ain't gonna have no money to buy my son the G.I. Joe with the kung-fu grip
+0	1523280799	1	That conference was so cringe worthy
+0	1523281477	1	What the fuck is moneyness?
+1	1523282929	1	[I can answer that... for money!](https://www.youtube.com/watch?v=MiJPsOI61qE)
+0	1523281613	1	I assume they are talking about how easy it is to "spend" the currency. In which case, I applaud the effort.The main reason I've never bought bitcoins is because I've never seen a place to spend them. Bitcoins are an investment commodity way more than they are a currency.
+0	1523282920	1	I especially like that there is no axis labels...
+0	1523283105	1	What about beeeetcoaneeeehct
+0	1523283115	1	the fuck is moneyness?
+0	1523283169	1	Lol what
+0	1523283968	1	sum1 translte plz.
+0	1523284583	1	wut
+0	1523285651	1	THANK GOD... i was beginning to think i was hodling for nothing
+0	1523285761	1	to help with units of moneyness, where does rapper 50 cent fit into this chart? 
+0	1523285973	1	What is MAXIMUM moneyness though? Nothing here seems to cap out
+0	1523286318	1	Empirically speaking, what the hell is MONEYNESS
+0	1523286416	1	Cowry shells beating USD 🤣
+0	1523286558	1	This is not good for bitcoin 
+0	1523288650	1	The fact so many people looked at this graphic in person makes this even more disturbing 
+0	1523289562	1	Did you also know that Bitcoin has more braindead "investors", aka kids,  than any other currency? I love to learn
+0	1523291699	1	it actually has zero "moneyness." which is the entire fucking point: it is a pure currency at the cost of having zero promise of value from any regulatory body, which is the definition of moneyi believe the philosophy is "it is better to have no promise than to require a centralized promise that can be revoked at any time."
+0	1523292836	1	Nothing like confusing people to make a point. Do people actually think a universal standard of value fluctuates in price? Just goes to show you can sell ice to Eskimos with the right sales pitch.
+0	1523294509	1	Where can I exchange my USD to Cowry shells?
+0	1523296275	1	lmao, "moneyness" is my new favorite word
+0	1523249027	1	I fell in love the girl that you can see her face between the gold and covry shells. Can you give her number?
+1	1523251132	-1	She's there for the Starbucks cards. Go MGTOW
+0	1523257209	1	Now this is shitposting 
+0	1523257530	1	Still better than rich statefulness
+0	1523270235	1	I actually wrote a paper if bitcoin fulfills all the necessary points of being money in college around 2 years ago. The main critique was, that money should make it easy for people to, know somethings worth. If value of bitcoin is fluctuation at the rate it has over the past years, this function is not fulfilled. The classic old bitcoin joke is relevant here: A boy asked his Bitcoin-investing dad......for $10.00 worth of Bitcoin currency.Dad: $9.67? What do you need $10.32 for?This would also apply to goods in a supermarket, if you hypothesise if you could pay there with bitcoin, and would make it a hassle for consumers and sellers.Of course bitcoin fulfills some functions of being money, like "store of value", but not all of them. Another function is, that you need to be able to transform your wealth from today into the future (and I'm not talking long term). If there is a relatively high chance of the price crashing within a year, than also this function of money is not fulfilled.I'm not saying bitcoin cannot be money. All this problems center around the volatility, which should resolve itself by mass adoption in the long term. But right now, one could argue bitcoin is not good in being money.Excited about your replies.
+1	1523270302	1	but no idea was Moneyness means tbh.^^
+0	1523265102	0	BTC is a store of value first and foremost. Transactability doesn't matter as much. The way BTC gets value is by more people understanding it's value and buying it, thus raising its price. Proof: transaction rate is  very low right now, the mempool is empty and BTC still has value. Ok, less than its peak, but still.
+1	1523276248	6	A store of value with that erratic volatility?   How can something be a store of value when it can plunge by an arbitrarily large percentage on any given day and for no apparent reason?   
+2	1523281908	1	Did you know all the atoms that make up your body are vibrating millions of times per second ? With all that erratic motion, how can you be a person?
+3	1523290781	1	Most of me isn't a person, though. Just a conglomeration of other living beings.
+4	1523294447	1	Most by cell wall count but not by weight. Also you missed the point.
+5	1523296618	1	My bad. I didn't realize you'd take my disingenuous pedantry seriously. It's not that I missed the point. It's just that I thought it would be funny to break the point with something technically true yet still absurd.But now that I've had to explain the joke, it's not funny anymore. :/
+2	1523281039	0	What qualifies as a store of value isn't well defined. I've commented on this before so I'm gonna plagiarise myself, but quite different assets can be stores of value, each having significant drawbacks. What qualifies as a store of value and what doesn't, is debatable -- both gold and money are not universally considered stores of value for various reasons (although for our purposes I'll ignore that). Realistically, any asset can be considered a store of value in the right circumstances, where there's demand. The purpose of any store of value is risk management of wealth based on a stable supply and demand of an the underlying asset.As an asset, Bitcoin's scarcity is well-known, and locked at 21m coins. Demand is the main variable, and the driver of the price.I would argue that Bitcoin's age is actually what makes it somewhat ineligible to be considered a store of value (i.e. if I was a financial adviser I wouldn't consider it for recommendation) -- there is not enough evidence to say that it will have reasonable purchasing power in 100 years, while an asset like gold has a much better track record. This means that it may be a great store of value, but we just can't say yet. However, we can analyse the fundamentals of what makes other assets stores of value and apply them to Bitcoin.There are not too many qualities to consider in what makes a good a store of value. I'll go through five:Scarcity: This is fundamental --without scarcity, an asset is effectively worthless as a store of value. E.g. You can't use fresh air as a store of value, because there's so much it's impractical to acquire enough to get to the point you'd be willing to pay for it (although there is intrinsic value in it, I'm sure you'd agree). Bitcoin's finite scarcity is 21,000,000. When fiat money undergoes hyperinflation, scarcity is what is being violated. Assets where it's difficult to define scarcity are often considered speculative assets.One of the most desirable qualities is predictability in the future, which is what you're taking issue with, as predictability is a close analogue to volatility. Bitcoin's valuation exhibits a lot of volatility in the short term, but in the long term, as much as its short life has allowed, it has dramatically outperformed other stores of values -- it has accumulated value as well as storing. Its volatility has also decreased over time, a trend that suggests it will one day be rare to drop or gain massive amounts in a day. Without a long enough timeline, it's hard to comment on Bitcoin's long-term predictability, but its current valuation history is not a negative at all, and short term volatility is not really relevant (as a store of value -- which is long-term focused). Importantly, it hasn't shown much sign of depreciation, which is closely related. I also feel it's worth comparing gold's predictability via its value over time: http://www.macrotrends.net/1333/historical-gold-prices-100-year-chart .Depreciation is an undesirable quality, but it doesn't preclude something from still being a store of value. All stores of value have a risk of depreciation. Fiat money is a good example of an almost certainly depreciating store of value. It decays a lot, but it does so predictably (a good quality), so it is still useful as a store of value in many situations. That said, you wouldn't want keep $100K in a bank account.Ease of exchange is important, to a degree. You can't effectively store value if you are unable to transfer it to others in exchange for something else (realising your value). Fiat money is very easy (though not perfect), given that that is its purpose. Gold is bad in this respect -- so little exists, and as such, small amounts have lots of purchasing power and are impractical to divide. A gram of gold is worth over forty dollars, so it is not very useful for buying milk. One of Bitcoin's unique properties is that its scarcity is in line with go-to options such as gold and real estate, but that it's also easy to exchange and easily divisible.Durability is another aspect. Gold is very non-reactive, and so is a great choice as a store of value. Bitcoin is virtual, abstract, and so considering its durability is a different proposition. In some respects it's completely impervious to the usual problems, e.g. real estate will crumble to dust over time if not maintained (though land has inherent value). However, there are existential threats. E.g. Attacks on the network, losing/forgetting key, unprecedented mathematical breakthroughs, solar flares destroying Earth's electrical grids, etc. -- these are all hard to quantify, and the latter two mentioned would be catastrophic to life in general in that they'd destroy fiat money systems too, but they should be considered.Overall, in the five categories mentioned, I'd say that Bitcoin's fulfilment of the above qualities is: Scarcity: Excellent Predictability: Unproven (but probably poor ) Depreciation: Unproven (but probably good) Ease of exchange: Excellent Durability: MediumLooking at gold's predictability (which is poor: http://www.macrotrends.net/1333/historical-gold-prices-100-year-chart), it suggests it's possible Bitcoin might never be predictable, but people don't consider gold a poor store of value. Great predictability but poor depreciation (e.g. cash) may be less desirable to some. Real estate appears to be going through large cyclical bubbles.TL;DR: All stores of value are just wealth preservation vehicles that are chosen based on risk assessments. All of them have problems - gold, cash, bitcoin, real estate, cattle, etc.
+3	1523283609	4	>What qualifies as a store of value isn't well defined"A store of value is the function of an asset that can be saved, retrieved and exchanged at a later time, and be predictably useful when retrieved. More generally, a store of value is anything that retains purchasing power into the future."Seems like a pretty good definition to me.The "predictably retrieved" part is the most important, otherwise its not a "store" of value, its just speculation.
+4	1523284109	1	Did you read the comment?
+5	1523284719	1	I prefer to have conversations one point at a time rather than writing huge essays that provide infinite scope to meander off topic, although I occasionally get drawn into the latter.The very first thing you said isn't something I agree with so I thought I'd start with that.Something being a "store of value" except being completely unpredictable isn't a store of value, its a speculative asset, and no one knows which speculative investments are going to pay off until after the fact, which makes them completely unsuited to being as tore of value.People are overcomplicating the very simple definition of store of value because they want bitcoin to be a store of value, not a speculative asset, even though everyone is treating it as a speculative asset.Scarcity alone doesn't mean anything, its stable supply and demand that make something a store of value. There are plenty of scarcer coins than bitcoin, they've already hit their cap years ago and are gradually decreasing as more and more coins are lost.As long as demand grows with supply then price will remain constant. Limited supply doesn't cause stable demand, it causes speculation which by definition is unstable and tends towards boom and bust. Supply elasticity is much more important than scarcity.
+6	1523286615	1	If you'd read it, you would have hopefully noticed that I said Bitcoin can't really be considered a store of value due to its age. But I then went on to look at it based on the qualities of known stores of value.Simplifying definitions down to the point where they're no longer useful is not a solution to over-complication.The definition you provided, while common, is notoriously vague. It passes the buck to 'predictably useful' -- what assets qualify as that? The very idea of predictability in a scarce asset's value, affects the price, in a recursive fashion. Using your definition, you could come to the conclusion that true stores of value don't exist, or that only depreciating ones (i.e. the predictable ones) do.This is why I avoided actually delving into a definition and just considered the purpose: risk management of wealth.>People do the same thing with gold. It used to be a good store of value before rampant speculation took over the market, now its not.So is it a bad store of value, or not a store of value at all anymore?
+0	1523285765	1	If Bitcoin supporters are dumb enough to put value on graphs like this, it doesn't really help their cause....

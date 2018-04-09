@@ -1,0 +1,89 @@
+File created at: 1523298220
+Subreddit: btc
+Submission title: Andreas Antonopoulos: If @Bitcoin twitter account has been stolen, it should be returned to its rightful owner.
+Submission created utc: 1523242581
+Submission score: 200
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523260123	12	What was going through Jack's mind when their company did this? ridiculous 
+1	1523289022	2	>What was going through Jack's mind when their company did this?Eternal totalitarian oligarchy.https://www.dailywire.com/news/29177/twitter-founder-gets-roasted-after-suggesting-hes-emily-zanotti
+0	1523242587	7	^The linked tweet was tweeted by [@aantonop](https://twitter.com/aantonop) on Apr 08, 2018 17:08:07 UTC (56 Retweets | 348 Favorites)-------------------------------------------------Obviously, I am not proposing the misappropriation of the [@Bitcoin ](https://twitter.com/Bitcoin )account. I was responding to a proposal to buy the account from what I thought was the legitimate owner. If it has been stolen, it should be returned to its legitimate owner.-------------------------------------------------^^• Beep boop I'm a bot • Find out more about me at /r/tweettranscriberbot/ •
+0	1523250102	17	Yes! It seems as if this was Twitter that deleted the account though. Twitter should return it regardless.
+1	1523276505	12	Really? What do you think the chances are that the account ends up in the control of someone from core/blockstream? I’m going with about 98%.
+2	1523288409	2	Yep.. :/
+0	1523260965	30	Bitcoin isn't a company or an individual, it doesn't need a centralized way to communicate with the public as such. The fact that people consider @bitcoin as an asset and are willing to pay/hack/steal/whatever to gain its control shows that the name evokes some form of legitimacy that it should not, and this can easily be abused. So if nobody gets access to the exact name of the protocol, nobody gets to potentially abuse this power.This might not be a popular opinion, but for theses reasons I'm fine with this account being unusable. The conditions in which this happened are not ideal, but the end result currently is satisfying to me at least.
+1	1523265858	35	Whether or not that account exists doesn't really matter but the fact that unified troll attacks were able to eliminate it is concerning.
+2	1523269900	13	Having social media giants in bed with governments is more concerning; The fact this happened shouldn't be surprising, really.As much as it disgusts me it happened, I think BCH will benefit from the @bitcoin handle hijacking because of the Streisand effect.
+1	1523278597	3	so you wouldnt mind if bch and btc switched designations?
+2	1523283472	0	I would mind as this is not what the participants in either network agreed on originally and there is no consensus process in place for such decisions. So I'd say that the statu quo in this case is preferable.While the name of the currency is not part of the consensus rules of either network and as far as I know does not actually matter at all in terms of network/transactions, we find it convenient to name them as it makes it easier to discuss/sell/buy them. So the name is usually chosen while designing the software used to enforce consensus rules, to facilitate development/discussion and give substance to the project. That name generally sticks when the software gets released (unless it is agreed that it is strictly a "project name").Then when users decide which software they want to run they will generally look at the documentation and in this case the most used implementations of the network consensus rules on both sides are pretty clear on what each currency should be called. Bitcoin ABC denominates the currency on *their* network "Bitcoin Cash" and Bitcoin Core documents *theirs* as "Bitcoin". So I usually go by that logically, the exception to this rule is if a project attempts to use the name chosen by a **pre-existing** project with public releases. Nothing prevents your from calling them differently, as previously stated it won't change how they work.Just for the thought exercise, if right now someone hardforked Bitcoin ABC contentiously to create their own cryptocurrency and they chose to also call it "Bitcoin Cash", I would refuse to call their currency "Bitcoin Cash" and it would certainly make me not want to use their software. This is most likely one of the reasons why Bitcoin ABC originally decided to use a new name instead of reusing "Bitcoin".  And if they suddenly decided to change this decision, I feel like many of their users might change their mind about their software, but this last point is just my gut feelings.
+1	1523269606	13	It would be great if /r/bitcoin, github/bitcoin, and #bitcoin on IRC could become decentralized and not Core-centric
+2	1523279812	-11	They are not Core-centric, they are Bitcoin-centric. If you have great ideas to include in Bitcoin, truly great ideas, the community will embrace them and you don't have to be Core. Actually, Core will copy your code!
+3	1523282954	8	Lol how delusional can you be? Keep your dogmas for /r/bitcoin. 
+3	1523282736	9	Awesome! So core will scale on chain if the code is available
+4	1523283015	-10	> If you have great ideas to include in Bitcoin
+5	1523285994	3	> GreatPlease do explain how that is established. A currency that can't be used for most classes of transaction can't be that great
+3	1523292697	2	This is patently false. If you read the history of /r/bitcoin censorship this problem started with them banning all non core proposals. They argued that if it didn't have consensus that it was an alt coin. I'm not sure how any proposal is supposed to reach consensus if it is not allowed to be discussed first though.
+1	1523268024	2	It's an interesting point. It's a brand that can't be trademarked or copyrighted. Bitcoin.com another example... 
+1	1523286744	1	No you're right.*Bitcoin* should not be any different in use than *Linux*, but certain corporations have been trying to steal the Bitcoin name to be used as a private label.*Bitcoin* is a whitepaper, and no one chain at this point has any right to exclusively use that title for itself. There is Bitcoin Core which drastically went away from that paper, and Bitcoin Cash as the one that continues the original roadmap. 
+1	1523274593	1	This.
+0	1523279300	3	definitely! 
+0	1523289156	2	Andreas is cucked out. $$$ Corrupts. He is as bad as Cobra. Apparently he has no problem with the Bitcoin project being hijacked but oh no muh twitter! 
+0	1523256086	16	Did he clarify who this “rightful” owner might be? By the way, Twitter is garbage. No one should be using it in the first place.
+1	1523270189	4	This
+2	1523270195	4	That.
+1	1523285760	3	he is roger fking ver, self made billionaire, first investor in cryptoworld and also a firework enthusiast. of course he is the rightful owner of bitcoin user name, because he is the only follower of satoshi's true vision.
+1	1523276557	2	His actual word was legitimate. I miswrote it. Either way the implication is obvious. Even though you’re playing dumb.
+1	1523295860	2	The rightful owner is the one who had it before. 
+1	1523296089	1	If your twitter feed sucks it’s because you follow shitty people.  
+0	1523272985	2	Someone from Turkey briefly had it? https://twitter.com/The_Crypt_Keepr/status/982994221383774208
+0	1523276947	4	Stop giving this fraud a platform. Who cares what he has to say.
+0	1523276204	4	He is a good guy, way more legit than CSW. I respect his opinion even if he supports the LN scaling solution. ( which i disagree with )Throwing insults like the down-voted comments bellow only serves to create a toxic us vs them atmosphere 
+1	1523277092	10	Proof about him being legit? Or do you understand legitimacy as being pro-Blockstream?
+2	1523278451	6	Obey! 
+2	1523288998	0	I've read his book. He's a great public speaker. He has testified to what Bitcoin is to various government bodies and did a good job with it.Andreas and I disagree on scaling. That doesn't make him illegitimate to me anymore than it should make me illegitimate to him. There is room for good people to have differing opinions.
+3	1523295386	0	I agree that he’s a great speaker but that only makes him a more effective Blockstream propagandist. And I think we’re now past the point where it maybe wasn’t obvious to everyone that small blocks “scaling” solutions are basically a scam. That guy is a fraud, even he himself had a different opinion on things in the past.
+2	1523290789	0	https://www.youtube.com/watch?v=XCVaabu3J04
+3	1523296179	0	I'm not going to watch this but I can guess that it's another scammy presentation for people with no tech background that explains how everyone being able to run a node is important for decentralization? Thanks to CSW that lie has been fully debunked.
+1	1523278398	2	> He is a good guy, way more **legit** than CSWI don't think that word means what you think it means
+0	1523295077	2	It shouldn’t belong to anyone, no one speaks for bitcoin.
+1	1523295101	0	Redditor /u/Strip_Bar has low karma in this subreddit.
+0	1523269025	-1	The Bitcoin proponent who owns 0 BTC.
+0	1523273629	-6	andreas is a cuck
+1	1523286211	1	a cook?
+0	1523270327	-2	isn't the legitimate owner Twitter itself though?
+0	1523252929	-5	[removed]
+1	1523253609	3	Gov or Blockstream sock?
+0	1523272194	-4	I don't work for Twitter nor have inside knowledge, but the only two things that may apply is;1) You may not buy or sell Twitter usernames. (Which did happen at one point)2) something about presenting information to deliberately confuse people (ala fake news stuff).Can't say that the second is true, but there is at least an argument for it.
+1	1523276685	8	No. There is no argument for it. If you have even the slightest understanding of what bitcoin and decentralized currencies are. Nobody owns the name. There’s no “confusing” people. The market decides what bitcoin is. If bitcoin is going to become a big giant dick with a purple wart on it, that’s what the market decides. And that’s what bitcoin will be. You and all of your buddies over there simply don’t understand cryptocurrency. I’m betting youre new as well?
+2	1523278397	0	No one owns the name, but someone owns the twitter handle.A giant sick with a wart on it would only be bitcoin if it is the longest chain with the most work.What buddies are you talking about?
+3	1523296849	0	> A giant sick with a wart on it would only be bitcoin if it is the longest chain with the most work.If you're referring to Satoshi's comments on this, you should know that he was talking about compatible chains. BCH and BTC are not compatible. While the argument makes some sense, there are plenty of other arguments for what defines what Bitcoin is and they have the same weight.
+4	1523297240	1	There are more than 1 way to skin a cat, but then we come back to the question of how to define what bitcoin is. Do we take a vote? Is it a question of value? Work? Adoption? The work argument is the least subjective so it usually is taken as the main metric.
+5	1523297740	1	Personally, whitepaper argument is one of my favorites.
+2	1523280871	-5	> If bitcoin is going to become a big giant dick with a purple wart on it, that’s what the market decides. And that’s what bitcoin will be.Well, the market did decide already, and it's not BCH. Bitcoin futures are not BCH futures. When the market wants Bitcoin, it is most definitely not BCH that's the topic of conversation. Don't think you can argue with this... 
+3	1523284341	3	The market did not decide.  Clearly there is a very large portion of the community that consideration bitcoin to be BCH.
+1	1523276335	6	The account never posted false information though. It's shared Bitcoin news from both forks.
+2	1523278137	-1	Then I have nothing. The history of the tweet is gone so I can't really confirm anything aside from what I can possibly think is the reason.
+0	1523266762	-14	I have no details, but I think there should be a period of compliance in which the original owner can have the account back if guidelines are followed correctly.  If /r/btc was someone on twitter that talked opely about promoting bch, it would probably also be suspended because the topic does not reflect the name of the account. My 2 sats
+1	1523269297	11	Oh so people's twitter handles are to be limited and controlled depending on what their owners say?
+2	1523271064	-1	Not to mention the countless scams going on trying to get people to donate addresses with the thought that they get money back.
+3	1523276758	4	You don’t belong in a market driven decentralized system. You’re new to crypto right?
+4	1523278077	1	If you could explain why not I would like to understand why
+2	1523271003	-2	Well, yes. It happens quite often for those spewing hatred and confusion. It's in the twitter terms of service. I think this was a mild case if any, but that is my interpretation.
+3	1523271317	5	> It's in the twitter terms of service.So what ToS was violated?
+1	1523269843	10	Bitcoin Cash is an implementation of Bitcoin.
+2	1523272048	7	Bitcoin Core is not Bitcoin.
+3	1523275766	2	It is. BTC and BCH both are Bitcoin. 
+4	1523276862	3	Technically BTC is bitcoin right now. But the point is, that could change at any second, so nobody owns the name. Nobody decides what it will be in the future. Aside from the market. Period.
+4	1523278727	3	is it p2p electronic cash system? nope, not for quite some time. so it's not bitcoin. checkmate
+5	1523283582	0	Right now the fees on BTC network are quite low, so yes it still is (besides, BTC has 10x more transactions than BCH). And core people would tell you that, with the Lightning Network, BTC will be a scalable p2p electronic cash system.Don't get me wrong, I don't believe that this LN thing will work and I want BCH (the original Bitcoin) to prevail.
+4	1523284433	1	The only path forward for BTC is LN. LN is an attempt at turning bitcoin into a POS coin, which is clearly not bitcoin as defined by SN.
+2	1523270129	6	BCH is more Bitcoin than BTCSWLN.
+3	1523270377	-5	Are you having a seisure?
+4	1523270771	3	Look at the first line of the Satoshi white paper you fucking imbecile.
+5	1523270913	-1	I just don't know what the he'll btcswln is supposed to be. Bitcoins win? I wasn't trying to fuck with you
+6	1523271143	5	Bitcoin_segwit_lightning I guess
+7	1523271190	1	Oh, yea that's probably what the person meant. Seems kind of trolly
+2	1523270820	0	It's an implementation of bitcoin core code, yes. But it's a separate network from bitcoin, which is typically defined as the bitcoin fork with greatest work done. I think this point is often confused, sometimes deliberately. But, once adoption of bch becomes higher than btc, I would assume value and work done would both increase as well. I assume that when they are close, we might have to use the Bitcoin (Core) and Bitcoin (Cash) as names, then transitioning to Bitcoin Core and Bitcoin. But that is my hypothetical.Also of note for those who are angry about the mention of bch using bitcoin core code. It's my understanding that the code base used for both bch and btc was named as such way before the bch fork, and was used just after the fork with some small tweeks to set it apart from the original chain. I realize that this code has been further modified by the bch dev teams into their own projects. Just wanted to clarify so that was not interpreted as a troll remark.
+2	1523282353	0	This is the most sensible thing I've read on this sub in a long time!Don't think many will disagree... Just keep in mind that so is Litecoin, and many other coins. Same logic applies.
+1	1523290945	2	It is unfortunate that newbies get confused that Bitcoin now trades in most places as BCH and not BTC but reddit does not have to follow the convention of any exchange.
+2	1523291454	1	Agreed...

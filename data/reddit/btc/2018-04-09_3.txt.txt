@@ -1,0 +1,41 @@
+File created at: 1523298225
+Subreddit: btc
+Submission title: A little demo of sending BCH (via CoinText) from one phone to a Bitcoin.com wallet on another phone and then to a Yours.org account... all within seconds! The power/speed of Peer-to-Peer Elect Cash!
+Submission created utc: 1523210795
+Submission score: 162
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523210969	17	video is less than 1-min long
+1	1523285982	1	The video says that no other currency can do this.Is that right?  Isn't there any other coin that can do this?  I remember reading some coin that claims to be immediate.
+0	1523211144	15	Thanks to ALL those over the yrs that played a part in making this become possible!!!
+0	1523226431	6	I LOVE IT! I love how you send between all three places so easily and directly....So how much does it cost to set up the cointextning channel so I can send from phone to phone and then to yours.org?... and how difficult is it to setup a yourstower to watch the watcher for fraud? ... and do I need a raspberry pi before I setup my contextning channel, do I still need to learn golang? 
+0	1523214024	6	So Fast and Easy, Wow!
+0	1523231931	4	That is the bitcoin I've introduced people into.All those people where wondering WTF is going on with this bitcoin last summer.It was really disturbing to explain to them why it is more expensive to use than PayPal or Bank transfer.Made me look like an idiot to tell them that it is a GAMBLE to know what fee to pay to get it done.
+0	1523227811	7	What happens to this service when/if CoinText gets shutdown or closes its business for whatever reason?Another issue:> We use your phone number much like Jaxx uses your backup phrase. Instead of using the algorithm from BIP39 to generate a keypair from your phone number, we have a proprietary algorithm that we use. This algorithm assigns a unique, secure address to every phone number on earth.Source: [CoinText FAQ](https://cointext.io/technical-questions-about-cointexts-security-and-private-keys/)So if the private key is derived from each user's phone number, it means that the minute the algorithm used for this derivation is discovered/hacked every single user of CointText can lose their funds, that sounds really unsafe, even for low sums of money it sounds like a really weak system.Furthermore it implies that they can use their own algorithm to find your private key and use your funds... this is the antithesis of how Bitcoin is supposed to work (trusting third parties, not being in control of your private keys by design).
+1	1523247096	3	This needs more upvotes. Also, spoofing phone numbers isn’t exactly difficult. If this is BCH’s answer to LN all I can say is L O fucking L.
+2	1523253347	1	Don't send large amounts with it. Everyone knows that SMS hasn't the best security. You don't keep thousands of dollars in your wallet either, don't you?
+3	1523253550	2	But I thought this “is the power of Peer to Peer Elect Cash”!Not some centralized easily hacked bullshit. 
+4	1523254417	1	No shit. Bitcoin.org is a centralized web site. Hence Bitcoin Core sucks. At least following your logic.
+5	1523255054	2	What?I said that using this as an example of why BCH is great(see OP) is stupid. No one is pointing at Bitfinex and saying that’s why Bitcoin is amazing. 
+6	1523257226	1	1. Guaranteed low fees and 0-conf allow a L2 such as CoinText to send BCH via SMS. Nobody claims it's as secure as on-chain2. Bitcoin.com Wallet to Yours.org is pure BCH
+7	1523257738	3	0 confirm transaction acceptance is downright irresponsible on BCH considering how little hashpower it has compared to BTC. Double spends can be performed with high degree of probability with a small fraction of BTC hashpower. So it confirms on-chain in an average of 10 mins, just like BTC. Except BTC has something like 12x the PoW on each block. What does any of this have to do with this SMS service, exactly?Also, lol@calling this a layer 2 service. I suppose Coinbase is a layer 2 service, too?
+8	1523259263	2	Look, I'm not going to waste my time on your concern trolling and bad faith.Nobody is forcing you to use CoinText or BCH if you don't trust it.
+9	1523260949	2	Yeah, doesn’t seem to be any room for dissenting opinions around here anymore. Reminds me of some other sub....Have fun. 
+8	1523259080	1	there is a 0-conf challenge available for you to prove how you can double spend 0-conf on BCH. Put up or shutup.
+9	1523260910	2	Link?
+2	1523258337	1	you need to receive the authentication SMS to verify the TX so you cannot just spoof the originating number without being able to receive SMS on that number.This is not BCH answer to LN. BCH already has LN subset of abilities ONCHAIN without cointext. It is LN that does not have the answer to BCH scaling.Cointext is just a layer 2 app that offers onchain TX without internet connection. This is the answer to adoption for people with unreliable or no internet. BCH now has the largest scalable market of any cryptocurrency.LN does not even work properly WITH an internet connection, let alone without internet connection.
+3	1523261044	3	Look up why using SMS for 2FA is bad, you’ll see why this is subject to the same issues. What LN capabilities does BCH have, exactly?
+1	1523229028	5	Yeah this is more bank than lightning hubs.
+2	1523236521	1	Of course...but the point of it is to allow people with dumb phones to use bitcoin.
+2	1523237567	0	CoinText is one option of transacting using the BCH blockchain. It is purely optional and in no way intended to be the BCH solution to scaling. Whether or not users transact via this method does not affect the ability for fast transactions with sub-cent fees on the BCH protocol L1.However, when used correctly, it enables another option in which human beings can accumulate monetary value. More importantly, a way for those who are less fortunate who may see it as ‘worth the risk’.
+1	1523241806	2	Yes it's not as safe as other solutions but at the benefit of being able to send and receive Bitcoin from dumb phones that can only txt. And you pay quite a bit on fees. But it offers a solution, not a perfect one ... but one that works. 
+1	1523230238	1	That they control your funds is no surprise.  But you are right if their algorithm is discovered in any way it puts everyone's funds at risk.
+2	1523259307	1	it's like saying if your private key is discovered in any way even though everybody knows the exact asymmetric algorithm.Cointext would apply their own signature into the algo so even if you knew the algo and the phone number, you need to crack the master sig(s). Good Luck with that.
+0	1523233694	4	This is absolutely amazing and great for our ecosystem
+0	1523218123	3	Do N chained transactions like this settle in N blocks, or can they be settled serially within a block?
+1	1523225005	4	Within a block, it just has to be sequentially
+1	1523221341	3	good question, I'd like to know too!
+0	1523219577	1	Nice video ! Im almost as fast as you 👌😁
+0	1523246346	1	That's the Bitcoin I signed up for. FAST, CHEAP & SECURE.May I say, even faster than it was when I did my first transaction. I mean really fast.
+0	1523282798	1	>  Instead of using the algorithm from BIP39 to generate a keypair from your phone number, we have a proprietary algorithm that we use.Later ...> We do this by running the incoming phone number, as verified by the telephone company associated with the local access number with which you are communicating, through our proprietary algorithm and the executing the requested function (SEND, RECEIVE, BALANCE). https://cointext.io/technical-questions-about-cointexts-security-and-private-keys/This should be concerning to anyone using the service:- an attacker who knows the proprietary function can steal the funds of any CoinText user- CoinText needs to closely guard its algorithm - or else- it may not become apparent to CoinText that its proprietary algorithm has been leaked until too late- independent security audit of the proprietary algorithm is impossible 
+0	1523235511	0	What kind of money is this !!???  Magical money that doesn’t exist anywhere but is everywhere !!??!   Think of all the babies lives that will be saved !!

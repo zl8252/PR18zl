@@ -1,0 +1,31 @@
+File created at: 1523298218
+Subreddit: Bitcoin
+Submission title: Bitcoin transaction fees again reached low levels, and have hit 1 Satoshi per byte to get into the next block.
+Submission created utc: 1523268271
+Submission score: 122
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523271107	17	Back to the good old days :)
+1	1523290436	1	now Eric Vorhees can spam the shit out of it again and make some millions.
+2	1523291993	1	[money money money, yeahhh](https://youtu.be/Ll3uipTO-4A?t=20s)
+2	1523296282	1	or a lightning network satoshi dice where nobody knows where the payments come from and is much faster?it is a low hanging fruit opportunity
+0	1523272168	8	I opened up a lightning channel for 1 sat a byte on Saturday and have since made 40 transactions on lightning for a total of 2 cents.
+1	1523289145	1	But Roger said it would cost $200 to open a channel. 
+1	1523277751	7	No you have not. Lightning is vapourware. Lightning doesn't work. /s
+1	1523283768	2	That's pretty sweet. Do you do business with bitcoin, or you just bought a sticker 40 times?  :-D
+0	1523288231	1	Doesn't low transaction fee echo low demand?
+1	1523296652	1	>Doesn't low transaction fee echo low demand?Correct.Bitcoin transaction volume has dropped to ~Jan 2016 levels, with about 138,000 transactions yesterday.
+1	1523292625	1	Only if you don't consider improvements, like segwit.Even at the peak of mempool usage in December/jan, full segwit adoption would have kept fees at 0 instead of $20+
+0	1523285020	1	High transaction fees demonstrate that despite the cost people find value in bitcoin transactions.  And it encourages miners to secure those valuable transactions.I'm not sure minimum level fees are a good sign for this stage of maturity.
+0	1523289024	1	This is because of low demand and low use for bitcoin because of the down-trend but I do believe not all of it is due to this. A significant part is due to the LN.
+1	1523291479	1	You mean a significant part of Bitcoin transfers already happens via LN?
+0	1523286571	1	you say the fees are low but meanwhile the retarded ass exchanges are still keeping them high
+0	1523287347	1	when 0 satoshi?
+1	1523297307	1	https://i.imgur.com/Dpd44d8.jpg
+0	1523271454	0	[removed]
+1	1523271989	3	Block times are 10min so 20min would be average for 2 conf. Shorter blocktime is not a new innovation in this space, lightcoin has had 2.5min since 2011. There's also security tradeoffs with having lower blocktimeWhat you really want is instant confirmations, and this will be solved in other ways 
+0	1523271971	0	yipeeee the time is now ;-)  
+0	1523275920	-1	I actually got into the first block at 0.56 Sat/Byte
+1	1523280984	2	You cant relay a transaction with less than 1.00 sat/byte. Blockchain.info calculates segwit fees wrong
+2	1523286512	1	Interesting. I wonder if the same is true for bcash since they don't intend on doing any efficiency improvements and their focus is solely on block size. If their fee is always 1 sat/byte and they don't intend on layer 2 then they are royally screwed. Their fees will go up and down with price so in essence it would be best for them to just keep the price of bcash as low as possible. 
+3	1523286625	1	Bcash is dumb. At one point the delay between 2 blocks was like 12 hours. What's the point in increasing the blocksize when confirmations are still slow? That's a shitcoin.

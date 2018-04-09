@@ -1,0 +1,45 @@
+File created at: 1523298224
+Subreddit: btc
+Submission title: If you were wondering whether @bitcoin has been stolen by Blockstream: All I did was try to follow the account…
+Submission created utc: 1523276224
+Submission score: 175
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523277743	41	the old @bitcoin doesn't exist, what you see on mobile is cache
+1	1523291729	10	When in doubt, blame it on blockstream. /s
+2	1523296680	0	That's actually pretty good advice.
+0	1523278030	55	It looks like the account now says it is being operated by a Russian: >"My name is Andrei from Moscow Russia 🇷🇺 Меня зовут Андрей и я из Москвы, Россия!"
+1	1523280466	20	Thanks, Twitter. /s
+1	1523284393	12	Seemed to be a Turkish person previously... very strange.
+0	1523281487	15	wtf is going on there
+0	1523281101	42	Report the account as hacked to twitter.
+1	1523286796	7	Done
+1	1523284592	8	Can’t. When I try to report I get an error. 
+0	1523280688	19	I seriously dont understand how they are doing what they are doing with that account. I followed it yesterday when it was public, and now today when i went to look at it im not following anymore. Wtf is going on? How can one user force another to unfollow them? I realize you can be blocked, but that just hides tweets. Also, as another user so astutely pointed out yesterday, the "@bitcoin" acct that [Ver was seeing on his end](https://www.reddit.com/r/btc/comments/8apt24/bitcoin_twitter_account_is_back_online_but_all_of/dx0j7pr/) was actually the user "[@Bitcoinsbsh7](https://www.reddit.com/r/btc/comments/8apt24/bitcoin_twitter_account_is_back_online_but_all_of/dx0n2e7/)"; so one account was actively masking another account, but only when being viewed by one user, Roger Ver. Now, it seems that account's information "Bitcoinsbsh7" is being used to mask the @Bitcoin handle for me too, but they've changed [their bio and profile pic.](https://imgur.com/YpNVjdy) 
+1	1523287590	8	The old account was apparently suspended/deleted. Somebody snapped it up when the name became free.
+2	1523288288	12	> name became free.This isn't supposed to be possible.At least I thought that's what twitter rules state.
+3	1523288450	19	it isn't possible. Unless you know, of course, the owner of Twitter invests millions of dollars in your shady fucking company a few weeks prior to this happening
+4	1523294076	4	We don't know how much money Jack invested. He was part of a group of 11 that invested a total of $2.5M. He is worth over $3B, and has invested in many startups, most of which were larger investments and more significant startups (like Intercom and Kickstarter) - does he have a history of "stealing" related Twitter accounts for those investments?
+5	1523296424	3	people love to downvote things that are true & rational here
+3	1523288378	3	I am just surprised that twitter figured out that blocks were ineffective to private browsers.
+4	1523288650	4	I wanna know what the 540+ tweets are...
+2	1523289801	1	Has to of been hacked. A suspended / deleted name cannot be reused. They must of renamed the real @bitcoin to @bitcoi or something, and then made a new account in place of @bitcoin.
+2	1523287909	2	Yes I know. What I'm talking about is far more complex than "Hey why did @Bitcoin change?"
+1	1523291962	5	The events seems to be:* @Bitcoin account got suspended* The @Bitcoin handle was transferred the account @Bitcoinsbsh7* The @Bitcoin handle was transferred to a newly registered account, tweeting in Turkish* The new account got suspended* The @Bitcoin handle was transferred back to the account @Bitcoinsbsh7 again.
+2	1523296018	1	Who is transferring it though? Sysadmin at twitter?
+0	1523290583	7	What I particularly don't understand is how this account can be "Joined February 2013". It means they perhaps reverted to some previous owner/email?
+1	1523296782	2	You can change your Twitter handle. Someone that was already registered since 2013 changed their handle to @Bitcoin.
+2	1523297656	1	Ah, yes. Thanks. 
+0	1523278679	7	Oh joy, they have a database now.
+0	1523281234	3	Merhaba. 
+0	1523296483	1	super weird
+0	1523292633	0	Time to stop using Twitter
+0	1523291809	-4	@bcash is still available
+1	1523296293	1	Hi, how are you today?
+0	1523292316	-1	Guys check this tread: https://www.reddit.com/user/Size0/comments/84cdu8/177_000_acc_leaked/its recent leak of gmail acconts if you use gmail to log in in an exchange be aware its possible you might get hacked, change your passwords check your account's security logs
+1	1523296859	2	Wut
+0	1523287566	-2	CHARGE YOUR PHONENOW
+1	1523287798	5	He is charging it.
+0	1523294635	-1	Unbelievable, just fucking unbelievable. 
+0	1523294997	0	I'm just getting a blank page that says loading error when I go to @Bitcoin. Can't report it or anything. When searching for Bitcoin it doesn't show up at all. 
+0	1523295348	-1	Report it as a hacked account.

@@ -1,0 +1,16 @@
+File created at: 1523388195
+Subreddit: BitcoinMarkets
+Submission title: OTC affect spot price?
+Submission created utc: 1523316443
+Submission score: 3
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523340457	3	Yes, it does. Most of the times there won't be any interested party on the other side of the trade, so the traders come in. They buy/sell from you at a discount and sell/buy on exchanges, but when they do, they do it more professionally than you: they split the amount among multiple exchanges and multiple orders, so the buying/selling does not create panic. Also some traders use OTC markets to cover their shorts/longs. This way they won't move the market back up/down when they close their position.
+1	1523379277	1	This is why it irritates me when people say Gox Trustee, destroyer of worlds, had no impact on the market if he did OTC.
+0	1523325009	1	Would be interested to know as well 
+0	1523342780	-3	So the rothschilds billionares could buy OTC and then dump it on exchanges while shorting it making the price fall of a cliff and just keep doing that supressing the price forever?
+1	1523345879	1	Why would they want to? I read that they’ve been quietly investing in crypto for quite some time. I imagine therefore they are in it for the long haul. 
+2	1523356382	1	They own the central banks, why would they want bitcoin to succeed? They own the fiat money.
+3	1523357992	2	Institutions as a whole might not like Bitcoin, but the individuals that form them might.... 
+3	1523366746	1	hedging against their monopoly money
+3	1523379268	1	I see the clever people in banking opening up to cryptocurrency and helping find ways for both systems to work side by side. I see this happening for a long time. So maybe these are some   of the smart people in finance. 

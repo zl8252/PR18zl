@@ -1,0 +1,13 @@
+File created at: 1523388196
+Subreddit: BitcoinMarkets
+Submission title: Trading BTC/USD on Bitstamp rather than BTC/EUR on GDAX
+Submission created utc: 1523305842
+Submission score: 3
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523307518	6	Have you considered the BTC/EUR market on Kraken? It’s the most liquid and active EUR market, and margin trading is available (if you are into that sort of thing). 
+1	1523308929	1	I hadn't no. I'm scared/dubious of margin trading, probably because I don't understand it, but mainly due to the ability to lose a lot of money in one very quick fell scoop.
+2	1523314176	1	Yeah, that's exactly what's very likely to happen. It's buy the top - sell the bottom on steroids.
+1	1523352265	0	ROFL, the last thing you want to do is Margin Trade on fucking Kraken. Do you know what happens when shit hits the fan, some big sort of news comes out and people mass spam their exchange to take action? Kraken goes down. That's what happens. To this day, every single time. Right now it runs fluently, that's because there's little traffic. Good luck trying to close/open positions upon discovering siginificant news. Kraken is pure suck industry leader.
+0	1523336606	2	Why not BTC/EUR on Bitstamp?Also, do your TA on Bitfinex USD, no matter where you are actually trading. 
+0	1523310698	1	I’m not American but I only trade BTC / USD.  Deep markets are far better.  

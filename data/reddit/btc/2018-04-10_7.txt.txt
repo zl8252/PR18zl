@@ -1,0 +1,14 @@
+File created at: 1523388154
+Subreddit: btc
+Submission title: Introducing cashnodes.io A new resource for #BitcoinCash full-node network information and statistics. Thanks to @sickpig and colleagues.🍾
+Submission created utc: 1523361154
+Submission score: 87
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523363526	10	Looks pretty cool.
+0	1523371767	5	Must admit that the website is neat.
+0	1523378471	5	Click on the number of nodes and you'll be redirected to a search-able full list of BitcoinCash full-nodes.
+0	1523379355	3	looks very cool, but maybe there should be more xt nodes
+0	1523384698	0	Was already introduced: https://www.reddit.com/r/btc/comments/88y832/ive_just_discovered_cashnodesio_that_is_hosted_by/
+0	1523386034	0	Why do you bother with full nodes? I thought those were only slowing down the network? Aren't miners are the only ones that should be running full nodes?
+0	1523386914	1	lol, why bother?no one can run a full node with 32 mb block size anyway. but dont be sad, jihans mining farms in china will check your 0-conf transactions, all you gotta do is trust jihan :))

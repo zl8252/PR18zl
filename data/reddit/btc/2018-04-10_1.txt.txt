@@ -1,0 +1,112 @@
+File created at: 1523388147
+Subreddit: btc
+Submission title: @Bitcoin seems to be restored
+Submission created utc: 1523300825
+Submission score: 316
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523302727	61	I hope so and hope that the same oldie is still in control. I also would hope that some people wouldn't jump the gun so fast with a certain level of accusatory theories when we didn't know (still don't know) what happened.
+1	1523307720	20	> hope that the same oldie is still in controlWe have no way of knowing, so stay vigilant. Within the first hour of coming back a blacklist was offered to help "clean up cryptotwitter".If compromised, thousands of people are still likely to assume good faith and follow through to voluntarily allow a 3rd party to control what to censor from their timelines.
+2	1523309397	1	I did the very scientific method of sampling 1% of the usernames and would say that even if you block a few good account the list will probably be very valuable 😁
+3	1523316565	5	I think the point /u/JonathanSilverblood is trying to make is that, although valuable today, if the account is compromised this could change in the future.
+4	1523340921	6	If compromised today, the most successful strategy is to immidiatly simulate previous behavior and restore trust by 95%+ of the people, then sneak in censorship silently and slowly.
+4	1523317045	2	I was mostly kidding but that's a valid point that did not occurred to me as I -- not being an avid Twitter user -- though you could copy that list.
+1	1523311258	22	Hijacking top comment since the thread about this seems to be getting downvoted to reduce visibility:https://twitter.com/Bitcoin/status/983445395664723968?s=20@Bitcoin has a Troll block list that can be added to your own twitter account with a single click.  Everyone needs to use this.  Everyone. Please go there and click the button. These guys will hogpile on any of your comments and “report” you unless you have them blocked, and I’ve had my account suspended for 12 hours a few times already as a result.  Additionally, correct me if I’m wrong, but it may reflect adversely on the troll accounts if Twitters algo sees they’ve been blocked by hundreds of people. Let’s clean up crypto twitter.  Be proactive. 
+2	1523318345	23	I'm very hesitant to use a block list published by an account that was just hacked. 
+3	1523347886	3	This. Who's on that block list? Has anyone vetted it?
+3	1523361558	0	I'm very hesitant to use a block list by _anyone_.First they came for the scammers, but I am not a scammer, so I did not speak up.  Then they came for the "trolls", but I am not a troll, so I did not speak up.  Then they came for dissenters, but I do not dissent, so I did not speak up.  Then they came for me, and there was no one left to speak up for me. 
+2	1523322649	6	I would add to that...  if you see someone claim they reported @Bitcoin or are encouraging others to, that is targeted harassment.  Please report those tweets...Report Tweet -> It’s abusive or harmful -> It’s targeted harassment.
+2	1523313550	8	Censorship is bad. That's why this sub exists
+3	1523314414	22	Choosing not to listen to someone isn't censorship, especially when that person has the power to hurt (report) you.
+4	1523327884	3	This subreddit moans about supposed "censorship" on the daily so seeing this post upvoted really is hilarious.
+5	1523331374	5	>supposed "censorship"Says the guy who clearly doesn't understand what censorship actually is. 
+6	1523331726	-4	I do know what censorship is, it's something only governments can do. Which apparently nobody in this sub understands. Even Roger "Voluntarist" Ver doesn't get it.
+7	1523339032	6	*Censorship is the suppression of speech, public communication, or other information, on the basis that such material is considered objectionable, harmful, sensitive, politically incorrect or "inconvenient" as determined by government authorities or by community consensus.[1]**Governments and private organizations may engage in censorship. Other groups or institutions may propose and petition for censorship. When an individual such as an author or other creator engages in censorship of their own works or speech, it is referred to as self-censorship.*https://en.wikipedia.org/wiki/Censorship
+8	1523379355	0	Do you usually bring up Wikipedia paragraphs with 0 citations when discussing ethics?You'd have to be against property rights to believe in "private censorship". You are not owed a platform. If you kick me out of your house, that is not censorship. If a book publisher refuses me a book deal that is not censorship. If a subreddit bans me, you guessed it, not censorship.
+9	1523384646	1	> Do you usually bring up Wikipedia paragraphs with 0 citations when discussing ethics?https://www.aclu.org/other/what-censorship 
+4	1523322505	3	In this case if you subscrive to @bitcoin´s list he decides who you wont listen to and in the other case you subscribe to r/bitcoin they decides who you wont listen to. What is the diffrence?  
+5	1523322761	1	I'm trusting someone's judgement on something relatively trivial. I don't like twitter to begin with, and if @bitcoin ever does something to break the important circle of trust that is my twitter block list, I'll just click undo, and get to see all those wonderful people again.
+6	1523324439	2	same as unsubbing from rbitcoin
+4	1523347604	0	You are also proactively banning them from being apart of your conversation.
+5	1523364567	1	Sure, kind of like how an author gets to decide what to include in a book, or how a blogger can dictate who is allowed to comment on their blog.Twitter is basically a blogging platform with a bad UI, bizarre character limits, and mysterious blue checkmarks.
+6	1523364980	0	Or how a forum operator can decide what to include in his/her forum?  
+7	1523365261	3	No, the difference with a forum operator is one person is making the choice for everyone else, in a particularly opaque way in the case of rbitcoin. If the forum operator made a list, and sent it to all the members, and *suggested* they block that person. It would be like that.When I block someone, I am making a choice for that only effects me. The forum operator is dictating and forcing everyone to participate in his blocks.
+8	1523368616	0	When you block someone on Twitter, they cannot read your comments or the any of the comments that are made in response.  You are making the choice for everyone that chooses to associate with you, on the case by case that they decide to respond to you. So that degree, Twitter is like a place where everyone is a sub and a mod, and they communicate with each other.Just because the block button does not literally read "censor" on it, does not mean that it is not a tool to do so.
+2	1523316337	1	Are these ETH giveaway spam accounts or just disagreement accounts?
+3	1523326432	3	ETH giveaway spam accounts, people posting pictures of vomiting and shitting, and people spamming stuff like "bcash is btrash".
+1	1523355453	2	This is my accusation, and it isn't baseless: Twitter is an absolute travesty of a platform. Bannings, often politically motivated, an anti-free speech activist in charge who hires like minded individuals to patrol and manipulate content through selective "tweaking" of their algorithms or outright censorship. What well-informed individual in their right mind would put in the time and energy to build up a following when they could be deleted at the whim of a power hungry censor?Twitter belongs in the shitter. Love live yours.org, gab.ai, bitchute.com etc.
+0	1523312382	9	It might be too late now but the account owner should have provided a public key already, so we could verify ownership while maintaining it anonymous. This is crypto people, act accordingly.
+0	1523301710	26	The old followers still seem to be there, but the counter is wrong because they nuked the account and it needs to re-cache.I saw it back when there were "**8**" followers and there were definitely several hundred followers lazy loading from the follower page. There seems to be a pattern of taking out legit github and twitter accounts over the weekend when tech support is light and trolls are out in force.  
+1	1523303927	14	I can see 50k followers right now. Looks like the account has been fully restored.
+2	1523310666	6	211k and counting.
+2	1523304020	5	It's getting back slowly... a couple more to go ;) Oh I wanna see the face of those BTC trolls now... :D 
+1	1523308757	12	I was following @bitcoin before the suspension. After it came back my account was no longer following and I had to re-follow. Not sure what that means, but wanted to share. 
+2	1523311212	1	Seconded
+2	1523312417	4	Same here. 
+1	1523339260	1	Do you know the original count? It’s up to 825k now.
+0	1523304049	13	YES!!! This made me very happy! :DStill, was there corrupt action here? Are Twitter going to sweep it under the rug as a mistake? Or was it hacked or something?
+1	1523308584	9	I don't follow Twitter that much but automated account deletion (available to be taken) is not very probable. If it was hacked, they would simply lock him out, as keeping appearances is very valuable. So I'm quite without words about what happened... 
+2	1523325959	3	Yeah it looked like it was cleared completly and some Russian guy took the account for a few days.. 
+0	1523302292	8	Seems to be, but I'll wait and see what happens. It's not all the way restored yet and my faith in Twitter isn't what it used to be. :/
+1	1523307101	20	When I started accepting Bitcoin payments, I never expected any of this:* Propaganda* Division* CensorshipI feel like I accidentally stepped into a "war" zone. The creation of SegWit and Bitcoin Cash, along with the censorship of @Bitcoin and praise of such censorship only proves my point.It's saddening. I only came to talk about Bitcoin, but I feel like I've stepped into something... different. I can't be the only one, right?
+2	1523309417	7	You are not alone.  Many invested at levels twice the current price.  They are scared, angry, and frustrated.We're here to talk about making Bitcoin Cash successful by spreading adoption and innovation.
+2	1523310134	2	You are not alone. But don't let it put you off. Follow your gut instinct. As you say, it's saddening and you have indeed stepped into something. It feels wrong because it IS wrong. BTC has been bent over a table and fucked beyond all recognition.
+2	1523318518	1	A lot of us here fought for *years* to avoid this mess, but corporate agendas forced it while hijacking the Bitcoin project for their own ends, and they are still attacking us relentlessly even though Bitcoin Cash voluntarily forked. If anything the attacks are now even worse than ever. Unfortunately altruism doesn't win you many prizes in this space so far against those petty and amoral enough to use any means available to bury you no matter how grotesque the result.
+2	1523321857	1	Money-printing is a profitable business and Bitcoin has been in the middle of that since before its creation.
+2	1523344489	0	There are a lot of people heavily invested at prices at around the time when BCH was $3,000 and won't stop campaigning and selling their brand of coin until at least the price returns to that break-even level. Currently the price of BCH is $634 so we're looking at a 500% increase in price before all of this activity levels off, and a 10,000% increase before it has a chance of overtaking legacy Bitcoin (BTC).It's a bit like paying a large buy-in to play in a game of poker using your life savings that you can't withdraw from. Sure a lot of people say they only invested what they can afford to lose, but the activity of users here angrily attacking each others coins and calling others trolls on the slightest evidence (e.g. trolldetectr bot and cryptochecker) instead of promoting their own coin says otherwise.
+2	1523311866	0	Hard forks cause division.
+3	1523320455	1	Not at all. The LTC folk didn't cause any division as far as I know. 
+2	1523311287	-3	[deleted]
+3	1523313557	1	You realize that exactly the same can be said about BTC? Or any other coin for that matter? Bitcoin Core members started censoring the original sub and banning users, and Greg Maxwell pulled the same shit on bitcointalk.org. That started it all.
+4	1523314653	-2	I do realize that its more prevalent here compared to Dogecoin or Litecoin subreddits since those altcoins are not as similar to Bitcoin as we are.
+5	1523337595	1	I don't know about doge, but the Litecoin sub is no better, sorry, I visit there regularly because I still have a soft spot for it. I used it a while before BCH existed because it is faster and more lightweight than BTC.
+1	1523309137	4	Twitter is the cancer of the internet.
+0	1523301423	12	Now i can say I was one of the first Bitcoin followers :D
+0	1523303939	16	Hahaha amazing! And trolls are working overtime to downvote :D :D :D ... who actually cares... BCH community for the win!! ;) 
+1	1523322028	3	Is this twitter account about bitcoin or bitcoin cash or both?
+2	1523329115	5	It's usually Bitcoin Cash side of the debate but he tweets big news from either camp.
+3	1523331432	2	Ok cheers! 
+1	1523311302	7	Block them using this:https://twitter.com/Bitcoin/status/983445395664723968?s=20
+0	1523301931	11	Make @Bitcoin great again.    Where are all the followers? :(
+1	1523302322	11	Slowly coming back it seems... not sure yet though. Update: it's the same account id as before, so that's a really good sign. I believe things are being restored and the changes just need to propagate (I hope!). 
+0	1523301120	5	Followed again, sadly all followers are gone.. 
+0	1523307547	5	Everything will come back to normal soon, it's normal after the suspension for follower counts to not appear as before it takes time to sync. Congrats! :)
+0	1523312698	2	[This guy is awesome.](https://twitter.com/Bitcoin/status/983434703456923648)
+0	1523303707	3	List of followers is growing quickly!
+0	1523301160	2	Yeah although all the followers have been nuked.
+0	1523302464	2	what happened to all the followers?
+0	1523317904	2	Now he just needs to start tweeting things to educate rather than troll the trolls.
+0	1523317939	1	Seems like you are right. Thanks for the news, I'll go back to trading now haha.
+0	1523319050	1	Is there any way to verify the account has not switched hands?
+0	1523319488	1	 A new account using the same username began posting nonsense Community&media outrage ensued
+0	1523380888	0	Why doesn't Ver just use a @BitcoinCash handle instead of misleading people into thinking @Bitcoin represents BCH? 
+0	1523301214	1	ahhh.... so now @bitcoin is compromised? Let's see what it tweets next. 
+1	1523308906	3	When the BTC variant of Bitcoin becomes compelling I'm sure it will start tweeting favorably about that again. BTC just needs to appeal to that one person. It should be easy with all the good things coming for BTC. Any day now. 
+2	1523321475	1	I took this as sarcasm, but I’m not sure 
+3	1523323495	1	If you really need to add /s then it's pointless :/ [laughs] Oh well, it's life around here! [applause]Edit: Since I responded, my obviously well hidden but satirical point was "if BTC had strong arguments then either @bitcoin would have remained silent or would be a BTC suporter". 
+4	1523327085	1	Yeah thats how I took it but the downvotes threw me off.
+0	1523305106	1	Where are all the followers?
+0	1523305610	1	Hush hush...
+0	1523306517	1	How many followers did @bitcoin have before this happened? I wasn't subscribed before but I am now...
+1	1523306711	3	776K https://web.archive.org/web/20180217215150/twitter.com/bitcoinSummation is a computationally difficult operation with an sql database. It's likely that the old followers are still there and the 'followers' which is stored in a keystore needs to be reset.
+2	1523309784	1	> Summation is a computationally difficult operation with an sql database.Only if you fail at SQL. Index-only aggregations are pretty standard now.
+0	1523317929	0	Looks like poor Charlie Lee is going to be doing a Dragon Ball Z marathon with a gallon of ice cream all night.
+0	1523342884	0	I find it funny that it starts spamming false information about lighting network....  It's like it's asking to be reported for spamming
+0	1523309339	-17	Good going team, Rodger shouldnt be silenced ever
+1	1523316600	2	Aren't you busy bag hodling useless fake bitcoins and circle jerking on your favorite censored shithole?
+2	1523324786	2	Still choosing the loosing team knight222?[Your last bet with me] (https://www.reddit.com/r/btc/comments/5r2opy/one_miner_loses_12k_from_bu_bug_some_core_devs/dd4idyk/)didnt work out ....*for you* Banevoice.mp3Care to make another bet?I think Bitcoin Cash will continue to loose value over 90 days and will be worth less than it is today (0.09454330 BTC) or $636
+3	1523326638	3	The bear market is far from being over even for BTC but that doesn't matter much for me because I am not a bag hodler  but an honeybadger caring only about getting his ways. And right now BCH is more useful than your useless fake bitcoins 😂.So right now I'm pretty much in the winning team that actually use Bitcoin as Cash 🙂.Don't be so angry though, you just can't stop the honeybadger 😘, $0.25 /u/tippr
+4	1523326683	3	u/luckdragon69, you've received `0.0003929 BCH ($0.25 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+5	1523327279	1	RemindMe! 90 days "Knight222 dosnt want to commit to another bet with me, i understand, but Ill remind him anyways that I said BCH would be worth even less Bitcoin BTC than it is today"
+6	1523327288	1	I will be messaging you on [**2018-07-09 02:28:06 UTC**](http://www.wolframalpha.com/input/?i=2018-07-09 02:28:06 UTC To Local Time) to remind you of [**this link.**](https://www.reddit.com/r/btc/comments/8b11q4/bitcoin_seems_to_be_restored/)[**CLICK THIS LINK**](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[https://www.reddit.com/r/btc/comments/8b11q4/bitcoin_seems_to_be_restored/]%0A%0ARemindMe!  90 days ) to send a PM to also be reminded and to reduce spam.^(Parent commenter can ) [^(delete this message to hide from others.)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete Comment&message=Delete! dx3umey)_____|[^(FAQs)](http://np.reddit.com/r/RemindMeBot/comments/24duzp/remindmebot_info/)|[^(Custom)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[LINK INSIDE SQUARE BRACKETS else default to FAQs]%0A%0ANOTE: Don't forget to add the time options after the command.%0A%0ARemindMe!)|[^(Your Reminders)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=List Of Reminders&message=MyReminders!)|[^(Feedback)](http://np.reddit.com/message/compose/?to=RemindMeBotWrangler&subject=Feedback)|[^(Code)](https://github.com/SIlver--/remindmebot-reddit)|[^(Browser Extensions)](https://np.reddit.com/r/RemindMeBot/comments/4kldad/remindmebot_extensions/)|-|-|-|-|-|-|
+6	1523332018	1	Are you replying to a bot? Lmao
+2	1523352956	1	That's pretty bold considering Bitcoin Cash is at 0.093BTC.
+0	1523350894	-1	Perhaps this latest 'shot over the bow' will wake up a 'certain someone' and the account will now be used in a more responsible manner and not for spreading malicious propaganda. If something doesn't change I would not be surprised if Twitter permanently deletes the account.
+0	1523312430	-16	It doesn't matter. Bcash is still a 8hitcoin with zero real usage.
+1	1523313643	5	Let me pull a /u/cryptochecker
+2	1523313658	3	Of [u/ian_bondz](https://www.reddit.com/u/ian_bondz)'s last **0** posts and **233** comments, I found **0** posts and **233** comments in cryptocurrency-related subreddits. Average sentiment (in the interval -1 to +1, with -1 **most negative** and +1 **most positive**) and karma counts are shown for each subreddit:Subreddit|No. of posts|Avg. post sentiment|Total post karma|No. of comments|Avg. comment sentiment|Total comment karma:--|:--|:--|:--|:--|:--|:--r/Bitcoin|0|0.0|0|10|-0.01|25r/btc|0|0.0|0|223|0.1|-312***^(Bleep, bloop, I'm a bot trying to help inform cryptocurrency discussion on Reddit.) ^| [^About](https://www.reddit.com/user/cryptochecker/comments/7q3jum/faq_about_ucryptochecker/) ^| [^Feedback](https://www.reddit.com/message/compose?to=jamcowl&subject=cryptochecker%20bot) 
+2	1523356406	0	This is eerily similar to the chinese social points system.
+3	1523359485	1	You mean the karma of -100?
+2	1523317379	-8	I prefer to accumulate real Bitcoin BTC.You go ahead and accumulate reddit karma. Let me know how it works out for you in the long run. ;)
+3	1523337355	2	I'm not interested in accumulating karma. I'm interested in a censorship-resistant Bitcoin supported by a non-censoring community.
+0	1523307108	-17	Eat that you core fucktards!

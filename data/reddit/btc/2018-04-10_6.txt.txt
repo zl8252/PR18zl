@@ -1,0 +1,17 @@
+File created at: 1523388153
+Subreddit: btc
+Submission title: Almost everyday now a new BCH project pops up. We need a website like acceptbitcoin.cash to keep track of these new projects
+Submission created utc: 1523352851
+Submission score: 131
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523355840	13	[https://github.com/dsmurrell/awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash)  is a great resource.Thanks for recognizing the [AcceptBitcoin.Cash](https://AcceptBitcoin.Cash) site. It’s been a lot of effort keeping up with the daily updates, so much excitement in the air
+1	1523356316	9	Acceptbitcoin.cash is where I go when I am searching for a BCH business such as a vpn or a domain site. Keep up the good work. 
+2	1523356490	10	We released an update last night, should be a bit snappier and also we have a [stats.json](https://AcceptBitcoin.Cash/stats.json) available to help see a general overview by some of our followers. It was built for the idea of allowing better insight into the updates to the site for the BCF to keep track of merchant adoption numbers and to foster some questions in peoples minds about what might they be able to use it for. Personally I am honing to use it to help quickly run some numbers when people ask about them, which happens a lot
+0	1523356055	7	I listed 26 of the main developments just from last week. . . making a new list for this week: https://www.yours.org/content/26-major-bullish-developments-in-the-bitcoin-cash-ecosystem-last-week-f8222e4a4509
+1	1523362216	1	> Prince moves
+0	1523375587	3	It's a terrible idea to make votes public, that way it's possible to sell votes.
+0	1523363714	3	[coingecko](https://www.coingecko.com/en?sort_by=market_cap) lists under "Developer": **Bitcoin (BTC)  98%** **Bitcoin (BCH)  70%**It seems like the numbers haven't been updated to reflect the growth in BCH development, nor the "maturing" of BTC. Those numbers should really  be the other way around now. If you are posting numbers in this thread, please drop coingecko support a line also. 
+1	1523367203	4	Scrolling down and seeing lots of shitcoins having 70-80 % developers makes me highly doubt that this is a good metric.
+0	1523371888	1	Definitely agree. So much happening in the ecosystem right now. Utility matters :D 
+0	1523377520	1	I have a domain that could be used. bchbrand.com / .org. I've had it parked while working on another side project. Let me know. 

@@ -1,0 +1,50 @@
+File created at: 1523388152
+Subreddit: btc
+Submission title: Hi r/btc. We are launching Atlantis, the easiest way to start accepting BCH 0-conf payments from customers all over the world
+Submission created utc: 1523340525
+Submission score: 173
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523351368	21	Your service looks great but $100 monthly subscription for businesses in developing world is too steep.
+1	1523373002	3	We haven't finalized pricing plans yet. We will put out a pay as you go service and pricing models later. Right now, its free so you can use our service to start accepting payments. Thanks for the different pricing ideas.
+1	1523366851	2	The most common way to offer the service to everyone is to make it "free" or reduced cost if your sales are below X dollars. The subscription could scale up to $100/mo for the most active accounts and remain affordable for those who would never pay it.
+1	1523372570	2	I run a small business and I won't even use a credit card service that charges $10/mo. They already get a 3% cut of every transaction, there is no reason they can't operate on a fixed fee. Their systems are not regularly burdened by inactive accounts.
+0	1523352701	8	Sounds great! But I guess a smart pricing would be to also offer businesses to only pay as customers actually use it. There should be some threshold until it's free so businesses don't have to think twice if it's worth it but just try it.These $100 could be an upper bound and before that each tx is like $0.05 or so. With such a model you could even set that upper bound higher.
+1	1523387427	1	Ya, that seems to be a good idea. I am worried about that pricing being difficult to understand vis-a-vis flat monthly subscription pricing. 
+0	1523347499	10	Sounds wonderful. Is that the first double-spend-auto-detect on the market?Forgive me on mobile - it seems the key and most difficult step is for a merchant to get an xpub to you. Could you outline or share a link that demonstrates one case for this process?
+1	1523348928	4	I guess so, not so sure but it's very reliable. The merchant generates an xpub within our dashboard. Once a merchant logs in, an xpub is generated on the client side. The merchant has to save the mnemonic and can import that into any standard wallet to track/spend. 
+2	1523349083	2	I see. Thanks!Do merchants have a way to verify that their private key is not being leaked?
+3	1523349710	2	Not yet. That's on the list of features. We want to provide the option for merchant to upload his xpub so that he is assured the private key is safe. 
+4	1523350034	3	Ah, that’s what the future feature means? Then the merchant can choose to trust your generated wallet or not, right? Thank you for explaining.I wonder if one of the client-side wallets could provide a hook where you could use them to generate the key as easily as doing it yourself?In any case, best luck with adoption. 1000 bits u/tippr
+5	1523350083	2	u/redditdabbler, you've received `0.001 BCH ($0.632206 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+4	1523351254	2	>  We want to provide the option for merchant to upload his xpub so that he is assured the private key is safe. Why would this feature not be required at launch by default?  It seems like a no-brainer.
+5	1523375238	1	I think this is more towards merchants who don't understand Bitcoin to start accepting it and moreover most of the standard wallets out there doesn't give an option to export your xpub.
+1	1523348760	-1	I thought there are already such services, like gap600.com . 
+2	1523348889	5	Holy shit that was a lot of redirects. I shut it down as fast as I could :(Is that an integrated merchant solution like they are offering here?
+3	1523350436	6	> "GAP600 scores and guarantees bitcoin transactions published on the network. Enabling bitcoin service providors [sic] to accept zero confirmed btc trx's in real-time."Source: @BTCGAP600 twitter profile descriptionI'm going to dump some more info from their home page:> Eliminate Double Spend and Block Inclusion Delays> Our service provides financial guarantee for transactions with no need to be concerned about block inclusion time and potential double spend. GAP600 enables bitcoin users to experience bitcoin like they experience all other digital services - without delay. We analyze and score every single bitcoin transaction on the network and guarantee the value of that transaction regardless of whether it's included in a block.> FEATURES> - We are insured - GAP600 Ltd technology is insured by USA based underwriter> - Proprietary real-time risk engine analyzing and confirming bitcoin transactions> - Robust Infrastructure in a secure environment> - Pay as you go & discounted Enterprise packages> - API-based connection> - Flexible risk management subscriptionsThe home page links an overview diagram which you may be able to view without all the redirectshttp://gap600.com/wp-content/uploads/2017/03/GAP600ServiceFLow1-1024x626-c.jpg__NOTE: I make no claim as to the accuracy of any of this information, only that it seemed to me that services providing 0-conf guarantees to merchants already existed.__
+4	1523351627	1	Thanks for that! Looks like a b2b type service right? Maybe these guys are even using it or something like it on the backend.
+5	1523352973	2	> Looks like a b2b type service right?yes, looks like that to me.
+0	1523350308	5	How exactly are you protecting 0-conf txs?
+1	1523350427	4	It just verifies that there is no double spend attempt on the network after a few second, because of the first seen rule that miners abide by it is improbable that the tnx will not be confirmed.
+2	1523350966	1	What stops a rogue miner from including a double-spend instead?
+3	1523354790	6	Nothing.0conf includes some level of risk, like any payment method.
+3	1523352086	5	The rogue miner's block may get orphanedhttps://www.prnewswire.com/news-releases/coingeek-takes-a-pre-emptive-stand-against-dishonest-practices-677819203.html
+4	1523352396	6	Coingeek will get majorly rekt if they actually implement this as a minority.The real answer is the probability of getting a rogue miner doublespend is so low, and the collusion so difficult to pull off, and the consequences prosecutable, it's unlikely for people to try.
+5	1523354975	5	Orphan block with double spend sound like a bad idea.It could become an easy attack vector if someone wanted to waste miner work by tricking them into orphaning each other blocks..
+6	1523374923	3	Yup, it's an even worse idea if adopted by majority. The network can be fractured for a very low cost. 
+5	1523371491	2	It doesn't even have to be prosecutable for the market to inflict consequences. 
+4	1523352320	2	This is a dubious proposal as the whole point of PoW is to decide on the order of things.
+5	1523371770	2	PoW is the ultimate timestamp. But first seen first accepted is an amplifier in that regard. Much simpler than LN. 
+6	1523376508	1	You cannot "amplify" order because it's not an analog function.This is a horrible idea that comes from somebody who doesn't understand why decentralized consensus is hard.If all the miners follow this policy, an attacker can start sending multiple double-spend txs to different parts of the network. This will ensure that every miner sees a different version of "reality". This, in turn, will make them start orphaning each other's blocks.So not only it doesn't improve 0-conf reliability it causes the whole god damn network to become slow and unreliable! People will stop trusting even 1-conf txs!
+4	1523355601	-1	Thats an excellent idea. Go for it.Lol
+3	1523371364	1	The incentives are such  that a miner will never do this probabilistically. 
+0	1523354764	5	Game changer will be the really free service based on donation or really low cost (cents)
+0	1523354083	3	What is the double spend bonus feature? 
+0	1523361510	2	Are you also taking into account other factors other than just 'seeing' a double spend? E.g. marking a transaction as suspicious if the fee is 0 sat/b for example or whether the tx. is spending unconfirmed outputs.Instead of you guys generating addresses you might want to consider an API like [https://live.blockcypher.com/btc/tx/48306c79bf207751752287c0bb1ff5f336c23ec65379b7b8bb871d2afa3e9f5e/](https://live.blockcypher.com/btc/tx/48306c79bf207751752287c0bb1ff5f336c23ec65379b7b8bb871d2afa3e9f5e/) where a user can query a tx. id and it returns a confidence factor and other tx. stats. They do not seem to have BCH support yet, but I imagine it must be trivial for them to add.
+0	1523362798	2	hang on a second. your website says you are a bank. 
+0	1523371785	2	Great idea 
+0	1523378522	2	The merchant gets paid automatically and we have no way to seize/stop/censor any payments
+0	1523356610	1	Atlantis, that reminds me of the first darknet market right after the rise of Silk Road. For unknown reasons, they suddenly asked everyone to withdraw their coins and disappeared forever.
+0	1523356830	1	>  Peter Thiel says the cost of switching is so high that the benefits should be 10x better. I hope you make the cost of switching 10x easier by integrating with Shopify.
+1	1523387257	1	We are thinking about integrating with major e-commerce providers such as Shopify/Wordpress. We are hoping to get other developers who can do this quickly and pay them for the plugins. Any advice for us?
+0	1523379436	1	What happens if you have downtime? Will all transaction be stopped?

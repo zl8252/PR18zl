@@ -1,0 +1,51 @@
+File created at: 1523388184
+Subreddit: CryptoCurrency
+Submission title: Golem Release Brass Mainnet on Github
+Submission created utc: 1523359921
+Submission score: 217
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523364868	26	This is awesome news :) Finally
+0	1523364887	44	You can earn GNT now by running the program in the background on your pc! Good job Golem team :D
+1	1523369728	4	How would one go about doing that? :) 
+2	1523373826	8	You literally just have to click the link above and download the software for your OS: Windows (golem-0.15.0-windows.exe) , mac (golem-0.15.0-macOS.tar.gz) or linux (golem-0.15.0-linux.tar.gz)
+3	1523385144	1	I have port forwarded but when I click accept on terms nothing happens.
+3	1523375290	0	what kind of windows would you need? 10? my win7 is not supported
+1	1523374174	2	Is there any work on it?
+1	1523383261	1	How long does it take? Foes it require a powerful pc?
+0	1523373974	18	Golem seems very undervalued, vaporware coins are even higher on cmc. 
+1	1523379557	3	Hard to believe, but true.
+0	1523366211	10	Go Golem!
+0	1523369139	20	I don't hold any GNT anymore because progress seemed to take forever. But i'm actually rooting for you guys as this was my first alt. Congrats!!!
+1	1523373162	3	It was my first alt too. Watched it drop 50% over the period of a couple months during a bull market...
+2	1523379187	2	It all depends on when you got in, like everything.It traded at 1 or 2 cents for quite a while before the big run, that was the buying window.
+3	1523380660	1	Not really. the window when it out performed general Eth performance was very, very small. 
+4	1523387171	1	I’m comparing it to USD in the example, you’re completely right on the ETH performance though.
+0	1523364584	27	This is now one of the few projects that actually has an app yet, congrats to the team behind it!
+0	1523364487	13	my precious!
+0	1523367806	6	And the price of [Golem](https://coinlib.io/coin/GNT/Golem+Network+Token) price is up almost 24% in the last 24hrs. Good news for GNT.
+1	1523384753	1	I hoped for a slower increase :(   Don't kill golem
+1	1523384762	1	I hoped for a slower increase :(   Don't kill golem
+0	1523377806	6	Great news, this is to all those who hated on this project.
+0	1523383517	3	Congrats. I guess we can count SONM out now. Now I wish i had put my money into GNT instead...
+1	1523384489	0	Not really though, golem brass is only for rendering not general compute, which is still miles away. Great achievement today, nevertheless.Afaik, iExec will have the first general compute marketplace release in May and SONM will be around August. Golem has no date set for it, but probably not in 2018. Will be interesting to compare the performance of all three when they're out.
+0	1523373234	6	good, time to buy
+0	1523373517	5	Golem is probably the dapp with the most potential right now. 
+0	1523371397	2	Has anyone being able to use the app ?Here is the issue I'm having : https://github.com/golemfactory/golem/issues/2610
+1	1523373645	3	Yes, it's running nicely.  Go to their [Rocketchat](https://chat.golem.network/channel/testers) and ask in the "testers" channel and they'll help you out.
+2	1523373959	1	Thanks, i'll try this
+1	1523373481	2	I had that issue on Windows, just restarted the app and it worked.
+2	1523373602	1	I've restarted it 4x, but it's not working stillOne collaborator just answered me on the github issue, maybe he'll find out what to do !
+0	1523374926	2	if you hold GNT in erc20 is there anything you need to do?
+1	1523379227	1	No
+0	1523381740	2	A rare gem. Low cap but with a mainnet already launched. Will be doing some research on this soon.
+0	1523373682	1	Nice! 
+0	1523375796	1	I don't get it, why does it need VirtualBox? 
+0	1523377116	1	Since I have SSD and HDD which disk is Golem using?
+0	1523377373	1	Whats  the best exchange for golem (USA), it seems like its on a bunch but i dont know anything about them
+1	1523379234	1	head over to r/golemtrader where people can answer that.
+1	1523383474	1	I enjoy using bittrex lil bit higher fees but it is what it is.
+0	1523361488	-7	Sorry mate, I don't think so: https://twitter.com/golemproject/status/983332190166704129?s=19
+1	1523362443	12	Righthttps://twitter.com/golemproject/status/983676429715083265
+2	1523365697	6	Watch out for the @golemprojct fake account in the replies.
+2	1523371880	2	I am very sorry and shall eat my hat in shame :)

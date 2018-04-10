@@ -63,3 +63,9 @@ Najvišja najnižja cena:
 
 Opazimo da se ceni obeh tržišč razlikujeta le za nekaj evrov, ter da sledita enakim trendom (če se zviša ena se zviša tudi druga).
 
+### Reddit Podatki
+
+#### Daily Discussion
+
+![Št. Level_0 komentarjev](assets/daily_discussion_st_komentarjev.png)
+

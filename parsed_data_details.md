@@ -1,5 +1,11 @@
 # Parsed Data
 
+data_days = [
+    "2018.4.1"
+    "2018.4.2"
+    ...
+]
+
 *_days = [
     [0] day0
     [1] day1

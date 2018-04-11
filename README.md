@@ -63,9 +63,14 @@ Najvišja najnižja cena:
 
 Opazimo da se ceni obeh tržišč razlikujeta le za nekaj evrov, ter da sledita enakim trendom (če se zviša ena se zviša tudi druga).
 
-### Reddit Podatki
-
-#### Daily Discussion
+### Reddit Daily Discussion
 
 ![Št. Level_0 komentarjev](assets/daily_discussion_st_komentarjev.png)
 
+Število level 0 komentarjev je pri /r/CryptoCurrency večje. Pri obeh subredditih se ob enakih dnevih poveča/zmanjša število komentarjev.
+
+### Reddit Komentarji po dnevih
+
+![Št. komentarjev po dnevih](assets/subreddits_st_komentarjev.png)
+
+Ugotovil sem da na /r/btcNews nihče ne komentira. Ta subreddit bom zaradi tega razloga v nadalnih analizah izpustil

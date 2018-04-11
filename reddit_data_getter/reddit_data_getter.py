@@ -7,7 +7,7 @@ def create_submission_file(subreddit, submission, file_name):
     subreddit_name = subreddit.display_name
     submission_title = submission.title
 
-    file = open("./../data/reddit/{}/{}.txt".format(subreddit_name, file_name), mode='w')
+    file = open("./../data/reddit/{}/{}".format(subreddit_name, file_name), mode='w')
 
     # saves some meta information
     file.write("File created at: {}\n".format(int(time.time())))

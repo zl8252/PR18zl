@@ -1,13 +1,14 @@
 import praw
 import re
 import time
+import subprocess
 
 
-def create_submission_file(subreddit, submission, file_name):
+def create_submission_file(subreddit, submission, folder_name, file_name):
     subreddit_name = subreddit.display_name
     submission_title = submission.title
 
-    file = open("./../data/reddit/{}/{}".format(subreddit_name, file_name), mode='w')
+    file = open("./../data/reddit/{}/{}/{}".format(subreddit_name, folder_name, file_name), mode='w')
 
     # saves some meta information
     file.write("File created at: {}\n".format(int(time.time())))
@@ -93,17 +94,17 @@ def save_comments(file, depth, comments):
             save_comments(file, depth + 1, sub_comments)
 
 
-def save_submission(subreddit, submission, submission_number):
+def save_submission(subreddit, submission, folder_name, submission_number):
     print("Saving submission")
     print("subreddit: ", subreddit.display_name)
     print("submission: ", submission.title)
     print()
 
     # creates filename
-    file_name = time.strftime("%Y-%m-%d")
+    file_name = folder_name
     file_name = file_name + "_" + str(submission_number) + ".txt"
 
-    file = create_submission_file(subreddit, submission, file_name)
+    file = create_submission_file(subreddit, submission, folder_name,  file_name)
 
     top_level_comments = submission.comments
 
@@ -111,8 +112,15 @@ def save_submission(subreddit, submission, submission_number):
 
 
 def save_subreddit(subreddit):
+    # creates folder
+    folder_name = time.strftime("%Y-%m-%d")
+
+    subprocess.Popen(["mkdir", "./../data/reddit/{}/{}".format(
+        subreddit.display_name,
+        folder_name)])
+
     for i, submission in enumerate(subreddit.top(limit=10, time_filter="day")):
-        save_submission(subreddit, submission, i)
+        save_submission(subreddit, submission, folder_name, i)
 
 
 reddit = praw.Reddit(

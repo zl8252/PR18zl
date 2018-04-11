@@ -1,0 +1,7 @@
+File created at: 1523472327
+Subreddit: BitcoinMarkets
+Submission title: New indicators on Bitgur Customizable Watchlist. Now you can add ATH and moving averages.
+Submission created utc: 1523454606
+Submission score: 5
+comments: (level	created_utc	comment_score	comment_body)
+

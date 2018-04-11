@@ -1,0 +1,13 @@
+File created at: 1523472252
+Subreddit: Bitcoin
+Submission title: Lightning on the horizon : Three Implementations, more APIs & a Growing World of LApps
+Submission created utc: 1523453604
+Submission score: 122
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523464160	1	what happened to MIT's Lit implementation
+0	1523468646	1	FOMO, FUD and etc.
+0	1523467898	1	December"Lightning network takes over" "Lightning network is here!"January"Lightning network is now live""We will soon get Lightning network released"March"Lightning network adoption is real""Lightning network is almost ready"April"Lightning network released""Lightning network on the horizon"Like, What the fuck? xD
+1	1523468647	1	2017 “Let’s activate Segwit”“Successfully activated Segwit, we did it bois”2018 “Lightning is coming!”“We are actually getting there”2019 ?Zoom out enough, these are moments to be written down in history as major accomplishments.
+2	1523471633	1	Same goes for bitcoin and its current price points. Perspective matters. I saw in another thread someone was analyzing the last 3 months of all wallets and found that the larger wallets just continue to accumulate while the smaller, newer wallets were dumping. Newer users selling because they fear the loss, older wallets hodling cause they know something is up?Maybe its just mining wallets mining and newer wallets were temp for a purpose, either way, interesting stuff.
+0	1523469170	1	shoulda been here 2 years ago...

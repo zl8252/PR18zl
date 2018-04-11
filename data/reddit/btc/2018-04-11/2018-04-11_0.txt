@@ -1,0 +1,32 @@
+File created at: 1523472291
+Subreddit: btc
+Submission title: "Full BCH support" coming to mycelium
+Submission created utc: 1523441264
+Submission score: 196
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523445106	12	waiting for it for quite some time now.. this "preview bch module" is in the playstore for quite some time already. But it doesn't seem to work yet
+1	1523445307	5	At this point it requires that you use the beta fully module Mycelium wallet and it only facilitates selling BCH for BTC. I'm still waiting because I don't want to use a tech preview wallet for my money. Also, they have said that there will be full BCH support added before these features make it into the main version.
+2	1523446172	3	I see, need another wallet too.. I just downloaded the additional module. I think it's a good move to modularize things. Looking forward to use mycelium with BCH. It's a good wallet.
+0	1523443999	26	Did not even know Mycelium was still a thing. Completely forgot it still existed.
+1	1523448309	7	One good thing about Mycelium is Ledger Nano S support.That's why I am happy to see BCH coming to Mycelium.
+2	1523448468	2	Copay had had trezor support forever. Multisig, with hardware wallets. That's some hard core security.
+2	1523461540	2	Definitely, I hope that it will work with BCH + Ledger Nano in the same way as for core chain.  This would be quite unique despite mycelium have no bigger updates last years. 
+3	1523465406	1	Yes, that's what I am hoping for, too.
+1	1523447593	13	Same, it used to be my "go to" mobile wallet.  Really no reason to go back with bitcoin.com, unit walket, bread wallet, and bit pay BCH wallets out.
+1	1523460300	3	I miss the LocalTrader functionality of the Mycelium wallet. Good to see full BCH support announced, lets see if it really is full in the end though.
+0	1523451994	9	I have Mycelium tokens that still haven't been given to me, their support has pretty much shut down. grrr...
+1	1523453060	4	more like mystealeum, amirite?all jokes aside I removed the app and I use bitpay wallet on my phone and electron for watch only.
+0	1523448619	5	Good, I haven't used Mycellium since the fork for this reason. I'd love a watch only wallet for my BCH.
+0	1523447150	4	What's Mycelium?
+1	1523448291	8	Used to be a good wallet for mobile phones (maybe still is).
+2	1523451963	9	It is still a great wallet - has more features than other Android wallets, except it only works with Bitcoin Core - so I have not been able to use it since the fees went up.
+0	1523459049	6	So they finally capitulated.
+0	1523445062	4	This is something that I've been anxiously awaiting. Glad to see progress is being made.
+0	1523461627	4	Didn't the mycelium guys shill heavily for Core around the fork?
+0	1523449029	2	Ah my old android wallet. Haven't used it in 1,5 years I think.
+0	1523462066	2	They started pushing some strange Russian coins at one point.
+0	1523448618	1	wait, is that a thing alr?
+0	1523459490	1	I am using Melis Wallet for bitcoin cash. It ported all the advanced features available for bitcoin to BCH.
+0	1523464502	1	I still use it cause it's still there and works for BTC. But I use Electron Cash for BCH. If I got a new phone, I'd probably look at alternatives to installing it.At meetups, it seems the most interest is in multi-coin wallets. Not just for BCH , seems people are buying into the coin fever. Perhaps not this month though, our signups for todays meetup are way down (like 75% down). Perils of a bear market I guess.
+0	1523469402	1	That's nice, but I already have a BCH Wallet. You snooze you lose.

@@ -1,0 +1,76 @@
+File created at: 1523472253
+Subreddit: Bitcoin
+Submission title: 3 basic facts that show Bitcoin is the most secure and trustable financial system that the world has ever known.
+Submission created utc: 1523448474
+Submission score: 118
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523464562	1	>Every single transaction is 100% guaranteed to be completed exactly as it is specified. Every transaction. Exactly as specified. Zero exceptions.So is a cash transaction.>No other person, government, or entity can access your funds. Access is available only to an individual who has the exact and unhackable cryptographic key.Unless someone knows you have X amount of cash on you and robs you, cash does this very well also. >The system is available 24/7/365 via thousands of global, decentralized, independent, redundant computer systems. Downtime is impossible.Assuming you have regular and stable access to internet
+1	1523470679	1	I think you’re forgetting about local, hand-to-hand, bitcoin transactions. Don’t need an Internet for that.
+2	1523471342	1	Need the internet to verify that you're getting the amount of BTC that the seller says.Otherwise we're back to trusting an individual.
+0	1523458576	1	Pretty sure Bitcoin Uptime is 99.99 % ? So downtime is not impossible, right ?
+1	1523460283	1	Correct.
+1	1523465064	1	What about that 00.01% tho?
+2	1523469627	1	http://vincesamios.com/bitcoins/accidental-hardfork-the-resilience-of-a-fledgling-bitcoin
+0	1523457355	10	The entire point is that it isn't trustable, that it doesn't rely on trust. If you want a trustable financial system, lend money to Ned Flanders with a promise to pay it back or something.
+1	1523462887	1	> that it doesn't rely on trustIt does.Bitcoin relies on the assumption that miners will not group up.  _They do. Very large mining pools exist._Now Bitcoin relies on the trust that these mining pools do not co-operate in a 51% attack.Truely trustless systems are impossible, and have been mathmatically proven to be so. The best you can do is move the trust onto an entity that is most trustworthy.
+2	1523467775	1	Wouldn't such an attack just be super obvious and ultimately result in an outing of those involved and a fork to redeem funds?
+3	1523468306	1	> result in an outing of those involved So what? What are you going to do? Can't ban them from the network.> a fork to redeem funds?Nevermind that an entity with enough computing power for a 51% attack can pull off the attack repeatedly, such a fork will fracture the community.
+4	1523469511	1	> Can't ban them from the network.A PoW fork "bans" existing ASICs from the market. Having to PoW fork would hurt bitcoin's value but not as much as a 51% attack would, and they know it.
+5	1523469710	1	> Having to PoW fork would hurt bitcoin's value You go explain to everyone who bought mining hardware that it's now _completely useless_.You'd be lucky if the devs of the fork didn't get lynched.
+6	1523470444	1	> You go explain to everyone who bought mining hardware that it's now completely useless."Sorry but there was a 51% attack and we have no choice." Was that supposed to be hard?> You'd be lucky if the devs of the fork didn't get lynched.If a majority of devs support it, I don't think there would be much backlash. They already talk about it sometimes on the dev mailing list, and ultimately the users would be to "blame" for preferring the new fork. Wost case scenario, they could ask Shaolin Fry to publish the code again.
+7	1523470623	1	> Was that supposed to be hard?See below> If a majority of devs support it, I don't think there would be much backlash.You've made hardware obsolete that people have poured millions of dollars into.Likely bankrupting many mining groups who have not yet earned their money back.There _will_ be backlash.
+2	1523466740	1	If they did then other coins would instantly be more profitable and they would instantly switch to mining those coins (but only after playing this sone https://www.youtube.com/watch?v=ybGOT4d2Hs8). I don't actually know if this is actually the case but seems plausible.
+1	1523470448	1	How does it work if you don’t have access to the internet ?
+2	1523470778	1	RFC 2549 would be a good start depending on your climate.
+1	1523457625	1	You don't seem to know what the word "trust" means.I encourage you to check the dictionary. No one who didn't trust Bitcoin would use it.
+2	1523457697	2	Bitcoin is a trustless system. By definition, by design. If you want a trusted ledger, go to a bank.
+3	1523458599	1	Perhaps it is both? It is trustless, and yet trustworthy at the same time.
+4	1523459015	1	They are both right. In order to transact with a 3rd party, Bitcoin does not require you to trust that party at all. However, using the Bitcoin network requires trust - in the node software, the compiler used to build it, the operating system it's running on, the CPU it's running on, the ISP providing your access to the internet, and so on....
+3	1523461548	1	We trust the chain with the most accumulated hash rate to be bitcoin. We don't have to trust people.
+3	1523462019	1	You don't know what you're talking about. We don't have to trust the bank (and why the hell should we?) because we can trust the math and enormous cryptographic power behind the Bitcoin network.Seriously, why TF would you trust financial institutions? They're a bunch of crooks who get money for nothing.
+4	1523462917	1	A bank is a trusted third party ledger. It requires trust to function.Bitcoin is a trustless distributed ledger. It requires cryptographic proof to function.
+3	1523468316	1	You trust the source code. Did you review it?You trust the miners. Do you mine?
+4	1523469578	1	Ask the people who had their coins stolen from malicious wallets if they'll trust software blindly again.And no, you don't trust the miners. The only thing that matters is the consensus they generate as a group.
+5	1523471045	1	>they'll trust software blindly again.So you do have to trust the software. >And no, you don't trust the minersIf you didn't, you probably wouldn't hold bitcoin. 
+6	1523471128	1	No, you can implement code based on the whitepaper/existing spec and create your own transactions.>If you didn't, you probably wouldn't hold bitcoin. The moderators of this sub don't trust the majority of miners, and yet here we are.
+3	1523457747	1	I see you decided to double down instead of looking up the definition.Bitcoin decentralized trust, it didn't remove the need for it.
+4	1523457881	1	Bitcoin whitepaper, second paragraph, first sentence.>What is needed is an electronic payment system based on cryptographic proof instead of trust, allowing any two willing parties to transact directly with each other without the need for a trustedthird party.https://bitcoin.org/bitcoin.pdf
+5	1523457985	1	I have read the whitepaper already. It doesn't say bitcoin requires no trust, it says bitcoin is based on cryptographic proof instead of trust.Since you don't seem to be able to read, I take back my advice to look up the definition.
+6	1523458135	1	Bitcoin is a trustless distributed ledger. It requires no trust. It actively assumes people will not trust each other.
+7	1523458276	1	Previous modelTrust in bank to hold your $ -> Trust in gov to bail out bank -> Trust in military to keep gov in powerBitcoin modelTrust in distributed ledger -> Trust in BTC codeHave you personally audited the source code, or do you trust that other people have?Have you personally inspected every node, or do you trust that a 51% attack hasn't happened already?Do you come from the future, or do you trust that an EMP won't start a new dark age tomorrow?
+8	1523458413	1	Bitcoin model -> run any code you want, forward these transactions to others, let other people choose to accept/forward your transactions or not.>Have you personally audited the source code, or do you trust that other people have?Kind of like when people download hacked wallets? Trust kind of falls apart there.
+9	1523458456	1	> Kind of like when people download hacked wallets? TNo, nothing like that, and your false equivalence means you are either ignorant or dishonest. Which is it?The technological advance of Bitcoin is amazing enough without misrepresenting it.
+0	1523458434	1	> "Access is available only to an individual who has the exact and unhackable cryptographic key."Minor nitpick: just because something has not yet been hacked to date\*, does not mean it is unhackahble.\* _That we know of._
+1	1523460046	1	If we want to be pedantic, it is provably hackable. It's just that hacking any individual private key would take many times longer than the age of the Universe in compute time for a digital computer. And we can already compute how long it would take a quantum computer given N qubits.
+1	1523458663	1	> Downtime is impossible.Downtime is very much possible. Again, just because it hasn't happened yet, doesn't mean it can't happen. We very nearly had network downtime due to the bug in 2X. One could easily regard March 11, 2013 as downtime.
+0	1523456046	3	> No other person, government, or entity can access your funds. Access is available only to an individual who has the exact and unhackable cryptographic key. Let's not be too fast and loose with this claim. You're describing the security of public keys, but your private key is only as secure as you make it. 
+0	1523461073	1	I'll bite.* If you don't provide enough fee, your transaction will be stuck in limbo for days and eventually not be completed. Furthermore, if you don't wait for a confirmation, the sender can attempt a double spend attack.* Nothing is unhackable. And nothing is 100% secure, and never will be. Someone can accidentally guess your key out of sheer luck, in theory. A government or thief can and will torture you to get to the key, which is MUCH easier than to get to the money that is in your bank. Truly securing the key is so fantastically difficult, if you are up against a very strong adversary, I can guarantee you that, unless you have been a true cypherpunk for the last 20 years and maybe even worked for a three letter agency, your very own bitcoins are not safe right now. Lets go look at any of those threads where people discuss how to best secure coins. In 6 years, I have never ever seen an answer that is actually good.* Downtime is not impossible. But yeah, very unlikely. However, unless we live in a post-fiat world, we all rely on exchanges, and they are down all the fucking time.
+1	1523463731	1	* This is fixed already with Replace-By-Fee* The technology is strong that we are aware of. People are always soft targets. Train with a firearm and use it if you're into Bitcoin.* Yeah, basically.
+0	1523460487	1	Exactly why I still think there is a lot of room for Bitcoin over the next few years.
+0	1523461775	1	What happens when someone wants to borrow BTC?
+1	1523462505	1	A contract by the lender is drawn up. Just like a bank loan.
+2	1523462604	1	I figured as much. I'm under the belief that banks will exist to fill this need. Individuals could lend to each other now but do not. I suspect that won't change.
+3	1523462916	1	The concept of money lending is no different with Bitcoin, Bitcoin is just a currency that gets lent.Pretty sure banks generate a shit load of FUD and are buying up BTC as the price drops. 
+4	1523463188	1	Usually people downvote me into oblivion if I point this out. Thank you. Honestly man, I'll speak for CAD banks. They don't like crypto because we have very strict anti money laundering laws AML. Our suspicious transaction reporting is also very strict. If these laws are not followed it means huge fines. It is easier to just not allow crypto transactions until there is more regulation then go through the administrative nightmare and risk huge fines. 
+5	1523463868	1	You seem to know what you're talking about. Regulation and decentralization are like oil and water, not sure how Bitcoin will assimilate.
+6	1523464199	1	I agree. It's a conundrum because it can also deter mass adoption. Will have to see how it plays out as was pointed out, lending institutions would have to exist in some capacity.
+7	1523465099	1	Need something like decentralized regulation, which I think is for the most part is how BTC works by itself, but the concept doesnt apply across cryptos.
+0	1523464279	1	3 solid points here...If anyone here is in need of a reliable facility to host their miners we have space available now in North America. Learn more here. We would be happy to answer any questions you may have. http://www.miningdx.com/.
+0	1523465696	1	This whole concept is not new: every man for themselves. It has been this way for the mostpart of the human existence...and specifically what people have purposefully moved away from.The governments didn't just appear out of thin air with an agenda to oppress and impede the common man.They were a natural evolution of society and civilization. The common man himself delegated resources anddecision to a central point of control, to leadership, not because he hit his head one day, but because thousandsof years of existence have pushed him to do so. Present day is and always will be the collection ofall of man's primal instincts and acquired knowledge.The cypherpunks are cool, smart guys when it comes to code and encryption. But seriously they've got this whole thingbackwards. This is not ground-breaking, it's deja-vu.
+0	1523471079	1	If transactions were in no way regulated or sent through any type of intermediary, can you imagine the number of scammers that would inhabit the internet?>Hey bro I'll sell you this X dollar laptop for Y>*Sends Y*>Haha just kidding fuck you
+0	1523450833	0	hell yeahhodl :D
+0	1523454957	-1	Yea sure...
+0	1523461216	1	"The vast majority of people are just coming yi this realization..."Hte deulsion is srtong with tihs one. 
+0	1523460280	1	TIL Mt. Gox never happened. 
+1	1523461693	1	Mt. Gox happened off chain. Nothing serious happened on the protocol level, yet.
+2	1523463804	1	so fucking what, did people lost money/bitcoins or not???
+3	1523464355	1	Isn't it like someone managed to get your pin to your bank account vs someone hacking the bank directly? 
+3	1523467275	1	Yes, they did. And the community learned a lesson not to keep their Bitcoins on an exchange. Hardware wallets were innovated for offline storage. The average Joe no longer needed esoteric knowledge to keep their coins safe.
+1	1523461649	1	That's like me getting hacked and blaming it on Bitcoin.
+1	1523462551	1	TUL wrong
+1	1523464891	1	Thank Roger.
+0	1523453534	-4	are you sure? no other cryptocurrency has this? no. other? 100% sure?
+1	1523454730	3	There are some other cryptos that have similar tech and can match Bitcoin's security in various technical facets.But security involves more than just the tech, and no other cryptos have Bitcoin's global infrastructure, footprint, decentralization, redundancy. 
+2	1523459080	1	> no other cryptos have Bitcoin's global infrastructure, footprint, decentralization, redundancy.Presumably you're quantifying these properties somehow in order to make that comparison?
+1	1523454744	4	Others have but nowhere near as secure as BTC...

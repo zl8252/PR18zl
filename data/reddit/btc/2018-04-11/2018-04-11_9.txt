@@ -1,0 +1,10 @@
+File created at: 1523472299
+Subreddit: btc
+Submission title: *UPDATE NOW*: JoyStream 1.0.7 is out!
+Submission created utc: 1523406399
+Submission score: 61
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523408559	-7	These daily updates are nothing but a hassle
+1	1523434538	4	Damn them for rolling out updates
+1	1523434991	5	It is still in beta and it is much better to do all these changes now rather than when thousands / millions of people and businesses are using it.

@@ -1,0 +1,46 @@
+File created at: 1523472293
+Subreddit: btc
+Submission title: This is why Bitcoin is great. This is why the world need Bitcoin.
+Submission created utc: 1523448005
+Submission score: 121
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523450747	15	That is cool. Let us keep making the world a more free and better world :-) 
+0	1523454297	22	This is why BCH must succeed.
+1	1523459961	12	This is also *how BCH __will__ succeed*.
+2	1523466523	-9	This is why *BCH will need lightning.*
+3	1523466532	4	Redditor /u/Spartacus_Nakamoto has low karma in this subreddit.
+3	1523469588	3	So what if it does? Nothing precludes LN from working on BCH. Make it worthwhile and then we'll add it, but for right now moderately bigger blocks are easier and safer.
+4	1523469770	-5	>Make it worthwhile and then we'll steal itHah, your investment is fucked. You’ll need to implement Segwit first! 🙂 that’s why everyone here is sure lightning will fail. If it doesn’t, you all stand to lose a lot of money for being wrong about scaling. And the market is currently chosing BTC to BCH over 10:1 😨. 
+5	1523470651	5	lol you guys are so misinformed. Lightning does not require segwit.If you don't believe me you can hear the Lightning Labs co-founder tell you that LN can work without segwit around the ~50 minute mark in this video: https://www.youtube.com/watch?v=dk1Vm7kqc5gOr maybe this source works for you too: https://segwit.org/is-segregated-witness-necessary-to-implement-the-lightning-network-6c4545a9f9f1>However, without segregated witness **or another signature malleability fix**, LN channels have to deal with situations where transactions get mutated (“malleated”), which makes them get stuck at various steps. Guess what was fixed on Nov 13th fork in BCH. 
+6	1523471986	1	>Guess what was fixed on Nov 13th fork in BCH.Some, but not all, malleability issues. *My god you guys know so little about cryptocurrencies.* I love that you guys are already open to the idea of trying to copy lightning years later like that’ll finally be when this sub gets respect from the crypto community at large.Why do you think BCH trades for less than 1/10th of BTC despite sharing the same history? Two different scaling solutions, two different price outcomes. Why? Mental gymnatics in 3... 2... 
+3	1523467778	4	What, for normal transactions?You'te thinking of a different fork my lad
+1	1523461846	-2	Why BCH and not one of the other “better” coins?
+2	1523463510	8	Bear in mind this is a Bitcoin subreddit.In the interests of curiosity though, which coins would you say are "better" as P2P cash?
+3	1523463576	-6	Monero, LitecoinAnd excuse me, didn't mean to step on your circle jerk
+4	1523464005	3	Good luck with those.  There's nothing simple abt Monero and neither will scale. 
+5	1523464389	8	at least the XMR people are working on improving scaling. LTC is just sitting over there with its thumb up its butt
+6	1523464912	5	Hey... let’s not deride other coins scaling solutions such as the thumb-up-butt solution.  Let’s focus on making bitcoin cash, again. 
+7	1523465043	5	> Let’s focus on making bitcoin cash, again.sure, but I'm not going to stay quiet when people come over here and have the gall to suggest that LTC is actually a better P2P cash than BCH
+4	1523465225	2	Lol wtf.
+4	1523467508	1	I'll look into XMR, thanks.I don't agree with BTC's scaling roadmap so by definition I don't agree with LTC's either since it's just 4X copy pasta.Do you not see that LTC will just hit same wall if adoption increases to 5X ATH BTC?
+3	1523465078	-7	Since when is this a bitcoin subreddit? It's been the bcash subreddit for a while.
+4	1523466933	9	If an uncensored subreddit founded before the BCH fork is more positive about one fork of Bitcoin than the others, that should tell you something.You can still post about BTC, but posts which are bullish on it tend to get downvoted (as with BTG, CDY, etc.) unless they contribute something other than the fiat exchange rate or mudslinging because they generally appear to come from uninformed people who say bcash (or btrash).
+4	1523469789	4	This sub predates bitcoin cash by multiple years. You're here talking shit in a post where one median BTC fee from a few months ago would have paid for 3 months of medication for OPs family. You think you're making a positive message for your side with this comment?Bitcoin is for everyone. BTC is not.
+4	1523465770	4	Bitcoin refers to the vision outlined in the original whitepaper: not a specific implementation.
+2	1523461983	12	Because BCH actually *did* it, while the 'better' coins are just dragged in to *fantasize* about it...An actual proven track record and all that.
+3	1523462041	-5	lol, you mean kind of like how Enron _did_ it or MySpace _did_ it?
+4	1523462122	2	Great examples of headfakes, we all know they both refused to do it!
+0	1523458124	5	Awesome community, and those 34 guys are real heroes. 
+1	1523465781	3	They totally are. At least for me.
+0	1523465730	5	Tyvm to all involved. You guys really made a lot of effort to contribute so the least i can do is show i really did appreciate all the help me/us. So again i hope all of you get some way of retribution.Much love.
+1	1523466878	4	I tipped you 0.03073187 BCH ($20.00 USD)! [How to collect](https://redd.it/7xwesx)It will be enough for another 2 WHOLE months ;)
+2	1523467667	4	Aww seriously man, me and my family are really gratefull for all of you. You just made a huge smile on our faces. I sincerely hope i will be able to repay all of this. People like you are the ones who will push BTC foward.
+3	1523468289	4	✌️
+0	1523469938	4	And Samson Mow has the audacity to say that Bitcoin isn’t for those who live on less than $2 per day. He’s anti-life, basically.
+0	1523460478	2	Beautiful!
+0	1523466941	2	Can someone post this persons bch receive address 
+1	1523468050	2	bitcoincash:qr366fdjn6dmzvs80ljw90d2d39rqs4nnqk56mcsen
+2	1523468468	1	The guy says 2 people tipped him but I see 1 transaction here - worth $20 BCH. This post feels fabricated. 
+3	1523468779	2	.........................You know how receive addresses work right?
+0	1523459824	-23	Hi! Are you interested in ICO, guys? I have a really cool project for you. Its name is NCRYPTO 

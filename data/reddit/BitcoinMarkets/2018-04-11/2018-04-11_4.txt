@@ -1,0 +1,7 @@
+File created at: 1523472328
+Subreddit: BitcoinMarkets
+Submission title: Created a network/aggregate for subreddits like this one
+Submission created utc: 1523402560
+Submission score: 2
+comments: (level	created_utc	comment_score	comment_body)
+

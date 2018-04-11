@@ -1,0 +1,19 @@
+File created at: 1523472329
+Subreddit: BitcoinMarkets
+Submission title: Margin trading on Poloniex and Bitcoin.tax
+Submission created utc: 1523391317
+Submission score: 5
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523394714	5	Unfortunately, Bitcon.Tax doesn't support margin trading as Poloniex don't provide enough information to be able to calculate it correctly. It's something we keep coming back to and are having conversations with Circle/Poloniex about providing more data to be able to work it out in the future.
+1	1523394949	1	So as someone filing taxes this week and with this being my only issue how do I handle this using bitcoin.tax? Just delete all the margin trade data and put estimates forgains and losses in their place?
+2	1523395606	1	Yes. I've done this manually for some people, however, this is not going to be accurate but then it is is the best you can do.Some people were just able to add in the profit from their margin account.Others were more complicated because they had positions open in currencies other than the margin wallet was funded, and transferred back and forth between the exchange and wallet. If you remove margin trades then you can calculate normal exchange trades. If you have nothing unmatched (no negative balances) you can add in any buys from margins. If you have losses, you would need to add as selling.
+3	1523395687	1	Unfortunately I’m in the more complicated situation.. I’m going to take a look at this tonight and see if I can at least get a good estimate. Any advice on the extreme lag on the calculate page? It sometimes doesn’t even load for me at all.
+3	1523397312	1	Also I just removed the Poloniex trades overall now so I can check on everything else which seemed to be fine but when I use the calculate page, it just says [object object] as a prompt on the website and just 0's for the data... please help :(
+4	1523423705	1	In case you need help of a CPA, let me know. I used someone to file my returns (no margin trading though)
+5	1523451141	1	Eh I’m trying not to go completely broke here, I’d probably have difficulty going all out paying a real CPA so stuff like bitcoin.tax is my only hope 
+3	1523414502	1	Hey /u/bitcointaxes so after working with people today, I found a way to deal with the poloniex margin trades and get rid of those specific rows in the spreadsheet pretty quickly but upon trying to import them into the website it says no category field. Apparently it's not possible for me to modify my spreadsheet from poloniex and still use it on your site... could you possibly help me in importing these files and hopefully getting everything sorted out with the taxes on your site because I am really having some big issues and it's making the whole thing unusable for me. :/ Please get back to me ASAP, thank you.
+1	1523395741	1	Just wondering - same for Kraken or do they provide more data? The log seems pretty extensive, never tried the API though.
+2	1523396285	1	Hi, the only feature we offer for you to conduct your analysis is exporting your ledger to calculate your cost basis. https://support.kraken.com/hc/en-us/articles/115000302707-Export-Trade-or-Ledger-History
+0	1523419727	1	There are better sites, like cointracking.info and cointracker.io
+1	1523420703	1	What makes them better?

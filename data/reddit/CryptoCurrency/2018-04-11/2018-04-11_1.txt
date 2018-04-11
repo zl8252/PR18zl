@@ -1,0 +1,110 @@
+File created at: 1523472311
+Subreddit: CryptoCurrency
+Submission title: "People Trust Satoshi Nakamoto More Than The Fed" - what a quote from the head of the NYSE!
+Submission created utc: 1523403096
+Submission score: 874
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523403691	458	Actually, no one needs to trust Satoshi Nakamoto, that's the whole point of this shit.
+1	1523406599	94	Can you please call the guy in the article and let him know...?
+2	1523421381	6	I did it for him. The guy wants consensus to incorporate the change. 
+2	1523411307	14	I just loled
+1	1523438033	4	At this point it's fair to say everybody trusts him not to touch his wallet. 
+1	1523406387	9	Speak the truth!
+1	1523429767	15	Actually you do have to trust him, his wallet has like a million BTC so if he decides to sell any significant chunk of it the market is fucked.
+2	1523448174	1	He has more than half a million
+2	1523442638	-1	The market wouldn't be fucked. Supply would increase, demand would drop, price would tank. Nothing would change, and we get cheaper bitcoin. Whats the issue.
+3	1523446119	8	'the market' requires adoption to survive.Adoption requires stabilityStability requires there to not be an ever present threat of some guy tanking the whole market at any moment, costing people billions.
+4	1523456400	2	>Adoption requires stabilityWe had tons of stability for like a year before the last bull run, but people only started flocking in when the price was going up rapidly. That's the opposite of stability; adoption requires bitcoin looking like a good investment.Everyone holding bitcoin right now has accepted the chance of Satoshi selling his coins. After he does it, everyone will know it'll be a great time to buy because it's a one-time deal.
+5	1523462662	1	Whens the last time the guy sold some bitcoins or has he been MIA for years?
+6	1523463001	1	MIA since 2011. Some people claim that he surfaced in 2014(?) to say he's not Dorian Nakamoto, but it's extremely dubious that was really him.
+5	1523470261	1	I think.youre confusing adoption with speculation. Id be very suprised if B2B, B2C or C2C transactions went up in the second half of 2017. There was just way too much incentive to hold on to your coins.
+6	1523471055	1	Speculation is a valid use case and one form of adoption. Since LN wasn't available on the main network yet, we can see that transactions per second went up too. What's a better way to measure adoption?
+2	1523435572	-4	Yeah but there is no way he would sell and destroy what he created, he probably have more couple of thousand btc wallets that he would cash out to make some money but as you can clearly see, he is not after FIAT.+Even he we want to sell it, he will sell it OTC to exchanges, he isnt dumb enought to place 1mil btc sellwall.+There is possibility that whoever owns and have acess to that wallet can be the richest person on the planet
+3	1523438105	7	> +Even he we want to sell it, he will sell it OTC to exchanges, he isnt dumb enought to place 1mil btc sellwall.That wallet showing *any* sign of activity is enough to send the markets in a full blown panic.   
+4	1523439273	1	ya he hasnt touched the wallets he mined and sent around 1.3 million btc to. None of it, except one test. tx to Finney. All of them still have 50 btc from the first mine rewards, and equal bch
+4	1523445372	0	Then the same people will critize Xrp for the exact same fact. Pathetic.
+5	1523445972	2	All coins with such lousy dispersion (not counting the exchange cold wallets) deserve the flak. XRP has two thirds of the total supply hanging above the holders. 
+3	1523446007	2	So you're trusting him not to, got it, therefore bitcoin isn't trustless is it.
+3	1523457856	1	How can you make any assumptions, positive or negative, about what he’d do?
+4	1523466352	1	What if i am him ? If you doubt it, how can you make any assumptions about who is he ?
+5	1523466501	0	Because I am Satoshi. 
+2	1523439197	-3	he wont mate. 
+3	1523445969	8	You trust him not to? Isn't that the exact opposite of what trustless means?
+4	1523446108	-6	i dont trust him. i just know he won't. Thats why I and many others wont. if he does, we will too. make of that what you will. 
+5	1523461392	1	lmao
+1	1523430479	8	Whether he is real or not, he has a wallet with a huge amount of the market cap in it. You really need to trust him a lot, he has the power to essentially destroy the market.
+2	1523446883	-1	If you want Bitcoins to actually USE them (even though, let's be realistic, no one does. Everyone just buys Bitcoin so they can sell it back for more $ later), just buy bitcoins and hedge yourself by selling futures. Bitcoin's price crashing doesn't affect in anyway the way the blockchain works, so if you want Bitcoin for the trustless decentralized monetary system but are scared of the volatility as a store of value, you can do that.For now serious future brokers are all centralized options but soon enough we'll have decentralized derivatives so we'll be able to have synthetic USD value except it will all be decentralized and in blockchains. Then it won't matter anymore if Bitcoin's price crashes or not.
+3	1523448657	4	> Then it won't matter anymore if Bitcoin's price crashes or not.Yeah the same way it doesn't matter when USD or another currency crashes. It makes literally no difference on the economy.... oh wait.
+1	1523421744	11	But he could sell 1mio BTC
+2	1523452634	2	So? Everyone should know there are currently ~17m BTC and 21m in total.  Satoshi moving/selling/giving away potentially 1m (no one actually knows if he mined that many) changes nothing in the grand scheme of things. 
+2	1523430062	0	True but it would be contrary to his interests to crush the market.
+3	1523438953	10	You \*trust\* him in those intentions...
+1	1523438971	1	they trust him that there is no need to thrust him.
+1	1523442581	1	He has 5% of the supply probably tho.
+1	1523445776	1	Until some random guy (or group of guys) decides to fork the chain... wake up people !
+2	1523456530	2	That already happened? What did that have to do with trusting Satoshi?
+3	1523457147	0	I has nothing against the guy (even admire his achievements ) I just can’t understand people saying they can trust something blindly that they dont even understand how it works ... at the end of the day you can update a blockchain the same way you can update a database ... it just have a fancier name and bit difficult but not impossible ... so all the hype is really ridiculous if some miners (with majority power) collude to steal your coins in this case well satoshi can’t help you but the FED and GOV can !!! 
+4	1523457384	1	>they dont even understand how it works>some miners (with majority power) collude to steal your coinsThat's not how it works, as Monero just illustrated.
+5	1523457788	2	I am not aware how monero works so you are saying someone with a big hashing power can’t rewrite the chain as he wishes for monero ? 
+6	1523458018	1	The users were displeased with the miners so they PoW forked. Nobody wants the old chain, just the new one with actual users.
+1	1523448608	1	The guy has a good percentage of the supply. 
+1	1523466318	1	So true. People these days act like they don't have a choice.. are we going back to middle ages or someting.
+0	1523405175	106	no one trusts Satoshi, we trust the system that he left behind for us to use. Don't let the pseudonym fool you, he's still just a human being 
+1	1523415296	22	AI Satoshi very sad now
+2	1523416415	9	AI Satoshi is offline
+1	1523427504	8	He's still just a ~~human being~~ the CIA
+2	1523431769	8	Tin foil hats on **but.....**BTC created after 2008 crash by the NSA or FED or whoever, because they realize the $ is fucked with its inevitable hyperinflation, and they want a new method of protecting their wealth when the $ completely goes to shit and a new monetary system is needed.That would explain:1- Why Satoshi is anonymous.2- The 1m BTC in the wallet (for them).There are, of course downfalls in this speculative idea.
+3	1523432457	5	It's not even very tinfoil hat worthy to me. There's an attempt to revolutionize the finance industry by an anonymous source. The US government has to at least be a possibility here.
+4	1523437836	8	You're right, it isn't. But anyone who blindly entrusts our financial system will call you a conspiracy theorist.
+5	1523456679	3	> conspiracy theoristI try to hang out with people who don't see that as a pejorative. Not all conspiracies are the same as Bigfoot and crop circles.
+3	1523459427	2	If the genesis wallet was touched then bitcoin and the whole market would crash to 0. Think Mt. Gox trustee but 1000x worse. 
+3	1523454859	1	The nsa or fed wouldn't be dumb enough to have one gigantic wallet. case closed.
+3	1523439353	0	The first downfall being btc having gone truly decentralized and working on true p2p consensus since then which, if this is true, means that things have gone horribly, horribly wrong for the feds. GOOOD
+1	1523449989	2	He is a human being? Are you sure? Look who created Ethereum.. Vitalik Buterin. That is right! Do you really think he is a human being?! He is an AI cyborg, it is really obvious if you ask me, he has even got a robot voice. Yes master!
+2	1523461196	1	pretty sure hes a gray with a shitty plastic surgery job
+1	1523450550	1	That's the whole point. We don't need to rely on anyone.
+1	1523455219	1	Satoshi was an emergent AI.
+0	1523408232	54	This type of statement only further proves that the Status Quo is still unable to grasp the tech behind Bitcoin and are living in denial. One of the fundamental concept powering Bitcoin is "trustless" itself, yet these guys keep making statement about trusting Satoshi. Satoshi has no control over Bitcoin, its the people powering the network ffs.
+1	1523426820	13	> Satoshi has no control over Bitcoin, its the people powering the network ffs.Well, what people trust is code, and determinism.People trust that if they run bitcoin, it acts and behaves in very predictable ways. That's very trustworthy. That's easy.A person isn't like that, a person is unpredictable, which is harder to trust.
+1	1523439497	2	Depends on how you see it. Satoshi does control bitcoin in a way that he has highest bitcoin % of all, and can dump it anytime.
+2	1523450879	3	he may have an indirect control of the market movements. he doesn't have control over the network itself.
+1	1523439564	-1	its not that. They're capitalists, all they see is competition. If a thing doesn't have a trusted CEO that must mean the company is bad, or those who have a trusted CEO must be better than it. They cannot understand consensus, their brains are just not wired to do it, they only get individualistic greed and running competitors out of business.When these guys dont hold the top supply of money, and due to btc they already dont imho, good times will come for us all, I think, if enough people could be educated about bitcoin and blockchain. Sure there'd be OG's richer than other people but I'd rather they be early beleivers in the tech and nerds rather than....whatever category these people come from 
+2	1523451640	1	That's right. They're used to an authoritarian form of capitalism where decisions are made at the top, and everyone else has to go along with it.
+0	1523410074	34	Lol they still think it's people vs people. No it's not. Its math vs people. Its math vs greed. 
+0	1523410689	15	Where can I buy NYSE ?
+1	1523428351	12	Great team, great product they have been operational long before bitcoin and they have an almost working product. Real bullish!!
+2	1523441165	2	NYSE to the moon ! Ordering my NYSE lambo plates as we speak 
+1	1523418320	7	ICE (intercontinental Exchange) owns it.I know you're joking but I was curious and checked.
+0	1523421598	4	People will trust ANYBODY more than the Fed!!
+0	1523426091	5	Banks and governments treat us like children with our own money. It's time we take back our economy.
+0	1523416498	12	As someone who owns cryptos I am really embarrassed with this sub. So many guys with the delusional idea that cryptos are going to replace the financial system in a few years time and that they are going to be wildly wealthy on a yacht getting sucked off. Come back to reality people.
+1	1523420543	11	Everyone should realize, mainly those who joined to get rich in december that crypto and blockchain is not about the new world currency, its about smartcontracts empowering (4th) industry like nothing ever in our lives !We will have widely adopted digital currency, but it wont be replacing fiat anytime soon. Hell i would bet goverments will release 1:1 coins and everyone will be satisfied.
+2	1523437019	2	Had the same idea with the 1:1 coins but then I thought we might as well use other stablecoins instead. Tether still requires us to trust the banks after all
+2	1523448797	1	> i would bet goverments will release 1:1 coins and everyone will be satisfied.I wonder if some small communist country somewhere will try to move all their finances onto a blockchain for transparency. Doubtful, but would be a really cool little experiment to run.
+3	1523461300	1	im pretty sceptical that communists of all governments are gonna be ok with transparency
+4	1523465870	1	I can't imagine ANY government ever being interested, the amount of fuckups it would reveal is terrifying. Just a cool though experiment.
+1	1523449967	3	Why do you have to interject a point of wealth a getting sucked off with a point that is actually very valid?  I do hope that the crypto movement does have a dramatic effect on the financial system.  As per this EXACT reason here:  https://www.npr.org/sections/money/2018/01/10/576879734/episode-489-the-invisible-plumbing-of-our-economy But by no means does it have anything to do with getting rich and sucked off--that I could care less about...
+1	1523466175	1	But it WILL revolutionize finance around the world. Crypto massively lowers the barrier to entry for access to banking services in developing nations around the world. I’m not saying it will be bitcoin but something will fill the current void and I don’t think it will be Wells Fargo. 
+0	1523422220	3	the problem is that "people" are often wrong. this makes me more fearful than excited.
+1	1523424119	3	Don't be.People are not trusting Satoshi. They trust maths more than people. That would have been a more accurate state statement. 
+2	1523455398	1	The system still at its heart relies on people to act in such a way so as not to subvert the system. It's still people (particularly miners and/or stakers) that run the blockchain. It's entirely possible that blockchain becomes a tyranny of the majority since 51% sets the rules for everyone.
+0	1523427769	3	I trust mayor west from family guy more than the fed, and he isn't even real. 
+0	1523403526	2	  But point taken they are going to fuck with it hard.  To that end we need monetary diversity to make it as difficult as possible for them.  
+0	1523420244	2	Does this mean people REALLY dont trust the FED? As in the idea is trustless distributed ledger?
+0	1523438226	2	More than him, we trust in the system he left for us
+0	1523441065	2	Of course we do.
+0	1523436534	2	He doesn't get it.  We've eliminated the need for trust altogether.
+0	1523411326	1	It’s a rhetorical article. They are actually making the point in favor of crypto.  
+0	1523439634	1	Well, the Fed - although the Federal Reserve is as federal as Federal Express, being a privately owned bank - has proven just what a hive of scum and villainy it is. It exists to enrich the already rich.
+0	1523439827	1	This is why we cant convince the world of the benefits of a trustless system. The widespread tendency to only build trust through a trusted centralized entity and not knowing how to once that entity is decentralized is the biggest battle we have to fight imo. 
+0	1523455142	1	Nobody still doesnt know who Satoshi Nakamoto is, but whoever Satoshi is (I personally think it was Nick Szabo), he created an amazing gift and has left it for humanity. More important than arguing over whether cryptocurrency is dead, is arguing over who is going to play Satoshi Nakamoto in the blockbuster Bitcoin movie! Well, I personally dont trade with BTC, but prefer CS or EOS.
+0	1523456899	1	He's never given us a reason to NOT trust him. The fed?
+0	1523462912	1	I am not a body language expert by any means, however there seems to be something in the way he was talking.Sometimes it is clear when a person "hates" something or is against it. This guy seem quite open for the idea of cryptocurrencies (at the very least), hopefully I am right.
+0	1523471281	1	Trying to think of *anyone* I'd trust less than the Fed. I'd say maybe Charles Manson, but he's dead now and I (mostly) trust him to stay that way.
+0	1523472203	1	People trust Donald Duck more than the Fed
+0	1523437635	1	People trust an artificial figurehead more than the Fed...Love the downvotes. Should be obvious to you clever crypto kiddies that Satoshi Nakomoto never existed and was a pseudonym for the team that created bitcoin.
+0	1523408603	1	https://steemit.com/bitcoin/@xsid/the-point-is-you-don-t-need-trust
+0	1523443363	0	Most people are sheep. The need for a shepherd makes trust centralisation inevitable 
+0	1523424245	0	Who is Satoshi? 
+1	1523436021	1	aparently our new goverment

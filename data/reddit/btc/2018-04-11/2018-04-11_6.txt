@@ -1,0 +1,30 @@
+File created at: 1523472297
+Subreddit: btc
+Submission title: Tipped a cute bartender in BCH today #tipPLS
+Submission created utc: 1523426875
+Submission score: 81
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523432261	15	We need a paper wallet design suitable for tipping waiters, bartenders, cab drivers etc.Is there any already?
+1	1523432492	6	Is the one from [cryptostorage.com](https://cryptostorage.com) crypto cash function not to your liking? I personally haven't used it, but it shouldn't be that different in function from the ones I make.Mine look like thishttps://www.google.com/amp/s/amp.reddit.com/r/btc/comments/82zq7t/tippls_crypto_tipping_in_real_life_giveaway/I like keeping things simple and making the user make the mental leap themselves. Or asking someone else to help.
+2	1523432889	2	I like it.I think it would be better if the paper wallet also included a small introduction text saying Bitcoin (BCH) is the best peer-to-peer electronic cash. It also brings economic freedom and so on. The usual pep talk.Links (such as bitcoin.com, r/btc etc) should also be provided to the tippee as well for further information. Maybe it should even encourage the tippee to come here and make a post about it.
+3	1523433403	8	Ah. Feel free to do it however you like. I think it's good to have different messages and styles when introducing people to BCH.I just don't like blasting someone with stuff like that in the beginning. Hopefully they just go to my site [tippls.me](https://tippls.me) and figure things out from there. The bartender did actually go to my site and that's how she learned about the bitcoin.com wallet.I have more of a laissez-faire attitude and just want people to do whatever they want. However, I do see value is getting them on r/BTC. The bitcoin.com wallet also covers that. I like just saying "here's some money, I can't tell you what to do with your money." There's not even mild coercion like "this is good for you."The "where to next" portion of my site has some ideas on where to proceed for a noob.As an artist, I abhor the word best. So yeah, it's not in my vocabulary except as a drunk "you're the best!"u/cryptostorage is open to suggestions. So hit him up, he might like your request. He added the crypto cash feature on his own because of what I've been doing.
+4	1523434714	1	Maybe you are right. I have been doing it my way for a while now. I always tell them to go to reddit and make a post. No one has done it so far.
+5	1523435274	1	Heh I totally understand. I would love to have some sort of validation that I successfully educated them and they fully joined the BCH ecosystem. But I've personally handed out wallets to maybe 300 people so far, some of these people get like 10-40 wallets that I hope get shared. There's no point thinking about what they may or may not do with the money they accepted out of their own free will. Yeah it would be amazing if someone came on this sub and mentioned that one of my stickers is what introduced them to all this. One day...
+6	1523450385	1	Careful.  The private key is actually cut off on the example you showed above. That’s not good :-)
+0	1523436174	9	What's great about using Cointext over a traditional wallet is it gives you an excuse to get a cute girl's number ;)
+1	1523436288	14	LMAO that's genius. "Wallet app? What's that?"I really hope someone does this and reports back. "I can send you Bitcoin Cash over text message""Huh?""What's your number? I'll do it right now"100% chance of working in my mind. Hasn't failed yet.
+2	1523440813	5	Also gets you her number. How brilliant!
+3	1523442003	4	Wow! You win the game, **AND** the girl!
+0	1523434815	6	Did you get her number though?
+1	1523435546	6	Lol I hoped to. But she casually dropped her boyfriend in a conversation. Classic girl move. All good though. We can still be cool :) She did inform me of the bar she's transferring to, which I also play at on occasion. Still a good adoption story.
+0	1523433729	4	Love reading your experiences and seeing more adoption. 2000 bits u/tippr
+1	1523433916	4	Thanks! It's fun and I hope other people can start doing the same. 
+1	1523433784	1	u/tipmeirl, you've received `0.002 BCH ($1.303012 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523457686	3	Just the tip?
+1	1523457925	2	That was actually my response when I handed it over to said skeptical, distrusting bartender last week."We don't take Bitcoin""It's just a tip!""Oh. Ok"
+0	1523456374	2	So..... did you get some?
+1	1523457231	2	There was no smashing. But I hope you can smash with my tactics.
+0	1523448720	1	hahaha hope you two are gon be good friends.
+0	1523448948	-5	"Least creepy way to break the ice..." Uh huh, not creepy at all trying to make your server download an app and sweep a shitty tiny tip. Good job you creepy, cheap bastard. 
+1	1523452523	5	Lol I love you too buddy

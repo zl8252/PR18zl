@@ -1,0 +1,12 @@
+File created at: 1523472330
+Subreddit: BitcoinMarkets
+Submission title: AMT tax preventing all deductions.
+Submission created utc: 1523459925
+Submission score: 2
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523460103	4	I think you should take this to an accounting/tax sub as this really has nothing to do with bitcoin markets. I just want you to get a better response. 
+1	1523460837	2	True. I just trust you guys the most
+2	1523460915	7	You shouldn't.    Edit: in light of the current circumstances involving mod changes, I'd like to clarify my statement here:  You shouldn't trust this sub for tax advice because we are not tax experts.  That's it.
+2	1523471620	1	/r/aww
+0	1523468332	1	That's how AMT works. It's supposed to stop rich people from deducting away all the tax they owe. Guess what brother, you're "rich" now.

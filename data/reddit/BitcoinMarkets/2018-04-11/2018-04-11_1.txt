@@ -1,0 +1,29 @@
+File created at: 1523472326
+Subreddit: BitcoinMarkets
+Submission title: What are your favourite short strategies?
+Submission created utc: 1523432644
+Submission score: 16
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523435980	7	I shorted bch at .4 btc during that bullshit episode. I got margin called by the fat figure who wanted the .5I don't short anymore 
+1	1523468881	1	never short
+0	1523453392	5	I was one of the lucky few to [cash out in mid-December](https://i.imgur.com/Gc25NI6.jpg), however I was not holding a lot of bitcoin so no lambo for me.    Here was my thinking:    I was carefully watching the news as well as the charts.  The charts, in my opinion, were insane.  Prices were shooting through the roof with not enough external cause to justify. So I believed it was the upward slope of a hype bubble.  Once I knew it was bubble territory, I decided the only way to move forward was to decide how greedy I wanted to be and weigh the risks.    The first, and most obvious risk to the bubble that I saw was the end of the tax year, the Christmas shopping burden, and the recent announcements regarding tax laws.  I'll break each down:  The end of the tax year is obvious. People often want to clean up their tax issues before end of year. It might mean that bitcoin taxation would be different in 2018 and they wanted to avoid paying those taxes or it might mean that they felt they could dump out in 2017 and slide under the tax radar as long as their holdings were below the $10k that Coinbase announced they would report to the IRS.  If they continued to hold into the new year, there was a chance that Coinbase might issue 1099 for ALL bitcoin holders for the 2018 tax year.    The Christmas shopping season is less of an issue, but people often need to dip into their savings to cover the holiday cost.  People also often have less disposable cash for investments like bitcoin. So I figured there would be at least a short-term downturn in buying through the holiday season and into the new year.    Finally, there had been some recent articles about taxation not only of capital gains but of coin-to-coin exchanges.  I saw that as a deeply troubling tax burden.    These three things together led me to believe that I was likely very safe to dump out in December and if I wanted to, buy back in after the dip.    The timing of my dump was a bit hard.  I figured people had their eyes set to dump about 1 week before the end of the year for the stated tax reasons.  So that was just before Christmas.  Knowing that, I decided to drop about about a week before that to beat the herd.    Now, I understand that there is no way to prove that my thinking I described below can be proven and that all I have is a screenshot of a Dec. 18 transaction.  But that's how it went down for me. Take it only at face value.  
+0	1523455249	5	100x at the top of course
+0	1523436234	3	Do the learning section on babypips.com, it's aimed at Forex trading but the same concepts apply. 
+0	1523450196	3	You want to sell the throwback after a major correction. In this bubble that would be 15-17k during late dec/early jan. But obviously easier to see with hindsight.But tbh i imagine it will be hard to spot if you're not a full time trader. There's no simple strategy for you to identify which is the real top. Most people who call themselves traders missed this one.
+0	1523437163	2	All in 100x
+0	1523455282	2	RSI divergences on the daily, I was a holder up until recently but looking back at the chart the bearish RSI divergence was astonishing at 17k then the final push to 20k. Although the market can remain irrational for quite some time so its usually better to sell to fiat in those situations and wait it out for the clearer short signal 
+0	1523459402	2	Strategy is to short absurd spikes upwards and cover when it drops hard.
+0	1523462200	2	I just buy incrementally during bad markets and sell incrementally during peaks
+0	1523464945	1	It's hard to predict the direction of btc, so risk management strategies are more crucial than trying to guess the direction. Trailing stop loss is a good strategy to start with. 
+0	1523467131	1	I'm shorting the US dollar against crypto 
+0	1523469800	1	trading against /r/bitcoinmarkets daily thread.
+0	1523471407	1	Watch The Big Short once a week
+0	1523434401	-4	holding. shorting the most parabolic asset ever existed is a fool's game
+1	1523437612	2	[deleted]
+2	1523438509	-2	sorry my asset is currently at 40X since I bought. You are an all-knowing newbie, the ones that get rekt usually
+3	1523439488	1	[deleted]
+4	1523439605	-2	again, there is no way you made 40X and I have been trying to publicly make a long term bet with a day trader/short-term trader me holding vs him/her buying/selling for 1-2 years. Noone offered.
+5	1523463343	5	>again, there is no way you made 40X and I have been trying to publicly make a long term bet with a day trader/short-term trader me holding vs him/her buying/selling for 1-2 years. Noone offered.Many of us haven't seen your offer. I would be happy to accept. Swing trader, have recently been posting many of my trades publicly. 
+6	1523463571	1	how would you escrow this offer?
+6	1523472123	1	Looks like a fair challenge accepted.Any smart contact that could enforce this would be great.  If not there's always reputational. Make a bet for x dollars or x Bitcoin based on public trades vs hodl.  We can make a sub /r/ to track it.  Maybe we can make side wagers in the sub?Normally buy and hold is the way but this market isn't efficient just yet,so I go with Mike for the win. 

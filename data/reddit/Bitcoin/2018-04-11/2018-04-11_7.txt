@@ -1,0 +1,31 @@
+File created at: 1523472252
+Subreddit: Bitcoin
+Submission title: Coincards Brings Bitcoin Lightning Network Payments To Amazon
+Submission created utc: 1523425697
+Submission score: 151
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523443950	12	If i understand this correctly. I fund my lightning wallet. Open a channel with coincards.ca. Buy an amazon giftcard and select lighting as payment method in checkout. Amazon giftcard is electronically delivered. and thats it? 
+1	1523448307	6	It sounds so easy if you say it like that.
+1	1523462341	1	Yes, but you don't have to open a channel to coincards.ca, it just makes it more straightforward.Also, I believe it's only Amazon Canada card.
+1	1523465600	1	> Open a channel with coincards.ca.Nope, you don't have to open a channel with a merchant in order to pay them. You have to have *a channel* open and be able to find a path to the merchant.
+0	1523470518	1	purse.io supports US, CA, etc without making you buy corporate fiat
+0	1523453460	2	from coincards.ca: > Current Exchange Rate: 1 BTC = 8642.83 CAD | 1 LTC = 145.99 CAD | 1 Ðoge = 1 ÐogeUnrelated question: this is for amazon.ca only?
+1	1523461021	1	Also wondering the same.  can amazon.ca gift cards or newegg.ca gift cards be used on the US store ?
+2	1523462889	1	Unfortunately not, Amazon and Newegg both deal in regionally-locked gift cards.
+1	1523462358	1	Yes, CA only.
+2	1523463795	1	CA only? Can't wait till OR gets it ;)
+0	1523453588	2	Weigh [your options](https://spendabit.co/go?q=amazon+card). :-)
+0	1523454101	2	Lightning Network, and technologies like described in the article is why I've decided to start investing in Bitcoin.
+0	1523429152	2	Is there a way to see if there are enough channels to support payments of $25 dollars ? 
+1	1523433832	7	Hey there, This is actually why we suggest opening a channel to us directly. You can find our node info on the checkout process to do so easily. That way you ensure you are funding enough on your channel to make those payments :)
+1	1523435334	2	I wonder the same, is there a cli command for this for lnd 0.4.1beta? without atomic multipath this would be very useful
+0	1523446211	1	Gyft/bitpay better step their game up. They accept zero-confirmation transactions after building trust in me from past transactions, but will still randomly make me wait for a confirmation on higher value gift cards. Being able to buy gift cards with BTC instantly is pretty convenient. Just the other day I did it in-store to buy a TV that was on sale because I was a bit short on cash.
+1	1523453687	3	Bitpay is going against what the community wants and they are purposely charging higher fees. BTCPAY is what is used by the community since it has segwit activated, however, when LN apps come out well use either Eclair or Zap
+1	1523452418	1	Are you kidding me? gyft no longer effectively exists since Vinny sold it. It's now owned and managed by zombies. Nothing new will ever happen with Gyft. Ever.
+0	1523446949	1	any way to support such payment?
+0	1523450616	1	It's quite small amount for people who own bitcoin.
+0	1523463088	1	Huh, this sounds like a big deal, is it one or is it not ? :)
+1	1523463576	1	no its not
+2	1523463754	1	Could you expand a little on why you think so ?
+3	1523464616	1	big deal - you can spend bitcoins on amazon.com    no big deal - every other "adoptions"

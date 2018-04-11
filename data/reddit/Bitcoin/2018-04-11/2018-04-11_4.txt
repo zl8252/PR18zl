@@ -1,0 +1,71 @@
+File created at: 1523472248
+Subreddit: Bitcoin
+Submission title: #of Daily HODL comments on Reddit vs Bitcoin price in USD over time
+Submission created utc: 1523422832
+Submission score: 230
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523458678	1	Hey, I'm the original author of this data visualization & analysis.I'd appreciate if /u/Deity_Of_Death could credit me next time if he’s going to remix the work I did [here](https://www.reddit.com/r/CryptoCurrency/comments/8apt8i/of_daily_hodl_comments_on_reddit_over_time_oc/)For those of you saying this graph means nothing, I agree. It's hard to see the relationship between market volatility and # HODLs when plotted this way. [This is a much better way to do it that is mentioned in the original post.](https://imgur.com/q5ozcRY)[But if you really want to overlay price, I think this would be better too.](https://imgur.com/gallery/d6VPI) Link to the blog for the full story & analysis [here](https://hackernoon.com/analyzing-every-reddit-comment-mentioning-hodl-since-2017-part-one-d536eb8364ad).
+1	1523462718	1	Thanks!
+1	1523468039	1	We should make another spike in the data!HODL
+0	1523443174	28	Why do people use similar colours for graphs? Honestly, im seeing this situation a lot. Is not so difficult to draw one line red or even green (fck daltonics)
+1	1523452726	2	https://www.youtube.com/watch?v=BKorP55Aqvg
+0	1523423681	35	So more HODL comments are needed?
+1	1523431401	13	HODL
+2	1523439118	16	Hodl Hodl Hodl Hodl Hodl Hodl Hodl Hodl Hodl Hodl Hodl Hodl Hodl Hodl Hodl Hodl Hodl Hodl 
+3	1523447191	3	H O D L. HODL HODL. 
+4	1523457714	3	Someone said HODL?
+5	1523462769	1	I did, I said HODL.
+0	1523433067	16	Clearly a causative effect! /s#\#HODLGANG#\#HODLGANG#\#HODLGANG
+1	1523460199	1	Skrrrrtt
+2	1523463111	1	I like it.Maybe Bitcoin's adoption would markedly increase if hip-hop and rap artists started name-dropping in tracks?I mean, bitcoin mainly targets people disenfranchised or disillusioned by the banking system, and I think that would include a lot of people who also listen to rap. Probably country, too.Libertarians and rappers both should love the personal liberty these sorts of technologies provide them.
+0	1523448019	7	It's akin to a scream as the roller coaster drops. 
+0	1523424870	9	HODL
+0	1523434773	8	So the less HODL you see, the more you should buy!
+1	1523446304	2	And once the HODLs start declining, SELL!
+1	1523457172	1	Ready for next launch, SIR!
+0	1523431244	3	Tools like https://forecast.ws should consider it like one more parameter :)
+0	1523451207	3	HODL
+1	1523465224	1	HODL
+0	1523425978	4	Hodl ldoh
+1	1523432858	5	Ldoh dna won su nioj!
+0	1523438950	3	HODL STRONG!
+0	1523423141	5	Thats pretty cool.The sense i get from this is that people generally say HODL less when there is bullish sentiment. And thats certainly the sentiment i have been feeling as of late despite being near the bottom of the bear market.Thanks for the original and interesting content.
+1	1523459714	1	This guy jacked this post lol 😂
+1	1523425764	1	You're welcome.
+2	1523459168	1	Dude lol..... Are you seriously going to take credit for this [OC]  ? 
+0	1523442073	2	There is a correlation, but the question is which one follows which one.Thank you for the chart. Although a moving average would make it more readable.
+1	1523470226	1	Yeah I keep thinking is like saying pregnancy tests predict if you are get pregnant.
+0	1523431438	2	a HODL a day keeps price okay
+0	1523425340	1	what tool was used to determine the HODL comments?
+1	1523451471	2	Ctrl+F
+0	1523433037	1	So all those exhortations to HODL didn't work then. If everyone had been Hodling instead of selling these last 3 months, the price could not have collapsed. 
+0	1523441537	1	No guys we just need bigger pockets.
+0	1523442655	1	huh, if you had asked me to take a guess without looking at the chart, I'd have said Hodl comments inverse BTC price.
+1	1523453509	1	It has to do with volume, it makes the bull trap pretty easy to spot now.
+0	1523444130	1	Has ‘# HODL comments’ been normalized with how many unique commenters there were on that day? I would imagine what we’re seeing is more people getting into bitcoin, so price goes up, and we have that many more people to make a HODL comment. So if those do represent unique commenters, the correlation is probably between # of people invested in bitcoin and the price of bitcoin, and not # HODL comments. 
+0	1523446899	1	do we really need more hold?
+0	1523447654	1	Hodl
+0	1523449130	1	Hodl hodl hodl
+0	1523449382	1	Good. I Have always thought its a stupid word. 
+0	1523450515	1	It's very similar to Price vs. Google Interest: http://cryptopriceandsearch.com/. Maybe I should combine it and try to compare Price vs. How much people google "HODL". 
+0	1523451152	1	I use the term hold. I'm that old school.
+0	1523451156	1	BCT/USD?
+0	1523451524	1	looks like a self fulfilling prophecy
+0	1523452887	1	This graph means nothing unfortunately.Please adjust the graph so maybe we can see a meaningful something.  Since the number of reddit subs to r/bitcoin has increased, it is safe to assume that the number of people saying HODL is more correlated to the total number of people rather than the price of bitcoin.Have the graph represented by BTC price vs number of HODL comment as a % of total comments.
+0	1523453487	1	Maybe it could be that during dec-jan the number of people getting into crypto spiked?
+0	1523454001	1	Would really like to see this in log scale. Oh, and 2 colors that aren't so similar.
+0	1523454145	1	Worlds greatest pump and dump.
+0	1523454499	1	What's next? number of daily farts vs price of Bitcoin?
+0	1523455634	1	Wow I should have bought some of that “BCT” stuff!!
+0	1523456094	1	One bitcoin is only worth 1,000 comments?
+0	1523456227	1	Whenever there is a fall, people start yapping HODL!! 
+0	1523456285	1	Sorry for nitpicking but this graph makes no sense. Both lines are reflecting # of daily HODL comments, since this is just one X and Y axis. If you wanted to do this properly you should put an additional Y axis on the right with values of BTC/USD.
+0	1523460108	1	Omitted plot:\# of Daily comments on r/btc over time.
+0	1523462524	1	Does this apply to technical analysis or fundamental?)
+0	1523462664	1	I'd be interested in learning about your methodology, and by the way, buy, HODL and NEVER SELL for much moon and copious Lambos.
+0	1523463604	1	Looks like an increase in hodl comments when there is instability.  And pointing this out is going to ruin any statistical correlation from today forward
+0	1523471868	1	Agh sorry but what’s HODL?
+0	1523447818	1	HODL. CORRELATION always MEANS CAUSATION!
+0	1523433503	0	HODL!
+0	1523442243	0	HÔÔÔÔÔDL

@@ -1,0 +1,251 @@
+File created at: 1523472309
+Subreddit: CryptoCurrency
+Submission title: So many people saying cryptocurrency is dead. Yet bittrex already overwhelmed with new user registration...
+Submission created utc: 1523446397
+Submission score: 1214
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523448884	193	well they sure as heck ain't buying otherwise price would go up
+1	1523450034	47	Everyone trying to buy the bottom as usual
+2	1523450574	49	I have some bottoms to sell
+3	1523453699	9	What color?
+4	1523454040	42	Brown, used
+5	1523462296	6	Brown from being used...
+6	1523462699	12	Shit
+7	1523469682	2	Are you being literal?
+8	1523471854	1	Do you know what shit is?
+3	1523456089	2	red bottoms, bloody shoes?
+3	1523459831	4	Are you a pimp?
+4	1523463335	1	Dzigizord you ain't no pimp dude.
+3	1523463457	1	Are they soggy? 
+2	1523459032	12	Everyone is actually shorting. [The short contracts are at an ATH](https://i.imgur.com/P2zhynj.png)[TFW you caught the Great Short of 2018](https://i.imgur.com/XxC5XKR.png)
+3	1523460550	6	Haha yeah I'm aware of this because I friended you a few months back due to your valuable insight. The recent post on liquidations of shorts was another awesome find. &nbsp;What does this mean for price though? &nbsp;New entrants are decreasing: https://trends.google.com/trends/explore?q=bitcoin&nbsp;Daily General discussion is down 1/7 of Dec.(Good)&nbsp;Alts are taking more market cap: (Good)https://coinmarketcap.com/charts/&nbsp;NVT is up but decreasing slightly:(Bad) https://coin.dance/volume/localbitcoins/ALL&nbsp;And volatility is decreasing. (Good)&nbsp;So 2 bad and 3 good which makes me feel mixed about the whole situation. I'd guess sideways with a slight uptrend based on that. Edit: I don't think I'm right though. 
+4	1523465229	5	volatility going down is absolutely horrible imo.
+3	1523460441	2	What does this mean?
+4	1523460445	12	>this>[th is]  >1.  >*(used to indicate a person, thing, idea, state, event, time, remark, etc., as present, near, just mentioned or pointed out, supposed to be understood, or by way of emphasis):*    e.g **This is my coat.**
+5	1523460618	2	how do you spell it?
+6	1523461104	3	t - h - i - s
+6	1523461304	3	I-t
+5	1523462342	2	Good bot.
+5	1523463531	1	:(
+5	1523465781	1	Good bot.
+2	1523470985	2	Well when you buy the bottom it goes nowhere. You have to SELL at the bottom before prices go up. :)
+2	1523468772	1	If that were true then the price would be going up. 
+1	1523453588	9	Bitcoin has a daily volume of just over 5 billion, either is just over 1 billion. People are buying just not at a high price.
+2	1523456073	21	Because there's still a lot of sellers
+3	1523456819	9	Every seller has a buyer. It's exactly 1:1.
+4	1523458014	16	But not every sell offer has buyer.
+5	1523460867	11	Not every buy offer has a seller either
+6	1523463883	3	Peter Sellers
+6	1523471042	1	Just sell at the bottom and buy at the top and you’ll be fine.
+4	1523457273	5	Sorry. Let me clarify. "A lot of sellers who are willing to sell at these low prices." Make sense to you, now?
+4	1523463840	5	lol what? no, it's not. multiple people can all buy from a single offer if it's big enough. or multiple people can sell to fill up just one large order from one person.
+5	1523466751	1	Please point towards where I said that the number of individuals are equal? Every exchange still has a seller and a buyer.
+6	1523470463	2	>Every seller has a buyer. It's exactly 1:1.>exactly 1:1
+2	1523457567	6	This volume is relatively small compared to what it was.If you check the charts, there seem to be an average correlation of about $1,000 BTC price per $1BN daily trading volume. When Bitcoin was about 17k-19k, the volume was about 17BN. Mid January the price was 13k with 12BN volume.Recently the price is moving around 6.5-7k with volume around or under 5k.The trading volume has gone down significantly, nobody seem to want to trade. Most people are waiting for some kind of confirmation about reversal of the bear trend.I personally use the trading volume as indicator about the market sentiment (not the price itself). That saves me many troubles with artificial pump and dumps on low volume.
+3	1523459730	3	In usd or btc? 
+4	1523460100	2	I had USD in mind for all numbers above.
+5	1523465399	2	then volume in btc is almost constant !? or i MisMathed?
+2	1523458971	1	Most of that volume is probably just day traders. 
+1	1523455950	9	The thing is I’ve been in this spot before. I got into crypto last June-July. Around the time with that big crash at the time. I was super interested but also not quite ready to go in, always waiting for it to dip just a little bit more because of how red everything had been just weeks before.It’s just how it works. All these new people will wait for a perfect opportunity that will never come. What’s most likely is that they will decide to go in when we’re almost in a bull market again already.
+2	1523456005	6	I've noticed the majority of us got in June/July....wondering if that is the bottom..those lows.  Which would put ETH around 120. 
+2	1523456507	1	Agreed. And happy cake day.
+1	1523463853	1	These bottom dwellers are leaving me with a bare bottom!
+1	1523464379	1	Prices are going up.
+1	1523452839	1	Accumulation is obvious right now, breakout is coming soon then we may go to 5-6k which in my opinion will be the last of the retrace judging on market sentiment
+2	1523460167	3	“Accumulations is obvious” —> any wallets to show us? (Or references of some sort..)
+3	1523461394	5	Talking about volume buddy not one guy buying a bunch lmao
+4	1523461774	1	Oh ok, my bad. Any references? https://data.bitcoinity.org/markets/volume/30d?c=e&t=bCorrect me if i’m reading this wrong (and i hope I am, because I’m hodling some) but what i see here is volume is not picking up...
+5	1523464493	2	Volume is dropping because there are fewer and fewer sellers at current prices
+6	1523465440	1	Or fewer buyers at the prices sellers want to sell at... I mean we can always find explanations for things and if that’s useful/accurate in any way, we should be listening to every reason the news outlets are giving us for price movements, don’t you think?
+7	1523466011	2	If your explanation was correct, prices would be trending down as volume decreased. > We should always be listeningIf you have a source not known to the market (it have it first), yes. Otherwise all news is already incorporated into the price. Listening to any individual piece only skews perspective.
+8	1523466679	1	My explanation says that less sellers are willing to sell at lower prices. Meaning that if buyers follow, price goes up. If buyers don’t follow, volume goes down until one of the two agrees with the other. I know this sounds like over simplifying, but is the logic wrong?Yes you’re right, a source not known to the market can be good. But media outlets give reasons left and right simply because they need to, to make $$. And the reasons they give are generally to justify PAST price movement. Any news not available to the public would be good for FUTURE price movement. 
+5	1523464747	1	Because that site stopped recording volume since dec 23 
+6	1523466048	1	It says on the chart april 9, 2018. Am i missing something? 
+7	1523466501	2	Look at the volume from the past 2 years weekly and you'll see it. Suggest around 2 mil volume for btc around the 23.It is possible we're back below 2014 volume level but I doubt it
+8	1523467241	2	Oh you’re right, that does seem wrong. Thanks for pointing that out! 
+2	1523454951	0	Oh
+0	1523448726	350	Or Bittrex’s server is poor 
+1	1523454171	30	Or everyone's signing up to sell after their last exchange imploded 
+1	1523452271	129	...how do you people not realize that this is the accurate answer...
+2	1523452953	66	But the Twitter said they had an overwhelming response! If their server was bad wouldn't they say "Like 8 people tried to sign up and we crashed"?
+3	1523457652	7	Not if you want people to sign up after you fix it
+4	1523458201	19	*Whoosh*
+4	1523458925	3	r/woosh
+4	1523457905	0	This. 
+2	1523455597	30	Well you have to figure almost everyone bought crypto on the way up, held, and gets to wake up every morning to new lows.  They need good news to keep them going.  This sub is pretty much dedicated to pumping.  Not just coins but egos as well.  
+3	1523457961	5	Damn tell them how you really feel.
+4	1523459231	8	I feel great.  I own zero coins currently.  I'm just waiting.
+2	1523460299	2	You must be new around here, crypto currencys are gods and no one will have anything any other way!
+2	1523453170	2	Because they're likely using a cloud server with auto\-scaling in place. It's usually the 3rd\-party services that fail when exchanges get sudden traffic influxes, like ID verication, captchas & CDNs \(who can sometimes detect mass organic traffic influxes as a DDOS attack\).
+2	1523455725	-1	How could you pretend that this is the right answer. This costs them tons of potential money... They do not want this and if they're smart they have great servers.
+3	1523457509	3	They’re not smart.
+1	1523457521	3	It is cheaper to pay for good servers and software than losing customers. Either the load has increased or it's a technical mishap + covering PR.
+1	1523462623	2	They don't shut down for server issues. They shut down for KYC/KYL manual backlog.
+1	1523465688	1	It's also entirely possible that current cryptoheads are just expanding their arsenal of exchanges. 
+1	1523458315	0	I think it's a PR stunt. It could be shoddy infrastructure, but that's bad for business. 
+0	1523446725	183	The people who say it's dead are the ones who either missed the December boom or people who lost by buying in the December boom 
+1	1523453858	25	Hey, I lost by buying the December boom and I'm not saying crypto is dead.
+2	1523457132	8	Me too brother. 
+3	1523460733	4	Same here :(We thought we were so smart
+2	1523462427	3	Bought at 19,600 and again at 7,900, I’m not worried. Been watching since 2012 just didn’t have investment funds until recently and timed the first one a little poorly.
+2	1523471411	1	Same
+1	1523451773	91	Or sold recently and keep yelling "it's all over" to reassure themselves they didn't fuck up. 
+2	1523461499	4	This is me. I lost my job and had to sell at about 25% of that peak. Feels bad man.
+3	1523469513	1	Sucks brother, stay strong and keep investing at lows with what you can.
+2	1523451945	8	Or are the geriatrics in our financial system that can't see the writing on the wall.
+3	1523454463	8	Or it's not dead but this doesn't mean much. They could be swamped by people that are already in crypto but just want an account there too. 
+2	1523457330	-3	They need to learn how to hodl.
+1	1523457511	12	>criticizing December buyers>redditor for 4 months🤔🤔🤔
+2	1523462385	3	you know people make new accounts right... you should too
+3	1523466926	2	And lose my trophy? Better caught dead.
+1	1523453162	12	If you look at Google Trends, crypto seems pretty dead.- https://trends.google.com/trends/explore?q=bitcoin - https://trends.google.com/trends/explore?q=cryptocurrency 
+2	1523455518	25	This graph is interpreted wrong.  People are not googling bitcoin every day, they google , find info they want and dont go back to google with exact same query.  You are not losing interest in your girlfriend when you are not asking for her name everyday.  
+3	1523470298	1	It's still an indicator that fewer new people are getting in to the game.
+4	1523471989	1	You are right.  It shows how many NEW people are googling , not total number of people.  It also means, that there is a lot of more people now who already have info about bitcoin.  Now just hope , that was not last uptick :)
+3	1523455622	-1	Type this into the Google Search box: **Bitcoin is**And in the Google dropdown, you'll see what people are searching for:- Bitcoin is dead- Bitcoin is a bubble- Bitcoin is worthlessCurrent public sentiment is very negative.
+4	1523460409	6	I'm mainly getting> crypto is not defined node jsGoogle suggestions aren't a good indicator of public opinion, mkay?
+4	1523456136	9	The results & suggestions that show up are heavily influenced by your browsing/searching habits, and usually aren't very indicative of much. Looking at the data for each search query is a better way to determine what's most popular as a search. Hope this helps for the future.
+5	1523464847	1	This is bullshit. Hope this helps for the future.
+6	1523466660	2	Not only does google use your browsing habits to determine search results, they also moderate what the results are and could be very well manipulating things like bitcoin is dead to show up as the first result.So how about you shut your retarded mouth and think before you speak.
+4	1523456320	-1	first of all it is showing info relevant to you.  second,  so what,  one slight pump and trending will turn to bitcoin is mooning
+4	1523457303	-2	Market. Cycles.
+5	1523463280	2	I remember a couple years ago when you Googled Amazon, it would say "Amazon is dead", "Amazon is a bubble", "Amazon is worthless."Wait... no. No, no, that never happened. 
+2	1523454891	10	Was crypto dead before Nov 2017? Because it's now at around the same level on the graph now as it was then.
+3	1523455044	3	No, I'm saying that public interest in crypto is in decline.
+4	1523455762	6	This statement is not the same as your previous one. I agree with this one. 
+4	1523463805	0	Interest waxes and wanes. It's quite possible the previous high on that graph could be made to seem comically low by the next 
+2	1523459626	0	This is a good thing... allows the market to reset. 
+1	1523466837	2	I love how the narrative moved from "January dip" to "December boom"
+1	1523452568	-2	The people who are saying it's not dead are the people left holding bags, hoping it all goes back up.
+2	1523455082	8	It's a down-voted comment (as of now) likely because it is seen as a negative comment toward the future of crypto, but there is a sad truth that some % of us are doing just that.  
+2	1523457844	1	I think *some* crypto is dead. The strong coins with good teams and an actual real world application will survive
+3	1523463347	1	>The strong coins with good teams and an actual real world application will surviveSo none of them. Gotcha.
+4	1523464915	1	If you don't think my favorite coin has applications you're in for a surprise. 
+4	1523465011	1	Let me rephrase, those that have potential for real world application.
+1	1523470470	1	Exactly! Crypto will be here for a loooong time..!
+1	1523457682	1	Whats the december boom
+2	1523458587	1	Simplified: the month that crypto truly caught the nation's attention due to its surging price on nearly all coins. 
+1	1523452968	-11	Alt coiners might be right about their favorite shitcoin being dead, but BTC is 100% legal for the first time in my life.For anyone thats been around since 2011, this has been the number 1 fear. IMO that makes BTC extremely undervalued. I cannot speak for alts as they have almost entirely died over the last few years of watching altcoins
+0	1523453166	23	Who's saying crypto is dead that hasnt always said that???
+1	1523459756	6	lol for real. more people than ever believe in the future of crypto. its the same old culprits every time(media, governments, banks). 
+0	1523452089	11	I live in Poland and here crypto is dead becouse of taxes
+1	1523452809	1	What’s the tax rate? I’m sure that kind of bloody pain is coming to the US shortly...
+2	1523454212	7	I read its 1% EVERY transaction. 
+3	1523472301	1	Christ almighty...
+2	1523466788	2	There is actaully an offical manifestation planned on April 20th. The tax is not actually the law but an interpretation that is completely irrational and ridiculous.In theory you could've deposit 1000$ play with it for a year cashout 800$ (so 200$ loss) and end up with a tax that would be around 100,000$Shortly, the goverment does not acknowledge crypto as something "real" and legal but hey. Taxing it is completely fine!
+2	1523454270	1	[removed]
+3	1523455361	3	https://www.np.reddit.com/r/btc/comments/8advis/guys_polish_government_has_just_destroyed_all/?utm_source=reddit-android
+0	1523452388	67	While I believe in Crypto, these "wow these people think crypto is DEAD, here is this tweet that proves otherwise" posts are a bit desperate and undermining.  It just comes off as self-reassurance.  Just enjoy your crypto and stop being so insecure that you need to make these posts every 15 minutes.  I almost have to unsubscribe because there are way too many of these posts and not enough informative ones.
+1	1523456252	1	Self reassurance works and keeps things afloat, although to a relatively minor degree. If it's what people have to do to feel calm, then do be it. 
+0	1523457990	13	Heres what happened: We had our chance. But scams ran rampant, the boom happened way too hard too fast, FUD, FOMO, and the general public realized "this is a shit show" Cause it is. 
+0	1523450644	29	bittrex shilling itself
+1	1523451880	15	Not everyone is a Binance disciple. 
+2	1523452576	0	Kraken???? 
+1	1523454933	0	Eh, Binance totally had an advertising campaign here especially during the security breach + after.Nothing isnt shilled anymore, you are the product :(
+2	1523464503	1	^ this. this is why most longer term traders dont come here as much anymore... everything is just a shil factory here now
+0	1523453622	3	https://www.ccn.com/bitcoin-price-bubble-popping-as-investors-develop-immunity-to-infection-barclays-claims/Reading this made me think that we are near end of the bear market. Typically when the bulls are running you should be worried when you cant see bears. And vice versa. 
+0	1523453438	3	I cannot see how this is related. People who were on Binance only (because Trex stopped registrations in December) now are registering on Trex.
+0	1523452606	4	how many of those are new users and how many are just people who already use other exchanges and wanted to have a bittrex account as well, i.e. the same people making posts like these?
+0	1523454161	2	If you're worried about what other people are saying, you're doing it wrong. 
+0	1523464757	2	Is Bittrex going to steal all our Monero forks? XMC is trading $25+ fucking crooks. And don’t say it’s my fault for keeping on an exchange when there’s still no hardware wallet support for Monero.
+1	1523467868	2	Yep, they steal all forks and dividends from coins. They even keep your NEO gas payout. That’s why I only use binance now, they have all of my holdings there and actually do the right thing
+0	1523467905	2	Wow thanks for sharing! That’s good to know. Crypto is here to stay but it’s still early days!
+0	1523451475	5	They just creating a shitty hype, giving the impression their is limited sign up positions. to create somekind of fomo.Apple iPhone first day scarcity tactic.Oldest marketing trick in the book!
+0	1523450564	9	many people don't have a clue. salty nocoiners
+1	1523453131	5	I haven’t heard of nocoin! Did I miss the boat on that one? Can I still get in on the nocoin  moon trip?
+2	1523459512	3	You  can  go to bank to grab some sweet nocoins eur, usd, etc 🤩
+1	1523450767	3	nocoiners! HAHA! 
+0	1523452980	5	This is positive for Bittrex because it means they care enough about quality of service to suspend sign-ups if they know their systems can't yet handle the volume.
+1	1523456269	0	Wish Bitmex did this.
+0	1523453024	4	Bittrex's definition of  "overwhelming response" is like 5 new registrations... 
+0	1523456441	3	So isn't crypto supposed to be a currency, not just NYSE 2.0? All of you are bickering over people not buying or people dumping their coins. Spoiler: that's not how people use currency. I don't cash out and buy into the dollar depending on the economy. Unless that whole currency angle was just to get more people to buy into your MLM scheme that is crypto? Sorry that your whales abandoned you and now you struggle to find meaning with your lost value 
+0	1523457309	3	More people are coming around to crypto everyday. People who claim it's dead are just trying to manifest thier hope that others don't get rich without them.
+0	1523452379	3	lmao "crypto is dead". whoever says this is extremely shortsighted and maybe 12 years old. 
+1	1523463221	4	Anyone claiming anything about the future of crypto is lying. Because nobody knows. 
+0	1523453847	2	People in a /r/cryptocurrency subreddit, who check it daily, are all telling you over and over, each and every single day that crypto is dead and going to zero... I dunno, maybe, just MAAAYBE, could they be tethered up? I dunno guys... you all may be smarter than I am, maybe you can decode their message.Rule #1, anytime anyone tells you anything (at all, whatsoever), think about why they are telling you this.
+1	1523454939	2	There are still way more "Buy the dip!" posts than "Crypto is dead posts."
+0	1523454250	1	If the market keeps going down - it's dead. The big fish swam away and the small fish tries to save the market from a collapse.It's time for serious implementation of the blockchain technology and projects with real value tokens, not just "yet another cryptocurrency"
+1	1523455342	0	Did someone say ripple? 
+1	1523455592	-1	Yeah if it goes down it's dead, what a great sentence
+0	1523446397	1	If this submission was flaired inaccurately, [click here](https://www.reddit.com/r/CryptoCurrency/wiki/resources#wiki_flairing_content).*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1523450748	1	I have not been able to ever get on Bittrex, because I think that message has been up for months 
+1	1523457839	0	Just open a ticket for an account.  They will open one for you.  
+0	1523451501	1	Looking at bittrex's new UI, it's a miracle people are registering. It's a good thing tho, I hope all of them are new players in crypto market.
+0	1523453204	1	How come everyone is signing up with Bittrex? What have I missed? 
+0	1523453796	1	Registration closed since December 
+0	1523454077	1	You only see what you want to see.
+0	1523454127	1	But the people that are signing up are probably already in crypto. Some new ones maybe
+0	1523454444	1	They haven't been allowing new user registrations for months
+0	1523454672	1	Probably the same ones who have already been waiting for months. 
+0	1523454812	1	It's taking weeks to set up an institutional gemini account due to backlog. Same with coinbase
+0	1523454919	1	That’s just the hype train people from nov dec
+0	1523454988	1	Haha, and if it's like this during a bear market, my lord imagine when the rocket's engine revs up.
+0	1523455811	1	Crypto will never die lol
+0	1523456145	1	Or they just say that to increase demand lol
+0	1523456508	1	crypto will live forever!
+0	1523457394	1	Cryptocurrency is far from dead
+0	1523457708	1	They can pump out these headlines and tweets all they want, but until we see price action in the markets, it's all BS. Nobody wants to admit it, but the bubble burst and the air is deflating as we know it. The tech just needs to catch up to price levels. Eventually, the tech will be applicable to real world applications, and then we will see a sustainable boom once again. For the meantime, just hold and dollar-cost-average your way in. Think tech stocks in the 90's, except faster.
+1	1523471383	1	Yeah something like 15x faster. 
+0	1523457837	1	Would Circle buy Poloniex for $400million, or any of the other huge deals taking place right now if crypto were dead? Its actually quite the opposite - crypto is about to be centre stage! 
+0	1523458191	1	Who’s saying cryptocurrency is dead? 
+0	1523458404	1	My guess is there were some bugs when they pushed out the updated interface. 
+0	1523458857	1	It’s crazy how a market with a bunch of product in development, as most are, is dead. Facepalm. Hype is dead. People thinking they are getting rich overnight went sad panda when it didn’t happen and started calling it dead. Calm before the storm when working products hit. 
+0	1523458912	1	I wonder how many people were prevented from register and enter the market in December/January? Would be nice to see an estimate
+0	1523459436	1	Ah yes "X" cryptocurrency service back end is struggling so everything must be good!Honestly i have a basic understanding of crypto and a bit of a gambling streak which has made me interested but at this point ive heard of so many fucked business, scams and general disastrous results centred around cyptocyrrency.. Its exactly why ive decided i wont be joining the race any time soon.How everyone can so happily put their cash into systems and businesses with such little testing or proven fortitude is beyond me.
+0	1523459621	1	No one is saying crypto is dead.
+0	1523460900	1	If everyone thinks its dead you need to surround yourself with different people . Its too late for the idea of decentralization to die.
+0	1523461306	1	This isn't a strong reason since I do have accounts on almost most of the exchanges but use only one or two. The other accounts are just forgotten but I registered just in case.
+0	1523461473	1	Institutional money tryna sneak in
+0	1523462253	1	Crypto has an infrastructure problem. That's why people stopped caring.
+0	1523462408	1	They are signing up due top FIAT pairings.
+0	1523462632	1	You trust bittrex?
+0	1523462817	1	Crypto isn't dead...its only just started.But lets face it, in order for you or moreover newbies to buy alts, you are required to buy bitcoin/litecoin or ethereum before then going on to said exchange to buy invest in alts.LETS FACE IT. THIS IS AN INEFFECTIVE FU(K AROUND !Good on Bitnifex and other exchanges  loosening up the monopoly of bitcoin and others.With fiat pairings to all alts, lets open up the market and let survival of the fittest occur. If this was the case considering the tech behind bitcoin would it really be worth $7k ?It refuses to evolve.We all know what happens with things that cannot change.
+1	1523466434	2	> up the market and let survival of the fittest occur. If this was the case considering the tech behind bitcoin would it reallFiat\-Crypto pairings will be huge for the market. Noobs can enter easily with fiat.
+0	1523463965	1	or it could be people trying to get accounts to run bots on
+0	1523464155	1	Some people have multiple accounts. We are sure this isnt from nov or dec from last year?
+0	1523464253	1	all the institutional people are starting to register!!!
+0	1523465005	1	Its dead. Everyone is just opening accounts to sell, duh.
+0	1523465356	1	Cryptocurreny is not dead and will never die. Cryptocurreny only travelled a while for people who HODL to acquire more and in time of pumping they can make more profits from their HODL.  Cryptocurreny is proliferating amongst other currency.
+0	1523466233	1	It's the right time to buy cryptocurrency after these massive dips and crashes. It's not that weird, people see an opportunity and they take it. 
+0	1523466617	1	MOAR BOTS
+0	1523466865	1	I don't think many people aside from some shills are saying cryptocurrency is dead. The majority of the tech industry is acknowledging it's here to stay and investing in their own blockchain or other DLT solutions for whatever their market vertical is. Big money is looking to fund some endeavors and likely also trying to lock it up for themselves with regulations (Which they will probably succeed, humanity has never created an equal society there are always privileged elites).It's a rapidly evolving space, and the market moves quicker than any I've ever seen. There are bubbles like once a year or so, which is normal for markets, we've just never seen one this fast. We're in a major correction now, but I think it's almost over.
+0	1523467173	1	Literally have never heard anyone say crypto is dead- only butthurt amateurs that got in mid January would say that, this is all revolutionary tech and not going away
+0	1523468140	1	People want in on the crypto game🚀🚀🚀🚀🚀🚀
+0	1523468366	1	crypto isn't dead lol. Only way to stop crypto at this point is to eliminate the human race. 
+0	1523468917	1	It's "dead" until the next record-setting speculative bubble followed by major crash, stabilizing well above the pre-bubble market cap, as is tradition.
+0	1523469139	1	Don't underestimate the effect of new registrations coming to Bittrex.  The volume will start rolling in and the days of massive volatility will return.  Beautiful news for all us daytraders.
+0	1523469341	1	That's a canned reply they use.
+0	1523453244	-1	Yes crypto is dead, til after tax seasonBut crypto has a cheat code with unlimited lives. 
+1	1523455215	4	till after NY, till after Chinese NY, till after tax, till after bankers would buy....
+1	1523453839	7	The world is bigger than the United States my friend. Open your mindddddddddd.Edit: I just realised, you might not be aware that every country has different tax seasons. They do. EG. Australia's is June/July.
+2	1523454212	-11	Yeah, but have you ever looked up how many dollars america has vs everyone else? Its pretty cute you think little ole australia compares to the american economy. 
+3	1523455157	10	It's cute you think that most of crypto's support is in the US
+4	1523456308	-1	[deleted]
+5	1523457500	0	A wild smart neckbeard appeared!
+4	1523457661	-3	[deleted]
+5	1523459149	2	Your comments have elements of truth to them, but are far from fact. It's like you see the world the way you want to, rather than the way it is. Blind patriotism. 
+6	1523461361	1	That's the US for ya
+5	1523460036	1	I didn't read this, but you seem too upset. Chillax.
+3	1523458987	2	I didn't even imply Australia's economy compares to the US, was merely using Australia to illustrate a point, which was clearly lost on you.Hopefully my comment educated someone else who has more appreciation for global knowledge.  
+0	1523453427	1	this subreddit is trash
+1	1523455003	0	Every subreddit on Reddit is trash
+0	1523452376	1	i would say: crypto isn't mainstream, yet. Crypto is the next step as internet was at 1990.
+0	1523454556	1	While I think crypto is insanely overvalued (shitcoin market cap still in the multi billions USD), I don't believe the entire market is dead. I think we will crash down sub 5K and that most of these coins will be worth zero in a few years. Blockchain tech is here to stay though, it might just be zero from this generation that survive in the end.
+0	1523456829	1	I've heard this a few times, people saying crypto is "dead".If crypto is dead, why are people still posting here?If crypto is dead, where did 12b USD in volume come from in the past 24hr?If crypto is dead, why did I just buy more cialis with bitcoin last week?If crypto is dead, you get the idea.Oh, you meant to say crypto is dead because bitcoin isn't 19k anymore and you're bitter for buying it at 17k. You're saying crypto is dead because you're one of the morons who fell for the "hodl" gang-meme and even bought a "HODL" T-shirt, huh? You're bitter, so you're trying to sabotage everyone else because you CANT STAND to see others succeed when you fail? Is that it cupcake?People saying crypto is dead, please tattoo yourselves right now with "I said crypto was dead 4/11/18 9:26AM" In 6 months, or a year, or even 2 years, when we're at 35k bitcoin you pull up your fucking sleeve and show off that tattoo cocksucker. 
+0	1523462647	1	Probably the institutions creating a ton of user accounts so they can make many small trades instead of one. Likely an easy way to hide their identity and market manipulating behavior, by disguising as individual users.Food for thought.
+0	1523446909	0	It can be still in the doldrums and still lots of interest. Doesn’t mean it will translate to higher gains 
+0	1523450116	0	No, it’s because Bittrex is dog shit, nothing else
+0	1523452874	0	Oh no we’re in a bubble!!
+1	1523453148	4	Tulips 
+0	1523454406	0	guys guys guys.... lets not correct these people. its time to accumulate, then let them buy hehe
+0	1523458778	0	Tax season is over, people are looking at cryptos again!
+0	1523465507	0	It's dead? It hasn't even started yet!
+0	1523470418	0	FYI Bittrex crashed after 10 new users tried signing up... so not that many people lul 
+0	1523461729	-1	"Crypto" is dying for sure, as it should. The sooner we get back to all working on Bitcoin (BCH) the better! Lightning fast, on-chain transaction for pennies. Sure, there are "cheaper" coins (but 1 sat/byte usually means less than a penny USD per tx and that can be made even lower). Are there "faster coins" ? (not really, 3 second txs on BCH, settles in 10 mins). Branding matters. Bitcoin was first, still the best. It just required a community split, and a period of crypto token lottery mania to trigger a bear that will bring everything back down to a realistic level. After all the pitch-coins get rekt, the few coin(s) that PROVE useful (by actually being used between parties) in real world applications and use cases (BCH adoption rising, hundreds of thousands of merchants) will create value and have their market caps increase which will bring  more price stability. Price is the least interesting thing about Bitcoin (BCH). Price is the only thing interesting about BTC and the rest of the useless exchange dwelling speculative tokens. 
+1	1523462541	2	What if I told you there is no use for Bitcoin Cash anymore because as of Feb 2018, Bitcoin Cash has been implemented WITHIN Ethereum as a SHA3 PoW mineable ERC20 currency?   Sorry, you are bag holding a dinosaur 
+2	1523466837	1	Well, that is rich! Maybe you have never used Bitcoin (BCH) before. Try it. ETH is a token platform, it's not a currency at present. Vitalik is also a big fan of Bitcoin(BCH) and would have built ETH on Bitcoin if not for Blockstream and Core preventing his efforts.  
+3	1523468142	1	You are correct. Ethereum is a platform. It's a platform so powerful that now there's a token built into it which is 100% pure PoW SHA3 mined currency which is trustless and controlled by no single entity.  This token was launched in Feb 2018 and is everything Bitcoin Cash is except also compatible with smart contracts and scales as the Ethereum network scales i.e. far more tx/second than bitcoin cash.  
+0	1523448805	-5	back in december people were paying good money for an account on big exchanges that almost all turned off their registrations, now that everyone is aware that it was a thing they jumped to register an account just in case they can sell it later
+0	1523454410	-2	Well crypto is not dead, maybe bitcoin will be dead soon but other coins, which use modern technologies of new generation, like CREDITS, EOS, Etherium, will be rising up and rocking the market!The blockchain and smart contract technology remains intact. There was no Credits security breach, no superseding technology, nor any threat that renders CS, EOS and other cryptocurrencies useless. The supporting phenomenon that popularised cryptocurrencies in the first place is better than ever and represents an alternative to the legacy financial systems (and other systems) that we have in place today.
+1	1523454415	3	It's spelled 'Ethereum'.

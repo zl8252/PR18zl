@@ -1,0 +1,44 @@
+File created at: 1523472251
+Subreddit: Bitcoin
+Submission title: Using Lightning to refill my phone credit. Feeling like a boss!
+Submission created utc: 1523405444
+Submission score: 168
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523429217	9	/r/btc on suicide watch
+1	1523433964	2	Let's see what happens when blocks get full again.  If Lightning domains then you're right.  BCH is toast.  But I wouldn't count my chickens. 
+2	1523450455	2	But in the end if after Schnorr, Merkle trees, Segwit 100%, batching, Lightning and many solutions that are still to come we get full blocks and there is no other way to scale we will simply increase the block size, and this increase will get leveraged many times by all those technologies.My point is BCH has no advantage over Bitcoin whatsoever, because after all if it comes to a point when the blocksize needs to be increased we will do it.So no matter the outcome, BCH is just a copycat with a boring solution that BTC could implement whenever it pleases, with less developers, less interesting projects, no access to Lightning, and more centralised.No, there is not any scenario where BCH does not become useless.
+3	1523455104	1	I agree with you 100%. I get frequently accused of "concern trolling" in the other sub. I think their community is reprehensible but the one thing they keep going on about which sticks out to me that bitcoin doesn't have is 0 confirmation transactions. That was replaced with RBF. If we had 0 conf tx's I think they would have literally nothing on BTC. 
+2	1523437493	4	Well, BCH is toast already.  I suppose it will be burnt toast.
+2	1523450244	1	It's possible block never get full again. Bitcoin was in a speculative mania, and since then SegWit adoption has increased, exchanges are batching, and Lightning is on mainnet. 
+3	1523453992	2	Don't forget the spam.https://blockchain.info/address/1Enjoy1C4bYBr3tN4sMKxvvJDqG8NkdR4ZI find it hard to believe this would be endless profitable 
+3	1523450249	1	I agree, this does seem possible.
+3	1523452451	1	It's not really important if blocks are full or will be full. What is important is that it's not possible to build on top of solution that does not scale. *Why bother adopting this solution if it may serve at most 1% of our tx throughput?* With LN this is no longer an issue.
+2	1523437783	1	Who is BCH again? Oh, the posers that wants to be BTC. 
+3	1523455181	2	that is true but I like to think of them as the copy/pasters as well as posers... just copy and paste bitcoin's code, then pose! 
+1	1523454912	2	I wouldn't hodl your breath. they're like cockroaches... a nuke could hit them and they'd still be scurrying around talking shit. 
+0	1523407811	3	My phone plan is up on Monday, does Bitrefill provide data with your plan? I am in the USA......Pretty awesome they have a lightning channel open. Cheers!
+1	1523411170	1	Indeed. I've done it once before (pre-lightning). Check out the website, punch in your number, and see if it's supported. 
+2	1523419654	0	The number is supported. I didn't see anywhere on their website if they support data, right now, it seems that texts an calls were the only things they support.I may be wrong though, I'll give it a try, thanks for the feedback! 
+1	1523433908	1	It just adds money. Prepaid plans only.  Works awesome and instant and many times 10% off
+0	1523411112	3	Excellent. I've used regular BTC transactions in the past to top up, this is even better :) 
+0	1523424596	3	Unfortunately my stupid country is not supported. (NZ)
+0	1523423052	6	Do lightening transactions work as normal transactions or I need to set up a new seperate lightening wallet first? Can you walk me through the steps of sending my btc from coinbase to lightening network?
+1	1523430586	2	There's an Android Wallet called Eclair that should be launching on the Play Store soon (it was there but got removed by the devs).Note that if your BTC is on Coinbase, it's not under your control, it's under Coinbases. If it's a significant amount of money, consider getting a hardware wallet. At least research some Mobile wallets.Here the steps for Lightning:**WARNING: Lightning is still in Beta so there could be bugs. This is not easy for beginners. Use small amounts of money that you don't mind losing!**1. Download Eclair (when it comes back) or another Lightning wallet (like Zap)2. Create or restore a wallet in Eclair3. Send money to your Eclair wallet (it's now ready to use as Bitcoin wallet)4. Go to channels and open a Payment Channel. Eclair allows you to open a channel with one of their Nodes. You can also open a Lightning node with someone else.5. Wait for the other party to confirm the channel. Congrats, you are now on the Lightning Network6. [Buy shit](https://store.blockstream.com/)7. [Mourn for babies](https://twitter.com/crypto_rand/status/981529455553400833)
+2	1523437675	2	Ref 6.   Why isn't there a **single** BTC logo on any of Blockstream's 6(!) items on sale?
+3	1523438074	2	Because they're promoting their brand I guess. Blockstream =/= Bitcoin. They're a for-profit company that built 1 of 3 implementations of Lightning. Lightning is open source, so anyone can build another client (As Gmail, Yahoo, Outlook etc. have all done for e-mail).
+4	1523438322	2	I appreciate that.  But it would be good to see them openly promoting BTC  - otherwise the only Bitcoin logos people are going to see are Roger's skewed orange or green (depending on the day) scamming ones.
+5	1523438795	1	Drop them a message and say you'd buy merchandise if it had the Bitcoin logo. Heck I'd buy it. I'd much rather wear a Bitcoin hoodie than a Blockstream one. End of the day, money talks.EDIT: Alternatively, launch a store yourself. You could probably make some $$$ if you could do it well.
+2	1523432043	1	all that shit's out of stock
+3	1523432091	1	Because people keep buying it! Bought myself some stickers  :D
+2	1523447980	1	does eclair suport segwit address?, bech32 address?
+3	1523450495	1	Segwit: yes. It's required for Lightning right now.Bech32? Not as far as I know. Addresses start with a 3.
+2	1523433515	1	7./ Hahahaha!
+1	1523429756	1	You need a wallet which supports Lightning.
+0	1523433895	1	Credits to acinq the eclair wallet developers, as well as bitrefill for providing a lightning node.Special thanks to the core dev's making this possible.
+0	1523436968	1	I use it too. Bitrefill is great! Now with LN is fucking great :)
+0	1523446878	1	you're sooo lucky!
+0	1523442207	0	But, the question is if implementing lightning network will solve a fundamental flaw in bitcoin? Merchants will not accept BTC or any other cryptocurrency as payment unless the price is stable. https://twitter.com/Bitvizor/status/983944695419056128
+1	1523449862	3	I do accept it as a merchant. Bitpay gateway allows you to convert the payments into FIAT instantly, the moment a purchase was made. You can keep the Bitcoin, like I do.Volatility drops with adoption...I and many others are hoping for adoption, obviously.
+1	1523443703	1	You see merchants actually accepting Bitcoin even with high volatility in the markets
+1	1523442213	0	[**@Bitvizor**](https://twitter.com/Bitvizor/)> [2018-04-11 05:47 +00:00](https://twitter.com/Bitvizor/status/983944695419056128)> A major Bitcoin flaw revealed \#Cryptocurrency http://www.bitvizor.com - http://bitvizor.com/news/a-major-bitcoin-flaw-revealed/----^This ^message ^was ^created ^by ^a ^bot[^[Contact&#32;creator]](http://np.reddit.com/message/compose/?to=jasie3k&amp;subject=TweetsInCommentsBot)[^[Source&#32;code]](https://github.com/janpetryk/reddit-bot)[**^[Donate&#32;to&#32;keep&#32;this&#32;bot&#32;going]**](https://www.paypal.com/pools/c/80YvGrbq35)[^[Read&#32;more&#32;about&#32;donation]](http://np.reddit.com/r/nfl/comments/7pwo2m/heres_an_interesting_one_league_source_says/dsmirtu/)

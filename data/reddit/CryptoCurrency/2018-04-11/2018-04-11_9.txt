@@ -1,0 +1,119 @@
+File created at: 1523472320
+Subreddit: CryptoCurrency
+Submission title: EOS team is suspected of colluding with VCs and Block Producers
+Submission created utc: 1523452067
+Submission score: 123
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523465690	16	> Block.one CTO, Dan Larimer, claims he has no idea about any colluding going on , and he claimed the INBlockchain partnership on eos.io was a photoshop before being linked to internet archive.    That's enough for me to be suspect right there. Dan is claiming that the internet archive site is hosting false information on their archived pages and I don't believe him.
+1	1523468369	0	>Dan is claiming that the internet archive site is hosting false information on their archived pages Produce a source for this outlandish claim please
+2	1523471552	1	>Dan Larimer claims that it's a Photoshop.>Internet Archive hosts the site with the proof.Now **either** Dan backs down, or he affirms his claim that it is a Photoshop, which means that he is claiming that IA is compromised/hosting fake content.I haven't seen a comment from him about this so I'll just go get my popcorn ready.
+3	1523471882	2	Where did he make this claim? Link please. You're telling me that Dan is claiming that archive.is is engaging in a conspiracy against him. That sounds like a lie, and I will assume it's a lie until I see this supposed conversation for myself. Or is it that you're putting words in his mouth? That seems like the more likely explanation here.
+0	1523457411	40	I would be more surprised if this didn't happen. Their dPoS system is just begging for collusion and cartels. 
+1	1523466365	3	Is it as corrupt as Lisk /LSK? 
+2	1523469279	1	I believe it is slightly better actually, because the 21st delegate is randomly chosen.
+1	1523468394	-2	Saying the pro-ethereum dude? Ethereum is a centralised mess. 3 pools control way more than 51% of the network. EOS has a fair distribution: anyone is able to have his vote power.OF COURSE some people will have more power than others this is not a freaking communist network, it's a cryptocurrency.
+2	1523469693	3	>Ethereum is a centralised mess. 3 pools control way more than 51% of the network.Shhhh we're not supposed to talk about that
+2	1523469783	1	some people having more power goes against the whole point of having a decentralized system
+0	1523464036	10	What about the voting....I don't see anything wrong with these companies being block producers at the start. EOS holders will be able/expected to vote to remove them if they don't produce blocks correctly. If you follow EOS you will know that it relies heavily on a governance model for maintaining order.  That said, the incentives are pretty well aligned for them to no try to screw users.  
+1	1523464393	4	Yes, hence why I believe it's important for people to know what's going on when they vote. BlockOne seems to make an effort to keep this obscure, which is counterproductive for voters who should have as much information as possible before making their decision. For instance, if a voter prefers decentralization of BPs, he should probably be aware who's teamed up with whom in order to vote appropriately.
+2	1523469728	0	So you are trying to say that EOS is somehow a corrupted idea purely because of your philantropic nature and absolutely not because your post history shows constant EOS fudding and pretty fair amount of Ethereum shilling.
+1	1523472289	1	Voting doesn't matter in some aspects. The block producers will be the only ones running nodes for the most part since an EOS node will be extremely expensive to operate with such a high throughput. They will have complete control over the ledger as they will be the only ones storing the chain in the long run. If they collude, the immutability will be broken.
+0	1523460894	20	eos is a centralised mess, not surprising whatsoever
+1	1523465511	1	In your opinion, what's a better decentralized platform that I should be looking at?
+2	1523469344	2	In my opinion, Matrix. Read about it some at /r/MatrixAINetwork. In a way its similar to EOS in that it has a small number of delegates so can scale, but its unique in that it generates these delegates randomly every 10 minutes or so, so as to avoid centralisation whilst still keeping the benefits.
+2	1523467910	1	ETH, the OG decentralized platform 
+3	1523468455	5	lol @ ETH with those ASICS
+4	1523469057	1	Miners don't matter when it becomes POS
+5	1523469669	1	Miners matter, they are the backbone of this network and they are also the ones with good amount of coins which can be used in PoS.
+6	1523469966	1	POS will allow for more decentralisation than POW offers, I think we can agree on that
+7	1523470261	1	Yes, but I am afraid they will just add masternodes and then bitmain will have a shitload of them :(
+7	1523472012	1	Uuuuhhh what?
+2	1523466686	1	Aion
+1	1523465588	-5	Lmao it's not even fully launched and you're pulling assumptions out of your ass. Take it as you will, but nothing can truly be decentralized. If rich people/organized groups want to own a big slice of the pie, nothing will stop them. Bitcoin and ethereum are not exempt.
+2	1523469285	3	Well even if that's the case, I'd like to try a little harder at decentralisation than what EOS has to offer.
+3	1523470467	0	I have zero doubt in my mind that you don't even know what eos has to offer otherwise we wouldn't be having this conversation
+2	1523466448	3	Sure, but the fact that decentralization exists on a gradient doesn't nullify the fact that Ethereum is much more decentralized than EOS.I think that EOS's solution to scalability and network resource allocation is very interesting, but it's really just a stop-gap until Ethereum implements Casper/Plasma. When and if Ethereum improves scalability EOS will only have downsides in relation to Ethereum, as it's much more centralized.
+3	1523470320	1	This is purely based off assumptions. Give me 1 source that proves your claim - because as far as I'm aware, more than 50% of eth's distribution is done thru a few large mining pools. Is that your definition of decentralization? And ethereum isn't fixing their scaling anytime soon. It's going to take a year or two from this point on and by then there will me multiple other projects that dapps could be built on. I'll be the devils advocate and say that the only reason ethereum is #2 is because it is the first mover and people didn't have any other option. People always say that the platform that develops the first 'killer dapp' is going to be *the* platform, but how can ethereum be the one if they're still time away from scaling? It's bothering you consider EOS as just a stop gap and it exposes your bias. And **please** tell me the downsides eos will have once eth fixes their scalability.
+3	1523469791	0	> Sure, but the fact that decentralization exists on a gradient doesn't nullify the fact that Ethereum is much more decentralized than EOS.https://imgur.com/a/ATVtN
+0	1523463134	11	>INBlockchain was listed on EOS.io as a partner up until a few days ago, and block.one CEO Brendon Blumer has been listed as an advisor for INBlockchain (check internet archive; can't access it right now)Can confirm /u/stop-making-accounts[Cached page](http://web.archive.org/web/20180328003751/http://inblockchain.com) showing Brendon Blumer as an advisor. [Current page](http://inblockchain.com) with him _"vanished"_.[Cached page](http://web.archive.org/web/20180330040316/https://eos.io/) showing INBlockchain as an EOS partner. [Current page](https://eos.io) with them _"vanished"_.
+1	1523469939	2	> Cached page showing INBlockchain as an EOS partner. Current page with them "vanished".Looks like they completely redesigned the page and no longer list any partners. Why would you automatically attribute this to malice?
+2	1523472141	1	There's text before the one you quoted, put in a little effort and try reading it. Then read the OP again, particularly the part about photoshop. 
+0	1523465366	5	I find it interesting the correlation between EOS having an upwards day and a CC front page piece criticizing EOS. The same thing occurred the other day when EOS released Dawn 3.0 and there was a front page piece about how dangerous EOS is. 
+0	1523466241	5	PedoCoin
+1	1523466435	2	He was fired by them IIRC right?
+0	1523459311	4	+20 percent up. this does not make a sence
+1	1523466203	3	Lately crypto doesn't.. XVG and XBY?
+2	1523466375	1	XBY dropped like a rock after On the Pulse. what are you talking about
+3	1523470331	1	XBY had a decent surge a couple days ago but yeah that one is going to stay low until the patent comes through. 
+1	1523467989	5	28% percent now. Quick guys spread more FUD!
+0	1523459471	7	EOS clearly has institutional backing, and if they can produce what they say, they'll likely be successful and hold their fair share of the market. 
+1	1523466719	1	Which institutions then ?
+2	1523467116	1	Mike Novogratz's fund for one
+3	1523468283	2	I have a decent amount of eos from last year because the idea and tech sounded neat but every time it pops on my radar again it rubs me the wrong way. That includes Mike over there.But I registered my address so i'll be checking it out.. if someone builds smth where I can use them..
+2	1523467913	1	Exactly what your follower redditor said. Galaxy - novogratz fund. He put 150 mil of his own money in. Reported that they have 350 mil. I am fortunate to be friends with a man who heads up a blockchain investment group in nyc and he has been going to the galaxy cocktail events. Basically he said he believes 1 Brock was a disaster but once you get over that they have something 2 that he thinks that the majority of that 350 will go into backing EOS projects. 
+1	1523468579	0	If they can produce what they say lol....they wont. 
+2	1523469512	1	IMO they might. This is my biggest speculation play. 
+3	1523469929	0	calling it now... EOS is a scamcoin 
+4	1523471328	2	Lol you and one million other redditors. Like I said - my biggest speculative play. 
+0	1523458909	4	I've been seeing a lot of attacks against EOS. It looks coordinated since most of their projects are going to finish in 2 months, June specifically (main net). If they have some sort of interests conflicts inside their headquarters, does not mean that EOS is a "scam". Every company has inside troubles and these conflicts of interests are the most common. I will be investigating a bit in this case even though it seems a bit messed up.EDIT: you can see the attack in comments so obvious. Anyone saying something good about EOS is getting downvoted hard.
+1	1523459828	19	It's not coordinated. This is a crypto community and that's the actual general sentiment; a lot of hardcore decentralists reside around here, hence the hate for EOS.
+2	1523467233	0	Then why is Neo (only has 7 validating nodes), Ark, Lisk etc. never really attacked?
+3	1523468367	1	lol what ? You clearly don't follow reddit. Neo was hammered last month
+3	1523472113	1	Well NEO is currently controlled by the developers as they run the validating nodes so this isn't a trustless system. Obviously NEO's team would never attack their own project, but they shouldn't even have the ability to do so even if they wanted to. This completely defies the whole vision that Bitcoin started: a decentralized, trustless, censorship resistant future. And Lisk was already attacked to some degree. Also, on a side note, these systems need to ensure that the chance of an attack is negligible or nonexistent if they wish to replace today's financial system and that is exactly what Vitalik is preparing Ethereum to do.
+3	1523467779	-1	Because they're irrelevant in the grand scheme of things. If they produced any real volume you can expect attacks. 
+1	1523461698	3	Don't you think DPOS can lead to a centralized network? Curious to know your opinion.
+2	1523463843	4	it happened with Lisk, look at that shit show. Completely failed project due to their dPoS
+2	1523463746	2	I see that you are trying to talk from a shareholders POV. It's true that the way DPOS works, sort of gives the power to the shareholders, but still, it's decentralized. I know Dan is putting a lot of trust on the people who will have the voting power, but I've always been a risk-taking type of guy. At least I know that I'm not going to suffer for my investments since I'm quite up on my portfolio since the initial investment.  You can leave at any time. The first reason I got into EOS is when I heard that it will be a platform for dapps and will be using some of the ICO money to fund some of the early projects on their platform. I believe the decentralized applications are the future once they become mainstream.
+1	1523463979	5	"attacks"no, people don't like EOS. Shady team, shady past, shady distribution method, dumping ETH en masse, a child molester on board, their really shady marketing videos (Brock Pierce in a cowboy hat telling me "everything on earth is going to change for the better" because of EOS?)I could go on and on...
+2	1523467383	-1	Don't go on lol.Shady team? Not really. Shady past? OMG Dan left some projects that went on to become the 1, and 3 most used blockchains. Shady distribution method? Spreading the coins out as far and wide as possible?Dumping (i.e. selling) the proceeds of their sale? Should a company not sell(or use) their profits because it will devalue the dollar?Brock Pierce knew a child molester, kinda different to being one. Fair point on the cowboy hat stuff - it wouldn't kill him to wear a suit lol :)
+3	1523467514	0	>Shady team?>OMG Dan left some projects that went on to become the 1, and 3 most used blockchains.All of Dan's projects are some form of a way to make him rich very fast. He never sticks around, and tried creating his own bitconnect long ago.>Brock Pierce knew a child molester,read into the story
+4	1523467712	0	>All of Dan's projects are some form of a way to make him rich very fast. He never sticks around, and tried creating his own bitconnect long ago.Who cares if he doesn't stick around - if the project is set up properly other people can manage it. The man has to retire one day.>read into the storyI did, hes not in jail, nor charged, so he deserves to be afforded natural justice like you and I.
+1	1523459929	3	> I've been seeing a lot of attacks against EOS. It looks coordinated since most of their projects are going to finish in 2 months, June specifically (main net). If they have some sort of interests conflicts inside their headquarters, does not mean that EOS is a "scam". Every company has inside troubles and these conflicts of interests are the most common. I will be investigating a bit in this case even though it seems a bit messed up.> > True, I've been seeing many posts where EOS is being called scam just because it is in the hype. I do however agree most coins that get into over hype are shit verge is a leading example but if EOS can bring out what they have promised I can see them capturing decent market in future.
+1	1523470364	1	They "think" they missed the bus so they FUD it. They dont know this will reach $100 eventually
+0	1523468279	1	Funny how the FUD always ramps up when it starts pumping...I highly suggest people scroll to the bottom of the page and expand all these comments with 10+ downvotes. Just a *little* suspect if you ask me.
+0	1523459966	1	we all know what EOS is pretty centralized and yes, they are backed by institutional investors. I believe this is the end of story
+1	1523465285	10	Eh, the fact that Dan Larimar apparently tried to deny that there was EOS-INBlockchain partnership/said it was photoshop, despite the fact that there is clear evidence of INBlochain being listed on the EOI.io site if you look at cached versions of the page, is kind of iffy.
+2	1523467124	1	Lying is different from being mistaken. I don't really think that he would lie in the face of overwhelming evidence. He builds the tech, the partnerships would be the ceos job i'd imagine.
+3	1523467612	3	>I don't really think that he would lie in the face of overwhelming evidenceYou'd think, but prominent people do it all the time.I don't know if he was deliberately lying or not, but in order for it to be a mistake:* He'd have to be unaware of who they're partnered with; and* He'd have to have accused someone else of lying (saying the partnership was photoshopped) without bothering to check who their partners are.Maybe a CTO doesn't concern himself with partnerships which would excuse point one, but that just makes point two worse...Edit: As an aside, is just me or are the team members behind EOS not listed anywhere on the EOS or Block.one websites?Edit2: Ah, on Block.one's site they do mention the CEO and CTO by name. Nobody else though.
+4	1523467873	1	You are correct with point 2, but he goes through so many dumb questions on telegram everyday you can't blame the guy for making an assumption like this to save some time.
+0	1523464915	1	The fud is truly incredible for EOS, but it is to be expected. EOS is centralized, but bitcoin and ethereum with mining pools aren't? Got it. 
+0	1523468184	1	they had a shady past which they recently denounced. What does anybody expect of them, to become mother Theresa? The moment I read the scandals some of their initiators were involved with I decided to stay away. 
+0	1523463708	0	Huh, yet another reason to steer clear of this obvious cash grab
+1	1523468536	2	If I had listened to you idiots back in February/March I would have missed one of the few big gainers in a sea of red. Still not listening now.
+2	1523468580	1	Yeah, and if you fell for Verge or Bitconnect at the right time you'd have some pretty sweet gains.
+3	1523468711	1	What does EOS have to do with Verge and Bitconnect? They're entirely unrelated. I'm currently developing applications on the EOS testnet so I can sleep easy at night knowing that it's going to deliver.
+0	1523456973	-5	Not doubting you, but honestly why should I care about this?     EDIT: downvoted for trying to open up a discussion.  Perhaps block one does have close ties to a block producer...what are the implications? You had a chance to respond to my question with a thoughtful reply, but instead just downvoted me because I didn't immediately buy into the narrative you are selling.  If you can't explain your position, then your position isn't very strong.
+1	1523457662	9	Ever heard of the 51% attack?
+2	1523457990	-3	Why would block.one want to attack their own network?
+3	1523458918	8	That's a solid question, until they just do it and then you're not asking why they would do it, but more so you're asking where your money has gone. It's irrelevant if they would or wouldn't. They *can*. Just like Bitmain *can* destroy Bcash at once, if they wish to do so. Seems to be a massive problem for people to acknowledge. Just because you think it's very unlikely to happen, doesn't mean it's not going to happen. It might not even mean that it's unlikely at all. 
+4	1523466024	1	But can they?  That is some extreme speculation. This post is accusing block one of having close ties with a single block producer candidate (INBlockchain) which allegedly may have investments with some other block producers. You are jumping to the conclusion that this somehow will enable them to 51% attack the network.
+3	1523460965	6	you're using a blockchain so it can be trustless. what's the point if you're putting your trust in block.one? 
+4	1523464055	1	$1 Billion fucking dollars from a bunch of kids/young adults who are so easily swayed and don't so much as ask for any details, legally yours as "donations".Why the fuck else?
+3	1523460953	5	Perhaps they'll have a short position? Not saying they'll do it, but I believe there should be more transparency about their political developments.
+3	1523461331	3	Imagine that many institutions rely on EOS in the future. They can blackmail those institutions for whatever they want with the threat of manipulating the ledger to erase their data, etc.
+3	1523463131	3	Why would the government screw over their citizens? Citizens elect the government after all! 
+4	1523466221	2	This is sarcasm , right?
+5	1523466949	4	Yes. 
+0	1523456572	-10	Well if anything Im comsidering going all in on EOS. I mean, Verge with all that shit is doing great market-wise, EOS with similar shit and a much better project should skyrocket to fucking Pluto
+1	1523459159	2	You're downvoted, but let's look at today. https://coinmarketcap.com/currencies/eos/So there's real bad news for both EOS and XVG, and upon after that sucknews for them, they shoot up? How can people be this fucking stupid?
+2	1523460587	2	What is the bad news for EOS? There was only good news today. AntPool is campaining to become a block producer for EOS. It shows tbay big players in the crypto space are taking serious interest in the project. 
+3	1523472049	1	Well... In short, this news, and John Oliver's bit. I think.
+2	1523470105	1	what a suprise this monero fan does not like XVG
+0	1523465285	-3	EOS is more decentralized than bitcoin or Ethereum.
+1	1523466638	6	Now THIS is a false statement
+1	1523466805	1	The fudders don't want to hear that. How can it be more decentralized when its only 21 block producers.... even though 4-5 mining cartels control ethereum and bitcoin, with no voting rights for the peasants. 
+2	1523467963	1	Ethereum is at least moving to POS to get rid of that
+0	1523458248	-13	EOS has had a coordinated fud campaign against them, looks like it didn't work out and now they're trying again.Nothing will be able to stop EOS after their main net launch this 1st of June.
+0	1523452609	-19	senseless fud, this kind of nonsense reminds me of ethereum back in the sub $10 days.  If you want to make money in this market you have to look out for garbage like this because its desperate and it reeks of fear.  
+1	1523454573	13	Do you have a rebuttal to what OP is saying? Im not saying they are right, but your response means nothing
+2	1523455362	13	Of course he doesn’t. Once I read the word “fud” I stopped reading 
+2	1523455213	-9	Who cares anyways? If people want to vote up these guys they can do so.
+3	1523464134	2	Why do I feel like you hold very heavy bags of Verge...
+4	1523468175	1	I don't own any Verge. But I know how DPoS works 
+5	1523468270	1	okay it was just the "who cares if [really bad news] happened/happens? HODL" attitude made me guess
+6	1523468350	1	But that's the thing. It's not really bad news because its literally how DPoS works. If the founders have a ton of coins, and that's part of the deal of the ICO, then part of the deal of the ICO is that they get select N out of M delegates. If you don't like that, then you don't like DPoS (many don't). 
+7	1523468419	1	ARK founders don't choose delegates. Nano rep's are self chosen (default is official rep)
+8	1523468469	1	Yes they do, if they own coins and choose to vote with them. Of the ~16 million coins that were originally distributed to founders, many are still owned and many are voting for whoever that person wants. Virtually all of these are private pools that profit share, so that could be seen just the same way as this deal with VCs. But ARK is particularly good DPoS because they can't vote for multiple people with the same coins. I don't believe that is the case with EOS. However even with ARK, and I assume the original 16 has been largely sold by now, but 16 million ark can decide most of the delegates anyways. 
+9	1523468527	1	that's how dPoS *should* work, not the shit EOS has come up with
+1	1523461028	-1	+1anyone who was around during ethereum ICO has been through all this before :p

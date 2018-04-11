@@ -1,0 +1,105 @@
+File created at: 1523472292
+Subreddit: btc
+Submission title: Roger Ver at Bloomberg Invest Asia conference
+Submission created utc: 1523425584
+Submission score: 155
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523426746	41	Nailed it 
+1	1523451298	8	You forgot to say "fucking"
+2	1523468958	1	Nailed it fucking.
+1	1523456196	5	Yeah he did.
+1	1523455701	-10	By "nailed it," you mean he says the same hackneyed talking points he's been repeating for years now. Seriously, you listen to one Roger Ver interview, you've heard 'em all. 
+2	1523455707	13	Redditor /u/vakeraj has low karma in this subreddit.
+2	1523459728	7	yeah same talking points he's used for the last 6 years evangelizing Bitcoin...it's just they no longer apply to Bitcoin Core anymore because it's not money anymore...
+2	1523456317	8	I like how sticking to ones conviction is your rebuttal as if that's somehow a bad thing.Counter his arguments instead if you really believe you are on the side of merit.
+3	1523456400	-3	It's not really convictions, it's just repetition of cheap talking points aimed at the uninformed, like a politician. Repeat a lie often enough, and people eventually begin to think it's true. 
+4	1523456921	5	Yes.. Cheap global payments and economic inclusion are the same old tired lies. Fool. 
+5	1523457056	-2	Whining about BTC fees being expensive relative to BCH (actually, they're roughly the same right now) without acknowledging the tradeoff between scaling and decentralization is silly. If BCH actually saw any significant volume, it'd be nothing more than a centralized database.But in reality, BCH has negligible volume. It's an empty highway. There are more SegWit BTC transactions every block than the total # of BCH transactions. 
+6	1523457235	8	BCH PLSThat lady in the interview sure deeply cares about decentrelization and privacy. And don't be ignorant now. BCH fees cannot be same as BTC or higher
+7	1523458790	4	Caring about decentralization and privacy doesn't mean she understands them, at all.BTC fees are dirt cheap right now. So the persistent whining of people on this sub makes no sense. 
+8	1523458943	6	Yea ok bud. Guess you havn't been around for long in bitcoin. Ask yourself why fees are dirt cheap right now. 
+9	1523460283	0	I've been here longer than five years. It's pretty obvious why scaling on-chain doesn't work, and there's a reason why 99% of the technical community agrees with Core over the bcash team. 
+8	1523463038	2	> BTC fees are dirt cheap ribtc is corrupt and is nothing like bitcoin though
+4	1523459285	1	What makes them cheap talking points that don't communicate the underlying ideas? 
+2	1523459204	4	I'm not sure what you are saying, every point he made was on topic and he communicated the idea. What do you think was talked about that is not based in reality?The interviewer seemed to think bitcoin was BTC, I'd have liked to see here corrected.Bitcoin split August 1st into 2 Bitcoin BTC and Bitcoin BCH, **both are bitcoin** if you don't have both you are exposing yourself to failure risk. Bitcoin is now like an index BTC + BCH + GLD + other forks. Only those who understand the risk should divest their Bitcoin holdings favoring one over the other.
+3	1523460601	1	Except all the major Bitcoin Cash node implementations document the currency created on the network as "Bitcoin Cash"...even if this unit denomination is not part of the network consensus rules, it's something people who actually run nodes surely agreed on by running the software (in other words, it is written on the box, if it was written "Bitcoin Gold", they would not run it).But you're free to be willing to blur the lines even if your motives are most likely questionable. If Bitcoin Cash has merits, it should be able to be seen as valuable on markets without having to pretend to be something else than what it is coded/documented to be.EDIT: While I think about it, I've not really paid attention to all the other forks' communities closely, but from my experience this fork is the only one which seem to claim to be "Bitcoin" and not "Bitcoin X" do you have any idea why this idea is so important in this community?
+4	1523463182	1	Have you read the Bitcoin Whitepaper? That's BCH it is talking about, it doesn't describe BTC.We used to use bitcoin, bitcoin BTC was changed fundamentally against the wishes of the users, BCH is still the Bitcoin we used to use, BTC is an impostor. Is that clear enough? 
+5	1523466687	1	This does not answer any of the points or the question in my message. I am pointing out that the "Bitcoin Cash is Bitcoin" idea was not present when coders of nodes implementations created the fork and still is not documented/promoted by them, why? Please refrain from using the whitepaper as a red herring to avoid answering my question about this inconsistency.
+0	1523428164	20	She was throwing tangent talking points and he was still hitting home runs. That was satisfying to watch.
+1	1523459405	3	One of the best interviews 
+1	1523466251	2	This. I was cringing every time she tried to derail into her talking points, and Roger just stayed calm and steered it back to utility and adoption.
+0	1523426652	27	Nice Roger, you ALWAYS have the right msg!Dino-Media interviewer still stuck in the *must get permission* etc... mindset with her focus on price, regulation etc... She didnt  ask about or seem to want to discuss the benefits of [Peer-to-Peer Electronic Cash](http://nakamotoinstitute.org/bitcoin/)!!! 
+1	1523437578	2	The show is  Bloomberg lol.
+0	1523434599	29	Roger has contributed greatly to the success of Bitcoin (BTC + BCH). Core shills should be very grateful to him, however they are too brainwashed to realise that. One day they will realise that they were on a wrong side of the history. BCH ftw.
+1	1523456319	7	I don’t get this either. He’s like an evangelist for adoption of crypto in day to day use. Isn’t that a good thing? I am completely in the camp of *utility creates value*.
+1	1523437457	5	It’s possible to be in both sides as well - there’s a place for innovation everywhere you look. Only time will tell but I think both BTC and BCH have an equal opportunity here.
+2	1523449826	14	It’s possible be on both sides about the technical elements, yes. In fact most BCH proponents have no problem with layer two at all.But it is not possible to be on both sides ethically. Not in this situation. The conflict of interest, straight up corruption, trolling, unethical brigading to get accounts unfairly shut down, and mass censorship and banning?No. To ignore that is to ignore basic right and wrong.  It also requires you to ignore the financial motivation behind the behaviors.
+3	1523451019	2	Communities on Reddit are just small fraction of actual cryptocurrency users... /r/bitcoin does not represent the majority of Bitcoin holders - these communities don't do much either way when it comes to actual adoption.
+4	1523454920	4	You are either misinformed or misinforming people here. Reddit is one facet of the whole situation. Blockstream, Core, and at least some of their funders are tightly coupled. They coordinated to capture BTC and are coordinating to disrupt BCH. Have you read the many historical posts in this sub’s faq/wiki?
+5	1523455299	2	You really think the "big money" that's entering the market are following Reddit? The people making an impact aren't here, there's absolutely no way. There are people disrupting as much as they can, sure - but that won't impact the final outcome. 
+6	1523456851	2	I just agreed with you that reddit is only a part of the picture. Regardless of that, parent’s point was that the capture of BTC was a morally bankrupt maneuver.Even more importantly, captured BTC will never be global p2p cash unless some completely unexpected miracle happens. As unlikely as a 2+MB hf would be for BTC, that wouldn’t be enough - it would take changing the motive if the captors.From another angle, BTC may become wildly successful at... something. But it won’t be global p2p cash. Maybe global corporate cash? I personally think that BTC is very much the emperor with no clothes and that BCH will be one of those rare cases where the “good guys” will win.
+6	1523463268	1	Are you so naive to think that people aren't using time tested techniques to try to manipulate people?
+7	1523463542	1	If you think more than 5-10% of BTC and BCH holders navigate Reddit then you're living in a different universe. Many people buy and don't follow along here at all - or if they do it's once in a blue moon. That's not taking into consideration the big investors that use algorithms (more or less) to trade that definitely do not come here at all. 
+0	1523428130	17	I learn a lot from his delivery. It's really fun to try to get a wallet on people's phones.
+1	1523448056	6	U/memorydealers I would love to see a video of you actually putting a wallet on someone’s phone. It would be a great resource for the community to see how you answer the most common questions you get and your exact process (since you must have setup more wallets than anyone else and must have a pretty refined process of doing it by now)
+2	1523453136	5	There's no script. Be honest, open and have fun. Not everyone has the same motivations and humans are attuned to pick up on scripts and sales pitches. I just print out paper wallets and if they care more, they'll ask me questions or make comments I can react to. If they don't say anything or seem to care, I don't pester them.Just go out there and get practice. Roger Ver is not you, so he can't teach you how to teach your friends or community. Only you can do that, and you can.I've polished my delivery quite a bit, realized mistakes I was making and opportunities I missed. It's a fun, sometimes brutal process that I'm learning about. My thinking is that I'm doing good, providing people with another option, and there's nothing wrong with that. I just have an honest conversation, and I unleash my healthy passion. I try not to bring up my own motivations, unless it connects with theirs. No one who frequents this sub needs training of any kind, you know why you are here. Just go have fun, and don't be afraid to fail. Just learn, it's vitally important to learn.
+3	1523453767	3	Yeah I think you are taking me up wrong. I mean surely there are some questions that are more common than others
+4	1523453976	1	Then try it and find out yourself. By the third time you hear the question you'll figure out the right response. 
+5	1523454091	2	Is there any point in anyone being on any forum anywhere on the internet if all we have to do about anything is go out and figure it out by yourself.
+6	1523454651	2	When it comes to things we learn best by failing, not really. It's like playing an instrument,  it doesn't really matter how many YouTube videos you watch, it's about how much time you spent playing and fucking up the guitar.And if you're having a conversation with someone. You can't practice it alone. So the only option is to go practice it live. Fuck it. Getting adoption is just navigating the human interaction called a conversation.
+7	1523455025	1	What the hell is wrong with you?I basically asked what questions are most commonly asked since the guy has done it millions of times. Think maybe some are more common than others in different parts of the world? Or depending on the age? You know, learn something new every dayYour answer, go out and do it yourself. Life is all about doing things yourself. I am typing this here because I am getting fun out of annoying youI’m done with you
+3	1523455113	2	Not everyone has the social talent you seem to have. Different people can come to similar results through different paths, right? In fact, I bet many would benefit from seeing a video of you doing your thing.
+4	1523455921	2	It's a lot of failures. But yeah I'm a bit more used to falling on my face in public. Just like Roger I'm sure.
+5	1523456094	2	 That makes sharing your experiences (which you do) even more valuable, right? 
+6	1523456694	2	Yup I'm trying. To me, internet adoption is good, but I'm just one person using what opportunities are presented as I make my day around town. I want to get people doing the same for their communities, because I'm only one person. Yeah a guide could help. I would have no idea how to make one. I've imagined so many conversations with girls that never go the way I anticipated, so I'm just horrible at that. But maybe someone with actual sales experience can do this, I'm just being myself and trying to be not afraid to unleash myself.I hope what I say doesn't discourage but encourages. 
+0	1523448105	5	Thank you /u/memorydealers!  You are truly an amazing person. Keep it up!
+0	1523446984	13	This was well done.  Very neutral interview.  Attacking Bitcoin core doesn't get you anywhere really.  Nice to see him be pro-BCH without horribly bashing BTC.
+1	1523459359	2	Both are correct he got it out on topic.
+0	1523448643	5	Yas! I kinda like him though
+0	1523449746	5	Very nice to hear people explain the major uses of BCH
+0	1523446464	9	That right there is why some people feel very threatened by Roger Ver
+0	1523446507	5	"So, let me get this on the record, you like and support and believe in BCH as a long term cryptocurrency solution?""Roger that."
+0	1523443603	3	This lady sure likes to interrupt.
+0	1523463510	3	People should be a little more educated and know that if you say “bitcoin core” when you talk about bitcoin, you should say “bitcoin abc” if you’re talking about bch
+1	1523463517	-1	Redditor /u/btcoins has low karma in this subreddit.
+0	1523449918	4	always spot on
+0	1523438809	6	On point! Good work /u/MemoryDealers !
+0	1523451199	2	u/tippr gild
+1	1523451245	1	u/dragon_king14, your post was gilded in exchange for `0.00384073 BCH ($2.50 USD)`! Congratulations!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+1	1523453544	1	Thanks!
+0	1523443074	7	Roger and BCH are a good pairing - both unstoppable.The energy Roger brings to his interviews reflects the momentum building with adoption.  Sure Andreas is a good speaker but he comes across too much as a revolutionary to have broad mainstream appeal.  Bitcoin core have no one else who is an effective spokesperson. Secretly I bet they miss him being on the team.  Probably the reason for the excessive trolling.
+0	1523455154	3	Good solid responses to everything. I'm glad you're out there fighting the good fight.Also I threw up in my mouth when she said 'Soros'
+0	1523460512	2	Nice work by Roger, the analogy to the Wright brothers airplane really hits the point home.
+0	1523451087	1	That was awesome. Couldn't have gone better.Overall, focusing on the utility, on the adoption, and on how Bitcoin Cash delivers on all the objectively important issues. Very good the overall confidence through out the interview and general tone. Interestingly, I recognized several of the points being already discussed in this subreddit over the last couple of weeks, specially in some answers to trolls. I believe we should thank them for helping us (and helping Roger) to be better prepared on the delivery of the important points and messages, cutting through the bullshit as fast and precisely as possible.- Awesome the part where he explains there's nothing to be scared about the upcoming forks to upgrade the software, because it's just that, upgrading the software.- Awesome the part where he talks about the ideological camps that are both right. That it is the mental problem of the people that think it's impossible to scale, and the on point comparison with the people that thought flying machines heavier than air were impossible. They were not going to really try to achieve it, so they're right. Until somebody else proved them wrong, of course. :)- Awesome the part about how the central bankers should embrace the inevitable tide of the ocean, instead of fight it or regulate it too much, and the comparison with the Internet, and specifically the e-mail technology.Thanks Roger. That was a very good interview.
+1	1523454057	3	Yes the trolls only sharpen my mind when I go for real world adoption. They have no power there.
+1	1523460898	1	> Awesome the part where he explains there's nothing to be scared about the upcoming forks to upgrade the software, because it's just that, upgrading the software.It's just that until the fork is contentious... then a lot of people cry for months instead of having the guts to actually fork straight away and let the markets decide which solution is the most valuable (I'm not talking only about price).
+0	1523434489	1	nice
+0	1523441165	1	Nice Roger
+0	1523435223	1	But wait...didn't he just say that he has "most" of his coins in bch? So therefore, he has sold the "majority" of his btc recently, right? Very intriguing. I sense some new drama starting.
+1	1523441223	6	He did have same amount of bch as btc. So it's not that hard to have most of his coins in bch. 
+0	1523446317	1	The important thing is... Can he play top half guard? 
+1	1523461802	1	Yes.  
+0	1523447021	-7	geez, am I the ONLY person here who thinks roger ver is a piece of shit?
+1	1523448329	5	Yeah, probably. He's one if the people that got me interested in bitcoin over 4 years ago. 
+2	1523448757	-1	fair enough. I just find his rhetoric to be a bit on the pretentious side.
+1	1523454633	1	Nah, I liked him when I first got into crypto but think he's a scumbag now too. And it continues to surprise me everyone keeps cheering him on here. Same for faketoshi, it's obvious he is a fraud but people here like him because he supports bch.
+0	1523448390	0	wow! welcome to the "get your comment downvoted" page
+0	1523456837	0	👌👌👌
+0	1523468634	-1	The problem is that the message this gives is straight forward:- "Bitcoin didn't achieve anything yet and it's already got problems".Obviously, Roger wants to promote his vision for Bitcoin but it seems counter productive to the entire space. In totally mainstream interviews you should just stick with "Crypto is the future, it will recover, Bitcoin is doing great, but if you're thinking about investing be sure to check out Bitcoin Cash too". This would be perfectly adequate and not give the impression noted in the first sentence. I personally prefer Bitcoin but I respect the pathway for Bitcoin Cash, I just don't like the idea people are now discrediting the entire space.u/MemoryDealers please consider this in the future.
+0	1523432973	-26	Roger Vermin. 
+1	1523437499	3	Lol that's pretty funny. I wonder how many times he heard that as a kid.
+2	1523437897	-11	It’s his REAL name.  It hasn’t been legally changed to Ver. It’s VERMIN.
+3	1523438152	0	Then I bet he must have heard it quite a bit as a wee child.
+0	1523430745	-41	How can a crypto that aspires to be decentralized and a form of worldwide currency that is widely adopted have a CEO? That’s like saying someone is the CEO of gold or silver.
+1	1523431220	20	CEO of bitcoin.com no crypto has a CEO you moron.
+2	1523436841	5	He's been spouting that nonsense for a few days
+2	1523442412	-13	Keep telling yourself that you moron.
+3	1523442437	4	Redditor /u/cjc323 has low karma in this subreddit.
+4	1523444683	-7	-16 and going..... not as bad as I thought.  I WANT crypto to work, but people need to understand that somebody created it, There will always be a group that "owns it" and is responsible for ensuring it's security and success, just like any government does with their currency.  Saying a crypto doesn't have a CEO while calling someone a moron, is moronic.This sub takes hard truths like the /r/apple . downvote to oblivion.  that's fine.  
+1	1523431457	9	Because bitcoin.com is a private company providing bitcoin.com goods and services?Like this isn't even smart trolling. 
+2	1523431820	-22	I’m not trolling, it was a legitimate question. 
+3	1523432213	8	> You BCHers are delusional lolWas this also not trolling?
+4	1523432634	-17	That IS trolling :)
+3	1523436893	5	You've been trolling with this a few days already
+1	1523441246	4	Educate yourself. 

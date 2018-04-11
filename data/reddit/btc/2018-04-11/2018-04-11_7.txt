@@ -1,0 +1,56 @@
+File created at: 1523472298
+Subreddit: btc
+Submission title: A list of things I saw people purchase with Bitcoin Cash in this sub recently
+Submission created utc: 1523416187
+Submission score: 80
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523418371	19	I pretty much pay for a range of services using Bitcoin Cash. I also requested to be paid for my services in Bitcoin Cash. The services include marketing services, freelance designers, translation works, etc.
+1	1523446443	1	I don’t buy things using crypto anymore because managing the amount of income tax I have to pay is a pain in the ass. Even when using tax services that do a lot of the things for you (bitcoin.tax) it’s just not worth the effort. I know a bunch of you guys think that committing tax fraud is okay but I don’t. Until crypto is literally classified as a currency (probably never) I won’t be using it as such
+2	1523450946	1	Sucks living in the USA. Glad the US is only one country, the world is a big place with many different rules.
+0	1523418247	14	A 2007 Mitsubishi Eclipse GS
+1	1523418332	5	Wow! Congrats!
+1	1523426354	5	I bought an Acura TSXNamed it Satoshi
+0	1523420524	11	[Somebody bought a tablet,](https://www.reddit.com/r/btc/comments/7y5qe0/my_first_physical_purchase_with_bch_thanks/) and [someone else got an iPhone X.](https://www.reddit.com/r/btc/comments/7zekqa/my_cryptonizeit_purchase_everything_went_well/)
+0	1523425891	10	1) lots of Amazon gift cards via BitPay (until Purse accepts as base currency)2) antminers via bitmain3) donation to Run 2 Rescue4) honey from http://www.beesbros.com/5) donation to https://www.coins4clothes.com/6) donation to Bitcoin Cash Fund7) Satoshi Dice 8) donation to fork.lol9) donation to Tx Highway 10) invest in stocks at SimpleFX.com 11) tip my valet and concierge
+1	1523433075	6	name doesn't check out. 
+2	1523447082	4	I hoard not “HODL” 
+1	1523461064	2	where did you get amazon gift cards from?
+0	1523431392	5	antminer e3
+1	1523432967	3	Have you been at it for awhile or first time miner?
+2	1523445108	2	I'm not really a miner at all. I knew that ethereum would not fork when the E3 came out and I figured it was only a matter of time before it was announced making the E3 worth easily more than what I paid in BCH. I'm still deliberating on if I'm going to use the E3 or just resell it for more BCH than what I paid. Right now I'm leaning towards using it because I think it will be more fun and less of a hassle than reselling the E3. I also have the means and space to run a few E3 where the noise won't be a nuisance to anyone. I honestly love bitmain and would consider buying a few R4s for around the house if they ever rerelease something similar, just to help the network a little.
+3	1523462199	1	If i were you, I would sell the E3, unless you have a really cheap source of power. People love to pay a lot for miners, I feel they don’t really run the calculations 
+0	1523425888	3	Beer. Food in Restaurant. Gift cards for steam and amazon. PC Hardware. 
+0	1523434446	4	A leather bag from fudmartngTons of vape supplies from fasttech (via BitPay)VPN subscription from froot VPN.BCH stickers from https://kawaiicrypto.com
+1	1523436619	1	How often do you guys pay with BCH?
+2	1523442417	5	For me it's about once a week or once every two weeks, sometimes more. But I don't shop online much more often.When I do, I'll always use BCH if possible. And if a service doesn't accept BCH, I'll look if someone else offers the same service for BCH and use that. I've even bought small things I didn't really need, only because they accept BCH. :)
+3	1523465907	1	Cool.  Is that the only cryptocurrency you use?  I guess some merchants don't accept BCH but go for BTC? 
+0	1523428191	3	I bought a coffee, tea and baked goods some days ago.
+0	1523431507	3	Where can I buy OnePlus 5 with Bhc?
+1	1523441879	0	why not wait for oneplus 6?
+2	1523456202	1	Filthy notch. Oneplus 5T is godlike and will be cheap to buy when 6 launches. Come at me bro
+3	1523457003	0	 you will be able to make the notch disappear by blackening the edges of the screen next to the notch. 
+4	1523458020	1	This solution is gimmicky at best. As they've shown with the P20, it's still visible, and it seems to look weird, especially at angles.On top of that, it seems anything prior to 8.0 won't even have an API for app developers to fix it, so lots of apps are interacting strangely with the notch, and all have custom hackfixes....I think just like BCH, the market will speak with their $$$$. I have purchased OPO, OP2, OP3T and OP5T, and will be looking for alternatives that are notch-less; may the free market determine the winner!
+5	1523458781	0	what?
+0	1523437913	3	My rig is working beautifully. Those FPS gains are even more sweeter because BCH made it happen.
+0	1523441008	3	ty I was just looking for this
+0	1523433038	2	I buy Huel (Huel.com) once or twice a month. It’s a full meal replacement food powder, I take it all the time cause I’m a SWE and forget to eat
+0	1523439272	2	- flight from Satoshi vision conference to SFO.- $300 of Uber rides- Starbucks gyft cards- whole foods gyft cards
+0	1523439946	2	Awesome to see, however weird that no one could answer their question about what you can buy with Bitcoins?! Lots of things ;) 
+0	1523453108	2	I got some Kratom from Kraoma.com, paid with BCH, super fast and easy. Kratom is great stuff by the way. 
+1	1523462233	1	Hmmm what’s your experience with it?
+0	1523456252	2	Used Bitcoin Cash for a twitch sub to supporter a streamer I really like!
+0	1523458835	2	A VPN subscription with www.privateinternetaccess.com
+0	1523465950	2	Beef jerky from Tong! Jerky’s online store
+0	1523445526	0	I used mine to buy more Bitcoin. 
+0	1523452943	-1	You got it wrong tho.> This post was inspired by a question in another sub where someone asked: "what do people actually buy with Bitcoins?"This is Bcash, not Bitcoin what you're talking about.
+1	1523453781	2	> BcashBitcoin Cash *
+2	1523453855	-1	**Bcash**
+3	1523454813	2	I find it ironic that you were trying to correct someone but you still got the term wrong.
+4	1523454868	-2	You're the one that got it wrong tho.
+5	1523454941	2	Do you have any source where the devs of the BCH chain state the correct term of the currency?
+6	1523455470	2	I am not the one making claims that this is called Bitcoin.
+7	1523455821	2	Neither am I. I'm claiming that it's called "Bitcoin Cash", which is different.
+8	1523457469	-1	So you call it Bitcoin Cash and I call it Bcash, who's decides who's right?
+9	1523457894	2	The devs, for instance. That's why I was asking for a citation.
+0	1523448763	0	i've never spent any for these stuffs which are kinda useless for my taste and need xD

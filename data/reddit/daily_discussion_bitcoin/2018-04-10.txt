@@ -1,0 +1,202 @@
+File created at: 1523388199
+Subreddit: Bitcoin
+Submission title: Daily Discussion, April 10, 2018
+Submission created utc: 1523354473
+Submission score: 27
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523375451	1	The price is not down, it's exactly where it should be! Before the price started it's insane exponential unnatural rise, we were sitting at about $3k (already up from $1k from just a few months before). It started to double fairly quickly at a faster rate than usual, and reached $6k. This was due to very positive outlook and the great potential in the long run. Then it hit $8k. At that point, justifying that price was becoming a bit of a stretch, but you could make the argument that Bitcoin had a really bright future and huge potential. When it went above that, that became just insanity, and it was hard to find logic and reason for the rise anymore and for that high a price. There was no change in the technology, or usage. So really $6-8K is a very reasonable price, it's where we were before we lost reason and logic, and this is where we are back now, because that's really where Bitcoin should be
+1	1523376381	1	If this continue like this -> https://imgur.com/y5oplRp then we can all see that :D  April 06 2016 - 424 USD  April 06 2018 - 6607 USD  +1458.24% gain or X 15.58254716981132    April 06 2020 - 102953 USD :)    This is basically about a price but its not about price, its timetravelling :D See ya all April 06 2020 at 102953 USD :)       TimeStamp:1586176496
+2	1523378691	1	Shilling the same comment.. over and over.
+1	1523376460	1	in theory this makes sense but its not practical. Bitcoin is priced on its worth like anything, it was worth more a few months ago because more people invested in it and more money flowed in. There is no "reasonable price" because you can't measure reasonable. Yes if you take out the boom late last year we are still growing, and I understand what you're saying, but bitcoin "shouldn't" be anywhere because its not something we can measure. 
+1	1523376706	1	Personally, I like to use this as indicator for a good price. Insane? Maybe...https://fnordprefekt.de/See ya all April 06 2020 at $272,783.84 :)
+2	1523383453	1	Wow! what even is that graph lmao, its like he just drew a straight line from the start to the end without any consideration of the bumps or drops?
+3	1523383903	1	Reading. I know it's hard with all these letters, but you should try it sometime...
+4	1523384810	1	Its not a very good graph when it completely ignores 70% of the data its  supposed to be representing.
+3	1523387473	1	It's a meme, read the header and zoom out the graphic.
+1	1523378088	1	What does the chart look like if you start at December 17 instead? That is the date when market momentum shifted.
+0	1523374166	1	Attention: We hit the bottom on Feb 5th, onward and upward! 
+0	1523355020	3	What is going to happen today? 
+1	1523357280	11	it will move to the right
+1	1523355183	3	No one knows???
+2	1523359871	3	I know, but if I told you, it would go the other way.
+1	1523355260	3	FUD. MOON. Up. Down. Sideways.
+1	1523355398	2	I am guessing here but nothing! 
+1	1523356776	2	drop to a level where there's solid volume and recover from there.
+1	1523355965	2	Whatever happens it will be good for Bitcoin.
+1	1523367352	1	I'm going to come over and watch office space with you.
+0	1523357040	3	when will Bitcoin Get Boost?
+1	1523357861	5	More likely to go lower, if it keeps moving sideways 
+2	1523358546	2	..although it might go up.
+3	1523361807	3	True but at the same time, it could go down.I'm not really sure though, it might go up 
+4	1523361973	2	There is one thing I am certain of - it can't go up and down simultaneously.Unless, of course, that is what is happening now.  Which is a further possibility.
+1	1523357522	2	It is remarkably flat for last 24 hours.
+1	1523357835	2	New money.
+0	1523364626	3	Someone wants the price to stick at 6740. Wonder why? Is it gilfoyle? Keepung his mining profitable?
+1	1523365905	2	*If* the market follows what happened on Friday it will remain relatively static around that for a good few hours before shooting up to $7100 with a chance to make a little profit.
+0	1523378367	1	Looks like twitter enabled the bought handle that I wont name here. Whoever owns it starts talking shit about Bitcoin right away. God I fucking hate Btrash and any jerk off that owns it.
+1	1523382471	1	Just ignore it. It's not worth the emotional cost...
+2	1523384128	1	yup, critics can't and won't stop progress. They never have in the long term. It's pointless to acknowledge them or let them ruin your mood.
+1	1523386152	1	I own bcash. Do you really hate me? :( I don't hate you. 
+2	1523386689	1	I only pity you. 
+3	1523387842	1	Lol it was free, then I forgot about it, then I couldn't get it out of my electrum wallet because 2fa. Then the price crashed and I said fuck it. Also need some bcash to buy something from a bunch of super cucks so I have about $15 left over from that also.
+1	1523378597	1	Why do you dislike it so?
+0	1523357229	7	I like Bitcoin.
+1	1523368271	5	I like turtles.
+1	1523367737	1	https://tenor.com/view/ilike-turtles-emo-kid-gif-10548543
+0	1523362697	2	Taut
+0	1523362721	2	For someone who bought and sold a small amount of bitcoin before the big spike, when would be a good time to get back in?  Is buying coin directly still more beneficial than mining?
+1	1523363602	5	mining Bitcoin is not profitable anymore for individual miners. If you consider mining, you would better take a look at altcoins which are in their early stage
+2	1523363694	1	This is wrong. 
+3	1523363966	4	I and others would appreciate if you explain instead of simply claiming me to be wrong
+4	1523364474	5	Fair enough, but you shouldn't make such a bold, false statement about mining profitability without explaining that yourself. Though mining profitability has fallen, you can still gain net profits depending on what your energy cost is. I'm running x10 S9 antminers on full solar energy at essentially 100% profit. Even if I tapped into the grid, I would still be making a small profit because the kWh cost in my area is fairly cheap. 
+5	1523365074	2	Well, I am not about to argue, but your case is more exception to the rule. However, even if energy costs 0, there are a lot of other costs, such as Internet, Maintenance, rent, amortization and so on. You should remember that your own time also costs something as well as your computer/miner should be repaired/replaced sooner or later. Also if you have free space at your home/flat which you use to place your miners - you don't have to consider it as something free, but better imagine if you rent it to someone, or sell the energy from you solar batteries instead of using it for miners. I am just trying to say that you can get more profit from this resources.TL;DR I agree, it could be profitable, but less then before and you need some special circumstances for this
+6	1523365605	2	Though I understand your cost analysis, I did not evaluate my personal situation that way as it did not apply.  I agree that mining is more difficult for some and not profitable for others. I even use the heat from the miners to heat my home in the winter, so I save on energy costs there. With summer coming, I will have to spend energy on cooling, though that should be fully covered by the solar array too. I was fortunate enough to recoup costs for equipment during the ATH. My situation is an outlier, sure. But, to make a blanket statement that 'mining is not profitable' is far from the truth. 
+6	1523366962	1	As Nate says, the question is more can we mine and be profitable. So we already have internet and a place to mine. So hidden costs are really just racks, sub panels and circuit breakers, conduit (expensive) and outlets. Also cooling.Mining is essentially investing, there is a risk based on speculation. When price goes up, your profits go up, especially if you hold.But difficulty is the real concern, if difficulty is skyrocketing the whole time, you may find that even with moon prices, you would have been more profitable buying. But it could just as well go the other way. - we won't know till it happens.However, markets do have to follow some rules to some extent or they would collapse and we inadvertently dictate this. Like miners not introducing any more new coins until the price is desirable. so the odds will always be that mining will be slightly more profitable than investing in the long term if you hold profits and only sell to cover costs. (But of course you then further increase your risk exposure.)Electricity and how much you value your time is often what will make or break you.
+4	1523365616	3	Even if I was mining straight btc, it is still profitable. I can assure you, noone would mine if it wasn't profitable. The real question is difficulty vs price inflation. Will it stack up to warrant the cost of hardware and electricity, or is it cheaper to buy in and hold.Usually the former over the latter (barley) but it is all speculation.
+1	1523363395	2	At 6000. Maybe even 5000.
+1	1523365376	2	No, mining is still more profitable. But only if you already have the hardware. It also depends on your utility cost.It cost me a little over 3k to mine enough alts to trade for one Bitcoin. But how long will it stay that way? That's why I say if you already have the hardware. It's a total crapshoot if you don't.
+1	1523363005	2	Now.
+1	1523369388	0	At the low. 
+0	1523364706	2	Hi again, I need some help. Please pardon me its not BTC related though. I am trying to send an ERC-20 token from a Chinese exchange to my ledger nano S. But the exchange is showing that this is not a valid address. Could someone please help. Thanks
+1	1523365164	2	Did you try sending it to a new wallet and then sending it from there to the nano s? Sometimes that's what I have to do when pulling coins out of poopy exchange wallets.
+2	1523365534	2	I didnt try to do that. Will try this way then. Thanks
+3	1523366288	3	You're welcome buddy! :D let me know if that works.
+4	1523372119	2	It worked buddy. 
+5	1523386443	1	Yay! I finally helped someone. 
+0	1523366444	2	Id love for somebody to tear this apart: https://www.technologyreview.com/s/610783/bitcoin-would-be-a-calamity-not-an-economy/
+1	1523367297	2	There is nothing to tear apart.    It is full of very truths and solid sense.
+2	1523367572	1	so why was Bitcoin invented?
+3	1523384758	1	You can find that in Satoshi's white paper.  That was always largely fantasy, for variety of reasons that we can go into later.   Regardless of *why* it was created, the fact is that here we are today, and bitcoin is never going to be any of the things that bitcoin zealots keep getting worked up about.Bitcoin seems to be excellent as a tool for unregulated and highly risky gambling; why anyone considers that to be a "digital gold" feature is unclear.   It also seems to be useful to various unsavory types and their questionable activities.   Neither of those is an especially strong selling point.> multi-trillion market capWill never happen.  The peak was in Dec 2017, driven by FOMO greed and unthinking lemmings, and one has to be really dim to keep saying or believing in "just hodl!  it will surely rise again!".The most important question is how long it will take for bitcoin to die its inevitable death.   I believe it will be pretty much finished (trading around $1) by late 2019.
+4	1523388095	1	so you think i should sell?
+4	1523388155	1	do you short Bitcoin?  maybe thats something i should try
+2	1523367674	1	i don't think it needs to be a currency, digital gold is more realistic IMO and i think it could easily be a multi-trillion market cap similar to Gold and still not be a currency or threat to the FIAT system because people will just look at it like an investment/part of their portfolio
+1	1523368897	1	Well, the article makes some assumptions without making it clear that they are assumptions, or justifying those assumptions.For instance, it talks about governments using the banks to deal with things like the financial crash on 2008. But that financial crash was caused by the banks in the first place, precisely because banks can in effect create money, which is what they did in the sub-prime lending crisis. So, perhaps, if the banks went away, then so would that problem.Second, it assumes that people will hold Bitcoin (or whatever) because they think it will increase in value. But that assumes that Bitcoin does increase in value, which, in the long term, it can't (sure, it could rise much higher, but there is a limit).Third, it suggests that there are just too many different coins to be usable. But that is an assumption that because there are currently lots of coins, there will always be lots of coins; it is just as possible that as the ecosystem matures, the number of coins will reduce.So, I have no idea whether Bitcoin (or whatever) will or will not replace fiat, but the article is just noise without any recognition, leet alone justification, of the assumptions on which it is based.
+2	1523369134	2	thanks for commenting, great points.  I personally am in the camp of BTc being Digital Gold.  Anything beyond that is too speculative IMO.  Who knows what the future holds, but I think BTC could have a market cap of 1-2 trillion without disrupting the legacy system too much.  Instead it could just serve as a hedge and a part of a person's typical portfolio - mix of stocks, bonds, gold, and now bitcoin
+1	1523369309	1	What happened in 2008 with QE was governments devaluing savings accounts to prop up banks.  This is basically theft from the savings of people who keep their money in "safe" investments (like GIC/savings accounts etc, anything thats basically valued in dollars, as opposed to stocks which are valued in the % of the company owned... I think I'm using the wrong words here but I hope you get the point).Basically the governments robbed from the poor to give to the rich.  This was done because there was a great risk that if the rich fell, the rest of society would fall with them.The problem isn't rooted in what they did, it was necessary.  The problem is that the rich knew that they would get bailed out by the government if they fucked up, thus creating a 'moral hazard.'  The risks associated with banking wasn't placed upon the banks, it was placed upon the middle class.  Banks knew this, and they would be stupid (and uncompetitive with other banks) if they didn't capitalize on this misdirection of risk.If a bank didn't give out bad loans between 2001 and 2007, they wouldn't be in business because EVERYONE ELSE was giving out bad loans and making huge profits.With a decentralized currency like bitcoin, governments wouldn't be able to misdirect the risks associated with banking.  Banks would not give out bad loans because they would know that the risk associated with loans solely rests on their own shoulders, not on the shoulders of other people.  Thus the moral hazard would not exist.With a currency like bitcoin, the financial collapse of 2008 would not have happened, and thus the governments would not have had to print money to fix it.See what I'm getting at?HOWEVERThere is a problem with a currency like bitcoin that the article does not discuss.  That problem is the creation of new money via Fractional Reserve Banking.  I know that FRB gets a bad rep around cipherpunks, but it's actually a really innovative way to allow for the creation of value and the measure of negative entropy that humans add to their living system.What do I mean by this?  Humans via their labour add value to the world.  The amount of wealth (not just measured in currency) is ever increasing, because each day people go out and do things that add value to the world.  Human beings add more value than they remove from the world.A currency that doesn't grow (like bitcoin, or gold for that matter) doesn't take the growth of value into account.  Bitcoin would be great for a world at equalibrium, where human beings, on average, took as much from the world as they gave back; but thats simply not the reality, human beings add, on average, more than they take.The counter to my argument is that the advancements made by humans have been on the backs of the environment.  That the world truly is at equalibrium, but we haven't created a proper way to measure the environmental impact humans make.  I'm willing to listen to this, as we truly haven't created a proper way to measure, however, the earth, via receiving sunlight from the closest star will ALWAYS have more input than output into it's value.  The system itself is expanding (until of course the sun explodes and humanity dies).
+2	1523369816	1	Thanks for this detailed response.  To sum it up are you saying its wise to own some Bitcoin?
+3	1523370897	0	I'm not saying it's wise or unwise.  Thats a completely separate issue.What I was saying is that Bitcoin has problems IMHO, but not for the reasons that the article gave.The ability for governments to steal from people isn't a good reason to remain with fiat currency (which is basically the argument that the article gave).  However, a good reason for fiat is that via FRB value added to the system can be accurately tracked.Because Bitcoin is a closed system loans on a massive scale like what we have with the banking system cannot be done (or at least, I dont see a way for it to be done on a massive scale).If I am a lender, and I lend a million people 1 bitcoin each, expecting 1.05 bitcoin in return in 10 years, where does that 1million * 0.05 bitcoin come from?With fiat currency, because fiat is a fantasy, it's magically created from nowhere to track people's added labour into the system.  With bitcoin this 'magically created' can't happen, and thus a persons added labour cannot be tracked.Bitcoin is better than gold, in that it's much more efficient (protecting your bitcoin is much cheaper than protecting your gold... with gold you have to buy a safe, hire a guy with a gun, etc; similarly transporting your bitcoin for sale doesn't require hiring a heavy duty truck, etc ,etc), but it has the same problems as gold in that more of it cannot be created than a fixed amount.Humanity can use bitcoin as a value storage device, but it lacks the ability to track added labour into the system, and thus cannot be the primary method humanity uses to track value.
+4	1523371083	1	Have you heard about the proposed Bitcoin Interest rate - BIDOR?  The Bitcoin version of LIDOR.  how does that factor into your thinking?
+5	1523371563	1	> BIDORno.  Link please (bidor on wikipedia leads to some Chinese province)
+6	1523375469	1	I've seen it mentioned in articles that I've read over the last month or so but don't have any links handy 
+6	1523385994	1	Presumably BIDOR will be necessary when bitcoin replaces all fiat and becomes the World Currency, as is surely inevitable?   There is no such thing, nor will there ever be, except as yet another fantasy of bitcoin zealots.    Very active imaginations, they have.
+4	1523373967	1	Gosh .... the amount of self-validation.BTC is a digital token, it too is 'magically' created, just like the other 1,700 alts.  If you think that the artificially induced cost of mining gives it value, you are wrong - it doesn't.
+2	1523380270	1	> With a currency like bitcoin, the financial collapse of 2008 would not have happened, and thus the governments would not have had to print money to fix it.Yes.   Except that we would not and could  have a currency like bitcoin because it would be practical in modern times.   Some of the reasons for that are in the article, even if you set aside the 2008 crisis.
+1	1523367904	1	There is nothing to tear apart.  It is full of truths and solid sense.
+2	1523378447	1	Libs love peddling these doomsday scenarios. Man I kinda hope this shit comes true because then I'll be one of the people on the top.
+3	1523379065	1	He's not peddling a doomsday scenario or what bitcoin zealots call FUD.   Read it carefully.  Then if you have some reasoned arguments, let's have them.   Simple like that.
+0	1523366541	2	What's everyone's opinion on hardware wallets nowadays?  I own both, and each are excellent in their own way.  From what I can tell, both Ledger Nano S and the Trezor wallet were about even, given that the differences between the two were; * Nano S used security hardened chips* Trezor is open source  Ledger seemed to be the king given the lower price, however now you can pickup a Trezor for cheaper.  Personally I prefer the Open Source nature of the Trezor, given that both support passphrase encrypted seeds, it doesn't matter that someone could theoretically retrieve the seed from the device.  On the Trezor I can verify this is true through reviewing the code, however I can't verify that the Ledger isn't storing the passphrase to an encrypted seed.
+1	1523367284	3	I really like my Ledger Nano S.
+1	1523367907	3	I have the Nano S. Love it.
+1	1523368608	3	I have the Ledger.  Curious if you've done the Firmware update on it and if it went smoothly?
+1	1523367638	2	Never understood the need to waste money on a hardware wallet
+2	1523373421	3	Because it keeps your private keys safe.
+3	1523377881	1	You generate your keys in an airlocked VM/OS and never expose them.  You sign your transactions in a watch only wallet.  You can encrypt and back up your keys.  Further you can use steganography combined with encryption to be even more secure in safeguarding your keys.  
+4	1523378223	1	Sure, you can do all that. Or you can just use a hardware wallet without all the hassle.
+5	1523378566	1	Yeah, it takes a few minutes to do that vs buying, paying, waiting for the wallet to arrive, etc.Then you are trusting the manufacturer or the reseller and trusting that it has not been tampered with and they don't steal your funds.https://news.bitcoin.com/mans-life-savings-stolen-from-hardware-wallet-supplied-by-a-reseller/
+1	1523367820	2	ledger is centralized, this is really worrying.
+1	1523371010	2	I have a Trezor, very happy with it.
+0	1523368523	2	This was one of my first actual large purchase with 100% bitcoin in jan 2018.It felt good using bitcoin for what it was intended for. 2018 ram power wagon new at a dealership they used bitpay service ..The easiest purchase of a vehicle ever.https://imgur.com/a/kGDjZI will say it was bought with all profit from bitcoin as well.! 
+0	1523371348	2	At least we’re not dropping. 👍
+0	1523371386	2	There! It just moved $5!
+0	1523372959	2	Moon now?
+1	1523373091	1	nah
+2	1523373190	2	How about now?
+3	1523373623	2	Nah. Well maybe. Only future man knows for sure.
+4	1523383508	1	future man here, no moon just mantle
+0	1523372960	2	lol that pump out of no where
+1	1523373191	-1	everyday the same :D punp´n´dump´n xD
+0	1523374646	1	If this imitates Friday's play it will go up to **$7,100**!
+1	1523376966	1	Actually it needs to go a little higher to stay in line with the uptrend...https://imgur.com/a/rctza
+2	1523377951	1	I'm okay with that.
+0	1523376876	1	We are all equal with fucken brokers and whales in this block chain platform. The only difference is, whales are loaded and brokers are literally broke.... haha
+0	1523360949	4	I've got a feeling we will get back to around $6900-$7000 later today when the Americans get going.
+0	1523361873	4	Bitcoin will go up eventually. Just you wait. Words from a holder who bought at $1000-$3500 and didn`t sell at $19k.
+1	1523362917	5	So have you developed a strategy yet ? We're in for several years of exactly that. 
+1	1523362121	2	It recently kind of followed a pattern, really. Huge spike + dip followed by a period of stasis where price remains relatively stable. The difference is that the last rally was really huge and awareness is much greater.
+2	1523366999	1	I agree with that pattern.  Id say accumulating at any price below 12k at this point is a great long term bargain.  Best part is the public won't start to care again until the market is back over 15k and this time i won't care about talking about it with my family and friends.   
+2	1523367198	1	It's always done that man, it's just happening at a much faster rate now than in years past.
+1	1523369446	2	Why does where you bought make your guess any more valid than someone else's? 
+1	1523363386	1	Another day, more crystal balls
+2	1523367150	1	Why does that up set you so much. He's just a hopeful just like every other investor trying to offer words of encouragement.I'm sure he knows that the will always be a possibility hes wrong.
+2	1523370261	1	Or *balls of steel*.
+1	1523367879	1	lol just i wait sir
+0	1523365192	2	I'm waiting on my wallet to come in still then transfering what I have in my coinbase.  One question I have is what happens when we've mined all 21,000,000?  Do we all panic?
+1	1523366337	6	I'd imagine so, we'd all be at least 160 years old.
+2	1523367048	1	hmmmm.  So should I panic early to make up for all the panicking I cant do when I'm dead? Got it!
+2	1523367327	1	I would panic if I lived that long. 
+0	1523373926	1	Moon now?
+0	1523385068	1	Market is quiet because of rumours about huge investors entering.  Large investors are waiting for someone to pull the trigger.  This will be an investor led boom, not a mom and pop one.
+1	1523385422	1	I doubt it. If huge investors are entering, they are already doing it. Slowly, quietly, without driving the prices up. At least, for as long as it's possible.They are not as stupid as mom and pop.
+2	1523385594	1	Precisely.BTW.  Nothing stupid about Mom and Pop - they just don't have the resources.
+3	1523385760	1	And they aren't acting coordinated. And this makes them *stupid* in a sense, because their accumulated actions are easy to predict psychologically.
+4	1523385922	1	Yeah, you should watch them dancing.
+5	1523386172	1	Like this?https://www.youtube.com/watch?v=aD1euxkzE9I
+6	1523386246	1	Heh.  He looks more like a Bcasher to me.
+7	1523386737	1	Booooh!He's cool!
+2	1523385539	1	Yeah. If they give out announcements is prolly because they're not trading BTC with money (or alts), or because they're in already, and want gains, or to cover losses looool
+0	1523358057	3	**Is 10 Bitcoin enough?**
+1	1523359714	2	10 x 6,700 / 51,939 =1.3 years of average US income. I know, it always looks like a lot of money until it is all the money you have.
+2	1523360220	3	10 x 200,000 / 51,939 =38,5 years of average US income. I know, it always looks like a lot of money until it is all the money you have.
+3	1523360401	3	He will sell at 12,000 lol
+4	1523363461	1	I think you misunderstood, I bought @ "$13", and have never sold any, why would I sell at $12,000?, it's not about the money anymore.
+5	1523366054	1	Well you have to admit that’s in sharp contrast to asking if 10 bitcoin is enough to buy freedom.
+6	1523366365	2	Where do I say "buy" ?
+7	1523379665	1	In that case, it's not enough.
+1	1523367889	2	nope, not enough 
+1	1523363537	3	Only if you live in a shithole country.
+2	1523364063	1	Are you talking about Canada? 
+3	1523367220	1	Boom!
+1	1523358227	1	Enough for what?
+2	1523358634	3	**Freedom**
+3	1523359948	1	If you dont have debt, you are healthy and have some sklil somebody wants to pay for and you are willing to leave your things/property behind then YES, you are free.
+4	1523361248	1	And you don't have a wife or kids, and you have your own house, and you aren't addicted to gambling. Well since you're here, you probably are.
+3	1523367019	1	We're not here because we're free; we're here because we're not free. There's no escaping reason, no denying purpose, for as we both know, without purpose we would not exist. It is purpose that created us, purpose that connects us, purpose that pulls us, that guides us, that drives us; it is purpose that defines, purpose that binds us. We are here because of you, Mr. /u/LegendsRoom. We're here to take from you what you tried to take from us... Purpose!
+4	1523368124	1	[Purpose](https://www.youtube.com/watch?v=um1Kxewx-_s)
+5	1523369658	1	[Porpoise](https://www.javatpoint.com/difference/images/porpoise.jpg)
+3	1523367277	1	**Fuck yeah!**
+0	1523367795	1	6900 or 6200?
+1	1523376609	1	When short term moving average on 1hr chart crosses the long term, we'll shoot back up over 7k.  May happen today or tomorrow.  Watch the charts.
+0	1523367884	1	Anyone else feel like it's ground hog day?
+0	1523369471	1	Man, pump me up!  Love this .85 cent increase in the last hour.  To the moon Alice! /s
+0	1523372808	1	It's not dead, I saw it move.  Good for Bitcoin.
+1	1523372941	2	I poked it with the stick. It has some life in it. 
+2	1523375128	1	Give it another poke.  It seems to work.
+3	1523375960	1	A whale had snatched my stick. Apparently she didnt like the bitcoin was being disturbed too much. 
+0	1523373667	1	I felt a disturbance in the force. But now it's gone.
+0	1523378439	1	Was hoping to buy in late this weekend when it dipped below 6.5 again but it never happened. Hopes not dead yet! 
+1	1523379062	1	It's probably going to pump between 1 and 3pm EST today. Not joking.
+2	1523387673	1	Still waiting...
+2	1523379766	1	It's probably going to dump between 1 and 3pm EST today. Not joking.
+3	1523382266	1	But then again: It's probably going to jump between 1 and 3pm EST today. Not joking.
+4	1523382381	1	I'm confused. Maybe I'll just hold and buy the dips...
+2	1523379197	1	It's probably going to dump between 1 and 3pm EST today. Not joking.
+3	1523379542	1	Watch the short term moving average crossover the long term on the 1hr chart, and watch the price go up when it happens.
+4	1523379998	1	EMA or SMA?What is short term, what is long term for you? 10, 20, 50, 100, 200?
+5	1523380211	1	I'm using the gdax chart so when the orange line crosses above the grey. 12 and 26.
+1	1523380766	1	Hope (long or short) is emotional; in any kind of trading, emotion is your worst enemy.
+2	1523381114	1	This is true, emotional trades or being impatient are 100% my undoing, as with many others here that probably dont want to admit it. Overall im talking .005 so no real skin to lose or gain. Still able to make trades but the last week or two has gotten me fatigued with these swings. Im doing 1-2 trades a day vs. 8-10 at the end of march. 
+1	1523378727	1	Many people are waiting for the price to drop further. And exactly that might prevent it from doing so. That's my hope.
+2	1523379221	1	Really hoping it’ll scratch 6.5 early this week but thats small potatoes for me. Would much rather have it at 7k for awhile
+3	1523379721	1	There's still hope for you. If this guy is right, it will go up a little. And then drop further down. If you're not actively trading, but just waiting for a dip, it's worth a look. And maybe worth a wait.https://www.tradingview.com/chart/BTCUSD/7fB48k5r-Devilish-Impish-Bears-Keep-Taunting-BITCOIN-Bulls-Again-Again/This guy predicts an even lower dip:https://www.tradingview.com/chart/BTCUSD/9ZxbmBHH-Bitcoin-Follows-My-Pattern-Forms-A-New-Downtrend-Channel-BTC/
+0	1523372888	0	Massive sudden volume change.  USA?
+1	1523373096	1	nah
+2	1523375072	1	nah
+0	1523380864	1	Updated Price Analysis for BTC I wanted to share with everyone here https://www.youtube.com/watch?v=K1ireUgo21E focusing on the range and the critical points of interest.
+0	1523384643	1	HODL!!!
+1	1523384847	1	Crash in 4.. 3.. 2..
+2	1523384990	1	3.. 4.. hm, didn't happen
+3	1523385983	1	He was texting and driving.
+2	1523386103	1	You can confidently say that AFTER it hits $7000.
+0	1523370127	-2	Since early March, there has been decreasing fluctuation between peaks and valleys.  Also, the amount of time between peaks and valleys has been decreasing.  This, combined with the obvious downward trend suggests an underlying psychological phenomenon on the part of the day traders:  They're increasingly competing with each other, and not market as a whole.  Each pump might be correlated with an external event, such as regulation changes, etc.  Once the pump gets going, the day traders dump increasingly more easily, willing to avoid coming too close to the next peak.  This is what's causing the increasingly rapid cycling between the peaks and valleys.  At this point, the only thing that will cause a meaningful bull run is a massive and sustained investment by whales.  The thing about whales is, they tend to be conservative investors.  So, this massive bull run won't start until the price gets to about 2K.  Sure, there could be a "teaser" bull run at 4k, pumping us to over 10k, but this won't last.  Not until big money gets infused at 2K will the current 2018 cycle be broken.
+1	1523373499	4	Something something crystal ball
+0	1523372561	-3	Hello everyone,found a nice analysis about the BTC here... next stop 6000$???Here the link: https://de.tradingview.com/chart/BTCUSD/H1Rw2Z94/
+1	1523373638	2	Lol
+0	1523374496	1	Short opportunity. Sell now, buy back at 6680.
+1	1523375179	1	That is buying and selling, not shorting.
+2	1523376852	1	He meant he's short himself.
+2	1523377631	1	okay. what's the diff? 
+3	1523378236	1	"Shorting stock is the process of borrowing stock you don't own, selling it, and pocketing the proceeds. Later, you have to buy back the stock and return it to the owner from whom you borrowed the shares. This means a person who shorts a stock makes money when the stock declines, rather than appreciates"That's from thebalance.com
+4	1523380169	1	Crypto community has co-opted the term "short" to mean the opposite of "long". You are long if you own the asset, so you are short if you own the cash instead. To go short is to sell crypto for fiat cash. It's not technically correct usage of the term. Is there a better term to use when comparing bull/bear outlooks? If you are long, you think price will go up. What would be a better opposite than short?
+5	1523384005	1	Touché. It's just a bit confusing.
+5	1523386861	1	No, you are hodling if you own the asset. You're long if you've borrowed from the exchange to buy an amount, which you will then pay back with the gains you make later.

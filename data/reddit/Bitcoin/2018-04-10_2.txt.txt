@@ -1,0 +1,70 @@
+File created at: 1523388134
+Subreddit: Bitcoin
+Submission title: The sigh of relief when I saw this at my primary care
+Submission created utc: 1523314625
+Submission score: 304
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523319082	35	Just wait until you get the invoice for 1,153btc.
+1	1523333722	5	Not sure if healthcare in America is getting even more expensive or if you're just not from the states...
+2	1523337307	7	Am 'murican.  And realized that 1,000btc is quite a lot of USD after posting.  My bad.Though, the billing methods of American Healthcare is a bit over the top.  Anyone without health insurance can be bankrupted by a major medical emergency.  Seen bills where the actual insurance company payout is 10x higher than the patients responsibility.
+3	1523341267	2	insurance renegotiates the bill behind closed doors. they pay a very reasonable price for services. the only people that get hosed are those without insurance and have money to pay the insane bill. people without insurance and are broke just don't pay the bill.
+3	1523351273	1	You probably just saw the chargemaster fee/schedule fee that they bill to the insurance. The actual reimbursements given to the provider is much less, although inpatient facilities like hospitals or surgery centers get a lot more. The same thing happens with govt funded programs like Medicaid or Medicare. 
+4	1523383738	1	Maybe.The moderate in me wants to see what percentage of these insurance payouts amounts to pure profit for the hospital/center/office.  Especially in situations where little service is actually provided to the patient.  So they basically got billed for waiting around.  Can the USA come to terms with non-profit healthcare.  Stop running it as a guaranteed sale and operate it as the humanitarian effort it is?!
+1	1523337522	6	"Sir, that will be .987 Bitcoin."How much again?"1.07 Bitcoin"Let's see....[opens app]"Now it's 1.12 bitcoin"Shit, let me wait until the American traders are up.After 3 hours: "Sir, it's back down to .898"
+0	1523317685	12	There is a prostate exam joke in here somewhere.
+1	1523376223	1	Cashback with buttcoin
+0	1523314980	15	Bitcoin is the future of healthcare
+1	1523315181	25	The future of antidepressants 
+2	1523317950	8	and the present of prodepressants!
+3	1523323319	4	It's too depressing that I don't have more fiat for buying more coins.
+1	1523351867	-1	[deleted]
+2	1523379211	1	How so? Do you think it's a good idea for medical records to be on a public openly view-able database for all to see? What happens if you lose the private keys?Sorry but using "blockchain" for hospital admin is probably the least efficient thing you could do... 
+0	1523352404	4	Sigh of relief? Why? What were you worried about?
+1	1523371955	2	He might not get enough karma. Kappa
+0	1523353901	4	I'm so confused. The logo is the Bitcoin cash color with the Bitcoin tilt
+0	1523318434	3	Where is this?
+1	1523327494	3	Alpharetta, GA
+2	1523333438	2	That’s cool! I live in Smyrna, ga right near there 
+3	1523346671	1	> Smyrnawhat kinda name is that
+4	1523361991	2	It means "Attention!" in Russian (the military command). :)However, I think the name originates from the ancient Greek city (now Izmir in Turkey).
+0	1523335202	3	You should probably run away from suicidal doctors like this one, hth.
+0	1523317622	11	> having to pay for healthcare at the point of delivery
+1	1523327724	3	Usually it's just a down payment - then they send you a bill for the rest later.  It's better than it used to be though - back before Obamacare I had a plan that I didn't find out until I needed it, but they redefined 'maximum out of pocket' in the glossary section to mean 'maximum out of pocket, not including an additional $350  deductible per use'.  That's right - the plan I thought had a $2,500 deductible, 20% copay, $4,500 max out of pocket still had me paying out everytime even after I'd spend $7k in one year.  NOW - that kind of shenanigans aren't allowed at least.
+1	1523321320	5	Fucking america man, what a joke. 
+2	1523347803	1	lol, lots of patriots in here
+1	1523385223	1	I'm not saying that what we have is what I want but imagining having to pay for services is not that difficult. 
+0	1523326684	7	It's nothing compared to the sigh of relief when I don't have to pay for primary care.  Yay for socialised medicine.
+1	1523328016	4	Lol at least I have a dentist 
+2	1523349371	2	dude even plastic surgeon is included in germany if you are psychologically suffering from a disfiguring
+2	1523339339	1	I can afford a private dentist, and I am Greek.
+2	1523361139	1	We all do.
+2	1523371471	0	is that what you think? That Americans only have dentists? lolwut
+0	1523343398	2	If it’s a green logo, is it Bitcoin or BCash?
+0	1523318804	1	Where I’m doctor I need this sign 
+1	1523327795	1	Definitely, get it!
+0	1523321337	1	I’m always happy to see hand sanitizer as well.
+0	1523324863	1	GOODBYE CRUEL WORLD!!!!!!!!!!!!!!
+0	1523341776	1	[deleted]
+1	1523343652	2	The places I’ve used BTC or LTC to pay just do the conversation at the time of purchase. I assume they’re immediately converting it into fiat, so they still get what they’re accustomed to getting. I suppose some of the more savvy shops might hold the money in crypto if they see it going up near term, but I’m betting most just do an immediate conversion. 
+2	1523344299	1	Thanks
+1	1523344304	2	Currently, yes, as Cryptos or Bitcoin in special are still inan growing and volatile state.This means, if you already have BTC since a long time, its unlikely you made a loss at this time,except you bought the freaking "fear of missing out" frenzy in December.So if you bought 1 BTC somewhere in the past, below $1000it isn't that much of a problem, if this 1 BTC allows you to get healthcare (or any other thing) worth $7000 right now.Bitcoin accepting stores, mostly, see and do this, to offeran alternate way of payments, just like they do with variouscards or other means of systems at this time.In that sense, they often don't keep and hold the BTCbut sell them right at the time/worth of the bill you paid for.It is possible to instantly sell them, to mitigate the risk of volatility.This allows to "set" the price as usual, in your example $200,to make sure to get and convert back to this $200.Of course, some merchants do keep their whole BTC-income,but those are totally aware of potential downsides (and upsides!).But I don't see anyone to "set" prices in BTC in an "analog" way (like a Menu card)in the next years.But if you view this as is/should be the currency for the Internet,"fixed" rates on a stonewall (Brick&Mortar) aren't the main thing to consider,as onlinestores and Apps don't write their prices on a wall,but can display and convert the actual price of the product in $ andshow the equivalent price in BTC, in Real-Time.
+2	1523344727	2	That makes sense, thanks. I didn't realize shops would insta sell btc after transaction 
+0	1523345751	1	Where can I get it send me link pls 
+0	1523347512	1	So you pay the moment you arrive or they wait for the check up to be finished? You, know, price could dump 10% in half an hour, so...
+1	1523349135	2	depends if the doc is bullish or not lol
+0	1523349952	1	If they bill you in bitcoin now and you hodl the bill until prices hit a new peak you could get cheap medical care!
+0	1523350934	1	Crypto is coming :D
+0	1523353693	1	Agreed.  Did you know hand washing didn't exist in medical care until the 1850s?  https://www.npr.org/sections/health-shots/2015/01/12/375663920/the-doctor-who-championed-hand-washing-and-saved-women-s-lives
+0	1523359487	1	Bitcoin is taking care of you, everywhere :)
+0	1523373245	1	My primary care just has signs about living healthy. 
+0	1523344854	0	don't forget to pay the taxes on the transaction. 
+1	1523347300	3	fuck off with your stupid taxes
+1	1523369141	1	If he didnt make money on the coin, he doesnt owe taxes.  
+0	1523347862	-1	I'd pay in bitcoin now, that way 6 months from now your brain surgery will have cost about $1.29
+0	1523320964	-2	wtf is primary care, just say saw this at the doctors
+1	1523321422	5	Did you have to look up what primary care was?
+2	1523321648	0	sounds ghey
+3	1523326954	2	OP probobaly has multiple doctors because he is so unhealthy, give him a break.
+4	1523327917	3	OP just knows the correct term.
+4	1523353835	1	Yeah, I imagine his secondary and tertiary care providers don't even accept Doge.

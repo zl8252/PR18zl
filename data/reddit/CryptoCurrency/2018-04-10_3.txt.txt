@@ -1,0 +1,37 @@
+File created at: 1523388178
+Subreddit: CryptoCurrency
+Submission title: Nanex.co will be donating to the Bitgrail legal fund
+Submission created utc: 1523305347
+Submission score: 396
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523305989	73	You're a good person jay. (tips imaginary hat)
+1	1523341797	6	M'Nanex.
+2	1523361323	1	lul
+1	1523369049	2	agreed. (imagines tipping the real hat on head)
+0	1523315833	33	> In an effort to realize that goal, Nanex is also announcing that we will be working in cooperation with the Nano Core Team to open-source Nanex’s Nano implementation to further the adoption of Nano and improve the reliability of Nano-based services.
+1	1523320577	26	Damn, this guy has worked day in and day out to create the perfect platform for NANO to be traded on and he is not worried to give away his secrets of how he runs a flawless NANO wallet with any competition. It really impresses me when someone can put the health of the community in front of their own ambitions or needs (while I believe the success of NANO is also going to add to the success of NANEX) Jay open sourcing how to run NANO properly on exchanges will definitely add ease of use and hopefully increase adoption to different exchanges.
+2	1523351568	2	> perfect platform for NANO to be traded on and he is not worried to give away his secrets of how he runs a flawless NANO wallet with any competition.If competition came along, they would have to prove beyond no uncertain doubt it's on par or better then what he has created. That's no easy task. If the community holds you as the best they won't divert to someone else.    Also with each problem which he actively takes care of his community scares other people away from creating a competing platform because investors won't want to have a "If shit hits the fan fund" just to keep up with him.
+0	1523306032	63	Love the Nano community, they're one of the main reasons why I believe so heavily in this project.
+1	1523368218	1	What are you talking about. It's one giant Ponzi scheme!! /s
+2	1523368805	0	You're brain dead.
+3	1523373923	2	I think it might be you..Google search "/s"
+0	1523316471	41	This guy has honestly been a savior for the crypto community. He lists coins that he's actively losing profit on just to give them a good exchange to be on. Thanks jay :)
+1	1523318431	20	Banano on Nanex, confirmed??!!!
+1	1523353535	0	You mean he lists coins he's down on to hope they rise.... 
+0	1523319804	14	If anyone would like some Nano to play with, download Canoe, or any of the Nano wallets, and send me your address, I'll get some to you here.
+1	1523325686	7	i would gladly take you up on your offer but i already own 42 nano so im sure there are more deserving people. 
+2	1523333321	2	Haha, I don't mind, but honestly, it's more for people who want to try it out, test the wallet, maybe visit the sub, etc.
+3	1523334041	-7	[deleted]
+4	1523363650	3	The greed is real here.
+4	1523337066	1	Have some, pass it around, enjoy!
+1	1523342239	1	xrb_1f7r3w5a47ao4jyu99wdjqsbw157wofbs1bgzka47xxd9gfbpzizku4zyaib the nano community seems more focused on real world adoption and challenges thsn just tracking the price like a security 
+2	1523374121	1	> xrb_1f7r3w5a47ao4jyu99wdjqsbw157wofbs1bgzka47xxd9gfbpzizku4zyaibWe have a great community, because we have solid Devs and a project to boot.
+1	1523351725	1	I'm still rather new to Crypto. I've only ever mined ETH and Dbix (I tried ETC but that was a flop. Thought ETC being the first British currency would be great)    If you could explain to me what Nano is all about and convince me i might look in to it and dive in. Also anyone else reading this. Does anyone know of an exchange which allows people to nickel and dime (Under £10 trading for altcoins/tokens without having to pay £10+ in withdrawal fee's)    I really would like to try trading but i only want to play with little amounts of cash with a way to get most of it back if i decide to quit trading with a loss for example?  Invest £10 on exchange > Buy Nano > Trade Nano for USDT > Buy Ripple > relise i'm making a loss > Sell it all for £6 and witdraw the £6 with a small fee like 10% rather than a minimum of 0.001BTC
+2	1523372003	2	The ultimate currency is cash, I pull out some cash, I hand it to you; no middlemen, just, here you go.  With Nano, my wallet is it's own blockchain, and so is yours.  My wallet creates a send block, and your wallet creates a receive block; I then send the Nano directly to you, instantly, no fees, no miners needed.  My wallet did the proof of work and your wallet just recieved the transaction.  It's the best peer to peer crypto I've been able to find, the closest thing to cash.  Its instant, its feeless, its green.As far as an exchange with mo withdrawal fees, Nanex, but it's young so the trading volume is low.  Everything is pegged to Nano on that exchange, rather than Bitcoin, like other exchanges.  There is also mo dust, because Nano can send any fraction of itself for free.
+3	1523378911	1	Hmm interesting. I'll have a read up on Nano a little more and take a look at Nanex. I tried using Poloniex as i had mined some currency to there. Turns out i needed to send £10 ETH to the exchange to get my £1.50 withdrawn. I should've read up on the fee's first to be honest but i just assumed it would be a % of what i send/receive etc... rather than a flat fee. This is the main reason i've stayed out of trading and only held what i have.    Thank you for taking the time to give me a quick run down on Nano. It's interesting in how it works.
+1	1523359185	1	Amazing offer thank you. I've been in crypto since 2015, but haven't invested in Nano but obviously heard a lot about it on this sub. Zero fees and instant transactions certainly sounds interesting! Would love to test it out.xrb_1acqk6u55kmaf7mzarrn85eb3c9zquoe4jzit5jskir3srr9xpsf8rrf7wpd
+2	1523374049	1	> xrb_3gr3hnnqgpdfi8wnhtnozwojbus87s9zsdpj5k5cdhhhw6qza4x7gt3enjgoAll done, enjoy your first Nano.
+1	1523377372	1	xrb_1kcc6npp9ahfczk1cbjxy16ybq8minjwrr8w57bzrab5bmo8w3z619ehk96jThank you so much sir =) App looks great
+0	1523326056	6	Jay you are amazing! Keep up the good work!
+0	1523325638	4	jay is cool. good dude very helpful

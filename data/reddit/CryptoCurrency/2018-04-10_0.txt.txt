@@ -1,0 +1,405 @@
+File created at: 1523388171
+Subreddit: CryptoCurrency
+Submission title: I just closed my BMO Mastercard, and told the bank my main reason was for the way they are treating cryptocurrency.
+Submission created utc: 1523313439
+Submission score: 1347
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523316250	420	Everyone unhappy with their bank because of their stance on crypto should do this. Unfortunately, you have people that will write rants but not follow through. Well done on actively doing so OP.
+1	1523325733	73	Is this only because you can't buy crypto with credit cards? I guess I'm the odd one out but I don't really see that as a problem. Allowing customers to buy speculative financial assets with credit sounds like a liability for the business and the economy as a whole. 
+2	1523331047	101	BMO banned buying with debit cards. That's the issue.I did not have a debit account, but could certainly take my credit business away from them.
+3	1523332742	47	Thanks for the clarification. That's why I asked. Credit cards aren't your money, but debit cards definitely are. 
+4	1523362849	39	Banks dont care if u max out your cards on LITERALLY ANYTHING. Can be hookers, casino, you name it, they're fine. But oh no, now come crypto and we got a problem. That's a problem. 
+5	1523365201	18	This is not true. Banks (and ultimately the card issuers) go to fairly good lengths to curb spending on cash equivalent products; they're a high source of charge backs and fraud. Crypto*currency* is as cash equivalent as they get. It's not about how they feel about crypto, it's about the risk that it posses to the bank. Why does Coinbase have such a large percentage fee for charging credit cards (before they were cash advances)? To cover charge backs and make profit.You can *easily* get shut down by a banks compliance department for similar risky behavior. Run six figures of cash equivalent transactions on your card and/or through a checking account and you'll get the same treatment.E: bonus data point - it only took Chase three years to come crawling back to me.
+6	1523369623	5	Cash advances at a casino ATM are OK because the banks get to charge fees right off the bat.  Buying crypto with credit would allow for possibly interest free investing.  Debit transactions also take about a week, and that's too much time for a crypto transaction to sit in limbo.
+7	1523371382	6	Well and their risk is much lower. Typically cash advances are 15-25% of the credit line, and it takes balance transfer offers (which are predetermined and preapproved and much less spontaneous) to get above that. The whole game is risk. Modern society is built on risk transfer and redistribution, but most non-finance fields don't think about it and crypto is often a persons first introduction to finance.
+7	1523373946	1	My debit transactions are instant on coinbase. I receive my coins within 30 seconds of purchase. 
+6	1523373912	1	The issue is when you can use your CC at a Casino and gamble your money away, but they restrict Crypto. It isn't about shutting it down at a personal level either, that is normal and smart. When they universally ban a type of transaction, while allowing similar ones, that is the issue. I can't spend $1 from my CC on crypto, but could spend $200 at a casino.
+4	1523363323	5	I agree with your thought process; however, if someone pays their credit cards on time, why should they care? They dont care when you spend shit left and right..
+5	1523365303	3	Not all purchases carry the same risk.
+6	1523365862	2	You are right... Now for **debit**, I should be the master evaluating the risks associated with how I spend my money.
+7	1523367099	0	In principle, sure. In practice, debit cards can be abused in the same way credit cards are, and naturally banks want to limit their exposure. 
+8	1523379275	1	But they can block your account if you go over your pre determined overdraft (which could be £nil). So they don't bear any risk. 
+9	1523380504	1	No, they still bear risk. If you claim fraud, it's a substantial amount of paper work for them regardless of how true the claim is. Between that and things like changelly + monero, they're a prime target for abuse.
+4	1523368782	1	Yet I could buy gift cards on credit..
+3	1523346945	6	As soon as you said mastercard i assumed CC also and thought to myself... "And thats a good thing they dont let you buy with it as the money is not yours" Now i read the comments and they refuse to allow you to buy crypto with YOUR money via the bank card linked directly to your actual cash.    Love Barclays which are very pro tech and really look out for scams against customers, even going as far as recreating scams and putting them on TV for everyone to see how they work.
+4	1523360741	9	Yep, 1000% bullshit. I'm fine with no CC purchases, but no debit? Ridiculous.
+5	1523373791	1	Does anyone know why?
+3	1523367123	1	Have you considered a credit union? I’ve never had an issue with NavyFederal and USAA supports crypto. as well
+4	1523367318	2	I'm in Canada. Not sure how the local CU's would do things here. My main account is with CIBC though and I've had no issues there.
+3	1523367337	1	From what website 
+3	1523370691	1	Don't Debit cards have the same protections as Credit? The difference obviously being that it's your money on the line, but the procedure is the same?
+2	1523332811	19	No, I'm referring to debit purchases only. I have no issues with banks not allowing credit purchases for the same reasons you state.
+3	1523342853	12	There are still people draining their bank accounts on BTC, then when the value drops the next day they call in saying it wasn't them it was fraud.Idiots always ruin things.
+4	1523358453	9	And if they required extra verification for the charges, or you could call them and tell them "I buy crypto stuff, please set my account to not flag those transactions" that would be a fine example of the banks protecting their customers.Instead they ban the transactions and close your account. A fine example of banks protecting themselves.
+5	1523365404	1	Some banks *will* let you do this though. It kinda varies by department/branch. The ones that don't are morons, but they have the right to sell whatever they want.
+2	1523329405	7	Here's the thing , I buy crypto with credit card .. I pay it off right away including the fee's... Credit card purchases are INSTANT and when I need to quickly buy coins I can rely on it and not wait days for it
+3	1523330401	3	That's perfectly fine. My statement was not a judgement for or against any one person using credit cards to buy crypto. Just that the widespread allowance of credit card holders being allowed to buy crypto is a liability. You may use it extremely responsibly whereas other people may have maxed out their cards in December fomo'ing into coins that were going to lose 80% or more of their value and now they can't make payments. 
+4	1523339093	4	Oh so *now* the banks are worried about people using credit responsibly?No. It’s all because they see it as a threat. They’re just trying to convince us that they’re just “looking out for us”.
+5	1523342998	3	No.  Just no.  Stop that nonsense.Sure, someone somewhere in the chain might think its a threat, but its not guiding their day to day business.  What is guiding their day to day business is when a horde of idiots buy BTC on their cards then claim it was fraud when the value plummets.The people who should see it as a threat are Visa and Mastercard.  Not the acquirers and banks.  They would be just as happy for you to deposit BTC with them one day.
+6	1523374538	1	If people are defrauding banks, that is a crime. There is a legal path to pursue action against them. Banks have sections dedicated to this. They should not, however, restrict the purchases of everyone. The internet has a lot of fraud, but Banks seem fine with online purchases. Maybe a similar mechanic?
+3	1523333645	1	I see what you're saying but at least on coinbase, you are able to make the same instant purchases with a debit card. You still pay fees though. Look into it. My problem is if I have a credit card, I should be able to use it HOWEVER I please. Yes it's the banks money, but I'm the one who applied for the card for me to use. The bank shouldn't have any say in how I spend my money. 
+4	1523343140	3	If the last 100 people before you to use one of their cards on BTC turned around  and claimed fraud, they sure as fuck are in their right to tell you - #101 - to fuck off with your btc.
+5	1523346177	-3	If the last 100 people using their card on a ATM called fraud, it's okay for the bank to tell you you cant use ATM's anymore? Wtf?
+6	1523348643	1	ATM transactions don't operate on Visa/MC networks and don't have the same risk profile for this and other reasons.Your analogy sucks, but lets assume things work that way.  If all ATM's across the country suddenly started giving you $10 for every $20 you tried to withdraw, and hordes of people end up doing chargebacks, yes its kind of okay for the bank to say "woah woah woah there! Something is up with these ATMs.."
+2	1523328498	57	But it's perfectly fine to max them out on poker, booze and strippers? Very low risk, am I right?
+3	1523329818	15	Booze and strippers, sure. The consumer is well aware that they're going to have to pay those purchases back from their own pocket and not with future earnings generated from the purchase itself. I don't know enough about the aggregate effects of gambling to say whether credit should be allowed or even if it is allowed. 
+4	1523340057	0	What if you're a writer who can only write well while drunk?Or better yet, what if your income comes from betting on yourself to win drinking contests?Gotta stay in shape!
+4	1523333967	-6	Gambling is illegal under federal law, yet you can gamble using federally insured credit cards.Crypto is not illegal and yet they are dissalowing the purchase.It's just hypocritical no matter how you slice it.Edit: down vote me if you like, I am still correct."In the United States, illegal gambling is a federal crime if done as a business. However, each of its states has its own laws regarding the regulation or prohibition of gambling."
+5	1523334895	10	>Gambling is illegal under federal law*looks at Las Vegas**wut*
+6	1523351226	1	Vegas also has legal prostitution
+7	1523371120	2	Vegas doesn’t, Nevada does. No hooking in Vegas or Reno. 
+6	1523368505	1	"In the United States, illegal gambling is a federal crime if done as a business. However, each of its states has its own laws regarding the regulation or prohibition of gambling."Las Vegas is a city, inside of a state. Different jurisdictions.
+6	1523338988	-2	Not everything is about America?
+5	1523365331	1	> Gambling is illegal under federal lawthis ~~is~~ ~~false~~ has many caveats.
+6	1523368437	2	"In the United States, illegal gambling is a federal crime if done as a business. However, each of its states has its own laws regarding the regulation or prohibition of gambling."Yes it is. I dont understand the downvotes.Different jurisdictions people!
+3	1523329474	14	To be rather fair it’s pretty mainstream knowledge that those things you said are associated with people reckless with their money.Although crypto is currently having a bit of a bad rap it’s a right now an unregulated mainstream market where a lot of people think they can just get rich quick.Now obviously those people aren’t educating themselves before wasting their money on any random alt, so banks are going to want to lock that off.
+4	1523339972	3	Hey, booze isn't reckless if you're an alcoholic! Quitting drinking without medical supervision is what's really reckless.
+5	1523343854	0	You can die off that always supervise when doing Cold turkey
+4	1523347722	-1	> To be rather fair it’s pretty mainstream knowledge that those things you said are associated with people reckless with their money.You say as if banks did a massive ad campaign in the 30s that made people aware of them. World was full of dumb fucks who kept getting frauded, and finally it became common knowledge and they stopped getting frauded. Credit where credit is due, which is to the passage of time.Same with crypto, if you're a dumb fuck it's not our responsibility to raise your awareness. Thats still their job to save themselves from fraud if theyre well functioning, sane adults. Stop fucking punishing the rest of the world for low intelligence of certain people.
+5	1523353907	1	It’s not the banks responsibility to raise awareness over crypto until they think it’s really becoming a threat to their money.This subreddit preaches constantly about scam coins/shitcoins and people trying to make a quick profit. If people are doing that on debit fair enough they lose out, but when it’s on credit the banks lose out, so they’ll say no simply.You can’t gamble on credit I’m pretty sure, isn’t that punishing the people who know how the house works and how to responsibly gamble?
+3	1523344895	1	Where can you pay for poker with credit?  The most I've seen is a cash advance at casinos with astronomical fees but that isn't specifically for gambling. 
+4	1523362770	3	Online gambling sites accept credit cards as far as I know.
+2	1523346445	7	Yes. The banks really care about where you spend the money that is going to give them a revenue. They give two shits or they know two shits. They allowed people to destroy their lifes getting loans and in the way the whole economy and now they care about cryptos... they are scared of cryptos, period. Hope they all go to hell!
+2	1523346720	3	Perhaps I'm the odd one out but every time I spend on my credit card I put the cash to another account so I know I can always pay off my balance every month.It's not for credit cards to determine what I spend my money on. If they do their job properly my credit limit would be set at an amount based on what I can afford to repay.  But let's be honest, credit card companies encourage us to get into more and more debt, because that's how they keep people screwed under with repayments, and the cost of servicing that debt is a steady flow of income for them.So while I agree with you that we don't want crypto booms fuelled on debt, it's not for ethically void credit card companies to preside over.
+3	1523359409	3	I do similar but I just pay the card, so I can’t forget or get busy or whatever. I sometimes pay my credit card balances 3-4 times a month. I hear people say you should carry a balance to help your credit... well I’ve never done that always paid my cards at least every paycheck and my credit score is 815. 
+4	1523359977	5	> I hear people say you should carry a balance to help your creditThat will be the card issuer, I'll bet ;)  It only costs you 30% compound interest, what a bargain!
+2	1523347437	2	OK, but they do allow usage of credit card for blowing up on las vegas? You really that naive to think that protecting from volatile transactions saves credit card companies? Mate their whole model requires people to put money on volatile expenses that they will never be able to pay back. So you're either malicious or wrong in propagating this credit card-have to keep their business safe argument. They dont. 
+2	1523364780	1	I see a problem in the sense that if that was the worry then they should not give out so much credit. What is to stop people from getting a new CC and then buying iPhones, computers, TV's and other shit they cant afford, let alone people being able to use their houses as an LOC and then losing their house when they cant afford to pay it all back.I've bought tons of Crypto on my CC to get points and rewards and then pay it off from my debit account. There is nothing wrong with this so I dont know why they fuck it up for everyone.
+2	1523368611	1	you know I agree with you - but I have family that work in a casino and they tell me stories about people maxing out credit cards from cash advances there so I really have a hard time with banks telling me they are protecting me when they won't protect addicts...
+2	1523378672	1	It is still bullshit as these same banks will allow you to max out your credit card at the casino. Risk (of customer default) isn't the main reason they are doing this.
+2	1523381891	1	Whats your opinion on Debit cards then? Also, are you implying that you believe customers should not be allowed to use money from a line of credit for gambling?This is essentially no different - except it has potential to get rid of centralized banking.
+2	1523343467	1	You cannot gamble with a credit card either (in most places, at least). You sure as hell can use your debit card though. 
+2	1523331656	-1	In your world, it's perfectly ok for adults to be held by the hand and be told what they can and cannot do with their money.  It starts with the credit card but watch them slowly remove all access to cryptos going forward like they do with gambling in some states. Gambling is even more irresponsible. Do you feel banks or other third parties  have the right to stop people from having a choice on that as well?There's nothing wrong with having personal responsibility.
+3	1523331947	6	Credit cards are not your money, it’s the banks. If this post is about debit cards then it makes sense.
+4	1523343243	2	The problem is that debit cards only guarantee payment from the attached account, they don't guarantee you won't do a chargeback and claim its fraud.  How many people do you think bought in december or january, then when they saw 30% of their value disappear figured "hmm, maybe ill say it was fraud...".I can pretty much guarantee the number of BTC related chargebacks skyrocketed in just one month.
+5	1523362033	0	Charging back on a debit card is more difficult than credit. 
+3	1523332064	1	>what they can and cannot do with their moneyIf it's a credit card then it is not your money. It's a loan and it comes with stipulations. If banks and credit card companies don't want to lend people money to gamble with because it's too high risk I would not have a problem with that either. 
+1	1523363295	2	I Would if I could, unfortunately they happen to sign my paycheck....
+1	1523364562	1	Isn't there a simple solution as to move your money elsewhere and then buy crypto? I'm pretty sure there are some out there that accept PayPal or a different online wallet like netteller maby? 
+1	1523377781	1	It's not going to make a dent. It wont effect them or make them change. Crypto-ers are just a small drop in a huge lake when it comes to the credit card companies.This is a losing battle
+1	1523328986	-1	Before you do this please realize closing a long standing account may hurt your credit pretty significantly 
+2	1523336450	3	Apart from lowering your total available credit, thus raising the percentage of available credit you are carrying as a balance, how does it affect your credit score?
+3	1523337971	6	Closing long-standing accounts lowers the average age of your credit history, which is a contributing factor in your FICO score.
+4	1523365637	1	Ah right - I forgot age of accounts!
+3	1523337880	0	If OP say, has a total of 20k credit spread among 5 cards, but has a balance of 10k. That’s 50% utilization already.If said BMO mastercard has a credit limit of say 4000 and no balance, and OP closed it, his utilization will jump to 62.5% wihich will impact his score.One more thing is if said BMO cc has been with OP for a while (10 yrs), closing it will bring his average age of revolving accounts into a worse value, assuming 3 to 4 of his remaining cards are opened after the BMO.
+4	1523344294	2	And this is why I don't take credit seriously.
+5	1523348204	3	You will, eventually. Having a 750+ credit score has saved me thousands of dollars. You can try to ignore it, but unless you pay all cash for *everything* including housing and vehicles, it's relevant.
+6	1523350291	1	Is it relevant? Yes. Will I ever take it seriously? Hell. No.
+0	1523313531	144	well done
+1	1523352952	26	Yep, OP's bank is going under for sure! /sNow come on, I'm balls deep in crypto but I found this post ridiculous. Good on OP for closing his account but to say they are going out of business and lose all their customer because people can't to buy crypto is delusional. 
+2	1523363772	4	They are losing SOME business, that is for sure.
+2	1523358339	-4	Not because people can't buy crypto there.Because they are not embracing a technology that has the potential to overpower traditional banking systems
+3	1523360142	2	They're not embracing a technology that would make them redundant. Shocking. 
+4	1523367059	1	Like Blockbuster and video streaming 👋🏻 
+4	1523378876	1	You are misunderstanding me. By NOT embracing it they are missing the boat. 
+0	1523315609	146	Closing my Bank of America account this week and will do the same. 
+1	1523322815	22	May I ask why? I've had my BOA checking linked with Coinbase for months and no issues with immediate wire transfers. 
+2	1523328977	13	BOA charges for their core checking account and I've heard of BOA accounts being closed because of crypto purchases (even with debit). Rather deal with banks that are crypto friendly, hence why I'm moving exclusively to Ally and Charles Schwab. 
+3	1523339520	9	They closed mine and said it was due to my “business activities and the way it was being ran.” As soon as I paid off my balance they shut it down.  BOA is one of the biggest crooks out of all the banks I utilize. I personally suggest everyone shuts down their Bank Of America accounts!
+4	1523349903	2	I’ve purchased on Coinbase through BoA at least once a month over the last year - no problems. You’d think I would get the same message, but I haven’t. Sounds like there’s more to your story. Where else were you buying crypto other than CB?
+5	1523360458	3	They said once they “paid off balances”. I wonder if this was a credit card? Otherwise it sounds like they were over drafting their bank account. Over drafting + coinbase is essentially buying on credit, so of course they’d close the account. 
+6	1523378962	0	Credit card. I haven’t purchased anything let alone crypto for some time.  The last time I had a card with them ( 15 years ago) I closed it and paid off my entire balance at the bank. 8 months later I get a bill saying I owed money ( no balance shown) with a 69% interest rate.  I called them and told them I closed it and paid it off, but they claim there was still 25 cents owed plus 7 plus months of late fees plus all the ridiculous interest that has tacked on due to non payment.  I have heard this story more than once. They are crooks. 
+5	1523378678	1	That’s it.
+4	1523356518	2	What happens to funds in your account?
+5	1523378987	2	Credit card
+6	1523379032	2	Oh they just close the credit card account? Not chequing/saving?
+7	1523379095	0	I won’t put my money in their hands. No checking or savings. Just credit cards for business purposes. And some crypto.
+3	1523380032	1	They don't for me. Are you sure about that? My checking account is free at BoA
+2	1523323991	12	It’s only on credit cards, since the money is technically borrowed. Checking is your money.
+3	1523329171	27	That is completely reasonable. The bank are lending you credit with their credit card. They can decide what they lend it out on or not. If they don't let me spend _my_ money in _my_ chequing account though... that's when I'd be switching banks. 
+4	1523332858	9	Didn't know this was credit cards only, that totally changes my opinion of BOA banning it.
+5	1523334921	6	Op said in another comment it's debit cards too. I didn't realize that until he said it [here](https://www.reddit.com/r/CryptoCurrency/comments/8b2ohy/i_just_closed_my_bmo_mastercard_and_told_the_bank/dx3wp2x/)
+6	1523349962	2	I can literally use my BoA debit card right now without an issue...
+7	1523369352	1	That's good to know. He's talking about BMO though
+8	1523369417	2	The parent comment to this chain is talking about BoA...
+9	1523369747	1	Oh oops. I'm on mobile and got a bit lost there haha. Didn't realise.
+5	1523333879	2	It’s not a bad reason either. They don’t want people just buying a ton of crypto then reselling it, and repeat, for cash back rewards. I’ve linked my BoA checking account and have had no issues
+6	1523343643	2	Wrong.  They don't care about that.  The merchant pays for your cash back rewards via a much higher interchange rate.  ie if you use a regular card to buy something from me, i might pay 1.5%, if you use a cashback card i get charged 2.5%.  So long as they get their money, the more you spend the merrier.  The reason why debits usually don't have cash back is because their interchange rate is regulated super low for all but small local banks and credit unions.The problem is when BTC skyrocketed then went into bear territory within a month, the "so long as they get their money" part probably went away and lots of people claiming it wasn't them it was fraud.
+5	1523343421	1	They're still open to chargebacks aka "it wasn't me who bought btc at 19k a few weeks ago! it was fraud!"
+1	1523315812	38	Fight the power.
+2	1523331100	-2	Fight the power!
+1	1523328188	8	It's really important to tell the bank why.
+2	1523379129	1	"this call can be recorded for quality assurance..""I hope so!"
+1	1523322804	9	Good job but BoA is the worst. Should have left them ages ago. 
+1	1523369273	2	Ive transferred $3,000 from coinbase into my BoA account with no hassle at all, and other smaller transfers have also given me no hassle aswell. Is this normal? Im in New York
+1	1523361394	1	Boa works fine with debit card . No problem 
+0	1523323605	28	GOOD! BMO is the only bank in Canada taking such a crazy stance to crypto. Open up a RBC account now and get 300$ free ;) and they are the only bank that works with Quadregex haha :P 
+1	1523363515	4	This is not true. RBC and TD are also cracking down. Go check /r/bitcoinca a guy just got $700k frozen at RBC.
+2	1523363570	6	Yeah.... 700k.... They check you for money laundering at those levels. 
+3	1523363729	3	Yeah I figure they're going to release it once he goes through their compliance process. But the fact that they're freezing it when it's coming from a Canadian registered business that is not doing anything out of the ordinary other than crypto is concerning.
+4	1523363832	5	You move 700k into your account out of the ordinary and the bank will freeze it. Doesn't matter how you got it. You have to show how you got it and where you came from. AML laws are pretty strict and in many places you can't even buy property in cash anymore. Definitely not in Canada from what I understand. You have to show where you got the money and prove it's not from illegal sources. 
+5	1523364435	3	I know anything over $10k triggers the AML checks but I didn't think they'd outright freeze it. Funny I work in financial services and the one time I legitimately thought I found a money launderer or something fishy going on my boss just shrugged it off. Essentially said "meh".
+6	1523364517	1	That's funny ha. It's risky for the banks though I would say when it comes to crypto because it's so easy to launder money. They don't want to get into trouble too which I am actually happy with as an RBC customer... If they get in trouble then it hurts us all. 
+6	1523369949	1	probably work for HSBC  s/
+2	1523368762	1	anything above 10/25k and you are getting money frozen for FINTRAC requirements.... especially if you aren't registered with the bank as having an income level that supports that kind of income or didn't give them a heads up that there would be a one time deposit coming through...  MSB and Banks still have to protect themselves...
+2	1523369906	1	TD has already frozen credit card purchases of crypto, but to my knowledge debit transactions are still allowed
+0	1523324513	38	How can a bank tell you what you can buy and not buy with your money? Wtf 
+1	1523324650	42	Yep. I can understand credit cards, but debit?
+2	1523329273	11	I thought you were talking about a credit card... 
+3	1523329446	26	BMO said no purchasing crypto with credit or debit. They won't allow you to use your own money.
+4	1523331226	12	I think you should clarify that in your post. Not letting customers use credit cards to buy crypto with the credit the bank is lending you is completely reasonable. Not letting you purchase it with your own money is not. There was nothing in your post that indicated that however and many of us wouldn't know that BMO said that about their _debit_ cards as well. 
+5	1523369182	0	>Not letting customers use credit cards to buy crypto with the credit the bank is lending you is completely reasonable.It may be where you live, but it's definitely not reasonable here. When I opened my bank account and got a credit card they never ever ever said I would be restricted from using it in any way I'd like. It's almost like the bank is paying you to use their card when it's the other way around.
+6	1523369498	1	They probably did say somewhere in the terms and conditions.
+4	1523356658	3	Since when? And source?
+5	1523371045	1	I work at BMO, I can confirm it's true. No credit or debit cards can purchase crypto. Your bank account can still be used.It's a newer policy, like mid-March.
+6	1523371222	1	Funny, I continue to withdraw crypto profits into my BMO account and they don't seem to have a problem with money coming in.I guess the bank is protecting their money from going out. Makes sense even though I don't like the sound of that
+7	1523371888	1	I'm reading the announcement right now. >Action Required:If customers ask why [their BMO Cards, Debit, Credit, small business or consumer] will be declined for crypto transactions...let then know that BMO Harris is taking a proactive approach to protecting the bank and our customers accounts by blocking these transactions.
+8	1523378720	1	Thanks for this info, good to know that I'll just use my other bank if I need to buy the dip ;)I guess some people need "protection" in order to stop them from buying on fomo at 20k/Bitcoin.Frankly, I think it's quite ridiculous that an individual cannot solely decide what to do with their money...
+9	1523381227	1	Yeah. Not something most agree with. 
+3	1523329688	-2	Credit is the banks money so I guess they don’t want to lend it easily.
+1	1523353012	6	I thought the exact same. Wtf is that for bullshit? 
+1	1523348080	3	Exactly.
+1	1523359582	3	My bank doesn't seem to object to me spending my money on hookers and blow.
+1	1523368871	1	if its in the bank's hands it isn't your money.
+1	1523372203	1	This question is an example of why banks need to die and for crypto to live.
+1	1523379288	1	The banks are becoming a law onto themselves by giving themselves authority as to who, when and for what reason people can transfer their money to others, as well as how much commission they should take. Combine this with the continuous push by governments and banks for a "cashless society" (i.e. a society where every financial transaction has to pass through a bank and/or government for audit and approval) and you can start to see why people will turn to crypto as a solution (and also why the banks and government hate it)
+1	1523380865	1	Because they have your money.
+1	1523332951	0	They facilitate transactions. If they don't want to facilitate certain transactions that's their call. They can't stop you from taking your money out and doing what you want with it.
+1	1523346571	0	Yes they can.Can your bank tell you not to buy illegal stuff with your money? Yes. 
+2	1523352633	1	Crypto is not illegal and you pay banks account keeping fees.  They have no right at all to tell you what you can legally spend your own money on. 
+3	1523353103	2	It was a discussion in general.Banks can decide with which companies they have agreements. Some banks dont allow you to use your debit/credit cards for gambling websites.Perfectly normal.
+4	1523355722	0	Banks have no moral high ground since their business is pure exploitation. 
+0	1523333031	35	>And I laughed, and laughed and laughed. I then said absolutely, and they will be known as the ones that went out of business.Wow you really showed the customer service guy
+1	1523382448	1	I think he was so struck he quit his job the next day.
+0	1523316181	75	Closed my B of A told them the same. Bye Felicia 
+1	1523317417	11	BoA hasn't given me any trouble. Are they declining crypto purchases?
+2	1523317790	14	Ya BofA has been fine with me.....I use them for personal account and business. I love their online features. Same day wires that take 30 minutes are wonderful.
+1	1523322134	24	I work as a banker for B of A, from my experience you can use your checking account and debit card for crypto (done it myself) but not your credit card.
+2	1523323902	12	Don't the majority of banks do this? I though it was one of those semi-universal things, like being unable to buy stocks or gamble with credit.
+2	1523324492	-6	Why not? I can understand treating it like a cash withdrawal as far as interest but it’s still a “purchase”I can use my credit card to purchase some digital asset online (such as a skin for my pubg or fort nite character) and they don’t stop me from there.Hell I can even go to Vegas and use my credit card to pull cash and freaking gamble with it. 
+3	1523329563	6	If they could stop you from withdrawing credit to gamble they would.However they can stop you from doing that online on big unregulated markets.
+1	1523321851	5	Can you elaborate what B of A did? Just ask because I just opened a business account with them. ..
+2	1523330414	-2	B of A and other Banks will close your business account if you use it to buy cryptocurrency.  
+3	1523350115	5	That’s just wrong - I’d like to see proof of this. It’s like everyone here is spreading FUD against BoA without reason and then claims to not buy into crypto FUD the next minute - these character traits aren’t doing anyone a favor 
+1	1523323291	3	BofA hasn't given me any problems.  I can buy crypto.  I think the only thing you can't buy it with is their credit cards.  Checking and Debit work fine for me.
+0	1523316386	29	I enjoy hearing these stories, but a word of caution, please be sure you cancel your cards the proper way so that it doesn’t hit your credit score. Unfortunately we’re still tied up to these score numbers and it’s best you do it the right way, then stick it to them beautifully without being punished. It’s a corrupt, stupid and shady system...A quick google search to do it the right way:https://www.creditcards.com/credit-card-news/help/cancel-credit-card-6000.php
+1	1523319338	10	Thanks for the heads up. I closed it with a positive balance so I'm not too concerned.
+1	1523324324	11	credit system is as much of a sham as banks are anyway
+2	1523359708	1	When my score jumped 30 points the first  month after signing my first mortgage, that proved it to me. Somehow now having 30 years of debt makes me a better credit risk but a decade without any debt doesn’t? Total scam. I understand it, but it’s a scam for sure. 
+3	1523365592	3	>  Somehow now having 30 years of debt makes me a better credit riskAbsolutely. It reveals more about you than a blank slateA. someone else thinks you're worth the 30 year debtB. *you* think you're worth the 30 year debtcredit scores are all about probabilities. The percentage of people that cut and run on 30 year mortgages is smaller than blank slates who sign up for credit cards and then can't/won't pay them off.
+3	1523374033	1	Well if a lender deems you worthy enough to lend you around 100,000 to buy a home, yes your credit worthiness has improved. 
+1	1523324584	9	Where we're going we don't need scores. 
+2	1523330545	11	Unless you want to buy a car or home or rent an apartment or get a good job at any point.  
+3	1523379172	1	Yep, this is the big credit score scam - where the banks/utilities/telecoms companies can threaten people to pay or lose their job / home. The scope of credit scoring has increased vastly beyond its original purpose of personal lending, and is effectively used as a way of blackmailing people into behaving.
+1	1523326056	2	I dont have credit score lol I buy stuff in cash. The sad part is that bad credit score is way better than no score at all.
+1	1523345678	1	soon there will be a nice blockchain solution from our  beloved banks to track all your financial missteps. when blockchain eats its own children.
+0	1523340755	9	My bank won't let me buy crypto anymore either. It's absolutely ridiculous. It's my money and I can gamble online with it, I can buy porn and sex toys, I can buy meds, etc but I can't buy crypto? It should be my choice how I want to spend my money.
+0	1523313579	8	What is BMO?
+1	1523313933	13	Bank of Montreal 
+1	1523313958	5	Bank Of Montreal is likely
+2	1523314590	2	Yep.
+3	1523314975	10	Good on you for doing it. These dinosaur institutions are going to learn what I've been saying at work for years..."Everybody's replaceable and any asshole can go broke."
+4	1523319841	5	> any asshole can go brokeThose that bought BTC at 19K on margin, for example
+5	1523321349	3	Or taking out mortgages for it
+3	1523319270	0	Is this a new ruling by BMO? I had no issue using cex.io and coinbase a few months back with my BMO MC.
+4	1523319510	4	There was a leaked memo on here a few weeks back that showed their new policy on no Cryptocurrency purchases with either credit or debit. The credit thing doesn't really irk me, but the audacity of saying no debit? Time for a message.I only had a credit card there and don't typically buy my crypto with it, but the point remains. I don't deal with ignorance. Edit: grammerz and speelings.
+1	1523372247	1	Bank Montreal Of
+1	1523321645	1	moldy BO
+0	1523319645	54	Bet they wept gently into their pillow all night long to see you go.  lol
+1	1523321804	17	Hey I'm a person and I matter too! Right?
+2	1523325164	11	*gently pats shoulder*
+2	1523337029	5	Have to start somewhere. Good job!
+1	1523349555	2	I think you didn't enter the workspace. Not a single company on this world can live without customers.
+1	1523344808	1	[Into their "pillow"](http://gph.is/1nc5TZu)
+1	1523377258	1	I mean they clearly did care on some level, OP literally not figuratively had the bank trying to get him to stay. I don't understand the point of your comment unless you are trying to demotivate people from voting with their business. Which I don't think really needs much help since it's already more work than it's worth to try sending a company a message with your actions in most cases.
+1	1523323830	1	Imagine if 100 people left because of this reason, that would definitely cause some upturn.
+2	1523330617	12	Banks with millions of customers could care less about a hundred people who probably have less then $1000 in their account like most people.  
+3	1523370355	1	Be the change you want to see in the world. Who cares if you're a drop in the ocean.
+3	1523373878	1	Couldn't* care less. Read what you write!
+3	1523352794	-1	Exponential. 
+2	1523324616	4	I don’t know the bank the OP is referring to. However if it’s a large one. It will take a LOT more than 100 for them to see the errors of their ways. Hell even then they may not. Some of the big companies and too stubborn no matter how much their customers are telling them. 
+0	1523327634	11	Aaaaaaand the consultant does not care. Onto the next call. 
+1	1523327761	3	Completely. But doesn't hurt to try. Much in the same way I made this post it's about trying to raise a bit of awareness.
+0	1523327422	15	Kinda cringe but whatever makes you feel good dude.
+0	1523325621	6	I remember, shortly before closing a BMO account for good, an exchange with a teller that ended in me shouting "is this my money or yours?".  This was before crypto.
+0	1523338721	14	ITT a bunch of idiots closing their BOA checking accounts because they didn't know BOA only stopped credit card crypto purchases. 
+0	1523327032	13	/r/thathappened
+1	1523357867	4	but yeah, fuck banks for trying to prevent money laundering
+0	1523333188	14	Crypto is going to put exactly 0 banks out of business. 
+1	1523371853	5	lol yup. Loved this post
+0	1523326691	7	BMO is such a terrible bank, aside from that. But kudos sir, I was planning on cancelling soon and will tell them the same!
+0	1523326015	15	And then everybody stood and clapped
+1	1523327816	9	Which was odd to hear from the call center in the background....
+0	1523327320	10	lol I'm sure they cared a TON! You sure done showed them!
+1	1523363200	-2	i would assume the crypto investors on avg are more rich than most bank holders.The more they attack crypto, the more money they lose to invest.
+2	1523373312	1	LOL
+3	1523375455	1	You laugh but 50% of canadians are one $200 bill from financial ruin
+0	1523341805	9	Holy shit ur a badass, absolute fucking mad lad
+0	1523316861	3	I had problem with BMO and RBC. Both account closed after buying from QuadrigaCX. They said it was suspicious and could be treated as money laundering.I loled.
+1	1523341091	2	I’ve used RBC to withdraw over six figures worth of crypto over the last year and a half with zero issues ever
+2	1523357001	0	Lucky you! 
+1	1523317678	1	Who did you go with then? I thought RBC was cryptofriendly
+2	1523318224	0	I thought too, that's why I needed them. But my account was closed 2 months ago when I cashed out 2,000$ from QuadrigaCX. Took 1 week and got a letter telling me I had 48 hours to move it. My friend had the same problem 2 weeks before me with RBC too.Right now I have Tangerine and BNC but didn't cashed out yet. Tangerine seems to be a better option but there is no Interact option.
+3	1523320023	3	An employee leaked their news press release that was going to be announced and they are going to ban them as well. (RBC)If I were you, switch to CIBC, they aren't the ones that are affected.I understand if they are wanting to ban crypto purchases with credit, but with debit, they can fuck off. Its my damn money.
+4	1523321654	5	Yeah. Thy closed my debit account. No credit card with RBC. Crazy SHIT.
+4	1523323762	1	I'm a CIBC customer and no issues so far. I've purchased off my Visa and they charge me $5 cash advance. I mainly just use debit through Coinbase though because I like taking risks.CIBC has also partnered with Ripple, so I hope they continue to be a forward thinking institution in the years to come.
+0	1523317720	3	No issues from Chase using linked checking acct 
+1	1523322627	2	Chase credit cards are a no go, however. Not sure about debit cards. 
+2	1523373391	3	As it should be. If you are buying crypto on a credit card you are a fucking dumbass. 
+3	1523373592	2	Some of us aren't broke dicks and instantly PIF upon making purchases. I was able to earn enough points over the last several years to earn 5-6 round trip tickets. If that makes me a fucking dumbass, so be it. 
+0	1523324202	3	Fuck BMO! I hope they go under first before any other bank 
+1	1523329306	1	Banks going down, haha, not until crypto takes off.
+0	1523338525	3	About a month ago, I went to BMO and once my first transaction was over the teller asked "Is there anything else I can help you with?" to which I said "Yes, could you please tell me about BMO's cryptocurrency policy?" This is after I saw the post here on reddit from an employee about "one of the big five banks releasing an internal memo" that effectively said they would track customers who used crypto and that it could affect future transactions and investments. Her reply... "Whats cryptocurrency... what is that?"  I was about to start the whole Satoshi, blockchain story but stupidly said "Bitcoin?", and surprise, surprise she said "What?" So then I did begin to go into the whole blockchain beginnings at which point she said probably the only person in the bank who would know is the manager. At first he told her to tell me "Well, there may be an issue with credit cards, thats all he told me, I don't understand all of this", so I insisted on speaking with him. He seemed flustered, and almost uncertain to want to go into this conversation, but he eventually told me "Yes, there was a memo that went around saying all credit and debit transactions to crypto related businesses including exchanges would not be allowed in the future."  I'd used BMO extensively with Quadriga even a few weeks earlier, so this really annoyed me, but I figured it was their loss if everyone withdrew their money from exchanges to a competing bank. Just as concerning, how could a memo have been released and a teller still have no clue what cryptocurrency or Bitcoin is? I understand low adoption rates, but if I went to ask what happened to an interac e-transfer from Quadriga to my account, what would I have been told by someone who doesn't even know what crypto is? If your bank is planning to ban something, shouldn't they let their employees know what it is they are banning and why (forget customers, who afaik even today are mostly unaware of this because BMO has not informed them)? So then a few days later I see [this](https://np.reddit.com/r/QuadrigaCX/comments/85v5nr/bmo_officially_blocking_all_bitcoin_related/) on Quadriga's page.  Too bad. Another bank's profit.
+0	1523328993	6	I don't think banks are going to go out of business in lieu of crypto. You laughing like a maniac probably didn't help your case either and probably got an eye roll from the account rep who said something along the lines of oh another crypto bro. 
+1	1523329719	3	It's not like I went full on bwahaha at the guy for five minutes. I scoffed in laughter at his statement, and we carried on with cancelling the card. I reinforced the point again at the end of the call, that I was leaving them because of their backwards stance.As a point, the banks that think they can just outright ignore and try to ban crypto might.
+2	1523329818	5	"And I laughed, and laughed and laughed" Oh wait, a ripple fan! Sticking it to the big banks huh??!
+3	1523330860	0	Banks will always be around. Banks that choose to ignore/fight crypto may not.
+4	1523331215	1	Won't they? All 250 billion dollars in crypto and counting...Crypto is trying to also bank the unbanked...so they didn't have banks to begin with. I agree that banks need to be re done and they're really BS but crypto isn't the one that'll do it. We need change for sure, crypto is apart of it but definitely not the entire thing. 
+0	1523317814	2	But once you sell, where are you going to put that money? 
+1	1523319195	3	In my CIBC account. They seem to be completely fine with it.
+1	1523318757	2	Not on a Mastercard
+0	1523323153	2	Thank you
+0	1523324322	2	Banks blown the fuck out! 
+0	1523324681	2	They only think of the bad side of crypto such as fraud, scams, buying illilct stuff.
+1	1523325127	3	Yes, but what do HSBC business practices have to do with this?
+0	1523328958	2	Bravo to uThey prove why we invest in crypto...our money our control not theirs 
+0	1523330242	2	Yes! more of this we don't have to put up with institutional parenting of our freedoms.
+0	1523332412	2	CIBC won't let me buy coinbase and others 
+0	1523332465	2	Barclays is very crypto friendly in my experience so far.  YMMV.  
+0	1523333778	2	Way to stick it to the man, brother. 
+0	1523338564	2	"Crypto Currency lives matter"
+0	1523338690	2	When I first heard bmo was not accepting crypto I didn't believe it. BMO is shown as a customer on ripple's website. Once I pay off my cc I'll do the same as OP. They are preventing me from managing my money, which is why I use their service. Blows my mind.
+0	1523340371	2	With so many individual banks but also central banks around the world doing their best to stop the growth of crypto I wonder if anyone has started gathering a list of which bank has done what specifically.I think the banks are only restricting themselves but I’d like people to get hold of this sort of information to further crypto and make sure those banks lose out due to this. 
+0	1523340512	2	Funny, how the big banks and their bullshit was the reason crypto was invented in the first place, and anyone in crypto from early on knows this. Now people are leaving the banks for the minor crime of not allowing crypto purchases! Now that's irony
+0	1523342715	2	if you can, use revolut. quick payments to exchanges and at libor exchange rate. no fees 
+0	1523342786	2	Yea it sucks if you don't abuse it, but you have to realize the reason why they are doing it.  Crypto exchanges are being considered high risk because people are spending more then they can afford to, then when the BTC value drops the next day or two they try to do a chargeback saying it was fraud.  Enough people doing that makes the whole category become high risk.
+1	1523360609	1	Can't chargeback on a debit card.....
+0	1523343282	2	I understand that banks don’t support credit but when they stop supporting debit, it’s time to dump their asses. 
+0	1523346740	2	I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:- [/r/buttcoin] [This guy is the true MadLad!](https://www.reddit.com/r/Buttcoin/comments/8b5ww9/this_guy_is_the_true_madlad/)- [/r/wallstreetbets] [Delusional redditor thinks shitcurrency will drive banks out of business for refusing to use it.](https://www.reddit.com/r/wallstreetbets/comments/8b7pus/delusional_redditor_thinks_shitcurrency_will/)&nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
+1	1523346741	2	If any brigades are found in the TotesMessenger x-post list above, report it to [the modmail](https://www.reddit.com/message/compose?to=%2Fr%2FCryptoCurrency).  Also please use our [vote tracking tool](https://www.reddit.com/r/CryptoCurrency/wiki/resources) to analyze the vote behavior on this post. If you find suspicious vote numbers in a short period of time, report it to [the modmail](https://www.reddit.com/message/compose?to=%2Fr%2FCryptoCurrency). Thank you in advance for your help.*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1523348572	2	"But Sir, nobody will use the internet".That's what it sounds to me like.
+0	1523351358	2	No pb with RBC
+0	1523352882	2	Banks are lost in the crypto world..
+0	1523356485	2	You want a fcking medal now?
+1	1523357361	1	Nah, not shiny enough.A fucking medal, on the other hand, is perfectly appropriate.
+0	1523368553	2	Where exactly do u lie on the spectrum
+0	1523379145	2	Had the same exact problem with mine, it was a nightmare. Sadly I am still attached to the bank due to a car loan etc. but once I can change it up I will. Good for you for doing the brave thing.
+0	1523322448	5	Do yall know that USAA invested in Coinbase... Join the army and get a good bank.
+1	1523322711	2	I'm Canadian eh.
+2	1523324203	5	There's no border wall up there...
+3	1523324608	7	With the amount of snow we got this winter we could've built one ya know.
+4	1523325206	2	I see, try r/freefolk
+5	1523325558	7	King of the North!
+6	1523340692	2	White walkers have ice dragon now. Wall wont suffice. 
+0	1523325233	4	I'm with TD but I'm tempted to go to BMO and just rant. Fuck em
+1	1523325508	0	I'd heard TD was also becoming very difficult.
+2	1523363129	2	0 issues with TD. Just the standard credit siht,
+2	1523326422	1	No issues for me using TD so far. 
+3	1523328951	2	They blocked credit, not debit (anyways yet)
+0	1523330287	4	They won't go out of business unless the government all of the sudden decides to start bailing out crypto instead of big banks. You are greatly overestimating the adoption of cryptocurrency.  The amount of people that care about crypto is microscopic compared to the ammount of people using traditional banks
+1	1523330959	2	Don't get me wrong, it's not an overnight revolution. Crypto is the first economic disruptor to pose a significant threat though.The banks aren't going away, or at least those with vision aren't.
+1	1523333492	0	lol, you're the guy who said everyone wouldnt need the internet, "because not that many people even use it"
+2	1523334713	2	Nope, I'm the guy who is realistic and knows that the internet started in the 60s and took about 40 years to gain wide spread adoption
+3	1523336175	0	lol except there already is an internet which means the world is connected. To think it would take a comparable amount of time seems assanine tbh
+0	1523326896	2	You showed them.
+0	1523359123	3	So badass OP. Then all the patrons in the bank started applauding OP and the hottest chick in the place sucked his dick on the spot. OP took his $17.64 across the street to Wells Fargo ,(which also doesn’t allow crypto purchases), where they told him to “get the fuck out of here”. 
+1	1523359680	3	LOLLLLLL
+1	1523360817	2	Hahah. Did it over the phone actually 😉
+0	1523313656	2	Well done
+0	1523321663	2	you should of filmed it!
+1	1523321986	5	Should have = should've😀
+0	1523338991	2	Every bank is a future ripple partner. Mate do you think you're fighting banks by supporting ripple partners? Lol
+0	1523341320	2	I went into US bank trying to make a wire transfer to coinbase. they asked what the transfer was for and I said cryptocurrency. then they said "we don't do accounts for crypto" and I'm thinking "wtf does that even mean bitch, why in the fuck would I ever give you my cryptocurrency". but what I said what "but youll do a wire transfer for me ya (or else I have no reason to use your bank)". 
+0	1523315901	4	The best thing is they owe me $43 on an interest reversal. When I get it I'm going to take it and invest back in Crypto. 
+1	1523316144	0	You’ll be lucky if you ever get it. They are banks remember ?
+2	1523316335	2	I'll have it in 5-7 business days. It's not a disputed amount on something, it's my money.Not trying to defend them, but they are not obvious criminals. The banks would much rather subtly bend you over on long drawn out relationships where they can slowly bleed you dry over years.
+3	1523316408	1	Lol nice analogy 
+0	1523317407	2	Big respect for not taking their shit. 
+0	1523335421	4	Good for you. You represent less than probably 1% of the banks business and you sure showed them. With that said, banks aren't going anywhere. And all you did was tell them you don't agree with their terms on what they will allow you to spend their money.  Don't forget you closed a credit card account. By doing so you lost access to their money. Not your money. They have the right to decide what their money can be spent on. It's called risk reduction. If you had closed your chequing / savings account over this I would be singing a different tune. But you didn't and in the end, have probably helped the bank by lowering their exposure to risk. How many people maxed their cards out in January 5th to but in at the ATH, only to loose it all. That's why the bank made this decision. If it were your savings account they couldn't give two fucks because it's not their money. 
+1	1523337190	2	Note I just edited my post to say I did this because they were denying both credit and debit accounts for Cryptocurrency purchases.
+0	1523326156	3	I want Crypto to take over too but you all sound like fucking pretentious assholes. My goodness. 
+0	1523315490	1	Bmo harris bank
+0	1523315738	1	[deleted]
+1	1523315798	3	Not going to say that it doesn't....
+0	1523322765	1	They probably close 1Ks of accounts each month and track attrition with ticket categories not individual reasons, I'd be very surprised if anyone at BMO notices besides the CSR who took your call and probably doesn't care.  
+1	1523323411	5	I'd be surprised if they didn't field it in the CRM under a problem description though.If I was worried enough about Crypto as a banking institution to try and stop my customers from using it, I'd sure as hell trying to be pulling as many metrics as I could. 
+2	1523323497	3	Agreed, if they see a trend they will add it as an indicator. 
+0	1523324294	1	Is it only an American thing? Or have people from other countries encountered this problem? 
+1	1523324566	1	I'm in Canada. Sorry I didn't add that to my title.
+0	1523324675	1	I really wish that banks learn to like cryptocurrency instead of hate it.
+0	1523327708	1	Yep. Did this too. I do banking with RBC now, since they're the only big bank here in Canada that isn't 100% against cryptocurrencies and supports Interac Online, which is one of the only funding options up north.
+1	1523327923	2	CIBC has been Crypto friendly so far too. They don't have Interac Online but I can deal.
+0	1523335162	1	BMO YAY BMO!!!!
+0	1523335322	1	CIBC is a Ripple partner?
+1	1523337127	2	Yep, it's on the Ripple site partner list.
+2	1523337783	3	Odd it doesn’t stop Scotia who is on the Eth alliance from blocking with credit but there not being crazy and blocking debit too like BMO 
+0	1523356438	1	There's been posts like this for months and it seems to always be banks I never heard of. Perhaps they really don't want you to risk losing their money because they leave less to lose?
+1	1523360781	2	BMO is a big bank in Canada.
+0	1523357459	1	Another dude on the front page lost 700k to rbc (my bank) because they said he was moneylaundering. Just took it
+0	1523359996	1	I have been with TD bank since December and using inInteract with Quadrigacx crypto exchange based in Canada and I haven’t had any problem with TD or Quadrigacx.
+0	1523360492	1	The banks are hypocrites....sure, do cash advances at bars and casinos and spend your money wherever whenever - except don't go near this emerging asset class that we don't quite get yet and need time to be able to figure out how to exploit it.Sorry BMO, makes no sense. 
+0	1523361746	1	[deleted]
+0	1523362096	1	BMO is literally what edged me into Crypto. They charge me to lend my money out (just for having an account). When I moved to another country and tried to withdraw my savings, I was told I couldn't. I could only withdraw $1500 CAD. So over the course of the next 5 days I had to go back 5 times to get *my mother fucking money*. In Canada at least, Credit Unions are the only way to go.
+0	1523362425	1	If you're using the line of credit they gave you, yeah, they can make restrictions.If you're using a debit card or checking account, it's you're money you gave them and they shouldn't be able to limit it.
+0	1523362453	1	Well done. I wish I could close my TD account because they stopped letting me purchase crypto, however I CAN play at an online casino with my TD credit card... so clearly they shouldn't mind the "gambling" aspect of crypto if they literally let you gamble with their loans.https://www.casino.ca/payments/credit-cards/
+1	1523367248	1	Yep, gambling apparently has a different definition at the bank.
+0	1523363202	1	I checked with them and they said there are not bocks for buying for interac (at least that they are aware of).... So far I've been successful sending interac to coinsquare......... That said, definetely closing creditcards and giving them a peace of my mind
+0	1523364506	1	I think it is a logical decision to forbid buying crypto with CREDIT cards since there is a high risk for the end user, so it is consumer protectionism. However, banning crypto for debit cards is bitchy.
+0	1523364751	1	So many reasons to gtfo of bmo. Glad this one got you moving. 
+0	1523365225	1	 #delete BMO
+0	1523365281	1	Shitty thing is CIBC considers crypto purchases as cash advance = more fees $$$ (they didn't before but recently changed their stance without warning consumers).
+1	1523367170	2	Only on CC purchases though, had no extra charges from debit.
+2	1523369120	1	Good to know thank you. Still gonna call them for a refund on those fees. They never warned us of the fees kust changed their policy overnight.
+0	1523365756	1	Thankfully the banks in my country are reasonable so far. I just can't understand how other banks can make such demands? I mean we are their business. They serve us, not the other way around. I just can't wrap my head around how they think this will change anything for the better. It's just complete idiocy. Either you follow the stream or you get out. 
+0	1523367614	1	This is the most self deluded post I’ve ever seen. “Future billionaires of the world”This is legitimately gold. See you on /r/buttcoin 
+0	1523367900	1	Im about to do the same 
+0	1523368732	1	Ya, go with a local community bank, nicer folks, and they dont follow big corporate strategies like BMO or the other bigger banks out there.
+0	1523369602	1	I'm a supporter of crypto 100%, but you wont see banks go under because they aren't totally open to crypto. Thats a very wishful way of thinking, although a lot of us would enjoy seeing that.
+0	1523369858	1	I opened an account with CIBC and started the process of moving my stuff over... its a lot of work but its worth it. Though I think Ill keep my bmo card because its the only other credit history I have aside from my utility and student loan.
+0	1523370366	1	awesome!
+0	1523371179	1	Yes, all banks will soon *treat crypto this way* - which is why Ripple has CIBC and RBC as partners, and why RBC is desperately onboarding Blockchain developers. Makes perfect sense. I think the staff member was being given a script to adhere to and say that. 
+1	1523372060	2	Agree with you 100%.
+0	1523371203	1	That’ll show ‘em
+0	1523371507	1	Can you buy stocks with a credit card? lol come on...
+1	1523372145	1	Read my post. I cancelled because of the way they are treating both credit and debit.It's funny how you can gamble at a casino, or but lottery tickets, etc.... with a CC though.
+0	1523371571	1	uhhh. how are you gonna. you know. pay for shit with a credit card?
+1	1523372033	1	Unh, with my ummm, Visa? 
+2	1523372128	1	so you still support the failing banks?
+0	1523371807	1	You can still buy crypto with CIBC credit cards? Asking for a friend.
+1	1523371990	2	Yes, they charge you as a cash advance.
+0	1523372577	1	>But sir, all banks will soon treat Crypto this wayI closed my bank account on Friday and they didn't even ask me what it was until I asked them if they were going to ask (I was emptying out a few grand and was surprised it wasn't default questioning) they literally said the same thing to me when I told them it was over crypto.Lets not forget this is the bank that [transferred $87K overseas without any real verification and then refused to pay him back for months](http://www.cbc.ca/news/canada/british-columbia/bmo-customer-s-account-emptied-of-87k-as-bank-falls-for-scam-1.2555647), oh and he was having open heart surgery at the time of the transfer. They are a shit tier bank that doesn't care about your rights or well being. 
+1	1523373234	1	It appears you're trying to post a URL shortener and your account is too new. The post has been removed. If you believe this is in error, please message the mods.*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1523372924	1	my credit union closed my account due to buying cryptos
+0	1523374919	1	Congrats. Now all we have to do is wait for a crypto friendly bank to emerge. As long as there are opportunities there will be pioneers
+0	1523376595	1	Then they said, well if you are ever looking to bring your 0.5 btc back over to us in cash here is our number 
+1	1523377231	1	Yea pretty much...
+0	1523377254	1	taking out your investment frustrations on entry level bank employees... nice
+1	1523379862	1	Hardly. I was very cordial to the agent.
+0	1523378488	1	Unfortunately, I think it is only a matter of time before this is extended to all banks - banking is effectively a cartel after all.It is particularly concerning that debit card transactions are blocked - credit card transactions are in some way understandable (but still a bullshit reason as most banks allow gambling / casino transactions on credit cards).To be fair, this is what crypto was designed to overcome - the banks becoming a law onto themselves in giving themselves authority as to who, when and for what reason people can transfer *their* money to others, as well as how much commission they should take. Combine this with the continuous push by governments and banks for a "cashless society" (i.e. a society where every financial transaction has to pass through a bank and/or government for audit and approval) and you can start to see why people will turn to crypto as a solution (and also why the banks and government hate it)
+0	1523378692	1	What will you do now? Open account in the different bank? :-D
+0	1523379742	1	I’m sure BMO is panicking over losing your $400 account lmao
+1	1523379892	1	Far more than that.
+2	1523381175	1	I’m sure they’ll get over it brah
+0	1523380384	1	They denied you from using borrowed money to spend on a highly volatile and speculative market? :o burn them to the ground!
+1	1523386236	1	OP mentions ban on debit card so nope not borrowed money and a step too far. I can somewhat understand the credit card ban but debit cards?! That's your own god damn money.
+0	1523382178	1	😂🤣😂😂🤣😂 thanks for the laughs friendo. 
+0	1523383498	1	Hey man, mind if i ask where you are from?  I have TD ameritrade and have had ZERO issues 
+1	1523383580	1	Canada.
+0	1523383883	1	I cut up my BMo card fuck bmo!
+0	1523320757	-2	Honestly, I'm kind of siding with the banks here. I can still buy crypto with debit and wire transfers. Credit cards are their money, they can do what they want.
+1	1523321936	2	I mentioned somewhere else it's not so much the credit cards not being able to purchase it, as them saying debit cards can't be used either.You're right, the credit is thier money and I don't disagree - but a person's actual money? Fuck that noise.
+2	1523325288	4	bmo stopped you from using debit? wow...
+3	1523325607	0	Nope, only had a credit account there. So I closed that.
+0	1523330080	1	Wow you got ‘em good!
+0	1523335573	1	/r/thathappened
+0	1523348911	1	BMO is going to lose a lot of clients.
+1	1523379455	1	No they’re not. 
+0	1523362008	1	This seems like a made up storyline from a 17yr old
+0	1523372506	1	Lol you tin foil hat kids I swear. >DUDE THEY DON'T WANT ME MESSING AROUND WITH INTERNET MONEY USED PRIMARILY FOR ILLEGAL PURPOSES THEY MUST JUST BE SPREADING FUD AND TRYING TO DENY THE CRYPT REVOLUTIONGet ahold of yourself friend.
+0	1523340892	1	People seriously think this interaction is real? This is the most obvious XRP shill I’ve seen.
+1	1523360552	1	How the hell is this an XRP shill. Do I even mention it in my original post anywhwere? 
+0	1523341535	0	What drugs u on 
+0	1523327548	0	Lol all these lying ass ppl just bought and sold at the right time. Riiiiiight
+0	1523328692	0	If you really want to stick it to them. Don’t give them any answer at all. Their office won’t be able to track and figure why all their clients are leaving them en masse and their reserves seem to keep dwindling. This is how you fuck with banks.
+0	1523348788	0	Someday they will realize that adapting to change is essential to them.
+0	1523349718	0	And that CSR's name... Was Albert Einstein.
+0	1523382372	0	Some people with thank there banks later when this ship will have hit ground.
+0	1523382399	0	You are the crazy one
+0	1523318678	-14	You buy cryptocurrency with a credit card? Lmao get your priorities  together. Holy shit. No wonder so much of this country is in debt. So many morons living on credit cards. 
+1	1523318986	11	I've bought shitloads via credit card. Got my points, and paid it down instantly. Holy shit, get your priorities together.
+2	1523322735	3	This. I had been buying crypto on my travel cards and have earned 5-6 flights out of doing so. 
+3	1523332556	1	Yep, going to Barcelona on crypto acquired points next week.  Balance obviously PIF.  Glad I got my priorities together.  
+1	1523319133	5	I have, but not typically. The point was I took my business from them, mainly because of thier policy on Cryptocurrency.As a tip though, don't make assumptions on things.
+0	1523333809	-1	MasterCard has partnered with Stack, which will be using STK tokens for opening state channel. Pick them up now at a bargain. 
+0	1523383040	-1	A true faggot. 

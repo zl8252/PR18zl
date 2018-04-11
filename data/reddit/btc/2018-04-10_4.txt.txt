@@ -1,0 +1,65 @@
+File created at: 1523388151
+Subreddit: btc
+Submission title: Trolls on Wikipedia have inserted this line on the Bitcoin Cash page: "In order to speed transactions, users could be pay a transaction fee, which at the end of 2017 averaged about $28."
+Submission created utc: 1523316948
+Submission score: 180
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523317415	88	The troll cited this article:https://cointelegraph.com/bitcoin-cash-for-beginners/what-is-bitcoin-cash#story-of-the-hard-forkWhere it is clearly written that BTC has those fees (not BCH).Corrected.
+1	1523317722	53	Thanks. They are constantly after that wikipedia page. Several times a day.
+2	1523318275	21	I wonder if there's a way to get a notification (like e-mail, whatever) when there's a change (if it's worth it)?
+3	1523320146	29	There are programs / browser-extensions that will watch a specific page and alert you when it has changed. I don't use any currently but I have in the past.
+4	1523368586	2	Yes - same, I had one module like this on Firefox years ago. I'll see if it still exists.
+3	1523325051	20	Yes. Just sign up for a Wikipedia account, put a watch on the page, and set your preferences to "Email me when a page or file on my watchlist is changed".https://en.wikipedia.org/wiki/Help:Email_notification
+4	1523325058	8	**Help:Email notification**Email notification is a feature of the MediaWiki software on which Wikipedia runs. It allows editors who have registered an account and provided an email address to receive automatic email notifications when their user talk page or other watchlisted page is changed.The feature is activated on the English-language version of Wikipedia (since May 2011 for the user talk and April 2012 for the watchlist) and can be set in the Email options part of the User Profile section of your user preferences.The template {{Email user notification}} signals that you have email notification enabled.***^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/btc/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]^Downvote ^to ^remove ^| ^v0.28
+4	1523368380	2	Great! Thanks!
+3	1523319473	8	Notifications keep popping up on twitter. Can't find the name of the accounts that report that, none are showing up now.
+4	1523368614	3	Thanks for the info!
+3	1523353171	7	That's a great idea, many newbies refer first to the Wiki article in any subject, no wonder Coreans attack it first.
+2	1523335829	3	Looks like there are other more subtle issues with the page too:https://www.reddit.com/r/btc/comments/8b32wp/trolls_on_wikipedia_have_inserted_this_line_on/dx3y3k1/?context=3
+1	1523344603	4	There was one block with only a few transactions in it that had a very high average fee around that time. Tone Vays, using his superior statistical analysis, tweeted that this showed the average BCH fees were similar to BTC at the time. I don't have a link to it handy, but if somebody else does then it would be appreciated.
+2	1523355904	3	They were comparing in terms of satoshis.And it's important not to forget that early on, BCH fees were far higher than they needed to be because a lot of people were using software switched over from BTC that suggested inappropriately high fees because they were still set for the BTC chain.So a lot of people paid fees in the $3 range that was completely unnecessary, and this dragged up the average fee showing in the stats, also unnecessarily.
+3	1523357654	1	> They were comparing in terms of satoshis.I'm thinking of a different tweet where Tone was using dollar amounts.
+2	1523354574	1	"superior statistical analysis" - LOL. Love the burning sarcasm :-D
+0	1523318896	62	Adam Back was right. They seems to have a big team full time job to waste their money doing these dirty stuff because they knew Bitcoin Cash will win based on its merits. They are so scared they had to spend money hiring people doing all these dirty tricks.
+1	1523355472	2	Why would anyone bother trying to create a misconception around such a factual subject? Instead of having expenses trying to pump BTC, invest in BCH and make some money effortlessly.
+2	1523370000	4	The crypto market is unpredictable, investing in anything is never guaranteed to make you profit.But imagine you can hijack the biggest crypto and get people away from using the traditional blockchain and instead use some new system where you can now collect fees for letting people route through your payment channels.
+2	1523379258	1	You're kidding? $75 millions is a small fee to pay for a project with market cap of $100Billions. Where can you get an investment like that?
+3	1523384360	1	But currently they don't make money off Bitcoin, at least not as easily as they will with lightning and liquid.
+0	1523329350	37	The amount of trolling from Core toward Bitcoin Cash actually blows my mind. We must be onto something really fricken good for them to hate us this much. Keep up the good work, all.
+1	1523330143	23	As an experienced Wikipedian who has encountered bias I can say that this one rates very highly on a manipulation rating.  
+1	1523363994	6	Really? A community centred around Greg Maxwell blows your mind by vandalizing Wikipedia?
+1	1523379399	0	they learned from their master, Greg. For anyone who does not know, Greg was a mod for Wiki abusing his authority and got kicked off after many complaints. Search about what Greg said during that time, you can see the traits of a narcissist dictator. 
+0	1523322955	16	Just put in a fee comparison under the reason why BCH forked with screenshot of BTC at $90 fees taken from block explorer as source. Also put in mempool screenshot as citation, guaranteed trolls dont have any counter arguments for that.
+1	1523324929	12	since when did trolls have a counter argument or ANY argument???Isnt part of the definition of troll anything but rational/logical argument?Remember the nature of these kind of people is LYING... making sh*t up... name-calling/ad-hominems etc...
+2	1523325475	7	All thats important is that newcomers see these arguments and how easy it is to rebut them
+3	1523335385	3	Agreed!
+1	1523330034	4	I added the rise in fees on BTC to the history section.  Screenshots of fees from third party sites may be covered by copyright and therefore be unsuitable for use.
+2	1523330490	6	Well you could quote the block numbers from that mempool ATH period and use Bitcoin.com explorer. Pretty sure Roger will allow us to use it since he all for facts and truth. Exposing BTC lies should be ok and I'm sure Roger would be happy to let us use his block explorer.
+0	1523320661	29	Ah, poor Greg .... busy with deep level protocol works.
+1	1523366545	2	Hes pulln' out all the old sock accounts. 
+0	1523317191	24	Fuckin trolls
+0	1523323938	15	We need bch wiki watchtowers 
+1	1523326366	-38	To guard against the truth?[By Rogers own admission] (https://twitter.com/rogerkver/status/981908565307764736) BCH has a fee problem
+2	1523330269	22	Where in that link does roger State bch has a fee problem? 
+3	1523338197	12	<crickets>
+4	1523359948	1	🤷‍♂️🤦‍♂️
+2	1523338249	8	Can't see where he states it, sorry, downvote
+2	1523355202	6	Fail. Roger hasn't stated that and your link is to a picture that correctly shows exactly why BCH is the better Bitcoin. Downvoted. #Loser
+2	1523362611	-3	Guys you are so retarded.So - If BCH is Bitcoin (which it isnt) then it will suffer from the same fee problems as did Bitcoin, just at a marginally higher scale.If Bitcoin struggled handeling 604,800 tx a day, and BCH has a maximum capacity of 19,353,600 tx a day...woooopdedooSo thats the difference between a single small town vs a single large city.ok ok, so you will upgrade the network to higher and higher block size right? Thats your philosophical solution? But the trouble is, the larger your user base gets the harder it is to change the consensus rules because more people = more opinions = more time to debate.So the blocksize didnt fix anything after-all, you all just wanted a diffrent dev team - which you have now. You better hope they start working on a real solution to high fees cause if BCH survives to mass adoption thats going to be your baby.
+3	1523378440	0	Aren't you busy bag hodling useless fake bitcoins and circle jerking on your favorite censored shithole?
+4	1523379273	0	knight222 [You chose BCU over BTC last time] (https://www.reddit.com/r/btc/comments/5r2opy/one_miner_loses_12k_from_bu_bug_some_core_devs/dd4idyk/) I am shocked; SHOCKED you would continue believing Core is going to be replaced!Get out while your BCH is still worth a pittance 
+5	1523381942	1	Core is *already* being replaced as P2P ecash. Does that makes you rage inside?How do you know if I bag hodl any BCH during bear markets? I'm an honeybadger, I already told you. You're kind of slow to understand amirit?Watching you trying to pump your ego along whith your useless fake bitcoins is laughable. Meanwhile I'm getting everything I wanted 🙂Maybe you'll get your Lambo if you bag hodl enough of useless scrap? Who knows?
+0	1523331022	6	There are other tendentious information there. I think CoinDesk citation should be removed as it is in the same group of blockstream investors. It is advertising a tendentious and often times anti-BCH media.They cited Peter Rizun but cherry picked his statement to make it look like BCH was waiting for Segwit2x, as if everybody wanted segwit anyway.
+0	1523320643	4	Looks like something went wrong (accidentally or intentionally) with the context in this revision: https://en.wikipedia.org/w/index.php?title=Bitcoin_Cash&diff=next&oldid=835254640
+1	1523322146	8	~~accidentally or~~ *intentionally*
+0	1523366508	2	"Trolls on Wikipedia..."You mean u/nullc?
+0	1523353396	1	So messed up 
+0	1523363800	1	I've been on WP for a while, so I put in a request for page protection, so only users who have been on WP for a while can edit that page.
+0	1523365233	1	Just clean up the article and request it be locked.
+0	1523373774	1	its true for Bitcoin, but its obviously not true for Bitcoin*. (BCH)
+0	1523378565	1	 bitcoin users maintained a common set of rules for the cryptocurrenc
+0	1523324055	2	I don’t do many trades, but today I tried to pay a bill online  for about $60 worth of BTC. The transaction fee was $65. Is this normal or is my Electrum app setting the transaction fee too high?
+1	1523324406	12	> The transaction fee was $65. That's not normal at all, no.
+1	1523344488	5	The fee today is around 0.01 USD. 
+2	1523365786	1	It really depends on the number of utxos you are using, which influences the tx size.

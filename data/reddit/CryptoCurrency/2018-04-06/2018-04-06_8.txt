@@ -35,7 +35,7 @@ comments: (level	created_utc	comment_score	comment_body)
 6	1523024223	1	There is an SEC fee but it is typically a penny per trade for small investments -- it's tens of dollars per million dollars traded, rounded up to the next cent.
 7	1523028019	1	That's more likely, that's a common practice around the world. 0.25% would be crazy, that's why I asked.
 3	1523017406	2	What tax in the UK and US are you talking about which is equivalent to this?
-4	1523017896	1	Probably this one for UKhttps://www.gov.uk/tax-buy-shares>When you buy shares, you usually pay a tax or duty of 0.5% on the transaction.
+4	1523017896	1	Probably this one for UK https://www.gov.uk/tax-buy-shares >When you buy shares, you usually pay a tax or duty of 0.5% on the transaction.
 5	1523019314	1	Does it mean there are no day traders in the UK?
 5	1523020125	1	Interesting, I wasn't aware of it. The page there does specifically point to shares, hopefully UK doesn't categorize crypto in this way or the tax level will be insane for anyone who does more than buy and hold.
 3	1523032319	1	You're wrong about the US at least. In the US the only tax is a tax on gains when you sell. Not the entire transaction amount, just the profit. If you lose money your taxes actually go down for the year. It's actually not that bad of a system.

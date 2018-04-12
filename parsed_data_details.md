@@ -1,10 +1,14 @@
 # Parsed Data
 
+## data_days
+
 data_days = [
     "2018.4.1"
     "2018.4.2"
     ...
 ]
+
+## Subreddit
 
 *_days = [
     [0] day0

@@ -12,7 +12,7 @@ Cena je v evrih in je pridobljena za vsak dan ob približno isti uri.
 
 Skript za pridobivanje podatkov je shranjen v datoteki "/reddit_data_getter/reddit_data_getter.py". Skript za dostop do Reddita uporablja knjižnico [PRAW](https://github.com/praw-dev/praw). Podatki so shranjeni vsak dan ob približno isti uri.
 
-Reddit podatki so shranjeni v "/data/reddit/", grupirani pa so po Subredditih. Za vsak dan za vsak Subreddit je maksimalno 10 datotek. Te predstavljajo "top" submissione (objave) s časovnim filtrom "day".
+Reddit podatki so shranjeni v "/data/reddit/", grupirani pa so po Subredditih in dnevih. Za vsak dan za vsak Subreddit je maksimalno 10 datotek. Te predstavljajo "top" submissione (objave) s časovnim filtrom "day".
 
 Za vsako izmed objav je shranjeno:
 
@@ -44,20 +44,15 @@ Posebej so shranjene objave "Daily Discussion" iz Subredditov /r/Bitcoin in /r/C
 
 Povprečna cena:
 
-* Bitstamp povprečna cena: 5628.84125
-* CoinMarketCap povprečna cena:  5655.46625
+* Bitstamp: 5615.642
+* CoinMarketCap: 5636.264
 
-Mediana:
+Najvišja/Najnižja cena:
 
-* Bitstamp cena mediana: 5628.84125
-* CoinMarketCap cena mediana: 5630.345
-
-Najvišja najnižja cena:
-
-* Bitstamp najvišja cena: 6103.0
-* Bitstamp najnižja cena: 5395.0
-* CoinMarketCap najvišja cena: 6120.96
-* CoinMarketCap najnižja cena: 5411.49
+* Bitstamp najvišja: 6103.0
+* Bitstamp najnižja: 5395.0
+* CoinMarketCap najvišja: 6120.96
+* CoinMarketCap najnižja: 5411.49
 
 ![Cena Bitcoina](assets/cena_bitcoina.png)
 
@@ -69,8 +64,16 @@ Opazimo da se ceni obeh tržišč razlikujeta le za nekaj evrov, ter da sledita 
 
 Število level 0 komentarjev je pri /r/CryptoCurrency večje. Pri obeh subredditih se ob enakih dnevih poveča/zmanjša število komentarjev.
 
-### Reddit Komentarji po dnevih
+### Število Komentarjev Po Dnevih
 
 ![Št. komentarjev po dnevih](assets/subreddits_st_komentarjev.png)
 
-Ugotovil sem da na /r/btcNews nihče ne komentira. Ta subreddit bom zaradi tega razloga v nadalnih analizah izpustil
+Ugotovil sem da na /r/btcNews skoraj nihče ne komentira. Ta subreddit bom zaradi tega razloga v nadalnih analizah izpustil
+
+### Povprečene Točke Komentarja
+
+![Povprešen Score Komentarja](assets/subreddits_mean_comment_score.png)
+
+### Razmere Komentarjev z 1 in >1 Točkami
+
+![abc](assets/subreddits_comments_with_score1.png)

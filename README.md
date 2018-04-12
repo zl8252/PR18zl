@@ -74,6 +74,6 @@ Ugotovil sem da na /r/btcNews skoraj nihče ne komentira. Ta subreddit bom zarad
 
 ![Povprešen Score Komentarja](assets/subreddits_mean_comment_score.png)
 
-### Razmere Komentarjev z 1 in >1 Točkami
+### Razmerje Komentarjev z 1 in >1 Točkami
 
 ![abc](assets/subreddits_comments_with_score1.png)

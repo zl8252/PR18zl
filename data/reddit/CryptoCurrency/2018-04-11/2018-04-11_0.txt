@@ -22,7 +22,7 @@ comments: (level	created_utc	comment_score	comment_body)
 3	1523460550	6	Haha yeah I'm aware of this because I friended you a few months back due to your valuable insight. The recent post on liquidations of shorts was another awesome find. &nbsp;What does this mean for price though? &nbsp;New entrants are decreasing: https://trends.google.com/trends/explore?q=bitcoin&nbsp;Daily General discussion is down 1/7 of Dec.(Good)&nbsp;Alts are taking more market cap: (Good)https://coinmarketcap.com/charts/&nbsp;NVT is up but decreasing slightly:(Bad) https://coin.dance/volume/localbitcoins/ALL&nbsp;And volatility is decreasing. (Good)&nbsp;So 2 bad and 3 good which makes me feel mixed about the whole situation. I'd guess sideways with a slight uptrend based on that. Edit: I don't think I'm right though. 
 4	1523465229	5	volatility going down is absolutely horrible imo.
 3	1523460441	2	What does this mean?
-4	1523460445	12	>this>[th is]  >1.  >*(used to indicate a person, thing, idea, state, event, time, remark, etc., as present, near, just mentioned or pointed out, supposed to be understood, or by way of emphasis):*    e.g **This is my coat.**
+4	1523460445	12	>this>[th is]  >1.  >*(used to indicate a person, thing, idea, state, event, time, remark, etc., as present, near, just mentioned or pointed out, supposed to be understood, or by way of emphasis):*    e.g **This is my coat.**
 5	1523460618	2	how do you spell it?
 6	1523461104	3	t - h - i - s
 6	1523461304	3	I-t

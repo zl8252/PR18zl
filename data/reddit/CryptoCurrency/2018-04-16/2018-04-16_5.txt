@@ -1,0 +1,121 @@
+File created at: 1523904187
+Subreddit: CryptoCurrency
+Submission title: I made a clean, simple version of CoinMarketCap with some cool features. I would love to hear what you guys think!
+Submission created utc: 1523842883
+Submission score: 230
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523844776	98	Looks good.. just opinion but for long term sustainability  u should get API from all exchanges and not rely on cmc.. I know tons of work but then your full out competing and could take cmc on
+1	1523893184	6	yup creating a cmc competitor with a dependency on cmc is a bit iffy
+0	1523842959	27	Hi /r/CryptoCurrency, I recently launched Cointabb and I'm looking for feedback from the community. The main difference between CMC and Cointabb is that the latter is simpler and cleaner and has some cool features that I feel CMC lacks. Here is a small list of some of the improvements:* Pages are cleaner, and easy to read/scan on any device* The favorite/bookmark feature lets you track coins without requiring login or sign up* The filtering feature lets you set custom parameters to find promising coins/tokens etc...* Platform pages let you view/search/filter tokens on platforms* (IMO) Better, cleaner night mode on all devicesAnd a few more things you'll find as you explore the site. I've made sure that each page has links to the corresponding CoinMarketCap page so you can be able to use both sites at the same time. Please let me know if you have any feedback or suggestions for improvement.Thanks!
+1	1523870007	9	Good work, would it be possible to implement price in BTC that way we could compare our Altcoins against BTC.
+2	1523874922	7	Thanks for the suggestion! Will be adding both BTC and ETH as conversion options.
+1	1523862093	6	Good job my dude! Now let's put some ads on that thing!!!
+2	1523874640	12	Or oyster integration.
+1	1523871571	1	Lovely, good work! Could you add the total market cap somewhere? If it is there already, I can't find it!
+2	1523874998	2	Just added it to the top. Not sure if it's the best place but looks like it doesn't hurt so far.
+1	1523901023	1	If you could pull total coin supply from the coins official block explorer = great.Pull price from a few exchanges and average them out = great.Pull info straight from the source. I want something accurate. 
+1	1523886893	0	Great work, my only suggestion is to partner with me and launch more products! First being cspy.io (Crypto Spy)
+0	1523855356	11	Looks a lot better than cmc (though that doesn’t take much haha)But still can’t touch livecoinwatch.comThat site reigns supreme to all
+1	1523877082	2	But Livecoinwatch only has charts for USD, as far as I can see?
+2	1523879209	1	No there’s an option for BTC and eth etc on it.
+3	1523880669	0	Maybe. But it's so well hidden that I can't find it...
+4	1523881481	3	[Helping](https://imgur.com/a/tNbEv)
+5	1523885786	1	That doesn't change the graphs for me.
+6	1523885947	1	Yeah, that's a complaint I have to.  No one seems to care about it though, as coinmarketcap is the same way.
+7	1523890440	1	No in coinmarketcap I can actually see the btc graph if I want to. 
+8	1523891916	1	[When I set the reference currency to BTC, the graphs remain unchanged.](https://imgur.com/a/t4Hzb)  How are you seeing the BTC graphs?
+9	1523892295	1	Click on the coin, then under the graph there is an option to see the btc line. 
+4	1523882183	2	Hidden behind a button for filtering... devious design.
+5	1523885022	-1	LOL. Jesus Christ. If he’s the typical IQ of people on crypto, we are all screwed. 
+1	1523887357	1	I'm not sure what's so bad about coinmarketcap. Pretty easy to read and use.
+2	1523889644	2	It’s very basic and boring. After a day with livecoinwatch you’ll understand
+0	1523848718	6	Total market cap size somewhere on the front top would be nice. Otherwise this is really nice. Favorites are great.
+0	1523847537	8	Is not this illegal? I thought coinmarket API was for just private use. 
+1	1523881851	2	I don't see any TOS on CMC's api documentation page. Or they have hidden it very well.
+1	1523887640	1	**Am I allowed to use content (screenshots, data, graphs, etc.) for one of my personal projects and/or commercial use? **Absolutely! Feel free to use any content as you see fit. We kindly ask that you cite us as a source.
+0	1523843292	8	Very nice! I like the favorite system (saved in the cookie I guess?) which allows you to set favs without even registration. Thanks a lot!
+0	1523846062	11	I like livecoinwatch.com
+1	1523858758	7	I like trains. 
+2	1523859758	6	Wallah good for you habibi.
+2	1523883377	1	nah trains are centralized
+0	1523843449	3	How do u get the data for that?
+1	1523844070	2	The data is from the CoinMarketCap API.Edit: for everyone wondering if it's against the TOS, the API allows free usage with proper credit/citation.
+2	1523845375	33	Competing with an ad-supported site by using its own API to reproduce its content without the ads.  That's a bold move, Cotton.  Let's see if it pays off...
+3	1523860288	6	No ads initially to help the site gain traction and the necessary critical mass. Then ads and lambos.
+3	1523848810	3	Incoming cease and desist? 
+3	1523855615	1	you don't block ads...? :)
+3	1523874259	1	If I were you I would NOT mess with CMC. private use alright and as somelisguy mentioned not alright when reproducing, but commercial use, no go! 
+0	1523844698	2	Suggestion to change domain name to something related to market cap may be.
+1	1523845170	3	Yes, what a crappy name, especially with the extra b.
+0	1523846415	2	muy bonita!  Minus the graphs, it looks just like CMC when using the Brave browser.
+0	1523847210	2	i ike it.  please add btc dominance and total marketcap 
+0	1523856497	2	Wow it works incredibly well on mobile. Plus light and dark themes out the gate is nice. I find myself checking prices too often so I created a Chrome Extension last week that helps you HODL by blocking sites like this (no offense 😅). It also prevents you from constantly checking prices at work. [Here is a link for all interested.](https://chrome.google.com/webstore/detail/hodlgang/mbcpgjahcbnoafmbmeoommbhgpaopdfe)
+1	1523860547	2	That's amazing. I love the concept, but people with very little willpower would probably just disable the extension after a short while and check prices again.
+2	1523866718	2	Of course, you can easily toggle on and off. It is meant to serve as a gentle reminder rather than strict enforcement. 
+0	1523856961	2	Add the Total market cap feature.
+0	1523857499	2	This is so much faster for me.
+0	1523857588	2	CMC has their own API that’s an aggregate of the individual exchange APIs.   The real work is building the API that can do the aggregation which CMC has done.  Coding, modeling and storing the data from the multitude is exchanges and currency pairs is no small task.  Nice job in the site. 
+0	1523864846	2	Wow I like it a lot. Much cleaner and better to read than CMC. Nice work
+0	1523871182	2	Looks like it only displays in fiat.Can you add an option to display in some other currency? For example, I could set the display to DOGE so    1 BTC = $8104.39    1 ETH = $513.8    1 DOGE = $0.004582becomes the more understandable    1 BTC = 1768745 DOGE    1 ETH = 112134.4 DOGE    1 DOGE = 1 DOGE
+1	1523875462	1	Thanks for the suggestion. Will be adding this.
+1	1523883794	1	Great idea 
+0	1523843294	2	looks clean
+0	1523843559	2	Impressive
+0	1523850586	2	Looks nice! To personalize it, I would love to be able to see prices in btc and Eth, and also maybe have exact price of each exchange. 
+0	1523847666	1	RESPONSIVE GRAPHS! FINALLY
+0	1523848391	1	Nicely done. 
+0	1523848399	1	Very neat already book marked it! One thing I could probably suggest is have a way to separate the cryptos by classes/type. So people can set criteria to look for only Dexs or platforms or privacy currencies etc. haven’t seen anybody do that yet 
+0	1523849118	1	good
+0	1523853603	1	Nice
+0	1523853914	1	Include option to display prices in BTC. 
+0	1523855188	1	Looks nice - would definitely use. You need to add the market cap IMO.
+0	1523855545	1	throw on the total market cap on the top and you're done!
+1	1523855798	1	nice work though, i like the platform feature and the website is just faster than cmc.
+0	1523856561	1	Very clean looking. 
+0	1523857246	1	Hey man, I wouldn't single list all coins as it's annoying when you are trying to order the list because of null values. Maybe give ppl the option to control how many coins in the table. Otherwise I love it! You should pull from cryptocompare as well you can just use the symbols and get same data.
+0	1523857593	1	I like it and will use it, however I would like to see total market capitalization on there.
+0	1523860293	1	The dark mode need to be more grey 
+0	1523862967	1	Very nice effort! Would you mind crossposting it to our sub r/cryptomarkets? 
+0	1523863102	1	Looks cool, one thing I think should be changed:It's hard to tell the difference between the dark grey for favorites and light grey for non-favorites.
+0	1523867892	1	Pretty good design, one suggestion.   When selecting the favourite coins the star colour change is not significant, it is too subtle and hard to determined which ones are on or off.  Also when toggling day/night modes the Icons that are black disappear in night mode, you need to give them a border or a lighter background that will work for all
+0	1523868744	1	Yeah, cool but need the btc dominance also and total market cap
+0	1523869717	1	I am thinking : Pizza or Burger ? 
+0	1523870361	1	I like it but when I click on a coin I really need the "markets" tab. If that can be added I would gladly switch to the cleaner version.
+0	1523871841	1	really digging the layout, just missing the total market cap! Wish someone could make something like this and compete with CMC! Good job! :-)
+1	1523876834	1	Added total to the top :)
+0	1523873259	1	You should use trading view charts
+0	1523875413	1	Fantasitc! I love that you don't have to log in for favourites! Are you going to verify your website with Brave? I'd love to donate some BAT.
+0	1523878063	1	Very nice, clean interface. Good job
+0	1523878451	1	This looks great! Much simpler than CMC without all the ads. The custom range is a great feature!
+0	1523880542	1	Bookmarked!
+0	1523881689	1	I'm looking for coins with the biggest price swings, just like CMC has, but then with a variable amount of entries and not a static 20 every time. 
+0	1523883852	1	Darn good job, well done so far, keep going with it, it’ll pay off 💰 
+0	1523884149	1	Looks cleaner and scrolls faster on mobile  compared to cmc. Nice stuff! 👌🏾
+0	1523884591	1	I like it :-)
+0	1523885382	1	Good Job OP. One thing I kind wished for was a static page to refresh the stats automatically. I understand that could introduce a load onto a webpage but it's easier to do so every minute-ish. I find it annoying to hit f5 everytime to see the latest values etc. Thoughts?
+0	1523885780	1	Where's 24hr volume? 
+0	1523886893	1	Looks goodI like the filters, any chance you could add more?
+0	1523887893	1	It's definitely cleaner than the normal CMC. where do you get your info, from their API.
+0	1523888040	1	Looks nice! Please add "next" and "previous" buttons also on the top of each site 
+1	1523890485	1	Combined marketcap of favorites would be great too!
+0	1523889031	1	I would like to have a search by exchanges. For example, filter results to only ones that listed in binance.
+0	1523890091	1	Hey thats really tight. I like it a lot. Are all the feeds implemented?
+0	1523890237	1	Good job!
+0	1523890979	1	Filtering 1h (or 24h/7d) will result in showing ALL the best coins, while I really wanted to only see the ones in TOP100. Or in the next page, for example, 101-200. 
+0	1523891012	1	Looks good man, great work!!
+0	1523891881	1	An option to filter out non-PoW coins or coins with huge premines like CMC has would be a must for me.
+0	1523892159	1	Make the dark theme default.
+0	1523893171	1	Wow, this looks so clean/neat. Nice stuff! What did you use for the frontend, if you dont mind me asking?
+0	1523893361	1	the lack of ads is definitely a plus
+0	1523893550	1	Really good work! I would suggest a way to filter by the top X coins (ie top 100, top 300, etc) so that a bunch of the coins with bad or missing information can be removed. 
+0	1523893661	1	Looks clean! Feature parity with CMC but no ads and a cleaner interface. Will be using this :) I'd recommend going towards a "material design" scheme, kinda like [Koinscore](http://Koinscore.com) 
+0	1523894237	1	Hi, i like it.How did you get the CMC - Charts for each Coin?Im working on a simmiliar project - but more like a finex detail watcher. Is there anyway to inspect your code?
+0	1523894838	1	Very cool, the lack of ads is great
+0	1523896002	1	It looks much cleaner than the CoinMarketCap. I personally enjoy your one more.
+0	1523901227	1	You can have my domain name xoptions.com for half a bitcoin... 
+0	1523903360	1	Very good, I will be using this.  I wish sort by 7d just returned results from say the top 100 coins if you are on that page though.  I don't need to see a coin at #533 that has pumped.
+0	1523844611	1	This is awesome! One extremely subtle thing that I like a lot, is the blue text. 
+0	1523852499	1	please add the reddit page link.
+0	1523844466	0	Amazing. Is there a tutorial on setting that up somewhere ?
+0	1523850766	0	I would suggest to proxy the api connection in case cmc wants to cut you off

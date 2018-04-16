@@ -1,0 +1,10 @@
+File created at: 1523904202
+Subreddit: BitcoinMarkets
+Submission title: Is Bear.Tax a good site for filing your crypto taxes?
+Submission created utc: 1523825329
+Submission score: 1
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523828033	3	no just use bitcoin.tax
+0	1523828582	1	https://cryptotax.io started their limited beta program, I'd watch that. For now, bitcoin.tax or cointracking.info are probably the best platforms 
+0	1523844955	1	I built for www.cryptotrader.tax if you are looking for an alternative!

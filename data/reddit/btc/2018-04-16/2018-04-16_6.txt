@@ -1,0 +1,40 @@
+File created at: 1523904157
+Subreddit: btc
+Submission title: With Memo.cash, you can cryptographically attest your identity on other social platforms: export your private key and sign a message with Electron Cash!
+Submission created utc: 1523845507
+Submission score: 123
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523858852	12	Seems like a good way to de-annonymize yourself.
+1	1523865662	11	yes, that's the point. 
+2	1523896770	5	Reputation and identity systems have long been a missing link. Core has been cut out of the loop. Time to get back to building.
+1	1523898394	1	i don't mind something like this :)
+0	1523845519	5	📅 2018-04-16 ⏰ 02:21:39 (UTC) >See what I did there? Export your private key from http://Memo.cash into a \#BitcoinCash wallet like [@electroncash](https://twitter.com/electroncash), then use it to cryptographically sign attestations on other platforms. How cool! 🔏 >-- Bitcoin Cash Fans ([@BitcoinCashFans](https://twitter.com/BitcoinCashFans))>🔁️ 0 💟 1>>📅 2018-04-16 ⏰ 02:16:09 (UTC) >>Verifying my identity on http://Memo.cash: BitcoinCashFans / 19zPiNjUG28RMDqekLi8nmGdbHd4V7TzMv>>>>>>H5GLU2fShbrkCIc++5xxC+D/LY/6zMosrswaQ7dXdmUqCx2Ir9Sn9Lk9P26Z0pvGNmdsaVPVE+73A9OD/pdiS5g=>>>-- Bitcoin Cash Fans ([@BitcoinCashFans](https://twitter.com/BitcoinCashFans))>>>🔁️ 0 💟 1> &nbsp; ^(I'm a bot and this action was done automatically)
+0	1523865920	5	So you re-invented PGP?
+1	1523897477	4	:)The implications haven't hit yet. Take a look at [this](https://www.scribd.com/document/376350669/WP-0042-Secret-Value-Distribution-v2). PGP never took off because you had to exchange secrets in some secure way out of band, preferably offline, before commencing encrypted communication:>A fundamental problem in cryptographic systems is the establishment of a shared secret between parties across an insecure network. For example, in symmetric key cryptography 1, such as is used by AES 2, a single secret key is shared by two parties. It has the disadvantage that the secret key must somehow first be securely transmitted between the two parties. As the transmission of keys is usually done electronically over communications systems such as the internet, the sharing step is a potentially catastrophic vulnerability. As the symmetric key protocol is simple and widely used there is a need for an ability to share a secret key securely across an insecure network. >Existing protocols such as the Diffie-Hellman Key Exchange and the Three Pass Protocol enable the secure sharing of a secret across insecure networks, however these methods are computationally expensive in cases where new secrets are be continuously generated and shared. The present invention is an efficient and less costly method for secure secret sharing. Furthermore, the technique described allows the generation and convenient management of multiple secure secret keys based on a single master key.With this on BCH, any website just needs to publish a single public key to allow any BCH user to log in securely without password registration. As well as to conduct encrypted correspondence. A fresh password for every sight, and the sites don't have to store any user passwords.A big step closer to decentralized reputation and identity systems, a key pillar that along with vanilla decentralized communication (Internet) and vanilla decentralized money (BCH in its present form), creates a solid platform for the next stage of global takeover.
+2	1523900770	2	Man that's awesome. Someone needs to code a Wordpress plugin to make it start!
+2	1523903769	1	> PGP never took off because you had to exchange secrets in some secure way out of band, preferably offline, before commencing encrypted communication:How do you make sure the website you're communicating isn't being MITM'd and the key isn't being replaced? This still has the same issue.> With this on BCH, any website just needs to publish a single public key to allow any BCH user to log in securely without password registration.X.509 already exists.> As well as to conduct encrypted correspondence.See above.
+1	1523896876	2	No, that's nothing like it.
+2	1523903601	1	How is it not?A signed attestation just says "Hey, I control this address". Which is exactly same as signing a message and signing it with your PGP key going "Hey, I control this key" or hey "I'm Redditor /u/OverlordQ"
+0	1523855795	2	Are you able to export to Bitcoin.com? If so how? 
+1	1523865662	3	You can export to any wallet that supports WIF or RAW key import
+1	1523858452	2	Not yet. Jaxx wallet you can. 
+0	1523869060	2	[deleted]
+1	1523877644	6	> This has some nasty implications, such as making every single node, not just miners, count as data processorsCrypto destroys the concept of a national jurisdiction. How can u apply any rules to blockchain data? U can't. Targeting nodes for anything won't do shit except hurting your own reputation, creating Streisand effect and incentivizing stealthier solutions to appear
+1	1523875958	4	Or you know, just not comply with your regional bullshit laws.
+2	1523876006	0	[deleted]
+3	1523876342	3	Nodes can be run through tor or other anonymizing software.But besides that, nodes outside of the EU can serve up this information making these stupid laws effectively useless against them (if located in jurisdictions that could care less about EU law)
+4	1523878544	-1	[deleted]
+5	1523878870	3	Well shit...who would have known that crypto could just be legislated away. Damn...and I thought that drug purchasing with crypto was illegal.
+6	1523879482	-1	[deleted]
+7	1523879784	3	Why are you even into crytpo?If it is all about regulatory compliance, what's the point of having a stateless currency? You are always going to run counter to someone's laws (there being a number of countries that have banned crypto entirely).So either accept crypto for being a stateless and censorship-resistance system or just go with digital fiat currency.
+8	1523880624	1	[deleted]
+9	1523880989	2	>Well, if there's no point besides breaking the law, why have them?The 'law' is what has created the shit central-banking fiat systems.Read the Genesis Block and try to surmise why crypto was created.
+1	1523871531	2	Yeah there is a crapton of legal issues with this
+2	1523871727	3	[deleted]
+3	1523873065	2	Regardless of the platform it's really easy to put illegal messages/information/media in the blockchainEven in bytes, kids' dicks ain't that heavy. 1MB isn't expensive on the BCH blockchain...There is a lot of stuff nodes are legally required to remove in the EU
+4	1523876008	1	Good thing it's a decentralized network
+5	1523876137	1	Meaning every node is accountable 
+0	1523885822	1	This Memo.cash is like EternityWall on steroids?
+0	1523845518	0	^The linked tweet was tweeted by [@BitcoinCashFans](https://twitter.com/BitcoinCashFans) on Apr 16, 2018 02:21:39 UTC (0 Retweets | 1 Favorites)-------------------------------------------------See what I did there? Export your private key from [http://Memo.cash](http://Memo.cash) into a \#BitcoinCash wallet like [@ElectronCash](https://twitter.com/ElectronCash) , then use it to cryptographically sign attestations on other platforms. How cool! 🔏 [https://twitter.com/BitcoinCashFans/status/985703360924827649](https://twitter.com/BitcoinCashFans/status/985703360924827649)-------------------------------------------------^^• Beep boop I'm a bot • Find out more about me at /r/tweettranscriberbot/ •
+0	1523858033	0	WE ARE ON RAILS.

@@ -1,0 +1,64 @@
+File created at: 1523904151
+Subreddit: btc
+Submission title: Since switching to Bitcoin Cash, Satoshi Dice has been responsible for nearly half a million on chain transactions!
+Submission created utc: 1523866453
+Submission score: 199
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523866494	24	One transaction in each direction....(When the player wins)  Nearly 250,000 bets have been made total.
+0	1523867207	15	Here are all the addresses:LOWER THAN(OF 65535)	BET ADDRESS	WIN CHANCE	MULTIPLIER	MINIMUM BET	MAXIMUM BET64	bitcoincash:qqpx0wk0hru27l0xk2ek9xulhh269awklyauyuraxk	0.098%	1013.74x	0.0005 BCH	0.01 BCH1024	bitcoincash:qz9cq5qeguz30nuynwt2ulq6cxt6gfklfv2djqj9lf	1.563%	63.35x	0.0005 BCH	0.05 BCH4096	bitcoincash:qz9cq5qa2mfqcxlc4220yh8fatadu4z7pcewq0ns8y	6.3%	15.83x	0.0005 BCH	0.15 BCH8192	bitcoincash:qz9cq5pryv9hnqwa8q8mccmynk9uf4vlu5nxerpzmc	12.5%	7.91x	0.0005 BCH	0.2 BCH16384	bitcoincash:qz9cq5pgwgx68wfevx0t78xalkh33xa0v5wlx6nppx	25.0%	3.95x	0.0005 BCH	0.3 BCH24576	bitcoincash:qz9cq5pcexrfnz0a60qz7xtvv8wh5rqf8v6pxd3k74	37.5%	2.63x	0.0005 BCH	0.5 BCH32678	bitcoincash:qz9cq5r294syv3csh56e4jpyqrpt7gl9lcj7wveruw	49.9%	1.98x	0.0005 BCH	5 BCH40960	bitcoincash:qz9cq5rlkdrjy2zkfzqscq847q9n07mu5y7hj8fcge	62.5%	1.58x	0.0005 BCH	10 BCH49152	bitcoincash:qz9cq5yfkyjpgq6xatlr6veyhmcartkyrg7wev9jzc	75.0%	1.31x	0.0005 BCH	15 BCH57344	bitcoincash:qz9cq5ytxmejfqqr0l5clkmw0l52pj6n5yc76lup7a	88%	1.12x	0.0005 BCH	20 BCH61440	bitcoincash:qz9cq5ylczhld5rm7a4px04zl50v5ahr3scyqudsp9	93.8%	1.05x	0.0005 BCH	30 BCH
+1	1523884468	3	Do you plan to use addresses that start with `bitcoincash:qqdlce`? 
+0	1523868979	12	What's that in terms of % of BCH transactions per block?
+1	1523882602	8	Very Raw estimate:- 6 months since switch to BCH- 16.000 tx / day- 3.000.000 tx in 6 months- 20% tx volume from Satoshi DiceSeems bit high, feel free to improve this estimate.
+2	1523893772	5	In the very early days of BTC, Satoshi Dice was responsible for over 50 % of transaction volume at some point.
+3	1523900070	0	Luke Jr called it "an attack on Bitcoin".
+4	1523901297	1	Yeah they were part of the controversy about his blacklist
+1	1523870938	2	Good question. I'd like to know too.
+0	1523883575	2	Not available for US IP address
+1	1523892993	3	Google “proxy” then visit the site through the proxy. Then save the address once you place a bet so you don’t have to keep looking it up. Minimum bet is 0.0005 BCH. If you pay below that then they just keep it. Don’t make the same mistake I did then wonder why you never win. 
+1	1523897038	2	OP commented a list of bets above. 
+1	1523903417	1	Get a VPN! You can even pay for it with Bitcoin Cash in many cases. I recommend VPN.AC
+0	1523885357	2	Does the bitcoin.com mobile wallet detect when an old spent address gets additional bitcoin in the payout transaction.It would be cool to see you payout in your wallet. This was my win :) https://satoshidice.com/verifygame.html?id=251395
+1	1523898118	1	Yes,  the wallet will detect it without problem.
+0	1523888794	2	Love on chain fun.
+0	1523900456	2	I remember Satoshi Dice taking up 95% of the Bitcoin network way back in the day.
+0	1523872731	5	When did they switch to Bitcoin Cash?The [BTC average block size](https://blockchain.info/charts/avg-block-size?daysAverageString=7) dropped suddenly from ~1MB (nearly saturated) to ~0.7 MB around 2018-03-12.  Could that be the reason?
+1	1523873606	16	Nah they switched around 6 months ago. Well they didn't really switch because it was closed for a while with that SEC thing, they just (or someone else) relaunched it using BCH.
+2	1523896359	1	I know Erik Vorhees originally started SatoshiDice, but decided to sell shares in it without registering with the SEC. Not sure if he or someone else reopened it with BCH. 
+1	1523872938	-54	[removed]
+2	1523881006	13	/u/jessquit 
+3	1523881541	18	It's so lame I hope they leave it.
+4	1523883355	6	You should [report it](https://www.reddithelp.com/en/submit-request). They banned my impostor when I did.
+2	1523881063	13	Another impostor. Report to reddit everybody./u/BeijingBitcoins 
+3	1523882962	8	Thanks again!
+4	1523883334	4	np, you guys have a lot of work. 
+3	1523894815	2	Which option should we choose when reporting someone for being an impostor?
+4	1523895233	3	Targeted harassment of somebody else. But only on accounts that are very similar in user name to well known users here ... and only if they are trying to impersonate. There are parody and novelty accounts which are not a problem, as long as they are not trying to fool people in to believe they are engaging with somebody else. And then also ping a /r/btc mod. 
+2	1523873317	-27	Btrash is the ORIGINAL shitcoin. ;-)
+3	1523883982	0	Another high-value post from a dumbass Core troll. High f***ing five bro.Edit: This was meant for the post above u/jstolfi's.
+4	1523884060	5	> Core trollYou could not be more wrong...
+5	1523884207	2	I meant to respond to the fake u/jesequit post, not yours. Apologies.
+3	1523873602	-47	We should report Roger ver to the authorities for scamming people by creating a fake bitcoin. There is no place for scammers, just like no place for rapists. Hang them all!
+4	1523875068	-13	The authorities should put in jail anybody who tells people to invest in cryptos.  Unfortunately very few countries so far have got the sense to do that.But why do you think that Bgreg is less fake than Bcash?
+5	1523882782	6	Why stop there?  Shouldn't the authorities put in jail anyone who does anything that you dislike?
+6	1523884278	1	That is what **you** proposed doing with Bitcoin Cash supporters, isn't it?
+7	1523890100	6	Not sure if you are aware that we have an infestation of imitation accounts. Whatever you are referring to was probably one of those?
+8	1523890759	5	Oops, seems so: \u\jes**e**quit presumablly is a parody/impersonation of \u\jes**s**quit.Reddit tolerates parodies, but not impersonations (whose intent is to mislead readers into thinking that the fake is the original).  If this is the case, itshould be reported.
+7	1523884670	2	Bitcoin, Bitcoin Cash... that’s all I ever fucking hear about.What I’m I supposed to do with my FlappyCoin’s?!
+5	1523875825	11	Using the violence of the state for nonviolent actions that have actually made the lives of people better.Fuck off statist
+6	1523883080	4	He's being sarcastic and using bad reddiquette by [not] putting an /s at then end of each post. Notice the wink emoticon in one of his above comments.
+7	1523891298	1	He's spouted his statist bullshit for years...this isn't something new
+6	1523876467	-6	> nonviolent actions that have actually made the lives of people betterLike creating Bitcoin Cash? ;-)
+4	1523883934	-4	Given the chance I would toss a noose around your neck and kick the bucket out from your feet.  You're a worthless waste of carbon.
+5	1523900710	1	Your comment is so awful you deserve to be fined./u/rawb0t, can you implement negative amounts in tippr so I can fine people like this idiot?
+5	1523892923	1	There's no place for threats of violence here. We're adults.
+6	1523900212	1	Speak for yourself.
+6	1523894763	-1	Fuck that guy. 
+0	1523896472	1	Love SatoshiDice. Super easy to use and highly addictive.
+0	1523896914	1	Won some then lost everything, need to buy some more Bitcoin (BCH) to feed my gambling addiction!
+0	1523900983	1	The original SatoshiDICE gave the algorithm used to determine wins and losses.  That information seems to have gone missing.  Can you put it back?
+0	1523884841	0	This is why we need big blocks for!! For people to gamble using Blockchain, this is the real revolution. 
+0	1523893011	0	Good for you guys! Taking up half a million txs is big progress for BCH! It brings BCHs total tx count to just over... well half a million. And your block size is growing too! Maybe you’ll pass 150kb in another 8 months from now. 
+1	1523893020	1	Redditor /u/ryanisflying has low karma in this subreddit.
+0	1523900809	-1	#bcash dead in 10 years guaranteed. Buy bitcoin, the original and only bitcoin.
+1	1523901203	0	Might be sooner than that.  Looks like the site is down.  https://bcash.games

@@ -1,0 +1,463 @@
+File created at: 1523904208
+Subreddit: CryptoCurrency
+Submission title: Daily General Discussion - April 16, 2018
+Submission created utc: 1523859386
+Submission score: 78
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523862939	47	ICX performing really nicely recently, only 200% until i break even :D
+1	1523863062	3	lol, surprised you dint sell at loss like all the other news buyers
+2	1523863324	17	I havn't sold a thing since i started early Jan, iv only sold the news to increase my positions.I was a massive noob but these 3 months of bear have really smartened me up. Wish i just didnt go all in and DCA'd my buyins. But the best way of learning is from mistakes!
+3	1523863988	1	yeh these 3 months were a good lesson to average up your positions. anyway, im glad you're sane and have learned from the month of January. Im proper setting up limits now.
+0	1523889723	29	DENTACOIN is out of top 100, finally. 
+1	1523891684	7	Bullrun incoming
+0	1523880485	52	Big pumps, small dumps. Call me optimistic but we're entering bull season. 
+1	1523884592	10	We're down $500 in half a day and the dumping could still continue. But yes, this is good for bitcoin, of course.
+1	1523882106	2	LORD GIVE MORE
+0	1523880099	21	Omg mega pump
+1	1523880128	7	Yessss
+1	1523880920	3	Its almost free money now :/
+1	1523881685	3	I like dat
+0	1523884097	19	I just had some good laughs going back through some late December price predictions post on a few coins in the Top 25. I even saw a $15 dollar Ripple prediction for christ sake.If we only knew what was behind that December 18th door. 😂
+1	1523884550	2	I was confident ETH would hit $10,000 by the end 2018 and dethrone BTC!
+0	1523861425	17	Man, I checked my portfolio and it went up like 3-4% in 5 minutes.  Turns out that ADA made a huge jump.  
+1	1523861691	8	Yes. ADA has just been listed on an Asian Exchange, Huobi. Here is the annoucement [https://www.huobi.pro/notice\_detail/?id=1332](https://www.huobi.pro/notice_detail/?id=1332)
+1	1523861514	4	Wow...it came off a basically flat line (on Binance).  Ye ole classic pump.
+0	1523880867	19	You havent fully lived untill you leverage trade 20x on Bitmex
+1	1523883648	10	Are you going to make an appearance on the bitmex rekt liquidation bot twitter feed ?
+2	1523884026	15	You bet your ass i will
+1	1523880877	22	Hey, jordenpl, just a quick heads-up:  **untill** is actually spelled **until**. You can remember it by **one l at the end**.  Have a nice day!^^^^The ^^^^parent ^^^^commenter ^^^^can ^^^^reply ^^^^with ^^^^'delete' ^^^^to ^^^^delete ^^^^this ^^^^comment.
+2	1523882172	8	how is "one l at the end" easier to remember than just remembering that until isn't spelled ith two l's? Am I missing something?
+3	1523883757	2	Haha glad u said that too. It doesn’t seem a good way to remember it at all.
+3	1523883510	1	Two l’s is twice as many as one l, so it’s twice as hard to remember...
+2	1523881300	4	The future is here
+2	1523881431	4	!good bot
+2	1523881246	3	Good bot
+1	1523883408	6	You havent gone full retard until you leverage trade 20x on bitmex
+2	1523884114	2	Retarded would be to 50x/100x leverage. 10 to 20 is pretty good to do IMO
+1	1523882757	1	How is it?
+2	1523884073	3	If your looking for a quick adrenaline rush and have some understanding of TA with some tight stop losses, its pretty good
+3	1523884524	2	I i haven't looked into it. how does it work? Like can you put 10$ in at 20x? I don't think so but curious. You need to set stop losses?
+4	1523886925	2	Its basically borrowing money from your broker for you to trade with. Its very common in forex markets for example. Say i have 50 bucks to invest but a 10 percent gain is only 5 bucks. We are here to make some money right!? Lets say i use 20x leverage. This allows me to trade with 1000 dollars. With 10 percent gain this is 100 bucks, which is pretty nice, while only risking the 50 bucks! Sound too good to be true? Thats because it is. The higher the leverage the more you can gain, but its a double edged sword. You can also get liquidated very fast the higher your leverage goes. Personally i never trade with more than 10x, 20x if im pretty certain of the next price movement. 
+5	1523887321	1	Oh okay good explaination, thanks! But let's say you have that 50$, and you put a 20x leverage, if the assets going down while you thought it was going up, do you need to pay more than 50$ or is that everything you could lose? I saw this same concept somewhere else, you were liquidated after -100% that means if you set a x10 leverage you'll lose your money at 10% change, is that correct? 
+6	1523889953	2	Correct. 50 is everything you can lose on Bitmex, it automatically closes the contract of you were wrong. This is not with every broker. Some brokers dont automatically close the trade and you keep on losing: Getting margin called is what they call it. Edit: If you would like to learn some more about trading and TA may i suggest you take a look at the site babypips. They offer a pretty big free training course. Its for the forex market though but TA stays the same. Cheers
+7	1523891442	1	Ah cheers dude, thanks for the advice and help. Ill look into it when i have spare time :)
+6	1523890123	1	I believe you would only lose the $50, but it would be force liquidated at 5% change 
+7	1523891366	1	Hmm sounds tryable haha. 
+0	1523870638	19	I read an interesting article from the Hustle the other day about the massive boom in the sharing economy, and how trust is the currency in such a business. It also points out interesting stats that trust in institutions is at an all time low (e.g. politicians, banks, the press).It really increased my faith in Bitcoin (and other crypto's) - blockchain is built on establishing trust between two parties so it sounds like the perfect solution here.Here's the article if anyone is interested: https://thehustle.co/sharing-economy-trust/
+0	1523902428	16	Tomorrow's Verge announcement is the crypto equivalent of a Game of Thrones season finale.You know *something* crazy is going to happen, you just don't know what and who's gonna get rekt.
+1	1523903707	3	Lol, nice comparison
+1	1523902642	5	That's a nice way to say the hopes and dreams of of many people will be crushed.
+1	1523903152	2	But what if it is really really a solid project? /s
+0	1523878056	38	Verge partnership with Penis
+1	1523878338	16	HUGE partnership (but also curves a little to the left)
+1	1523885813	3	Verga IS penis
+1	1523896541	2	Shake your partnership more than three times then you’re playing with it.
+0	1523888736	34	If you ever felt shitty about your trades. A friend of mine got a 100k loan to buy bitcoin at 19k. 
+1	1523889070	12	Hodl - he'll be fine in the end.....in the meantime, he chose to get a loan...he can eat the payments until then.
+1	1523888796	8	🤦‍♂️ 
+1	1523888944	18	I don't feel bad for him. 
+1	1523890088	2	he be fine in may :)
+0	1523872605	42	Ethereum price exactly 1 year ago, April 16 2017: $ 49.04	
+1	1523874601	25	perspective, something that is often missing in the this sub
+2	1523884902	1	No everyone knows, they just are trying to find the next ETH price explosion
+0	1523888220	12	Come on ETH 😑 you’re better than this 
+0	1523861348	13	The more I hear last time to tether I know it’s gonna bounce right back up, market is looking healthy realise those gain and ignore the tether calls
+0	1523866960	13	Any former bitconnect holders here that are holding Verge atm? 
+1	1523870589	5	Doesn't surprise me. A number of them went over to Davor coin and well...that ended up just like bitconnect. Even was a guy on youtube that doubled down on davor and lost over 100k...idiots gon' idiot. 
+1	1523867882	15	Hey hey heeeeeeeeeey…. Hey hey heeeeeeeeeey…. Hey hey heeeeeeeeeeyWhat's up what's up what's up what's up what's up what's up what's up what's up what's UP, BITCONNEEEEEEEEEEEECT Hey hey hey everybody, My name is Carlos Matos and I am coming from New York City, New York Let me tell you guys that I am SO EXCITED, I am SO HAPPY I am really so thrilled to be right now, Sharing this amazing, glorious, SUPER and EXCITING moment of my life with all of you guys -and let me tell you that we are really changing the WORLD as we know it The WORLD is not anymore the way it used to be mmh mmh NO NO NOH.
+2	1523872426	7	upvote if you read it with carlos voice
+2	1523870662	2	WASO WASO WASO WASO WASO WASO WASO WASO WASSSUP!!
+1	1523867845	2	I doubt they had any money left to buy Verge.
+0	1523888461	12	time will tell if Ian Balina really got hacked. My guess is that he didn't. 
+1	1523891203	1	Convienently before the taxes are due 👌
+1	1523895233	1	If he did whatever I feel a little sorry for him. But if he does indeed receive 100k for "supporting" projects then he will be fine. I just hope he doesn't ask his followers for donations... It would be verge all over again. 
+0	1523873659	25	OmiseGO #18 on cmc feelsgood 
+1	1523876430	6	On its way to a proper place in the top 10.
+2	1523881093	1	what does it do?
+0	1523875243	12	What's going on with OMG? 
+1	1523876012	9	Plasma and staking both nearly complete. 1:1 airdrop for OMG holders. Partnership with ShinhanCard. 
+2	1523881611	1	What's the airdrop? Haven't moved my OMG into myetherwallet yet.
+1	1523875815	7	Lots
+0	1523887930	9	If I buy high and sell low everytime is that a taxable event?
+1	1523888397	26	Do this often enough and you won't have to pay any taxes next year. You may even qualify for government assistance if you try hard enough
+2	1523890489	1	Haha!
+1	1523888154	4	In the US it is, but starting this year it's a deduction.
+1	1523890381	3	If you realize the loss, you can write off some short term capital losses 
+2	1523893725	1	realize as in cashing out?
+3	1523893817	1	Yeah, or moved to a regulated asset 
+0	1523859642	19	If we go back down to $6900 I'll eat my shoe.
+1	1523872059	1	I think it's not gonna happen and also eating your shoe will not unless there is a government drastic actions against this market.
+1	1523878858	1	[deleted]
+2	1523878866	1	**Defaulted to one day.**I will be messaging you on [**2018-04-17 11:41:04 UTC**](http://www.wolframalpha.com/input/?i=2018-04-17 11:41:04 UTC To Local Time) to remind you of [**this link.**](https://www.reddit.com/r/CryptoCurrency/comments/8clhmn/daily_general_discussion_april_16_2018/)[**CLICK THIS LINK**](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[https://www.reddit.com/r/CryptoCurrency/comments/8clhmn/daily_general_discussion_april_16_2018/]%0A%0ARemindMe! ) to send a PM to also be reminded and to reduce spam.^(Parent commenter can ) [^(delete this message to hide from others.)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete Comment&message=Delete! dxg4gav)_____|[^(FAQs)](http://np.reddit.com/r/RemindMeBot/comments/24duzp/remindmebot_info/)|[^(Custom)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[LINK INSIDE SQUARE BRACKETS else default to FAQs]%0A%0ANOTE: Don't forget to add the time options after the command.%0A%0ARemindMe!)|[^(Your Reminders)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=List Of Reminders&message=MyReminders!)|[^(Feedback)](http://np.reddit.com/message/compose/?to=RemindMeBotWrangler&subject=Feedback)|[^(Code)](https://github.com/SIlver--/remindmebot-reddit)|[^(Browser Extensions)](https://np.reddit.com/r/RemindMeBot/comments/4kldad/remindmebot_extensions/)|-|-|-|-|-|-|
+0	1523863764	26	Verge partnership with Amazon^rainforest confirmed
+1	1523865967	8	Sunerok couldn't even get a  partnership with the trees in my backyard though
+2	1523866122	4	He has, that's the wraith protocol: Hidden partnerships
+3	1523884653	1	Finally true privacy from Verge.
+1	1523868911	1	^^^^^^^^hehe
+0	1523870719	8	Gas is doing well - probably due to the ease of changing up on the switcheo dexswh also doing well, and volume increasing 
+1	1523870784	5	Also because of the new applications of GAS in nOS and VDT Network
+2	1523870868	7	TrueLooking good all round on Neo platformProbably going to see Neo have a boost soon as well
+2	1523874069	4	And upcoming Nex ICO 
+0	1523862906	8	Three prominent ex-Googlers have formed the xGoogler Blockchain Alliance (GBA), a new community for Googlers past and present interested in blockchain.https://finance.yahoo.com/news/community-ex-googlers-interested-blockchain-173400595.htmlFormed by Nebulas, Loopring and Gifto founders.
+1	1523863437	3	Wow! I didn't even know that. Thanks for sharing this article man. I will always support Hitters, the man is so passionate about blockchain and has a proven track record in the space. Really excited to see about what is to come from GBA.
+2	1523863607	1	This is the GBA website: http://xgba.io/
+1	1523862998	1	http://xgba.io/
+1	1523891565	1	My dyslexia always causes me to read "Gifto" as "Gtfo"....
+0	1523889194	8	I’m toying with the idea of selling my nano position right now. I’m worried that the deposit suspension is the only thing preventing a dump atm. Perhaps once deposits are reinstated people will transfer their funds on to exchange and dump them. Been holding since December but worried that this could reignite the Bitgrail fud. Any and all opinions/advice welcome.
+1	1523889415	6	NANO is a wounded animal. Im very nervous about mine, and i bought at $5. Ultimately, like trx i think its hype/cult will last long enough for a sizable pump in the future,  idk if i will wait til then though
+2	1523889418	7	Hey, did you know that Aardvarks rarely drink water and receive most of their moisture from the insects they eat u/mynameisbram ?   Type **animal** on any subreddit for your own aardvark fact  >I am currently a work in progress and am learning more about aardvarks everyday.   >**I am contemplating expanding to all animal facts. Upvote if you'd like me to evolve to my next form**   Sometimes I go offline or Donald Trump takes me offline. Be patient.
+3	1523889665	2	Gj mr. bot
+3	1523889449	2	Bad bot
+4	1523889564	1	Nice username. 
+5	1523889672	2	Ppl keep telling me thatThat is my name
+2	1523894527	2	It was indeed wounded by the exchange problems especially BitGrails' incompetence/theft - but:  1. Those downside problems are already priced-in  2. The tech itself is simple and superb  3. Wallets are just about to be released from beta  4. Marketing hasn't started yet  ... so future adoption (especially by people who haven't yet even heard of it) is going to be big. 
+1	1523891759	4	Yeah I'm down 70% in Nano, so I might as well just write it off, HODL and then consider any future gains from Nano as unexpected income...¯\\\_(ツ)\_/¯
+1	1523891089	2	Nano is a currency. Inherently its value increase from adoption and tech. In both category it is failing for now. It is not a platform that runs dapps or ICOs to gain value, it is not a token with specific use. It does not offer any privacy feature. I sold mine and steer clear of it for now until some new development comes to Nano. 
+0	1523865622	13	Strap in everyone it's going to be a big week. 
+1	1523877153	2	Why? 
+2	1523880026	6	Because he wants to think so
+0	1523865520	22	2018 = 10s of millions of people in unison  from all  corners of the earth staring at their phones for 12+hours a day checking on their virtual coins.2019 = Global Lamorghini sales increase 500% YOYOrThere's 10s of millions of new homeless people across the world Either way it's been a fun ride so far
+1	1523865933	13	Should we invest in lambo stocks? 
+1	1523867694	2	when you pull the number I am curious how many people actually own any crypto. There is no way to count it. We can estimate the number from surveys, numbers from exchanges, numbers of wallets in use. But nothing would be seemingly accurate. 
+0	1523893219	20	Anyone counting down till the tuesday Verge exitscam? Grabbing some popcorn. 
+1	1523894287	8	Oh I can't wait. It's crypto blockbuster shitshow one way or another.
+1	1523893618	1	How many hours left?
+2	1523893683	6	22 hours from this comment
+3	1523893743	1	Cheers.
+0	1523863900	6	sup cardano
+0	1523889162	7	Crypto Weekly got the chance to interview the CEO of Ambrosus if there are any AMB holders here, or just anyone interested. We talked about the current state of the project and existing partnership agreements. You can listen to it on [Soundcloud](https://soundcloud.com/cryptoweekly/crypto-weekly-extra-interview-with-ceo-of-ambrosus), [iTunes](https://itunes.apple.com/gb/podcast/crypto-weekly-cryptocurrency-bitcoin-ethereum-altcoin/id1351749137?mt=2), [Overcast](https://overcast.fm/itunes1351749137/crypto-weekly-cryptocurrency-bitcoin-ethereum-altcoin-and-ico-news-from-the-week), [PocketCasts](http://pca.st/Q0e8) and generally any podcasting platforms worth their salt!Also if you enjoyed this check out the rest of our podcast - new episodes weekly with a smattering of extra content like this thrown in.
+1	1523890149	2	Listened this morning.  excellent stuff,  hold tight cryptoken.
+2	1523890637	1	Hold tight brxite
+0	1523900302	7	Uh oh BTC just broke upwards!
+1	1523900671	6	Look out bears 
+0	1523877413	17	Sat here getting creamy at the thought of Vechain mainnet launch in a potential june bull run.. hnnngggg
+1	1523879518	6	My body is ready
+1	1523886622	1	Mainnet launching in June?
+0	1523868563	14	ICX looking good!
+0	1523883676	14	Well, I did it.  I paid my taxes on my crypto trades.  Fucking sucked, but whatever.  I didn't have to cash out to do it.  Turbotax desktop version + Bitcoin.tax made it really easy.  Was done in like 20 minutes.
+1	1523884164	5	Thankfully I didn't do many trades in 2017.  2018 though I tried my hand at swing trading and sucked haha.  I did a rough calculation on the first 3 months of this year and figured out I have to stop now or else I'm gonna owe way too much in tax.  Stupid US tax laws.
+2	1523884472	6	I am sure you know this, but every trade is taxable.  I never cashed out into USD, but traded a bunch.  Was up about 8X my initial investment end of Dec / early Jan.  Owed taxes on that amount since I did some trading near the top, even though my account is now -75% from that value.Just something to keep in mind.  If you traded at all in 2017, you owe taxes.EDIT: I know a lot of people probably use overseas exchanges, and are less worried about getting tracked down by the IRS.  However, I used coinbase / bittrex (US based exchange), so I figured It was better to be safe than sorry 5 years from now when they finally track down all my trades.
+3	1523884744	2	Yeah I know.  I got into crypto in November 2017 and just bought and held until this year.  In 2018 I started to trade, so I just know I'll probably owe quite a bit on those first few trades since I had some pretty high gains (XLM, BAT, POWR).  I've probably been chipping away though at that because every swing trade I've done I've lost a bit of money haha.The nice thing that I have going for me is that I don't have much money and my trades were always under a few hundred dollars, so it's not like I'm playing with $1000s of dollars in trades.But I have decided to stop all trading itself for this year so I don't have a shitty surprise 2019 tax season.
+3	1523886287	1	How does this actually work? If you make a trade thats a loss, say because you're trying to stop bigger losses, do you get tax back? Do you calculate percentages/figures gained and lost on every trade in a period to produce a total figure, and then get taxed on that? Im genuinely interested on how this works in the US (disclaimer, I'm not in the US)
+4	1523886858	2	You can deduct up to 3k of losses per year in the US.  Yes, in theory, but I let Bitcoin.tax figure it out for me.  In the end it gives you a breakdown of your cost basis, total account value, short term gains / losses, and taxes owed based on the % you select.   
+2	1523885719	3	Why don't you guys trade anonymously and only tax when cashing out?
+3	1523885985	1	How do you trade anonymously?  I mean I just have a Binance account and trade there.  I used Bittrex a lot in January too.  All I do know is that crypto to crypto is taxable in US as of now, so every ETH to ALT trade I've done is taxable.
+4	1523886215	2	don't be verified on Binance
+5	1523886464	1	hm.  I don't think I am actually. Not that I want to "cheat" the taxes but only having to report Bittrex would be helpful.
+4	1523886409	2	Personally I don't since I'd only have to pay tax after cashing out. But there are decentralised exchanges that don't have fiat pairings (but often do have USDT) and they don't work with banks, nor ask you for your identification. You can transfer whatever crypto over there and then do the trade in there until you cash out your BTC/ETH/XMR whatever out. Nobody will ever know your "taxable events".Found this list https://coinsutra.com/best-decentralized-exchanges-dex/
+5	1523886616	1	Sweet.  I have traded on Bittrex, Binance, and Stellarterm, so it looks like Stellarterm is Decentralized. Another user said if you aren't verified on binance it's anonymous, so I may be ok there too.Bittrex would probably be the one I'd have to worry most about since I am verified there and it's a US based exchange.
+6	1523886821	4	I think you do need to get veryfing if you are gonna withdraw from Binance anyways... But from a certain amount I don't remember.Also you have LocalMonero where you can sell your XMR for physical money (No bank or government system will ever know you cashed out)
+7	1523888589	3	thanks!
+0	1523878508	17	just fomoed into ada 
+1	1523878915	5	Welcome! Enjoy the ride. 
+1	1523880827	5	Had you posted this 2 weeks ago, you’d be downvoted out the ass. It’s crazy how the sentiment changes. (I fully support ADA, been in since November).
+0	1523876559	5	with the upcoming 5 million ICX being airdropped, and scrubs getting 500~5000 ICX for free, will we see the price tank?
+1	1523876730	5	Scrubs received 1000-2000 ONT for free and price skyrocketed. So go figure :)
+2	1523877035	1	Can confirm. I am scrub 
+3	1523877404	1	Aren't we all? :D
+2	1523878322	1	And here I am struggling to get together a few hundred of them. 
+1	1523879561	4	How does one acquire these so called free ICX
+1	1523877409	3	Depends. Some believe in the project they bought during ICO while others use it to trade into other projects. It hasn't had an effect on AION (besides the first one). 
+0	1523879467	7	If you had 100K, what would you throw it into right now? Looking to reinforce/setup some positions for the next couple of months.I’m currently in VEN, ICX, NANO and NEO.
+1	1523879540	17	OMG 
+2	1523879993	9	you sound surprised/s
+1	1523880841	15	XRP and XLM
+1	1523879689	8	Eth definitely, and some btc 
+1	1523882801	7	90k in a house10k in: NEO, ETH, VEN, NAV.
+1	1523879596	4	Ada
+1	1523879675	11	Id get more Ven tbh
+1	1523880399	8	more VEN. When mainnet comes and when investor pool gets depleted, big businesses will have to buy ven straight from the open market...combined with the fact that no one will be selling thanks to this generating dividends, the buy pressure will absolutely dwarf sell pressure, I think. 
+2	1523881415	4	Only strategic partners buy from the investor pool
+1	1523879585	6	USDT, GOOG  , SBUX, VTI
+1	1523879858	7	If you want steady profit, the only answer is Bunny Token. 
+2	1523882292	5	I am gonna kill myself if I see this ad again on youtube...
+3	1523898089	2	I was showing my kids a funny cat video when the ad appeared. I don't know whether they think this targeted advertising reflects my harmless hobby-linked browsing history or, alternatively, some depraved crypto habit. 
+1	1523880578	3	I'm a great fan of Nano, and it's got a lot of good news due out within the next few months. The Universal Blocks just implemented will lead to Ledger Nano hardware wallet support, and also to chain pruning.  The wallets are about to come out of beta.
+1	1523882236	2	People will just shill their portfolio here. DYOR
+1	1523888369	2	In the bank.
+1	1523888905	2	75% between BTC and ETH, 15% something like NEO/XMR/XRP and the rest in moonshots like VEN/ADA/OMG
+1	1523882391	4	Pizza
+1	1523885440	3	OriginTrail and CPChain
+1	1523882327	2	BABB without a doubt!
+1	1523890518	1	Surprised no IOTA mention. This coin is being adopted faster than any other, and the technology has the potential to make blockchain obsolete. Partnerships with Bosch, VW and Fujitsu announced so far.Buy yourself 15-20GI, its a steal at this price.
+1	1523894982	1	Im all in on Monaco (MCO). Its the most promising coin for short term ROI
+0	1523880449	5	**Exchange Additions From The Last 24 Hours**Coin|Exchange-|-vtc|bit-zeko|lbankCoin|Market|Exchange-|-|-vtc|dkkt|bit-zeko|eth|lbank**For Live Updates Checkout [ExchangeScanner](https://ExchangeScanner.com)**  	**For Project Updates Follow Us On Twitter [@ExchangeScanner](https://twitter.com/exchangescanner)**
+1	1523881278	1	does that webpage and twitter update instantly? is it good to try and chase listing pumps?
+2	1523890216	1	The website should update within 2 minutes or less of the exchange adding the coin to its API, I can't comment on chasing pumps as I have not done any research into it as of yet.I will be opening up an API to the data soon however, I am sure that trading bots might find it useful.
+0	1523900629	6	BTC holding its own at/around 8k *don’t jinx it*
+1	1523901338	5	holding better than I thought. This is a good sign of us moving up in the coming days.
+0	1523901385	6	[removed]
+1	1523901617	5	They're entirely serious, it's part of the whole rise of "safe space" ideology driven echo chamber subreddits that explicitly ban contradictory ideas.People go there to reinforce or add nuance to their existing views, not be exposed to open discussion.
+1	1523901796	5	It's 100% serious sadly.
+1	1523902057	2	Communism #1
+1	1523902170	1	The subreddit isnt designed to discuss socialism, its a CJ subreddit.
+0	1523893067	23	I’m so glad that one doge is still one doge. 
+1	1523894079	5	If that ever changes we are all doomed
+0	1523876272	12	Haha can't stop it now. Bull season is on. Look at these big market sells dump price, get eaten up and price recovers and they try again.They are basically just handing over their position and losing money. They can try but they can't stop it now. Anyone that isn't in after seeing this sketchy action and the market resisting it immediately, I don't know what to say. They deserve to get left behind.
+1	1523878091	3	2 Days after the big $1,000 jump in BTC, I was telling myself "it's just like the other pumps"  We're 4, 5 days on now and seeing green day after day on 24hr charts for nearly every major coin.  If there's a crash it will **really** wipe out sentiment in Crypto as a form of investment. I hope not. It does look like the bull market is starting to come back. Let's push for $400 Billion then we will see.
+2	1523881259	1	So somewhere between [hope and optimism](https://pbs.twimg.com/media/DLOuIHeW4AUY4B6.jpg)
+0	1523881163	13	OMG, bitch you better hold above $15 this time!!! 
+1	1523881882	4	what makes you think omise go is a woman?
+2	1523882595	3	Or a dog.
+1	1523882039	4	Too late
+0	1523901187	10	I wonder how many careers crypto has fucked up?  Everyone glued to CMC and reading pointless posts instead of doing their job.  I was planning my retirement in December.  
+1	1523901855	8	This is time I originally reserved for video games and looking at pictures of cats. 
+1	1523901766	6	The pessimist in me says most of the people wasting time on crypto were just wasting time on other things before that so their bottom line is mostly unaffected.
+2	1523901951	5	Correct. It was easier to get caught by my boss 4 tabling online poker. 
+0	1523889146	5	The most annoying thing about unknown coins with a small marketcap is their complete lack of volume. There are quite some decent lowcap coins, but nobody pays any attention to them, because they aren't listed on big exchanges. Instead they pay attention to shitcoins like Verge.
+1	1523890239	2	This is partially why I invest in hype coins and put all my profits in projects i belive in that are under the radar.  
+2	1523890249	5	Hey, brxite, just a quick heads-up:  **belive** is actually spelled **believe**. You can remember it by **i before e**.  Have a nice day!^^^^The ^^^^parent ^^^^commenter ^^^^can ^^^^reply ^^^^with ^^^^'delete' ^^^^to ^^^^delete ^^^^this ^^^^comment.
+3	1523890285	3	Good bot 
+3	1523891120	1	"i before e" is a very strange way to remember not to misspell a word you know very well how to spell.
+3	1523892370	1	It’s i before e EXCEPT AFTER C.  Dumb bot
+0	1523879998	16	20% LISK (currently down 62%)20% ICX (Currently down 30%)15%  XEM ( Currently down 1%)12% OMG (Currently down 17%)12 % BTC  (Currently up 1%)10% QTUM ( currently up 1%)10% ADA currently evenAm I the next Warren Buffet
+1	1523880225	10	You have chosen a lot of projects that I’m unsure if they will ever be actually used.  So maybe the opposite of Warren Buffet.  Also I feel coins like qtum, lisk, and ltc are on the downslide in popularity compared to other coins.  I know I specifically avoided ltc in my portfolio because it has underperformed in this recovery.
+2	1523882166	2	I find it funny that his biggest holdings are the most negative ones :D
+0	1523890980	15	Yay xvg knocked out of the top 20
+1	1523891888	11	and out of the top 50 tomorrow when they exit scam
+0	1523860244	9	Tether now 2nd most volume of every asset. People do tether alot when the market is a tiny bit insecure.
+1	1523860250	30	Hey, Opblaasgeit, just a quick heads-up:  **alot** is actually spelled **a lot**. You can remember it by **it is one lot, 'a lot'**.  Have a nice day!^^^^The ^^^^parent ^^^^commenter ^^^^can ^^^^reply ^^^^with ^^^^'delete' ^^^^to ^^^^delete ^^^^this ^^^^comment.
+2	1523860367	16	thank you bot! We'll keep on learning each day.
+3	1523863263	3	you learn untill you forget lol
+4	1523863270	15	Hey, 0\_-, just a quick heads-up:  **untill** is actually spelled **until**. You can remember it by **one l at the end**.  Have a nice day!^^^^The ^^^^parent ^^^^commenter ^^^^can ^^^^reply ^^^^with ^^^^'delete' ^^^^to ^^^^delete ^^^^this ^^^^comment.
+5	1523863359	2	xD Love this. Don't forget it! 
+5	1523866552	2	This bot is defiantly one of the better ones I've seen.  
+6	1523866567	8	You probably meant ***DEFINITELY***  -not *'defiantly'*  --------------------------------------- ^^^Beep *^^boop. ^^^I ^^^am ^^a* ^^bot ^^whose ^^^mission ^^is ^^to ^^^correct ^^your ^^^spelling. ^^This ^^^action ^^was ^^^performed ^^automatically. ^^Contact ^^^me ^^^if ^^I ^^^made ^^^A ^^mistake ^^or ^^^just ^^downvote   ^^^^^^please ^^^^^don't
+7	1523878246	1	Good bot. 
+5	1523878231	1	Good bot. 
+2	1523867561	1	also, **ok** is actually spelled **okay**
+1	1523860475	5	It's not that its insecure, it's that it was very easy to see that some form of a correction of the market was coming. So why not tether up.
+0	1523900691	9	You bought the dip right? 
+0	1523864937	14	When is the Verge ~~exit scam~~ announcement? I thought it was today sometime?
+1	1523870123	4	28h 45m from the time of this comment
+1	1523867608	3	Do they need to announce it? I thought they just grab the money and stay silent?
+2	1523868914	5	Money has been grabbed. I think they will announce something. It will either be a terrible partnership, that probably isn't even a partnership, or a straight up lie e.g. Amazon will only use Verge from now on 
+3	1523869374	4	Or at least official statement "Penis" on their website
+1	1523867454	1	Tomoro for the tears
+0	1523887953	8	I wont tether 
+0	1523875486	5	I bought NANO because I could easily withdraw it for free from Binance. I sent it to Nanex wanting to exchange it for ether to trade it on IDEX (I now know I would have cost the same to simply convert it and send it from Binance). Well, NANO deposits are currently disabled on all exchanges, so I guess I'm a NANO holder now.
+1	1523875606	7	They're working on a fix right now, and posted an explanation on the NANO subreddit
+2	1523876463	3	I know, but I did this last night and it was supposed to be a simple, fast and cheap transfer that I ended up doing in the most complicated way possible.
+3	1523877362	4	It's a temporary issue that is getting fixed, stop panicking
+4	1523877877	5	Where did you get the impression I'm panicking? I know it's temporary, just commented how I messed up. 
+2	1523879819	2	They posted something, I didn't take it as an explanation so much as them vaguely admitting there's an issue.
+0	1523879161	4	I've been playing on Huobi lately due to all the USDT matched coins, a huge range to play with. But man do their fees suck ass. If you want to buy their version of BNB to get a mere 10% discount you have to buy 120 of their HT coins, and then it still doesn't deduct the fee from the HT coin, it rips off a chunk of your purchased coin.
+0	1523891253	3	PPT pump&dump crew is on attack
+1	1523892422	1	RLC?
+0	1523899302	3	What kind of food do you eat while you exchange cryptos?Edit: Okay... So far we have more answers for male and female genitalia than actual foods, c'mon reddit
+1	1523899816	8	Antidepressant 
+1	1523899488	7	Moon Pie
+1	1523899844	4	fingernails 
+1	1523900069	5	Stem cells
+2	1523901691	2	I just eat the entire fetus. You can get a good rate from your local planned parenthood for bulk. 
+1	1523899864	2	frozen pizza
+1	1523899640	1	Scotch
+1	1523899867	1	Chichen nuggets 
+2	1523900218	5	Chechen nuggets
+2	1523900761	1	>nuggetstendies*
+2	1523899974	4	Holy shit. My mom came into my room to bring me a plate of chicken nuggets and I literally screamed at her and hit the plate of chicken nuggets out of her hand. She started yelling and swearing at me and I slammed the door on her. I'm so distressed right now I don't know what to do. I didn't mean to do that to my mom but I'm literally in shock from the results tonight. I feel like I'm going to explode. Why the fucking fuck is he losing? This can't be happening. I'm having a fucking breakdown. I don't want to believe the world is so corrupt. I want a future to believe in. I want Bernie to be president and fix this broken country. I cannot fucking deal with this right now. It wasn't supposed to be like this, I thought he was polling well in Kentucky???? This is so fucked.
+1	1523900063	1	To broke to afford food. Edit ... BTC back at 8K can afford food now.
+1	1523900201	1	Fiat
+0	1523893334	9	What happens when there is no partnership announcement for Verge tomorrow? Or it's some shitty underwhelming announcement? Do you think those idiots will actually bail? I don't. 
+1	1523893417	13	My prediction: Verge up 23% tomorrow.
+2	1523894699	2	That seems to be the pattern
+1	1523894663	4	It's going to tank either way
+1	1523894298	3	It will be like the day bitconnect failed and people were crying they had been "tricked."  They allowed themselves to be tricked and didn't see the reality everyone was screaming at them.
+1	1523894767	3	The majority are expecting Amazon/PayPal/Alibaba/Facebook. A lot of the volume is from traders.Will be the largest "sell the news" event of all time!
+1	1523893586	2	Literally anything can happen but one day it will be watamagonnadoooo for all the heavy bag holders. 
+0	1523899067	7	Well to cheer myself up today I’ve changed my ringtone to “ Hey hey hey wasa wasa wasa ..... “and my message tone to “ mmmm no no no “.My missus has no idea what it’s about and thinks I’m fuckin insane.
+1	1523899697	8	“My WIFE still doesn’t believe in me!”
+2	1523901781	4	Everyone knows the solution to that. Throw $10K on the table no?
+2	1523900342	3	Mine didn’t before crypto 
+0	1523895056	9	I'm curious to know why people complain about NANO and the exchange issues when they overlook the fact it'll happen to others when they eventually move from an ERC20 token. For example the ICX team claim it's the exchanges fault as to why they haven't done their token swap yet. They  are on record as saying it could take another 3 months (despite initially saying it would happen on Jan 26th). People need to realise that these issues will happen once the coins improve and move on from erc20 status (or implement different tech like NANO). At the moment that's all this space seems to care about (new exchange listings) and the ability to trade the tech. Confusing given i thought adoption and an actual product was  the end game here?!
+1	1523895791	8	I consider it a red flag for any crypto team that can't even figure out how to transition from an ERC20 to their own token.  It reveals how clueless and weak the teams are and how all of this has basically just been riding on the genius of Ethereum the whole time.
+2	1523896605	3	It definitely will be an issue in the future when so many erc20 projects want to eventually become their own token and justify why it's worthwhile to have their own token/coin in the first place. The problem will also be that the crypto space will get angry because they potentially won't be able to trade it once the change occurs and the exchange works wth them - they see it as FUD as opposed to advancement of their tech and hopefully their own independence. 
+2	1523895846	5	But that’s not Nano though is it?
+2	1523898472	2	almost like they should have planned WAY ahead, but since people prefer partnerships and exchange listings thats what you get. Not just Nano but many other coins 
+0	1523868818	11	Just question: why should we listen fucking governments/countries etc. if Bitcoin was created to fuck up existent economic system? You need realize that Bitcoin is a really threat for them. They will do everything to restrict it when Bitcoin become a really huge. We don't give a fuck about China/Japan/Korea FUD anymore. Buy more, hold more and you'll see...
+1	1523871421	15	i read this is mario and luigi voice
+2	1523875555	1	Best comment here.
+1	1523870328	3	I think their government wants to fully regulate the crypto market which is contrary to the nature of this market which is decentralization and liberty in the financial transactions. Maybe banks are behind this because most of the people now are putting their money in cryptocurrency rather deposit it in their banks 
+1	1523868950	7	It's a sad day when you feel that governments are not working for what people want. But what the government wants. And that you feel that you can't affect or change the government and policies in your own country.Nothing new I know but still sad to see. But glad that it means many of us or if not all of us can do something about it at least.
+2	1523869534	1	> It's a sad day when you feel that governments are not working for what people want. But what the government wants.We're you born yesterday? This isn't a new thing. 
+3	1523877620	2	Haha I even said this is "Nothing new I know but still sad to see" wtf?
+0	1523877415	6	Whats going on with ICX?
+1	1523877893	5	It’s going up 
+1	1523877657	7	its pumping
+2	1523877965	3	reason?
+3	1523878053	8	theres none.its crypto, nothing follows reason
+0	1523884605	5	Hopefully the bull flag is just flapping
+1	1523884963	9	I'm sure we will get minor corrections if we truly are in a bull season.  We went up almost 1.5k in a few days.  If it stops soon and then we start increasing again, I'll feel much more safe that we are indeed out of the woods.
+2	1523887962	2	That was no gradual increase though, mostly due to just one massive pump, probably initiated to liquidate all those shorts. Hold your horses.
+0	1523878206	3	A question on DEXs. Can someone explain why the UI for a DEX (eg: IDEX) is not as pretty/ user-friendly as the UI for a CEX (eg: Binance)?     From a technical perspective, I assume there limitations, but I’d like to know what these are? In principle, what is stopping a DEX like IDEX being as user-friendly as Binance?
+1	1523878296	2	I assume the budget needed for a UI proven by usertesting etc etc.
+0	1523896287	3	Someone just transfered 6610 BTC to Huobi. Strap in boys.https://blockchain.info/nl/tx/e49ea517ab27921fde2b18423938e0655a4f0cd41812f9c882d0112cba6193e1
+1	1523896470	3	Those bitcoins are coming from their coldwallet. https://bitinfocharts.com/bitcoin/address/3Cbq7aT1tY8kMxWLbitaG7yT6bPbKChq64
+0	1523897733	3	shill me on money 
+1	1523898039	3	Money can be exchanged for goods and services
+2	1523898140	9	sounds like a scam :/
+1	1523899089	3	We give it an arbitrary value that we can compare the value of other goods and services to so we don't have to barter everything. Because the value of money doesn't change, we can just set how much everything is worth in money and not worry about paying too much or too little.It really helped me with my business since it is hard to make enough shoes to equal an entire cow when the farmer wants shoes. Joe down at the bank, a place we can store our monies, has promised to keep a log of everyone's money and protect it from harm for us. He'll even let us borrow money if we give him back a little extra. Nobody knows where he gets the monies from or how many there are, but we all trust Joe to keep our money safe. 
+1	1523900000	2	Lots of adoption and advisory from elected government officials under the guise of taxpayer interests 
+1	1523897968	2	munni gud
+0	1523886266	9	Bears.Beats.Battlestar Galactica.One of the above is still relevant here.
+1	1523887232	6	False. Black Bear.
+0	1523877654	15	I don’t understand the point of view of people shitting on Nano. Tech is solid, their team is always delivering being transparent about communication. Having some bugs or errors to solve occurs to any projects. Bitgrail hack? Orchestrated by a shithole. If you have found the perfect project with no issue, then tell me. Probably your XVG and TRX bags fucked up your brains.
+1	1523877970	9	Because most people on this sub are only interested in price swings, and not the technology behind it.
+1	1523877981	12	I don't think anyone should shit on anyone's coins unless evidence of **seriously** shady activity comes out. Tron has a working testnet and an upcoming mainnet. They've got a good protocol for deciding future direction of projects via super representatives. This enables TRX coins to be burned.  It's a good project. 3 weeks ago I was ready to cut my losses and dump. Now I've bought more.  TBH I wouldn't keep up to date with TRON if I didn't have any, so it's going to sound very shilly of me. Verge is obviously a scam. There are multiple corroborating sets of evidence which show that the creator is setting up an exit scam.  Tron, yeah the website is shit and the whitepaper has been lifted from elsewhere, but hey, the project is good. Don't forget Microsoft stole the idea for a GUI from Apple.. Or was it the other way round.
+2	1523878168	5	Your point on TRON is fair enough, we will see then.
+3	1523881596	2	Yeah, seriously I was ready to just cut it and cash out but hey, they put their money where their mouth is and released a functioning testnet so hey ho I'll hold on a little longer. Really hoping it increases to 10c again.
+1	1523879448	9	Doesnt matter which coin you have or which coin you believe in the most. If its not exaclty the same as everybody else coins you will get hate. Really thats the mentality of this sub. You cant please everyone so you do you and i do me. Want to invest ni Verge or Tron? Sure go ahead i dont give a fuck. You shouldnt base your investment strategy on the opinions of retarded redditors who have invested 100-200 dollars. Be smarter
+0	1523875033	5	Buy ICX on Bithumb for $2.53, sell on UPbit for $2.84rinse repeat
+1	1523875202	1	[deleted]
+2	1523875232	2	Sell on binance then for $2.82
+1	1523875806	1	but you can't withdraw icx on bithumb
+1	1523884372	1	How is it possible to do that?
+0	1523877013	6	Mt WIIIFE STILL DOESN'T BELIEVE MEEEEE"DAS A SCAM!"
+1	1523877260	4	WHADAMIGONNADO?
+0	1523900596	6	Q.     Wassa wassa wassa wassa  uppppppA.     Bitcoin
+0	1523893433	7	I've been on vacation out of the country for the past week and I missed you MOFOs.
+1	1523894360	8	you didn't miss the FOMO?
+2	1523894632	5	The FOMO never left.
+0	1523896554	6	Samsung came out and said they will be using blockchain tech .. there was a guy on YouTube a couple weeks ago that hinted at a partnership with icon. No confirmation but that would be pretty crazy if they went with icon .
+1	1523897331	5	I thought it was Samsung securities, not the entirety of Samsung?
+2	1523897634	5	The loop (owners of icon) have a partnership with Samsung securities already from what I understand.
+3	1523898327	3	Exactly. This is the outcome and people keep rehashing the news. It creates bag  holders. Samsung mention blockchain again and people get hopeful because they remember that slight ICX link again. 
+2	1523897466	3	That's what I hear through the grapevine too. We'll see. People seem to solely affliate Samsung with tv/phones. They do lots of other things. Could be a partnership like Alibaba cloud instead of Alibaba.
+1	1523896921	3	You mean Peter Saddington? I like peter, I don't agree with all of his points but didn't he interview Min Kim, CEO of ICON? 
+1	1523896956	2	This has been a rumour since December. All because an advisor worked with samsunng pay once upon a time and one on ICX's projects works with a branch of samsung. Samsung is a huge company and obviously has all sorts of arms including an investment area (think of grants designed to "help" new tech aka looks good from a PR perspective). People should not jump to conclusions because it isn't samsung media and entertainment. Those that do get their hopes up and  get angry when the truth comes out (similar to the VEN BMW news). Adoption will come in time but jumping at shadows only hurts short term.  
+0	1523864565	5	Is AION worth investing?
+1	1523864771	6	definitely
+1	1523864766	2	been solid for me
+0	1523866836	5	I think its gonna be a good day
+0	1523875641	3	Thoughts on ICX?
+0	1523888910	4	Is there something going on with ICX?  Lots of movement all of a sudden. 
+1	1523894751	2	Sent out airdrop emails, so probably token swap soon.
+1	1523891170	3	Samsung partnership probability
+0	1523889643	5	feelsbadman when you scroll through old pictures in a group chat and see you sold WTC at $1.20 after buying in around $0.80 (before the China FUD dip)HODL
+1	1523892937	1	Sure there are people who talked about selling at $50 only to watch their money disappear over the next few months of the bear market. Im a Hodl but sometimes the signs are there to sell and take some profit. Learning TA so that I can avoid these major corrections.Get what your saying though, it can always outperform your expectations and make you regret selling something so cheap. 
+0	1523876227	7	BAT passed WTC. Good product with teams with nose to the grindstone > hypemachine shitcoins.
+1	1523876794	8	That's the world I want to live in. Working product over hyped vaporware. 
+0	1523865064	9	Mods - can we keep an eye on all these Verge posts please?I'm not asking for censorship, but at this time getting the facts right is really important as there's a lot of people out there who could possibly be about to lose money.Please note that I have never held any Verge but I think people finding amusement in the situation is very shortsighted - if it turns out to be a scam it's bad news for all of us. The whole market will react badly if it is and all the positive sentiment we're seeing recently will vanish along with it, and every single headline you'll see about Crypto will once again be about how it's a scam.Edit: if this community think's it's serious enough, maybe there should be a stickied thread.
+1	1523865655	4	Mmm.. The world is not the way it used to be 
+2	1523868505	5	Much that once was is lost. For none now live who remember.
+2	1523867155	3	Took me a while to get this and even though it kinda makes me contradict myself I still laughed. I honestly hope it's just an overhyped announcement though, basically anything but a full on scam as at least that way it doesn't do too much harm.
+3	1523867396	3	Haha yeah, i hope its nothing major. We need positivity in the crypto space
+2	1523866238	4	Mmmm mmmm, nonono.  
+1	1523867234	3	If its a scam, the market will take a momentary hit that might last a while! 
+1	1523866816	5	I agree that we need to watch out for cyrpto as a whole, but I can't have sympathy for anyone who still owns Verge at this point. The signs are extremely clear, and any losses are on them 100%.This is like putting your life savings onto a single number at roulette, but instead of getting 35/1 odds, you're getting 2/1 odds. It's not just a stupid risk for a small chance of winning, because even if you do win the payout isn't going to be anywhere near what it should be.A huge partnership might see a 50% increase and that's being extremely generous, whereas no partnership will tank the price to close to zero.
+2	1523867683	5	Just mentioned on another reply that I'm hoping it's just a weak announcement - as long as it's not an out and out scam that looks bad for the whole space.
+0	1523879430	2	So we could expect some news about Binance chain soon?
+0	1523884073	2	Nimiq's web miner is broken, devs not responding...that was the whole point of the coin.
+1	1523885162	1	I owned some NET early days but sold. Is the project a lost cause now?
+2	1523887440	1	The whole point of the coin was browser-based mining - anyone, anywhere could hop in and contribute.It's been 12+ hours, a browser mining pool was implemented last night, and nada. Not a single satoshi. 
+0	1523888664	2	https://www.strawpoll.me/15514753
+1	1523888709	3	Is this a joke? Only one obvious option and the rest going to be completely wrong?
+1	1523888861	1	5 trillion
+0	1523901971	2	Devs, do binance or bittrex have test systems for their api so you can test code (say to buy ETH or something) without having to actually execute the command? 
+0	1523862976	3	Sounds like Tether Bros/Gals have never heard of stop loss. Which is weird as hell. 
+1	1523867994	4	No it actually makes perfect sense if you think about it. Tether bros probably consist of a lot of new investors.  That’s why they tethered down at the bottom anyway. :D
+0	1523876290	4	Hope this isn't forming another Bart head...
+1	1523877114	2	The slight increase in volume might be a good sign?
+0	1523897798	5	XVG is currently winning in a poll for best privacy coin of 2018. and its leading by a lot. 
+1	1523898911	10	it must be opposite day
+1	1523898675	6	Those donation funds sure can buy a lot of clicks! It's part of their new marketing push!
+1	1523898370	2	let's see that poll again when 2018 actually ends
+0	1523900344	4	Cardano: MOON LANDING IMMINENT 
+0	1523866259	6	NEO making moves
+1	1523867363	14	yeah a whole 2,46% up in 24 hours. very bullish!
+0	1523859577	5	IAN BALLINA JUST GOT HACKED!!!!EDIT: https://etherscan.io/address/0x2b353bff3b33dc8314e7757cb3d7415016044c98#tokentxnshttps://etherscan.io/address/0x20f2ce82c28b726930a9b476503df7b814335642#tokentxnshttps://etherscan.io/address/0x518880545a0182f77be334790af35bfdcca9c239#tokentxns
+1	1523862907	4	Showing an etherscan link with no context isn't really making things clear
+1	1523862429	3	how do you know
+1	1523867575	3	OMG! Classic Ian Ballina! .......wait who is Ian Baliiba?
+1	1523861074	2	Wuuttt for real?
+0	1523860798	5	bounce 8000 worry no ok
+1	1523861336	4	bounce ni ma no worry ok
+0	1523859994	3	Would be very interesting to see the correlation between Dow Jones and Cryptocurrency market cap. Since the past few weeks, every time stock markets have done well, crypto has done well.
+1	1523860713	7	Make a graph!
+0	1523884599	3	https://www.reddit.com/r/CryptoCurrency/comments/8cmuro/this_is_hands_down_the_most_hilarious_ico_ever/Obvious shilling thread is obvious.Trying to be the next dogeCoin so hard.
+0	1523902155	3	So it's the 16th and I haven't seen an announcement from verge? I know the partnership announcement is tomorrow, but the dev promised something would be announced today as well... Looks like he forgot? 
+1	1523902455	5	Probably the SEC fraud devision.
+0	1523872122	4	Anyone know why ICX is still pumping?
+1	1523872465	15	Does anyone know why anything pumps anymore? Seems to be no rhyme or reason. One pumps today, another pumps tomorrow. It's definitely not from news. We're still waiting on the token swap.
+2	1523879143	1	Is there a deadline for swapping tokens?
+3	1523895578	1	Was supposed to be Q4 2017. Then will main met on Jan 26th. Then "sometime in March". Now "in the next few months it's the exchanges fault"
+0	1523886467	4	I try to keep holdings of most of the top 20 coins on cmc, and I try to rebalance my portfolio at the start of each month and re-allocate gains accordingly. Although I am not day trading I still fear that by the end of the year I will have a sizable amount of transactions, each of which it seems will be taxable. What options do I have to keep an approximate record of what I will likely owe by the end of the year in taxes? I read about the guy who owes 50k and doesn’t have the assets or gains to cover what the IRS is demanding and the idea of that freaks me the hell out. Thoughts?
+1	1523887455	3	Make an unverified account on Binance, which is going to be located in Malta.The whole thing is nebulous anyway.-https://steemit.com/tax/@lpfaust/us-tax-considerations-crypto-to-crypto-trades-trading-bitcoin-and-altcoins>Does the Trade of Convertible Digital Currencies Fall Under §1031 Like-Kind Property Exchange Rules?Bitcoin Digital Bridge.jpgIt is an excellent question with no clear answer because no guidance has been issued by the Internal Revenue Service on this subject, and a host of others regarding convertible digital currency. On at least three separate occasions the IRS has been asked for guidance on this topic:>On December 31, 2013, the Taxpayer Advocate in its National Taxpayer Advocate 2013 Annual Report to Congress spoke to the lack of IRS guidance as it pertained to the regulations surrounding convertible digital currencies.>The American Institute of Certified Public Accountants seems to feel that there could be some grounds to claim a like-kind exchange of property capital gains tax deferral when trading convertible digital currencies, and on June 10, 2016, has asked the IRS for guidance in AICPA Comments on Notice 2014 – 21 Virtual Currency Guidance>On September 21, 2016, The Treasury Inspector General for Tax Administration (TIGTA) released a scathing report to Congress outlining some key areas the Internal Revenue Service is failing to enforce taxpayer compliance and clarify regulations around digital currencies. In TIGTA's report As the Use of Virtual Currencies in Taxable Transactions Becomes More Common, Additional Actions Are Needed to Ensure Taxpayer Compliance one section of this report is devoted specifically to the lack of guidance provided by the Internal Revenue Service to both Tax Professionals and Taxpayers at large on a number of issues surrounding tax compliance and digital currencies.>As of the time of this writing, no new guidance has been issued. In fact, after TIGTA’s report and public hearing in Congress, the only action taken by the Internal Revenue Service on the matter of convertible digital currencies was to subpoena all user information from Coinbase in a blanket “John Doe” summons.>The takeaway from this lack of guidance leaves a ton of risk in the lap of the taxpayer.>While it would seem logical that Section 1031 would apply to a trade of cryptocurrencies (as they are deemed capital assets), this treatment cannot be confirmed without specific Federal and State guidance on the question of whether one cryptocurrency is like-kind with another. Since no guidance on this subject currently exists, 1031 exchanges of differing types of cryptocurrency, while not outright prohibited, is not guaranteed to be a tax-free exchange.>**A more conservative taxpayer would calculate the capital gain on every trade. They would report out the capital gains (or losses) and pay out any capital gains tax in the year the trades were made.**>**A less conservative taxpayer may choose to treat the trades as §1031 Like-Kind Property Exchanges, calculate and defer the capital gains from each trade, then report out and remit all deferred tax due when they trade out into fiat. The risk with this strategy is the Internal Revenue Service could issue guidance at a later date, which excludes convertible digital currencies as like-kind property exchanges, and the taxpayer will need to amend prior period returns and face fines and penalties associated with failing to file and remit taxes due in those prior years.**
+1	1523887270	3	Be a man and start a spreadsheet. If you're going to do short-term investments, be responsible for recording your trades when you do them. This should be your personal law. If you are willing to make a trade you must be willing to record it. You should be doing it anyway if you are serious about managing your bottom line. 
+1	1523893938	1	You gotta do the math, but imo re-balancing every month is reallly bad if you want to pay taxes. Especially when most coins move the same anyways.
+0	1523890226	3	Anybody want to offer up some logically sound, and technically/economically informed reasons to reject BCH? Please, no parroting nonsense - e.g. spare me shit like "Ver! Jihan! BCash!" 
+1	1523890398	6	Why do we even need another Bitcoin? 
+2	1523890500	2	Because the current one is fucking shite
+1	1523890704	2	BCH is closer to what Satoshi described but it still has 10 minute blocks, compared to seconds for things like ETH and XLM.  I'm not sure we need either BTC or BCH in the future compared to newer technology.  BTC may stick around a while due to the stranglehold it has on the market and whale manipulation, but I think that will eventually go away.  Where does that leave BCH?  Lots of people would have to start using it for transactions and that doesn't seem to be occurring.
+2	1523891035	1	Are you familiar with [0-conf transactions](https://bitcointalk.org/index.php?topic=423.msg3819#msg3819)?Those don't require 10-minute blocks, but rather allow for near instant payments in a vast majority of use cases (unless you're buying a house or a car, for example).
+3	1523892164	2	Yes I am, but is any major merchant using it and accepting 0-confirmation transactions yet?  Why would they choose using those vs. XLM or ETH transactions which are actually confirmed in seconds?
+4	1523892992	1	Because ETH is a platform rather than a dedicated currency? What happens when something like cryptokitties brings the ETH network to its knees? So much for your quick confirmations. Thus I reckon the future will have a place for both platforms and dedicated currencies.There's also effectively no difference between fast confirmation transactions, and 0-conf transactions - they accomplish the same thing with comparable security, but 0-conf may be more reliable in certain situations (e.g. cryptokitties)Also, where can I spend XLM right now? Or ETH, for that matter?
+0	1523903477	2	HODL!!!
+1	1523903854	1	good bot
+0	1523894874	3	I'm new to crypto, what should I FOMO into to quickly catch up to all your losses?
+1	1523896995	2	XVG. You will be rekt by this time tomorrow.
+1	1523895348	2	100% USDT
+1	1523895582	1	The market losses or your own losses?Anyways, no. Find a stable altcoin in the top 20 with a reasonable market cap that is undervalued and will surely go up a bit and hold there until the market resettles.Don't just dive into a coin that is up a ton because people will take profits shortly and you lose a ton of money and have to wait months possibly for the coin to recover.
+0	1523859513	4	What an epic bart formation we just witnessed.This bear is not dead yet, could take a lot longer.
+1	1523867606	5	When did using the term bart become a thing?
+0	1523865973	2	Why is everyone pegging May to be a big month? 
+1	1523866039	14	Because February, March and April weren't 
+2	1523866506	8	April works so far 
+3	1523866731	3	Yeah sorry thought we were in may somehow...
+1	1523866097	10	Because momentum is picking up right now. 
+1	1523866022	5	Past Trend in history and greed. 
+2	1523876666	1	You misspelled common sense
+1	1523866135	3	also the looming threat of taxes will be over for another year.
+1	1523881581	1	Consensus 2018
+0	1523866927	2	Ian Balina got hacked then? Becoming a trend of high profile streamers getting targeted - never understand why they don't use hardware wallets?!
+1	1523867209	3	I bet he's gonna pull a verge and ask for donations
+0	1523886302	2	I'm actually gaining in sats, what dump? :)
+0	1523887613	2	hearing some NANO fud, what happened?
+0	1523889669	2	Is it a good time to get in right now?
+1	1523889899	3	Short term, the answer is no. You'll either make or lose a lot by getting in right now, but either way it's a very precarious time and our current BTC 8K is built on a weak base.
+2	1523890699	5	Idk why you are getting downvoted 
+3	1523893401	2	No one around here wants to here anything but 'bullish for the short term, bulls are back.'
+3	1523890765	5	Because he has no real substance behind his answer besides buzzwords
+0	1523891278	2	On reddit i dont really frequent any altcoin subs but i do follow quite a lot of people on twitter.The general view that I've seen is btc accumulation (mostly sideways action) until mid may/june followed by a btc bull.The btc accumulation should prompt an alt cycle so i've been slowly entering, setting stops and targets.Then i realised, why the fuck set targets? the highs should depend on length of the cycle (last summer cycle was longer than winter and we had higher peaks) and the length of the cycle depends on how long btc accumulates.so, instead of setting altcoin targets, shouldnt i just look at how btc is doing in the accumulation?
+0	1523896294	2	We couldn't hold onto that increased volume from last week, bummer
+0	1523899043	2	peoples thoughts please: I am thinking of selling off a bunch of stuff to BTC \- to actually hold 1 full Bitcoin. Is this a good idea?
+1	1523899219	5	Yes I the stuff you’ve sold goes down in sats. No if it goes up. 
+1	1523899322	4	only if you don't need that "stuff"... 
+2	1523899692	2	the only thing I need is more $ to buy more stuff
+3	1523900043	2	If people want to buy your old shit on craiglist and you're not gonna use it, hey why not?
+0	1523892251	3	Hey people!My friend and I started a podcast about the shitshow that is Crypto, and we would love some feedback on it. If you have some time, it's at https://soundcloud.com/greenvisorguys/episode-1 I start it off by saying "What the actual fuck is going on" if that gives you any indication on what it might be like! Keep Hodling!
+1	1523893145	6	Teenagers-only?
+2	1523893191	2	Nope! Anyone and everyone!
+1	1523893630	2	Why the downvotes?  Better a bunch of guys chewing he fat saying crypto is the wild west and they don't know what the fuck is going on than "experts" with no clue shilling scams as good investments.
+2	1523893727	2	Thanks man! I think that’s our point, is that the craziness and unpredictability is what makes crypto the thing we love!
+0	1523897466	2	Can someone tell me why I would use crypto over my credit card?Lets say I want to buy an item from a store.Option 1, I swipe my credit card. I get 1% cash back immediately as part of rewards program, I get an interest free 30 day loan for the amount, and I have total fraud protection in case the store goes out of business before I get my product in which case I'm fully refunded or if the product isn't as sold and the store won't refund me.Option 2, I use cyrpto. I get no fraud protection, no cash back, and my money is gone immediately with no protections in place in case of fraud or bankruptcies. Not to mention I have to call my accountant to figure out how much tax I'm gonna owe just on the crypto itself.I'm 10x more tech savvy than the rest of the population and I'm choosing my credit card any day of the week. When/how does mass adoption happen?  Whats the selling point of using crypto over my credit card?
+1	1523897884	9	The selling point is the company not you. They pay 1-3% in fees for that transaction to take place an may take 3 days to actually get that money. You could go to walmart and buy something really cheap and walmart may not even see that money due to thr fees in place. If a company can implement something like NANO in the future they can save 1-3% which depending on the company could be a very big number annually. So if a companies adopted that you may have no choice but to move with it. 
+1	1523897885	8	I don’t like the government printing itself money that I have to work for.
+1	1523897662	5	>Option 1, I swipe my credit card. I get 1% cash back immediately as part of rewards program, I get an interest free 30 day loan for the amount, and I have total fraud protection in case the store goes out of business before I get my product in which case I'm fully refunded or if the product isn't as sold and the store won't refund me.What musta  government have done to its own people for them to believe an economy with wages low enough hat everyone has to literally live on debt is a *good thing*.The benefits of crypto are far larger than credit card fees or buyer protection. It's decentralizing money, banking those who cant be banked due to their corrupt govts. rework your whole idea of civilization, not some petty dollars on payments you have to send your mum.Plus it's better by your own parameters too. i save upto 5% on purchases through crypto compared to paypal. dont even ask me about credit card, as cross country payments will take a quarter of my earnings if done through credit cards.Wanna know how crypto is better? ask the ones using it. 
+1	1523900079	4	How do you feel about constant privacy and data breaches, identity theft,  giving everyone your credit card number and the fact that your dollars lose value every year since they are an inflationary currency?
+2	1523900471	2	Yeah I feel much safer with bitcoin where anyone can see how much $$ I have and where I am spending my money at all times./sholding fiat is not meant to used as a savings intstrument, rather it is made to be circulated,  and the nature of fiat obviously makes it an inflationary currency, but this doesn't mean its a bad thing.If you are holding fiat to save money the only way to do it is by investing. (real estate, stocks, cryptos, etc) which is why keeping money under your mattress is pretty fucking stupid
+1	1523900831	4	Option 1. Data ownership and pseudoanonymity. You purchase membership to an adult site, you don't need to link your personal info.Option 2. A payment processor would handle the dispute between merchant and consumer. Also, the reputation of the merchant has greater stake due to a  consumer's inability to chargeback. Example: merchant and consumer could both be linked through coinbase and coinbase helps determine consumer dispute.  Something else to consider. Not all geographical locations have credit card infrastructure. For these places, crypto will be a huge boon. Regarding security, there will be layers of it in place (think retina or facial scans and other biometrics, plus zksnarks, linked to kyc/aml identification), plus smart contract deposit/withdrawal managed by financial institutions. Possibly, some kind of structure can be set in place with multsig keys that can provide greater security as well; consumer keys + plus institution key to fully withraw else limited withdraw amounts. If you tokenize fiat on top of this, possibly insurance similiar to fdic. 
+1	1523897559	3	First, the tax code needs change.
+1	1523899395	2	I don't have the answer. I do have some conjecture about your "option 1". People love to praise all the benefits of credit cards, but credit card companies don't lose money. Your 1% cashback and consumer protections are the marketing budget used to get you to sign up. You will, on average, lose money by having a credit card. 
+0	1523873933	1	Who is that superman Nitin Gaur that supports Credits Blockchain?
+0	1523874198	1	What LTC wallets are the most recommended at the moment? I'm using an exchange but as I understand it's not best to store coins there?
+1	1523874476	10	Get yourself a Ledger Nano.
+2	1523874849	1	Ah I've heard of that. Can I get one in the UK?
+3	1523874937	5	You can probably, but I'd advise  you not to. Get it from the official website: https://www.ledgerwallet.com/, they ship from France.
+4	1523875039	4	I'll look into that. Appreciate your help!
+5	1523884507	1	Yes, it is safer... For a little amount, you have your peace of mind
+4	1523876086	1	I second this guy. I paid a bit more to get it shipped from France (using the official website) to Canada... Peace of mind..
+3	1523878606	1	Yes you can. Not sure on the leadtime atm
+1	1523880319	3	Loafwallet 
+0	1523886253	1	ok what is PPT?
+1	1523886523	14	MS Powerpoint
+2	1523892389	1	Powerpoint. Powerpoint. Powerpoint.
+0	1523887799	1	Curious to hear opinions on most bogus/overinflated/fishy cryptos out there. What are some of the big ones that don't deserve to be?
+1	1523888739	2	Tron, verge, ven, bcash to name a few 
+2	1523889028	7	One of these things is not like the others
+3	1523889582	3	Yeah you’re right, I shouldn’t lump tron in with those other shit coins 
+2	1523888974	1	If you have the time, could I ask why? I struggle to differentiate between the hype and the reality
+3	1523889642	1	There are many nuances, but really just avoid hype. The masses are always wrong.
+1	1523890750	1	any ones that get mentioned in answers will probably end up very good investments (Apart from XVG and shitcoin cash).
+0	1523888863	1	Wait till the end of CNY!!! 

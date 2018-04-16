@@ -1,0 +1,24 @@
+File created at: 1523904196
+Subreddit: BitcoinMarkets
+Submission title: I mined the top comments from every "Daily Discussion" thread on /r/BitcoinMarkets since 2014 & indexed their URL's for easy access. Check it out!
+Submission created utc: 1523828641
+Submission score: 81
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523853424	16	Would be cool to see a graph of the # of comments divided by # of subscribers, along with price action or volume, just to see how well correlated they are. 
+0	1523861412	6	An idea that also always intrigued me was to graph the people posting in the dailies and see when the entered /r/bitcoinmarkets and when/if they left. It would also be interesting to see if they were mostly bearish or bullish. I believe quite some people got rich or broke and don't post here anymore. We tend to only see the people who were right and stay in the game (survivorship bias) but don't get to hear from the traders who lost it all, e.g. bears who made a fortune shorting 2014/2015(Q1&2) but didn't see the recovery coming.
+1	1523861933	1	We lost u/yolotrades because he hit his price target
+0	1523868663	7	    select * from chatdata_reddit_comments where comment like "%1m by 2020%"
+0	1523851380	4	Nice work and good idea. Do you have any conclusions of price sentiment based on the comments and data you have seen so far? 
+0	1523861220	2	I really feel like digging through some of the threads right at bottoms / tops / before 'natural' markets changes, etc. - seems *highly* interesting and also entertaining. Kudos!
+0	1523882286	2	I chose five random users from each of the first two daily threads. In looking through their post history, I was pleasantly surprised to see 8 of the 10 still had crypto related posts in the last six months. Lot of subreddit posters stayed interested in Bitcoin or at least crypto.
+1	1523887145	1	It's been a rough, but exciting set of years. Even those that don't post regularly probably still follow these topics elsewhere. Back then, people on here were fairly into it and there weren't many people who were not passionate about Bitcoin. And that sort of passion is hard to snuff out.
+1	1523888419	1	One cool/fun/interesting thing my data enables is the ability to generate a "leader board" of sorts, by user.For example, check this out: https://imgur.com/a/nmltb
+0	1523884144	2	Hey this is awesome! Nice work. You should consider making the project open source. I'd be curious to see what people can build on top of this.    I reckon a great addition to the dashboard could be to add a check box that automatically concatenates `?sort=top` to the URL strings so you can quickly navigate to the pages sorted by 'top comments'. 
+1	1523887710	2	> I reckon a great addition to the dashboard could be to add a check box that automatically concatenates ?sort=top to the URL strings so you can quickly navigate to the pages sorted by 'top comments'.Great idea! I'll definitely add this to the list of features to implement.Re: open source initiative, that's in the works.Cheers mate.
+2	1523887798	1	Awesome to hear! Keep up the great work. 
+0	1523886812	1	Any plans to also mine all the old pre‐automoderator posts? Back in the day, we used to individually post the daily discussion threads with a title that was usually just the day's date \(and of course we would race each other to post for bragging rights of being the first on here\). It obviously requires a little more messing around since there wasn't a standard naming for each of the daily threads, but it shouldn't be that hard at all to find each one.
+0	1523846422	-1	[removed]
+1	1523848749	4	This lacks excellence.
+1	1523847438	3	Really... this is the only comment?
+0	1523852814	-1	What were the miner fees?

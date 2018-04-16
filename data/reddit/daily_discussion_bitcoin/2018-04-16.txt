@@ -1,0 +1,196 @@
+File created at: 1523904205
+Subreddit: Bitcoin
+Submission title: Daily Discussion, April 16, 2018
+Submission created utc: 1523872856
+Submission score: 43
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523875657	5	Reminder: There will be an AMA later today. It might occur in the announcement thread, but it might also get a fresh thread. Either way, it will be stickied. https://www.reddit.com/r/Bitcoin/comments/8c05vr/hi_rbitcoin_im_emiliano_pagnotta_assistant/
+0	1523882456	5	I actually think it's amazing how well these dumps get absorbed. Really different than a few days/weeks ago.
+0	1523890821	1	We’ve got a pretty clear Batman formation on the GDAX 1-hr charts. Bullish!https://i.imgur.com/TneBUkL.jpg
+1	1523893557	1	nice TA
+0	1523897275	1	Guessed peaks tread:April 10.6kMay 12.2kJune 8.9kJuly 14kAug 8.9kSept 11.6kOct 8.4kNov 20.5kDec 31.7k
+1	1523897443	1	> Dec 31.7kDec 31337
+0	1523872897	3	[what is the truth behind bitcoin?](https://www.reddit.com/r/Bitcoin/comments/8cluke/did_you_ever_asked_yourself_what_bitcoin_is/?st=JG216OGX&sh=5661b50d) 
+0	1523883588	3	Vegeta loading, please wait ...(2%done)
+0	1523881228	5	Dumbing : ) BTC is going back to collect those who missed the bottom :''))))
+0	1523873208	4	**HODL On: In Defense of Bitcoin's Best Investment Strategy**https://www.coindesk.com/bitcoin-in-defense-of-hodlers/Steven Hopkins is chief operating officer and general counsel of Medici Ventures, an Overstock.com subsidiary focused on the advancement of blockchain technology.In 1987's Black Monday stock market crash, Sam Walton, the world's richest man, lost more than half a billion dollars in a few hours.When reached for comment, Walton said, "It's paper anyway. As far as I'm concerned we're focusing totally on the company doing well and taking care of our customers."He didn't care about dollars; he cared about his asset Wal-Mart, and he still owned that.History of the #HODL In bitcoin's volatile and roller coaster past, "HODL" was the meme that bound the cryptocurrency community together. It stood for the proposition that we all believe in the future of bitcoin. It's both funny and insightful.Here is the original post by GameKyuubi on a Bitcoin Talk forum (spelling errors and profanity included):I AM HODLINGI type d that tyitle twice because I knew it was wrong the first time. Still wrong. w/e. GF's out at a lesbian bar, BTC crashing WHY AM I HOLDING? I'LL TELL YOU WHY. It's because I'm a bad trader and I KNOW I'M A BAD TRADER. Yeah you good traders can spot the highs and the lows pit pat piffy wing wong wang just like that and make a millino bucks sure no problem bro. Likewise the weak hands are like OH NO IT'S GOING DOWN I'M GONNA SELL he he he and then they're like OH GOD MY ASSHOLE when the SMART traders who KNOW WHAT THE FUCK THEY'RE DOING buy back in but you know what? I'm not part of that group. When the traders buy back in I'm already part of the market capital so GUESS WHO YOU'RE CHEATING day traders NOT ME~! Those taunt threads saying "OHH YOU SHOULD HAVE SOLD" YEAH NO SHIT. NO SHIT I SHOULD HAVE SOLD. I SHOULD HAVE SOLD MOMENTS BEFORE EVERY SELL AND BOUGHT MOMENTS BEFORE EVERY BUY BUT YOU KNOW WHAT NOT EVERYBODY IS AS COOL AS YOU. You only sell in a bear market if you are a good day trader or an illusioned noob. The people inbetween hold. In a zero-sum game such as this, traders can only take your money if you sell.so i've had some whiskeyactually on the bottle it's spelled whiskyw/esue me(But only if it's payable in BTC)It was not about bitcoin versus bitcoin cash or 1,000 other cryptocurrencies. It was bitcoin vs. the world and we ALL embraced it.It only took 11 minutes for this post to become a meme that became the rallying cry for the entire crypto world. We were all on the same rollercoaster ride and GameKyuubi, in the depths of his frustration, had (sort of) elegantly articulated both what it feels like and the best trading strategy for an asset this volatile.Buy and HODL.The good traders GameKyuubi was wrong about only one thing: There aren't any good traders.There are lots of us who believe we are good traders. But we aren't. Of course, some of the loudest voices on Reddit regularly remind us about how well they time the market. Except when they don't time the market well.A paper published last October by the Haas School of Business at UC Berkeley entitled "Do Day Traders Rationally Learn About Their Ability?" used nearly 15 years of stock market day trading data to conclude that all day traders are irrational, the vast majority of day traders lose money, and even when day traders are successful, they "irrationally attribute success disproportionately to their ability rather than luck."This sounds exactly like the crypto trader. Any post you see mocking HODL is likely someone who thinks they are really smart because they made money by trading crypto last year.Of course, their success was due to their unique trading ability and not the fact that the entire market rose like a rocket.HODLing works Still, empirically, even in volatile assets like bitcoin, carefully choosing an asset and holding long-term positions has proven to offer the best return.Warren Buffett, the most successful investor of modern times, has often said that he only invests in what he knows. His preferred holding period: forever. With that model, his company, Berkshire Hathaway, has averaged a 19 percent annual return since 1965 which means it has risen more than 1 million percent.Theoretical models that assume participants know when markets will move against them can offer better returns but, in practice, market movements cannot be reliably predicted so even when people like Bernie Madoff try to make us think that they've figured it out, they haven't.Long-term investment in quality assets remains the only reliable investment strategy.Simply put, HODLing works.More possibilities For those not interested in limiting their activity to HODLing, there are two new and useful ideas that have begun bouncing around that really do advance cryptocurrencies: #BUIDL and #SPEDN.BUIDL has been used to help remind us that, in the words of a CypherPunk's Manifesto, "Cypherpunks write code." In order for the blockchain to really be useful and valuable, we need to build stuff on it. Watching the price go up and down either as a trader or a HODLer does nothing to make bitcoin work better.We need to create some of the promised applications that can really change the world. To date, the blockchain community has fallen short in this regard outside of the areas of payments but there are some real wins.Just this weekend, Voatz, a Medici Ventures portfolio company is running party county convention voting in Utah, state convention voting in Michigan and state primary voting for overseas and military voters in West Virginia, all on a blockchain platform.Blockchain voting is a simple application, but it is one that can bring a much-needed security and transparency to elections. And we are doing it now.SPEDN is a nod to the many of us who realize that, for bitcoin to be useful, we need to be able to spend it to buy things. And I mean everything. It really doesn't matter whether it is through second-layer solutions like lightning or forks like bitcoin cash; we need more ways to use cryptocurrencies in real-world transactions.A focus here, rather than complaining about HODLers would be helpful. We need many more merchants to accept cryptocurrency before it becomes useful. Options to spend bitcoin remain severely limited in most areas and this will ultimately limit bitcoin's value.As for me, I will HODL until I can buy useful stuff and SPEDN.HODL on This year has seen intense regulatory pressure on cryptocurrencies and its time we stop pretending that HODL was stupid. It isn't and it wasn't. Anyone who doesn't like the HODL mentality needs to give HODLers something else they can do with their bitcoins.Trading is no solution for intelligent people. What we need are new ways to use cryptocurrency.We need BUIDLers and merchants who will let us be SPEDNers.
+1	1523878538	1	I agree with most of this; however, I do believe it's OK to day trade a very small percentage of total stack, because it can be fun and if you are good at it, you can accumulate more bitcoin.  It's really just gambling though.  Hodling has worked out better for me so far.
+2	1523878914	2	I agree I have a small portion which I use to day trade so I don't really care or fall for Fomo with it. I've made about 2K with it so far.
+0	1523885382	5	This blows. I don’t understand why we have to keep crawling back into the asshole of the bear time and time again. I just wish this fucking bear market would die.
+1	1523885936	4	People are just not interested in Bitcoin right now. Need positive news.
+2	1523886010	2	disagree. There’s plenty of people interested hence the taking of profits.
+1	1523885760	1	It is ending. Just takes time to build a foundation for the next leg up. At the very least we need a trading channel and that requires a series of lows to show us where the support levels are. 
+2	1523885953	2	Yeah, I see your point. But I sure would like to see support at 9.5 instead of the blasted 6.8k. It’s really getting annoying........and I’m whining- bleh!
+0	1523885655	4	all these people suddenly telling everyone else to sell. Sounds like shorts are scared they'll get burned come tomorrow hahaha
+0	1523874654	2	So, what's on the menu for today?
+1	1523884697	2	Shrimp and white wine.
+0	1523896753	1	ever notice how people in this sub only believe in HODLing when
+1	1523896918	1	I think you accidentally
+2	1523897106	1	We are ALL HODLers on this blessed day
+1	1523900428	1	that covefe moment.
+1	1523897866	1	bobbytabl3s, did you forget to sanitize your inputs again?
+2	1523898320	1	mom?
+1	1523899641	1	No, it's only that certain loud trolls come here, when
+1	1523899845	1	HODL is just a meme
+2	1523903175	1	ever notice how people in this sub always seem to
+0	1523899709	1	[deleted]
+0	1523903718	1	Alot of people were complaining that they needed more time to get I before btc took off again, well now is your time folks. For those worried that btc dropped, even in a bull run there will be bear days, if you can't handle that than you shouldn't be investing your money in anything
+0	1523882569	5	Good morning weak handed American brothers 
+1	1523884548	2	And a good morning to you fine sir. :)
+0	1523883380	2	is dumping just started ??
+0	1523885360	2	Hopefully most were able to make a nice little profit this weekend. Be a whale; now wait out the storm. 
+0	1523885992	3	As long as we don't fall below the $7,800 range (resistance), we should be good. IMHO this drop was due to people taking profits and a correction in BTC price.  
+1	1523887119	6	What the fuck does correction mean anymore? It’s correcting randomly and sporadically.
+2	1523889163	-1	It’s not random when you know what to look for.
+1	1523886541	0	Exactly, if the price really doesn't cross that line, we are still in a bull market. 
+0	1523886484	4	Same shit, different week.  Too predictable.
+1	1523887783	3	It's so predictable now when it already happened
+0	1523887069	4	OMG we have a key reversal :S
+1	1523887234	3	I know look at the number of buy limits compared to sell limits. It looks good. 
+0	1523880806	3	**Come On Bulls, don't throw away the last few days progress!** 
+1	1523881271	-1	Too late. As. I've reiterated many times, there are no support levels.
+0	1523882897	3	Welcome back bears. People starting open up those short positions again 
+0	1523885812	5	Due to popular demand we have decided to extend the sale for a very short time. The happiness of our customers is of utmost importance to us. So we want to give everyone, who might have missed out on this "once in a lifetime" opportunity, the chance to take advantage of these incredibly low prices.But be quick! This sale ends very soon!
+1	1523887147	1	Dude. Shut the fuck up. You’re not a salesman.
+2	1523888467	2	Why so serious?
+3	1523892002	1	Damn he saw right through you bruh.
+2	1523888335	2	Yeah! shut the fuck up DONNIE.
+3	1523888427	1	lol!
+2	1523888674	0	Chill bruz
+0	1523887270	1	I really don't think you'll get another chance to buy below $8k. Risky if you aren't in now.
+1	1523892766	1	Pretty bullish of you. my gut is pointing in the opposite direction.
+1	1523887515	3	Wait until tomorrow, price gonna drop even more because of US taxes.
+2	1523893788	1	Makes sense. Tax filing fatigue might put many people off for days.
+2	1523889350	3	crypto doesn't revolve around the US like everyone thinks it does. Just like futures etc, this will have little impact. 
+2	1523887926	1	Tommorow? I thought today was the last day of taxes
+3	1523888213	2	nope, the 17th 
+4	1523888354	1	[deleted]
+5	1523888717	2	postmarked by tomorrow actually, today is considered a holiday and the 15th was on a weekend. April 17th is tax day for this year 
+6	1523889323	1	Emancipation Day. All hail FREEDOM!
+0	1523887463	4	The bears 🐻 will fail this time. Wrong season. Time to go back into hibernation. 
+1	1523887906	0	No, this last push was like Hitlers last offensive in the Ardennes, but now the panzers are out of fuel and an easy target.
+1	1523888595	0	It looks like the 5m and 15m charts are more important than the 1h when the 6h is on an upswing.  Watching closely now as we hit the bottom of the 5m dip.Edit: some clown downvoting me.  Watch the jump as the moving averages cross on the 5m chart.
+2	1523889903	1	Can you blame them? Who draws conclusions from 5min charts? lul
+3	1523890078	1	It depends on what the other charts are doing.  Lol
+0	1523883012	2	'Double Bart' coming up.
+0	1523884796	2	Long red dongs for breakfast who's eating
+0	1523900221	1	Over 8k again. Nice!  Time to press the pedal to the metal.  Let’s get to 9k this week. Shall we?
+1	1523902101	1	Let the engine rattle.
+1	1523901165	1	Sure, let's do it!
+0	1523880768	1	Perhaps a few last minute sellers due the tax deadline today and last night.  
+1	1523885172	3	Tax deadlines also differ in other coutries. Tax selloffs (if that is what is happining) should continue till month end. But propably in lower volumes.
+0	1523883175	3	well, it was a good run 
+0	1523890852	1	Episode 8 of the best podcast in crypto is out! https://soundcloud.com/cryptoweekly/ep-8-more-malta-magnificence-verge-hack-george-soros-buys-bitcoin
+0	1523895423	1	Do you have to pay taxes after you sell only?
+1	1523895876	1	Depends on which country.In USA, you are also liable for gains when trading between other coins.
+1	1523895812	1	> o you have to pay taxes after you sell only?yes
+0	1523895657	1	Liking the fact that we're holding above $300b, but that trend line could use a serious hammering. If we break it, hot damn spring 2018 will be gravey.
+0	1523897964	1	I dicked around on coinbase for two weeks (early december so i got very lucky) and realized ~$700 in gains. I was fully planning on reporting this in my taxes but finished my taxes with the intention to come back and add this, but didn't realize once submitted I had to wait for my refund and there's a complicated process to amend your taxes.  Is it worth it to go back and report this?
+0	1523898387	1	If you made 100$ in 2017 do you still need to report it? I heard something that less then 20k don’t need to be reported so very confused now 
+1	1523898579	1	I thought it was $600? 
+1	1523900787	1	I think 20K comes from the fact that Coinbase was compelled to turn over to the IRS a list of clients who's transaction's for the year exceeded 20k total.  I think $600 comes from the 1099 filing requirement.  An employer can pay someone up to $600 before he has to file a 1099.The gory details of how much you can make and when you must file a return are [here](https://www.thebalance.com/are-you-required-to-file-a-tax-return-3192868)
+0	1523903708	1	how do you us think bitcoin would react in another banking crisis?
+0	1523904183	1	I want another short squeeze
+0	1523882861	1	I knew it couldn't sustain itself. Very happy.
+1	1523883140	0	fuck off kid 
+2	1523883243	-1	Nah. I'll stick around. :)
+3	1523883543	2	GOTEEM!!
+4	1523886071	2	Nah.
+3	1523885397	2	Unlike your parents
+4	1523886066	1	Nah. They're around.
+1	1523883830	1	Timmeh
+1	1523896588	1	Lol
+0	1523876107	1	Bitcoin will work. Just wait when loan crysis will come and buy everything from people who takes risks. Houses, cars...
+1	1523884639	2	The irony in this statement is painful.
+1	1523894880	1	How will anyone buy a house without taking out debt?
+1	1523877971	1	Sure, there are people who live beyond their means, spending money they don't have using debt.But what has that got to do with BTC?  Oh, you mean there are people out there willing to loan out their BTCs with no interest?  Why don't you loan me yours?
+2	1523880397	-1	They will want to hide some funds there.
+0	1523880250	1	Very happy to see the progress made was lost in a few hours. Go lower.
+0	1523880963	1	Good morning, New York!What are your plans for today?
+1	1523881963	4	New York? Their plans never change. "Fuck over whoever we can to get ahead."
+0	1523883651	1	It was but a nice little pump back to the bottom she goes. 
+0	1523889255	1	Tomorrow is Monthly Manipulators' Day! The 17th.
+1	1523890695	1	que?
+0	1523895858	1	How much of the price of BTC will be due to the value of the dollar going down, Im thinking long term
+0	1523881236	1	It was good while it lasted. We’ll be crawling back into 7k territory.......again. #whitedogshit
+0	1523889228	0	Remember Americans,  you do NOT have to pay taxes due on 2017 crypto trades by April the 17th.   You only have to file a tax return.  The Tax return may declare that you owe the IRS,  but if you don't actually send a check,  the IRS assess a penalty,  and starts charging interest.  And that is perfectly legal on your part AND their part.Ultimately,  you will HAVE to pay all taxes due,  plus any penalties and interest incurred,  or the IRS will f you over.This is important because  if you:* owe taxes on 2017 trades* don't have the fiat to pay* believe strongly your coins will recover soonIt might be a wise thing to HODL,  and pay the penalty and interest.
+1	1523889954	1	None American here so not entirely sure how your tax system works but Im curious. How long can you guys defer the payment for? And whats the penalty/interest like for not paying?
+2	1523890365	1	The late payment penalty is capped at 25%.  It accrues at 0.5% per month on the balance owed.The interest is the Federal Reserve Rate plus 3 points,  so now it is about 3%.You can just pay the interest forever I guess,  if you wanted. 
+2	1523891726	1	Where I live, we can pay by monthly instalment through the year - interest free :)
+1	1523891579	1	Terrible advice. You’re suggesting that they hodl until prices go up and pay the interest fee’s plus what they’ll owe for next tax season. 
+2	1523893073	1	I'll do the math for you:Say you owe $8,000 in taxes for 2017 and have no fiat to pay.Say you have 3 bitcoin valued on tax day at $8,000.Do you sell 1 bitcoin on tax day and pay your tax?Or do you decide 'my bitcoin will double in one month',  so I'll file and NOT pay for a month.In one month my taxes due are now 8000 plus 40 (8000 * 0.5)  plus  20.10 (8040 * (.03/12)) or a total of $8060.10.So bitcoin has doubled in one month,  so I sell 1/2 of a bitcoin to settle up with the IRS,  (I find the $60.10 in the sofa). I saved 1/2 bitcoin for a risk of $60.10,  not bad.All that said,  I personally think this is a terrible risk,  because I don't think bitcoin will go up much at all any time soon.EDIT:  interest compounds daily,  my crude calculation of $20.10 is slightly low.
+3	1523894476	1	> All that said, I personally think this is a terrible riskWhat? You are the guy who gave the advice in the first place. Like: "It might be a wise thing to HODL, and pay the penalty and interest". 
+4	1523894745	1	IF YOU BELIEVE it will go up, it was in the bullet points just before that statement.  I don't know if it will double, I personally don't think it will,  but many firmly believe it could,  and may want to take that risk.  So why not talk about it?edit: punctuation
+1	1523894835	1	Based on what is being presented I've successfully determined you do not work in the financial industry.  
+2	1523895864	1	I've actually spent a lot of time in large financial data centers.  Many years ago I configured some of the first Sun workstations sent to Lehman brothers in early 1990's,  they were being used to develop the first trading bots, derivatives, etc.  I was at State Street Bank in Boston on Oct 27, 1997,  touring the data center,  as we left we passed a trading floor of some kind,  glass walls between me and them.  I watched as they reacted to the mini-flash crash that occurred that day.  10 years prior I lost about $20,000 in the 1987 crash. I'm just a dumb ass posting shit on the Internet.
+3	1523896171	1	> I'm just a dumb ass posting shit on the Internet.Welcome to the club, I'm right there with ya!  Would be super fun to tour a place like that during any sort of tumultuous event (up or down).  Sounds neat!
+4	1523896799	1	It was some kind of international currency arbitrage type operation.  It was maybe 20 guys,  they were totally distracted by a few big screens,  ignoring their little screens on their desks.  Some signs of anxiety,  but, actually I think it just moved the boring meter from 10 down to 7.
+1	1523891646	1	Who the fuck reports to  those cucks?
+0	1523899947	1	The extended "Spring Sale" is over. I hope everyone got a chance to purchase some sub-8k coins.
+1	1523900832	1	Yeah, for sure man. You've been spouting out the same sales pitch day after day, "last chance" "Fire sale". Who knows, maybe next week you'll give the ol' "Mega extended clearance sale! Get them while they're hot! Last chance for sure this time!"
+2	1523903759	1	guys guys, I found a shorter 🤓notice how shorters always seem to pop up when
+2	1523900934	1	Thank you! Fans like you are my biggest motivation!
+3	1523901772	1	To the Moon!!!(in a Lambo.)((with oxygen))
+0	1523876374	0	Quite disappointed to wake up this morning to see that we had got over $8400 only to then come back to around $8100.  Hopefully when the American market gets going properly we can get back to around $8300 or higher.  Cheers. 
+1	1523877842	3	This will be the last week for these sub 9k prices. Buy it up!
+2	1523881380	2	Gee can you tell the future?
+3	1523882791	2	Yes.
+4	1523884604	1	Can confirm.
+2	1523885350	1	it might not even go above 8900 this week.....
+0	1523886649	0	hmmm, price going down, could be people cashing out before tax day (?)
+0	1523890534	1	Hey fellas, its Monday morning so real BTC markets begin now! Beginning a live analysis and trading segment in just a few mins![https://www.youtube.com/watch?v=NfpTPoIOy2k](https://www.youtube.com/watch?v=NfpTPoIOy2k)
+1	1523891576	1	I don't like the way you said "real markets start now" friend. This is an international currency that never sleeps.
+2	1523892199	1	Murica!
+1	1523893553	1	This whole thing about weekend-mondays-fridays-wakingup-sleep just makes me cringe. It's not NASDAQ or NIKKEI that it would close and open at certain times. 
+2	1523902251	1	I've observed a pretty clear timezone bias though. US/NA is generally bullish, EU tends to be bearish, and Asians make the market.
+0	1523884585	-1	**Surely a drop down to $7000 is a great thing?** I know everybody has hopes of going to the moon this month, but if you had Bitcoin before the spike up to $8400, then sold and it falls to $7000 then you have made yourself some lovely profit for the next round! It also means that all the doom and gloom from last week and predictions of $4k bitcoin is now over. The feeling this week is upbeat because it has demonstrated, proven, that there will be a lot more bullruns in 2018. So sell now, let it fall to $7000. Other traders will jump in, FOMO.  Then buy in with an increased position for the real bullrun!
+1	1523894821	1	I am going to get downvotes but I tried tethering up last night right before the huge red candle down from 8.4, and my sat ratio has increased beautifully. I have set stops and just want to say if you see an opportunity to make money, take it. Edit: I have never tethered before this
+2	1523895901	1	You did the right thing as most 'experts' had calculated that it was going to drop - so why sit and wait for it to happen? You're stops mean you can jump back in when the market moves.  
+1	1523885043	4	> It also means that all the doom and gloom from last week and predictions of $4k bitcoin is now over. How exactly does this mean the possibility of $4k bitcoin is over? There have been spikes all the way down from 20k.
+2	1523886468	4	Well, let's assume price reflects popular sentiment. Let us think about the other drops that occurred: Korea bans BTC and price drops. Mt.Gox hacked and price drop again. If you think about it, who really drives the price of BTC. The people. With a fair number of bulls and bears in the market, there is no reason for a drop to 4K. If, however, BTC crosses a certain point of no return then we can start worrying. As we have seen with the double bottom at 6.4K, no such bottom really exist so far. 
+3	1523903202	1	> Well, let's assume price reflects **manipulation & continuous trade washing**. Let us think about the other drops that occurred: Korea bans BTC and price drops. Mt.Gox hacked and price drop again. If you think about it, who really drives the price of BTC. The **bots**. Fixed this for you
+1	1523887694	2	Nobody did that. They were just starting to buy in. If you won’t buy in at $8100 now why the hell would you buy in at $8100 later after a big drop? Makes no sense at all. By that logic you're heading for consistently lower highs is all.
+2	1523903091	1	Well I did that and made myself a nice 13% gain. Now waiting a few hours/days for the next crash to get back in. Rince, repeat.
+1	1523885079	1	I agree. The 4,500 sentiment is nonsense. The trigger event was due to a hack. Without the hack, why would BTC move down and lose 50% of its value? People have to realize that the market is cyclical, meaning even in bull markets, there is oscillation or back and forth movement. It is part of the game.    
+0	1523890709	1	If 7900 doesn’t hold the next supper we going to is 7500-7600
+0	1523883932	0	issa bounce 
+0	1523893940	1	What is the best exchange to use for U.S. citizens that isn’t coinbase? Coinbase will just report all users eventually in time. 
+1	1523895056	1	They all will.
+2	1523897607	1	Why would a foreign government be compelled to report to USA? What if you took a vacation and bought some bitcoin. Just remember 12 words and cross the border. 
+3	1523898828	1	Not a government, but an exchange. Why? Because they will want to continue to operate in the U.S., legally. They already need to do a KYC to do so.Of course, there are ways to obtain Bitcoin anonymously. But they are a bit more complicated. If you want to go through the hassle, try https://bisq.network/ or https://localbitcoins.com/
+4	1523900375	1	Thanks. I’ll check it. My question was, why would a foreign company have to report to irs? There are UK exchanges. They don’t have to report to irs (a foreign agency).  
+5	1523900483	1	They may will have to, if they want to continue to serve customers in the U.S.
+1	1523895238	1	They all will report to the IRS, so just learn from this tax season and pay your taxes, if you don't want to pay taxes on crypto don't invest it.
+2	1523895552	1	"Bitcoin isn't controlled by the government or by anyone" sike... If we still gotta pay taxes to the IRS we still in control. Shiet....
+3	1523899523	1	Bitcoin isn't. Exchanges *are*.
+4	1523899749	1	Oh you're right 
+1	1523894699	1	I hope they do.  Paying taxes is just a part of the game, on all levels.  
+2	1523895655	1	Imagine being this cucked. 
+3	1523895908	1	Ha, fair enough.  I'm pretty conservative in my approach and do not break the rules.  You can certainly make more living on the edge (for a while), so enjoy the fruits of your investments!
+4	1523896274	1	Ha :) I am all for paying taxes if the State is looking out for interests of the native population. However this is clearly not the case in the majority of Western countries.
+5	1523896390	1	To me that's an entirely separate issue.  Never did I say I *want* to pay taxes, or that I feel the use of my tax dollars are well spent.  It's the law, though.  I follow the law to the letter.  
+0	1523895352	1	Given the HUGE expansion of bitcoin in the next 5 years, will we see slow gains, fast gains, and what is the expectation? Is there any fact-based information out there?
+1	1523896224	1	Sorry - nobody knows.  A lot of people pretend to.  Maybe some have a better insight.  But if it was truthfully known, we'd all be rich - and that isn't possible (yet!)For example, I'm a hodler.  If I'd known 19k was the ATH in late December, I could have sold all my BTC, and re-bought at under 6k in Feb, and have 3x as many.But I had no idea what was going to happen.  So I hodled.I've actually lost nothing in BTC terms - except for the 'opportunity cost' of having more.But it was zero risk.I only paid 600 USD for my BTCs when I bought them a few years back - so who's complaining when they are at about 8k each now (and the probability of hitting that ATH easily again - but would I sell then..........)(no.)
+2	1523896649	1	I got a few hundred dollars in and lost a little. I am considering adding to my tiny pot, and work toward owning a single bitcoin, but if I go that route I might get a wallet. $8k is a LOT of money to me.
+0	1523899576	1	Controversial:Does the US president pay his taxes?How many times have Redittors here been made bankrupt like Trump and avoided ended paying honest people for their goods and services?..and yet remained an (alleged) billionaire?
+1	1523900087	1	You are absolutely retarded. 
+1	1523901168	1	The president has hundreds of companies and some have went bankrupt. I can assure you many many many people on Reddit have went bankrupt and avoided paying honest people for there good and services. When a company declares bankruptcy the individual is protected. 
+2	1523901358	1	I was only posing a question, as so many Americans are on here worried about tax returns of a few hundred dollars or less.
+1	1523901327	1	Yep, US president does pay taxes.  He's also not the only US president who has filed Bankruptcy.  Some of our greatest presidents have done this at different points of their life.
+2	1523901402	1	Could you list them?
+3	1523901475	1	Abraham Lincoln, William McKinley, Thomas Jefferson, and Ulysses S. Grant
+4	1523902331	1	Harry S Truman went broke after his presidency and Congress actually started to issue post-presidency pensions because of him.
+5	1523902406	1	Yes!  A really fun read for anybody that doesn't know about this.
+4	1523901695	1	That's going back a long way.  Can you not find someone more recent?  Like, 20th or 21st century?
+5	1523901964	1	McKinley is in the 20th century.
+6	1523902161	1	Picky.  Assassinated in post, second term.  1901.
+7	1523902383	1	Picky?  Okay, that's fine.  Starting to think you're just looking for an argument (which I won't provide).
+8	1523902835	1	Well, you eventually found a president who served throughout the 19th century, but was assassinated in Sept. 1901.My point stands.There is no president of the US in recent history, or living memory, who has been bankrupted.  Not only once, but numerous times.I'll let it go.  But it is a matter of fact and something to consider, because bankruptcies hurt a lot of innocent people.  To emerge unscathed from them may well be legal, but it is hard to see it as moral.
+9	1523903648	1	As far as I can tell this is the first time you've asserted a point.  This conversation started by you asking questions, which were answered at face value.  How was I to know you intended to hide a point within your open question?  
+1	1523901078	1	Who knows?? He wouldn't even release his tax returns!
+2	1523901095	1	Precisely.
+0	1523893999	1	Okay. Paid my taxes. Let’s gooo
+1	1523899460	1	#Listen up everybody! LemosineRidin paid his taxes. You can start to buy now!#
+2	1523900682	1	You are just a troll lol haha
+0	1523883678	-2	Someone desperately trying to convince us that the sell-off wasn't due to tax season... 

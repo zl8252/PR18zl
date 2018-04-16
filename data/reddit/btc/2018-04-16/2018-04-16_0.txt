@@ -1,0 +1,53 @@
+File created at: 1523904150
+Subreddit: btc
+Submission title: I used to use Bitcoin
+Submission created utc: 1523882447
+Submission score: 238
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523892922	21	I've seen a whole series of memes along this line, of generally 'unbanked' folks who could benefit from bitcoin but are ironically meme'ing on the complex bullshit of Lightning.  I failed to save them - anyone have an album of the collection or something? thanks
+1	1523895634	8	Courtesy of John Blocke:https://twitter.com/John_Blocke/status/788794000618565632https://twitter.com/John_Blocke/status/788804574215680000
+1	1523898772	0	So I feel real stupid asking this question, but is that REALLY a legitimate Blockstream add? Or is that a spoof/parody?If the former, that is pathetic and sad. (And a little funny. )If the latter, very funny. 
+2	1523901073	2	latter...
+3	1523901266	2	OK, so I AM stupid. But happier, thanks.
+0	1523897389	13	You used to use a crop tool.
+0	1523894544	10	What's even more impressive is that this image is from [2016](https://twitter.com/John_Blocke/status/788585458150150145), and they nailed it pitch perfect. Tell that to those who try to say, "Give it more time, LN is just working out the initial bugs."
+0	1523889934	15	but it's *supposedly more decentralized this way
+1	1523891125	12	Please don't make fun of Carlos. How good is your Spanish?
+2	1523894148	7	Well played 
+0	1523890681	6	One in four fails? That's a very bad statistic. 
+1	1523897171	5	yeah youre right, it probably is much higher, I mean if I was Roger Ver, I wouldnt have [made a bet](https://www.youtube.com/watch?v=PgjUXi6XXFc) with 75% chance Id have to wear a Blockstream shirt. 
+1	1523894335	14	You know it's true too because the text is on an image.
+2	1523895490	5	Not bad for a prediction from [2016]( https://twitter.com/John_Blocke/status/788585458150150145).
+0	1523890663	3	sad but so true.
+0	1523901753	2	Peter ThielCo-Founder of PayPal“PayPal had these goals of creating a new currency. We failed at that, and we just created a new payment system. I think Bitcoin has succeeded on the level of a new currency, but the payment system is somewhat lacking. It’s very hard to use, and that’s the big challenge on the Bitcoin side.”
+0	1523891705	3	Oh man, this circlejerk again. Can we not have a single day without posting  shit about LN with half-truths?
+1	1523893380	13	Maybe if LN was a viable option then we could. Instead it is heavily centralised and impractical to use.
+2	1523894575	6	Still though. Most posts that appear on my frontpage from /r/btc are about LN. It's pathetic and appears pretty butthurt.I am by no means a LN-shill, but I think we should give it a chance and see how well it works in practice, once there is a stable release
+3	1523894885	8	> I think we should give it a chance and see how well it works in practice, once there is a stable releaseI think that's exactly what has happened.  Turns out, it's even worse than most of us thought it would be.
+4	1523897487	4	We're not even close to a stable release.
+3	1523896284	4	> Most posts that appear on my frontpage from /r/btc are about LN.You must have some extremely strange settings on RES or something similar for that to be happening. I just checked the front page and it shows 3 out of 25 posts, at most, are at least tangentially related to LN. Speaking of half-truths, you couldn't even make to a quarter-truth!**dum-dum...tsss**Thank you, thank you! I'm available for birthday parties and wedding receptions, also.
+4	1523899491	0	I clarify: Many posts that make it to my personal frontpage, that are from /r/btc and that I notice, are about LN.If you sort by top posts of the week, I think too many posts are either about LN or about /r/Bitcoin 
+5	1523900495	1	I still only see 3/25 on the Top of Last Week section, and one of those was just about simple UX being superior and not necessarily the LN. Only 2/25 are related to r\bitcoin. If you simply do not want to see them then filters are available. For me, personally, all of the numbers I'm seeing right now are not an annoyance. 
+3	1523897463	1	The problem isn’t that it needs to be given a chance, it’s that by keeping the block size removes choice. Once crypto adoption proliferates, if you want to use BTC you’ll *have* to use LN
+4	1523899130	2	I agree. Even if LN succeeds, the block size limit is too small. 
+3	1523901075	1	Wait and see is always a good policy. That said it is currently being used and we have now seen that it does not work well, and indeed does force the use of centralised payment hubs for routing to work properly.
+3	1523901108	-1	Pretty funny how often I hear that /r/btc still loves LN, pick one boys you keep bashing it then build something better or stop bitching and accept it will take some time to get easier for gram and gramps to use. 
+1	1523893862	2	Nah it’s funny.
+1	1523893480	2	To be clear, I’m in the wait and see camp but I found this to be pretty funny/amusing.
+2	1523898338	-1	"This completely fabricated story that over-exaggerates the downsides of developing bitcoin technologies is funny and amusing.  Let's all continue to spread this funny bullshit"
+1	1523893417	5	No matter how much you correct and clarify, LN is still an overly complicated solution to an easily solved problem.
+2	1523893789	4	Well then, by all means, certainly don't shut up for a second about it.
+0	1523886609	2	me too
+0	1523888951	2	Yeah, exactly the same boat I'm in
+0	1523897745	2	I used to use Bitcoin, I still do, but I used to too. 
+0	1523900439	1	Needs more border.
+0	1523901176	1	Please no one give them the idea they can register [®] names.
+0	1523902859	1	that's how some people reacted to email back then. just sayin.
+0	1523903506	1	This sub is trying its hardest to become the new r/Bitcoin 
+0	1523904116	1	When no one wants your Coin of choice so you have to bash other coins. That's how this comes off. 
+0	1523894495	1	"I used to be Bitcoin..." :)
+0	1523894168	0	your centralized memes will not DoS the LN, long live the king!
+0	1523894895	-4	You ppl are really retards. This migrant is struggling to feed his family, he doesn't know what a fucking Bitcoin is and yet he gave in depth answer about blokchain technology? Fucking pricks and hipsters
+1	1523895446	13	\*whoosh\*
+2	1523895548	-6	It's not a joke, just look at other posts. *My first hamburger bought with Bitcoin cash* *My first dildo I bought with BTC* thAnkZ bLoKchAiN 

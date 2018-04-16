@@ -1,0 +1,249 @@
+File created at: 1523904174
+Subreddit: CryptoCurrency
+Submission title: IOTA's new website is live!
+Submission created utc: 1523826882
+Submission score: 975
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523826883	1	**IOTA (IOTA) Basic Info:** [Website](https://iota.org/) - r/IOTA - [Abstract](https://www.reddit.com/r/CryptoWikis/wiki/IOTA_basicinfo#wiki_short_description) - [History](https://www.reddit.com/r/CryptoWikis/wiki/IOTA_basicinfo#wiki_history) - [Exchanges](https://www.reddit.com/r/CryptoWikis/wiki/IOTA_basicinfo#wiki_exchanges) - [Wallets](https://www.reddit.com/r/CryptoWikis/wiki/IOTA_basicinfo#wiki_wallets)  **Biases:** [Arguments For](https://www.reddit.com/r/CryptoWikis/wiki/IOTA_pros) & [Arguments Against](https://www.reddit.com/r/CryptoWikis/wiki/IOTA_cons) | **CryptoWikis:** [Policy](https://www.reddit.com/r/CryptoCurrency/wiki/policy#wiki_cryptowikis_program_-_.28work_in_progress.29) - [Contribute Content](https://www.reddit.com/r/CryptoWikis/wiki/contributing)---*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1523828827	129	That's a really well done website, looks sweet.
+1	1523834223	20	Still seems to have some hiccups in the formatting but it looks killer
+2	1523846664	18	Looks sort of cliche to me. I love iota but I wish it went more strait forward than flashy. Unpopular opinion I'm sure. Still glad they got it up. 
+3	1523849116	14	why would you want it looking like a water way?
+0	1523831952	86	Just a small thing, but there is a spelling error here: https://www.iota.org/research/academic-papersIf you scroll down, under the "Equilibria in the Tangle" section, there is the word "selsh" when it should be "selfish"Also, under "On the timestamps in the tangle," there is the word "dicult" when it should be "difficult"
+1	1523834233	37	Eagle eyes!
+1	1523841368	22	While we're pointing out spelling errors, there's one in the data marketplace that's been bugging me. After you purchase a stream, it says:"Your purchase was successfully" 
+2	1523844850	46	Financially independently.  They are just making a homage to Carlos.
+3	1523858544	6	Heyheyhey
+1	1523850779	2	This kinda shit makes me hate publishing new content for the internet to see.Making a youtube video? Well between 14;36 and 14:38 you can hear my wife sneeze. I know IOTA is big time and my stuff is smaller, but people can notice the difference in quality.
+2	1523850991	23	Don't make mistakes if you don't want people to point them out on the internet. You can proofread and edit before publishing anything. Leaving in mistakes comes off as being lazy or unprofessional. 
+3	1523870126	-5	No leaving a mistake might not be lazy or unprofessional. It might be just a mistake. People today are acting like shit - most of the people do not create anything because they think that only perfect content can be published - so majority never creates anything and that is the outcome of what you are saying. Only the best out of best can be publishing ( and that is not true at all - people are unique and should be creative without fear of being hated for their creations and of course current society loves to hate and stops people from even trying. Your approach is most cancerous for our society because even publishing for the first time is way harder than 100th time - so naturally, you gonna make mistakes and dicks like you come and say you fucking lazy and unprofessional (What the fuck this even means on publishing content) ... Think people !!!!! Think and you will come to similar conclusion. 
+4	1523870942	5	Look at the comment I was replying to.  He said "This kinda shit makes me hate publishing new content for the internet to see."  I'm just saying that the only way to not have people correct your mistakes on the internet is to not make any.  That's a fact.  Constructive criticism is not cancerous either.  How can mistakes be fixed if they aren't pointed out?  And it is also a fact that having mistakes in a billion dollar company website is unprofessional.  I was pointing out these mistakes so they can be fixed, not to just shit on the website and make fun of it.How was my comment pointing out spelling mistakes "cancerous"??
+5	1523872440	-2	"Don't make mistakes if you don't want people to point them out on the internet."Making mistakes is human nature - we are not computers. It is okey to make mistakes (especially small ones like typos). If you talk about Iota foundation and pointing typos it is okey if you intend to help but if you add that this is unprofesional and should not be published in a first place that is what i consider cancerous approach. Constructive criticism is okey - but you take it way to far - there are people doing crazy ass mathematician stuff and groundbreaking research and you focus on typos like it is a big deal (cause you can easily understand where typo is). In general sense there is obviously better for people to try and create content even if they suck at it rather than not creating anything in fear of being kicked down. 
+6	1523886644	2	You're being ridiculous. Read my comment pointing out spelling mistakes and seriously tell me it's cancerous. I can't even believe I'm wasting my time arguing with you about this. 
+0	1523829042	55	Haven't looked super closely yet, but what I have seen is so much better than the old site.  Very clean.  
+1	1523862570	1	i like the old site better personally.. o well
+0	1523827155	97	From David Sonstebo - Founder of IOTA:>After some last minute fixes and refinements, we are proud to say that finally we have a brand new website that represents the new direction of IOTA overall and the new epoch we are entering as a community and organization. The idea here is to move more and more away from the typical overhyped cryptohype and more into the realm of real world use cases, as well as being more available to the masses. There are still a few minor bugs, some visual stuff and text that will be added throughout the night and tomorrow, but for now we are happy with putting it online. Give a big thanks to the team, they've been working hard on all of the content and implementation up until this very second.>www.iota.org
+1	1523866935	5	While I am a big iota fan and I am quite happy with the new website, what you quoted is quick ironic considering davids message on slack a few days ago, iirc here is his message:david:> the next 3 months will be the most exciting in the entire history of IOTAand from your quote:> away from the typical overhyped cryptohypeI dont get it why does he make 2 conflicting statements? thanks
+2	1523880708	1	> overhyped cryptohypeHe is talking about cryptohype. IOTA founders have stated that they want to become decoupled from crypto and be more than that... If they succeed we will see. 
+2	1523893302	1	So he can appeal to both the hype-boys and tech-traders alike, duhhhh. 
+2	1523867722	1	IOTA's Slack has been abandoned for almost half a year already.A dedicated person from r/BitcoinPrivate is a big IOTA fan? What an honor to have you :)
+3	1523883040	1	Yes, they moved to Discord like in January...
+3	1523868297	1	Sorry, [here is the link](https://www.reddit.com/r/CryptoCurrency/comments/8cdljd/iota_is_making_a_move/). OP deleted it but you can see the exact quote I referenced from another user. What? Why is it bad to like both BTCP and IOTA? Why are you downvoting me?
+4	1523868630	1	>What an honor to have youWhy did you ask "Why is it bad to like both BTCP and IOTA?" and "Why are you downvoting me?"?>IOTA's Slack has been abandoned for almost half a year already.It's impossible for anyone to have a message on IOTA's Slack "a few days ago"
+5	1523869192	1	Because its pretty obvious you are downvoting me, if not my apologies.> It's impossible for anyone to have a message on IOTA's Slack "a few days ago"Yes, I heard you the first time. Clearly it was either a) an old message that OP assumed was new b) from one of the many other social media platforms david uses.... 
+6	1523869547	1	I said “what an honor to have you”. What leads to your negative assumptions about me?I just wanted to point out the inconsistency in your “slack” remark. I don’t have an opinion:)
+7	1523871315	1	Because there is no significance in the fact that I like both IOTA and BTCP, yet you say its such an honor. Well that doesnt really make sense so I assumed you were being sarcastic.Ok makes sense
+1	1523856940	-19	Literally every use case described on the website could be accomplished with BTC lightning, Ripple, EOS, etc.  I don't understand this whole IoT focus, other than it being marketing hype.  
+2	1523857741	10	[Fujitsu: These are the advantages of IOTA over Blockchain](http://blog.de.ts.fujitsu.com/allgemeines/das-sind-die-vorteile-von-iota-gegenueber-blockchain/)
+2	1523857328	5	Blockchain scaling?
+2	1523858569	4	Clearly you don't have a lot of experience and insight to BTC, Ripple, EOS and IOTA. All of these have their own usecase. And it is more than clear that BTC could never be used for IOT and that IOTA will not become something like Ripple. As you point out that you don't understand the IOT focus then it means you should do some research starting with IOT, blockchain and moving to the DLT space. 
+0	1523828098	64	Looking good so far. Very nice to see they have so many job openings. The project is expanding very quickly. 
+0	1523847676	11	Hey, finally a nice clean site that doesn't consume 100% of my CPU. Nice work team!
+0	1523832285	19	Has some interesting information about IOTA condenensed on a single website, if anyone is unsure what IOTA is or will be about you have a good source to read now.
+0	1523863153	8	Yes! Iota is: -Feeless-Scalable-quantum ressistant-working with leaders from VW, Fujitsu SiemensIs your crypto better?
+1	1523869889	3	Don’t forget Bosch!!!Siemens? Do you have a source for that one?
+2	1523870617	3	Mabye im wrong about siemens?Fujitsu is a parent to siemens i think. In that case they are in with Fujitsu?
+3	1523885490	3	Fujitsu and Siemens had a joint venture, Fujitsu Siemens Computers.  Fujitsu bought out Siemens shares in 2009 and it became Fujitsu Technology Solutions.  Fujitsu Ltd and Siemens AG are still separate companies.
+0	1523842063	6	Nice and clean. Love the FAQ section, answered most of my questions in the simple language. 
+0	1523860721	6	"What is Q?Que?"oh these cheeky little bastards
+0	1523832734	36	Looks great but the function of the site is not really met in the design, to a new comer they should be able to understand exactly what IOTA is and what value it has to the new comer in less than 15 seconds. This is not the case, it seems to use too much jargon and empty space to allow for any easily understandable content.
+1	1523849914	13	I've been studying iota for 4 months and I still have a hard time understanding everything it is, lol. I would be very impressed with anyone who could achieve this in 15 seconds.
+2	1523850551	15	Decentralized free  eco-friendly currency and data for people and connected objects 
+3	1523850732	1	How is that different than any other IOT project though? Nice summary, btw.
+4	1523857119	5	Iota is what they wannabe... 
+4	1523862119	2	from what I know, other IOT like the china ones, are based on blockchain or blockchain and RFID , i'm not convinced this can have the necessary trhoughput. From hat I understand IOTA Theorically scales when you have network activity due to Tangle / DAG tech
+5	1523881932	1	Walton has sub chains that solve the throughput problem, as there can be infinite sub chains. 
+5	1523885494	1	I meant like, for someone who is supposed to understand why Iota is different, how does that summary differentiate IOTA from day, ITC or INT?
+6	1523903287	1	ITC INT = blockchain, IOTA =Tanglehttps://satoshiwatch.com/coins/iota/in-depth/iota-dag-tangle/
+7	1523903340	1	I understand, the question is how do you communicate the difference to someone completely unfamiliar with both. That was the original question that I was responding to.
+1	1523841777	27	Good luck explaining IOTA to a newcomer in less than 15sec...
+1	1523862169	3	IOTA has developed the Tangle, a 3rd generation blockchain, which scales linearly. This way, the tangle is theoretically infinitely scalable, because the more nodes in the network, the more TPS it can handle. There are currently 6 billion IoT devices. by 2025, it is expected that 80 billion IoT devices are connected to the Internet, creating 80 billion or 800 billion transactions per second by communicating with each other, who knows. IOTA is the platform to do that. 
+1	1523842525	2	Take solace in the fact that, at this stage in the game the people interested are generally those who are educated in the area.  Mass adoption hasn’t even begun yet.
+1	1523863720	1	I don't think it has to be the first thing that is seen.If you scroll down a couple of segments on the first page you'll see the 'Get Started' section, which would help out newcomers. I think it is fine to lay out the site like this.
+1	1523870290	1	Do it in 15 secs :D Lol people are you fucking crazy?! Nothing needs to be done in 15 secs that is just PR bullshit. 
+1	1523858710	1	I get your idea, but I think that it is not n a need to describe it to a newcomer in 15sec. People who have interest get the point of iota nicely after doing research. People who don't want to spend more time on it don't have to understood the tech, they might use it in the future at the backend without even knowing it. 
+1	1523863695	1	I don't think it has to be the first thing that is seen.If you scroll down a couple of segments on the first page you'll see the 'Get Started' section, which would help out newcomers. I think it is fine to lay out the site like this.
+0	1523829601	20	Great stuff. 
+0	1523843366	9	I don't intend to hold any IOTA, but I think the website looks nice. Just a FYI you will probably take a hit on your SEO without server-side rendering.
+0	1523844797	4	I’m not gonna lie that is slick and tells me things I didn’t know about IOTA like the data marketplace.
+0	1523871952	3	Sooooooo IOTA to $20???  Or a a new website not the news I'm looking for?
+0	1523849996	3	Website looks superb, great upgrade !
+0	1523831071	9	So my concern with iota is that I'm concerned about the notorious complexity of storage. I keep hearing about people with moderate crypto experience (like myself) making mistakes with the wallets and losing their coinage.  Is there an idiot proof wallet out there?
+1	1523832169	32	The Trinity wallet is on its way in a few weeks. The alpha testers are reporting it's among the very best in the crypto space. 
+2	1523832816	6	thx
+2	1523832999	-4	> The alpha testers are reporting it's among the very best in the crypto space. Really? Most reports I've seen have been pretty critical. What makes it "very best in the crypto space"?
+3	1523836198	17	You're confusing Trinity with the old wallet.  The old wallet works, but nobody will say it's good.
+4	1523842849	7	Thanks, I wasn't aware it's a totally different wallet.
+5	1523842965	9	100% different.  You should be able to find info on it on r/Iota.
+3	1523833334	9	Check the IOTA sub and you’ll see plenty of good reviews on Trinity. Link me one critical report. 
+4	1523842954	9	No need to get so defensive, it's an app you didn't build, I'm not insulting your grandma. I was unaware there was a new wallet, someone else kindly pointed it out to me.
+3	1523833313	-22	A blind cult like following testing it maybee?
+4	1523838093	7	Yes, just like VW, Fujitsu and Bosch and the rest of the brilliant minds joining the IOTA Foundation each week--blind cult following. 
+5	1523843314	-3	As far as I'm aware, none of those organizations are members of the foundation. Some people related to them are, but not on behalf of the companies themselves. 
+6	1523846126	2	On behalf of...  They aren't moonlighting.  Those companies, and some others, are working closely with IOTA and showcasing the tech to others.
+7	1523850322	-3	I don't believe that's true either, certainly not for all the companies you mentioned. 
+8	1523898601	1	http://www.bosch-presse.de/pressportal/de/en/robert-bosch-venture-capital-makes-first-investment-in-distributed-ledger-technology-137411.html
+9	1523901959	1	Thank you, it seems I was wrong on all fronts. And thank you for not being a dick in your reply, unlike some of the others here.
+8	1523852443	1	You're misinformed.
+9	1523855850	0	Then inform me. Show me the announcement from VW, or even an announcement from IOTA, confirming a partnership with VW.I love it how you IOTA cult members downvote anyone questioning anything. It should be pretty simple to show me the truth, so do it. 
+6	1523844722	1	You’re not aware of much, it seems. 
+7	1523850435	0	Thanks for the considered, informative reply. Twat.
+8	1523850885	1	Since you seem to like similes / metaphors: https://www.icoexaminer.com/ico-news/standing-next-to-iota-the-blockchain-is-an-inefficient-imposing-mastodon/
+9	1523855670	-1	Seems you like being a smug asshole. 
+5	1523845546	-10	Almost everyone within the blockchain/cryptocurrency space with a credible opinion has serious reservations about IOTA. None of those organizations mentioned have any expertise within the cryptocurrency space. It's like instead of working with Michael Jordan, and other basketball players, Nike's new basketball shoe was being endorsed by world class fishermen.
+6	1523846291	5	This couldn't be further from the truth.  It's apparent you don't know what these companies do behind the scenes with tech.
+7	1523876433	-1	I was implying their expertise with cryptocurrencies (specifically) is non existent, not technology in general.
+8	1523884449	1	Yes, I know what you were implying.
+1	1523831426	32	Trinity wallet development is almost done. It's pending security audit completion. 
+2	1523832813	4	alright. Is there a notification email signup? Thanks
+3	1523832946	7	There’s a spot on the website to sign up for updates 
+4	1523833152	2	Which site is that?
+5	1523833811	11	wow
+6	1523834087	5	come on man it's 2am where I am. I figured trinity was being developed by a third party. That's a thing that exists!
+7	1523836008	6	It was started by a third party, but they graduated.  IOTA took it in house to develop.  It's easily going to be the best wallet in crypto (not hyping, I really feel that way).Sign up for updates on the bottom right of [their site](https://www.iota.org/).
+7	1523835949	2	should've added a smiley, ty for the laugh, no need to argue.but cmon man, im the random retard and its 2am for me either ;)
+5	1523834082	2	[iota](https://www.iota.org)
+3	1523835145	2	As soon as it's released it'll be announced on /r/cryptocurrency. I guarantee it 😛
+2	1523833063	1	They've been teasing this trinity wallet since August, any word on why it's been delayed but keeps getting teased?
+3	1523833315	7	There is a weekly update every single monday - See here https://np.reddit.com/r/Iota/comments/8aznge/trinity_wallet_update_9th_april/
+3	1523835114	5	[This blog post explains everything very well](https://blog.iota.org/trinity-wallet-march-update-40dcb720976f)
+3	1523836114	2	No they haven't...  It was originally a graduate project and IOTA didn't take it in house until winter.
+0	1523836418	13	From an ENG Investor, I wish the best of luck to IOTA. I know there have been misunderstanding between the two supporters, but I believe IOTA really has a unique usecase and ENG can partner with IOTA in future to provide decentralized privacy.
+1	1523870479	9	I do not believe there is a way after what ENG supporters did to IOTA. AND especially core team from MIT DCI still attacks IOTA while working on ENG - only way would be for ENG To publicly say that MIT DCI are fuckers who just lie. 
+1	1523858789	1	That's what I'm thinking of :) 
+1	1523863203	-4	Heard ENG is really good, can you link me to the website ? Have you heard of Data Broker DAO? 
+0	1523839571	2	Runs better than the old site. 
+0	1523847879	2	Other info is now added to the new website. Good Design and very professional.
+0	1523888870	2	The full  screen nav menu is very slow on desktop. The gray gradient is all messed up too.    background: linear-gradient(180deg,#3f3f3f,#2e2e2e);
+0	1523828636	2	New... Website.... Get me a new fucking walletPlox
+1	1523829795	14	You can follow the developement, if you want to. But it is coming soon^TM
+2	1523836040	1	Hey it'll atleast probably come before rs bank rework
+3	1523863277	1	« Rs bank rework » competitor ? 
+4	1523864137	1	No lol i was just making a joke 
+1	1523830605	10	Trinity development has been progressing steadily
+2	1523833227	2	Since they started teasing it last August?
+3	1523833985	14	Good software takes time, and time spent making sure Trinity will be amazing when released is better than being rushed to meet some arbitrary deadline. I can personally assure you that lots of work is being done behind the scenes. 
+4	1523834146	-3	I'm not sure how you can personally assure me of anything other than your own faith. I'm not saying there's a deadline, I'm pointing out the obvious pattern of irrelevant announcements surrounding the project. 
+5	1523844316	11	Well, for one, I am a developer and beta tester of Trinity, so I can tell you from personal experience that it's coming along gorgeously. Also, I personally find the [regular announcements](https://np.reddit.com/r/Iota/comments/8aznge/trinity_wallet_update_9th_april/) surrounding the project to be, quite frankly, packed chock full of information. 
+6	1523844964	-2	Out of curiosity, what percentage of transactions are confirmed on the first try with this new wallet?
+7	1523848909	7	The wallet has auto promote & reattach, so 100% if that's what you mean. 
+1	1523831168	0	[deleted]
+2	1523831459	-3	Nice try Pajeet!
+0	1523852486	3	Really, they’re still into a lot of secrecy on what they’re doing in terms of projects and **I fail to see the relevance a new site has with the crypto scene**.
+1	1523859645	2	I agree with this, but this is still more content than most posts here on the front page (50% memes, 40% vergeconnect posts). 
+0	1523838008	5	Big IOTA fan here. I thought the new site was meant to be more accessible to the layman, but instead there are the same buzzwords as before just fewer of them. And then one section’s wording runs into the next so you are dangling in linguistics if you do not move forward. I have only spot read the descriptions and details, which honestly feel more technical, voluminous, and less accessible. The layman will not click further in. There were more pretty lights on the previous version, keeping the newbs from exiting. I am not of the opinion that more white space is “clean”. Honestly, it seems kind of played out for a style. Graphic Design-wise I preferred the site from before, which is why I didn’t get deeper to the info as much. I see you have a technical writer position open. I am considering this because I think your website’s presentation and framing could benefit, in terms of the intros and all. Buzzwords are often not understood. Average Joe doesn’t know what the hell permissionless is and why it even matters. Frankly, it sounds like a bad thing to the layman. Great focus on the foundation, but don’t let that take over the project’s core competencies. Let the project drive itself and the foundation support it. Solicit the help of a few members to proofread next time. And remember: the last proofreading is the most important because you are always making changes. 
+0	1523841037	2	Ol' iota. Haven't heard about them since my friend talked me into buying some in December....
+1	1523870153	2	Did you buy?
+0	1523841493	2	Is anyone else having trouble loading the page? I think the site might have gotten overwhelmed by the traffic.
+1	1523843841	1	same
+0	1523829221	-1	To be honest, I don't think it looks as good as I had hoped. I also have some MIOTA but it's buggy and the pictures don't fit into the clean look (at least on the phone). The information on it is great though, understand for the layman.
+1	1523858858	1	Have a look at Discord announcements where David explains the website and the development of it. 
+1	1523830160	1	also the page headers and sub-headers on most pages bleeding outside those boxes kind of stick out like a sore thumb. It was probably a design choice though...
+0	1523850372	1	The part where mars is striked through and it says April for real. I don't know. It's fine for reddit community but for an outsider does not look professional.  But good website update overall 
+0	1523870529	1	On anroid/brave: cookie disclaimer broken when you scroll down. And a bit heavy on mobile data. Autoplay etc. let my shitty phone hang.
+0	1523886841	1	So this is why the price has gone up recently?
+0	1523897934	1	The source code is just Javascript. I wonder how that'll fare for their SEO? Last I heard a JS-only site isn't SEO friendly.
+0	1523844654	0	The new Iota wallet better live up to the hype, because the current version is an unmitigated disaster, and the fact that they have a fancy new website before a functional wallet is extremely suspicious to me. It reeks marketing over substance.Edit: Downvoting legitimate criticism of your favourite cryptocurrency isn't going to help it. Those with critical minds are going to be turned away by that kind of behaviour. Nothing of what I said was untrue or unnecessarily critical; the current wallet *is* a disaster.
+1	1523845001	9	Trinity is just finishing up security audit as we speak. I have been testing Trinity since december in closed  alpha and I can vouche and say it is the best crypto wallet I've used hands down and I've been in the space for a couple years in multiple cryptos. Ledger support will be added in th future as well. CARRIOTA is also coming by summer which will be a complete financial suite and will be alternative to trinity.Trinity: https://blog.iota.org/trinity-wallet-march-update-40dcb720976fCARRIOTA:  www.carriota.com
+2	1523845539	1	> I can vouche and say it is the best crypto wallet I've used hands downBig claims like this also make me more suspicious. I'll reserve judgement until I see it, but you're setting yourself up for a fall with rhetoric like that.
+3	1523845791	5	Well you can try it for yourself in a couple weeks. PM me with your address and I'll be the first to hook you up with some IOTAs.
+4	1523852073	3	please don't give this hot head any iotas. If he doubts great tech taking time, he doesn't deserve your help. Clearly, he hasn't done his research on the closed beta.
+4	1523849034	0	Will do!
+5	1523870136	2	I’ll send one IOTA to you too since it has no fees. Hahaha, just PM your address when Trinity comes out!
+3	1523846563	2	Check out the updates, and I think there are a couple videos of it, too...  It really is a fantastic wallet.
+0	1523833410	2	It's nice. I think some minor tweaks could make it way better. Not a fan of the footer.
+0	1523854024	1	>IOTA's new website is live!IOTA's new website is dead!And we killed it!
+0	1523835720	1	All I see is a blank gray screen.
+0	1523854166	-1	Does IOTA even work?
+1	1523865614	5	pay attention to the hannover messe where 10 major companies will showcase iota
+2	1523877344	1	Cheers I'll check it out. 
+1	1523856754	-4	Are u smarter than all the multi-billion companies actually shilling it? 🤔
+2	1523859100	2	> Are you smarter than a rich shill?lol
+3	1523861627	2	Lol. Rich shills 😍 IOTA but a lot of people testing have lost their hard earned money with dodgy IOTA bugs and flaky network. Peter Todd I think has been quite scathing of the IOTA project. 
+4	1523864640	2	Lost money? You probably mean those peeps who were too lazy to type 81 characters and generated their seeds on that fake website - and got cleared out. Sad, but pure natural selection. Peter Todd. Love the story. But he should once in a while leave his bubble and spend less of his never-ending childhood having adventures on the mythical island of Neverland as the leader of the Lost Boys, interacting with fairies, pirates, mermaids, Native Americans. 
+5	1523877455	0	He's incredibly intelligent, and is very much grounded in the real world.
+0	1523858034	1	So $5 by tomorrow ?
+0	1523827302	-13	Annnnd it's dead. 
+1	1523827394	11	It’s still there but slow. Probably all tangled up
+2	1523827581	29	The more it gets used the faster it will be.... oh wait.
+3	1523833401	2	lol
+1	1523827497	0	It's still work in progress. More information and more refinements are expected to come in the coming days.
+2	1523862911	2	I was talking about the site not loading due to traffic, yet downvoted. Touchy, and I own IOTA.
+2	1523829347	0	then what have they been doing past few months?
+3	1523829494	3	A lot of development in different areas. Did you expect them to focus solely on making a website?
+4	1523830504	8	On the "For Organizations" page, they forgot to put the letter "I" in the word "IOTA". -- Copy mistakes happen, but to be quite honest you would expect that after all this hoopla about this website being worked on by some "leading firm" and that it will blow everyone minds, that such silly typos would have been spotted. The images also scream "cheap stock photo picked out super quick". 
+4	1523830567	4	No but just think its curious that if they release the website they still tell us hey its basically not finished yet
+0	1523847302	-2	This is getting getting crazy! Fix the going coin an wallet first.
+1	1523856837	5	Educate yourself first 😂
+2	1523866854	-2	Typically drone response.Does bch need to be constantly reattached? Of course not.Iota is broken, a new website does nothing.Make a logical point why this is wrong.
+3	1523867343	4	No need to constant reattach, promote most of this is done automatic if ur transaction isnt done in a short period of time.Educate yourself first.
+4	1523870260	1	Sorry to disturb, what is reattaching and promoting?
+5	1523901438	1	Don’t get put off by blockchainers. They usually don’t understand the concept and think “it’s broken”. Or feel their investment being threatened by IOTA. IOTA is based on a DAG where every new transaction confirms two previous ones (thus: no miners, thus: fee-less, thus: nano-payments, thus: industry-darling). The previous to-be-confirmed transactions are selected by a Markoc Chain Monte Carlo random walk (basically: on random). In randomness, not all previous transactions get confirmed immediately of course, because it’s a random selection. To avoid “left behind” transactions, the ones “taking too long to be confirmed” are “reattached” to the tangle (in a different location) and/or “promoted” to the very top/tip of the tangle to improve their chances of being picked up and confirmed. No transaction ever gets lost. It’s in the ledger but, if it happens, is left behind. Any software can promote/reattach “left behind” transactions automatically. It can be set to minutes or seconds until it promotes/reattaches your “left behind to”. The foundation didn’t include this automatic function in their wallet, because IOTA is mostly a machine currency. (Developers for machines are quite capable to include an automatic function in their software). Instead you had to click a button in the case of. For whatever reason, that’s called “broken” by blockchainers. The upcoming wallet will include these automatic functions so it’s a “send and forget” user experience. Edit: a dot
+4	1523893879	0	Wow, thanks! Exactly. It is STILL broken. What a joke.
+0	1523827462	-12	Much wow much worl implemtion much impres
+1	1523828031	-7	Hehe
+0	1523843864	-3	sick, now get a coin thats alive.
+1	1523860455	-1	Lol, probably the most ambitious project in the entire crypto\-sphere, but yeah... it's dead! /s
+0	1523861301	0	We all shill. But you do it like a troll
+0	1523899546	0	Doesn't fix the coordinator. 
+1	1523900398	2	Doesn’t need fixing. Runs perfectly. 
+0	1523857395	-3	How about the network. ^LOL
+1	1523860291	6	What's wrong with the network? Works fine.
+2	1523902919	1	Dyor. 
+0	1523835200	-6	Wow new website, so price should skyrocket +1000% at least in next few days, am i right? /s
+0	1523857710	0	Where's the damn wallet?! I need to buy coffee with it. 😭
+0	1523828475	-25	you know crypto market went to shit when a website is frontpage worthy
+0	1523837960	-5	"I brought a list. I bought into some real promising coins. Some of them even have a working website." "Impressive."
+1	1523846647	3	Read the top post to better understand what this is about.
+2	1523852618	-2	It's just a joke man 😂
+0	1523832913	-18	The only news people want to hear about IOTA is that they've found a reliable way to broadcast transactions on their network, and they're now exploring ways to get rid of the coordinator.Instead, this is the type of exciting news they put out there. New hire announcements (not devs that can fix the core tech, usually hiring corporate types with fancy titles to make the project look legit). Once a month since last August they'll post a teaser screenshot of a new wallet that never seems to be released. Now, there's a thread that they've built a new website, and they're cult like following  gets super excited their team has mastered HTML/CSS. It's embarrassing I even invested last summer, glad I got out when I did. Please downvote this and bury your head in the sand further.
+1	1523833346	13	So... Rolf Werner, the head of Central Europe at Fujitsu, joining the iota foundation. That is just some corporate with a fancy title? Scepticism is warranted in this space, but that was a legit hire.  I do get your point about the coordinator. That will be major breakthrough and give a lot of legitimacy. But don't let it cloud your judgement about IOTA. There is a lot of other news and development that give legitimacy to this project.
+2	1523833985	4	Paying Rolf Werner in no way addresses the main concerns of 90% of objective critics of this project. It's asking when your shoes will have soles put on and your shoe repairman hiring an expert shoebox maker using your deposit before addressing the main concern.
+3	1523834328	10	To each his own. Each and every project has its concerns, even bitcoin still does. The way iota foundation has handled and communicated about the issues with their protocol have given me confidence in their project. I wish you the best of luck in the space. Maybe some day you’ll come around about iota. 
+4	1523834538	8	Even with our different views on this, that statement shows class, and a measured approach. Respect to you.
+1	1523837409	3	How do you people not understand that IOTA has to be bootstrapped in order to take off the coordinator? It's not like the founders want it on. In order to be secure like explained in every document and even the new FAQ section the plan is to remove coo once the tangled has matured.
+0	1523889992	-1	IOTA are very good at websites. Not  sure their blockchain though.
+1	1523895905	2	They don't operate on a blockchain
+0	1523896008	-1	Okay their crappy tangle then...
+0	1523860731	0	This title reminds me. “- Some of them have even working website. - Impressive” https://youtu.be/hG0mscKKD7M
+0	1523852497	-6	> David Sonstebo.. the serial entrepreneur... Holy shit my sides. I think that kinda suggests you did something before collecting money for yet another shitcoin
+0	1523858639	-1	> IOTA ECOSYSTEM - Coming in ~~March~~April > This time for real... It is definitely coming in Aprilhahaha
+0	1523857040	-5	SAdly, this is at the top of my front page.  
+0	1523827064	-77	Great! They have a nice website ! Now only if they  have a fix on the wallet issues and bugs on their code which people lose money on.. cuz it has been like **THREE** times since i saw a website layout change , and **ZERO** development on the *buggy code* and *detangled wallet * . Coming from a project which existed **3 years ago**. Good job guys! This really shows real the **priority** of IOTA foundation .
+1	1523827870	19	They have a large team. There are people working on the wallet. Also the current wallet isn't bad. The only reason people lose their funds is because they generate their seed using malicious online seed generators
+2	1523827957	6	I haven’t kept up with IOTA recently, is there still issues with funds not showing up and having to reattach many times until they do? 
+3	1523828137	7	If you kept up with the original information these questions would have been answered.I mean, reattaching is a *basic* mechanism in IOTA, which if you looked at the technology with any detail, you would know. *But* If you want to see the Confirmed-TPS look here Tanglemonitor.com 
+4	1523828289	5	I know the theory, but I knew that you shouldn’t have to go through a bunch of nodes to find one that says you have funds, it defeats the purpose of a node if they are all out of sync. The theory looked good, was just asking if the implementation has caught up to it yet
+5	1523832777	2	lol at these downvotes. this guy raised a legit issue and i think it's fair play.
+3	1523828117	6	Yes but that isn't funds being lost. The new wallet makes it easier as well, should just be one click
+4	1523834631	2	It's not like people are going to be using these wallets anyway, machines don't care if they can't see a balance they know is there somewhere.
+3	1523829364	1	The long answer is replied to you below. The short answer is : **YES** the reattachment issue is still an issue . 
+2	1523828132	2	If they have to, the wallet is bad. I didn't use it since last July, but back then it was a usability nightmare.
+3	1523828289	10	Well the trinity wallet coming out has an auto seed generator built in
+3	1523857662	-1	If you use admin admin as username and login and an intruder gets into your account, who is to blame? 🤔
+2	1523831322	-14	Thats the problem, they have a **Large Team** but the main focus is developing shit that has nothing to do to improve the protocol or the wallet itself.  Seems to me they devote their attention to **90% **shilling and hyping the shit this includes the frequent change of their website layout**5%** fucking around haters specially David Sonstebo and just being plain unproffesional asshole . **2%** working on the actual protocol itself**1% **pissing other developers of because of how bad the protocol itself is **1% **extra shilling**1% **not really caring about the people whose suppose to use their currency 
+3	1523831724	2	How do you know? This website might have just had 1 person working on it (in fact it looks like it did with all the mistakes). Do you really think all those mathematicians they hired aren't working on the protocol?Also the trinity wallet is basically complete, it's being audited before being released. 
+3	1523836484	1	You couldn't be more backward...  But you know that already, because you're just a troll.
+1	1523876898	3	Wallet works/always has worked. It's just not the easiest to understand, but that's because the IOTA technology is new and works differently, not just another ERC20 copy&paste.Complete new wallet coming in the next few weeks (it's in audit process) and is, according to the alpha testers, one of the best in crypto.And about your last point: the real priority for IOTA has truly NEVER been some wallets for investors to hold their money in. They've clearly said this. Their vision/goal is much, MUCH bigger and for the mass adoption does not need end-user wallets, but backend/big industry solutions for machines, which is why they've partnered with the likes as Bosch, Volkswagen, Fujitsu, etc. And that is why I cherish IOTA, they aren't here for some high school speculants who want to put their token into a wallet, but are trying to actually revolutionize industry with their technology.
+1	1523827923	12	IOTA.org hadn't changed since 2015, get your facts straight before you try to FUD 
+2	1523830127	3	It's the usual from username02846389...  Why take a troll seriously?
+3	1523830224	5	I don't recognise the guy, anyway he is blocked and reported. 
+4	1523833706	-2	Sorry man, his concerns are legit, the current protocol is the worst one I've had the privilege of using and they've been teasing "soon" on a new wallet since August.
+4	1523834686	-1	He must be friends with that username029457939 guy
+2	1523830064	-8	Im talking about the website, you pride yourself as an IOTA Evangelist when you either blatantly lied that their website hasn’t change or you are just another IOTA bag holder that blindly defends the shit that you don’t even visit their website .
+3	1523869596	0	I know IOTA at least 3times longer than your reddit acc is old and **NO** the website hasn't changed.
+1	1523830278	3	Sheesh the new wallets coming, people like this sound like a broken record and yes the wallet wasn't their focus at all it's M2M payments which is IOTAs primary use case. The wallet was an MVP which they've been very clear about. IOTA has only been live since last June. They could had opted for a crappy ERC20 token like a lot of the other new cryptocurrencies but they didn't. 
+2	1523830540	-15	It is supposed to be a crypto **Currency** but instead, the focus is **partnershits**  and ** shilling** and **Shit that has nothing to do with the development of the protocol itself**It has been out for like 3 years ,almost same time as ETH thats why they cant opt to an erc20 token . God! Are you purposefully ignorant on your own project that you support??!Besides , its supposed to be DAG, its not even a blockchain, it has a shitty wallet , when its supposed to be a crypto**currency** .Just wow! Andto thinkabout it, ithas been out since 2015! Wtf are the devs doing?
+3	1523832972	8	It hasn't been out for 3 years dude, its been under development for 3 years but It's only been live since June last year, you're twisting the facts. They could had easily setup an ERC20 token in June if they wanted to go down that route whilst they continued development like a lot of cryptocurrencies. EOS, OmiseGO, Tron just to name a few did this. Your claim that it isn't a blockchain is correct however you try to frame it as a bad thing but it's really not. The founders very much are trying to take the elements that work well on the blockchain and exclude that elements that don't to create the tangle. Everyone knows the blockchain clearly cannot easily scale, there is a clear problem at hand with making the validators and those wishing to transact separete entities. It introduces fees and an inbalance between the demand on the validators and the number wishing to transact. IOTA aligns this into a single entity which makes perfect sence from a scalability perspective. This just happens to come with the added benefit of zero transaction fees, faster transaction times as the number of validators increases as well as no miners/masternodes eventually enabling true peer-to-peer transactions. Lastly, you talk about parterships as if it's a bad thing this only increases the rate of adoption and the developers working on IOTA. For christ sakes do you really think Bosch, Fujitsu and the city of Taipei are going to put up with zero so called development.
+4	1523832995	0	Hey, rjm101, just a quick heads-up:  **sence** is actually spelled **sense**. You can remember it by **ends with -se**.  Have a nice day!^^^^The ^^^^parent ^^^^commenter ^^^^can ^^^^reply ^^^^with ^^^^'delete' ^^^^to ^^^^delete ^^^^this ^^^^comment.
+4	1523833095	-2	[deleted]
+5	1523833372	4	He is an arsehole at times but only to those that are trolls and arseholes to begin with. Being direct is a common trait amongst successful leaders. Steve Jobs was an arsehole but he got shit done and done right.
+6	1523836678	3	I kinda don't blame him, considering all the bullshit FUD he has to constantly get attacked with...  But, it'd be nice if he cooled down a bit.
+6	1523833515	-1	He is an asshole by indirectly not giving a shit about the wallet that lost people money, and by having a buggy code then saying it was there on purpose. 
+7	1523834273	5	You need to be careful, you can't blame others for what is essentially inappropriate use of an MVP because people reused an address. This is especially so for the cryptocurrency market and new technology. When you're in this early it's inevitable that there is going to be a lack of hand holding in the software. I get it, you probably lost money because you did this and are angry about it. Learn from your mistakes, make sure you are informed before you decide to use recently released software.
+7	1523836620	1	Nothing but bullshit in your posts...
+0	1523829186	-30	DAAAAAAAAAAAAAAAAAYMMMMMMMMMMMMMMMMMMMMMMIOTA TO THE MOON #IOTANS
+0	1523829936	-48	How is it news that they did one days worth of absolutely low skill basic web dev work? What a joke. Glad this garbage post has been downvoted to hell on r/cc. 
+1	1523831470	8	Mmmm love me some blockchain.
+0	1523882352	-7	Bad design. Bad content.Too much white space, too much text, not enough value.Sorry, I wish I could congratulate the team but the first pages should grab newcomers' attention and enable them to understand fundamentals about IOTA. **Quickly.**All I see are the same "catch all" sentences, the same words and expressions repeated over and over on about 1000 ICO's/coins websites.The former version was slow, buggy and confusing, the new one lacks personality, character and uniqueness.

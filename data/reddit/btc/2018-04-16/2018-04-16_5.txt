@@ -1,0 +1,21 @@
+File created at: 1523904156
+Subreddit: btc
+Submission title: Coffee Shop in Osaka is accepting Bitcoin Cash, and offering a discount too.
+Submission created utc: 1523858792
+Submission score: 132
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523868190	10	Bitcoin Cash is King
+0	1523858826	17	[Tweet showing 50 yen discount for BCH use](https://twitter.com/sakuranobonsai/status/977939550767992833).  They don't seem to accept BTC at all.
+1	1523872543	7	Same with BarFoxx in Gothenburg, Sweden. They also accept only BCH and they give 5% discount when you pay with Bitcoin Cash.
+1	1523885920	2	Hope to see more English speakers at the next Osaka BCH meetup (not formalized yet). 
+1	1523865391	1	How do you pay with crypto when buying something? Do you need to send to shop wallet and wait for confirmation?
+2	1523865979	10	I'd imagine the shop wallet or some POS.It's BCH, you don't have to wait for a confirmation.
+2	1523872616	3	They show you a payment code, you scan it, verify that it's sane, then confirm the payment and broadcast the transaction.They see the transaction being broadcast and depending on place and value, take it in good faith or wait for confirmations.
+2	1523886933	2	I live in Osaka and have been there. They show you your total on their POS which if I remember correctly was a tablet with a QR code. You scan the code on your phone with whatever wallet you choose and it shows you the total requested. Then all you have to do is hit send and be on your way. Quick and painless!
+0	1523870498	6	super cool!
+0	1523869350	-13	2 posts hype for just a small coffee shop, roger? this is sad and beyond pathetic.business must be really really bad for bcash for these days if you try to hype with this insignificant coffee shop accepting bcash.
+1	1523871973	18	> 2 posts hype for just a small coffee shop, roger? this is sad and beyond pathetic.Why?I love japan, I am happy to see that, next time I stop by Osaka I definitely stop there!
+1	1523895893	3	Man, you must not have been around in 2013, back when /r\/Bitcoin was uncensored and people were always posting pics of random places accepting Bitcoin. It was exciting. In fact, there was even a meme of sorts. For this one they would have said, "Meanwhile, in Osaka..." Anyone remember this?
+1	1523888416	2	Wow, what a cancerous post. Every corner of the world that accepts cryptocurrency is a win situation for all sorts of coin and should be praised, do everyone a favor and keep your thoughts to yourself.
+1	1523879673	3	Lol, get a grip...I really, really, really(!!!) dislike Roger, and because of that I have a negative bias against BCH,still it doesn't take anything away from the fact that it's actually a decent currency...  Also, every stap towards adoption of any cryptocurrency (Except Verge, that's a freaky cult that can go f*** themselves) is a big step in the right direction. Learn to see the bigger picture.

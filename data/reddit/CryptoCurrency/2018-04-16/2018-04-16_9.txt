@@ -1,0 +1,335 @@
+File created at: 1523904192
+Subreddit: CryptoCurrency
+Submission title: Ian Balina Hacked
+Submission created utc: 1523861961
+Submission score: 153
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523863191	85	Looks like they took around $2M give or take.
+1	1523880433	90	Oddly enough he also tweeted out:>2/ **Hacker has stolen my funds and is about to sell on @kucoincom**.Please help in contacting them. $ETH $BTC  $KCSBut then very quickly afterwards, deleted this tweet. \(You can search that Kucoin @ and see his followers that tweeted them after he posted it\).The really strange thing is, **at that time no funds had been moved to Kucoin** from the wallets identified as the hackers yet within minutes of that tweet having been posted/deleted, suddenly some funds were being moved to a Kucoin wallet.I was more of the opinion before that happened that he was just being stupid, holding millions of $ in crypto with poor security but this points more towards the more dodgy behaviour that others have suggested.
+2	1523880670	55	There it is boys and girls. All the proof you need. Oops sent the tweet before he sent the funds to kucoinEdit: he just had my Twitter account locked for calling him out on his fraud. Don’t forget to call him out on social media. 
+3	1523884467	27	He pulled the same thing on me two weeks ago when I posted one of his public ETH address. I bet he just doesn't want to pay taxes on it all, then pulls this.
+4	1523885106	18	I don’t get how he has enough pull with Twitter to silence me. My twitter account has done nothing wrong but was just locked for suspected “automated behaviour” minutes after I tweeted at him about how he was going to use this capital loss to avoid taxes before the new tax bill removes that loophole
+5	1523894872	4	Twitter is the scummiest piece of shit company I have ever seen. They pull this shit all the time. Amazing there isn't more uproar over it.
+5	1523891895	3	That "automated behavior" nonsense might be from the ETH giveaway scams, but I never give Twitter the benefit of the doubt anymore. The whole crypto space have become a bunch of snake oil salesmen. They all want to promote some awesome lifestyle to schmucks like us, but after you've been in the space long enough you can separate the signal from the noise.
+4	1523896687	2	He’s British. UK taxes were due January 31, so why would he do that now? 
+5	1523901061	1	Does he live in the UK though? Might be non resident. 
+4	1523897300	1	How dare he report you for posting his eth address and terrorizing/trolling him, the nerve of him!
+3	1523893833	4	Getting hacked = new tax evasion plan!
+3	1523892966	0	I wonder if he reported the hack when he filed his taxes!!
+2	1523881884	5	That message is still up on his instagram story.
+2	1523884520	4	Interesting, but what's the point of faking a hack at this point? He's still on the hook for 2017 taxes. 
+3	1523887841	3	Good question.... anyone got the answer to this?
+4	1523889401	4	I think it is because he bought the ICOs cheap and never sold. He doesn’t owe nearly as much in taxes for 2017 as he would in 2018 selling everything. 
+5	1523891783	1	But his timing is strange as, the hack coincides with 2017 filing date, does it not?Why doesn’t he just do this in a few months when tax returns are not in the spotlight or the topic of the day?
+6	1523893049	1	Your fraud does look a lot more convincing if it doesn't follow a perfect plan with perfect motive.
+7	1523893607	1	I don’t live in the states so I’m all good from a tax point of view
+8	1523893791	1	>Why doesn’t he just do this in a few months when tax returns are not in the spotlight or the topic of the day?Because using a best case scenario makes it even more suspicious not to mention that this doesn't do anything to 2017 taxes anyway.
+5	1523895433	1	> Oddly enough he also tweeted out:> > 2/ Hacker has stolen my funds and is about to sell on @kucoincom.Please help in contacting them. $ETH $BTC $KCS> > But then very quickly afterwards, deleted this tweet. (You can search that Kucoin @ and see his followers that tweeted them after he posted it).> > The really strange thing is, at that time no funds had been moved to Kucoin from the wallets identified as the hackers yet within minutes of that tweet having been posted/deleted, suddenly some funds were being moved to a Kucoin wallet.> > I was more of the opinion before that happened that he was just being stupid, holding millions of $ in crypto with poor security but this points more towards the more dodgy behaviour that others have suggested.lol bought ico. he charges them to shill them. 
+2	1523893290	4	proof? my timestamps say tweet at 9:02 utc, tx before 9 utc-tweet: user is on australian time utc + 8 = 9:02 utc: https://pbs.twimg.com/media/Da5MucAV4AAdZ9f.jpg:large tx  8:48 UTC: https://etherscan.io/tx/0x4166ea7007d528c40cfcb176385e57416563fc4466578851881e1d34ad916db5
+2	1523890482	2	This is the first thing I thought even before I knew about Kucoin. Tax evasion and selling off the coins that he probably said are long term holds ( never actually watched this guy). I hope some catches this piece of shit. And I don't mean the "hacker".
+2	1523901395	1	May be a stupid q, but how can you tell it's a kucoin  address?
+2	1523902416	1	That just does not make any sense.   Ians workflow.   Ok, "Hack' is onStep 1 - Tweet that I have been hacked. Step 2 - Move all coins to KucoinShit, no, Move coins to Kucoin first, then tweet. Better delete that quick before anyone sees it. 
+1	1523873811	45	7.77 VIN tokens are still there
+2	1523877297	9	what even are those, i have them too xD
+3	1523880723	2	Airdrop from an ICO called VIN chain, they do it for promo reasons
+2	1523897590	1	Bet he still has those Just tokens
+2	1523879391	-5	HAHAHAHAHHA
+1	1523887358	1	Da Fuuuuuuu 
+1	1523897312	1	HOLY S*IT!
+0	1523864986	146	Crypto promoter and millioner got hacked and he didnt use hardware wallet? There is something else here! 
+1	1523865857	71	He is getting flack the past few weeks about shilling projects paying him thousands of USD. Like ncash. Lost all respect for him since those scams and him being involved on the top. 
+2	1523883071	4	How is ncash a scam? Please explain.
+3	1523883642	16	The partnerships they were boasting about in the white paper don't exist. Intel and Vodafone India for example. I forgot the other names (was a few weeks ago) . I was in Delhi and business meeting with the locals. They also tried to look up (Punjabi?) Indian news about anything.. nothing. There was big FUD about ncash being used in '10'stores. Giny and Jony.. people called shops and the shop owners had no idea. And then that day suddenly a movie appeared that was recorded a month before (Feb) of 'testing the product ' in the store. And shilled to death by the bots in the channel. Nucleus vision had 65k telegram users. When the Bot incident happened and many telegrams lost bots for about 1 hour, nucleus vision lost about 24.000 users on telegram. Lmao. Same on the subreddit.. was it 60k? . And one of the most silent subreddits ever.. just some flags . Waiting for more proof. Like many projects . 
+4	1523884300	4	Before it launched on Binance i checked the subreddit - all the comments, very few of them, were the same. "Such great coin, much good for buinsess a must buy!" Same broken variation of that message. I still bought it and made some money on it, but i was a bit iffy about it. The idea is sound, but the project itself i am not so sure about.
+5	1523898172	1	No, the idea isn't sound. B & M retail is dying. The concept would only really work in lower customer volume type stores (think high-end stores) where you have the ratio of staff to customers to take advantage of such customer information. But, then, the paradox is that such creme de la creme customers value anonymity and privacy and don't want their information whored, so that some over-eager, gadget equipped employee can come shill some custom shopping experience to them.
+6	1523898335	1	I work at a place that makes POS systems for retail. Trust me, they'd murder for something like this that actually works. Our clients that is. Shit we have variations of it already up and running. So does Amazon. It's an idea that stores want.
+7	1523899364	1	Amazon already have this because they have all your purchase history across product categories. There is a better crypto project attempting to do an online version of this to equip other online retailers with the information Amazon has called Shopin. Nucleus is trash vaporware. 
+8	1523899929	0	Never said it wasn't vaporware. Can u read? I said the idea is good and is something retailers want. And every store have ur purchase history. They track it and map it.
+9	1523900279	0	Can you read? I am not talking about an individual store having information as internal data. I am talking about online retailers sharing information to reduce the competitive edge Amazon has. This is something Amazon doesn't have to worry about due to the scope of their product lines.
+4	1523894573	5	Okay, I checked Saturday that they have partnered with Paytm. Pilot deal or something. Paytm is India's biggest payment method or something shit like that.BUT just checked again and they have deleted the medium article and deleted all tweets about it. Haha this shit is scam. I am out from this. Still made nice profit!Thanks for the info.
+4	1523884757	6	great info not surprising if true
+4	1523901378	1	If you think the reddit is quiet you should see the Facebook group for Ncash, it’s freaky quiet, I wouldn’t buy I only have some from the airdrop, how can a crypto have such a quiet social space
+3	1523890325	1	Made maybe the cringiest video in all of crypto:https://www.youtube.com/watch?v=S7nYkI54VYg
+4	1523898503	1	I have seen some, absolutely, FAR more cringy things in my lifetime on the ole interwebs. This is just a semibad commercial.
+5	1523900389	1	>semidbadLOL
+6	1523900703	1	Yep. After you've seen this, it will be...>semibad  https://youtu.be/LXmShIyjJvg  Although your comment was directed at crypto ads... so, it might be ok? 
+1	1523878266	26	My theory does not want to pay taxes so say got hacked and move to non traceable addresses. 
+2	1523879871	11	Lol thats true, taxes due tommorow and suddenly he’s hacked, lol
+3	1523879880	22	Hey, PlaneZebra, just a quick heads-up:  **tommorow** is actually spelled **tomorrow**. You can remember it by **one m, two rs**.  Have a nice day!^^^^The ^^^^parent ^^^^commenter ^^^^can ^^^^reply ^^^^with ^^^^'delete' ^^^^to ^^^^delete ^^^^this ^^^^comment.
+4	1523889888	7	good bot
+4	1523898296	1	how does saying how the word is spelled help you fucking remember it lol
+4	1523880070	-17	Thanks, but i was typing on mobile
+5	1523880951	49	Oh yeah, it's spelled different on mobile.
+6	1523882892	7	m.tomorrow
+7	1523887599	1	d+1
+4	1523883276	-16	Omg bot, fuck off, youre all over this sub, just fuck off, if I wanna misspell a word Ill fucking misspell it.  Dicing wih danger here...
+5	1523887500	4	You do realize you're talking to a bot, correct? 
+3	1523884709	1	Lol taxes for 2017 are due tomorrow, this is 2018 no? Also he is a UK citizen.
+4	1523885946	1	You always pay for the taxes of the last year on the present year?
+5	1523895876	3	always baby
+5	1523887703	0	How can you pay this year taxes in April?
+4	1523895855	1	Thats not true. Please do not spread false information. Ian Balina was born in Kampala, Uganda, and immigrated to the United States with his family, when he was eight years old. He is US citizen.
+3	1523886766	-1	They are due tomorrow if you are a US citizen, Ian Balina lives in the UK
+4	1523895789	1	Thats not true. Please do not spread false information. Ian Balina was born in Kampala, Uganda, and immigrated to the United States with his family, when he was eight years old. He is US citizen.
+2	1523884833	2	Doubt. No one will take him seriously now. It's suicide and for what? UK taxes are on realized profits only. 
+3	1523886750	1	Had no idea he was in UK but yeah it was a dumb theory. 
+4	1523895807	0	Thats not true. Please do not spread false information. Ian Balina was born in Kampala, Uganda, and immigrated to the United States with his family, when he was eight years old. He is US citizen.
+5	1523898401	1	Wow..really?If, in fact, he IS a US citizen (he has damn near zero accent from anywhere else) then he owes a SHIT LOAD of $$$.The IRS is going to actively go after him as best as they can within the confines of their jurisdiction...which is a pretty wide space.
+2	1523886405	2	You're still completely liable for your 2017 taxes, this would have 0 impact on his liability.  If all my stocks disappeared off e-trade, i'd still be liable for any 2017 capital gains.  I think this is a legitimate hack due to his reckless management of his crypto by keeping keys in evernote
+3	1523886730	2	Yeah after thinking about it more, it was a dumb theory. Imagine if a veteran crypto investor stored in the cloud what would happen to the average tool that is also most likely also using cloud based apps to store info vs. actually take better security steps. Folks there is a lesson to be learned here. 
+4	1523889433	1	It seems like a pretty common theory, and there could be some sort of elaborate merit behind it, but it would cause him way more complication that just reporting taxes.  I definitely do think that "security lessons" like these will be common for a while.  
+1	1523884886	6	Crypto promoter also ignoring Google's recurring 6 month harassment to validate your account recovery settings.
+1	1523874951	8	And like someone else posted. He started shit last week as well. It's all a charade. . He deleted most of his shill tweets and posts last week. Read : https://mobile.twitter.com/whatbitcoindid/status/982949171861901312 . Internet duz NOT forget.
+2	1523880372	-1	In the livestream that he cut short, he mentioned that he is changing his social media strategy, and only providing social media recommendations on snapchat or instagram
+3	1523881168	8	So that justifies him deleting everything from the past as well ? Haha. Good believer. If he is changing strategy it would count for the future. Don't you think it's not a bit shady AF ? And one week later a 'hack ' happens and he deleted a tweet about stuff moving, when it didn't move. (Kucoin)
+4	1523882800	3	Why do you think I’m a believer? You asked a question, i gave a pertinent answer.  If it were me, id leave my tweet history alone. I don’t think pointing out some deleted tweets and putting quotes around the word ‘hack’ means that you have any evidence of some conspiracy going on here, either though. There is no information to draw any strong conclusion with. 
+5	1523883288	2	True. But those things following one another with a span of 10 days is food for thought. Saying and doing are different things. For now it doesn't look good that these events followed one another so shortly. He shilled coins to death receiving 600.000 USD to shill NCASH . (1 million actually during higher times ) . People were dropping on him more and more. Tax season is here. Deleting tweets, financial (law?) Advisors, and shortly after while he is live recording a small act to be surprised and hacked.. I watched the clip 2 times. And he looks like a bad actor there. ( Or saying it could be true or not) . Having some experience in plays etc. It looked like a bad act . 
+6	1523884782	1	I'd call it weak circumstantial evidence, at best. Also, I'd suggest that adding an acting critique is not helping your argument at all! That's an entirely subjective opinion, and you seem already clearly on one side of the fence.The tweet about the hacker moving the funds to kucoin before it happened is far more interesting. Did the tweet happen before the transfer was even initiated, or before it was confirmed? 
+7	1523885310	3	The transfer never happened I think. It was about 6-7 hrs ago now.. he tweeted it and deleted the tweet shortly after. Maybe he changed his mind on selling it. Or indeed tweeted to early and didn't transfer yet... And now realised he tweeted before it went through. Some aspects are interesting in this chain of events happening in the past 13 hrs.
+1	1523889865	3	Eh, I'll take him at his word. I hate how crypto makes everyone suspicious of EVERYTHING anyone says.I think this seriously sucks for Ian, but like he said, he learned his lesson. Hopefully, other people can learn from it, too. 
+1	1523897731	0	hardware wallets are not safe for storing large amounts of crypto too, you're just trusting a company like when you do by holding on an exchange, someone also proved that both nano ledger and trezor can be hacked (their key generation spoofed to be precise) by someone with physical access (like rogue employee), good luck proving it was the company at fault when few people get selectively robbed
+0	1523868579	80	If you are posting your huge portfolio value on Twitter every day you know hackers are after you. Storing keys on Evernote, genius. 
+1	1523884506	79	He's not actually hacked... it took hours for the hacker to move the coins - you'd think he'd have adresses already available and ready to go... and the coins aren't even sold yet as of a few hours ago. If he was truly hacked, it would be converted into XMR within an hour - it's not. He's just trying to dodge his taxes like the true scammy fraud he is.
+2	1523890031	4	Not saying you're wrong but I read he lives in the UK so he's taxes aren't tomorrow. 
+3	1523890164	9	Our taxes are in a few days still over here atleast. I also read he lives in Singapore so no idea what his deadline would be either way. But there are so many things about his hacking that simply doesn't add up. Also he's a paid shill so fuck him either way.
+4	1523890405	0	Yeah it's not adding up to be honest guess it'll come out soon.
+5	1523892198	2	He's from Boston, MA not UK or Singapore or any other country
+3	1523893456	2	Is he a US citizen? Unless he denounced his citizenship, he has to pay US taxes no matter where in the world he lives.  US is one of the only countries in the world that does this. 
+3	1523895831	2	Thats not true. Please do not spread false information. Ian Balina was born in Kampala, Uganda, and immigrated to the United States with his family, when he was eight years old. He is US citizen.
+2	1523893716	1	How does "lost or stolen" crypto work as a write off? In the states, I believe there are limitations on this. If you made any trades prior to the loss, you still owe taxes, sadly. 
+3	1523896332	1	No idea tbh. I'm having enough problem s figuring out how to pay my taxes fair and square. I'd guess he can't write if off until next year. But he has proven he ain't very bright so...
+0	1523863003	70	He encrypted his private keys with passwords that could be reset?Did he really loose 1.6 million because of incompetence?
+1	1523863768	14	He used this method: https://help.evernote.com/hc/en-us/articles/209005547-How-to-encrypt-content-inside-Evernote  Those passwords cannot be reset, so either he used the same pass there or fucked up some other way. There's no way in which this isn't stupid tbh. I still feel sorry for him, it's quite easy to do some stupid thing that can fuck you over badly.
+2	1523863885	21	I dont buy it, had they known his password they would probably not have had to go about taking over his gmail.I could be wrong, but with tax deadlines due soon, this is almost too sketch
+3	1523864175	10	I don't think claiming to lose your coins will work as an excuse to avoid taxes. At least in Japan it will not.
+4	1523869312	-1	Something about capital loss, I don’t know the specific US conditions or how it works for crypto though 
+5	1523872421	4	In Germany you're completely fucked then, you'd still have to pay the tax.
+6	1523885411	1	Are you sure? If you win 100k at poker, then lose them you still have to pay tax on 100k?
+7	1523887883	1	Yeah, I could provide sources but they're in German :)  The tax authorities don't care if your have been hacked for example, that doesn't count as capital loss. This can easily ruin you, and most people probably don't even know it.PS: playing Poker is different, crypto assets are treated like commodities. But to answer your question, I just looked it up and this is actually unclear. One of our high courts decided that Poker profits are taxable because it isn't gambling, but they didn't say that losses can be offset. The latest article I found about this was from mid 2017, so that's probably still unregulated. Our tax law is amazingly complicated and usually lags behind reality many years.
+8	1523889272	1	Pokerstars provides tax info directly to authorities in the countries were it is active and you get summoned to pay them. As far as I know you only pay for profits that is winnings-fees-deposits. But there are countries with old legislation and this happens: https://calvinayre.com/2018/03/29/poker/spanish-poker-player-forced-pay-huge-tax-bill-losing/Not sure about commodities. If you buy 1000 ducks and the duck prices double but your ducks die do you pay tax? Shouldn't you only pay when you sell? And on the profit? Of course we are talking digital commodities, but the IRS treats crypto as property. That's why every trade is considered a realized gain. 
+9	1523891133	1	If you buy 1000 ducks, the duck prices double and they die that's not taxable to begin with.  If you buy 1000 ducks, the duck prices double, you exchange the ducks for pigs and the pigs die, that would be the same issue (if animals are commodities).  To stay in crypto: if you bought and held and lost your wallet, nothing happens because there was no taxable transaction. If you trade and then lose the wallet containing your profits, you're screwed.
+5	1523871000	2	This is a 2018 loss. Sure he can deduct 2 million from his taxable income for 2018, assuming he makes that much. But it doesn't just negate your 2017 gains/taxes
+6	1523879192	2	With how his security was set up, do you find it a stretch that he doesn't understand that?
+7	1523879576	1	...I suppose not!
+6	1523883105	1	I'm pretty sure it caps at ~$3k/year for declaring losses. It would take a while to get that 2 million back.
+7	1523883311	1	Shit, good point. I don't think the UK has such low limits though
+3	1523893335	1	It could be that the college email had the same password as the evernote encryption password but not the same as the gmail and evernote account passwords. So they got the college email pass, reset the gmail pass, reset the evernote pass, entered the evernote encryption pass. 
+4	1523894586	1	Yes but he got an email saying his college email was compromised, had they known the password he would not have noticed they got in
+1	1523863817	27	well, not the first time incompetence loses money *looks at bitgrail...
+2	1523868791	11	They never got hacked, Owner just stole peoples NANO.  
+3	1523869228	4	I didn't say they got hacked. It was a shitty implementation that allowed users with a client side Java script to withdraw more than they had on their account.
+0	1523866393	40	Funny, balina means "whale" in Turkish.
+1	1523869353	5	>Funny, balina means "whale" in Turkish.What's Baleen Whale in Turkish?
+2	1523872257	5	Baleen Balina?
+2	1523876734	1	Balaena species are collectively called "Grönland Balinaları" (Greenland Whales). Mysticeti parvorder is "Dişsiz Balinalar" (Toothless Whales).
+1	1523885107	3	Lmao xDHe's not joking, its actually true haha
+0	1523891575	14	If I understand the conspiracy theory:In order to save ~$500k on taxes, he fakes a hack that will do millions of $ damage to his reputation?
+1	1523902742	1	Yah I think people sharing this theory are idiots. If anything the fact that he's so public about his earnings dramatically raises his profile and the odds that he would have been audited anyway.
+0	1523863882	31	Damn he got fucked. Don't wish that on anybody. Some people were speculating he was trying to dodge taxes lol..
+1	1523865310	29	Pretty dumb, considering he still has to pay taxes
+2	1523868102	-6	why would he need to pay taxes?
+3	1523868960	13	Everyone needs to pay taxes
+4	1523869405	3	Surely the taxes won’t be as high if his capital gain is nothing because it’s all been stolen...
+5	1523870838	13	2018 loss doesn't negate a 2017 gain. You can carry it over to deduct off next year, but other than that, you still gotta pay the troll toll
+6	1523871449	6	Its only a gain if he sold during that period.
+7	1523879745	2	Or traded any coin with gains to another coin. So he could have had some serious gains in December and traded those coins for another coin which are now lost.
+8	1523880857	1	Nope, he received a lot of them as payment. So he would owe income tax on them rather than capital gains, so there would be no need to make trades to incur the tax.
+9	1523882809	3	Income tax and short term capital gains tax are the same thing though, percentage wise.
+9	1523883601	1	Perhaps no need but maybe he did trade one coin for another preferred one. Well I don't really care about this that much either way.
+6	1523870968	2	Oh, when did the 2018 tax year start?
+7	1523871662	2	1/1/2018. I guess this is UK but, pretty sure that's still the caseEdit: nope, those savages start their tax year on April 5th. 
+8	1523871832	3	That’s not the case for the UK, that’s my country and that runs from 6th April to the following 5th. I assume US is similar but I don’t know. If it’s the same it’s still a new tax year.Edit: US renews on the 1st January, looked it up.
+9	1523879245	2	US is jan 1st *unless* you're a corporation and specifically set up a different tax year. There are a few reasons to do this, but they're mostly PITA and not worth it unless you have multi-national divisions.
+6	1523883294	1	US tax system is stupid. How you can live there? 
+7	1523883443	1	> How you can live there?The best weed and beer in the world helps
+8	1523885275	3	Doubt on both :D
+9	1523885583	2	Our beer resurgence has been in the last 5 years, granted. But who do you think grows better weed? Canada is close. Amsterdam is not. 
+8	1523885701	1	Pretty sure thats Canada. Only thing america is good for is having people yell Freedom. (am canadian, working stateside)
+9	1523885893	1	 Canadian bud is great. Less strain variety though. All the bud in Boston was Canadian until around 2005 when the Californian dominance began. (Around the same time the Canadian dollar got stronger, not coincidentally. When you could go across the border and get a 30% bonus on your weed, people did; by the time the Canadian dollar was near parity, it was all Cali).
+8	1523886428	1	"Best beer in the world" hahahaahahahahaahhahaahahahahahahahahaahaha
+9	1523886540	1	Have you been to a craft brewery in the US lately? It's not all Bud Light y'know.
+8	1523893214	1	Visit central Europe for Beers. You change your mind. 
+5	1523870997	4	New tax year. He'll be able to write it off when he pays his taxes next year, but will still have to pay taxes on them now.
+6	1523871086	1	Yeah I knew that but I’m just a dumb kid who’s never payed taxes so I didn’t realise the 2018 tax year had begun.
+7	1523871135	1	I'm fairly sure it has, but I'm not in the USA so could be mistaken. I'm sure someone will correct me if I'm wrong.*Edit* Ahhh, he's in the UK. Yeah, he owes the taxes so may be a bit screwed. If he doesn't have funds available to pay he could set up a payment plan.
+6	1523885325	1	He is from UK, as far as I know you only pay when you go to fiat.
+7	1523886250	1	No, trades are taxable in the UK. For some reason people think you only pay when cashing out, but that's not true. You trigger a taxable event when trading assets to prevent people from avoiding taxes, so for example directly trading stocks for a house without paying tax on the gains made on those stocks.
+8	1523888054	1	Am am not from UK but didn't hear anyone complaining like US people. Even some US CPA people say tracking every trade in US is not mandatory for 2017 just from 2018 onwards. > directly trading stocks for a house without paying tax on the gains made on those stocksAgree, but if you trade stocks for other stocks? How is that realized profit? Crypto will never take of in these places if you have to report every time you buy something. At least as a medium of exchange.
+9	1523888470	1	That might be because fewer people are aware and HMRC is not as vindictive as the IRS, so will accept more vague information when working out your taxes and they won't fuck you over for making a mistake. But under current rules you 100% trigger a taxable event when making a crypto > crypto trade in the UK.You would pay tax on those stocks yeah. Say you bought Apple stocks for $100, they rise to $1000 in value. So you trade them directly for $1000 worth of Tesla. You've realised a capital gain of $900, so you owe tax on that $900. It doesn't matter if you cash out to dollars or not, you've gained $900 in value. In the UK we have a capital gains tax free allowance of £11,700, so we could use crypto to pay for things without having to pay tax provided our gains are below £11,700. I do think crypto specific tax laws need to be created, the current system is ridiculous.
+6	1523886700	1	Not all of it
+7	1523886867	1	Do you mean he won't be able to write off the entire value of the stolen crypto? No, just the part he owes in tax so of course he's still going to be down hundreds of thousands of dollars. 
+5	1523887779	1	IRS doesn't care about that, there's a limit to what can be deducted as a loss 
+0	1523870222	26	Yeah right... a known crypto YouTuber that had almost $2m USD worth of crypto, being super transparent as to how much he owns, which are his public addresses, etc without using Trezor or Ledger to secure the funds gets "hacked" the day before taxes. And if that wasn't stupid enough, on top of that he stores private keys on Evernote. I mean, seriously, either you are extremely dumb or this is just a massive stunt to avoid taxes. But well, after what he did with his ICX holdings I don't completely rule out the option of him being dumb tbh...Oh and, of course, gets "hacked" while doing a livestreaming so there's "proof" for the tax authorities. How convenient!
+1	1523880758	4	What happened with his ICX holdings?
+2	1523882575	10	I think it was one of his best ICOs ever, and had a massive stack (150k to 200k more or less). One day he got pissed off because on Icon's telegram group, a mod called him a paid shiller - exactly what he is. It seems like he wanted to have some sort of advisor role at Icon, and they refused him. So he decided to make it public that he'd sell all his stack, and put it all as a huge sell wall on Binance, essentially selling it all at almost the all-time low. And only because he got emotional and probably wanted to "teach a lesson" to Icon. It was really dumb as he'd have made much more by selling it quietly or in smaller portions. Plus, he did it just before the token swap and the staking and ICO platform launch sometime this month, which will probably cause a price spike. 
+3	1523884873	5	It got added on korean exchanges days later and went up like 50%, so yeah he's a complete moron.
+4	1523887024	1	True :) I actually bought a small portion of his sell wall and doubled my ICX stack just before that happened so I guess I can't be mad at him lol
+3	1523887665	1	Except he didnt sell any ICX, you can see it in his current portfolios
+4	1523888022	1	Nope, he sold everything, I don't know where are you getting this from but it's wrong. And what current portfolios? You mean the hacker's portfolios?
+4	1523897119	1	he bought back in
+1	1523880966	3	What happened with his ICX?
+2	1523882775	3	Just answered above. TL,DR: he sold his massive stack in a very stupid way at the all-time low just because he got butthurt with Icon's team.
+1	1523885826	2	https://youtu.be/qSYIr8dSoFEI do crypto animation and Made this animation after his ICX temper tantrum. This guy is shady. 
+1	1523888193	1	Yeah I have a hard time to believe he didn't have several cold wallets! 
+0	1523865116	20	If he really got hacked, the hacker WILL sell al his alt coins and convert it to ETH/FIAT. At this moment the alt coins are STILL there, so lets see if this man speaks the truth. 
+1	1523872789	15	They’d pass through XMR first to cut all ties.New exchange account -> ETH -> XMR, move off exchange move XMR to other (or even same exchange diff account) and boom. Cleaned. 
+2	1523873789	9	Wow that easy.You just need a burner email to register for the exchange. Then you have monero a criminals perfect exit.
+3	1523879078	4	Rofl. Yes, that easy. From pleb to 733t in  one transaction. 
+3	1523879134	3	>  Then you have monero a ~~criminals perfect exit~~ functional fungible currency.Illicit activities are just a subset of activities that desire/require fungibility. That said, they're the least willing to give it up/most willing to work for it.
+3	1523884919	4	Not exactly. If you create a burner account on exchange you'll have a limited withdrawal limit which gives the exchange more time to respond to the hack and freeze funds. However, it is possible, and likely, that the hacker has created a verified account with stolen credentials from the plethora of hacked icos. Also, Shapeshift.
+4	1523887468	1	I wouldn't trust shapeshift, there are much better options out there.
+5	1523887936	2	such as?
+1	1523877832	2	The hacker is selling them on EtherDelta right now.  Tons of low-ball offers
+0	1523869856	7	[deleted]
+1	1523871102	7	What's the source of that tweet?  Ian was based in the US and had dual nationality with Uganda being the second nationality.  I have not been watching their video's for a while so did they mention moving to the UK at any point?  Also US citizens are still liable to pay tax in the US on foreign earnings despite being located in another country.  I believe there are some ways to off set that tax in some way but someone more familiar with US taxes would have to cover the specifics on that.I am not jumping onto the whole this being a tax doge thing just surprised to hear Ian is now said to be a UK resident.  
+1	1523870379	2	Good post. 
+1	1523871449	1	When did he get British residence? He's an American afaik. He has dual nationality, USA and another country (in Africa I believe)
+0	1523872393	19	He deleted his tweets a week ago, definitely an exit scam: https://twitter.com/whatbitcoindid/status/982949171861901312
+1	1523885084	4	What is it you think he is exit scamming?
+2	1523885897	3	taxes
+1	1523885710	0	this stinks for sure. 
+0	1523864386	22	Yeah, like he is going to store his funds by saving his private keys in an encrypted file and not store his funds on a hardware wallet. And if it is the case that he saved his funds in just a simple encrypted file, how on earth is it possible that he's an advisor to ICO projects? He's not even able to store his own coins securely. Ian is and has always been full of bullshit. 
+1	1523869580	4	Don't know anything about this guy but technically his funds could have been stored on a hardware wallet. His mistake was to store his private key on a system that's accessible over the internet and prone to hackers which seems to have taken place. If someone gets your hardware wallet private key, they will get access to your funds bypassing the additional layer of security provided by hardware wallet. 
+2	1523869858	3	A private key is baked into a hardware wallet. You do know the seed though. But if you're stupid enough to store the seed on an online device...Just write down your seed on a piece of paper and store it somewhere safe. Or even better: store it in an offline password manager and store the encrypted database file on several USB sticks and keep those safe in different places. 
+3	1523870258	2	Cheers! Used the wrong terminology. OP post sounds too sketchy to be true. Most seasoned investors know they should store they seed offline. Use a cryptosteel and store it somewhere secure.
+4	1523885551	1	Yeah but he was traveling a lot I guess that's why he choosed that method.
+0	1523872478	14	I find something fishy here. Ian said this ETH wallet "https://etherscan.io/address/0x20f2ce82c28b726930a9b476503df7b814335642" belongs to the hacker but I can see that this wallet address has a ENS named IanBal_Hack_4 (he has been creating ENS for his hacked wallets so everyone can see which of his wallets were hacked). So how was he able to create a ENS record for hacker's eth address?
+1	1523881533	3	That's not an ENS name. That's an etherscan nametag manually added by u/etherscan.See https://ethereum.stackexchange.com/questions/2620/how-can-i-add-my-name-next-to-address-on-etherscan
+2	1523882342	2	Right, its not ENS but a nametag. However, as per etherscan, you still need to verify the ownership of the address or smart contract in order for them to nametag it.
+3	1523884044	3	It’s a private tag to identify addresses of public interest. This has nothing to do with ens names
+3	1523901574	1	nope. Him publicly saying thats the hackers address is enough for them to tag it. Maybe he verified his own address.
+1	1523880795	2	That's an etherscan label, not an ENS name
+1	1523880153	0	Also wondering how this is possible. Only the private key holder can create resolve an ENS name.
+1	1523889408	0	You're an idiot. 
+0	1523875846	4	wow someone who people follow for advice on crypto storing such sensitive information online.I wouldn't dream of storing that info online, anywhere no matter how secure it is. I keep that info on a couple of USB sticks (in case one craps out)  and the machine used for trading doesn't get used for anything else. It's far from fool proof but way better than the method he used.
+0	1523887287	3	Hacker is dumping on Binance. https://etherscan.io/address/0x533f756bc918388dbe5adb11da35d36af28924c6#tokentxns 
+1	1523890244	2	How are you so sure it's the hacker? 
+2	1523894962	1	I am not. It could be him but doesn't make sense.
+0	1523864046	31	This is an exit scam. One does not simply get hacked when tax time comes. If you get hacked, just claim you lost all your crypto and profits. We had the same excuse from trevon james who claim he got hacked about 100btc out of his exodus.Paying tax on your crypto is too tough? Just pretend you got hacked...
+1	1523866782	15	Whether or not they realize it, they will still be on the hook for taxes if the man pursues it.
+2	1523875397	5	Great, declare bankruptcy, because he ain’t got shit to pay anything now. He got hacked remember? Who would go to jail because he got all his money stollen? 
+3	1523888769	3	So how is he going to ever cash out?  All fiat gateways (in the US) lead to financial institutions that issue 1099s.  You can’t just sell on Coinbase or Gemini, send $2 million to your connected bank and not have anyone notice.Maybe I’m too naive though. Perhaps he’s using another gateway?
+4	1523894966	1	Darkpools or large OTC cash transactions. Whales don't sell on official exchanges as they don't want to move markets.
+5	1523895677	1	> Darkpoolsthis would still need to hit a bank account which would trigger some automated flag as far as I am concerned. Large OTC cash transactions would do the same thing (if not worse!) over time depending on how you wanted to deposit. If you did it all at once it would be the same headache as cashing out via darkpool. If they were trying to sit on the cash and slowly deposit it, they'd probably be hit with structuring. I guess you could literally sit on 6-7 figures of cash indefinitely and simply never worry about day-to-day expenses ever again, but even that could bite you in the ass in years to come. tax-man don't play around. 
+4	1523895858	1	OTC trades.
+4	1523901723	1	cash out to cash or buy physical gold with it that you then go and sell and have that money deposited in a dubai bank account.
+3	1523886734	1	A tax evader...
+2	1523885657	1	No he is not because he is from UK.
+1	1523878723	1	Maybe that's the motive but I hope this event will have clearer explanations for the sake of all traders because we all know that this market is full of speculations that may affect the prices in the market
+1	1523885628	1	Tax time is for 2017. Also he is from UK. 
+2	1523895867	1	Thats not true. Please do not spread false information. Ian Balina was born in Kampala, Uganda, and immigrated to the United States with his family, when he was eight years old. He is US citizen.
+0	1523867288	7	Ya, shocker. That guy puts himself out there and reveals a lot. This was bound to happen sooner or later. We all need to be careful in this regards.
+0	1523865766	10	He was deep in on Ncash. Exit scamming himself. Zero respect after getting 600.000 USD in ncash to shill it to death. 
+1	1523871224	3	It was worth 1 million usd when he received it.  
+0	1523874948	7	I actually feel sorry for him. Rookie mistake, but you cannot be pleased this has happened to someone. Hope he can recover his funds and up his security game. 
+1	1523884672	1	Nothing to feel sorry about. He's a shilling pump and dumper who is just trying to exitscam. So much of this doesn't add up.
+2	1523884976	1	Exit scam what?
+2	1523884749	0	Everyone has a theory on it. Who cares.
+0	1523868212	3	Omg and people are hitting the hackers in wallet comments to send some over
+1	1523883894	3	I saw that. Those people give 0 fucks😂😂
+0	1523896745	3	Not that I'm happy but doesn't this guy LOVE to talk about how much he has and show it off? 
+0	1523865979	14	Blatant tax evasion imho
+0	1523873409	7	Holding $2m in crypto and storing the private keys in text form on Evernote is a kind of stupid I can't comprehend. No sympathy whatsoever.
+1	1523878951	0	Yeah I agree and someone  who is very known in endorsing in this community, I think he knows bettter than most of us here ans it was so disturbing that he was hack during the event of tax payment.
+0	1523864498	15	I don't believe it. This guys is a shmuck and is likely just trying to dodge taxes
+1	1523876403	0	Do you know how much the taxes in the USA are for crypto?
+2	1523886863	1	What the... is this a real question?
+0	1523870232	2	Too bad 
+0	1523878440	2	If you’re gonna store in a text file, you might as well encrypt the private keys in a PGP message..
+0	1523887605	2	Suck, but that's when you boast about your wallet every day. Btw is this Ian Balina posting or a user.
+0	1523889836	2	Poor guy. Like him or not, that is terrible if true.  Everyone - please take note on proper security measures.    
+0	1523893775	2	I'm impressed. That's a seriously inventive attack vector for a hack.
+0	1523894161	2	Man that really sucks for him, tough lesson to learn
+0	1523894576	2	You all do understand that he still has to pay taxes on last years gains right?
+0	1523897257	2	Ian Balina, as much as people hate him, is actually saying this to wake people up about crypto theft. He has a huge following and this will now promote people using hard wallets and taking secure measures to protect themselves. A "learn the easy way" story is being told here.
+0	1523897806	2	Whatever the case, seems like poor crypto security to me  using a publicly available email for transactions. 
+0	1523903135	2	Don’t buy this for a second. $2M kept secure by a colleague email any IT Admin could access or completely lock him out of. Private keys kept on Evernote (!) and with no 2FA etc as far as can be seen. Might as well just took a screenshot of his keys and put them on Pinterest. This then all happens during a livestream so we can whiteness the event unfold. He then asks his followers to follow coins movement(s) before they’ve even moved and proceeds to delete any inconsistencies with the narrative being driven. Something else is afoot. 
+1	1523903932	1	He said the coins moving to kucoin before it was move lmao and he deleted that tweet
+0	1523866628	5	Somehow I think this is him not trying to pay taxes
+1	1523875293	2	Exit scamming some cash out of the system. He deleted most of his Tweets last week.. and moved coins to wallets.. and now hacked. Wow. His acting was pretty bad as well on the end of the YouTube video. Follow this where he deleted most shills and bad calls : https://mobile.twitter.com/whatbitcoindid/status/982949171861901312
+0	1523877515	2	That sucks big time, hating the comments that wish this upon him out of jealousy.I managed to find a baby picture of Ian Ballina over in /r/photoshopbattles to make the day betterhttps://i.redd.it/899dc9r5w6s01.jpg
+0	1523880465	3	Yea tax season cometh, I too got hacked recently 
+1	1523887257	1	Tax season ended in 6 April
+2	1523897272	1	People live in different places, you know
+0	1523866157	3	Gmail reports every suspicious activity together with date/time/etc. No way you can give up by "thinking it was just an old email". 
+1	1523873871	3	It was his college email, not Gmail.
+2	1523891721	3	many .edu emails run on Gmail.
+0	1523867149	2	People always say don’t keep your coins on exchanges but exchanges with 2fa from google authenticator would have prevented this, right?  Also did he not have 2fa on for his email?I don’t know how much Ian has, I hope he didn’t lose it all.
+1	1523893665	1	The exchange advice is to protect yourself if the exchange itself is a scam, if it gets hacked, or if it decides (for whatever reason it likes) to withhold your funds. The advice is: if you don't own the private key, they're effectively not your funds. If you do know the private key, they are your funds (which was Ian's problem here :s)
+0	1523865737	2	Feel sad for you Ian. I don't have that much money, but l never do anything without my hardware wallet. Private keys are all we have, and we must secure them away from our computers/internet. Internet money business is just too risky for mistakes!
+0	1523863431	2	As per the transfers I can see OUT of the ETH wallets shared, pretty much everything is wiped clean.This is UNREAL, I feel for you Ian. To lose hard earned money in a flash must hurt very very deeply.
+1	1523865062	19	>hard earnedlmao
+2	1523871367	-3	I never thought that redditors are that jerk. People in this post are one step away from fever!!It is his hard earned money. If you think "hard earned" only means that you have to put the maximum effort to secure earnings, then I gladly claim that most of us has no hard earnings. People in my country work 12 hours physical labor for less than a dollar. 
+3	1523876249	6	He made some tweets
+4	1523886238	1	It's about gaining his position as a community figure that made his tweets so valuable. Same argument you can apply to any celebrity. They endorse a product for hefty sums and nothing but a tweet or insta. 
+3	1523883149	2	As you said, "hard" is relative. People in your country would probably say his money isn't "hard earned". Same thing happens here because he made a lot of money with comparatively little work.
+4	1523886348	2	You have to consider the work to reach his current role. My tweets or your tweets are not gonna earn us that money. It is because of his track record of successful ICOs.
+1	1523882085	2	lol its a stunt to try to avoid paying taxes man, no one is *that* stupid. even ian balina is smarter than that
+0	1523864825	2	You could set an bounty on Bounty0x.
+1	1523876746	1	check BNTY tweet to Ian
+2	1523880140	1	Bountysource. com 
+0	1523876446	2	Smart guy Balina, trying to evade from taxes!                                 
+0	1523882401	2	HES DUMPING NCASH ON BINANCE AS WE SPEAK!: https://etherscan.io/address/0x533f756bc918388dbe5adb11da35d36af28924c6#tokentxns
+0	1523871516	3	Obvious fake hack is obvious, reported this post to the IRS.
+1	1523887168	2	UK has IRS?
+1	1523873052	0	Would you rather pay tax or be publicly shamed in front of the entire world 🤦🏻‍♂️#ShutUp&TakeMyMoney
+0	1523873458	2	Trying to avoid tax eh? Ethically disgusting.
+1	1523887230	2	In UK you only pay on realized gains
+2	1523895879	1	Thats not true. Please do not spread false information. Ian Balina was born in Kampala, Uganda, and immigrated to the United States with his family, when he was eight years old. He is US citizen.
+2	1523898653	0	he is from the US, you IDI0T... Washington, DC.
+0	1523866959	1	Damn, happened during livestream, or at least that's when he noticed. http://www.economicsgazette.com/cryptocurrency-evangelist-ian-balina-hacked-during-livestream-1-million-stolen.htmlTotally rekt...
+0	1523883699	1	It's so easy to make a new damn wallet. I think most people starting out might have just copied their private key somewhere dumb. But when you become a crypto millionaire you make a damn new wallet that you know is secure. 
+0	1523886423	1	Ian Balina hacking the system while having his system hacked
+0	1523887587	1	Why dont people keep things on hardware wallets? I really dont understand the use of hot wallets ever. Either keep a small amount on an exchange for trading or keep it all offline. Seems insane to take the risk regardless of how much your portfolio is worth because its worth something to you.
+0	1523889830	1	Getting hacked will not alleviate you of taxes.  “Sorry IRS, I was walking to the bank with your money and someone took it!”  They aren’t going to care.
+0	1523891516	1	I am still learning about crypto. Where were the funds stored? And would they have been safer on some sort of external wallet device?
+0	1523893025	1	I am so happy he sold all of his ICX. 
+0	1523895213	1	Well don't store your private keys on fucking Evernote. And don't have an old compromised email out there that can be used to access your current gmail account. Especially if you're a public crypto investor/youtube personality! No one deserves to be hacked but that's well below any basic level of security in this space.
+0	1523895374	1	It’s hard to believe he wasn’t using a hardware wallet, this whole thing doesn’t really add up
+0	1523899475	1	If they were stored in "encrypted text files with passwords" how could they get into them? 
+0	1523899995	1	I keep my encrypted wallet JSON wrapped in an encrypted zip wrapped into another encrypted zip, backed up in the cloud, and offline. I don't have anywhere near millions but that is about as hard-core as I get with security.  Just in case I do have a coded paper copy of my raw private-key but that was really the only time I ever bothered to find out what my unencrypted private key was...
+0	1523901103	1	Seems like BS to me that anyone could "hack" encrypted files, unless your password was no more secure than what the average joe would use
+0	1523903953	1	Ian is a nice guy and I don’t think he’s faked this hack at all. He may have served as an advisor for some less than reputable projects and perhaps this is karma but overall I think Ian means well to the crypto community at large. I hope he learns from this and comes back stronger. It’s impossible to deny that if you were following his picks in 2017 you made out quite well. Hopefully when you come back Ian you can get back to basics and stop letting the advisory cash influence you and your followers anymore! 
+0	1523868358	0	1 day before taxes are due..... interesting
+0	1523864491	1	This is good for bitcoin!
+1	1523867618	0	gold!
+0	1523885365	1	https://youtu.be/qSYIr8dSoFEI’m spending too much time doing animation shorts on crypto and made this about him after his ICON temper tantrum. This guy is just all around shady.
+0	1523870741	1	Hacked on the 16th, Tax deadline on the 17th....hmmmmm
+1	1523887134	1	He is from UK and the 16th deadline is for 2017 taxes....in US...hmmmmm
+2	1523887678	1	https://www.reddit.com/r/CryptoCurrency/comments/8clo9b/ian_balina_hacked/dxg5e5d?utm_source=reddit-androidWonder how you explain this post then....hmmmmmmmm?
+3	1523888314	2	He is retarded. I took a glance at the addresses and a lot of tokens were moved to Binance. Maybe Kucoin too. Not sure.
+0	1523871566	1	So can I just get check I've got this right, because I'd never heard of him before. This "Ian Baleen" character is/was a whale of some type?
+1	1523872842	2	https://twitter.com/diaryofamademanhttp://ianbalina.com/
+0	1523872914	1	hacked the day before tax day? you do realize you still need to pay taxes on your gains, of 2017... good luck paying taxes on 3mil gains "hacked"
+1	1523887024	0	Do you realize he is from UK?
+0	1523886742	1	clearly just avoiding taxes lol  , also look his reaction at end of video , do u really think thats realhe just followed that guy's way who said his bitconnect moneys were hacked 
+0	1523892521	1	Ian Balina is just one of the many shills that we would be better off without. I hope he actually was hacked and not just pulling another lame ass scam.
+0	1523897430	1	The people who are celebrating him getting hacked sounds like bitter jealous ex girlfriends
+0	1523865328	-1	Ahahahaha. Get fucked. 
+0	1523867265	0	lmao idiot
+0	1523868194	-2	absolute scum, deserves it
+0	1523879391	0	Ian Balina is a cockbite.
+0	1523863850	-5	XD this is why crypto is not ready for mass adoption yet. I own 1000x less than him and my private keys are encrypted with 2fa with a yubikey required. Also not on a cloud service wtf. 
+0	1523891683	0	You have to be retarded to believe he got *hacked*. The dude has a fucking Bachelor's and Master's in Computer Engineering.
+0	1523864154	-16	Man Ian I feel for you so bad. It's horrible nd your a great part of the community. More than happy to send some donations if you have an uncompromised address.
+0	1523890890	0	Hahaha right after his ICX WAN tweet? Classic.
+0	1523891837	0	My rule of thumb, If you see Ballina shilling something it's likely a scam.
+0	1523893025	0	>IanBal_Hack_2lmao what the fuck
+0	1523893522	0	Remember when Trevon James did this?
+0	1523894385	0	-sees email about compromised account, containing 2 million $"Ok, what the heck ? I'll just deal with it later." Toally not staged :D
+0	1523896398	0	I bet he asked a friend to “hack” his gmail.
+0	1523880405	-2	Never keep Eth with other alts. With no Eth, they can't send funds
+1	1523881240	2	Can’t they just send some lol?
+2	1523881492	1	More effort
+3	1523901686	1	I don't think the hacker would mind the effort, especially not for this kind of money
+1	1523882386	4	but then they would just send a small amount of eth to the address first...
+0	1523871429	-1	Evernote?*Evernote?*That's just sad. And of course, it's horrible that he got hacked but... a little security is not a bad thing.https://keepassxc.org alone might be enough.And not accessing said stuff on the same computer he streams from. 
+0	1523880448	-1	Post ur portfolio again dumb fuck
+0	1523895181	-1	So glad this piece of shit got what he deserved. 
+0	1523870268	-2	look at parreto on kuk, aahahahah , I think it's the hacker, down 30%
+0	1523864771	-5	Your other thread has multiple replies. No need to keep reposting it
+1	1523865091	4	Do you have a link to the other thread?
+2	1523865154	1	thats someone else. mine has youtube clip
+2	1523865680	-3	Is the search bar broken on your computer?Judging by the downvotes, there’s lots of lazy people that think it’s other persons responsibility to find stuff online for others. Ridiculous.
+3	1523865865	0	Yes. 

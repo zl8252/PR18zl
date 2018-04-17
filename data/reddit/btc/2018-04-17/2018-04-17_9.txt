@@ -1,0 +1,34 @@
+File created at: 1523989363
+Subreddit: btc
+Submission title: Just got tipped $1 on reddit, how do I use it?
+Submission created utc: 1523958040
+Submission score: 87
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523958456	10	Depends on which tip bot was used.
+1	1523958708	8	it was /u/tippr
+2	1523958874	11	You can PM tippr 'balance' and it will reply with your amount.See [here](https://www.reddit.com/r/tippr/wiki/reddit-usage)
+3	1523958961	7	how do you put it into your bitcoin wallet?
+4	1523959241	16	PM:  withdraw 0.01 BCHWalletAddressHere
+5	1523959340	8	thanks
+5	1523959974	4	so like 'withdraw 0.00132823 3cb46661-8912-4b31-8392-81d1aa7451e5' ?
+6	1523960260	6	Do you have a wallet?
+7	1523960361	5	Nevermind I figured it out, I was using the wallet ID and it wasn't working
+8	1523960414	7	Good job!/u/chaintip
+9	1523970027	5	I think you forgot to put an amount lol
+9	1523962063	3	I don’t think it worked
+2	1523959702	3	https://www.reddit.com/r/tippr/wiki/reddit-usage
+0	1523960371	10	It's Tipping Tuesday!https://www.reddit.com/r/btc/comments/8cvg7k/its_tipping_tuesday_bch_pls_did_you_get_the_memo/300 bits u/tippr
+1	1523960408	3	u/FlagAssault, you've received `0.0003 BCH ($0.2322243 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523961635	2	I apparently got tipped $1 by the other tip bot but I don't know how to check it out
+1	1523961702	4	reply 'withdraw' to it
+0	1523964942	4	I want to try BCH, what should I do?
+1	1523969569	5	$0.5 /u/tippr 
+2	1523969584	3	u/ngoaho, you've received `0.00063874 BCH ($0.5 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+1	1523966477	3	Get a wallet and get some free BCH for fun. Try to send some to someone else.https://free.bitcoin.com/
+2	1523970252	2	Oh sweet I didn’t know free BCH was a thing, thanks!
+0	1523978126	3	i think I got tipped a while back, is there a way to check without finding the old comment? 
+0	1523974419	2	[go make a memo profile](https://memo.cash)
+1	1523977394	1	> This
+0	1523963676	-8	alt + f4
+0	1523977369	-2	gimmie it 

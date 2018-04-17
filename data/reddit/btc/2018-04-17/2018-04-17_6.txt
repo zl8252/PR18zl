@@ -1,0 +1,16 @@
+File created at: 1523989358
+Subreddit: btc
+Submission title: Op-Codes and Scripting Capabilities Coming to Bitcoin Cash
+Submission created utc: 1523929227
+Submission score: 101
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523961175	5	Scripting language is very powerful, from script comes higher programming languages.No other coin can do this, or will be able to.This is only the beginning, Bitcoin is coming out of "beta", using Bitcoin as "money" was only the first application.Think about this.
+1	1523967060	1	I mean, ETH has smart contracts, which are more flexible than opcodes. I get that BCH is innovating and that's great, but this isn't all that new.
+0	1523959774	1	i would prefer features like onchain privacy, things that make bitcoin transactions smaller. Signature aggregation 
+1	1523964821	5	Patches and spec are welcome.
+1	1523965528	5	Additional OP Codes can lead to the development of those kind of things...
+0	1523943733	1	Chainlink
+0	1523959587	-10	[room full of people who care](https://kek.gg/i/4D62xZ.png)
+1	1523973512	4	Your downvotes represent the people who care. 
+2	1523984251	1	> Your downvotes represent the people who care. These are not pople, Morty. These are bcashers.

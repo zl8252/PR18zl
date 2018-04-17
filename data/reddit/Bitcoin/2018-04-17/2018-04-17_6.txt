@@ -1,0 +1,37 @@
+File created at: 1523989343
+Subreddit: Bitcoin
+Submission title: Lightning Network is now live at Living Room of Satoshi!
+Submission created utc: 1523923648
+Submission score: 128
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523928287	7	Absolutely fanbloodytastic! Thank you LROS, you  rock!
+1	1523930063	5	Thanks! This is an exciting technology. It's still very early but we'd love to get people starting to try it out for real.
+2	1523931962	3	No worries, your site and service is awesome and now with lightning (albeit testing phase) it shows you guys are on the ball and keeping ahead of the pack.  Great stuff!
+0	1523924887	4	I'm missing some sort of explanation what "Living Room of Satoshi" actually is and what exactly can be paid through them.
+1	1523928790	8	It’s been around for awhile now. Allows Australians to pay their bills using a number of cryptos. 
+2	1523936637	1	Is there anything like this in the US (lightning or not)?
+3	1523936771	1	Not sure there is, this based on the bpay option when paying bills. It does require a certain amount of trust as it is effectively a 3rd party paying it on your behalf.
+0	1523950476	3	while some services are already have a working LN solution, some other services are not even able to add Segwit.
+0	1523942117	3	Just added it to http://lightningnetworkstores.comEDIT: wish I had an Australian bill so I could try the website.
+1	1523967009	3	I could offer you my electricity bill, I'll just fire up my Halong Miners first 
+0	1523979363	1	Paying my bills with lightning. Game changer.
+0	1523933985	1	Nice, Used this service before until they started asking for id. I use lbc now. Great to see tho. 
+1	1523977071	1	What is LBC if you don’t mind me asking?
+0	1523971288	1	Congrats!
+0	1523924857	0	The user experience described there is just awful.  Thanks for putting it together in one place though.
+1	1523925080	2	Well, all that steps needed only once - you can use opened channel to pay anywhere with LN.It takes about 5 min of "active" time, and maybe 1-2 hours of waiting for confirmations.
+2	1523987304	1	>  1-2 hours of waiting for confirmations.fucking lol. nobody has time for that
+3	1523988334	1	Really? Did you ever do international wire transfers?
+1	1523928123	2	Rubbish, its a top site very easy to use.. used it on and off for years never a single issue!
+2	1523928496	0	Um, cool?  Was there any mention of the site’s usability?  No?  We’re cool then.
+3	1523928844	0	You said user experience is crap. Wrong, never seen that, never heard it, never experienced it Where is your proof or its Bullshit
+4	1523929160	1	Hey, you’re pretty cute when you’re angry... but whatever... I was talking about the Lightning wallet users experience which is all that link goes over.  Did you click the link?  Did you read the steps?  Did you become enraged?  Well.. one out of three ain’t bad I guess.
+5	1523929569	1	Hehe - yeah you're right, it's still very early, and UX has a way to go yet. If you're an early adopter and want to try it out, we hope this guide will help you make your first payment on Lightning Network!
+5	1523931833	1	> s talking about the Lightning wallet users experience which is all that link goes over. Did you click the link? Did you read the steps? Did you become enraged? Well.. one out of three ain’t bad I guess.Nope didn't get enraged and I'm not angry, just sick of BS artists talking crap .
+6	1523935736	1	I hear you man.  I’ve felt the frustration of trolls talking crap and then just going in circles many times.  BTC trolls, BCH trolls... just trolls.  I’m a real person willing to talk objectively about what was posted.  I don’t know anything about the site.  I’ve learned everything I can and am still learning about lightning network like my investment in BTC depends on it.  I want to see the “aol moment” for lightning network happen.   This is not it.
+7	1523936169	1	Are you two bots? This is the weirdest, cringiest exchange I've seen in a cool minute..
+7	1523939099	1	Its not an aol moment but its a step in the right direction, for now this is an Aussie only site but in the near future it will expand out to other countries, its a game changer in progess
+5	1523967537	1	>  Did you read the steps? Did you become enraged? Those steps are all only required once.Eventually it will be part of your on-ramp (another different site then this one), where you'll join and be grouped as part of a Channel Factory for a 99% fee reduction. Should be seemless part of buying BTC, you just get a channel as well without having to think about it.
+6	1523971435	1	oh...sorry that part about becoming enraged was specifically for /u/impartial22 who was flipping shit over a perceived slight against his favorite website.  >  Should be seemless part of buying BTC, you just get a channel as well without having to think about it.Now this...um no.  How much of my BTC would automatically be locked up in a channel?  What if I was buying BTC to make a large on chain purchase and didn't want to transact on LN.  What if I'm going to be offline, out of town, unavailable climbing a mountain and don't want to pay a Watchtower to watch my channels?  No, friend, LN channels will always be opt-in, not something that happens automatically when you buy BTC.
+0	1523924031	1	Great news!

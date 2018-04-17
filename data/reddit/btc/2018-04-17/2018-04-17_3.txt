@@ -1,0 +1,98 @@
+File created at: 1523989354
+Subreddit: btc
+Submission title: The Trezor company calling Bitcoin Cash "Bcash"
+Submission created utc: 1523963179
+Submission score: 132
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523968038	40	Who cares? Trezor sux, ledger is far better. Let them call whatever they want.Slush is a hypocrite, spent so much twitter trolling to call bitcoin cash a scam and asicboost a cancer and now is using asicboost. Guy has no shame.This "bcash" name is childish and petty, let it there.
+1	1523975487	8	Didn't he also put a poll on twitter asking people whether "bcash" or "Bitcoin Cash" would be better?IIRC the vast majority voted for Bitcoin Cash.
+1	1523968308	3	I was going to buy the Trezor as some people complain a bit about the Ledger usability. I'm definitely giving the Ledger a try.
+2	1523968497	3	I don't own either and have not used any of them as I use paper, but if one has less usability than the other it's probably because its more secure than the other.
+3	1523979307	4	Ok jimbtc
+2	1523987844	1	I use keepkey and I am happy with it :)Edit: There is still one small bug though, but maybe they will fix it soon.
+1	1523986909	1	Unfortunately after using both extensively, the trezor is much more user friendly. As long as they continue to support BCH I won’t care what he calls it 
+0	1523963550	12	They are wierd..If you go through the split procedure they still use Bcash WTF.But ledger guy are not much better...
+1	1523963561	7	Hey, Ant-n, just a quick heads-up:  **wierd** is actually spelled **weird**. You can remember it by **e before i**.  Have a nice day!^^^^The ^^^^parent ^^^^commenter ^^^^can ^^^^reply ^^^^with ^^^^'delete' ^^^^to ^^^^delete ^^^^this ^^^^comment.
+2	1523977156	5	I get confused because a "rule" I was taught was "i before e, except after c"Of course weird, violates that rule.
+3	1523986532	1	There's a few more words which violate that rule too which is weird.https://en.m.wiktionary.org/wiki/Category:English_words_not_following_the_I_before_E_except_after_C_rule
+2	1523985244	1	Bots. Bots everywhere :)
+0	1523966434	39	OK this is the actual problem with Trezor: https://twitter.com/slushcz/status/943394942046621698The CEO is not mature enough to separate his personal views from his business. But still he offers BCH, classic lack of integrity of rich communists.
+1	1523980781	7	I think you have some similar issues by calling him a communist.  Whether or not he is one is irrelevant to this topic.
+1	1523969254	14	> The CEO is not mature enough to separate his personal views from his businessbut then you literally say, > But still he offers BCHSounds EXACTLY like he was able to separate his personal views from his business.
+2	1523970291	23	> Sounds EXACTLY like he was able to separate his personal views from his business.You'll be right if only he wound't had called it Bcash.The lack of integrity is shown when he thinks it's a scam but still accepts it. I won't include anything in my business that I think it's a scam for my customer, that will make me a scammer too.
+3	1523988701	2	Get teh fuck out of here with that nonsense. You're mad about 'bcash' but then call it 'btc' like its fucking bitcoin. The hypocritcalness of your post is hilarious
+3	1523973188	-5	Stop being so sensitive.  This sub calls BTC a million different derogatory names every day and no one bats an eye.
+4	1523975622	6	Is "artificially constrained" a derogatory term?
+4	1523976194	5	BCORE LOLImagine if I had posted that to r/bitcoin, do you think no one would bat an eye?
+5	1523988451	1	I don't know?  That's not the point either way
+2	1523974187	5	Having BCH support in the hardware/software and calling it "Bcash" and making these personal attacks is completely consistent with not separating his personal views, because they need to support moving "Bcash" coins to satisfy the fuckface twitter personalities who have sold all their "Bcash" at last 3-4 times so far.
+1	1523984194	1	It's just a name. At the end of the day, it's still a currency.
+1	1523987593	-1	Communist? You're so confused, but certainly in the right sub. I would say he's a libertarian. Says and does what he wants, but also doesn't stop people from doing what they want. This is a classic libertarian attitude. Literally the absolute opposite of a communist. To be a communist would be trying to force someone to use the language that you want them to.
+2	1523988395	1	Language is a tool used by communists to confuse people. But no, I haven’t forced anyone, if so tell me how, I’m just warning people about the tortuose use of the words, like any other brain washer. 
+0	1523968952	7	I think it was even worse before - wasn't it just called "BCash" back in September?I think the reason they're against Bitcoin (Cash) is obvious - SPEDNING is against their HODL interest. They don't want us to have Bitcoin on our cellphones.Now if they actually sat and thought about it, surely constant daily/weekly use of the device to help transfer some HODLings to/from their device to a cellphone would result in more wear and tear of the device, more devices lost etc... thus more devices ordered?If Lightning Network ever wins the Nobel Prize for the coders by fixing the routing problem, becomes a lot more securer and somehow used by billions of people it is actually bad for Slush as people will be risking all their funds online in hot wallets to try and make a few satoshis from channel funds. 
+1	1523979462	3	https://medium.com/@jonaldfyookball/why-some-people-call-bitcoin-cash-bcash-this-will-be-shocking-to-new-readers-956558da12fb
+0	1523982831	3	Personally I don't care where other people stand on the issue. That being said, when you acknowledge what's known to be the false and incorrect name for a currency then your company loses credibility.I definitely need a hardware wallet at this point and I found out ledger is going to be supporting Bitcoin Private as well so I think that will be what I get. I was actually looking at them last night but I'll definitely pull the trigger on the ledger over the trezor.
+1	1523982887	3	I've pulled the Ledger trigger a few minutes ago haha we'll see.
+2	1523983717	2	literally just went off of reddit to order it in these past 10 minutes, can't wait for it to get here.
+3	1523983828	1	Check this out https://www.ledger.fr/2018/02/23/announcing-new-ledger-wallet-desktop-mobile-applications/ it seems the user interface is going to be delicious.
+0	1523969780	2	I didn't believe it until I saw it. https://doc.satoshilabs.com/trezor-faq/overview.html#which-coins-are-currently-supported
+1	1523969842	3	yeah what's the same as my screenshot
+2	1523970198	3	The situation was even worse when they first started to support BCH. Screenshots from August: https://steemit.com/bitcoin/@jilagan/trezor-bch-support . At least now it is "Bitcoin cash" in the Trezor wallet.
+0	1523977707	4	Please ELI5: What is the problem with the name "Bcash"?
+1	1523978231	15	Nothing, really.BCH supporters don't like it because they believe that BCH is the true Bitcoin, and that removing the "Bitcoin" from the name is an attempt to deny that.BTC supporters use it because they consider BCH to be an altcoin, and believe that it using "Bitcoin" in the name is false advertising and causes brand confusion.It's mostly irrelevant. As the saying goes, "A rose by any other name would smell as sweet."
+2	1523983746	5	I'm sorry, but unbiased explanations are not permitted in crypto in general and BTC/BCH in particular.I'm going to have to ask you to rewrite this to include both irrationally strong support for one coin, and questions regarding the intelligence, intentions and species of parents of the supporters of the other coin. 
+3	1523988561	1	I second this motion.Please add more drama and propaganda
+4	1523988572	1	Redditor /u/kerato has low karma in this subreddit.
+1	1523978171	10	It is a name picked by blockstream because they get their panties in a bunch when anybody uses the word bitcoin. They think they own the name.Nobody that supports bitcoin cash calls it bcash. 
+2	1523981006	2	IMO it was fine to have some ambiguity of "the one true bitcoin" immediately after the fork. Now, it's been a long time and the majority of people, hash power, transactions etc consider BTC to be bitcoin. Most people, including folks who use bitcoin cash are quite happy with 'degrading' their name with an additional suffix and making it 'bitcoin cash'.  However, there are still a vocal minority that get their panties in a bunch about the cash suffix and still refer to BCH as 'bitcoin'. /That/ is deliberately misleading and detracts from an otherwise promising currency; it makes it look like a scam.
+1	1523981214	3	It's just completely unrelated (nonsense) name. Just like calling monero mcoin.
+1	1523981696	3	Trying to explain it from an objective point of view, there are two sides to the argument.The first is by those that are against BCH. When BCH first split there was a huge push / campaign to brand BCH as 'BCash' and the main reason for this was to remove the word Bitcoin from the name to make it less appealing to the main stream / new comer audience that had only heard of Bitcoin.The second is by those that support BCH. They want BCH to be known as Bitcoin Cash because it shares the same original block chain as Bitcoin and is closer to Satoshi's original vision to scale the size blocks to expand capacity.The widely accepted name is Bitcoin Cash with the ticker of BCH so at this point when people purposefully keep pushing 'BCash' it's now seen as a dig against BCH as remnants of the propaganda campaign.
+1	1523985063	-1	It's like claiming I'm a D♭ developer.
+0	1523979298	2	Hey, at least they put the real name "Bitcoin Cash" there too. :P
+0	1523976639	3	I always thought bitcoin cash is called Bcash and thats it legit short form. What's wrong in it ? 
+1	1523979419	4	https://medium.com/@jonaldfyookball/why-some-people-call-bitcoin-cash-bcash-this-will-be-shocking-to-new-readers-956558da12fb
+1	1523981274	4	Why not calling bitcoin bcoin then???
+1	1523977055	3	That is not true.
+2	1523977408	6	I said I thought that why. And now I am asking what is wrong in calling bitcoin cash as Bcash?
+3	1523977675	12	Because it delegitimizes the currency by trying to distance it from the bitcoin brand. Recognition is extremely important, and keeping bitcoin in the name is very important for that recognition. Also, it is derived from the genesis block, so it is bitcoin as Satoshi described it, and deserves to be called bitcoin. Some BTC supporters want it to act as a store of value, BCH supporters want it to act as cash.
+4	1523978159	-2	BCash sounds like "Be Cash". Sounds like a good name to me.
+5	1523981257	4	Another reason it shouldn't be used is because it is already a registered trademark for an actual [payment processor in Brazil](https://bcash.com.br/) that goes by that exact same name and existed long before r/bitcoin tried to force the term "bcash" into existence to try and slander the efforts of the part of the original bitcoin community that believed in increasing the block size."Bcash" is an infantile attempt to try and distance Bitcoin Cash from Bitcoin's internal warring, demonise it without getting "their Bitcoin" dirty, and marginalise/trivialise it by trying to sever it's identity from Bitcoin sites and others that would use it. It pretty much boils down to fragile egos and their belief that Bitcoin as they interpret it is *theirs*, and anything that deviates from their vision can not, should not and MUST not have any connection to what they think is Bitcoin.It's infantile, but thats the kind of people the small block/LN supporters are.
+5	1523978672	4	It might sound like a good name to you or for a new coin, but It's not the name for Bitcoin Cash, sorry.
+5	1523979433	2	https://medium.com/@jonaldfyookball/why-some-people-call-bitcoin-cash-bcash-this-will-be-shocking-to-new-readers-956558da12fb
+1	1523981650	-1	You should watch this - https://www.youtube.com/watch?v=oCOjCEth6xIThis video generates the energy to continue to call it BCash
+0	1523968434	1	i want to refund my trezor. ew.guess ill just have to recommend ledger to everyone from now on.
+0	1523973672	1	And this: https://www.reddit.com/r/btc/comments/8cvz5b/if_you_support_bitcoin_cash_you_should_avoid/?utm_content=comments&utm_medium=hot&utm_source=reddit&utm_name=btc
+0	1523981108	1	Also, it doesn't support ETH, tokens and bunch of other coins unless you are using 3rd party software.
+0	1523963805	-1	Looks like the girls are upset that Bitcoin (Cash) destroys the HODLing nonsense.  Their product is built around HODLing.
+1	1523972499	7	Are you really trying to call people “girls” in a derogatory way? And this is the mature community?
+2	1523978286	0	I don't think anyone ever claimed that this community was mature. Less censored (and thus more raw)? Yes. More mature? No.
+3	1523978401	1	I’ve definitely seen individuals claim it before. I agree it’s wrong to extrapolate that to the whole sub. Regardless, still a stupid thing to say
+0	1523964651	1	Has Trezor been alerted?
+1	1523965561	7	I don't know but this has been enough for me to prevent me from buying it. It's a very amateur device and I don't really want to support a company that is not agnostic to the internal fight. It's a regular STM32 with no special shields or anything. 
+1	1523966159	4	I'm afraid they are Core propagandists  https://twitter.com/slushcz/status/943394942046621698
+0	1523981547	1	Honestly, why is this even a thing? People use abbreviations or short forms for everything. End of story.
+1	1523981682	2	It's not. It's a Bitcoin Core troll trying to remove the word Bitcoin from Bitcoin Cash.
+2	1523981720	1	If you say so.. 🙄
+0	1523984675	0	Isn’t ledger bad for BCH because the fees are higher and you can set them lower? Or is that not true? 
+0	1523963573	-2	Some 'people' call it like Bcash. God save their sauls
+0	1523975058	-1	OP loves some good interwarring. Calm down bro. 
+0	1523980397	-2	And Bcash calls itself BTC. Funny. Names and such.
+1	1523985186	0	> Bcash You're talking about Bitcoin Cash, is that right?
+0	1523982445	0	Why are they supporting BGold??? That's misleading and confusing to innocent children cryptographers and fintech consultants. That's irresponsible and uphauling. BGOLD IS BMOLD!
+0	1523964355	-5	They call it both. However state the name Bitcoin Cash first, so they obviously acknowledge that Bcash isn’t the dominant term, but it might still be there to avoid any confusion.
+0	1523963648	-11	But...isnt it bcash? 
+1	1523964198	15	No
+0	1523972940	-9	I don’t see the problem  
+1	1523980038	2	https://medium.com/@jonaldfyookball/why-some-people-call-bitcoin-cash-bcash-this-will-be-shocking-to-new-readers-956558da12fb
+2	1523980498	-1	If they win, in lots of years, the name will be just “cash” /s
+0	1523973124	-7	So what who cares
+0	1523965617	-2	The Trezor requires Google in order to function.  You'd think a hardware wallet, which is supposed to be a security-oriented device, would want to be independent of Google.  Nope.  Your transactions are plumbed right in.
+1	1523966009	3	And it's not even that secure. A regular STM32 with your seeds in there.
+1	1523973000	3	>The Trezor requires Google in order to function.What are you talking about? No it doesn't.1. Install Trezor bridge2. Use Electrum or Trezor WalletNo Google required.If you're referring to the Chrome app, that was never *required* and *Ledger has a Chrome app too*.>Nope. Your transactions are plumbed right in.Ok, now you're just lying out of your ass.
+2	1523976813	1	Thanks for the correction.  Lol, relax, I'm not lying out of my ass - I didn't see any mention of Electrum in the setup.  I just downloaded and installed the bridge.  Sorry but I would never use a web wallet and am surprised this would be encouraged by a hardware wallet maker who claims to focus on security.> and Ledger has a Chrome app too.So what.  I wasn't making a comparison.  I never mentioned Ledger.  OP never mentioned the Ledger.  Post was about the Trezor.
+3	1523977723	0	>I just downloaded and installed the bridgeWhich has fuck all to do with Google. So I'm not sure why you pulled that bit out of your ass.> Sorry but I would never use a web wallet and am surprised this would be encouraged by a hardware wallet maker who claims to focus on security.When the keys never leave your device, there's nothing wrong with using a web wallet. The only concern would be privacy, but it's no less private than using Electrum since Trezor Wallet uses Bitcore as a backend.
+4	1523978509	1	Ok, here are your options when you're looking at the [Trezor setup](https://doc.satoshilabs.com/trezor-user/settingup.html) page: 1. web wallet (no other wallet mentioned) by way of prepackaged driver2. Google Chrome3. Google Play Store4. offline command lineThis is supposed to be a security focused device.
+5	1523978898	0	>This is supposed to be a security focused device.Yes, ok? It is. Can you point out the **specific** insecurity?Your original claim was that>You'd think a hardware wallet, which is supposed to be a security-oriented device, would want to be independent of Google. Nope. Your transactions are plumbed right in.Using a Chrome App to interface the Trezor to the Trezor Wallet website **does not** make your transactions "plumbed right in" to Google. 
+6	1523979856	1	You corrected me.  I acknowledged that.But when did the bridge come out?  It looks like a very new option to me. > Using a Chrome App to interface the Trezor to the Trezor Wallet website does not make your transactions "plumbed right in" to Google.You're plumbed right in to a Google product.  Why use a Google product to interface with a purportedly secure device?  That doesn't make sense to me.  Google isn't known for privacy/security.> Can you point out the specific insecurity?Not sure yet.  But I'm already too close to Google for comfort.   From a security standpoint I'm more comfortable with a paper wallet.
+7	1523980476	1	>But when did the bridge come out? It looks like a very new option to me.[2014](https://github.com/trezor/trezord).>You're plumbed right in to a Google productNo you're not.>Why use a Google product to interface with a purportedly secure device? Because it's easy, while remaining secure. If the security of the hardware wallet relied upon using secure software to interface with it, it would be pointless.>Google isn't known for privacy/security.Which is irrelevant here.>Not sure yet.Yeah, just as I thought.

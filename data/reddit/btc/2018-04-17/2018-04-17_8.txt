@@ -1,0 +1,361 @@
+File created at: 1523989360
+Subreddit: btc
+Submission title: It's Tipping Tuesday! BCH PLS, did you get the memo? Bitcoin is Cash!
+Submission created utc: 1523960098
+Submission score: 93
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523960844	8	Thanks for the tip!
+1	1523961334	8	300 bits u/tippr have fun playing around with it!Things to try:- Yours.org- memo.cash- tip others- play SatoshiDice :-D
+2	1523961365	1	u/FlagAssault, you've received `0.0003 BCH ($0.2323731 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523963539	7	memo.cash and yours.org. what's next for BCH? enough fighting. lets drive adoption
+1	1523965433	1	300 bits u/tippr hopefully more freelancing sites and remittance services. I like the human agent fiat gateways in Kenya - we need to learn from the 3rd world because banks are not our friends.
+2	1523976798	2	indeed. the way Kenya economy grows because of mpesa makes me understand more about money and believe in the blockchain technology more
+2	1523965444	1	u/haf_demon, you've received `0.0003 BCH ($0.2330109 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+1	1523979883	1	I have a super idea in the works but need help a dev to help
+0	1523966067	6	I got a $1 tip from bchtips but didn't have a bch address listed at the time so it doesn't appear to have gone through - will everyone have to add a BCH address before being able to tip/be tipped with bchtips? Source:https://www.reddit.com/r/btc/comments/87r1n0/24000_transactions_in_less_than_an_hour_mempool/
+1	1523968196	4	300 bits u/tippr no experience with bchtips, maybe /u/CityBusDriverBitcoin can comment?
+2	1523968205	1	u/Z13xcs, you've received `0.0003 BCH ($0.2351151 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+1	1523971285	3	I'm the creator of BCH Tips. If you don't have an address when you're first tipped the tip will be placed in a queue in the sender's browser and retried every 5 or 10 minutes or however frequently they configure it to check (it can even be set as low as 1 minute). Basically it should come through automatically next time they're online.
+2	1523971606	2	But it was /u/CityBusDriverBitcoin and he was on a few hours ago
+3	1523972043	2	I think he goes offline a lot. It should come through eventually. Here's something to tide you over. :)I sent you a tip of 0.00063885 BCH ($0.50 USD) with [BCH Tips](/r/bchtips)!
+4	1523978428	1	thanks a lot
+4	1523979834	1	Someone is logging..... 
+3	1523975400	2	yes that was me, I cancel it/remove from queue if you take more than 2 days to registrer ;)there you go.I sent you a tip of 0.00128318 BCH ($1.00 USD) with [BCH Tips](/r/bchtips)!
+4	1523978398	2	Thank you kind sir, I was more curious about it than anything but it was really cool seeing it randomly appear in my wallet like that
+1	1523970908	2	yes you need to link it first 
+0	1523978289	4	I love tipping Tuesday! I always make sure to take time out of the day to pop by here and read the latest news. Bitcoin is Cash! 
+1	1523978913	2	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+2	1523983587	1	Thanks!
+0	1523965012	7	You can do this with BCH because it's usable as cash for micropayments!
+1	1523966611	2	300 bits u/tippr 
+2	1523966647	1	u/chrimata, you've received `0.0003 BCH ($0.2335914 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+2	1523970783	1	Have a lovely day! You're the best
+3	1523971131	2	You hear that, my clones? ;-)Thanks for the kind words <3
+4	1523971250	2	Have people been making fake accounts of you too?
+5	1523972803	1	Yeah, I had about four
+6	1523973458	2	:( annoying. I do think it's funny people were making the fake memo accounts because they are spending and using BCH to do so
+1	1523973385	2	I sent you a tip of 0.00032082 BCH ($0.25 USD) with [BCH Tips](/r/bchtips)!
+2	1523973495	3	Oh wow thanks! BCH FTW indeed
+0	1523963158	3	BCH plz!
+1	1523963259	2	300 bits u/tippr moar opcodes
+2	1523963283	2	u/rdar1999, you've received `0.0003 BCH ($0.2324268 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+2	1523963554	1	Moar!! Thx ;)
+3	1523975638	2	I sent you a tip of 0.0003 BCH ($0.23 USD) with [BCH Tips](/r/bchtips)!
+4	1523976340	1	:)
+0	1523963838	3	Cool, thanks for doing this. Here’s a bit to help with the tipping. /u/chaintip Edit: looks like chaintip might be down. /u/tibanne 
+1	1523965338	1	Already replied to him in an older "Chaintip is down" thread on /r/chaintip, waiting for a reply.
+2	1523972261	2	I sent him a PM too, still waiting on a response. 
+2	1523965348	1	Here's a sneak peek of /r/chaintip using the [top posts](https://np.reddit.com/r/chaintip/top/?sort=top&t=all) of all time!\#1: [Introducing Chaintip: an on chain tipping bot for Bitcoin Cash.](https://np.reddit.com/r/chaintip/comments/7o4jg4/introducing_chaintip_an_on_chain_tipping_bot_for/)  \#2: [Suggestion](https://np.reddit.com/r/chaintip/comments/7z9y0c/suggestion/)  \#3: [First GitHub Bitcoin Cash bounty claimed that wasn't posted by myself!](https://github.com/bitcoinxt/website/pull/51) | [0 comments](https://np.reddit.com/r/chaintip/comments/7yi316/first_github_bitcoin_cash_bounty_claimed_that/)----^^I'm ^^a ^^bot, ^^beep ^^boop ^^| ^^Downvote ^^to ^^remove ^^| [^^Contact ^^me](https://www.reddit.com/message/compose/?to=sneakpeekbot) ^^| [^^Info](https://np.reddit.com/r/sneakpeekbot/) ^^| [^^Opt-out](https://np.reddit.com/r/sneakpeekbot/comments/7o7jnj/blacklist/)
+0	1523964657	3	Didn't get the memo ! Managed to register but the site was under heavy load and I kinda gave up on it, will try it again though as it seems to be getting some attention. You on it lovely day ?Thanks for doing the tipping Tuesday yet again, you a legend my man :-)
+1	1523969252	6	300 bits u/tippr Bob Marley is the legend XDsuggested playlist:- Is this Love(lyDay)- No BTC No Cry- Could You Be Paid- 21M Little Birds- Buffalo Coder- Get Up Stand Up (BCH)- Stir It Up (Trolls)- Easy Payments- One Bitcoin / People Get Ready- I Shot The Banker- Waiting In Vain (for my BTC transaction to confirm)- Confirmation Song- Satisfy my Wallet- Exodus (Bye Core)- Jamming (BCH)- Punky Reggae Party (extended BCH version)
+2	1523970839	2	Was listening to a bit of Bob at the weekend, a little bit old for doing it but was windows down and car stereo up, get up stand up at high volume driving into Tesco carpark, big smile on my face.Thanks for the BCH. One love-ly day
+2	1523969284	1	u/Calm_down_stupid, you've received `0.0003 BCH ($0.2352861 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+2	1523971692	1	Oh man !! Can't stop humming get up stand up and three little birds now !
+2	1523979308	1	ahaha No BTC No Cry
+1	1523975666	1	I sent you a tip of 0.0003 BCH ($0.23 USD) with [BCH Tips](/r/bchtips)!
+0	1523978837	3	First timer here, I'm excited to give it a try!
+1	1523978925	3	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+2	1523980539	1	Thanks!
+1	1523979249	3	$0.50 /u/tippr
+2	1523979304	1	u/xekari, you've received `0.0006434 BCH ($0.5 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+2	1523980553	1	Thanks!
+0	1523960475	2	Thanks for the tip! [1] pls! :D BCH for the win! 
+1	1523960650	3	300 bits u/tippr #BCHUpgradeDay on May 15 - more winning on the horizon!
+2	1523960705	2	u/captdane3, you've received `0.0003 BCH ($0.2323986 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523960561	2	Yo, I am early bird. Thanks!
+1	1523960694	3	u/chaintip
+1	1523961431	1	300 bits u/tippr while chaintip gets back on its feet
+2	1523961483	1	u/Phattacks, you've received `0.0003 BCH ($0.2323731 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523961232	2	Oh I got the memo!
+1	1523961388	2	300 bits u/tippr
+2	1523961424	2	u/BCH-Pls-, you've received `0.0003 BCH ($0.2323731 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523962337	2	Any one would do, Thanks!
+1	1523963214	1	300 bits u/tippr it is then (chaintip seems down, and I don't do bchtip because no Chrome)
+2	1523963223	1	u/_dontknowdontcare_, you've received `0.0003 BCH ($0.2324268 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523963220	2	Nice, memo.cash is very interesting!
+1	1523963379	3	300 bits u/tippr I bet it will become even more interesting after May 15, when more OP_RETURN space becomes available.
+2	1523963408	1	u/FoXERM, you've received `0.0003 BCH ($0.2326053 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+2	1523965001	1	That opcode allows you to store data in the blockchain by burning coins right?
+3	1523965700	3	"OP_RETURN allows a small amount of data to be included in each transaction, creating a provably _unspendable UTXO__ that the miners do not need to track, and that __does not require a non-dust burn value__." (emphasis mine)Quote is from this very good overview paper on storing data in the Bitcoin blockchain:https://digitalcommons.augustana.edu/cgi/viewcontent.cgi?article=1000&context=cscfaculty
+0	1523963234	2	Never got a tip, anything would do XD
+1	1523963469	2	300 bits u/tippr
+2	1523963525	1	u/emaz111, you've received `0.0003 BCH ($0.2326053 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+2	1523972864	1	I sent you a tip of 0.00032039 BCH ($0.25 USD) with [BCH Tips](/r/bchtips)!
+0	1523964596	2	Thanks! Get a lot of 422 on memo.cash when trying to follow...
+1	1523967814	1	300 bits u/tippr site is still in alpha, i'm going to have to go with "patience..."
+2	1523967847	1	u/sucrenoir, you've received `0.0003 BCH ($0.2353104 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523964600	2	Chaintip is still my favorite :)Glad there are three to choose from still!
+1	1523971182	1	300 bits u/tippr although i also wish chaintip was working now, I prefer it myself for Tipping Tuesdays!
+2	1523971417	2	Thank you :)That's the beauty of having alternatives.
+2	1523971205	1	u/RogueSploit, you've received `0.0003 BCH ($0.2341836 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523965104	2	I would like to receive tip to try BCH out!
+1	1523966569	1	300 bits u/tippr 
+2	1523966585	2	u/ngoaho, you've received `0.0003 BCH ($0.2335914 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+1	1523973013	1	I tipped you 0.00032039 BCH ($0.25 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523966038	2	[1] Thanks for the tip!  Cool that this is still a thing.
+1	1523966395	2	300 bits u/tippr 
+2	1523966406	1	u/johnhtims, you've received `0.0003 BCH ($0.2334747 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523966916	2	I joined https://memo.cash/profile/1aknSbyYiqNLTSCHSyK4YrZ8mQ5VHyqzj as wellIt would be better if new user can have some satoshis after registration so they can post a memo instantly! 
+1	1523971065	1	300 bits u/tippr
+2	1523971083	1	u/imcoddy, you've received `0.0003 BCH ($0.2341836 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523967201	2	[1] is fastest I guess, so I'd take that? (new to this sry) Thx
+1	1523970876	1	300 bits u/tippr
+2	1523970904	1	u/tpjustice, you've received `0.0003 BCH ($0.2341836 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+1	1523973065	1	I tipped you 0.00032098 BCH ($0.25 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523967386	2	Hope your day is indeed lovely 😁
+1	1523969903	2	300 bits u/tippr it is when I see all of you
+2	1523969944	1	u/captainkirkscousin, you've received `0.0003 BCH ($0.235284 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523967909	2	Thanks LovelyDay for doing these, great way of keeping the tippr spirit alive. 
+1	1523968727	2	300 bits u/tippr thanks Kain_niak, tippr rocks while chaintip sleeps ;-)
+2	1523968743	1	u/Kain_niaK, you've received `0.0003 BCH ($0.2348187 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+1	1523975680	1	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523968043	2	When bringing people into the world of bitcoin, one needs faucets and tipping tuesdays to get them started - love BCH
+1	1523975803	1	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523968744	2	Here we go weeeeeeeee
+1	1523969724	1	300 bits u/tippr my wallet is zerophobic too!
+2	1523969764	1	u/Zerophobe, you've received `0.0003 BCH ($0.235284 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+2	1523969902	1	LOL thanks!
+0	1523969148	2	Been a good week for BCH. My second week in this world. Let’s show how a cryptocurrency should work. 
+1	1523969430	1	300 bits u/tippr indeed, thanks to all those who make it work by building stuff, paying for stuff, donating to orgs, thinking about how to solve problems! They are all Satoshi.
+2	1523969465	1	u/Denial8, you've received `0.0003 BCH ($0.2348367 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523969799	2	How do I get the bch from the tipbot?
+1	1523969862	1	https://www.reddit.com/message/compose?to=tippr&subject=Withdrawal&message=withdraw%20AMOUNT%20ADDRESS
+1	1523973196	1	I tipped you 0.00032093 BCH ($0.25 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523969849	2	BCH pls!
+1	1523970023	1	LOL, I want to ask you what Reddit was like in the early days, right after the Digg Bang300 bits u/tippr
+2	1523970821	2	Thanks! I'm going to tip it forward on memo.cash. Are you active there too?
+2	1523970065	1	u/infraspace, you've received `0.0003 BCH ($0.2346681 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523970491	2	>Whitepaper: https://bitcoin.com/bitcoin.pdf (identical to https://bitcoincash.org/bitcoin.pdf - guess why!)This makes my day. **Please also add the Spanish versions**.I have been wondering for some time when they would add it. I love you guys.----If you are going to leave a tip, please use *ChainTip* or Tippr.----**Post Scriptum:** if my user seems unknown, I am u/realsomospolvo/. This is my old account, which I recently recovered.
+1	1523970789	1	>I am u/realsomospolvo/. This is my old account, which I recently recovered.From here I confirm that it is true :)
+2	1523974360	2	congrats on recovering your old account!300 bits u/tippr
+3	1523974385	1	u/realsomospolvo, you've received `0.0003 BCH ($0.2335308 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523971093	2	Where can i find users who represent the memo.cash project on here. I would like to contribute some UI work. 
+1	1523975712	2	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+1	1523974282	1	Not sure, I think it's still closed source. But you can hail @memobch on Twitter
+0	1523971149	2	I love the "Tipbot weather report"
+1	1523974088	1	300 bits u/tippr thanks, seems every Tuesday we have some problem with either Reddit or some tipbot :-x
+2	1523974143	1	u/TheRealHarvyGrant, you've received `0.0003 BCH ($0.2336676 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523971212	2	Ok so first, Tippr, then ChainTip now BCH tips? wow so much choice! 
+1	1523971689	2	I sent you a tip of 0.00063997 BCH ($0.50 USD) with [BCH Tips](/r/bchtips)!
+0	1523972322	2	Can i still join?
+1	1523973224	1	[No need to ask for permission](https://falkvinge.net/wp-content/uploads/2017/11/letter-from-the-ceo.pdf). You are Satoshi :-)300 bits u/tippr
+2	1523973244	2	u/theanneproject, you've received `0.0003 BCH ($0.2334123 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523972359	2	Can't wait for the flippening!
+1	1523973250	2	I tipped you 0.00032082 BCH ($0.25 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523972572	2	To be fair, you have to have a *very* high income to understand Blockstream. The changes they made is extremely subtle, and without a solid grasp of fulminology most of the changes will go over a typical Beecaesher's head. There's also Adam Back's nihilistic outlook, which is deftly woven into his characterisation - his personal philosophy draws heavily from *Joseph Goebbels* literature, for instance. Core's supporters understand this stuff; they have the intellectual capacity to truly *appreciate* the depths of these changes, to realize that they're not just intelligent- they say something deep about LIFE.
+1	1523972986	2	1984 bits u/tippr
+2	1523973009	1	u/AMinhToThePast, you've received `0.001984 BCH ($1.54843264 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523973319	2	One coin, one chain... let’s get together and feel all right 🤙
+1	1523973720	1	300 bits u/tippr won't you help to sing these songs of freedom
+2	1523973724	1	u/wladston, you've received `0.0003 BCH ($0.2338326 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523974316	2	It's raining bch holy moly
+1	1523975920	1	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523974487	2	Everyone give me a follow on memo.cash and I'll give you a follow and a tip back: bobymicjohnSpread that BCH today ya'll!
+1	1523975740	2	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+1	1523980662	2	Following you: https://memo.cash/profile/181vA6bdHpKM6H46GEGaYoSPyHE7GcZtPv :)
+0	1523977961	2	I like fun. we should do our own millionairemarker
+1	1523978908	1	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523978676	2	Thank for the tips!!
+1	1523978920	2	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523979062	2	Hello ty
+1	1523979242	2	$0.50 /u/tippr
+2	1523979244	1	u/64BbuB1aVYPt, you've received `0.0006434 BCH ($0.5 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+1	1523979252	2	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523979111	2	Thanks for the tip! 
+1	1523979237	3	$0.50 /u/tippr
+2	1523979246	2	u/psych0hans, you've received `0.0006434 BCH ($0.5 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+1	1523979258	3	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523980846	2	speaking of memo...cash, i made a (although simple) dark theme for it. [check it out!](https://jacz.moe/memocash)
+1	1523982302	2	300 bits u/tippr thanks!
+2	1523982363	2	u/AnAwesomeMiner, you've received `0.0003 BCH ($0.2335119 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+2	1523982625	2	NP, thanks for the tip :)
+0	1523985316	2	You guys don't know how very helpful is this, for a lot of people who really need an income. BCH is also a good choice for all those beginners at cryptos. Thanks for this!
+1	1523987747	1	3000 bits u/tippr
+2	1523987763	1	u/Cetrespo, you've received `0.003 BCH ($2.333052 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523986977	2	Tip me baby one more time
+0	1523988944	2	Happy Tuesday! I created a BCH POS concept I plan to post on Reddit and Yours.org today for vending machines. Hopefully people like it!
+0	1523963127	2	I like these posts. 
+1	1523963239	3	300 bits u/tippr So do I :-D
+2	1523963284	2	u/Borre91, you've received `0.0003 BCH ($0.2324268 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523960459	1	I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:- [/r/tippingtuesday] [It's Tipping Tuesday! BCH PLS, did you get the memo? Bitcoin is Cash! • r\/btc](https://www.reddit.com/r/tippingtuesday/comments/8cvgpg/its_tipping_tuesday_bch_pls_did_you_get_the_memo/)&nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
+0	1523963569	1	Tuesday coin! 
+1	1523968804	1	300 bits u/tippr lol no, you can buy / spend / earn it everyday
+2	1523968865	1	u/chefticus, you've received `0.0003 BCH ($0.2349909 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523963959	1	Yay! Tippr please :)
+1	1523972783	1	300 bits u/tippr
+2	1523972824	1	u/Wun_Lai, you've received `0.0003 BCH ($0.234138 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523963981	1	I'm here for the tips and the real bitcoin
+1	1523971267	1	777 bits u/tippr it's your lucky day
+2	1523971324	1	u/neolock, you've received `0.000777 BCH ($0.605969091 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523964577	1	The future is now!
+1	1523971235	1	300 bits u/tippr
+2	1523971265	1	u/CryptoNoobieFOMO, you've received `0.0003 BCH ($0.2339649 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+2	1523971361	1	I've been using BCH since Sept 2017, and never had to pay more than a fraction of a penny for fees! Always confirmed quickly! Can't wait until I can buy coffee with BCH in my area!
+0	1523965103	1	^^ Thank you
+1	1523966595	1	300 bits u/tippr 
+2	1523966649	1	u/zappysleet, you've received `0.0003 BCH ($0.2335914 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523965973	1	thank you, tips cool tippr
+1	1523966560	1	300 bits u/tippr 
+2	1523966587	1	u/BitcoinCashCollector, you've received `0.0003 BCH ($0.2335914 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523966043	1	never get tip, me sad😢
+1	1523966375	2	300 bits u/tippr don't worry be happy
+2	1523966410	1	u/ajixz, you've received `0.0003 BCH ($0.2334747 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+1	1523973631	1	I tipped you 0.00032093 BCH ($0.25 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523967080	1	LOL my name is made for this. Thanks a ton.
+1	1523970837	1	300 bits u/tippr PM_ME_YOUR_USERNAME
+2	1523970845	1	u/PM_ME_SOME_CRYPTO, you've received `0.0003 BCH ($0.2347968 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523968011	1	Yes please!
+1	1523969929	1	300 bits u/tippr proof of double spend
+2	1523969943	1	u/chefticus, you've received `0.0003 BCH ($0.235284 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+2	1523972296	1	Hey dude! You tipped me twice ! 
+3	1523973101	1	Tip error in your favor.I tipped you 0.00032093 BCH ($0.25 USD)! [How to collect](https://redd.it/7xwesx)
+4	1523985822	1	Is this a new tipper? Not come across it before? 
+3	1523973170	1	tip it forward if you don't want it :-D
+4	1523984183	1	Thank you, I know just who as well! 
+0	1523968956	1	Hi, can i get a tip? TY
+1	1523969657	2	3000 bits u/tipprThe answer is almost always YES :-Dand yes, it's not a typo
+2	1523969704	1	u/DitoSmith, you've received `0.003 BCH ($2.35284 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+3	1523972095	1	Thanks a lot. If you ever need some BCH related translate from english to spanish i can do it for free :-)Have a lovely day..
+1	1523973135	2	I tipped you 0.00032093 BCH ($0.25 USD)! [How to collect](https://redd.it/7xwesx)
+2	1523974372	1	Thank you bch_ftw There is so much love in this post. I read that you create bchtips. Awesome! I'm gonna start using it.
+0	1523969075	1	Hi
+1	1523969551	1	300 bits u/tippr :waves:
+2	1523969586	1	u/kingoftheflock, you've received `0.0003 BCH ($0.2348367 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523969082	1	I would like to receive some bch, ty! 
+1	1523973158	2	You got it. :DI tipped you 0.00032093 BCH ($0.25 USD)! [How to collect](https://redd.it/7xwesx)
+1	1523969479	1	300 bits u/tippr Is there a Bitcoin Cash meetup in Romania? Could be time for one!
+2	1523969525	1	u/Drakoxx, you've received `0.0003 BCH ($0.2348367 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523969493	1	It‘s tuesday again?
+1	1523969777	1	not everywhere, but here on /r/btc it is ;-)300 bits u/tippr
+2	1523969823	1	u/SauerkrautKartoffel, you've received `0.0003 BCH ($0.235284 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523970020	1	Another Week, more news for BCH. I'm liking what I see so far! 3000bits? I think yes! Time to help spread the word!
+1	1523970161	2	Nice to see people making things!https://www.reddit.com/r/CryptoCurrency/comments/89g3ep/were_here_to_help_you_store_your_ledger_or_trezor/300 bits u/tippr
+2	1523979106	2	:)
+2	1523970185	1	u/Pixels3D, you've received `0.0003 BCH ($0.2346681 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523970761	1	oiii BCH kings!
+1	1523971612	2	300 bits u/tippr
+2	1523971625	1	u/STAR-ninja, you've received `0.0003 BCH ($0.233637 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523971119	1	Chain tip me dawg!
+1	1523974117	1	u/tibanne, I'd like to tip this redditor, but chaintip is down
+2	1523976430	1	Chaintip is down? how?
+3	1523977695	1	I've tried to tip a person usingu/chaintipbut didn't get a bot reply. Let's see what it does in your case.
+1	1523975840	1	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523972735	1	Hey Hey Heeeeeey!!!
+1	1523972850	2	300 bits u/tippr wazaaaap
+2	1523972944	2	WAZA WAZA WAZA WAZAAAAAA
+3	1523973029	1	Bitcolleeeeeeeeect
+4	1523973108	2	NO NO NO NO NOOOOO!!!! ITS A SCAM! XD
+2	1523972885	1	u/linzerdshaffen, you've received `0.0003 BCH ($0.234138 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523973101	1	Hi!
+1	1523973982	1	300 bits u/tippr Hi! :waves:
+2	1523974024	1	u/identicalBadger, you've received `0.0003 BCH ($0.2336676 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+2	1523975633	1	Gracias!
+0	1523973228	1	Hi, i´m from venezuela and here we do love this tipping post.I wonder the best way to make BCH an everyday thing here in our troubled country.For now, i gonna try to use this tip to know yours.org and memo.Thank you my friend.
+1	1523973429	2	interesing
+2	1523973867	1	Thank you. What do you find interesting?
+3	1523974715	1	> interesingI find your profile interesing30 bits u/tippr
+4	1523974790	1	Well, thank you sir.
+4	1523974805	1	u/Bibi489, you've received `0.00003 BCH ($0.02333679 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+1	1523973759	2	I tipped you 0.00032096 BCH ($0.25 USD)! [How to collect](https://redd.it/7xwesx)
+2	1523973923	1	Thank you my friend. BCH tips? Great :-)
+1	1523975864	1	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+2	1523978470	1	Thank you bus driver!
+0	1523973334	1	😘
+1	1523973537	1	300 bits u/tippr I had to google that. <3
+2	1523973543	1	u/Fatter_than_your_mom, you've received `0.0003 BCH ($0.2338911 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523973688	1	/u/LovelyDay you da real MVP for keeping Tipping Tuesdays alive
+1	1523973840	1	Shout out to all other tippers who help, and whoever invented Tipping Tuesday (not me)300 bits u/tippr
+2	1523973844	1	u/paperboi2000, you've received `0.0003 BCH ($0.2338326 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523973906	1	Hi tipping Tuesday, I wanna continue spamming friends with cointext, for raising awareness. 
+1	1523975902	1	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523974049	1	first timer here,id love me some BCH :p
+1	1523974470	2	how did you learn about Bitcoin Cash?300 bits u/tippr
+2	1523974504	2	u/ShinSeiryuu92, you've received `0.0003 BCH ($0.2335308 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+2	1523975077	1	when i synced an old btc wallet from 2012,then instantly became interested in it.
+0	1523974261	1	Ay its that time of the week again
+1	1523974526	1	the time between Monday and Wednesday, let's call it TipDay300 bits u/tippr
+2	1523974563	1	u/Killerjayko, you've received `0.0003 BCH ($0.2333679 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523974659	1	I love this community!  A block chain focused on keeping fees low, scaling onchain, and derived from the genesis block...  This is the real Bitcoin!
+1	1523975675	1	300 bits u/tippr
+2	1523975704	1	u/LedByReason, you've received `0.0003 BCH ($0.2336811 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+1	1523975937	1	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523974738	1	Heyho thanks in advance. Never had BCH happy to test it
+1	1523974894	1	300 bits u/tippr I never knew about bananos TIL
+2	1523974924	1	u/mentano, you've received `0.0003 BCH ($0.2333511 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+2	1523974993	1	Thanks! You should try BANANO they are tasty.
+0	1523974828	1	I'm a newcomer, have been interested in bitcoin for a little while but only looking at bitcoin. Did get a bitcoin cash tip when I first got on Reddit and looking  into it on bitcoin begginer but they said it was a scam so I never collected it. Bit wiser now. Still not sure which one is best but I'm starting to lean towards bitcoin cash. 
+1	1523975880	2	300 bits u/tippr well, the best way to find out is to use it!https://learnbitcoin.cashhttps://usebitcoin.cashhttps://yours.orghttps://memo.cashetc.
+2	1523975884	2	u/Mr_DB_Cooper, you've received `0.0003 BCH ($0.2336838 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+2	1523977896	2	That was a little confusing, another guy replied sending a tip too but his had a different message saying I needed to collect it (more like happened last time ) I read the instructions but I don't have a wallet yet to give it a bitcoin cash address so I moved onto your reply and have managed to get it to send me a balance which shows your 300 bits, cool. Going to look into getting a bitcoin cash wallet to claim the other guys tip. I already have mycelium and I'm sure I read they were going to include bitcoin cash but I don't think I have that option yet.
+3	1523978961	2	look like you just received it, what wallet did you use ?
+4	1523980413	2	Yes I did 😀 and it took like seconds 😀😀I got the bitcoin.com wallet from the resources links on the sidebar of this sub.Was a bit confused at first as the other guy sent a tip at the same time and they had different messages but figured it out. Very generous of you and the other guy too.
+3	1523979621	2	Actually, as soon as I tip you with u/tippr , tippr creates a wallet for you.This isn't really meant to be used as a wallet, but of course you can deposit to it and withdraw from it, so it _is_ a wallet of sorts (but one where you do not control the keys, just like many other web wallets).You can find out your tippr deposit address using the instructions for 'deposito' here:https://www.reddit.com/r/tippr/wiki/reddit-usageAnd you can receive funds to that address from anyone while you set up a wallet of your own.
+1	1523975965	2	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523975060	1	Bitcoin Cash is targetting itself as a peer-to-peer electronic cash transfer blockchain — not a value-storage blockchain.
+1	1523975977	1	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523975205	1	300 bits /u/tippr - thanks for doing this :) 
+1	1523975225	1	u/LovelyDay, you've received `0.0003 BCH ($0.2337141 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+1	1523976014	1	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523975239	1	Thx man, have a good one! [2]
+1	1523975994	2	I sent you a tip of 0.0003 BCH ($0.23 USD) with [BCH Tips](/r/bchtips)!
+2	1523976131	1	Sweet, thank you!
+0	1523975364	1	How does this work?
+1	1523975999	1	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523975672	1	Thanks for the tip! 
+1	1523976355	1	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+2	1523977291	1	Thanks, how I get them to my account? 
+3	1523977342	2	read instruction above[or just add your address in this msg](https://www.reddit.com/message/compose/?to=bchtips&subject=my+bitcoin+cash+address)
+0	1523976073	1	I like my transactions like I like my coffee. Fast and cheap. Go bch!
+1	1523976370	1	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523976367	1	Where do Chaintip and BCHtips take money for TX fees?
+1	1523976659	1	I sent you a tip of 0.0003 BCH ($0.12 USD) with [BCH Tips](/r/bchtips)!
+1	1523976728	1	u/bch_ftw
+2	1523977465	1	?
+3	1523977551	1	I don't understand why it say 0.12$ USD lol
+4	1523978280	1	huh?  where does it say that?
+0	1523976589	1	FYI, you can tip at Twitter also. Right now you can claim a few bits from this guy [@bchfrance](https://twitter.com/BCHFrance/status/986241846488645632?s=19)Edit: oops, I should have edit my comment instead of posting a new one. Sorry about that.
+1	1523976667	1	I sent you a tip of 0.0003 BCH ($0.12 USD) with [BCH Tips](/r/bchtips)!
+0	1523976695	1	Follow me on memo!Ragnar723(1CF6QD9yZPK263fbHXhqhmDXa4Z2k8ratw)
+1	1523976803	1	I tipped you 0.0003 BCH ($0.23 USD)! [How to collect](https://redd.it/7xwesx)
+0	1523976992	1	thanks man
+1	1523977251	1	I sent you a tip of 0.0003 BCH ($0.23 USD) with [BCH Tips](/r/bchtips)!
+0	1523979597	1	Here we go again. 💪BCH🤙 PLS🤳
+1	1523982722	1	300 bits u/tippr
+2	1523982786	1	u/Veges, you've received `0.0003 BCH ($0.2331498 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523979815	1	Ayyyy!!
+0	1523979905	1	Tippr is BAE
+0	1523980059	1	Bitcoin Core is mad whenever someone tips with these 😂😂
+1	1523982273	2	300 bits u/tippr The Maddening
+2	1523982304	1	u/parkufarku, you've received `0.0003 BCH ($0.2336994 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523981003	1	BCH, pls!
+1	1523982559	1	300 bits u/tippr
+2	1523982606	1	u/jamesjwan, you've received `0.0003 BCH ($0.2335119 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+2	1523988112	1	hey would you mind sending that again. i sent it to satoshi dice an hour ago, but it still hasnt sent anything back yet even though it says confirmed. thanks in advance.
+3	1523988321	1	thanks for playing, i guess
+4	1523988433	1	its not even showing up in the list on the website, so i think the transaction got lost.https://explorer.bitcoin.com/bch/tx/b3b32a8057ff6a69345df8523bb20b48f871d5a24608996a75705185ae481a6e
+5	1523988877	1	can you help? /u/SatoshiDiceCash
+0	1523981169	1	Pretty giddy to get free CASH
+0	1523981198	1	/u/LovelyDay  /u/CityBusDriverBitcoin  /u/BeijingBitcoins are the real MVP's /u/MemoryDealers  - i'm sure you are in a good position to tip. make sure these awesome people get some love!
+0	1523981637	1	Loving these Tuesdays :D 
+1	1523982489	1	300 bits u/tippr
+2	1523982543	1	u/R3DJOK3R1, you've received `0.0003 BCH ($0.2335119 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523982774	1	hey! can I get one? thanks!
+1	1523984135	1	sure, 300 bits u/tippr
+2	1523984164	2	u/PotentialConsequence, you've received `0.0003 BCH ($0.2336538 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+2	1523985872	2	thank you!
+0	1523984479	1	tippr bot is the only account I pm. So my internet best friend is technically AI. Damnit Alex was right! ;) thanks for the tip!
+0	1523985346	1	Gimme some! 
+0	1523986854	1	I didn't know tipping Tuesday was a thing. Good to know.
+1	1523987633	1	300 bits u/tippr
+2	1523987644	1	u/ostracize, you've received `0.0003 BCH ($0.2331525 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523987718	1	I gotta pay more attention on Tuesdays I guess! 
+1	1523987912	1	just subscribe to /r/TippingTuesday and get a link to active Tuesday tipping occasions when they happen :-)300 bits u/tippr
+2	1523987943	1	u/jammastajew, you've received `0.0003 BCH ($0.2333052 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523988978	1	Username checks out. You made Tuesday a lovely day.
+1	1523989040	1	300 bits u/tippr
+2	1523989084	2	u/ch33ze, you've received `0.0003 BCH ($0.2334198 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1523989055	1	I love this tradition so much
+0	1523989130	1	BCH for the win. Been pushing it in my friends circle to check it out ever since the fork.
+0	1523989240	1	Anyone interested in financing a venture for profit?Any interested contact DM and I explain
+0	1523979573	-1	TX highway always looks like a ghost town for BCH. I am glad you guys are propping up the stats with your chain tips!!!!https://imgur.com/a/vhK1MGO BCH! GO!

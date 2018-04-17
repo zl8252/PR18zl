@@ -1,0 +1,44 @@
+File created at: 1523989347
+Subreddit: Bitcoin
+Submission title: I just realized I check my Bitcoin value 100 times more often than my actual bank balance
+Submission created utc: 1523925569
+Submission score: 102
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523925812	61	because your bank balance doesn't change 100 times a day
+1	1523940832	9	It does, if you measure it in bitcoin over any long enough period. It's too depressing to monitor.
+2	1523958692	3	> 100 times a day> if you measure it in bitcoin over any long enough period
+3	1523981173	1	It does, if you measure it in bitcoin. Over any long enough period, it's too depressing to monitor.
+1	1523929247	1	This.
+0	1523926027	17	Because your bank balance doesn’t magically increase while you don’t use it.
+1	1523926913	10	Or decrease 
+2	1523927494	7	Neither the quantity of Bitcoin in your wallet nor Dollars in your bank account increase or decrease if you leave them alone (aside from extremely minuscule interest  payments from bank accounts) . The value of both however do change, Bitcoin can swing violently up or down in value, but historically the value of your dollars are always going down.
+3	1523929931	0	Yeah but you won’t notice the money in the bank as quickly as your bitcoin going down when you need to pay them bills. Keep the money in the bank for spending bitcoin is just a risky investment 
+2	1523933827	2	Wellllll, it does decrease. To be technically correct, his Bitcoin value doesn't go down or up unless he sells Bitcoin or buys it. 1 BTC == 1 BTC. 1 USD == 1 USD. I'd argue that Bitcoin is increasing while the USD is decreasing. 
+3	1523970238	0	This. The USD value of 1 BTC does change but not the quantity, but his USD in his bank account stays the same. 
+4	1523971170	0	Wrong. Inflation. 
+5	1523973756	0	Wrong. Inflation every minute ? Every hour? That's how fast Bitcoin changes. 
+6	1523973837	1	if you think hyperinflation won't happen here and everywhere, you'll be one of those people who wake up one day and be caught off guard. i.e. Venezuela. 
+7	1523974700	1	Don't bead because you're venezualan
+0	1523927295	7	well, you check the BTC *exchange rate* more often than you check your bank account *balance.* 
+1	1523930852	1	My bitcoin balance only changes when I spend it or buy more.
+0	1523926033	5	LOL.... I count the money in my wallet 100 times more often than I count my fingers.
+1	1523945218	1	Same OCD problem here!! 
+1	1523978338	1	How often does someone count their fingers?Last I checked I still had 10. 
+0	1523945142	2	Lucky you, I don't have any bank balance!! 
+0	1523959219	2	1 doge = 1 doge
+0	1523967257	2	Time to check the price of bitcoin again.
+0	1523940883	2	Obviously you don't have a wife with a shopping habit. If you did, maybe you would.
+1	1523952164	1	just keep seperate accounts. voila.
+0	1523959276	1	LOL - that's because i's way way more exciting with more chance of mooning
+0	1523963347	1	Do you still have a bank account?! LOL
+0	1523970663	1	That’s because there is no chance you will get any money on your bank account 
+0	1523971347	1	we're all broke xD
+0	1523976163	1	you already know your money is not yours at the bank.
+0	1523976883	1	If the stuff you bought was priced in BTC, you wouldn't check it much.  Hopefully we'll live to see that day.
+0	1523926134	1	No shit, Sherlock
+0	1523926139	1	That's because you know your bank is stable.
+0	1523926582	0	Seems logical if you hold more crypto than fiat.But also seems like an ocd compulsion if hodling for long term regardless....
+0	1523931168	0	B/C your bank balance probably just gets lower, while your Bitcoin just gets higher. 
+0	1523929634	0	Why would u check the balance of your bank?If you want to see your banks currency fluctuate just value it to BTC. So for example $1 in my bank is changing all the time, it is worth right now 0.000125 BTC. 
+1	1523930956	0	The Dollar really has lost so much value. I remember when you could buy 3 whole BTC with a dollar.

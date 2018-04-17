@@ -1,0 +1,9 @@
+File created at: 1523989402
+Subreddit: BitcoinMarkets
+Submission title: Ledger Wallet Bitcoin for Chrome
+Submission created utc: 1523953078
+Submission score: 11
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523953288	3	Yeah, check the ledgerwallet subreddit: https://www.reddit.com/r/ledgerwallet/comments/8cnvmi/chrome_has_this_popup_for_bitcoin_wallet_is_it/
+0	1523977901	1	I think you will have to install Ledger Manager and use that to update your firmware. Note, depending on your current version of firmware, you may have to re-enter your seed (always a nerve racking experience). https://support.ledgerwallet.com/hc/en-us/articles/360002731113

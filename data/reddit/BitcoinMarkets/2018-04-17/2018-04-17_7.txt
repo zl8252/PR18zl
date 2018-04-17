@@ -1,0 +1,12 @@
+File created at: 1523989407
+Subreddit: BitcoinMarkets
+Submission title: How do I calculate my profits on bitmex?
+Submission created utc: 1523951637
+Submission score: 2
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523953279	2	There is a calculator above the buy and sell buttons. Also, you don't buy the contracts with 0.625 BTC, but you put up those BTC as margin for the trade, meaning you "get them back" after your trade. By the way, this is the difference between "Total Balance" and "Available Balance". Specify your problem further and I'll try to help.
+1	1523954017	1	Thats what I thought but I didnt get the 0,625 back
+2	1523954195	1	That is highly unlikely. So your total account balance started at 0.625 and is now at ca. 0.03 after that 5000 contracts trade?
+0	1523974288	1	Profit = 5000 \* (1/8000-1/8400) = 0.02976190 BTCBitMEX inverse formula: nbContracts \* (1/entryPrice - 1/exitPrice)  Your wallet should be around 0.625 + 0.02976190
+0	1523975135	1	We're these perpetual swaps or futures?If they were swaps and you were long and on margin. You have to pay to keep that margin open. Often called a maintenance margin and if you were long while the price goes longs pay shorts a small interest rate.You can ignore the second part if you didn't buy perpetual swaps.

@@ -1,0 +1,25 @@
+File created at: 1523989344
+Subreddit: Bitcoin
+Submission title: The only real test of security and resilience is time. And the only one who passed that test up until now is #bitcoin
+Submission created utc: 1523904264
+Submission score: 116
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523906427	6	Well, it's more than just time. Some old obscure thing may have no known flaws just because no one gives a shit about looking for any. Like MACs used to have no malware and no viruses with 0.5% market share. Once they grew big, attention was shifted and lots and lots of vulnerabilities in MACs were found.
+1	1523910599	12	I would think an $8,000 coin would have a lot of attention.
+2	1523936074	2	Yes, it's also a very large bug bounty.  
+2	1523958695	1	I believe his point is that something launched a long time ago but never caught tractions can have a long track record without being attacked, therefore using only the metric of time is not enough. Time*incentive is
+0	1523927426	2	Why link to a headline long twit. What is the purpose of twitter anyway.
+0	1523912815	2	I would say all the lost and stolen coin is of concern.  Yeah, yeah, get gud is the typical response.  But for a normal person, the concern is valid.
+0	1523914928	1	Weird thing to say. Bitcoin has a head-start, but there are tons of cryptocurrencies that are secure since years now.
+1	1523936178	2	Seriously, I support bitcoin fully but the only thing that kept me from getting into crypto in the first place were all the bitcoin cheerleaders who refused to even discuss the possibly of imperfections. The bias is still off putting
+2	1523952467	1	securitywise bitcoin prooved itself. it's actually astonishing. interface security is something that can be improved on I guess.
+2	1523961824	2	Let's discuss a little! You will tell me what you would like to add to Bitcoin and I will tell you why that's probably not possible.
+0	1523911825	-1	What about quantum computing though?
+1	1523913260	4	When quantum becomes a problem we just vote to upgrade the software to include quantum resistant primitives. 
+2	1523914714	0	But even if you hard-fork Bitcoin and do that, all addresses have to be updraded manually by the holders themselves. And since millions of Bitcoins are in addresses that are not accessible anymore and some people are just lazy or will forget to upgrade, millions of Bitcoin could be stolen, thus leading to a big crash in price. I don't see how that could be prevented from happening.
+3	1523926169	3	Yes, this!  Please someone explain how this is not a catastrophic problem?!
+4	1523958886	1	Because the price of a bitcoin does not mean that bitcoin the protocol works any differently.
+2	1523926127	0	That will be a very political time, crypto will be worth a fortune and conservative forces will reject the ideas of change.  Someone will seize on the opportunity to raise the bar politically to try to capture control over bitcoin by resisting the upgrade.  Dangerous to wait until quantum computers are here.  Best that we start to switch to quantum resistance now.
+3	1523952523	1	no one will refuse to secure his fortune.
+3	1523958943	1	Lucky that no one can refuse a hardfork. My full node will follow where I personally believe it's best and no one else can make this decission for me

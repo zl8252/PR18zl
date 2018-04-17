@@ -1,0 +1,10 @@
+File created at: 1523989404
+Subreddit: BitcoinMarkets
+Submission title: Bitstamp order book incorrect
+Submission created utc: 1523962370
+Submission score: 5
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523964406	1	Looks like my data  is correct. Using the websocket Pusher data
+0	1523975978	1	If you aren't using a live socket, this has happened before on multiple exchanges historically as result of broken caching either on their server or a CDN. 
+1	1523979277	1	Yes, I guess I should update my code to use the socket to avoid this. Annoying :/

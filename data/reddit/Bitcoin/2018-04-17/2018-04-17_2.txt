@@ -1,0 +1,185 @@
+File created at: 1523989338
+Subreddit: Bitcoin
+Submission title: So, Localbitcoins started doing KYC/AML
+Submission created utc: 1523932618
+Submission score: 270
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523933337	69	Wow. So for now, two alternatives remain: bisq.network and hodlhodl.com. Bisq is a software you need to install, so it's more difficult to use, but it's also decentralized, which means it cannot be blocked. Hodl Hodl is not decentralized, but much easier to use and very similar to LBC, except that unlike Localbitcoins, they claim to not hold the bitcoins by using multisig and keeping only one key.Both have significantly less volume, but that seems about to change. I don't see traders not migrating to those two services given that commission on both is lower than LBC.
+1	1523966641	18	> Bisq is a software you need to install, so it's more difficult to useIs it hard to install a software? You download it, click install, then click open, and this is it. This is quicker and probably simpler than create account, confirm, then go to email and click confirmation email. Bisq has a very nice interface, also. Biggest complexity is for the security deposit, but still this is a fully point-and-click process (if your wallet handles bitcoin: URI, at least).
+2	1523981003	1	Oh you should definitely be introduced to the wonders of installing things on linux
+3	1523984294	1	It's trivial on Mint.
+2	1523975306	1	I actually downloaded Bisq this past weekend because I read it can exchange a couple smaller cryptos I own.  When I pulled it up I had no idea where to send my crypto, and no idea where to view the exchange options.  I need to pry into it further, but I'll be darned if it was easy and straight forward to me.
+3	1523983141	1	Once you figure it out it's very easy to use. I recommend using it. For some reason I'm getting down votes for suggesting Bisq?
+4	1523984234	1	Crazy, right? Too many people with an agenda around...
+4	1523987280	1	> I'm getting down votes for suggesting Bisq?I didn't, but if I were to guess it would be for saying this....>Once you figure it out it's very easy to use.That can be applied to anything that is complex. The statement deflects from the fact that it is *not* user friendly.If my grandma can't use it, it probably won't gain worldwide usage at a high adoption level. But what if it's too confusing for a teenager or a slightly tech oriented person?That means it will *never* gain any type of widespread adoption.We should instead focus on being honest and saying it how it is and encouraging UI/design improvements.As an example I would imagine that prior to package managers for Linux people were not very good at updating their software. This likely led to security vulnerabilities which reduce the quality of the software. By creating user friendly package managers it allowed even non-technical Linux users to update their software on their systems.A clunky UI or design really prevents the bootstrapping of a new technology. Lightning Network won't gain widespread adoption until we have a user interface that my grandma or my teenage cousin can use.
+3	1523975633	1	Yeah it's not exactly user friendly. Unintuitive.
+1	1523964175	8	Paxful.com is a viable alternative as well. They don't do KYC.
+2	1523964876	2	Couldn't agree more. The service of Paxful is great and yeah, they don't do KYC lol
+1	1523938843	18	Also mycelium local trader.
+2	1523952375	15	still no segwit
+1	1523963705	11	Paxful is the next biggest p2p marketplace. Easiest to use and their support is 24/7Also doing some cool stuff in Africa
+2	1523964506	1	I agree! What they're doing in Africa is truly inspiring. Localbitcoins users should consider the switch to Paxful.
+3	1523969936	3	They aren't going to have much of a choice.
+2	1523965712	0	Their support is the best in the game!
+1	1523979978	1	use LocalEthereum. The converstaion between buyer / seller is also encrypted. No KYC 
+1	1523984964	1	and qvolta.com
+2	1523986348	1	that's really convenient way
+3	1523987422	1	Agree, really useful platform. Just see for yourself.
+1	1523960172	1	To add one to the list, shapeshift.io  can do crypto to crypto without having to dox yourself.
+1	1523942304	1	> they claim to not hold the bitcoins by using multisig and keeping only one key.Uh... then how do they move the coins from the seller to the buyer? I'm confused.
+2	1523942741	13	Hi, Hodl Hodl here. When you create a contract with someone, a new [p2sh] multisig escrow address is generated. The seller deposits bitcoins to this address. It is a special address because to unlock the funds from it and send bitcoins somewhere else two keys are required: one key is held by Hodl Hodl, but the other key is generated on the user's side (in the frontend, the browser) and is never stored on Hodl Hodl's server. Thus, even if our server is hacked, the funds are safe.
+3	1523953238	2	That's interesting but surely the seller then has all the power? You can't force the release of the coins to the buyer even if he's paid in fiat and the seller has vanished?
+4	1523953849	7	Not all the power. We won't sign a refund transaction unless we have reasons to believe buyer is a fraud or unless the contract was cancelled by the buyer himself. Worst case, funds remain locked in escrow. But what would be the point of that for the seller?
+5	1523954596	1	Do I as a buyer pay to hodl or directly to the buyer?
+6	1523954807	6	You may say you're paying directly to the buyer. The funds are temporarily locked on a p2sh escrow address, which Hodl Hodl can't do anything with without the seller's approval (signature). Bitcoins are then released to the buyer's address.
+7	1523954995	1	I ment the fiat money since I couldn't figure out how you'd solve that. But I read your whitepaper, there's a deposit. Clever solution, I'm gonna check it out some more.
+8	1523955207	3	Perhaps you are mistaken, we've never written a whitepaper, but we have an extensive FAQ on the website: https://hodlhodl.com/pages/faq_helpYes, you're paying fiat directly to the seller who's selling you bitcoins.
+9	1523982494	1	> https://hodlhodl.com/pages/faq_helpVery cool.  How do you guys make money - a small commision ?Also should update this graphic now that we know localbitcoins is [KYCing](https://imgur.com/a/2cIwV)
+9	1523955420	1	Sorry, confused you with bisq for a sec since I was checking out both at the same time. I'll read up on your site aswell. Thanks alot for the time
+6	1523955051	2	We actually have a testnet version where you can play with contracts with testnet bitcoins (that is, free of charge with no risk, just to familiarize yourself with the workflow). And there are educational videos on how to use Hodl Hodl available on YouTube and on the exchange frontpage: https://testnet.hodlhodl.com
+7	1523974257	2	How do you guys collect your fee with this multisig method? 
+8	1523975642	1	The release transaction generated by Hodl Hodl (but signed by both us and the user) contains a separate exchange fee output.
+3	1523961548	1	> Thus, even if our server is hacked, the funds are safe.What if the hacker deletes all your keys? Is there a timelock refund to the seller?
+4	1523961783	5	We have key backups. 
+5	1523981244	1	Are they replications or true backups?  Just want to clarify.
+6	1523981770	1	What do you mean by "replications"? A key is a key. We obviously store it in many places. If the server is hacked and our key is deleted from it, we of course have a back up key stored safely.We also do regular backups of our database, so if something goes wrong we can, of course, come back up after an investigation.
+7	1523981935	1	A replication is a dynamic copy.  When a change is made to the original the replication is updated, either in near real-time or within a few minutes.A backup is a cold copy.  It isn't affected by anything that happens to the original.Thank you for answering, by the way.
+8	1523982611	1	Why would we want to update the private key in real time? :)
+9	1523982680	1	Exactly, hence why I was asking.  I've seen plenty of places and people think they're running backups when it's actually replication.  See: people who use Dropbox or Google Drive or something similar as their "backup" but have it set to automatically sync.  If they get hit with a cryptolocker they lose their backup, too.
+3	1523958404	-2	lol, HodHodl is mentioned and the magic developer appear instantely...Someone would say OP is just the dev sock pupet
+4	1523959392	13	Others might say someone capable of programming hodlhodl might be able to programmatically monitor reddit and send a handy sms to themselves...
+5	1523961932	8	Indeed, we monitor for our exchange name. 
+5	1523959449	-9	sure :), let;s spam him then. hodlhodl hodlhodl hodlhodl hodlhodl hodlhodl hodlhodl hodlhodl hodlhodlPlease...
+6	1523962355	18	I'm sorry,  but what exactly is your problem with Hodl Hodl? The news is about Localbitcoins introducing KYC/AML which we dont have. We work our asses off to create a great product for our users (spending our own money,  btw,  as we're  not making any just yet) and yes, it's a convenient opportunity to mention it. Because you sound like we're pushing some sort of scam or ICO down people's throats. 
+7	1523982735	1	Ah you just answered my 'how do you make money' Q.  Hmm, OK, so  demonstrate and outstanding product and get bought or ?Anyways, props out looks great I will have to try it.
+4	1523961522	3	It's frequently the case that devs/customer support reps show up in threads that mention their company here (both in positive and negative light). 
+4	1523960402	0	No one cares.
+5	1523973833	1	upvoted
+1	1523971769	1	Bitquick.co requires only a phone # 
+1	1523976914	1	Both of those are rubbish compared to paxful who actually have a proper escrow and support desk 
+2	1523977343	1	Everyone points out their premium support, why is that? Does everyone that uses paxful have to contact the support?
+3	1523977458	1	Because when Im in the middle of a P2P trade and some scammer from Nigeria decides he doesn't want to pay me my price he can keep my coins locked down until support answers his complaint.that is why fast support matters as these players can clock you out of your coins 
+4	1523984393	1	> Because when Im in the middle of a P2P trade and some scammer from Nigeria decides he doesn't want to pay me my price he can keep my coins locked down until support answers his complaint.> > that is why fast support matters as these players can clock you out of your coinsSeems to happen a lot on paxful. Never happened to me on Bisq. You might want to give it a try.
+1	1523987416	1	No, bisq has essentially zero liquidity, and that can only be solved by it becoming centralized like LBC. The only way there can ever be a arbitrator that both parties trust, is if there's a publicly known large central party (like what LBC is). No one in their right mind is going to trust two random Tor addresses they've never heard of (the counterparty and the arbitrator).Bisq can only survive by becoming exactly what LBC already is - an easily censored third party.It has chosen not to do that of course, which is why no one uses it, because the sacrifices it makes for censorship resistance make it absolutely ripe for scams and abuse. So everyone wisely avoids it.
+0	1523941078	27	It doesn't only target high volume traders, that's not all. It does not let you put up an advertisement anymore without KYC.  I don't like the direction it is "innovating." The site is just as un-navigable as it was in 2013. 
+1	1523950445	16	RIP localbitcoins. Hi, another centralized exchange.
+2	1523963888	4	Paxful. they give back too
+3	1523984463	1	People have to use their class A support a lot it seems.
+0	1523932689	33	To clarify, me an many other of my peers who use Localbitcoins started getting this notification upon signing in, requiring them to submit their id. Without it, you cannot continue trading. This is it, folks. The long lasting bastion of freedom fell.
+1	1523977080	1	Just use Paxful instead 
+1	1523987541	1	But do they allow you to withdraw your BTC?
+1	1523957714	-1	do you have ads posted on localbitcoins? AFAIK this requirement is only for those who created their own ads. you don't have to submit ID if you trade on other people's ads.
+2	1523967683	1	If you don't put your own ads you will be leaving a lot of money on the table.
+3	1523968463	2	Lose money or lose privacy. They have created a trade-off.
+0	1523932876	13	Im confident we can bypass this. They cant stop cryptocurrency unless they shut off the net. 
+1	1523945193	10	Of course we can, but it's inconvenient as fuck
+2	1523950365	3	For now, but when people get inconvenienced they can come up with good solutions that never would have been thought of. I'm also convinced more and more people are getting fed up with this bs and will embrace crypto regardless of the hassles. F tha banks!
+3	1523953562	1	How about stopping to vote for socialists that need to regulate and know everything?
+4	1523958799	8	It's not just the socialists that do this.  If we're going to make political comments we might as well offend everyone.
+5	1523966733	1	Because someone doesn't call himself a socialist (for deception) it doesn't mean he isn't one.
+6	1523987778	1	Can you please not bring your political garbage here? We don't give two fucks about your opinion of "socialists" and it really slimes this place with a nasty taste.Honestly, maximal libertarians/Republicans/democrats can be just as annoying as communists. They are all retarded in different ways.Fuck your labels. Your division politics are only inspired by hatred and ignorance and only serve to destroy the community.
+4	1523974953	1	> How about stopping to vote for socialists that need to regulate and know everything?I know you aren't talking about the United States where we have Republican majorities in the House, Senate, as well as the presidency. Not to mention the Supreme Court arguably leans right as well. Calling socialists the problem is laughable...
+5	1523981810	1	Everyone goes left because it is where true power over people is.
+6	1523987875	1	You didn't respond to his post, instead you deflected. That is a sign of intellectual dishonesty and weakness.
+1	1523947972	15	That's the reason why bisq.network was created: censorship resistance
+2	1523950396	3	As a very optimistic about Bisq and long time follower and trader without any problems, being able to use cash to trade is still very important and Bisq is not providing that at the moment.In fact, I feel like openbazaar is in better position to achieve this goal. With a certain hastag to look for offers and a map to see nearest trader it would be ennough.
+3	1523951175	3	I certainly agree with your statement.However, bisq can't be forced towards AML/KYC like lbtc because of it's level of decentralization.My hopes for openbazaar have been very high but I'm doubting the teams goals after several funding rounds and devs positions (bhoffman..) in the scaling debate.
+4	1523951453	3	No, Bisq won't provide anything because they can't know, but our bank is going to snitch any suspicious movement.OB is a very needed tool and they have no competition. I'd like to see a fork of their project after the way they managed the Bcash issue.
+5	1523952017	1	> I'd like to see a fork of their project after the way they managed the Bcash issue.I wanted to write that, too ;-)I assume that the code is quite a mouthful, which would need a skilled and dedicated team to fork, maintain and develop further.
+5	1523961762	0	This. Even If you use a DEX you're still at risk of local bank having issues. I'd much rather use a centralised exchange than risk having my actual bank account closed. 
+6	1523962140	3	Bad news for you: They can close your bank account for using a centralized exchange.
+7	1523969604	1	That's fair - but with Coinbase regulated in the UK now I'd have grounds for a complaint. 
+3	1523950401	2	I can't disagree with that!
+1	1523974809	1	They already have stopped cryptocurrency.Are you saying they can't remove it from existing on the planet...yes, that's true and also true of heroin.And plenty of people rotting in jail due to that as well as many who are not willing to take that risk.
+2	1523984621	1	Heroin is having a great comeback in the US, I heard.
+0	1523940229	6	But can you still meet with a trader and sell bitcoin for cash? Has anyone done this before as I would want to do this soon. I'm in the UK.
+1	1523950523	3	You still can do this as long as you and your peer verify your id at localbitcoins.
+2	1523950942	3	or if you just arranged a cash in person deal with a seller who posted their phone number so you wouldn't even need an account anyways to get in touch with them and just did a direct wallet to wallet transfer
+3	1523951128	2	They are requiring your id before posting any trade, wether cash or wire.So, unless you already know that phone number, you won't be able to trade with privacy.
+4	1523964728	3	Confirmed - new policy - did several cash trades last year from advert, cannot do it any more without verification of ID :(
+5	1523964830	2	It's kind of fun when corporations makes changes like this without any announcements, like it was a minor change.
+4	1523951798	2	what I am saying is you can search someones name, and if in their profile they have a phone number listed, you can just call them, and do a trade from their personal wallet to your personal wallet and bypass the lbc website entirely on both ends. The seller might have their info known by LBC but their trade won't have gone through the system. Not hard, if that is the route someone is trying to go.
+5	1523953997	2	Now I understand your point ,and it's something that could be done, but:- Seller would need to be identified anyway. Maybe he doesn't mind and as long as there are no records of trading it will be difficult for someone to estimate how much money were traded.- No reputation system would be involved, because lack of trading records. That's not a big deal, as it can be easily manipulated.- Better than phone, I would publish a disposable mail. I don't like having my phone number open online for anyone.In the end, a really decentralized face to face exchange is needed. Bisq and OB are very good approaches to what we need. Even with your proposed method, it would be a matter of time for localbitcoins to ban traders suspicious of operating this way or to hide offers if you're not verified as well.
+6	1523954553	2	It will likely be a game of whackamole for a while. Close down one avenue of trading and another will pop up. Perhaps they make it where you can't see anyones profile unless you are logged in type thing. 
+5	1523952326	1	Yes this is what I would do, I've noticed lots of traders do have their direct contact numbers, although I am a bit nervous about doing the deals. Ideally I would prefer money paid into my account and pay taxes etc. But since banks seem to be making this difficult due to KYC/AML, especially with large sums I feel that I'm forced to do it this way, in which case fuck the taxes! This is the irony, unless anyone can advise me otherwise.
+6	1523952875	-1	Buy your coins, pay your taxes, fill out they kyc/aml and go on with your life without worrying about having broken the law, being audited by the IRS and making your future potentially more complicated.
+7	1523953411	1	Well I'm in UK, and I would find it almost impossible to prove where I got my bitcoins from with evidence, so I think this would be a problem.
+8	1523961512	1	Use paper money! 
+0	1523965987	6	Sadly with KYC.. I dont see the point in local bitcoins now..
+0	1523938303	16	How is this not top in the sub reddit right now?
+0	1523964193	3	Was bound to happen given the amount of trading volume that goes through LocalBitcoins across the globe on a daily basis. They don't want to be seen as facilitating money laundering so this is hardly a surprise. For those who want to trade anonymously, decentralized exchanges are the way forward. 
+1	1523986042	1	you can't do fiat on them so what's the fucking point
+2	1523988047	1	You can? Supposedly it's not very liquid ATM, but I saw a post from bisq in the last month they added a few Fiat options.....?
+0	1523975195	1	Doesnt it kill the whole purpose of a censorship resistant currency ? 
+0	1523960368	6	paxful.com, guys.  
+1	1523963797	2	yup they rock
+2	1523983458	1	im not willing to pay the crazy prices people want there. ef that.
+0	1523945399	10	This is some scary sh3t. This just shows you how much pressure these centralized entities are under by Big Brother. This is scary af and all of you should be scared. This is like saying I need to show someone my I’d to buy sugar from my neighbor or from the grocery store. This just shows you how unyielding the bigger powers are. They don’t want to loose their grip. And all we are trying to do is to innovate. 
+1	1523947527	3	If I want to send bitcoin to my neighbor for sugar how are they going to stop that?Its converting fiat to btc is where the regulation is, not sugar to btc.
+2	1523947748	-1	You missed the point, Bitcoin is the sugar that I am trying to buy with cash. It’s my cash, I can buy whatever the flip I want with it as long as it’s legal, which bitcoin is. 
+3	1523951162	6	Here's the thing...exchanges requiring kyc/aml doesn't restrict innovation, unless the innovation you are talking about is innovating new ways to make lots of money and dodge paying taxes on them. Buying BTC is a lot different than buying sugar, and people are making huge amounts of money off of it. Realistically, of course the gov is going to want to crack down on the on/off ramps of crypto to fiat. Duh they are going to want there to be kyc/aml, and I am surprised it has taken this long for localbitcoins to do this honestly. You can disagree with it all you want, but don't act surprised as the amount of $$ being generated and also largely not reported is huge and growing exponentially.
+3	1523952227	0	Oh ok, misread your point. But what I was going towards is, this is one of BTCs biggest strengths, is that it cant be controlled like fiat. So in your example, yes, that is scary if they control fiat, but isn't that what bitcoin is for, to use a currency free from control - to use a decentralized form of money, we should all be hodling, don't go back to fiat.Better start loading up BTC now, before it's a pain in the ass to get approved to even own some! 
+1	1523950626	6	I'd be scared and am because they don't fk around! Those robe wearing owl worshipping mofos got no qualms about pounding back adrenochrome before they order a city bombed to put in a pipeline./tinfoil hat off lol. 
+2	1523950978	2	Lol
+0	1523957074	3	I'm in Vietnam at the moment and I don't see any KYC/AML popup or anything when I tried logging in to localbitcoins.com today. Does that mean that KYC/AML requirements do not apply here yet and that I can continue trading as usual? 
+0	1523963278	7	No problem at all https://bisq.network will never ask you to verify your ID
+0	1523932769	7	That's disturbing, to say the least.
+1	1523948090	0	Not really, centralization enlarges the attack surface.
+0	1523962968	2	Terrible news. We need better decentralization exchanges now. 
+0	1523966876	2	Time for me to #BUIDL a Decentralized LocalBitcoins.
+0	1523984597	1	Nice. Perhaps now we can create and/or actually start using a decentralized solution. 
+0	1523950689	5	Their hand was forced.  The feds have been targeting large volume users for a while now.   They want to protect their users from jail time.
+1	1523960480	11	No, they want to protect themselves from jail time.
+2	1523974655	1	By violating privacy laws?
+3	1523974730	3	Yes. by violating laws that require them to prevent their users from having financial privacy.
+4	1523977057	1	I think you missunderstood me. How are they going to stay out of jail if they continously and blatantly violate privacy laws?
+5	1523977172	1	They aren't, so they need to move to Malta or Ukraine or somewhere and try to get away with it.
+5	1523986011	1	what you're saying makes no fucking sense at all, so stop saying it.they are not violating privacy laws by requiring users of a site they run to provide identification unless the jurisdiction they're operating in states it is illegal. I'm gonna go out on a limb and say they are compelled to do what they're doing because NOT doing it is illegal.It isn't new news that facilitating illegal activity on a website, but not doing any yourself, doesn't make you immune in your force field home base glue
+6	1523987668	1	> unless the jurisdiction they're operating in states it is illegal.You sure about that? Companies in a diffrent jurisdiction than a customer are still bound by the privacy laws of the jurisdiction of that customer. This is to prevent shell companies being incorporated 'overseas' to skirt those privacy laws.> It isn't new news that facilitating illegal activity on a website, Applies more so when a company does illegal activity to run a website. In this case violating privacy laws.So, I ask again: How are they, the company behind localbitcoins..com, going to stay out of jail while blatantly and continously violating privacy laws?
+3	1523987794	1	There are no privacy laws.
+1	1523953710	2	Or they just submitted themselves to state terrorists
+0	1523934705	3	BUT MUH TAXES REEEEEEEEEEEE
+0	1523951518	2	It's been asking for KYC/AML for several years. Just depended on your jurisdiction.
+0	1523954091	2	Not with a bang, but a whimper.
+0	1523933072	1	Not that shocking, they're probably tired of being ass raped by the finnish IRS
+1	1523933432	2	Can the IRS ass rape people in Finland?
+2	1523933680	1	No, good point I'll clarify my post.
+0	1523942681	2	This reveals a real issue with the bisq developer insisting on making money. He might, under pressure, cave to regulators.Otherwise he must be having a very nice day today.
+1	1523948504	3	> the bisq developerThere are several devs. Actually, everyone (with the skills) can be one.> He might, under pressure, cave to regulators.Let's assume there's just one bisq dev for a second, what would you imagine regulators (which one? dev could be living on the Fidji Islands) could do?What's wrong with being paid for work?
+2	1523986875	1	Right now, 1-2 devs get paid from bisq transactions; the rest don't. I'm referring to them only.You're arguing against decentralization. Developer decentralization is part of decentralization. They are a point of attack b/c of their conflict of interest. Regulators could say, add KYC or we will come after you. Because they are getting paid on every tx, they couldn't stay hidden forever. The Feds would find these individuals sooner or later, if they really got a bee in their butthole about it. Because these devs want to keep the $$$$ flowing, these devs might get KYC added. See the issue?
+0	1523950408	1	I stopped using local since they imposed deposit fee
+1	1523963813	1	no deposit fees on paxful or local eth
+2	1523971251	1	but paxful is full of scammers and eth is yet another scam coin
+0	1523967174	1	Just make another account with a new email. 
+0	1523967615	1	The future of p2p trading is in darkness.
+0	1523973672	1	worse part is their ID verification sucks and is easily forged. Been asking about better id verification for a year now...
+0	1523980656	1	Sponge bob square pants!! 
+0	1523981018	1	It's unfortunate for us verified sellers. Trading volume will go way down now
+0	1523981399	1	Honestly, I prefer CREDITS platform. It s time to buy CS! They are much better cuz they hav a low network capacity, more than 1 mln transactions per second, low price and advanced smart contracts.
+0	1523986943	1	Time for ATMS to shine:https://www.reddit.com/r/Bitcoin/search?q=atm&restrict_sr=on
+0	1523972185	1	Bisq is great! I highly recommend using it!
+0	1523953089	0	Anything that handles in currency for a living has to adhere to the law...if you guys want crypto to be a currency, don't come here to cry that you have to follow the respective laws. You will have to accept the good AND the bad of the "currency" status.
+1	1523960546	2	It's not currency.
+2	1523966403	1	So what is it?
+0	1523956157	0	[removed]
+1	1523958921	1	This is a sad attempt to promote an altcoin.
+0	1523935437	0	RIPS
+0	1523970308	0	did you check it again?
+0	1523977879	1	#**Simple Solution: JUST USE PAXFUL.COM**
+0	1523970585	-4	Regulation is a good thing in this case. Helps prevent fraud.
+1	1523973841	3	If the consumers found it helpful, then it wouldn't need to be mandatory. This is nanny state at best, and bulk surveillance most likely.
+2	1523981749	1	>If the consumers found it helpful, then it wouldn't need to be mandatorybut the consumer decided indirectly to be necessary through the democratic process. ofc someone trying to launder money or are a drug lord don't see these regulations as helpful.
+3	1523983015	1	* Not all voters use all financial products, or vice versa. They've got some overlap but they're different groups.* Using the democratic process doesn't imply that the end result is helpful.* Despite the illusion of control, [voters have an extremely small influence on actual laws](http://www.bbc.com/news/blogs-echochambers-27074746). * I'm not sure if you're implying that laundering money for crimes is the only reason to want financial privacy, and if drug lords are the only ones hurt by drug prohibition.So if you'd like to be honest, you can say that _you_ don't like financial privacy and owning one's own body, and support the government's efforts to curtail them, rather than argue the consumer is "choosing" something that has been forced on them by a corrupt authority. That's frat boy "consent".
+4	1523983354	1	>So if you'd like to be honest, you can say that you don't like financial privacy.well, if it gives pedophiles, terrorist and drug cartels a free pass then yes -  I'm against financial privacy and so are many people who spoke out against this through a vote.
+5	1523986842	1	"free pass?" This is such an idiotic argument and it is always trotted out like the best-in-show pony... YOU CAN'T STOP CRIME SUBSTANTIALLY BY REGULATING MONEY.You realize that the criminals have the means to obscure and, get this, do crime? In fact, you could say that it is a requirement of any illegal enterprise to obscure it with legal-seeming things (like passing AML/KYC checks).Do a google search for HSBC and sinaloa... and see how much the "regulations" impacted them.So no, I'm not buying this horseshit that your privacy is some sort of fluid concept that can be diminished "if needed" to stop crime. LOL.If anything, shit like surveillance is meant to keep THE CITIZENRY suppressed and things like cartels, pedos and terrorists in business.Think of all of the integrations that are happening. Do you honestly think that regulating decentralizing money is going to "end crime?"Here's an idea, allow cryptocurrency to flourish and actually use all of these high-tech resources to clamp down on the exchanges and gathering places. If you suppress something like localbitcoin then you lose surveillance, and you STILL have to monitor it because of how trivial it is for criminals to bypass kyc/aml The flipside is that this shitty practice is some sort of impenetrable force? lol ok
+6	1523987030	1	>"free pass?" This is such an idiotic argument and it is always trotted out like the best-in-show pony... YOU CAN'T STOP CRIME SUBSTANTIALLY BY REGULATING MONEY.pretty sure you can reduce crime by a lot if you can follow the money porperly. You are just a libertarian ancap nutjob.
+5	1523984007	1	Thank you, I appreciate your honesty. My main gripe was with saying this was about fraud, rather than trying to achieve social goals like the sex offender registry, waterboarding, and prohibition.
+4	1523986191	1	cool story but then why are you getting butthurt about trading in GOVERNMENT ISSUED MONEY? The "consumer" gets fucked by what the government decides is best. You don't start a revolution by referring to the residue of policy.
+5	1523986880	1	I applaud your edginess but we're _forced_ to trade in government issued money to pay taxes.
+1	1523974601	2	If you need protection, use a bank account with fiat and leave us free traders in peace
+2	1523979829	1	I assume you want increased adoption and higher prices? Perhaps not.
+3	1523984708	1	Fungibility and privacy are a big part of Bitcoin's value proposition - censorship resistance. If these regulations actually worked, then why wouldn't we just invest in a safer regulated asset?
+4	1523987282	1	It doesn't lose censorship resistance because in order to exchange cash for bitcoin you need to follow the governmental issuer of that cash's laws...Privacy was never a part of the "value prop."There are plenty of regulations that work. Centralized banking works. I know, you want to put on your cowboy hat and go back to the time when every general store issued their own money and "too bad" when they disappeared in the night.To put it another way, there are plenty of people (but less and less every day) who are interested in bitcoin as decentralized, iterative banking. I want to be ensured that my MONEY (not my currency) is untouchable. A bank won't collapse, some shitty actors making bad decisions impact my piece, and so on.That's it. Not "lol gainz" or even the valuation of it. Don't care much.It is also quite trivial to convert fiat into bitcoin, but the catch is "they want to know who's got it and who's selling it."
+5	1523988979	1	>Privacy was never a part of the "value prop."Why do you say that? Section 10 of the whitepaper is all about privacy.>the time when every general store issued their own money and "too bad" when they disappeared in the night.That's ICOs. I'm not happy about it, but there's no way to prevent it without doing more harm than good.
+3	1523987449	1	shit metric. the "most" adoption would be with 100% government regulation and mandate. just like it is illegal for US folks to own venezuelan crypto = nanny state (anyone responsible wouldn't touch that asset with a 10 foot trump combover) laws can force compliance. so your fantasy endgame state is you get some meager short term profit while the government just uses a new way to completely dominate you, while those above the law get richer and richer.Sorry, no. the disruption here is that people with knowledge and interest in an unshackled society did not need to wait for the blessings of the upper class to do something valuable.

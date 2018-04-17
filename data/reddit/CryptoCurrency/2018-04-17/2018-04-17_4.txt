@@ -1,0 +1,154 @@
+File created at: 1523989387
+Subreddit: CryptoCurrency
+Submission title: How can we have this many "Bitcoins" in the top 50?
+Submission created utc: 1523908166
+Submission score: 423
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523912634	148	Some of the marketcap is tied to coins that cannot be dumped. For example, I had some bitcoin on coinbase during the bitcoin diamond fork I.e., I’m a forced hodler. 
+1	1523916448	76	This is almost the most correct answer I hear. When a coin forks, it duplicates all existing coins. It inherits the lost coins. There are no holders, it is only lost coins that appear as holders, which artificially inflates the coin and bitcoin fork.
+2	1523921055	26	How does it artificially inflate the currency? Value is linked to supply which is in turn linked to asks in the order books. If the funds are inaccessible, the corresponding asks cannot be placed.Am I overlooking something?
+3	1523921958	44	Lost coins lowers supply but simple market cap calculations include these coins
+3	1523923023	13	The initial market cap is inflated, fake. If the total supply is 1M and the first coin sells for 10$, theoretically the market cap is 10M, but practically only 10$ went into the market.Exchanges can start selling right away at this price since they already own some amount (by owning the private keys of the parent coin).
+3	1523923158	12	So my bitcoin diamond - coins which I cannot claim and dump - is being counted in the total supply that gets multiplied by price to give you market cap.
+4	1523947889	4	exactly. 
+3	1523921898	3	I don't think it does in the traditional sense but perhaps what OP means is that fewer number of exchanges listing it and fewer coins in circulation create demand which drives the price. The demand is obviously artificial in that even though ~16.5 million coins exist, the vast majority are dormant.Did you ever get in on Garlicoin? Perfect example of this in my opinion except it actually had next to no coins available at the time of launch It peaked at $4 after a few days of it launching. It was listed on one exchange (tradesatoshi) and a lot of people wanted it for some reason. I have no idea why people were willing to pay this price but volume was very low as the number of coins in circulation was low as well. Anyone with a modest mining rig with 4-5 GPUs could get 25-30 coins/day for the first week. It was a gold rush. Anyways, it's $0.04 now.
+4	1523937279	12	No, what he means is if a forked coin has 10,000,000 coins and all but 100 are lost, if the going rate is $10 then it's market cap is $100,000,000 even though there are only $1000 in actual circulation.  It's inflated. This works for stocks which do not simply get lost and exit circulation.
+3	1523932759	1	Value (market cap, in this scenaria), is not linked to circulation supply, but total supply in existence. Lots of coins aren't circulating.
+3	1523923735	2	Anything notBtc or bch is a fraud
+4	1523942405	1	I wouldn't call it a fraud, but questionable forks.
+2	1523927775	2	Just to be clear, your forked coins are not "lost". Coinbase has your coins in their personal wallet and will honour the forked coins when they get added to coinbase.
+3	1523929326	1	I'm talking about BTC that people don't have access to, forgotten wallets, wrong addresses, lost phrases, etc. All those lost bitcoins that are lost. https://fortunedotcom.files.wordpress.com/2017/11/lost_bitcoins.pngYou have all those lost coins get copied, then the exchanges that don't support the coin. Tons of Bitcoin fork that are out of circulation.
+2	1523929766	1	How do you know coinbase doesn't have those coins and hasn't dumped them?
+3	1523939792	0	Technically, it's someone elses property. But they could put a clause in their agreement that after X amount of time being unclaimed they'll confiscate them.
+2	1523929252	-1	Exactly. At the time of the bcash fork I was dumb and didn’t jot down my private keys before making transactions with my btc wallet. 
+3	1523932383	0	Confirming. I have 2 Shitcoin Cash in CirclePay.
+1	1523918235	3	Why can't they be dumped? Wouldn't coinbase get those coins and be able to dump them?
+2	1523918503	1	That would cause a fuss from taking couns the users had more of a right too. But releasing shitcoins to users would look just as bad. 
+3	1523918735	2	They have the private keys so I see no reason why they wouldn't claim the coins. And Coinbase now does support bitcoin forks so they'll be releasing the coins from now on. 
+4	1523966970	1	Every Bitcoin fork is different, there is no reason to think that if they support one they will support the other.
+5	1523967187	1	Yeah I’m sure they’ll be selective on which ones they support. 
+2	1523919825	1	Coinbase doesn't get the coins, they are just recorded on the forked blockchain as existing. Devs will do coin burns that remove coins that haven't been picked up from closed air drops and such.
+3	1523940032	3	Isn't that the same thing as having the coin since you can use the exact same private key to access it.
+1	1523932869	3	Can coinbase or other exchanges keep our forked coins??? Class action suits
+2	1523948676	4	Yes. They absolutely can.
+1	1523930092	1	Yeap. I have some of these
+1	1523969040	1	So long as we keep using market cap, people will keep gaming it.
+1	1523974295	1	Correct.
+0	1523920685	31	Shhh....I'm just about to launch my Bitcoin Bitcoin ICO.
+1	1523945710	10	Do you want more bitcoin? Did you miss out big on the hype? Get loads more bitcoin easily! Introducing: bitcoin bitcoin! That's right! Twice the bitcoin in one bitcoin! Now try saying that a couple of times! Bitcoin bitcoin bitcoin bitcoin bitcoin bitcoin ... That's six bitcoins! You rich mofo, you! You are a God! A Bitcoin bitcoin God! 
+1	1523927854	2	Now introducing BTClassic!
+0	1523918972	20	Because bitcoin is open source and the market is very speculative.
+0	1523910817	98	They wont be in the top 50 for long thats for sure.
+1	1523943668	5	yeah, top 10
+1	1523961606	1	BTCP is very promising
+2	1523970043	0	Why bother with BTCP when we have ZEC? BTCP devs seem to be mostly copypasting ZEC work anyway.
+3	1523971232	6	hmmm how about ZEC's 20% founders reward? That sort of greed speaks volumes about the team behind it.
+3	1523970755	2	its a community coin and it removes the founder tax, but i really like both of them
+1	1523953341	-3	True, all of them \(including BTC\) will eventually drop to 0 when better currencies rise.
+0	1523908610	159	I only see 1 Bitcoin? 
+1	1523920252	34	This is the right answer. 
+1	1523916517	12	Regardless, this doesn't do the image of cryptocurrency any favours.
+2	1523940116	6	Do as they wish, nothing will take the symbol BTC.
+3	1523955082	1	> Do as they wish, nothing will take the symbol BTC.Hey that why soft fork are awesome, you can do whatever change you want and still keep the name:)
+4	1523968409	1	I think he's talking about new projects taking the name, not a Monero-like PoW fork situation.
+3	1523964698	1	Why is that though? Who owns the loyalties for BTC symbol?Is there such a thing as trademark for open source projects?I don't get this, who is going to sue you for using the BTC symbol as you see fit anyway?
+4	1523968762	1	>Why is that though? Who owns the loyalties for BTC symbol?No one owns the trademark or gets any royalties.>Is there such a thing as trademark for open source projects?Yes, but Bitcoin doesn't have one registered.>I don't get this, who is going to sue you for using the BTC symbol as you see fit anyway?Nobody, but traders won't want to mess around with duplicate symbols. IIRC at least one exchange was prepared to use temporary symbols for Segwit2x.
+3	1523980235	1	BitConnect will never die.BITCONNNNNEEEEEEEEEEEEEEEEEEEEEEEEEEECT wasa wasa wasa
+2	1523970434	-1	Says you. Some random guy on Reddit. Blockchain is useless without Bitcoin, not the other way around. That's why the other Bitcoins try to use the name recognition, it works. 
+3	1523971224	2	Lol ok, if you honestly think creating more versions of bitcoin makes crypto more approachable to the ordinary person then you're an idiot. As much of an idiot as someone who buys Bitcoin Cash and Bitcoin Dark - no one should want confusing knockoff versions of the original plaguing the market.
+4	1523973096	-1	Hrm. Let's agree to disagree on that one. I don't see people getting butthurt about Old Fashion Vanilla, Vanilla Bean, Classic Vanilla, etc that you can find at the grocery store. You need to like, open your mind man. 
+5	1523975077	1	It's not an opinion for you to disagree on in the first place, it's basic economics psychology built on trusting a currency. If suddenly tomorrow United States Dollar X, United States Dollar Diamond, United States Dollar Cash appeared on the market claiming to fix previous problems of the USD, people would trust the USD less and question how good it really is. This hinders adoption, and to the normal person it indicates that maybe bitcoin (and crypto in general) isn't developed enough for every day use if so many teams disagree on the way BTC framework should be brought forward. I really can't explain it any simpler than that, you either get it or you don't, just do your research in future.
+1	1523910190	-50	BCH
+2	1523911715	26	Thanks for the laugh
+3	1523978547	0	https://np.reddit.com/r/BitcoinMarkets/comments/6rxw7k/z/dl8v4lp 
+3	1523936553	-13	to be fair, it's closer to the bitcoin white paper than btc
+2	1523910870	33	We dont need a worse litecoin
+3	1523967129	2	Market disagrees.
+3	1523924347	-11	How is it worse? It's cheaper, has 0 conf, bigger blocks. It's cheaper and faster than btc itself at this point. 
+4	1523932148	-6	Its not worse. In fact, its far better. Just too many fucking scrubs here and bots. Too many people are invested in BTC, probably dumped BCH straight away and now just want BTC to succeed for their own benefit.
+5	1523938688	1	bcash will never be respected because they stole an existing name. 
+6	1523939112	5	Who did they steal it off?
+7	1523939789	3	Don't be obtuse, you know the point he's trying to make
+8	1523941438	-4	The point still stands though.a greater than 50% consensus wasnt going to happen over night. BCH OP Codes have unleashed heaps of new projects, cointext, memo, tipprBot because micro transactions actually work. BTC has been crippled to death to shine a beaking light on LN as the saviour. Its disgusting. The people who supported BTC with Big Blocks along the way(which Satoshi himself stated would happen) have moved on to BCH, I know personally its not Bitcoin anymore but Bitcoin now is more of a general name. For specifics you have the ticker name. BTC, BCH.
+9	1523944353	5	> Bitcoin now is more of a general namefalse
+0	1523928367	17	Legit or not it's looks pretty flakey to outsiders. Shit like this keeps people away from crypto and endorse their misconception it's all a scam.
+1	1523945655	10	Uh why. Hard forks are the cornerstone of consensus. You don't like your rules you make your own rules.Shit like you said that compares btc to a  bankshitcoin ceo owned product and not a p2p currency with an open source name is why people can't adopt it. They just think its another version of amazon stocks. If there are 2 amazon stocks, must be a scam.These people should stick to ripple lol. 
+1	1523936645	3	I mean we're literally a community that celebrates when people get fucked by scams - it all already looks bad to outsiders - this naming scheme is literally one of the least of our problems
+2	1523950351	1	For real. It really upsets me to see everyone glad that Ian Balina got hacked. So much greed and toxicity exists in this space sometimes.
+1	1523967134	1	I’m happy keeping people like that out 
+1	1523939172	1	however in reality this drives no one away and people on the outside think its cool
+0	1523927181	9	The fact that you think it is a problem that they are in the "top 50" of a marketcap list is the reason why such coins are at the top.   Basically the only reason marketcap and day-trading of cryptos exist is because of hype and vapour ware.   You really think the "top" coins are operating as cryptocurrencies? 99% of cryptos are treated as speculative commodities/assets.    Speculation is driven by hype.   The only reason coins have such overpriced value is due to hype.   Remove the hype then prices for all coins would drop at least to 30% of their current value.
+0	1523920610	4	Aunt Ethel thinks they're all the same thing.
+0	1523942104	10	I do like Bitcoin Private because it adds zk-snarks and has a good community and team already, even their website is already translated to Dutch. Snapshot was end of February, so claim your free BTCP if possible.Edit: from the whitepaper you can read they also added some governance features like Decred has. Edit: Ledger Nano wallet support for BTCP in next update. 
+1	1523972357	1	Excuse me for the noob question, but why is it that there are already 20 million BTCP out of 21 million possible total?
+2	1523978030	1	Good question! Different mining procedure, no premine. Also ASIC resistant. So that means normal people can mine too. 
+0	1523908923	3	16,981,312 x $8,038.50 = market cap price
+0	1523922589	3	['Cause it's easy money, baby.](https://www.cnbc.com/2017/12/21/long-island-iced-tea-micro-cap-adds-blockchain-to-name-and-stock-soars.html)
+0	1523928229	3	Isn't it natural that this rapid 'forking' phenomenon is gradually heading towards refining the gaps in blockchain and making it more solid and practical?  just like in natural evolution,  some species evolve and others go extinct despite being a predecessor.  Having some forked bitcoins in top with high market cap is also a sign that some of them may be stronger species evolved from a primitive ancestry.  And some people have trust in them! 
+0	1523951806	3	There is only one bitcorn!
+0	1523922070	4	Wash trading is easy and basically free when you can cycle the BTC you forked from. This makes it easy to manipulate both volume and price. 
+0	1523919665	4	bitcoin dividends
+0	1523925061	2	I don't understand this bs.
+0	1523926823	2	Therein lies the beauty of decentralisation
+0	1523942717	2	Clearly we can do better. lI would like to formally announce the next Bitcoin, the Bitcoin of Bitcoin's. **Bitcoin Bitcoin**This new Bitcoin is exponentially better than the original Bitcoin, and is designed to return to its roots as a digital currency. In order to fulfill this, every owner of a Bitcoin in the pre-forked chain will be given 21 Million Bitcoin Bitcoins in the fork ledger, for a total of 441 Trillion Bitcoin Bitcoins. This value is chosen to give Bitcoin Bitcoin a value close to that of Bitcoin during its first ever recorded transaction, of 10k Bitcoins for 1 Pizza. It is estimated that Bitcoin Bitcoin will acheval a value equivalent to of 1k to $1 USD within the first 6 months.This new Cryptocurrency is planned to launch in mid May, stay tuned for more news.
+0	1523952381	2	That's a great question 
+0	1523969434	2	There is only one Bitcoin. 
+0	1523913723	6	All shites from the second on...
+1	1523916434	9	I think Bitcoin Private will surprise a lot of people. Actually has a great team and a lot of solid development. Btc is king, but I think Btcp will be top-10 by EOY. 
+2	1523925814	3	I too like btcp and feel the team is solid. 
+2	1523919550	3	BTCP is actually a real coin that just took the Bitcoin name for some reason, unlike most shitcoins that use Bitcoin's name.
+3	1523928807	10	It's an easy way to Jumpstart a coin.  Lots of coins with solid dev teams never get noticed.  Add bitcoin to the name, and every noob thinks it'll moon.  And they're often right.
+3	1523919991	14	I was pestering the BTCP discord. Some devs responded after a lot of questioning. They said the main reason that they went from ZCL to BTCP was to include all holders of BTC into the fork.So if ZCL had anyone's respect, then so should BTCP.
+3	1523938331	1	How is BTCP more real than other bitcoin forks and what is that reason? On top of bitcoin, zclassic air drops BTCP had a small premine too.
+0	1523919849	3	Because they all have Bitcoin in the name and people who don’t know any better assume any of them will make them a ton of money. It’s purely the name, like a name brand type deal. Nike could come out with crappy lines like Nike Swoosh, Nike Zoom Zoom, and Nike Shit, and even though they are worse than real Nikes, people will buy them over Adidas or Reebok because it has Nike in the name. Same deal here. 
+0	1523920665	3	Wtf is Bitcoin diamond?!?
+1	1523922048	6	Something that got heavily shilled on Reddit for a while
+0	1523921886	2	And no 0xbitcoin :(, probably the only fork I like: BTC with smart contracts and a pow distribution instead of ico
+1	1523943058	2	0xBitcoin is not a Bitcoin fork, it is an Ethereum token that can be mined. Mostly it has nothing to do with Bitcoin other than borrowing its mining distribution scheme.
+0	1523923145	2	Somebody please create Bitcoinnect fork!
+0	1523926535	3	Bitcoin private is a bitcoin+ zksnarks. A very good hold 
+1	1523975269	1	How about just a true privacy coin like Monero? Why would someone want Bitcoin Private over that?
+1	1523929765	1	BitcoinZ (btcz.rocks) also the same Infrastructure, made from scratch, and super low value now. 
+1	1523940728	-1	Bitcoin Lite (btcl) is btc on Ethereum blockchain. 18M supply. 
+0	1523916772	3	Freedom of choice.   I consider it a good thing.
+0	1523912098	1	First one that's actually usable for digital payments and sees mass-adoption wins.
+1	1523913530	1	BTC has hit mass adoption. 
+2	1523932292	2	Actually its losing adoption...
+0	1523927040	1	Basic diversity, one of these will be successful enough to survive.
+0	1523931058	1	Bitcoin has been forked about 70 times so it makes sense 
+0	1523933227	1	"There's a sucker born every minute" 
+0	1523933731	1	I just hope that ledger support for bitcoin diamond comes out eventually. I am holding vet x node under same seed and I am not going to use that on some random wallet to turn those diamonds to something more legit. 
+0	1523934231	1	There can be only one....
+0	1523936737	1	What?? Bitcoin Diamond? 
+0	1523937005	1	Bitcoin diamond is 14th?! Hahah wtf
+0	1523937272	1	Proof that this market at the end of the day is still incredibly irrational
+0	1523940107	1	But where is Bitcoin God? The rest are all heretics! 
+0	1523945056	1	Personally I would like to see a "Bitcoin Bitconnect" one.
+0	1523947499	1	When the fuck did bitcoin diamond come to rank 16???????
+0	1523950697	1	What's up with that Bitcoin Diamond price in the screenshot?
+0	1523950856	1	Hell I sent my bch and bcd to MEW haven't had to deal with them sense 😎
+0	1523952246	1	Because they use a killer name strategy.
+0	1523964345	1	Because marketcap is a bullshit metric. Market cap rapidly inflates when a single person or group holds a large share of the supply.  
+0	1523965466	1	I’m about to launch “real bcash” 
+0	1523981883	1	Because Bitcoin Gofuckyourself will be the best bitcoin one day
+0	1523936057	1	I love how BTCash is literally just bitcoin tilted a bit to the left.
+0	1523908219	1	source: [https://coinranking.com/?search=bitcoin](https://coinranking.com/?search=bitcoin)
+1	1523950889	1	Don't use this website, full of crap.. 
+0	1523923797	1	Bitcoin Herpes deserves to be in the Top 5 Bitcoins imo.
+0	1523941025	1	Let's add another called Bitcoin Core.
+0	1523942679	0	BTC will loose its dominance to a combined group of DAPPs . My prediction is that coins like NEO, ETH, TAU, ICX , LISK and AION will together rule the Top ranks.
+0	1523932469	-3	This is why I refer to BTC as bitcoin core. Or bitcoin legacy. Don’t want to confuse people about which bitcoin you are talking about. 
+1	1523935977	1	This is just silly, there is only one true Bitcoin. There is no Bitcoin legacy or Bitcoin core, just a bunch of wannabe copy cats. 
+2	1523937113	-2	The only ones that say that are bcore extremists.....They are the ISIS of crypto. 
+3	1523940446	4	He has a pointIf you are talking about Bitcoin Core/Legacy when referring to *Bitcoin* then you are helping to perpetuate the problem.
+4	1523942386	-5	Yep. It's like saying I have an iPhone. Which iPhone?I bought a Chevy. Which Chevy?Plus wasn't bitcoin cores shitty excuse for calling bitcoin cash 'bcash' because they are so worried it will confuse noobs and they might buy the wrong coin....?It works both ways. If they say bitcoin core or legacy, everyone will know what they are talking about. But if they just say buy bitcoin, which bitcoin? Bitcoin dark? Bitcoin private? Bitcoin cash? Bitcoin diamond? A noon would be confused by 'buy bitcoin the same they would be as 'bitcoin cash' thinking it was bitcoin
+0	1523908168	0	If this submission was flaired inaccurately, [click here](https://www.reddit.com/r/CryptoCurrency/wiki/resources#wiki_flairing_content).*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1523936359	0	Did you keep bitcoindark in the picture because it makes your list look bigger? It clearly says 151
+1	1523961335	1	I think they kept it in to show that the first 50 were covered.
+0	1523973045	0	because crypto is a joke
+0	1523929206	-2	all worthless besides the original which is only useful as a store of value.
+0	1523939011	-3	You are basically looking at the market’s measure of faith in Bitcoin Core. If Bitcoin Core was seen as perfect, no other coins would exist. If another Bitcoin variant were to be seen as superior to Bitcoin Core, it would be the leader. 
+0	1523930055	-1	Ooh Bitcoin dark, that's a new one I should throw many at!
+0	1523961574	-1	the only good one out of these is BTCP, its like BCH but much better
+0	1523922411	-6	Any fork using the bitcoin name is self-damaging.

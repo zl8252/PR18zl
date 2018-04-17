@@ -1,0 +1,114 @@
+File created at: 1523989396
+Subreddit: BitcoinMarkets
+Submission title: When are we technically out of a bear market?
+Submission created utc: 1523907102
+Submission score: 50
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523922857	17	Technically? Higher highs and higher lows. 
+1	1523972357	3	Not technically, when people start bitching about not being able to deposit or sign up to an exchange.
+0	1523909188	54	IMHO, it'll be when we break through $11.5k and maintain an upward trend for a month or so afterward.
+1	1523914804	19	This seems pretty reasonable to me
+2	1523916405	13	It sounds reasonable, but in practice, it's hard to identify before hand. Best practice is to put some in here and there on the way down (now that we are very far down percentage wise), it's likely that when you identify the trend, it's probably going to be higher than when you bought during this period.
+3	1523924897	1	Agreed, that is what i've been doing
+1	1523924684	16	I don't agree with this entirely. I think it is also possible to be out of a bear market by going sideways for a long enough time.
+2	1523924980	5	That $11.5k area has been major support on the way down, and major resistance every time the price has bounced this year, which is why I think it's something we have to break before calling this bear market over.
+2	1523932843	1	sideways is very good for alt boom
+2	1523959806	1	Couldn't agree more. Sideways with low volume is what we want to see since it marks  the Accumulation phase between the bear phase and bull phase of a market cycle.https://www.youtube.com/watch?v=_I6_8nN3IX8
+0	1523907859	10	Think we are technically out once we break the downtrend resistance line from ATH with conviction.  Somewhere arround 8.6-9k depending on your charts. Someone correct me if im wrong. However I don't feel people will be truly confident in a recovery untill we are holding above 12k.
+1	1523909087	9	>Think we are technically out once we break the downtrend resistance line from ATH with conviction.Go back to last 'bear market' and plot a line down to mid-May 2014. Then all the way through 2015...Major trendlines breaking usually have a big surge in short run, but more times than not turn into just redrawing another trendline @ shallower angle later. Up and down.
+2	1523917277	2	yeah -- I am in the camp that thinks what might end up being a log trend break of the bear trend and possible weekly MACD div is just going to be a giant bull trap where we fail to make a new ATH and roll back over a la the $680 pop in 2014
+2	1523986165	1	I'm looking forward to this trade. I'm either buying sub 6k, or I'm buying when the log downtrend line breaks.
+0	1523909536	16	There are two things that I see happening:1. There is a triangle that we need to break out of. It's top is somewhere around 8.6k right now, and narrowing (see chart below)2. The current chart has an Adam and Eve formation, and breakout from A&E is the peak between the two. Which is just over 11k.If both occur, I'd consider the bear market over. Otherwise right now, we are still in a down trend in the triangle. Sources: does this look familiar?https://www.tradingview.com/x/wrpTbzSThttp://thepatternsite.com/aedb.htmlPersonally, I think 6k was our bottom. The triangle shows getting 6.6k or so may still be possible as it narrows. I plan to try to accumulate if we hit the low mark.
+1	1523942508	4	I don't think drawing on graphs and pattern matching is worth much in crypto.  Its barely viable in the established Wall St markets, and theirs are much more rational and predictable than ours.I've yet to hear a convincing reason why future performance can be predicted from prior performance.In terms of calling a bear or bull market \- gauging market sentiment, news, volume, and historical price plateaus are more telling, in my opinion.This is all just staring at the bottom of an empty cup of tea though.  Might as well accumulate coins while we can, there's no evidence that the crypto market cycles wont continue.
+2	1523955934	3	> I've yet to hear a convincing reason why future performance can be predicted from prior performance.You should read about the history of TA. TA tries to predict possibilities based on psychological behavier of the mass. For example a double top is not only important because TA says so. A double top is important because mass psychology is threatend that it doesnt go higher and triggers a sellout. If you are sitting on a lot of crypto waiting for a good moment to sell, you could see this at yourself even without knowing that a double top is a TA pattern. This in combination with alot of traders trading technical makes TA usefull to predict outcomes which are more likely than others.
+3	1523963453	2	I think there might be a degree of self-fulfilling prophecy
+4	1523967704	1	Definitely. If I can spot a pattern, hundreds of others are too. If they all see it being a short term dump, they will offload in anticipation of the event, making it happen. And there are trade bots that also use TA to make it even worse.Also, a pattern is a pattern till its not. I'll use this chart till it quits working, till then, it gives me some idea where the market might be heading since I know others will be looking at it in a similar way.
+1	1523912200	1	Approximately what date are those lines converging?
+2	1523912303	5	5/23. I updated the chart.
+1	1523944341	1	Hmm, not too sure about your analysis. To me it looks more like a descending vulture with a wing at just over 9k, then a sharp correction to sub 7k. Perhaps after that we can break out.
+1	1523977055	1	I personally think we may be out. My TA lines up perfectly with the consolidation period and then a break out. Drew my bottom trend line off the moving average where it seemed to deviate heavily off the news of bitcoin hitting 5k. I believe that news sparked the bull run.https://i.imgur.com/LJz3gd9.png
+2	1523979088	1	Let's check back in 2 days 
+3	1523979520	1	Hope I'm right, all we can do is hypothesize to the best we can.
+0	1523914782	6	I think we aren't yet out of the bear market. I hope it's in the next couple of months though. I am day trading a bit on Binance between altcoins (NAV, IOST, Neblio) to increase my BTC stack for when the next bull market is in play.
+0	1523917005	8	First rule of crypto trading:Anyone who says they know what is going to happen to the price is full of BS.
+1	1523927437	3	Or bear shit, depending
+1	1523983414	1	There are educated guesses though.
+1	1523976487	0	Well, I know when trends break support 99.9% of the time the next bounce will hit that line that is now resistance. That's how I've never lost money on a trade.
+0	1523914349	12	It can only be clear in hindsight.  There's no way to tell when it happens until long afterwards.In my opinion it won't happen until the hopium is gone and a new group of fundamentals-based buyers come in.  That's what seemed to happen with previous bear markets.
+0	1523907870	40	The term "bear market" has no proper definition. What you're asking is pointless.
+1	1523920502	31	Shit won't stop going down - bear market  Shit won't go up - still bear market  Shit won't stop going up - bear market soon
+1	1523925328	5	It certainly does. A bear market is defined as a 20% or greater drop from high points. We are in a bear market until we see a 20% gain from lows, signaling a true, *by definition*, bull market 
+2	1523934125	4	So we had a 100% gain in February... but still in a bear market. So either this doesn't apply all the time, or we've been in a *second* bear market.
+3	1523977336	2	Yeah I don't think traditional market definitions apply to crypto. A 20% drop in stocks would take weeks or months and be catastrophic. A 20% drop in crypto would take a day or two and generally just be considered a bad weekend.
+2	1523942825	2	That's just a Sunday in crypto, though
+1	1523955554	1	I just use a 200 MA on the daily chart, and if the price is above it (bull market), and if it's below it (bear market). Works on all charts to see what the state of the asset/currency is.
+0	1523919913	3	once it breaks and stays above about $9.1k
+0	1523922718	3	Draw a downtrend log line from 20K through 17K through 11.7K. Hasn't been broken since we reversed off the ATH. Currently it's about 9K. If we break above that and hold above it, most would consider that a reversal of the bear market.
+0	1523926459	3	When I have a 12 car garage. No more, no less.
+0	1523922081	2	When we constantly see higher highs and highs lows. 
+0	1523927474	2	When we break the downtrend line imo.https://www.tradingview.com/x/kwOX0Qgv/
+0	1523947982	2	Hi there, If you have never heard of the ichimoku cloud, you should definitely check it out. It looks a lot more complicated than it is, but it offers a few clear indicators when a trend is becoming bullish and when it is becoming bearish. I made a small screenshot below of my btc/usd chart with the ichimoku cloud drawn on it. In this case we have the candles above the cloud and lagging span also broke the cloud. This is on a 4hour timeframe.https://www.tradingview.com/x/sMBH2n3y/the basic premise is the following:* When the candles close above the cloud bullish trend* When the candles close under the cloud bearish trend* When the blue line crosses over the red line above the cloud = strong bullish signal    I wrote two articles. The first one is [how to setup the ichimoku cloud in tradingview for cryptocurrency](http://cryptobulls.info/ichimoku-cloud-settings-for-tradingview). The second article is a c[omplete beginners guide to the ichimoku trading strategy](https://cryptobulls.info/beginners-guide-ichimoku-trading-crypto-101) for free.Even if you are not a day trader, it still can help you find good entries. Remember Higher timeframes are the most relevant.Important: When setting a new entry set a stop loss at the next support level to protect your investment in case everything goes south.   One last titbit. You can show the amount of longs and shorts that are open for btc with a simple pinescript. The pinescript colors the crosses green when there are more longs than shorts and red when shorts outnumber longs. You can find [the tradingview script here](https://cryptobulls.info/show-btc-longs-shorts-powerful-pinescript).Have a great day : )
+1	1523956273	1	I appreciate the useful content. Quick question about the last "titbit". I see that you have clarified green, red, and grey. But what about the yellow? What does that represent? Thanks in advance.
+2	1523961821	2	Thanks for pointing out the missing explanation. Basically the yellow crosses mean both shorts and longs are increasing in volume which signals an increase in volatility. Very often you will notice the yellow crosses just after a bollinger band contraction. 
+1	1523966765	1	what timeframe do you use for BTC trading in ichimoku?
+2	1523968432	1	At the beginning of a trading session I will first look at the daily chart to have a quick overview of where the price will move in the next weeks and months. Then I will go to the 4hour timeframe for seeing where the trend can go in the next few days. Trading i mostly use the 15 and 5min chart. I always use a higher timeframe to find support and resistance levels for lower timeframes. The higher the timeframe the stronger the confirmation and signals. A tiki cross above the cloud on a 4hour timeframe is much clearer than a tiki cross on a 15min chart.
+0	1523974151	2	When the massive downtrend stops, which could take years.
+0	1523908160	6	I'm a huge amateur.  I don't do TA at all but I've been following bitcoin for a few years on and off and have been looking for a good entry point for a long term investment.  I've been thinking about this question a lot for the past few weeks and this is what I've come up with.After the 2013/2014 bubble (yes, I'm making one of those comparisons again), the price eventually bottomed out sub 200 at 168.  Then in slowly rose to 400 over two years.So based on that, what I'm looking for as a bottom are 1) extremely low prices. I'm thinking a 75% from the ATH at least.  This means 4K - 5k range.  And 2) A **slow** rise of at least 50% over at least two, maybe three quarters.  The first point is consistent with previous bitcoin bubbles where the price fell by that percent.  The second shows a serious level of organic growth.Of course, a lot of things could throw a wrench in this.  I hear there are a handful of institutions involved in the crypto space now.  If more institutional money enters, the price could rise faster than expected.  Likewise, if there is a recession next year (the US economy's been growing for a while, we're due for one), I think you could get rekt'ed if you buy at the wrong time (although, gold did rise during the last recession so maybe bitcoin will rise too.  Bitcoin during a recession is a huge unknown.).  Nevertheless, I'm using the above two points as a baseline model.EDIT:  I'd love to hear some reasons for the downvotes.
+1	1523945265	3	2014 price performance is not some law of nature. Historically people very consistently make wrong calls by expecting arbitrarily exact replays of scenarios they've experienced before. In 2014 there was an almost identical superstition from the bull side that became known as "bubblewatch".
+1	1523921054	2	Keep in mind BTC is far better known now as opposed to 2014-2015 and the FOMO of last December is still fresh in people's minds.
+2	1523940128	2	That's why we are at $8000 instead of $500.
+2	1523921376	1	That cut's both ways.  People also know how far and fast BTC has fallen.  I think it's going to require a lot of new money to get anywhere near our all time high and with interest in BTC waning at the moment, I don't think that new money will be coming in.  Certaintly until BTC decisively breaks the trendline from it's all time high, I'm going to be skeptical.
+1	1523943171	2	What happens if your conditions are not met?
+2	1523973939	1	Then I'm wrong and I lose money/potential profits.  :DTo quote Orwell:> In philosophy, or religion, or ethics, or politics, two and two might make five, but when one was designing a gun or an aeroplane they have to make four. 
+0	1523907734	0	Sorry, not yet. Wait for ~$2-3k
+1	1523907822	1	lol I am prepared for that 
+1	1523911542	1	I would love to see $2k btc again. Would allow us to buy 4x as many for the same price :D
+2	1523924810	2	you going to sell everything you have now so you can buy 4x then? 
+3	1523927140	1	No, because that would be foolish. I am sitting on a bunch of cash and crypto right now. As it goes down I keep buying it. I don't care where it bottoms, the lower the better. I sold everything well above $10k, and started to re-buy about a month ago. By doing this I average in for a very good price, and have over doubled my units. I am averaging in so I don't have to time the bottom. I said I would love to see it, not that I think it'll happen. I think we'll see another sub $5k though. Who knows  ¯\_(ツ)_/¯
+2	1523943056	1	While I agree with the sentiment, this would also imply that our prior investments are still good decisions; that BTC will more than surpass the latest ATH.  I think if it dropped that low, it would be less likely to push ATHs upward.  A very strong bull market from those lows could only get us back to $7k.  I don't know what your cost basis is, but price action like that would only favor a small &#37; of hodlers.  
+3	1523944695	1	Very true. I'm only roughly 40% crypto right now, the rest is fiat. I'm averaging in regardless of market direction as I believe that we will eventually head back up. I would have 0% crypto if I truly believed we would see $2k.
+1	1523909445	-1	[removed]
+2	1523911998	7	[removed]
+3	1523912009	1	[removed]
+2	1523918566	3	More excellence, please.
+3	1523920218	2	Yes sir or ma'am 
+0	1523909342	3	The million dollar question?
+1	1523913245	1	A 100 billion dollar question for the market cap!
+0	1523928796	1	When you stop seeing bitcoin posts on the front page. The start of the next bull market is when you start seeing bitcoin reappear on /all 
+0	1523934615	1	Ari Paul said in a recent interview he thinks length of time is as important as price in guessing if we're out. Is it "too soon" to be out of a bear market? Also, what price movement would we want to see? We need to get out of the bart simpson movements. The jump to $8K could be dumped back down (but I don't think it will for the record, just because it was unusually big)
+0	1523945647	1	That depends on how you define bull and bear markets. Also what kind of time-frames are you asking about?edit:up-trend confirmation: ~9.25k, ~8150 (low tf)higher time-frames maintain their up-trendsdown-trend confirmations: ~5.5k, ~180
+0	1523949376	1	When you keep buying no matter the price :)
+0	1523953432	1	When there's a consistent pattern of more buyers than sellers in addition to healthy levels of market liquidity.
+0	1523955543	1	We need to meaningfully break out of this channel formed from the ATH: https://www.tradingview.com/x/8JEykS4Y/
+0	1523956231	1	I think an important metric that this sub tends to overlook, since this is a Bitcoin Markets sub and not a Crypto Markets sub, is the overall Global Market Cap and Bitcoin Dominance Graph.  I think these can provide some strong indicators of the market as a whole, often times more so than the Bitcoin charts.When alt coins are doing well, I think it is a much stronger sign than if Bitcoin is doing well.  As a whole, it means people are taking bigger risks and really injecting money into the space that they should understand they might not get back.  In bearish markets, alts are basically on full out life support.  Historically, they're basically dead.Right now we're approaching a significant local high of $354B USD.  If we can get past that, then I think we're at least out of a bearish market in the short term.  Longer term I think $500B will be a very significant number.  Essentially alts and BTC play a little song and dance during sideways / bullish periods where they take their turns in the spotlight.  So to really analyze the positive trends you need to look at both BTC and alts.  In bearish times alts just act like leveraged BTC.
+0	1523960644	1	Gann and Elliot show we are out. 
+0	1523962588	1	Just when some big bulls comes in and buy not just BTC, but more alts like CS,Verge,Tron, Eth, that will make a dependence to another alts together.
+0	1523965856	1	When we move sideways. No real upside move needed - markets can acutally go sideways until the start climbing again. Not happening a lot with Bitcoin in the past at least, though ;)I would expect a higher high and a higher low to indicate some minor reversal - saily. The current high 8500ish is ok (last one was 7500, 7300), now if we do not fall lower than 6500 and then go back up that obviously puts us into some sort of sideways movement (assuming 2 weeks for it).But we definitely need something to show that no, we are not just failing to break the old 7300 high (March 21) and drop lower.Like most here, though, I hope for the end of the universe and a lot lot further ;) Not that likely, though - I think we will get some sideways now.
+0	1523966710	1	when we break that downtrend resistance from ATH and hold that line down like a mfer!
+0	1523977566	1	When we're above 200 DMA. Enjoy the discount period.https://twitter.com/tipmayermultple
+0	1523980396	1	.... whenever amazon announces they’re going to accept bitcoin.
+0	1523987901	1	In the psychological aspect, a lot of hype should happen when total market cap will find support at 500bn, and BTC price will be steady at 10K. Let's see.
+0	1523914983	1	When veiled bullish comments like yours are no longer asked... We'll be out of a "bear market" when people have given up hope, rather than assume they can just wait it out. Its seems we have a long way to go, as everyone believes they are one step ahead of everyone else by just sidelining...
+1	1523915463	2	This isn't a bullish comment, I see this bear market continuing for months at least. 
+2	1523983567	1	Perhaps, but don't expect it to be like the 2015 one.
+0	1523973891	1	No, we are not.
+0	1523915969	-1	We all gonna pretend that whole USDT thing didn't cause the bull market?  Personally I feel like the space needs closure on whether or not the pump was bullshit.  That decides whether we're at 2k or 25k at years end.from a T.A. point of view, I use the Super Guppy.  Start at 1 min and keep going to higher time frames.  Once I see investor MAs cross trader MAs on the 3 day, I'll be bullish.  Currently still bearish on the 1 day.
+1	1523923599	2	What's the super guppy?
+2	1523923722	1	https://www.tradingview.com/x/UJamq8XB/faster and slower moving averages that help show the trend.
+0	1523924829	0	we have never been in a bear market.
+0	1523912299	0	You're asking what's the point after all profits are guaranteed? I have some bad news for ya...
+0	1523917603	0	When it's over 9000!
+0	1523911177	-1	Thursday 
+0	1523921235	0	After 10k 
+0	1523921593	0	Depends on the timeframe you are looking at. Technically, if you are looking at the weekly chart we never were in a bear market.
+0	1523929171	0	Technically, new high.
+0	1523966012	0	what an arbitrary questionedit: https://imgur.com/fSL541v. The arrow line on the bottom is 2011 LTS
+1	1523972269	1	You forgot to paint a | line
+0	1523915108	-1	When we get a crash that ends above the last ATH. 
+0	1523923448	-1	When I start trading again, and I think I'm about to
+0	1523927080	-1	When should I FOMO?
+0	1523930416	-1	20k. min.
+0	1523911731	-2	8.5k
+0	1523917415	-2	Days not weeks
+0	1523918440	-2	Sometime June 2018.

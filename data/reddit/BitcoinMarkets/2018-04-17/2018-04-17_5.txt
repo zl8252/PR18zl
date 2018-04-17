@@ -1,0 +1,16 @@
+File created at: 1523989405
+Subreddit: BitcoinMarkets
+Submission title: Kraken.com deposit on hold
+Submission created utc: 1523902176
+Submission score: 4
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523902628	4	> What can I do?Verify Tier 3?
+1	1523902899	1	Sure, but I know their verification process can take a while and the way they push this on me looks completely unnecessary. As I said, I'll do it but not when they force a hand behind my back claiming they can keep my money on hold until I do so.
+2	1523903553	5	Well, my Tier 4 validation took a couple of days. The higher you go, the fewer people acutally go through with it and the more important you are.
+2	1523905490	4	Kraken support here.  Our verification process is quite fast - use the Get Verified tab when logged into your account and go for Tier 3.  If you need assistance, open a ticket (to request Verification assistance) at: support.kraken.com 
+3	1523949062	2	Alright, I'll comply. I surrender!
+2	1523907077	3	I was tier 3 verified in just a couple hours. Surprisingly fast considering other exchanges take weeks to months
+2	1523904882	2	If it's mandatory, I'm sure it was written in their Terms or service docs/help/blog or e-mail you should have received.
+2	1523911963	2	They've mostly caught up on their backlog. Verification now usually takes < 1 day.
+0	1523958498	1	Guess you exceeded monthly or daily limits for tier 2...I never deposit FIAT so tier 2 is enough for me...

@@ -1,0 +1,7 @@
+File created at: 1523989408
+Subreddit: BitcoinMarkets
+Submission title: Check prices across exchanges - supports BTC/USD, BTC/EUR, BTC/GBP, ETH/BTC, XRP/BTC & IOTA/BTC
+Submission created utc: 1523948220
+Submission score: 2
+comments: (level	created_utc	comment_score	comment_body)
+

@@ -1,0 +1,26 @@
+File created at: 1523989394
+Subreddit: CryptoCurrency
+Submission title: IMF Chief: Cryptocurrency Could Have 'Significant' Impact with Potential 'Large-Scale Shift Away' from Government-Issued Fiat
+Submission created utc: 1523906043
+Submission score: 166
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523922989	26	"Banks hate this one weird trick"
+1	1523944084	3	"Here's the SECRET that banks DON'T want you to know!"
+0	1523929517	12	Shit, they're starting to get it.
+0	1523929564	6	The head of the International Monetary Fund says cryptocurrency could have a “significant” impact on the way we save, invest and pay our bills – and eliminate the need for certain financial intermediaries altogether.
+0	1523912748	5	And that's how to say something without actually having to have an opinion that could one day be proven wrong.
+1	1523918291	1	Hes the IMF. He kinda has to take that approach. 
+2	1523945551	3	She
+0	1523937045	5	The IMF has never been very fond of single national currencies, including the dollar, being used for international trade and clearing systems, it has always advocated for currency baskets and systems like the special drawing rights. The IMF can actually be a useful ally for crypto.
+0	1523926020	4	https://blogs.imf.org/2018/04/16/an-even-handed-approach-to-crypto-assets/I smell fear.
+0	1523935295	4	Love it, I love how Bitcoin started as this insane sounding idea that people could determine their own money and be involved in securing their own money that governments couldn't willy-nilly screw with. And now enough people believe in it that even the IMF is starting to think seriously that people may believe in it enough that they may actually challenge fiat.Of course the real problems will come when multiple governments start to attack crypto because it threatens their control over the money supply. China and India banning crypto exchanges is a pretty big sign that at least some governments are deathly afraid of this, while I suspect other governments have embraced it because it better suits their interests (I for one suspect that Japan is embracing it as a way to let people avoid the negative interest rates, and perhaps if enough people adopt it they'll be able to basically inflate their way out of their debt situation)
+1	1523944800	3	The thing you're missing though is the countries who are considering banning it will be left behind by the ones who embrace it. It's going to be a rat race to adoption once the wheels really begin to turn. The ones who try to remain in the past will be left behind, and no politicians ego will allow that. 
+0	1523928355	7	I'm all pro crypto, have been for long time but this ain't happening unfortunately. Allowing it would mean governments around the world would have to give up their fiat and ultimately control over the populous. Who would allow that? What government? The trillions and trillions of dollars, euros, yen, rubbles invested everywhere ain't going anywhere because the small group of people who run this entire world will not let it happen. Just being a realist...
+1	1523944618	8	You're missing the bigger picture. As late has said, it's too late to stop it.The genie is out of the bottle. The governments can't stop it now. They can try all they want, they may be successful in making adoption more difficult but even that will eventually fail. That is the beauty of the open source decentralised model.The country that tries to suppress it gets left behind by the ones who reluctantly embraced it because *they* didn't want to be left out. Politicians are too petty to be able to come together in order to suppress the technology. Instead in order to get ahead of other countries they'll get caught up in technological rat race. And that is exactly why I believe adoption is not a matter of if but when.
+1	1523943491	5	This isn't about *allowing* it. They can't stop it. If any country were to hold back, other countries will have an economic advantage by adopting sooner. It will be a gold rush on a scale the world has never seen before.
+0	1523958390	2	It's like DNA cloning: many countries can go against it but the ones embracing the technology will have a huge advantage over the former ones.So they'll look at each other either waiting for "who's gonna be first" or they'll rush towards the new technology.Can you imagine the US, Russsia, Europe, India, China, etc... all together getting a consensus to ban crypto? Not gonna happen. At least one of them will say "Hey, if we can leverage those blockchains, wouldn't we get a HUGE power over our competitors?". 
+0	1523973224	1	Cryptocurrency is now mostly blockchain, no other use so far.
+0	1523931452	1	"Moreover, banks and other financial institutions will face challenges to their business models, should there be a large-scale shift away from government-issued currencies toward crypto-assets."Stop quoting people out of context, I saw the title and I immediately knew she couldn't have possibly said that.
+1	1523945791	2	Technically she didn't *say* it but she *wrote* it on her blog: https://blogs.imf.org/2018/04/16/an-even-handed-approach-to-crypto-assets/
+0	1523921975	0	“Lagarde stresses the need for a global consensus on the new technology.” And therein lies her motivation. Self interest (as she is part of an international organization).

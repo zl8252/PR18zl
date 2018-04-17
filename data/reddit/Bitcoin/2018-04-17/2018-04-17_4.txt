@@ -1,0 +1,29 @@
+File created at: 1523989341
+Subreddit: Bitcoin
+Submission title: Noticed this new 'Features' criteria on Yelp.
+Submission created utc: 1523934965
+Submission score: 245
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523935009	12	So the restaurant I was looking at doesn't accept it, but it's cool that this new criteria is there!
+1	1523938698	8	To be fair they don't accept Apple Pay or Android Pay either lol
+2	1523948730	7	Those are beginning to look like slightly ill-timed services in retrospect.
+3	1523974933	1	Why? They're just a single way to pay with the currency of your choice. They can even be a layer over cryptos eventually. Just tap your phone to pay the merchant with whatever money you have and they accept, without having to sort through and determine compatibility on your own.
+0	1523949468	8	This news is 4 years old. However many of them have stopped. Maybe LN will be the next step
+0	1523935828	1	Damn
+0	1523936281	1	Wow:) That could turn out to have a great effect for New people accepting Bitcoin! #bitcoinintherise 
+1	1523939263	8	Yelp has had this for 4 years.Edit: [Now with actual link!](https://www.yelpblog.com/2014/04/now-on-yelp-businesses-that-accept-bitcoin)
+2	1523941316	2	Uhh... wrong link?
+3	1523941408	1	Hahaha! Thanks - Fixed.
+0	1523970467	1	eh so no more bitcoin payment, ever?
+0	1523984533	1	Craigslist also lets you search ads by people willing to accept crypto.
+0	1523986634	1	Can I do a search for businesses that do accept it using Yelp?
+0	1523988838	1	While cool, this has been around for years
+0	1523954764	1	I dont understarn why would anyone accept bitcoin. 
+1	1523962550	5	1950s you: "Why would anyone accept credit cards when we have cash"700BC you: "Why would anyone accept cash when we have metal objects"
+1	1523958385	4	- Because there are customers out there who would like to spend bitcoin.- Because as a seller you avoid any chargeback.- Because on indexing services like Yelp putting "yes" on more things will raise your ranking score making your company stand out.- Because if you prefer EUR or USD you can always sell the bitcoins you just earnt on an exchange at market price. Usually slippage + exchange fees are less than what you would pay using credit cards. Plus you avoid the risk of being charged back.
+2	1523961926	2	Negatives:You have to train staff how to use a system they will probably never use.Unconfirmed transactions will cause problems.
+3	1523970762	1	- Apps and integration aren't still really a thing. They will, and staff training will be sooner or later just as easy as with credit cards.- Unconfirmed transactions won't be a problem forever:if your business does small transactions (eg. ice cream shop) you can use a second layer solution like the Lightning Network (heck, even a crappy 0-conf would be enough imho); if your company does big or international transactions, then it is already preferable to only wait 20-40 minutes to get 2-3 confirmations and pay 0.5-5$ rather than waiting 1 to 14 days and paying whatever the involved banks decide you need to pay.
+1	1523976187	1	Because it's an easy way to accumulate bitcoin at market rate.What I don't understand is why anyone would spend bitcoin today...other than to spread awareness.Nobody's getting my BTC!
+0	1523940364	0	Very cool!  Nice find
+0	1523975009	1	I would bet *anything* that there's a significant correlation between restaurants with good food and restaurants that accept Bitcoin. Just sayin'.

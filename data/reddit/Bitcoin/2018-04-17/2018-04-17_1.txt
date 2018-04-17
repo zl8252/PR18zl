@@ -1,0 +1,68 @@
+File created at: 1523989336
+Subreddit: Bitcoin
+Submission title: Working on a lightning wallet for iOS and just sent my first transaction live on TestNet
+Submission created utc: 1523902336
+Submission score: 356
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523906885	37	1,500 SAT looks much cleaner than 0.000015 BTC
+1	1523907698	6	True
+1	1523910614	20	15 bits looks even better.
+2	1523911409	3	We have that option! https://drive.google.com/file/d/1xosd8khPTM_214LKfE-KujkgaYDfzcan/view?usp=sharing
+2	1523926360	2	[1.5 Gil.](https://www.reddit.com/r/Bitcoin/comments/8cixgc/when_your_favorite_game_hinted_that_you_should/dxflm6x/?context=3):) 
+2	1523910691	4	Perhaps, but that never really got much traction.
+3	1523912578	6	What we actually need is all 3 units (btc/bit/satoshi) listed side by side, so people get used to making the mental calculation, kinda' like how the conversion of Euros>Francs etc. were shown in many EU states a full year ahead of adoption.
+3	1523969644	1	It was a dumb idea.Many currencies are already past parity with Satoshi. It costs less than a Satoshi to but a Vietnamese dong or an indonesian rupiah.These populations are way more cosmopolitan and tech savvy than the average Umercan.
+2	1523950308	1	True
+1	1523925915	3	sooo confusing for people not familiar with SAT though.  You have to provide a toggle so people don't get confused.  Everywhere else in the world it's BTC.
+2	1523926452	3	I think, at this point right now, if they are using Lightning they are going to know what a Sat is. But I get what you mean...long term. I imagine people will know what Satoshis are by the time LN is mainstream enough that it is like email. 
+3	1523926823	4	just provide the toggle.  There are times people want to transfer 1BTC and there are times people want to transfer 100 SAT.  It's inconvient to write 100,000,000 SAT just as it is inconvenient to write 0.0000001 BTCAlso, it makes it easier to avoid accidental input errors by adding or omitting a zero.  Computers are great at math, people make mistakes.  Let people use whatever unit works best for them with a simple toggle.
+4	1523933533	1	Yea. That's all true. good points ✌🏻
+3	1523948041	1	Having 100,000 Satoshis sound better than the dollars. No wonder Japan loves Bitcoin. 
+2	1523929597	2	Yeah, we've got a setting that lets you select between btc/mbtc/bits/sat depending on what you like. Currently we're planning for sat to be the default, but it definitely has some ui issues with huge numbers (just like btc the other direction).
+3	1523941832	1	Default to BTC, everyone is familiar with BTC. Sat will confuse people who are not in the "know" they will think it's a totally different crypto.
+3	1523946111	1	How about changing the colour of the numbers to help users see the units that indicate whole btc without hiding the saroshis?
+2	1523956019	2	I think it would be good convention to use SAT for lightning wallets and BTC for legacy. I don't know where 'bits' came from, it's confusing to me. and it sounds stupid to me to say 'a bit of a bitcoin'.I mean as default option, I think the user should be given the option to choose.
+1	1523955843	2	I applaud this decision. wallet devs , use sats , not bits please.
+2	1523969747	1	This
+1	1523974515	2	What about https://imgur.com/naDU8zW ?
+2	1523974752	1	That's actually rather neat, but would probably still present a challenge to speak out loud. 
+1	1523913656	1	what is SAT?
+2	1523914529	5	Satoshi 
+1	1523931591	1	Yeah.
+1	1523912782	0	1.5 kilosats...  
+0	1523902953	19	I encourage and support any and all user friendly/app for dummies development. That’s one thing this sector needs is ease of use platforms. 
+1	1523932362	4	I can confirm. I am a dumny.
+0	1523905042	10	That looks very good! Clean UI
+0	1523911266	6	What Lightning implementation do you use?
+1	1523911704	7	We use lnd w/neutrino. It took a few modifications to get it to play nice on mobile, but nothing too crazy.
+2	1523981766	1	Nice. I hope you will contribute the modifications back upstream ;)
+3	1523982741	1	Definitely planning on it for the stuff that makes sense!
+0	1523909044	4	Yes, hello. May I get a tall Blockaccino with extra block-chain? 
+0	1523905591	3	Great UI!!!
+0	1523930836	3	Will this wallet be able to receive?
+1	1523932201	4	You can send and receive on chain transactions with this wallet but can only send using lightning.
+2	1523962347	1	Thank you for the reply.
+2	1523963450	1	Receiving on a mobile will be such a game changer. Right now it's for hobbyists willing to buy bitcoins and create channels, but when you can receive, all you need is somebody else to open a channel for you and you can keep using that indefinitely. 
+1	1523932083	1	Important question!
+0	1523907240	2	Amazing
+0	1523907582	2	Release the kraken now good lord
+0	1523908866	2	You programmed the whole app alone?
+1	1523909204	11	Not alone, u/thothonegan too
+2	1523910167	1	Still, this is impressive.
+0	1523910316	2	how to applly for testflight?
+0	1523920551	2	Great work. An iOS lightning wallet can't come soon enough. I love bitcoin as is, but being able to make it useable as a currency for day to day usage will help it tackle the much larger market that is currency instead of the much smaller market that is store of value. (of course all that is arguable in many ways, but hopefully you get the idea). People don't want a currency that they can't buy food with.
+0	1523958135	2	Nice!! Is it open source? I'd like to contribute and polish the user interface a bit.
+0	1523908746	1	whoa!  go for it!
+0	1523920348	1	I would prefer if exchanges and wallets like coinomi and jaxx integrated lightning than another lightning wallet (besides eclair and [this one](https://play.google.com/store/apps/details?id=com.lightning.wallet)). Please OP, apply to a job in coinbase, bitstamp, kraken, jaxx,... and work with them to integrate lightning :P
+1	1523921540	8	Personally, I would prefer if independent developers like the gentleman behind this app still continue to exist, rather than the whole eco system being fully controlled by the likes of coinbase.
+2	1523966293	1	seconded
+2	1523969834	1	Thirded
+0	1523965252	1	Well done, we need this asap to make bitcoin a truly global currency. Blockaccino, i love it :)
+0	1523971269	1	how fast and shiny!
+0	1523979597	1	Damn nice mate.
+0	1523986841	1	Testflight or Github by any chance?
+0	1523909074	-17	[removed]
+1	1523916994	5	Wow, Bcash is violent, not sure why anyone would want to associate with a currency that rapes your mother. Perhaps it's a reflection of the community that backs it.
+2	1523928835	1	Bcash.... He used a trigger word!!!!!
+1	1523913654	2	Dream on kid.

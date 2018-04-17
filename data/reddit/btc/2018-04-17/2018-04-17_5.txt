@@ -1,0 +1,32 @@
+File created at: 1523989357
+Subreddit: btc
+Submission title: It is currently 22.87x more expensive to transact on the Bitcoin (BTC) network compared to the BCH network.
+Submission created utc: 1523958158
+Submission score: 106
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523958266	6	https://cash.coin.dance/blocks
+0	1523976418	4	Just wait till you're using LN and pay a fee for each hop till you get to your destination.
+1	1523988261	1	With 11+ hops.
+2	1523988964	1	You won't need 11 hops when you use the Citibank Lightning Hub!
+0	1523959489	24	Technically it's approx 2X more expensive: the fees are calculated by using the same unit (Bitcoin/Satoshi). If you convert them to fiat then the fees would be multiplied by the exchange amount. The value (in fiat) of the Bitcoin is approx 10X the value in fiat of the BCH, hence the 2X fees multipled by 10 will turn into 20X. In example, if the BCH will increase in value by 10X, the fees will remain the same in BCH, but their cost in fiat will be 10X more expensive.This chart gives a better idea of the real difference: https://fork.lol/tx/fee
+1	1523962353	11	As much as people hate to admit it, this is accurate (for now). During the relatively short bursts of time where BTC is operating at 1 satoshi/byte, it's not generally noticeably more expensive than BCH.That said, wallet/node/mining software should all be working towards support for sub-satoshi/byte fees before this becomes a "problem".
+1	1523976202	4	LOL no, the gold market doesn't have higher fees than the silver market. 
+1	1523974502	6	No, that's not how it works. Miners have power to set fees, its incredibly unlikely none of them are going to compete for lower fees. 
+1	1523975709	3	Nobody gives a shit about that. People just want to not get raked over the coals when making purchases. If your coin can't handle adoption without losing its ability to be useful for purchasing things, it's a shitcoin.
+1	1523987033	2	Satoshis/byte and value/byte are both interesting, but "expensiveness" is measured in value/byte. Value is independent of all currencies but approximated pretty well by USD.The idea isn't to keep Bitcoin Cash's fees at 1 satoshi/byte. It's to keep fees as low as realistically possible. There is a lot of good development happening right now to make that possible (network protocol optimizations, higher caps, etc).In the end, normal people (including both individuals and businesses) don't care how many satoshis/byte they're paying to get their transaction onto the blockchain. They care about how much it costs in their local currency.It's the reason why many services that use BCH pay transaction fees on behalf of their users, whereas this has become extremely rare on the BTC chain.
+1	1523964683	-2	> Technically it's approx 2X more expensive: the fees are calculated by using the same unitWhat, no they aren't. One is in Bitcoin Core/Satoshi the other is Bitcoin Cash/Satoshi. They are different currencies. > if the BCH will increase in value by 10X, the fees will remain the same in BCHNo they wont. The value of BCH has nothing to do with the amount paid for fees. If BCH price fell to $1 do you think people would pay 1/1000th the fees they do now? What about if the price went to $1m, would people start paying $10 fees? This isn't how this works. People would adjust the amount of fees in sats to match the actual financial value required.
+2	1523966098	2	If I would be you, I would spend 5 minutes to understand how the fees work in BTC/BCH before replying.
+3	1523973588	2	You are comparing 2 different units and thinking they are the same. They are not. Your "technically" is wrong.And no, people haven't always paid a few satoshis per byte. It used to be [much much higher](https://blockchair.com/bitcoin/transactions?q=block_id(326530\)&s=id(asc\)) in satoshis... but not actual worth. Look at that, people paying ~400sats/byte yet the fees are only are a few cents.... because bitcoin was worth $300 at the time. 
+3	1523976386	1	Why would you attack him instead of address what he said?
+4	1523977339	1	I'm not attacking him, I suggested him to read some (basic) paper on how the fees works. If you don't understand the principle how you can sustain a conversation? This is not a school.
+5	1523977587	0	Your attack (and thats what it was) was irrelevant, we're not discussing /u/t_bptm we're discussing fees. So why would you avoid what he is saying with an insult?
+0	1523978857	2	22x... that's not a good metrics. They should just say: The BCH transaction fee is 0.01 USD while the BTC transaction fee is 0.35 USD
+0	1523978017	4	It’s just as cheap to use any other non-used altcoin as well. 
+1	1523988342	1	Those are outside the bitcoin ecosystem and network effect.
+0	1523965965	-4	And doge is cheaper than both
+1	1523986981	2	You're actually completely wrong. Based on the median tx fee, the Doge fee is over 2X the BCH fee, currently:https://bitinfocharts.com/comparison/median_transaction_fee-btc-eth-ltc-bch-doge.html#log&3m
+0	1523979257	0	None of the versions of bitcoin are ready for what the aim to be so once the tech  get where we aim it to go it will make sense to compare right this kind of comment give no additional value to any of the version 
+0	1523966746	-5	Who cares about temporary performance when the tech is still improving 
+1	1523978664	4	Because the actual improvements to a payment network are directly related in the price to transact.
+1	1523978989	3	you should care unless you just want BTC to get steamrolled by any number of coins with way superior performance

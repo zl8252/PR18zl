@@ -1,0 +1,23 @@
+File created at: 1523989346
+Subreddit: Bitcoin
+Submission title: Lightning + NFC? The New Plan to Bring Bitcoin to Retail
+Submission created utc: 1523946991
+Submission score: 114
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523958108	20	Incredible how much innovation is coming up with segwit and lightning
+1	1523970377	1	We are coming like waves...
+2	1523974078	1	Drowning*
+0	1523954315	8	this train is unstoppable!
+0	1523966040	6	Anyone working on LN wallet UI/UX should have a look at WeChat payments. The thing has largely taken over both cash and cards within the last 2 years in China. Waitresses and taxi drivers are now annoyed when people don't use it.
+1	1523982925	1	Yup, my buddy in China says everyone uses it. Beats having to carry around a stack of Yuan whenever you want to buy something.
+1	1523977435	1	Tim Draper said cashiers will be annoyed if you try to pay with cash in 5 years, and we'll all be paying with BTC. That doesn't seem so far since China is doing it already.
+0	1523967942	3	> "I'd like to see a system where the payment terminal sends a nice HTML receipt for the customer - that receipt has, say, a table list of your grocery shopping with subtotal, taxes, grand-total, perhaps a shop logo, some loyalty code or a coupon for future use," he said.Mmmm, give the wallet arbitrary interpretable data input. Looks much reasonable.
+1	1523972576	2	Yeah, HTML is an odd idea, especially that we already have fields for the purpose in LN invoice specs.
+0	1523966172	2	nfc is great. can do payment straight of smart phone. lightning still got long way to go
+0	1523971186	2	Bullish!
+0	1523985227	1	Merchant adoption here we come 🚀 
+0	1523986960	1	Live in Europe and use nfc all the time with my debit card. It’s really handy way to pay euro directly out of fiat account. Can’t imagine ever replacing it to spend my digital gold though.
+0	1523988850	1	I love the sound of this 😌
+0	1523967411	1	Meanwhile, Roger shows up uninvited to Bitcoin exhibitions, takes a selfie and claims it was a Bcash event.I guess we're stuck with innovating the planet as he heroically saves babies (in a parallel universe).
+0	1523980185	1	This is exactly what I had envisioned for btc’s future. Payments a la Apple/Samsung pay where you pull out your phone tap the screen and pay instantly. Next step is broader retail adoption 

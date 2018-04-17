@@ -1,0 +1,28 @@
+File created at: 1523989402
+Subreddit: BitcoinMarkets
+Submission title: My experience reporting crypto for 2017 tax in USA
+Submission created utc: 1523983567
+Submission score: 26
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1523984805	5	I don't quite get the appeal of a CPA. I used bitcoin.tax and TurboTax, and from the looks of it did about the same amount of work as you did. Hook up bitcoin.tax to the exchanges and import my trades, export data to TurboTax, enter the rest of my taxes (W2s, 1099s, etc), then efile and pay my tax electronically via bank account. It took a while I guess but it would have taken roughly the same amount of time to get all my documents together and sent to a CPA instead of just entering them into a software. My question for your AMA: What am I missing? What are the advantages of a CPA over TurboTax? Do you think it's worth the extra cost?
+1	1523985096	3	It's hard to say what you're missing because I'm far from an expert on this subject. I hired them because I don't know what I don't know, and this seems to be the safer option. One thing I did that you might not have done is declaring foreign exchanges. If IRS somehow ever gets a hold of that, you might be looking at steep fines.If you want to get more in detail, we can compare which forms we submitted to IRS.
+1	1523986802	2	Trust me.  Get an accountant.  Unless you're paying pennies, get an accountant.  You're not an expert.  One write off and you've saved yourself the fees.  
+1	1523986473	1	How did you export to TurboTax from bitcoin.tax?
+0	1523984602	3	What forms did you fill out for both sate and federal taxes?
+1	1523984870	3	I didn't personally fill out any forms. Happytax declared the exchanges I used and I signed the fbar form (114a). My trades went on form 8949. There are a bunch of other forms they used. Do you want me to list them all?
+0	1523985683	3	I used turbo tax deluxe the PC download version from amazon and bitcoin.tax imported into TurboTax. 
+1	1523986445	1	How did you import from bitcoin.tax to TurboTax? 
+0	1523987265	3	Once people realize how easy and cheap it is to do crypto taxes, this bear market will be long gone. The IRS took a shockingly low % of my gains, and all I had to do was fill out one extra form.I use GDAX exclusively, which allows me to export .csv files of all my fills between certain dates. Set it to 1/1/2017 - 12/31/2017 and export all fills over all relevant currencies. Open it in Excel, and if you don't know how to figure out your gains from the information you can pay a CPA a couple hundred bucks to do it for you.I imagine this is possible with most exchanges.
+1	1523987700	3	Shockingly low? Then you didn't make much. Tell that to the guys paying 30+%.
+2	1523987743	1	Long-term capital gains (1 year+) is your friend. max 20% not counting state.
+3	1523987888	1	Well yeah you didn't say that. That's nothing.
+0	1523987419	2	> Sometimes weeks went by without them giving me any sign that they're working on my taxI don't understand this. I have prepared taxes myself and with a CPA (have multi-figure stock related situations some years) and "weeks" does not sound normal.For crypto, you must know capital gains rules, FIFO, lots perhaps, but other complex things like wash sales/AMT/etc. aren't at play. A CPA does not bring more magic than what your Excel sheet or Bitcoin.tax can already do. Plus I bet Intuit/HR Block/TaxAct have teams working round the clock to not be caught with their pants off next year. Add another $20 for TurboTax Premium Ultra Crypto edition and boom, done.This all said, are you sure you're not a shill for Happytax people?
+1	1523988065	1	No shill, only facts. I hate the fact that it took them so long to do my tax and I did write them several emails asking what the fuck is going on. It took them a while to respond to those, too.On the other hand, there aren't too many alternatives at the moment. I don't think I presented that rosy of a picture.
+0	1523987470	1	Did they help you with the form 8938?
+0	1523987493	1	Does cointracking correctly compute margin trading on Poloniex?
+0	1523987613	1	If you dont mind me asking, how much did they charge you for this full service? Looks like it could get quite complicated especially with many trades. Also you're only paying taxes on what you withdrew to the bank, correct?
+1	1523987939	2	Withdrawing to bank is not a taxable event, sales are
+0	1523989277	1	I haven't read all the comments yet but my two primary questions are this.How did they handle the BCH fork?Did they use In-Kind for any crypto to crypto trades?
+0	1523986684	-1	[deleted]
+1	1523987247	7	Different CPAs will take different approaches, but they almost universally agree that most crypto to crypto trades are taxable. Some will try to argue that bitcoin to litecoin trade is like kind, but not many. Just assume crypto to crypto is taxable.I cashed out this year and I still need to get someone to estimate how much I owe for 2018

@@ -196,7 +196,7 @@ cryptoCurrency_subreddit = reddit.subreddit("CryptoCurrency")
 cryptoCurrency_daily_discussion_submission = None
 
 for submission in cryptoCurrency_subreddit.hot(limit=20):
-    if bool(re.match("Daily General Discussion*", submission.title)):
+    if bool(re.match("Daily Discussion*", submission.title)):
         cryptoCurrency_daily_discussion_submission = submission
         break
 

@@ -1,0 +1,75 @@
+File created at: 1525716224
+Subreddit: btc
+Submission title: Ripple Sued for Alleged Violations of US Securities Laws
+Submission created utc: 1525652037
+Submission score: 132
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525656183	21	Ooo, Ripple Corp could be in major trouble here. SEC could make an example out of em.
+1	1525667479	10	As long as the Regulators leave Ethereum alone.
+2	1525671588	9	They likely won't.
+3	1525689586	2	But who are they gonna sue?
+4	1525710633	2	Who was in charge of the ICO?
+2	1525677558	5	Ripple is just the appetizer before moving onto the main dish.
+1	1525686515	2	have some random extra info from the other weekhttp://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/treasury-committee/digital-currencies/oral/82323.html(you'll want to check the end parts, silly ripple, 99% of ICO's are gonna get eaten, i say 99% because some will probably run and escape)
+1	1525661607	6	While I don't really like ripple, the gov't should stay away from all cryptocurrencies, period. Just let us live on our own.
+2	1525661950	60	they are staying away from cryptocurrencies. ripple is not a cryptocurrency.
+3	1525670157	14	Boom. 
+4	1525701503	2	Goes the dynamite.
+3	1525683814	-8	Sorry, Ripple is actually a crypto currency.I don't like it.  None of us like it.  But the facts are the facts. It has a blockchain.  It is capable of operating without ripple labs.  It transacts without going through ripple labs.  It is a crypto currency.  Centralized control?  Sure, Ripple can do that.  But it still meets the definition of a crypto currency.
+4	1525689671	9	No it isnt a blockchain...it is just a distributed database.Blockchains require more.
+5	1525704307	2	It has a chain of blocks. A blockchain.
+4	1525688555	8	It may be a digital currency, but it's not a cryptocurrency, as there is no blockchain secured through hashing.
+5	1525704689	1	Then you must not consider POS to be a crypto currency.  Odd definition, since nearly everyone else disagrees with you.
+6	1525708841	3	While I still consider POS to be unproven and possibly flawed, Ripple does not even have that. Ripple is a pure trust network, and validating nodes are selected purely by trust, they don’t have anything else at stake.
+7	1525710195	1	> Ripple is a pure trust network, and validating nodes are selected purely by trust, they don’t have anything else at stake.Right, it's centralized.  I already said that.  But they do have a consensus algorithm, and that consensus algorithm isn't broken even though we don't like it.  Not liking something doesn't change what it is - it uses cryptographic security for transactions, and it has a chain of blocks to validate those transactions.  It's a crypto-currency, just doesn't have the properties that we value in them.
+4	1525687364	9	> Sorry, Ripple is actually a crypto currency.lol, no. If Ripple is a "crypto-currency", then my Kettle is a cooker, well, i can stick stuff in it and boil them, so by your weird twisted definition it probably is ;)Ripple is going buh-bye, just like all the other ICO types, not much point knocking them down years ago. But now that they're worth billions, regulators and lawyers across the globe will be itching..as much as people think they "got away" with it, no. You can't call something a "token" or an "ICO", and throw in fancy words and pretend it doesn't fit the criteria of a Security.and Ethereum also, buh-bye (it's also a security, and its **very** easy to spot if you know what you're looking for and look in the right place)Ethereum bounced money through 1 entity and thought that would disguise it from being classified as a security ;D
+5	1525699121	1	Why so mysterious? What entity?
+6	1525701366	1	i mentioned in another reply to you
+4	1525689831	2	Private distributed ledger with several signaturees and giant shareholders. It's not a crypto
+5	1525704735	1	It is a distributed blockchain that users cryptographic security to transmit and store value.  A crypto currency.
+6	1525711470	1	Banks use cryprographic security. Banks can use blockchainsCrypto are immutable chains. Ripple ain't one
+7	1525711825	0	Not all crypto's are immutable.Banks do not use signed transactions originated from the senders to be included within blocks and to directly update account balances on a publicly viewable ledger.
+2	1525664147	20	Ripple is not a cryptocurrency.
+3	1525675147	3	It technically is.  Cryptocurrency is generic, if you want to separate ripple from other cryptos, then you need a more specific term.
+4	1525676031	6	Well it seems ripple is a security according to the Law.
+5	1525677609	1	It can be both because the SEC can treat something as a security even if it doesn't give you ownership.
+5	1525676111	-6	All cryptos are securities according to the law. 
+6	1525676418	3	Not all cryptocurrencies are own by a company 
+7	1525689872	3	Ones owned by a company aren't crypto
+8	1525691507	2	I agree 
+7	1525676494	-1	They don’t have to be to be considered a security in the eyes of the SEC. Technically all of these cryptos are owned and maintained by non-profit foundations. 
+8	1525678302	2	They don’t have, but if a security is own by a company and it doesn’t respect the rules they get sued..
+8	1525687453	-1	who owns and maintains Bitcoin Cash?
+8	1525687461	-1	[deleted]
+9	1525690063	-4	roger ver
+2	1525670448	14	Ripple never was a cryptocurrency.
+3	1525684022	6	And that was its major selling point, that it's a "banks' coin".
+1	1525656729	1	This would be good for BCH so BCH could pass ripple in market cap.  
+2	1525689934	7	Not relevant cos Ripple ain't crypto. CMC listing doesn't magically make it one
+1	1525674331	1	I doubt it.  The SEC knows about them and isn't doing anything.  I don't think it makes sense for the SEC to just wait to rule and then hit them with crazy fines and punishments.  Has the SEC told ripple to register to avoid possible liabilities?Statutes of limitations blocks individuals from suing over this, which is why this lawsuit is going to be tossed. It must just be noise to try to get regulators to act.If the SEC were to bankrupt ripple in fines, the losers would be people holding xrp.  I don't think anyone is going to want to fine the hell out of a company when it benefits no one.  A suit like this should have been made before the statute of limitations if people wanted a lawsuit to matter.
+0	1525664693	14	I don't like Ripple but this looks ridiculous. The guy made a bad investment and should just eat the loss. Everybody that researches a little knows everything about it (that Ripple Labs is one thing and XRP is another, that XRP is volatile and not really necessary for Ripple, that the company owns most XRP in existance etc).Trying to use authoritarian regulations to attack Ripple is an unethical move on his part, and may set a very bad precedent if it works (the article mentions treating ETH as a security... that would be horrible).
+1	1525697727	4	Yeah...buy high, sell low and if that doesn't work...sue someone :(
+1	1525667625	-10	ETH is a security with its massive ICO presale/premine. It's not really a currency either although it can be used to transact if you don't mind high fees. Also the main point with ETH is it allows every man and his dog to register a dodgy ICO on the platform so it's in dire need of some regulation.
+2	1525680362	7	>dire need of some regulationplease save me daddy, I need it so bad
+3	1525692170	2	Sure I bought at the all-time high but MSNBC told me it was gonna moon!
+2	1525681999	1	The only appropriate regulation here would be a mandatory IQ check for anyone making electronic transactions. What you are proposing is like reacting to a man eating dead rats off the pavement by banning rats from dying rather than doing something about this sicko.
+2	1525689827	1	How is a presale indicative of a security?If this were true, then every ICO would be, yet we know that most arent.
+3	1525699120	1	I think the angle is the interpretation of a presale as an investment contract.
+4	1525714316	1	An investment contract assumes a promise of profit off of the efforts of others.Ether is simply gas to use the network
+2	1525697516	1	That's the point...it's a *platform*...its designed to spawn tokens representing anything...if 80% of the 'anythings' are shit...it's not ethereum's fault 
+2	1525697569	1	It is of course 80% pre-mined so you're right there...
+0	1525657502	7	It sounds like he lost $600 which isn't very much.  Why file a lawsuit over that?
+1	1525657755	9	Because he owns other coins and wants to test the water/pump everyone else?
+2	1525661631	4	Didn't think of this, that is possible
+0	1525683679	3	Oh this is comedy gold in the making, who would have thought a centralized digital coin issued by a private company would have troubles with the lawmaker taking it down?.. /s
+0	1525700835	3	Reminder: if it can be sued, it's not decentralized.
+0	1525665857	2	.. good luck with that. 
+0	1525660586	5	would be nice to see ripple crippled.
+1	1525681450	1	the cRippling!
+0	1525668539	3	I’m still salty that ripple fucked over people who held their Btc in Poloniex during the airdrop last year. Cost me thousands of dollars. Fuck them.
+1	1525699162	3	Do you mean Stellar?
+1	1525670348	2	What's that?
+0	1525660560	2	Scary.
+0	1525692931	1	R.I.P.ple. imagine getting fucked by the govt when you were working with the govt. Who'd have known. 
+0	1525707367	1	Go Ripple!

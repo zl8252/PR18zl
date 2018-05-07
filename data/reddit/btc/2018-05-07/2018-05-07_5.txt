@@ -1,0 +1,96 @@
+File created at: 1525716221
+Subreddit: btc
+Submission title: Stephan Molyneux predicts Blockstream takeover of Bitcoin
+Submission created utc: 1525655499
+Submission score: 165
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525659216	45	He is right on the money on the Axa/Blockstream take over. Throwing little bits of sand in the machinery is what they have been up to for years. 
+1	1525695993	-14	my dear, completely taken out of context. molyneux doesn't mention axa/blockstream at all. r/btc reaching a pathetic low again.axa invested on their own initiative into many ventures in the run of the blockchain hype, they don't exert any influence on the development. they're also involved in ethereum and probably in many other things in the space.also bitcoin development never needed and doesn't need blockstream. [https://np.reddit.com/r/Bitcoin/comments/8g95yl/during\_the\_last\_50\_days\_there\_has\_been\_21\_merges/](https://np.reddit.com/r/Bitcoin/comments/8g95yl/during_the_last_50_days_there_has_been_21_merges/)and after events like greg maxwell leaving blockstream this sub is celebrating that blockstream is falling apart. two\-button\-guy.jpgit's all so ridiculous really it's not even worth mentioning.fwiw, i never held molyneux in high esteem either. he's supposed to be "libertarian" and "voluntarist" but that is quite a smokescreen for his "alt"\-right\-wing conservativism.
+2	1525696003	11	Redditor /u/herzmeister has low karma in this subreddit.
+3	1525696616	-12	...while /r/btc has low karma for the rest of the world.
+4	1525700690	7	Yes, r/btc has bad karma in the fiat world and on censored low information channels . It would be a shame to get upvoted by you and your soulmates. 
+2	1525697017	10	>fwiw, i never held molyneux in high esteem either. he's supposed to be "libertarian" and "voluntarist" but that is quite a smokescreen for his "alt"-right-wing conservativism.Yup, when you have no argument just call em alt right. 
+3	1525698595	-9	we may take this discussion elsewhere because off-topic.
+4	1525712104	2	There are plenty of valid arguments against Molyneux's current positions in a variety of issues, and yes, he has adopted some policy proposals recently that are more right-wing conservative than libertarian or voluntaryist. But his comments about Bitcoin here are still correct and relevant. You really have to take each issue individually.
+2	1525711028	1	Ya guys... the banks are on our side! /s    moron.
+2	1525699193	1	even if everyone involved in the remaking of bitcoin into a shiny turd is completely sincere and has the best interest of humanity at heart, bitcoin cash will still beat it out because no one is going to go for the ridiculous onboarding wait times with lightning and the overcomplexity for vendors to accept it. there's a reason it has zero adoption and in this day and age no one is going to wait around for years until there's market friendly ready implementations. Get real ya loser. Investors are realizing they've been asleep on autopilot and completely swindled by the incompetence of blockstream and other idiot core devs who went along with their narrative. Money is migrating to bitcoin cash, BCH. 
+3	1525700560	-2	obvious bch pump is obvious, it's not the first time, and every time it gets weaker.all relevant development happens in bitcoin. even if you don't like lightning, with bulletproofs + batching + schnorr aggregation bitcoin will also be able to do 8x the amount of transactions (and that with nearly optimal fungibility and privacy) without increasing the block size, so without causing a lot of externalities and burden on infrastructure and nodes.
+4	1525700803	1	8x3=24tps? Lol. This is going to be a burden on infrastructure and nodes, what’s what you just said?? Ok after your edit it makes sense.  I think btc price gets pumped because banks are scared of flippening. Lol. Anyway good game. 
+5	1525701183	1	edited for clarity.there's already a lot of batching going on today, bitcoin becoming a settlement layer has been the whole idea, so 1 transaction in bitcoin is already equivalent to 2\-3 transactions in ethereum or bcash today. [https://outputs.today/](https://outputs.today/)
+4	1525704669	1	The SHA 256 miners don't benefit from off chain and can shut down the BTC chain literally whenever they want. The next time BTC fees rise they will not allow users to flee to ETH again. 
+0	1525656096	44	Deep state didn't expect Bitcoin to not only survive, but also adapt love for eating sand. BeaCH PLS.
+1	1525688097	4	> Deep state didn't expect Bitcoin to not only survive, but also adapt love for eating sand. BeaCH PLSI don't think anyone is that stupid. They just bought time for themselves. Sucks, but such is life. The battle was lost, the war is far from over. Bitcoin for everyone!
+2	1525689274	4	the battle was never lost, it was won when Bitcoin moved forward with Bitcoin Cash (they **want** us to think we lost the battle)but your right that the war is **far** from over
+3	1525689378	1	I meant Bitcoin XT->Segwit2x battle
+4	1525689723	4	SW2X was cannon fodder/manipulation, it was **never** going to happenthe fact it did not activate is a **win** for Bitcoin
+1	1525672389	-9	Deep state? Are we for real here?
+2	1525672800	37	Clearly he meant: "The oligopoly formed by overarching corporate interests at the behest of the command-and-control structure of the central-bank funded military-industrial complex, resulting in farcical elections where pre-ordained candidates are paraded in front of the masses to create the illusion of democracy while the masses themselves enjoy *panem en circenses* as they and their children's and grandchildren's wealth is spent today by the elite as the product of endless inflation and ever-growing future liabilities."Deep state. Hah! What is this, r/conspiracy?
+3	1525685633	7	Needs to be a sticky on every thread.
+2	1525688029	3	> Deep state?Just people who make the decisions
+3	1525692224	-2	I love all the justifications and apologism for what's actually a pretty damaging conspiracy theory.
+4	1525712339	2	The existence of a "deep state" is in no way a "conspiracy theory".There are indeed many more people who work in the state behind the scenes who are not elected, who keep their positions through administrations, and make the majority of the actual day-to-day decisions and actions and write the majority of the regulations.There is nothing "conspiratorial" about saying this. It is simply a basic and accurate reflection of political reality. That's just how the system works.
+2	1525680951	-1	And Earth is flat /s
+0	1525657848	15	It's stefan
+1	1525660634	9	Oops sorry for typo!
+2	1525671558	6	In one of my last posts, I wrote Jihad Wu instead of Jihan Wu. Well actually I copy pasted the name from twitter from somebody that had written Jihad Wu and I did not catch it. 
+3	1525702996	1	Thank you for relating on the human quality of being able to make mistakes 
+0	1525662265	7	Originally aired in 2014Great edit job YT user *Crypto Me!*!
+0	1525659442	14	Spot on. /u/chaintip 
+1	1525660974	9	Thanks. What’s different/better about chaintip (vs. tippr)?
+2	1525661712	23	[chaintip](https://www.chaintip.org/) is direct/On-ChainWhereas [tipper](https://www.reddit.com/r/tippr/wiki/reddit-usage)  is centralized in holding bits to/from users.I personally prefer chaintip since it is directly on-chain, PLUSif the recipient does not claim within 1-wk, the bits are returnedto sender! But both seem to work well...
+3	1525661806	10	Cool. Thanks for the explanation. On chain is better. Just ask the Lightning boys ;)
+4	1525671489	3	It depends on the context. Sometimes I use /r/tippr and sometimes /r/chaintip neither is better. It's awesome that we have both! Having more options for people to choose from!!!!!  
+1	1525659491	3	***u/BitcoinIsTehFuture, you've [been sent](https://explorer.bitcoin.com/bch/address/bitcoincash:qrelay2wvjwe00jf6v2epvta6fslw0pqpu058acdfe) `0.00005996 BCH`| `~   0.10 USD` by u/BitcoinXiovia [chaintip](http://www.chaintip.org). Please [claim it!](http://www.chaintip.org/#claim)***
+0	1525689218	5	Nailed it!
+0	1525663716	10	Just Wow!
+0	1525676561	3	I think they took over it long time ago... Or atleast got the power to manipulate it
+1	1525702745	2	They did. About 3-4 years ago. The “sand has been being thrown in the engines” ever since, starting with censorship and expelling original devs: Mike Hearn, Gavin Andersen, Jeff Garzik.
+0	1525700985	3	He wasn't the only one who identified development as a bottleneck for the banksters to capture. That's what is so great about Bitcoin Cash. The community ultimately was able to just route around their bullshit.
+0	1525656879	12	A prophet
+1	1525688184	5	If u think carefully enough for long enough, depending on your cognitive abilities, u'll start to see the future (excluding random events, obviously; but u'll also see dangers of them and warn to prepare). Some people see the future extraordinary clear
+0	1525689623	5	This was happening as he speaks. As early as 2014.Now in 2018, it is not a conspiracy anymore.
+1	1525692820	7	It's still a conspiracy, it's just out in the open now.
+0	1525672450	4	He's obviously talking about regulations, not blockstream or fees. 
+1	1525709970	0	but muh narrative
+2	1525709978	2	Redditor /u/BigBlockBrolly has low karma in this subreddit.
+2	1525713615	1	/u/cryptochecker
+3	1525713628	1	Of [u/BigBlockBrolly](https://www.reddit.com/u/BigBlockBrolly)'s last **2** posts and **282** comments, I found **2** posts and **180** comments in cryptocurrency-related subreddits. Average sentiment (in the interval -1 to +1, with -1 **most negative** and +1 **most positive**) and karma counts are shown for each subreddit:Subreddit|No. of posts|Avg. post sentiment|Total post karma|No. of comments|Avg. comment sentiment|Total comment karma:--|:--|:--|:--|:--|:--|:--r/litecoin|0|0.0|0|3|0.07|71r/Bitcoin|2|0.21|10|89|0.09|297r/CryptoCurrency|0|0.0|0|1|1.0 **(very positive)**|28r/ethereum|0|0.0|0|4|-0.02|-36r/ethtrader|0|0.0|0|2|0.14|-4r/btc|0|0.0|0|78|0.05|-14r/Monero|0|0.0|0|3|-0.17|19***^(Bleep, bloop, I'm a bot trying to help inform cryptocurrency discussion on Reddit.) ^| [^About](https://www.reddit.com/user/cryptochecker/comments/7q3jum/faq_about_ucryptochecker/) ^| [^Feedback](https://www.reddit.com/message/compose?to=jamcowl&subject=cryptochecker%20bot) 
+0	1525677568	4	Downvote away, but he's only predicting attacks, not the nature of the attacks at all.You could also have edit for the little bits of sand to be:Bitcoin XTBitcoin UnlimitedCraig WrightSegwit2xBitcoin CashBitLicense CoinbaseBitcoin.comEhereumor add whatever your favourite bogeyman is.
+1	1525678293	8	This doesn't make sense at all.  Are you suggesting the government / banks are behind all of those in your list?
+2	1525686152	0	I'm not suggesting that.
+3	1525686248	0	> You could also have edit for the little bits of sand to be:(list of the most unlikely government agents follows)
+4	1525686389	4	That's my point stupid!Just like Blockstream
+5	1525686745	3	So your point is that your list is as unlikely a list of politically / financially influenced individuals or groups as Blockstream?  I'd like to agree with you but then we'd both be wrong.
+6	1525687190	1	I'm not saying what is most likely, I am saying I've seen no evidence. If you have you really should post it here.
+7	1525687492	5	The evidence is front of your very eyes.  Slowing down the network and making it too expensive to be used.  This is the sand referred to in this video.  It is blockstream that have been supplying the sand.  Agreed there is no clear evidence that blockstream is doing it to help the banks but it's either that or sheer incompetence, you choose. 
+8	1525687860	1	You missed the other option: that you don't understand Bitcoin. 
+9	1525688188	3	Solid argument.  And as someone crying out for evidence otherwise you backed it up with some clear facts.  
+2	1525682958	-8	Makes a lot more sense than the FUD about Blockstream...
+3	1525686123	3	It doesn't.  Stephan explicitly referenced government/ financial institutions and that they would be throwing "little bits of sand in it". To suggest that the list above is a more likely tool or puppet of government/banks is absurd.
+4	1525686328	0	Why do you think it's absurd? The list above is full of projects that would undermine Bitcoin's decentralisation, and are backed mainly by big corporations in bed with the existing financial system...
+5	1525687233	10	>are backed mainly by big corporations in bed with the existing financial system...Entirely unlike Blockstream, financed by AXA, considered by some academics to be [the second most powerful transnational corporation in the world](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0025995). 
+5	1525687003	2	> The list above is full of projects ... and are backed mainly by big corporations in bed with the existing financial system...Could you be specific here?  Which of the above list is in bed with the existing financial system?
+5	1525688537	1	> undermine Bitcoin's decentralisationIt's only about the mining process. Coinbase doesn't undermine Bitcoin's permissionless, Coinbase users are **giving it away** voluntarily, I won't. Coinbase doesn't affect Bitcoin users, only Coinbase users
+6	1525688630	-6	It's not only about the mining process. Bitcoin's first line of defense is that almost everyone is running a full node of their own (in theory). If that doesn't hold true, Bitcoin loses pretty much all its security.
+7	1525689122	3	> in theoryDisagree. It's exactly about mining. Bitcoin is trustless not cos u've to redo miners' work of validation. Bitcoin is trustless cos game theory prohibits both malicious mining and rewriting of history. U don't trust the miners by default and still can use SPV
+8	1525689177	3	You don't know what you're talking about.
+9	1525689394	3	Not an argument
+7	1525695164	3	> Bitcoin's first line of defense is that almost everyone is running a full node of their own (in theory). If that doesn't hold true, Bitcoin loses pretty much all its security.Can you expand on this? Why does everyone need to run a full node for Bitcoin to be secure?
+1	1525688396	2	Bad argument> CoinbaseExtremely easy to use for law-abiding citizens. Tax collection will be installed soon, for sure. Millions of users, a license to operate. U can't get further from "Bitcoin is for criminals" than Coinbase. The same goes for several items in your list
+2	1525690872	0	Well then it also goes for Blockstream
+3	1525691264	1	Does it? Coinbase's business model is clear. What Blockstream's? Selling side-chains. Crippling Bitcoin hurts Coinbase's business model, but helps Blockstream's. If I'm wrong than Blockstream will help to grow BTC adoption, but I doubt it
+1	1525678760	1	Now young sir, please try to logically explain your position instead of just throwing random stuff together  like some old political fanboy. Humanity never stops surprising you.
+2	1525686269	2	My position is quite simply stated. You could edit that video to be pro-Bitcoin Core. Do you disagree?
+0	1525706759	1	predict is predict, likely hard to happen.
+0	1525715233	1	1\) He didn't predict a blockstream takeover.2\) His prediction is at least partially wrong anyway, Bitcoin is not harder to use than previously.  But he was right that state actors will find many ways to attack it \(this subreddit and scams promoted here, for example\).
+1	1525715256	1	Redditor /u/davef__ has low karma in this subreddit.
+0	1525691277	1	Delivering Liberty, at Scalehttps://www.youtube.com/watch?v=AecPrwqjbGw
+0	1525704056	1	Why doesn't Stefan talk about Bitcoin anymore? Would love to hear his take on the current situation.
+0	1525703051	-1	The original video was published in 2014, GUESS HE WAS WRONG
+0	1525656312	-7	fine
+0	1525688778	-10	Better to price out poor people temporarily during a growing phase.  Than to price them out permanently from having a say in the currency they use.  Which is precisely what Btrash is trying to do.
+1	1525688799	4	Redditor /u/lizard450 has low karma in this subreddit.
+2	1525702910	4	good bot
+2	1525695862	-7	bad bot
+3	1525695866	0	Thank you, bcashistrash, for voting on trolldetectr.  This bot wants to find the best and worst bots on Reddit. [You can view results here](https://goodbot-badbot.herokuapp.com/).   ***  ^^Even ^^if ^^I ^^don't ^^reply ^^to ^^your ^^comment, ^^I'm ^^still ^^listening ^^for ^^votes. ^^Check ^^the ^^webpage ^^to ^^see ^^if ^^your ^^vote ^^registered!

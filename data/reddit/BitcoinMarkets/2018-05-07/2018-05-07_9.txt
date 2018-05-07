@@ -1,0 +1,12 @@
+File created at: 1525716266
+Subreddit: BitcoinMarkets
+Submission title: Most profitable BTC mining operation to date?
+Submission created utc: 1525656209
+Submission score: 0
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525657755	8	Fuck off.
+0	1525665043	2	they're shit mate 
+1	1525713457	2	They just started mining..how do we know what they are? I am also involved in the project and just wanted to say that seems a little extreme to say don't you think. Both of the groups behind this project both have been involved in running other mining projects so maybe that affords some due diligence?
+0	1525701690	1	> To buy in, you must purchase in units of ASICs (around $1700)You might want to check Bitmains website.. the fastest s9 they sell (14TH) is going for 1010 usd including a PSU right now. So if you buying in at a rate of 1700 per s9 then you are getting scammed straight away. Never mind the rest of it.
+1	1525712454	1	Bitmain will sell you at that price if you are able to buy 1000 of them, that price also does not include the power supply\(150\), or the shipping\(150\) or the customs\(50\), and if you think you can just call Bitmain and order the s9 like that you are mistaken. You need to have special authorization to buy from them in the first place, there are many reasons I could provide here. You should go online and search the price of Bitmain s9's, you will have to search hard to find anything less than 2k. All that said, Elevate Group is able to deliver it at $1750, all in, and that also covers our costs to our sales advisors. Trust me, we are very aggressively priced on the s9, it's near impossible for any individual to buy an s9 at that price.

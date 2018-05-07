@@ -1,0 +1,32 @@
+File created at: 1525716223
+Subreddit: btc
+Submission title: Just got banned from /r/Bitcoin, reminded: “When you tear out a man's tongue, you are not proving him a liar, you're only telling the world that you fear what he might say.”
+Submission created utc: 1525631496
+Submission score: 137
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525651175	8	Gratz, and join the club!  Got banned from there for asking a question about segwit.  The censorship narrative is more real than I thought.
+0	1525632189	8	Nice, what did you do?
+1	1525632636	27	Having a different opinion, what else. I posted in a thread about increasing the block size and argued for it, while everyone downvoted me and insisted that their nodes help the network with no hashrate.
+2	1525632834	10	Thread in question: https://www.reddit.com/r/Bitcoin/comments/8hgkb6/do_you_think_bitcoin_would_be_better_if_it_had/
+3	1525633581	12	Ah. Still comfortable in my position that BTC is fucked long term.
+3	1525669445	2	You should probably make it an np link
+3	1525644374	1	>No, but there are other centralized coins/solutions that you can use instead. Bitcoin is the slowest , most expensive , and most decentralized system out there(for 9 years already), and it ain't going to change soon (at least until we get layer 2 solutions working).So the two subs both share something in common: they both hate BCore...
+2	1525641422	3	Just ban the subreddit and go on with your life!  There are so many trash subs on this site, I have around 300 subreddits permabanned.Let the idiots scream at each other in their echo chamber. 
+2	1525649984	4	So let me get this straight, you have 3 different accounts? Maybe you deserve to be banned for trolling. I was looking at your post history for the account you got banned and a lot of your posts are deleted which means you were just trying to rile people up.
+2	1525671240	2	Next time write that only miners have write access to the chain so that when non mining nodes detect something going wrong there is nothing they can do about it except for going on the internet making posts about something going wrong. And that something "going wrong" becomes "something going right" as soon as 51% of the network is on the "something going wrong" side. 
+2	1525670801	1	Post the screenshot please. Best way of saving it for the future. 
+2	1525670868	1	We should gather a 100 different post from users being banned for their opinion and then make one big post about it'#storiesfrombannedusers or something. 
+2	1525653407	-1	Of course you got banned, and rightly so. You display clear ignorance about the subject, and are continuing to beat a dead horse.The scaling debate is over. Bitcoin scales off-chain, Bitcoin Cash scales on-chain. End of story.
+3	1525670926	3	Did you just quote Stalin? 
+1	1525680136	-1	He appearently got banned for making this dead wrong comment:> A full node is a miner, as stated in the white paper. **Non-mining nodes do not validate**Because full nodes *do* actually validate. Thats the whole point of them. They do no generate blocks, but generating blocks does not equal validating. You can generate invalid blocks if you want to, and they will get rejected by the network nodes, mining or not.Should you get banned for being wrong? Well, from the misinformation that this comment stems from, or attempts to perpetuate I'd say yes.That he thinks he's some kind of martyr for being banned for this is beyone what I can explain though.
+0	1525654267	3	Well, I just made a comment, deep into the Roger Ver thread currently doing the rounds in /r/bitcoin. Someone had said that (paraphrasing) that Roger looked like he was very insecure. So I commented and said simply... *No, I think you are talking about this sub-reddit.*I can only paraphrase the original comment, because my comment is completely deleted.So it looks like you can say whatever you like bad towards "the outsiders", but dare challenge the approved narrative, and you just get deleted. This makes all the stuff I read about censorship on /r/bitcoin so very easy to believe.It appears to be the absolute definition of "echo chamber", complete with double standards to boot.
+0	1525632499	5	Funny thing is, when you get the banned mail where it says "reply this message for questions regarding your ban" and you ask why you are banned; they mute you :) so that You dont get to ask them questions they dont know the answers to. 
+1	1525645738	3	LMAO. I had the same experience with /cryptocurrecny. I asked them why, the moderators answered, and asked me a question and when I answered the question I got banned/muted. My guess is that those particular moderators do what they do because it's the one thing in their life that makes them feel big and in control.
+2	1525646889	2	Wow, but at least you Got a reply. mods at cryptocurrency have a lot to learn from their masters at r/bitcoin :)) i was muted only 30 seconds after i asked them the reason
+1	1525688529	1	Pretty much every subreddit does that. Moderation on reddit is largely a joke.  The only thing a user can do is just switch accounts every so often.  Mods will track users that they don't like and ban them after a while.  Changing accounts prevents a ban and technically keeps you within the rules.  If you change an account before you are banned, then you are not evading bans.Using multiple accounts can help to.
+0	1525639091	2	Me too for a bch joke. With note from moderators “trolling from ignorance”.
+0	1525651026	2	Welcome home. 
+0	1525650717	1	Think of all the free time you have now.
+0	1525675321	1	Nice. I saw that comment live.Welcome to the club.
+0	1525709001	1	the drama will never end?

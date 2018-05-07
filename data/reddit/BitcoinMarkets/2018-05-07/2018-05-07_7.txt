@@ -1,0 +1,14 @@
+File created at: 1525716264
+Subreddit: BitcoinMarkets
+Submission title: Question about placing orders on binance and/or gdax...
+Submission created utc: 1525647940
+Submission score: 1
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525651130	2	Not sure about binance, with gdax you can do it with a bot
+1	1525675247	1	Thanks,  I'm not savvy enough to write my own bot but I appreciate the answer.
+0	1525652337	1	Can do it with binance
+1	1525675172	1	Thank you.  Could you elaborate on how or do you have a link?
+0	1525673133	1	Sure. Prepare to lose money. 
+1	1525675210	1	Could you elaborate on this?  First by explaining how and second on why you would expect me to lose money for limiting my losses?
+2	1525709153	1	Well, you might, if you're really good at it. Otherwise better traders, with more capital, know the stop-limit game and how to profit it off of it. You see all those really long wicks on charts? 

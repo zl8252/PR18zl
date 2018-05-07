@@ -1,0 +1,167 @@
+File created at: 1525716200
+Subreddit: Bitcoin
+Submission title: Thanks a lot for your bitcoin donations on my street art piece in Paris, already 130$ received 🙏🙏🙏
+Submission created utc: 1525633334
+Submission score: 3815
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525635620	626	Omg someone is gonna add some black spots to your QR so it goes in their wallet lmao
+1	1525642136	198	If anything they would black it out then repaint. Making a stencil of your QR code is probably a lot of work though
+2	1525649180	58	Take chicken wire or similar material, cover it with masking tape, use the wire grid as a guide to cut squares out of the masking tape. There are cleaner looking methods but this is easy as hell and gives readable results
+3	1525655242	25	Is it really any easier than just cutting out squares on construction paper with box cutters? Seems like no.
+4	1525656337	33	Because you are making a stencil, you have to have bridges between negative spaces or else sections of it will fall away - unless you adhere your stencil material to the surface to be painted before cutting it. This is the reverse of that. You could cut it out on paper (or acrylic or whatever) but you would 1. Have to print or draw it, and 2have to be very careful to make thin bridges at the corners of each square you cut out. This way is actually less time consuming. 
+5	1525673721	6	You can also go to any sign shop in any town and get a vinyl sticker made as a stencil. Cost around $20 if you have it pre designed.
+4	1525655525	4	Easier to reuse.
+2	1525666134	6	I could laser cut one in about 20 minutes \(while I went and got a coffee\), and repaint it in ten minutes. 
+1	1525650782	101	Or just copy and paste their qr code in photoshop and then repost this :-$
+2	1525675653	7	Hmmmmm
+3	1525706872	1	🤨🤔
+1	1525660212	4	the post is meant for the internet picture, so you can just shop it and repost if you want
+1	1525646823	12	would be pretty tough tbh
+2	1525648987	3	Probably why nobody has gone through the trouble to do it
+1	1525648514	3	this is actually a horrible idea and would take forever
+1	1525655551	1	That would be impressive
+1	1525679173	1	If you change one square you have to change the whole pattern. There is error checking built into qr codes
+1	1525697125	1	This is actually not so easy as qr codes can contain alot of error correcting data. They would have to repaint the whole qr code.
+1	1525684568	1	Even worse: Sombody is going to change your BTC address into a BCH address.That would be the most evil thing to do.
+0	1525638459	94	Dope art man. Like many I was a bit suspicious when this was first posted but after checking your site and insta it looked legit. Dunno if you ever decide to make digital art, we can put it on some merch we sell in [our store](https://bitcoinshirt.co).You can also set up a Lightning Network donation, would be dope and would increase your donations I'm sure since plenty of guys here are looking for a ways to test the LN and send some satoshi over.
+1	1525648127	18	Thanks, great idea for the LN donation, I'll look at this 
+1	1525653873	7	OP, Put it on your own shirts via Shopify and Printify and keep the profits yourself lol
+1	1525697589	2	Yeah dope
+0	1525645986	49	Where's the art?
+1	1525692313	7	The full piece;/r/Bitcoin/comments/8g1vwh/street_art_piece_in_paris_with_a_qr_code_for/
+2	1525707824	1	Cool :)
+1	1525648256	17	63 rue Riquet, on the bridge. Paris.
+2	1525678488	26	I think he meant that there is no art in the picture.
+3	1525679920	5	Lol i understood reading it back... i already posted the whole picture on reddit one week ago, this is just the corner
+1	1525648294	1	I don't get art but I don't want to be disrespectful to the artist that posted here so I deleted my comment, apologies. 
+2	1525650038	34	It is actually good.https://www.reddit.com/r/Bitcoin/comments/8g1vwh/street_art_piece_in_paris_with_a_qr_code_for/?st=JGVGLK75&sh=6875a717
+3	1525669647	11	I totally thought that the QR was the street art itself... And even thought to myself 'cool concept, fun little artistic experiment." Then saw this. Sooooo, I may have dropped out of art school 3 years ago. Either way this is badass.
+4	1525692096	1	All I saw was dollar signs, then realised it was more than just a QR code. 
+3	1525673106	6	Oh wow that is actually fantastic.Sorry I didn't 'get' it based on the shot above.
+4	1525678764	0	ditto that
+3	1525708254	1	agree
+2	1525651842	7	I know what might help you to get art. Try making art. Imagine something creative that doesn't already exist and go try and create it. I offer this unsolicited advice because to go through life without being moved by art is akin to going through life without falling in love. Don't be cynical, just be open to the experience. I appreciate music for example much more when I either imagine myself playing one of the instruments, or that it is being played or sung right in front of me. For me visual art is different. I don't need to imagine myself painting it, but I marvel at the results of the artist. Some art seems to capture the spirit of the artist, and those are the best. I also love some of the work by Kandinski, because he makes you see things that aren't even there. 
+0	1525642910	118	Asks for bitcoin donations.  Gives total amount in dollars.
+1	1525645790	51	> Gives total amount in dollars.Yeah because places that accept Bitcoin don't list dollars but list like 0.00024 Bitcoin
+2	1525653795	5	>places that accept Bitcoin
+3	1525667158	9	>accepting botcoin in 2018
+4	1525668419	1	Botcoin for president 2020
+1	1525696477	2	It's even more confusing because we don't know if people actually donated 130USD or more/less but it's worth 130 based on the current price.
+0	1525639096	68	For anyone having troubles scanning the QR code in the picture: https://www.smartbit.com.au/address/1KKFT9Q9BWWMFtrDnfKuaDp32CZQ9Jd7FgAnd proof that it belongs to the artist was posted on their website: https://www.pboy-art.com/biographieIt's good to be skeptical, but it's also good to support the arts!  Plus it's kind of like crowd-sourced BTC advertising, the artist just did all the work up front!Edit: The full piece: https://www.reddit.com/r/Bitcoin/comments/8g1vwh/street_art_piece_in_paris_with_a_qr_code_for/
+1	1525647841	21	Thanks for your comment Lurker1325, i couldn't be more clear than this 👍
+1	1525651715	5	Thanks! I seriously thought the QR Code was the art. 
+2	1525706595	1	seriously haha. but nice sense of humor for the author of this
+1	1525660198	6	Thanks for that link! I was just about to post the writing your name is not art. But wow! The rest sure is.
+1	1525639101	13	    Address: 1KKFT9Q9BWWMFtrDnfKuaDp32CZQ9Jd7Fg    Balance: 0.00051549 btc    Number of transactions: 21    Total sent: 0.04791743 btc    Total received: 0.04843292 btc^View ^on ^block ^explorers:^^*[Blockchain.info](https://blockchain.info/address/1KKFT9Q9BWWMFtrDnfKuaDp32CZQ9Jd7Fg)* ^^**|** ^^*[BlockTrail.com](https://blocktrail.com/BTC/address/1KKFT9Q9BWWMFtrDnfKuaDp32CZQ9Jd7Fg)* ^^**|** ^^*[BitPay.com](https://insight.bitpay.com/address/1KKFT9Q9BWWMFtrDnfKuaDp32CZQ9Jd7Fg)* ^^**|** ^^*[Smartbit.com.au](https://www.smartbit.com.au/address/1KKFT9Q9BWWMFtrDnfKuaDp32CZQ9Jd7Fg)* ^^**|** ^^*[Blockonomics.co](https://www.blockonomics.co/#/search?q=1KKFT9Q9BWWMFtrDnfKuaDp32CZQ9Jd7Fg)* ^^**|** *[^^learn ^^me ^^a ^^bitcoin](http://learnmeabitcoin.com/browser/address/1KKFT9Q9BWWMFtrDnfKuaDp32CZQ9Jd7Fg)******^^I ^^am ^^a ^^bot. ^^*/r/crypto_bot* ^^| [^^Message ^^my ^^creator](http://www.reddit.com/message/compose?to=busterroni)
+2	1525653017	8	Good botLooks like close to $500 USD has been received by that address. Not bad. 
+1	1525691145	0	[Lol](https://blockchair.com/search?q=1KKFT9Q9BWWMFtrDnfKuaDp32CZQ9Jd7Fg)Somebody even send some bcash. 
+2	1525691149	1	    Address: 1KKFT9Q9BWWMFtrDnfKuaDp32CZQ9Jd7Fg    Balance: 0.00202538 btc    Number of transactions: 29    Total sent: 0.05491743 btc    Total received: 0.05694281 btc^View ^on ^block ^explorers:^^*[Blockchain.info](https://blockchain.info/address/1KKFT9Q9BWWMFtrDnfKuaDp32CZQ9Jd7Fg)* ^^**|** ^^*[BlockTrail.com](https://blocktrail.com/BTC/address/1KKFT9Q9BWWMFtrDnfKuaDp32CZQ9Jd7Fg)* ^^**|** ^^*[BitPay.com](https://insight.bitpay.com/address/1KKFT9Q9BWWMFtrDnfKuaDp32CZQ9Jd7Fg)* ^^**|** ^^*[Smartbit.com.au](https://www.smartbit.com.au/address/1KKFT9Q9BWWMFtrDnfKuaDp32CZQ9Jd7Fg)* ^^**|** ^^*[Blockonomics.co](https://www.blockonomics.co/#/search?q=1KKFT9Q9BWWMFtrDnfKuaDp32CZQ9Jd7Fg)* ^^**|** *[^^learn ^^me ^^a ^^bitcoin](http://learnmeabitcoin.com/browser/address/1KKFT9Q9BWWMFtrDnfKuaDp32CZQ9Jd7Fg)******^^I ^^am ^^a ^^bot. ^^*/r/crypto_bot* ^^| [^^Message ^^my ^^creator](http://www.reddit.com/message/compose?to=busterroni)
+2	1525696181	0	send back! better is ver coin, trust me
+0	1525646930	11	it starts off as a bit of fun but just imagine everyone doing it...
+0	1525646113	11	Did you do the one Rue d'Aubrevilliers?
+1	1525648219	6	Yes !
+2	1525681633	4	allright allright, i'll send you some next time i drive there :D
+3	1525682458	3	Cool ! 👍😉
+0	1525660877	11	Wait, is this post literally just OP posting his address asking for donations? How is this okay?
+1	1525664520	7	This is a repost with a clearer image of the QR code for anyone who wants to donate.  The full mural can be found here:  https://www.reddit.com/r/Bitcoin/comments/8g1vwh/street_art_piece_in_paris_with_a_qr_code_for/
+1	1525662062	2	My thoughts as well 
+0	1525685457	3	Wow. Great work!
+0	1525690307	4	Great way to promote crypto.
+0	1525634937	17	Gonna be 3000 soon. HODL!
+1	1525673839	3	Bitcoin's USD value or the amount of donations?
+2	1525703538	1	see those upvotes? people know.
+0	1525653813	3	That's fast!
+0	1525660858	3	This is nice. You really paint good with a cause.
+0	1525660992	3	Bravo mon ami!!
+0	1525665651	3	no way, it worked!!
+0	1525672302	3	That is so cool.
+0	1525678650	3	looking great!! wow!
+0	1525679532	3	This is a great idea to collect money for art purpose! 
+0	1525684516	3	You should change to SegWit. 
+0	1525691125	3	Incredible idea :D you should get donations just for your ingenuity!
+0	1525691810	3	You have some morehttps://www.smartbit.com.au/tx/1a247b2b59ebe9be1a4e3f47fadb47405eb8ce28ded2de049dd3aea6c89acc5a
+1	1525691815	2	    Transaction: 1a247b2b59ebe9be1a4e3f47fadb47405eb8ce28ded2de049dd3aea6c89acc5a    Included in block: Unconfirmed (not included in any block yet)    Confirmation time: 2018-05-07 11:13:31 UTC    Size: 732 bytes    Relayed by IP: 0.0.0.0    Double spend: false    Previous outputs (addresses)    3PS9tbUtFsjm3R6b6wgkaGANpGeTXJFSQs --> 0.05483634 btc    3CgQeSxqroG8obuiMwFQpZCzSBuhW4FDAP --> 1.08613623 btc    Redeemed outputs (addresses):    0.045 btc --> 1KKFT9Q9BWWMFtrDnfKuaDp32CZQ9Jd7Fg    0.00792121 btc --> 1GK33z2ZW6peeqySMbg3do55wBcXHGTrmM    0.01208848 btc --> 3MhvDSmcH9d1qmN4AXc81C8BynFevjJQKF    1.07584025 btc --> 39ijp4Gm1u5eobUXDvFeUkptCxzM4wTvB9^View ^on ^block ^explorers:^^*[Blockchain.info](https://blockchain.info/tx/1a247b2b59ebe9be1a4e3f47fadb47405eb8ce28ded2de049dd3aea6c89acc5a)* ^^**|** ^^*[BlockTrail.com](https://blocktrail.com/BTC/tx/1a247b2b59ebe9be1a4e3f47fadb47405eb8ce28ded2de049dd3aea6c89acc5a)* ^^**|** ^^*[BitPay.com](https://insight.bitpay.com/tx/1a247b2b59ebe9be1a4e3f47fadb47405eb8ce28ded2de049dd3aea6c89acc5a)* ^^**|** ^^*[Smartbit.com.au](https://www.smartbit.com.au/tx/1a247b2b59ebe9be1a4e3f47fadb47405eb8ce28ded2de049dd3aea6c89acc5a)* ^^**|** ^^*[Blockonomics.co](https://www.blockonomics.co/api/tx?txid=1a247b2b59ebe9be1a4e3f47fadb47405eb8ce28ded2de049dd3aea6c89acc5a)* ^^**|** *[^^learn ^^me ^^a ^^bitcoin](http://learnmeabitcoin.com/browser/transaction/1a247b2b59ebe9be1a4e3f47fadb47405eb8ce28ded2de049dd3aea6c89acc5a)******^^I ^^am ^^a ^^bot. ^^*/r/crypto_bot* ^^| [^^Message ^^my ^^creator](http://www.reddit.com/message/compose?to=busterroni)
+0	1525691832	3	Such view are surely encouraging ! For the mass adoption and providing legitamacy to the bitcoin ecosystem
+0	1525695302	3	Great idea\)\)
+0	1525696479	3	Ah right, nice one! 
+0	1525703417	1	You should do a lightning one
+0	1525659729	4	$130 before or after the dip?
+0	1525680015	2	Panhandling of the future, my dude.
+0	1525684687	2	Let me fix your title quickly because you're kind of showing one of the biggest problem with BTC right now.Thanks a lot for your bitcoin donations on my street art piece in Paris, already 0.05694281 BTC received 🙏🙏It's a bit when people ask me if I have bitcoins, when I am comfortable telling and I would reply - for example - yes I have 15BTC and they reply with "you have more than $100k bitcoins" I respond with "No, I have 15BTC.". When talking about bitcoins talk in bitcoins not in $USD. 
+0	1525701127	2	Amazing street art, bravo and congratulations!  I live in Los Angeles but hope to visit Paris in the fall of next year, I hope this street art will still be there, I'll plan to visit it!  If I could ask a couple of questions, how long did it take you to paint this and did you have to get permission from someone to use this wall? Thanks for sharing!
+1	1525705675	1	Thanks for the compliment ! I took 2 days to paint it and there was a permission this wall belong to an friend's association
+0	1525703480	1	A good idea, you need your wallet so put ....)
+0	1525646451	3	Paper Boi, Paper Boi. Always 'bout that paper, boy
+0	1525649076	2	Legit question but why not use a vanity address? 1PBoy**** would take seconds.
+1	1525650383	1	Good idea👍
+0	1525684056	4	Sorry but that's not really art, it's just a drawn QR code on the side of a building. Hiding a QR in a piece of art makes sense, this doesn't IMO.
+1	1525689236	4	This is just the corner of the street art piece, the full picture was posted here one week ago. Sorry i don't know how to copy and paste it on reddit 🤐
+2	1525689333	6	I just founded how to share... the full mural can be found here:  https://www.reddit.com/r/Bitcoin/comments/8g1vwh/street_art_piece_in_paris_with_a_qr_code_for/
+1	1525695614	2	Sheesh how silly do you feel.
+2	1525696521	1	I don't, considering the picture didn't include the art. 
+3	1525701402	2	Great opportunity for humility and you blew it.
+4	1525705780	1	This is reddit, yet you speak of humility? GFY. 
+0	1525651318	3	How is this art? It’s just a painting of directions on how to give him money. 
+1	1525652078	12	The QR code is just the corner of the mural.https://www.reddit.com/r/Bitcoin/comments/8g1vwh/street_art_piece_in_paris_with_a_qr_code_for/
+2	1525652571	7	Haha, that’s a little more recognizable to me as art. That’s cool. 
+0	1525660274	2	Haha that's so cool!
+0	1525660390	2	Oh wow! The future is here
+0	1525675776	2	I don't think this qualifies as street art, for what it's worth looks like you invented begging 2.0 XD
+0	1525698992	2	Great idea
+0	1525646577	3	Awesome!
+0	1525664171	3	This is cool. I guess street artists don't have to be starving now. 
+0	1525633686	2	Omg.. crypto street begging is now a thing...
+1	1525637237	14	No. It's a cropped image of the actual piece. https://www.reddit.com/r/Bitcoin/comments/8g1vwh/street_art_piece_in_paris_with_a_qr_code_for/?st=JGV8ZYZI&sh=2f360ac6
+2	1525639480	9	Wow nevermind then! Fascinating I may give it a look irl since I’m french!
+3	1525641357	6	Delicous
+1	1525635604	23	This is huge talent and NOT begging. 
+2	1525636545	8	Idk man, huge talent? Can't you just create a mold out of an old carton box and spray over it?
+3	1525636724	15	He said it's beside his street piece, meaning there's a piece of art beside the QR that you can't see in the picture.Much more of a tip than begging. Not any different than someone putting their bitcoin address on their Github. 
+4	1525636829	-7	[deleted]
+5	1525641480	9	No it's not.  The full artwork has already been posted
+5	1525637218	5	Are you sure? Definitely looks like there's a piece on the wall behind it. I'd hope not, a QR code is not art.
+6	1525637711	-6	Eh, I think the QR is the art lol
+7	1525638353	10	https://www.reddit.com/r/Bitcoin/comments/8g1vwh/street_art_piece_in_paris_with_a_qr_code_for/
+8	1525638507	9	Ah thats pretty gud
+2	1525635987	2	i agree. Anything to help spread bitcoins influence.
+1	1525636507	4	While uploading it to reddit makes it internet begging. 
+1	1525637790	3	This is not begging but art and the first piece like this. If 1000s of people would do it, because it is successful, it would be begging.
+0	1525652402	1	Reminds me of Watch_Dogs !
+0	1525654574	1	Aka graffiti...
+0	1525663927	1	No-one going to point out the non-SegWit address?
+0	1525665761	1	Now this! This is gentlemen!
+0	1525674175	1	I downvoted this QR code.
+1	1525689492	1	This is just a corner of the street art piece... The full mural can be found here:  https://www.reddit.com/r/Bitcoin/comments/8g1vwh/street_art_piece_in_paris_with_a_qr_code_for/
+0	1525682356	1	that QR code ain't working for me
+1	1525683836	1	Maybe because it's a color reversed one,  I apologizes ! You can find a cleaner one my website : www.pboy-art.com/biographie
+0	1525683406	1	Make this photo from right angle - then you will get more
+1	1525689575	1	It was already posted it here one week ago, the full mural can be found here:  https://www.reddit.com/r/Bitcoin/comments/8g1vwh/street_art_piece_in_paris_with_a_qr_code_for/
+0	1525685817	1	*MODERN BEGGING*
+0	1525688267	1	If you gonna raise enough money, will you make another walls ?
+1	1525689694	0	Sure, this is the goal, the painting material cost a lot
+0	1525688909	1	Where is the street art? All I see is a QR code 
+1	1525689788	2	This is a repost with a zoom on the qr code. The entire mural can be found here:  https://www.reddit.com/r/Bitcoin/comments/8g1vwh/street_art_piece_in_paris_with_a_qr_code_for/
+2	1525689895	2	Thanks, very cool!
+0	1525690250	1	why do you say in  dollars instead of actual BTC? 
+0	1525695942	1	art? this is ad for donation. also you fucked that wall for money.
+0	1525710837	1	This should be shown to folks who don't understand Bitcoin. The ability to transfer value with ease, peer-peer and without permission is revolutionary. THIS what gives Bitcoin value. 
+0	1525650292	1	That's not street art...
+1	1525651123	4	Gonna leave this here just in case you haven't seen it yet:  https://www.reddit.com/r/Bitcoin/comments/8g1vwh/street_art_piece_in_paris_with_a_qr_code_for/
+0	1525655523	1	Pro-tip: don’t tell us what your BTC converts to in USD.
+0	1525647275	-4	This isn’t art, this is lazy begging by vandalism. I’m also an artist.Edit: I was corrected, I didn't know there was more to this mural than just the QR code.
+1	1525662313	5	still tacky to have that qr code there.
+1	1525648404	3	You can debate art and vandalism, but I can't imagine how anyone would think it's *lazy*.  Just the preparation alone for a mural that size would be a lot of work.https://www.reddit.com/r/Bitcoin/comments/8g1vwh/street_art_piece_in_paris_with_a_qr_code_for/
+2	1525649470	0	It’s lazy and not art because the only message is give me money.Edit: it’s also not orignial art. It’s a generated QR code not designed by the artist.
+3	1525649773	8	I'm not sure if you realize this, but the QR code is just the corner of the mural.
+4	1525650450	3	Well this is embarrassing lol 
+5	1525650692	4	Lol the full mural was posted the other day but I'm guessing the artist reposted a close-up of the QR code because it was difficult to scan and [commenters in the other thread were claiming the QR code was photoshopped in](https://www.reddit.com/r/Bitcoin/comments/8g1vwh/street_art_piece_in_paris_with_a_qr_code_for/dy9m5iq/).
+6	1525650834	5	Yeah I never saw that post, I only say this one and people complimenting him and I was like WTF? Lol
+7	1525650929	5	Pretty understandable misunderstanding if you haven't seen the original post!
+0	1525639287	-2	[removed]
+1	1525639676	4	Alright, alright, back to your cage now.
+2	1525639835	1	???
+3	1525640157	1	*pats /u/r3310's head*
+0	1525666085	-1	Super cool. I want someone to donate me 1 BTC so in ten years I can afford a downpayment on a house.
+0	1525670296	-1	This is an FBI you are caught... You'll b arrested
+0	1525687505	-1	How much to buff it out?

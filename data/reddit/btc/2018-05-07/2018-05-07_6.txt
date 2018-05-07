@@ -1,0 +1,34 @@
+File created at: 1525716222
+Subreddit: btc
+Submission title: An update to the Bitcoin.com wallet has been released! (With a much smoother on boarding process!)
+Submission created utc: 1525661357
+Submission score: 145
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525665521	16	the bug with not being able to modify the address of a contact has not been fixed yet, but gave you a 5* review as I think you currently have the best Bitcoin Cash walletI have recently come across the Yenom wallet: https://yenom.tech/I think it's the best wallet on the market for introducing people to Bitcoin (it only has send and receive functions, with a great UI), so when you want to impress someone by showing them how simple and fast it is to receive Bitcoin Cash, they don't have to go through the usual non-essential steps in order to receive 50 cents worth of BCH. It would be cool if Bitcoin.com had a "newbie mode" (just put some button on the first screen after install to skip all steps and hide advanced features) similar to Yenom, so I could onboard my grandmother using Bitcoin.com wallet too
+0	1525670368	10	Can the wallet add other denominations like satoshis or CASH or bits?
+1	1525672439	5	Agreed
+1	1525671911	3	Yes lets add Cash denominations!
+2	1525672430	3	Agreed
+1	1525687705	1	Let's do bits
+0	1525661423	43	And remember,  our wallet is [open source](https://github.com/Bitcoin-com/Wallet/releases/tag/4.9.1) too! 
+1	1525665697	10	Glad to hear it-Nice!what about the bug for if Android phone set to larger/largest text? (display is munged) Us older folks that sometimes use/need reading glasses typically set the display font in the OS to large/largest to help out...
+1	1525665875	9	Not sure what's going on with the BTC wallet being off by default. It should auto show when you choose create BTC wallet or if there are funds in a common BTC BCH wallet seed. I've had a 2 panicked technical support calls asking where is my BTC wallet. But super happy to see this progress. Thanks. This is still the wallet I recommend given the BCH commitment.
+2	1525669994	9	Yes I fully agree. Roger, please don't annoy your own customers by making the choice for them. Either remove everything that has to do with Bitcoin-BTC from your site and app or let people make their own choice. We don't need to be like the other camp. We have nothing to hide, our product works, the development is being done on this side, the people rallying for adoption are on our side. People using the app for Bitcoin-BTC should be as happy as people using the app for Bitcoin-BCH ... and then when the fees go up they will probably automatically stop using Bitcoin-BTC anyways. Nothing we have to do there! And if the fees stay low forever that just means that Bitcoin-BTC will never do more then 400 000  tx a day which means that within the next 5 years we will catch up in tx per day and surprise them. 
+3	1525712648	1	They can't remove everything while there are people still storing BTC on their wallet; Core would have a field day if that happened.It's already bad enough that they first hid it without warning even for people that had funds.
+3	1525685093	-2	The masses seem to be downvoting you, as they downvoted me. I think they are not thinking clearly. Unfortunately BCH will suffer.https://np.reddit.com/r/btc/comments/8f9zdf/asymmetry_in_bitcoincom_wallet_and_website_will/
+0	1525666849	6	Nice, that back arrow bug was really annoying. Good to know it's fixed.
+0	1525669997	6	What about the camera bug? The app opens camera immediately and keeps it open all the time. It is annoying for two reasons: it is autofocusing all the time, making noise, and more importantly, it is a privacy concern.Thanks for all the work and effort!Edit: typos
+1	1525713158	1	It would be better to make it an option in the settings; from what I understand, they leave the camera turned on to make scanning start faster; so some people might want that.Even better would be to, on top of making it opitional, make it scan in the background all the time if the option is enabled (memorizing the last code to avoid repeats) and automatically switching to the appropriated tab when a  code is detected; maybe even add  an additional option to add a notification to keep the autoscan going even when the user switches to other apps (dunno if that would be possible iPhones; but on Android, from what I understand, you can have an app stay active in the background by using an specific type of notification. Obviously, the user should be informed of the increased battery usage, and the conflicts that might happen if another app tries to use the camer at the same time.
+1	1525680349	1	Which device are you encountering this error on?
+2	1525681903	4	Btw, it has been reported and discussed here:https://www.reddit.com/r/btc/comments/847q8a/bitcoincom_wallet_constantly_accessing_camera_and
+2	1525681324	3	It's not an error, it's a bug that is mostly unnoticed but always present.I have an Android device. The moment you enable camera access for the first time (Android dynamic permission) the app always initializes camera whenever the app is in the foreground. You can hear the camera autofocus (some cameras are louder than others) and because the camera is in use you will not be able to use your device's flash light feature - confirmation the camera is locked for use, not that I need the flashlight at that time :-)I always go back to app permissions and revoke the camera permission to make it stop.
+0	1525666414	4	Good to see progress with bugs and such. I did feel the wallet was a bit buggy and so it makes for good customer confidence that they get fixed and the app gets streamlined.
+0	1525679164	2	When I click on the (iPhone) app I just get the yellow splash page. It never opens the wallet. It was doing that before the update as well.  I was hoping the next update would fix it. 
+1	1525713459	1	Had this happen to me on Android one or two days ago (then eventually I got and error about failing to load a local html file; but it went just fine when I tried to open it again.
+0	1525677984	1	Version 4.9.1
+0	1525693730	1	Nice!
+0	1525705001	1	I noticed this last night when I was paying my friend. He received his first non coinbase crypto.
+0	1525705190	1	the bottom menubar still disappears on iphone x.
+0	1525706612	1	nice to know it's been fixed, i was frustrated with everything.
+0	1525712445	1	"Email capture" sounds ominous... What was that about?Been a while since I installed the wallet, I don't remeber; did it inform the user what that was and why it was necessary?

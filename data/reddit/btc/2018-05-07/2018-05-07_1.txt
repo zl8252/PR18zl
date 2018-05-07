@@ -1,0 +1,48 @@
+File created at: 1525716215
+Subreddit: btc
+Submission title: I think its important to understand the upgrade is NOT increasing the Block Size. But the Block Size Cap.
+Submission created utc: 1525675202
+Submission score: 239
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525686599	19	"4x capacity increase" sounds much better than "upgrade to 32MB blocks" and it's actually more accurate description
+0	1525678497	61	It's a good point.  Many get confused by this - notably Tone Vays who worries that his 7 year old piece of crap PC will fall over the day after the cap is raised.
+1	1525687060	19	Tone is good for heating a cold room ... Talks just hot air!
+1	1525703486	5	Tone Vays is a core shill that loves to misinform about BCH. That and he does not seem to be particularly technically well versed, since most of his bullshit is rather transparent to a relatively seasoned crypto-person.
+1	1525689196	8	If people who have been in this space for as long as Tone has, and they don't understand this, they are fucking stupid...on the verge of being mentally retarded.
+2	1525689412	4	Tone's line is I'm not technical even though I was in IT when I worked for a bank.  But I speak to Jimmy Song every day so there you go, qualified. 
+2	1525698211	4	Talked to a local professional miner at our local meetup last week who didn't even know that originally there wasn't any block limit at all.Disappointing that an expert that knows so much more than me about the subject didn't know something so basic.  I've mostly only been on the sidelines the last 9 years and I'm a graphics designer, not a coder.
+2	1525709252	2	Most people (like Tone) do not understand the technicals so they trust what the core devs tell them.  A lot of them probably are too stupid to learn though.But it doesn't matter what the brainwashed core folk think today, because in the end, users will adopt whatever is the simplest, easiest, and cheapest to use.  That will be BCH.
+1	1525686075	3	Oh, it's informative to me. thanks
+2	1525686280	3	oh, you should read it many times to get it LOL
+2	1525688172	1	me too
+3	1525690246	1	Like it
+4	1525691530	1	Bad bot
+5	1525694486	1	what do you mean? ^^
+6	1525696736	2	Jeg kender en båd...
+0	1525694172	7	It's like going to a department store and they have like 32 checkout lanes that are never used, but on Black Friday all of them get used.
+1	1525710678	2	👌
+0	1525707187	5	It’s very important to understand this upgrade is just symbolical and for show. The blocks of bch are not really exceeding 100kb. 8mb is already more then enough. In fact Bitcoins 1mb blocks would be plenty big! 
+1	1525711459	3	yes, it's important to keep things in perspective and remain pragmatic.Thanks for sacrificing your precious karma for spreading the truth - a rare quality these days.
+1	1525714688	1	I disagree that it's just symbolic and for show.   Had BTC made this upgrade (or any blocksize change) when they were at 100kb blocks, BCH would not even exist.  And yes, the blocksize was already recognized as an issue on BTC at that time.  In fact, Satoshi Dice consuming block space (pushing the typical size over 100kb) was a hotly debated topic, and brought the blocksize issue to the forefront in 2012.  Yet it was unable to be addressed before BCH split off.*The precise point* is to do it early, before you get mired into a half decade of debate.
+1	1525707198	0	Redditor /u/ryanisflying has low karma in this subreddit.
+0	1525690236	6	It is just people colloquially refer to max block size as block size. Otherwise it is quite a mouthful. And yes lots of people are perhaps confused, but hey then they have no clue anyway. Lots of confusion and doublespeak in Bitcoin land these day. What word "Bitcoin" actually refers to, for example. It is almost as if someone intentionally keep making things more and more confusing for the noobs.
+1	1525710640	2	It definitely looks like intentional obfuscation, from core and LN supporters imo. They don't want people to have a different, better, bitcoin. It shakes some to the very *core.* lol
+1	1525700138	-1	Speaking loosely has a cost much greater than the four extra characters.
+0	1525690222	8	Good luck spamming the BCH chain to increase fees after the upgrade! It was already quite difficult and expensive at 8MB. BTC operating near full 1MB blocks remains extremely vulnerable to spam (and legitimate traffic).
+0	1525684985	9	I'm totally sure we can get people to adopt this new 'cap' terminology, since it's in such frequent use elsewhere. This plan will totally work, in fact I'll drink a toast to it with my pint-cap glass while smoking my king-size-cap cigarette and eating a quarter-pounder-cap.
+1	1525686493	4	u/champaignr toast "getting people to adopt this new 'cap' terminology"
+2	1525686500	7	*A handsome bot appears wearing a Blockstream t-shirt and a red hat that says #NOTX. He uncorks a suspicious looking bottle of sparkling wine with a label that says "Dom Perignon Champaign" written in crayon. He pours smurfkiller013 and CluelessTwat each a glass of champaign and hands it to them.*Monsieur u/smurfkiller013 et monsieur u/CluelessTwat, a toast if you will, to "getting people to adopt this new 'cap' terminology".*Glasses clink* 
+3	1525686552	3	Good bot
+0	1525711134	2	yes, the average block size is still minuscule - MUCH smaller than 1 MB even. **MUCH** (!) smaller.
+0	1525694738	2	So, are we going to raise the hard limit, and keep a soft limit in place, or are we going to allow 32 MB blocks right off the bat?
+1	1525695407	2	The default limit will be set to 32 MB (it was 8), the hard limit remains at 32 MB (as far as I know, could be more by now), and miners will still set their own soft limits on the blocks they mine that could be anywhere from 0 to 32 MB. Larger might be possible, but will be rejected by the majority of the network and probably all of the miners.It makes little sense for a user to set their limits below 32 MB, as this would split them off the network if a block appears above the size they're allowing. The miners would stay on that chain, so there would be no miners mining the chain that this user *would* accept.
+2	1525710716	1	But mah raspi node!
+0	1525694915	1	Infrastructure upgrades are a good sign, and a signal that we are fully open to future upgrades too. 
+0	1525699971	1	If only people would stop shortcutting the phrasing for brevity. You can never be too clear or specific in this space.
+0	1525705560	1	hope what you've stated is true so it can hit them in the face!
+0	1525706667	1	Is [txhighway.com](https://txhighway.com) going to quadruple its lanes?
+1	1525711254	1	It was already done!Link: https://youtu.be/23t20xp25zI?t=4m13s
+0	1525714107	1	It's not even increasing a cap.  It's increasing the default value of a configurable cap.
+0	1525696820	1	Which is this the development focus now if we're so far from current market cap? Why not work on other features now.
+0	1525699657	1	> Although a lot of us already know this, its important to understand for new comers.No it's not. In fact for all but the most technical or those who want to learn how the protocol works - who gives a shit about block caps, block sizes etc...They should never have any relevance ever on any use of the coin as the idea of block size limitations should not be required to be know by users as they'll never reach them or see them reached as we'll just raise the limit again way before we get close to it.We are Bitcoin (Cash) not BCore. We don't care about block sizes.

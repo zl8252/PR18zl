@@ -1,0 +1,29 @@
+File created at: 1525716210
+Subreddit: Bitcoin
+Submission title: A complete beginners guide to installing a Bitcoin Full Node on Linux (2018 Edition)
+Submission created utc: 1525630361
+Submission score: 137
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525675801	7	If I switch to Linux, I will use it \- I need to save it for memory.
+0	1525632586	4	Great guide - I've got a node up and running but I'm reading through it anyway as I've had trouble maintaining stability. Quick question regarding the maxmempool - is it worth restricting this and does it reduce the stress on a low spec machine? I got my node going a couple of weeks back but I'm having real trouble with it stopping after a few hours (fails to keep up with the block height - getblockchaininfo seems to suggest the block height is a few blocks back and everything is fine). Could this be down to the hardware specs on my machine being laughably poor? Its the cheapest laptop in tescos. Just wondering if anyone can suggest some tweaks to the config file or anything else I can do to get more stability?Sorry for the waffle. Any assistance greatly appreciated. 
+1	1525635349	3	I don't think the mempool would be restricting your nodes ability to keep up with the blockchain.There might be something else going on if that's the case, because even a Raspberry Pi can keep up once it's synced.
+2	1525636338	1	Thanks for your thoughts - I don't suppose you know how bitcoind handles a drop in connectivity to the net if its brief? Would that be enough to destabilise the node?
+3	1525637883	5	It just waits and continues when it's reestablished.Here's the same node syncing [**with everything fine.**](https://i.imgur.com/rGqnrP6.png)Here it is after I turned the [**network connection off.**](https://i.imgur.com/YwuelnN.png)Here it is after I [**turned it back on.**](https://i.imgur.com/NCt9anA.png)
+4	1525640783	1	This is really really helpful thanks. I'll investigate further. 
+1	1525641187	2	My node runs on a 10 year old laptop very stable. With newer versions of the Core software I never seen that it stalls (it runs for months 24/7 without problems). Did you try closing the port to see if gets stable then? Maybe you have too many connections and your Internet connection is too slow? 
+2	1525644540	2	Thanks bitsteiner - this has given me another possible thing to fiddle with and try. Maybe it is a too many connections problem, I'll try and limit that in the configuration file. What exactly do you mean by closing the port to see if it gets stable? If I close 8333 won't it simply stop working? Are you trying to isolate the nature of the problem in some way? If you don't mind could you walk me through it? 
+3	1525653013	3	>  If I close 8333 won't it simply stop working?No, when you close the port, the node downloads blocks only (incoming connections only), but doesn't upload blocks to other nodes (since it is not accessible by other nodes). This also limits the number of connections to 8. Try this first if it works reliably. If yes, open the port again, but limit the connections to e.g. 16: bitcoind -maxconnections=16 -daemon
+4	1525691809	1	Thanks very much for a really clear explanation. I'll try this if my node drops again. Ironically since starting this thread the node has been going strong!
+0	1525634322	3	Any ideas why a node might not be able to open more than 8 connections as reported by 'bitcoin-cli getconnectioncount'?  I've tried forwarding ports 8333-8433 as well as setting 'maxconnections=16' in the ~/.bitcoin/bitcoin.conf file.
+1	1525641634	3	https://www.reddit.com/r/Bitcoin/comments/6nd6ty/cant_get_more_than_8_connections_in_bitcoin_core/
+2	1525642370	2	Thanks, the [stackexchange post](https://bitcoin.stackexchange.com/a/8140/38546) in that thread helped.
+0	1525656811	2	GNU/Linux.
+0	1525631181	2	Upvote.  Nice write up!  Still mad at you for banning me.
+1	1525635140	2	lol this joke isn't going to get old for you is it?
+2	1525635622	1	[This should satisfy your inquiry](https://imgur.com/QDA2fD0)
+0	1525634389	-8	People using Linux need guides? lol.....Linux is the stuff of computer genius' as far as basically everyone else is concerned :-)...D'oh
+1	1525635238	8	>How to compile a Bitcoin Full Node on a fresh installation of Kubuntu 18.04 ***without any Linux experience whatsoever.***It's meant to encourage switching in the first place.For what it's worth, many people who switch to Linux have a reason to, and even if it's out of pure interest it's usually an interest in coding, not an "interest in using Linux".
+2	1525695926	-1	thats where your wrong kiddo. 
+1	1525672326	3	Linux is the OS for which you find by far the most howto's and guides for everything.
+1	1525691642	1	> Linux is the stuff of computer geniusNot any more  As Windows gets harder and harder to use, Linux becomes the choice for more and more average users

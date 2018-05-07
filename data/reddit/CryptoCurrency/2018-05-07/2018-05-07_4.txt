@@ -1,0 +1,166 @@
+File created at: 1525716246
+Subreddit: CryptoCurrency
+Submission title: Apparently there is no SEC hearing on Ethereum today and it is all just orchestrated FUD.
+Submission created utc: 1525705431
+Submission score: 843
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525706752	266	I'm way too lazy to sell and then rebuy... 
+1	1525709826	46	I wouldn't just to avoid incurring a massive tax instance to make a few extra eth. 
+2	1525712502	9	depending on your tax jurisdiction in many places selling and then buying back within a certain time period (say 30 days) you'll use the most recent buy and sell price to calculate your taxes as opposed to the usual FIFO
+2	1525714341	10	Don't worry about it. The tax situation is ridiculous, and they havent done anythig about it just to see how many monkeys actually go through hoops and report all their taxes on crypto.They have records of how many people reprot crypto tax, they know what percentage is likely not reporting when only 1-2000 people report it per year.my bet is the US government are just seeing how many people they can sucker into it, and if its an increase this year they win, if its the same or less they release sensible taxation for it and you win.
+3	1525714939	12	TFW you're one of the monkeys.It really wasn't that hard, or that different than cap gains on other investments that I already pay. I'm not willing to take the risk of owing Uncle Sam more of my money in fines.
+4	1525715867	4	People ignoring crypto taxes are dumber than a box of rocks. Tax guidelines have been released long before taxes were due. Sites like Coinbase have released tools to help you calculate capital gains/losses. The IRS can come after you FOREVER for tax fraud. Paying taxes does ultimately help keep the society you live in running and more importantly allows the cryptocurrency you own to keep working by means of the internet. If you willfully didn't pay taxes this year its (1) a crime and (2) because you are greedy. Plain and simple.Now whether or not its economical for the IRS to come after you is the real question. But they can come after you FOREVER and they will use the PUBLIC blockchain combined with the exchange records they get their hands on to do it.Either you are smart and did your best to pay up, or you are dumb and eventually are going to be caught, or you are dumb and get lucky.
+4	1525716148	1	The cost to avoid the potential headache of dealing with an IRS audit is worth paying capital gains IMO. I wouldn't be surprised if they try to make an example out of 'crypto tax dodgers' (in their eyes) in the next year or so.
+2	1525712141	4	Yep, hodling for a year or more can save you upwards of 30% in taxes because of long term vs short term capital gains.
+3	1525713883	15	Oh ya I always forget US is the only tax law for the entire world
+4	1525714024	11	As it should be cause 'murica.
+5	1525714673	5	Uhh, the US is just one of a bunch of counties in America. 
+6	1525715162	5	I believe he said "'murica."
+3	1525715473	1	Uhh... Isnt the difference between short and long term capital gains (in the US) like 12% or so? I never remember it being that massive.
+4	1525716022	1	Depends on what tax bracket you fall into.  Short term can be taxed up to 40% in some cases.
+4	1525716235	1	Faces-kun - I have a million bucks at stake. $120k is relevant; jk I dont' have a million at stake. But you get my point.  Some expect to close in on $1mm when they decide to exit. 
+1	1525707822	24	If you don’t do this professionally, there is no point other than disinformation to sell, generally speaking.
+1	1525710229	12	Not only that. I can’t sit and stare at the market all day. Some of us do actually have to work at our jobs lol. Plus figuring out taxes would be a nightmare. 
+1	1525712131	16	same here. at $830 I knew it was gonna drop and was thinking of converting all eth to DAI and then convert back around $700 ...but I got high
+2	1525714081	18	"I was gonna sell my bags but then i got high, I was gonna get up and find the ledger but then i got high.. my bags are still loaded and i know why, because i got high, because i got high, because i got high"
+3	1525714273	3	Damn nice jingle
+1	1525711298	6	lol, you are my spirit animal
+1	1525713551	1	thank you for capturing my mood exactly
+1	1525715298	1	Ditto, way to lazy for some time now. 
+0	1525705515	68	Even on Sat, posters here were suggesting that there's no imminent announcement. Regulation of this sort usually takes months if not longer. 
+1	1525708338	59	SEC and CFTC: "lets regulate crypto, lets prevent scammers and pnd groups."  PND Groups: "lets create non-existent SEC fud to dump the price, and profit."  Roger ver: "muhh bcash"  
+2	1525710333	23	That is spot on and hilarious. Curious as to how you got Ver to give you a direct quote for this posting though?
+2	1525710637	1	You are a genius sir!
+1	1525711666	2	Decades not centuries
+2	1525713017	2	?
+1	1525711113	1	They haven't had months already?
+0	1525708446	172	Sec said that they are replacing USD with ethereum
+1	1525710048	7	HAHA
+1	1525711735	3	Unfortunately rejected prop to cap ETH and Federal reserve bought eth ASIC farm
+1	1525711745	3	Plot twist!
+1	1525711008	-9	And global banking transactions will now occur using XRP
+2	1525711486	17	bitconnect*
+1	1525712655	0	What she said 🙄
+1	1525714061	-2	There is some serious XRP hate in this sub
+0	1525706385	22	where did it came from this rumour? very interesting.
+1	1525708740	56	The Wallstreet Journal posted an article making the claim, they did not give any sources.https://www.wsj.com/articles/worlds-second-most-valuable-cryptocurrency-under-regulatory-scrutiny-1525167000?ns=prod/accounts-wsj#And here is an archive of it:https://archive.fo/vD6jo
+2	1525709856	24	Fake news, so painful. 
+3	1525710449	15	honestly press should be fined for this.Im tired of MSM in general and how they post shit with 0 reprucussionThe guy on ABC who dropped the DOW or w/e by like 300 pts got a 30 day suspension.(it wasnt too long ago)rofl
+4	1525713266	1	[deleted]
+5	1525713438	1	Blogs are being run by paranoid schizophrenics  apparently and people read them fml
+3	1525713134	3	It's not fake news, you guys just read way too much into it.>Bitcoin has largely escaped government oversight, but regulators are examining whether other widely traded cryptocurrencies should be regulated as securities, according to people familiar with the matter.>The inquiry includes a focus on ether, representing a significant threat to virtual currencies, which so far haven’t been drawn into a regulatory crackdown on potential fraud in the market for the assets. Until now, regulators hadn’t questioned whether rules designed for stocks should apply to virtual currencies such as ether, the world’s second most valuable cryptocurrency after bitcoin with a market value of $67 billion.
+2	1525711899	5	Guess Wall Street wanted to buy at lower price or something.
+2	1525711769	1	Wall Street Journal helping Wall Street buy cheap crypto? Who’d of thunk ?
+1	1525706778	-7	[deleted]
+2	1525707174	7	people were talking about the SEC ruling Monday, June 7, at 11am Eastern Time, for like 3 days.It's a closed door meeting, turns out, and no news will probably come for a while.
+3	1525707281	2	june or may?
+4	1525708422	1	Everyone said today. But it is just a meeting
+3	1525707298	-1	"people were talking" great sources here
+0	1525706061	18	Where the hell did this stem from? Theres absolutely nothing on the SEC website about it. 
+1	1525709956	4	Check out @paulvigna’s Tweet: https://twitter.com/paulvigna/status/993502819142561793?s=09
+2	1525715447	1	[Their source](https://i.imgur.com/E6Q1yIi.png) could literally be a lucky 8 ball.
+0	1525709264	89	It isn't fake news. What the Wall Street Journal reported was that a working group was meeting on May 7th to discuss the issue. An internal working group meeting is purely internal. This isn't something that would appear on the public calendar for either agency nor is it something that should be expected to result in any sort of final decision or public announcement. Someone who doesn't know how these things work read too far into what was said in the WSJ article and started this whole thing.Source: I'm a regulatory attorney.
+1	1525711672	13	This is the correct answer.Attorneys at the SEC, CFTC, IRS, at the Securities Regulators in all 50 States and elsewhere are discussing these issues every day.As they should.
+1	1525710203	19	Exactly. How the cryptoverse turned a small WSJ paragraph in into 'WHEN SEC STREAM' 'WHEN SEC DECISION' hurts my head. 
+2	1525712993	2	Typical crypto day on this sub. Take a headline of external source, add your own comment/judgment. Say it's gonna be huge.
+3	1525713986	-1	It wasn't Reddit. There were many media outlets that stated that there was to be a SEC decision today. 
+4	1525714978	2	Which ones? WSJ and CNBC were the main, reputable sources reporting on a meeting that I saw, but CNBC was just referencing the WSJ story. 
+4	1525714496	1	Ppl need to stop using crappy news sources then. Also, it takes 2 mins to find the original WSJ article and then check the SEC calendar for yourself. 
+0	1525705797	47	it worked eth is down $100
+1	1525710394	9	He bought the dip...dip it lower...he panic sold...pump it....
+2	1525712764	2	Pammmmmp it
+1	1525711288	6	Yes, Eth (and every alt) is down because of this news and not because the price corrects pretty much all the time when you see an increase. This last price increase was stronger than usual, even - it went up, then paused and went up again. The price going down is an expected correction and the fact so many agree with you is concerning. 
+2	1525713566	1	People always look for a reason as to why it is correcting. They can't fathom the idea of price going down on its own because of technical corrections
+3	1525714146	1	I am all about technicals but I have no doubt that some of the selling today was due to fud and manipulating because of the uncertainty. 
+4	1525714506	1	Some of it maybe, but main reason was failing to break 10k while also being overbought on a rising wedge. Patterns such as this don't happen overnight, it was bound to fall.
+2	1525712753	-2	It's just a theory, just like yours, which is equally concerning 
+3	1525715075	1	Price corrections exist at every level of investing / trading. 
+4	1525716105	1	Why can't it just go up forever 
+1	1525706197	8	and I was there ready to buy the dip. Got in at .076 ;) thanks guys
+2	1525707478	8	No you didn’t... Hasn’t been at .067 since April 25th/26th timeframe. 
+3	1525707547	7	haha whoops! meant to put .076 just fixed it :P
+4	1525708815	8	You got tangled in your own web of deceit!
+5	1525708875	2	lol 😜
+6	1525709583	-13	fuck eth
+7	1525709603	7	tell us how you really feel
+8	1525710010	2	I- I just wanna kn- know... When mars? When mclaren?
+9	1525713176	1	id like to talk to you guys about our lord and savior Pamp-it coin
+1	1525709469	0	They are all down a few percent.
+0	1525706220	18	Thank you for the FUD guys. I bought ETH nice and low at around .076 Sats :)
+1	1525708242	4	Same here
+1	1525709485	7	Bruh it's already up more than 100%; without the FUD, this was still going to happen after that run up. This isn't an actual discount if you've been here for the last month...
+2	1525713594	5	How you gonna talk to CryptoGod like that?
+0	1525708908	6	The FUD kinda worked and brought down the ETH by $100.
+1	1525710507	5	its not really the reason why
+0	1525707140	14	Get the fuck out of here..Just hold people.
+1	1525715530	1	Whenever I hold people they always wriggle free of my grasp.
+0	1525709338	4	Orchestrated by who?
+1	1525716062	1	People in the shadows.
+0	1525711005	4	Apparently it's a closed door session
+0	1525711358	3	Why would it be FUD anyway? Unless you are fearing the worst? In which case ETH will have something to worry about at some point.
+0	1525710061	4	i hope traders get burned
+1	1525711057	3	By whom? By other traders? Isnt that a Catch 22?
+2	1525712964	2	Well I bought cheap ETH today, and I'm not a day trader.  Seems like about as no brainer of a buy as you can get. So some trader lost his position to me (a buy/HODLer)
+2	1525711446	-1	by megapumpers
+0	1525711433	2	And here, I was hoping I could buy the dip.
+0	1525712787	2	so ontology just keeps going huh 
+0	1525714728	2	There was never a meeting scheduled.  The only source was wall street journal and clearly they have no clue wtf they are talking about.  I called the SEC and the secretary stated that even if a meeting was closed door it would have to be made public that the meeting was taking place.
+0	1525705945	3	I didn't even hear the FUD at all. I don't think there is anything coming of SEC here right now.
+0	1525711457	1	GG WSJ
+0	1525711603	1	There's this from a year ago.Could the news be a year late?https://www.sec.gov/comments/sr-nysearca-2016-176/nysearca2016176-1762855-152193.htm
+0	1525712671	1	I was under the impression it wasn’t necessarily a formal hearing but a meeting between the SEC and another entity (forgetting who ATM) just to get on the same page about how they are thinking about eth and crypto...so it could still have significant implications 
+1	1525713222	1	That is about the gist of the meeting video i watched. Nothing damning about it, mostly wuestions of what are you seeing, and what steps are we taking to keep people safe from scamming. 
+2	1525716106	1	What video are you referring to? 
+0	1525712732	1	Shocking
+0	1525712808	1	That's because it's a JOINT meeting with CFTC and SEC, so not sure it would be calendared for SEC.  Either way, there will be a positive outcome I would guess.   
+0	1525712996	1	I just watch the video from the meeting. It wasnt about Ethereum but crypto, arbitrage, ICOs. Scams etc in general.  Other discussions as well that werent crypto related as well.  
+0	1525714433	1	this was obvious, i couldn't find it verified anywehre for weeks.besides, even with ETH was determined a security, it means nothing. exchanges will simply blacklist Americans rather than de-list most their volume and revenue. there is a short dump from Americans and the rest of the world buys it up fast and we continue as normal.
+1	1525715129	1	Lots of liquidity would dry up while simultaneously people head for the exit. It would be a bad recipe.
+2	1525715825	1	"lots"?Most the liquidity is from the rest of the world combined. The biggest players would also be unhindered from their millions as they go through institutions already or have residency elsewhere.It would have a small downturn for sure initially before business as usual. USA investors just don't make up a lion share of the market, not even close. Exchanges aren't going to abandon their businesses just due to stupid American laws. Bitfinex already did this, simply blacklist Americans and move on. seeinga s they are still the number one exchange in volume for BTC, doesn't seem to have harmed them.
+0	1525714599	1	Where did we first hear of this alleged hearing anyways? I haven't seen anything official, just people talking about it.
+0	1525715641	1	so this was just bullshit this whole time? wow....
+0	1525715935	1	Is this it?  i can not find a date?https://www.banking.senate.gov/hearings/watch?hearingid=D8EC44B1-F141-4778-A042-584E0F3B9D39
+0	1525715939	1	what sane person would even believe the WSJ if they can as well enter a crypto subreddit and have random users tell them to HODL because FUD by by by WHALES and or or THE GOVERNMENT.
+0	1525715988	1	How can a sub of 500k people fall for this. Is no one doing any research anymore. Scary to think that all need are just blindly followed without critical thinking at all. 
+0	1525716218	1	Somewhere some group of individuals are laughing their ass off at causing this dip and accumulating with glee.
+0	1525710460	1	So that was fake news of WJ? Interesting!
+0	1525706051	-25	YOU are spreading FUD, op.https://www.wsj.com/articles/worlds-second-most-valuable-cryptocurrency-under-regulatory-scrutiny-1525167000?ns=prod/accounts-wsjthere is a closed door, not-public meeting of a "working group" made up of senior CFTC / SEC officials. Nobody legitimate has claimed there would be a hearing today.
+1	1525706611	31	Did you read the last part of our post? We are not spreading FUD, we are diffusing it. Learn the difference.  Many people thought a big announcement was coming down from the SEC/CFTC today, and we are letting everyone know that will not happen and its all FUD.Please stop FUD slinging. Thanks
+2	1525708416	5	ayy rekt the fudder lmao 
+3	1525708431	3	ヽ༼ ຈل͜ຈ༽ ﾉ Raise ur dongers!^^Dongers ^^Raised: ^^30587^^Check ^^Out ^^/r/AyyLmao2DongerBot ^^For ^^More ^^Info
+4	1525712169	1	Good bot
+2	1525706722	-39	Your title:> Apparently there is no SEC hearing on Ethereum today and it is all just orchestrated FUD.Please point to the "orchestrated FUD" that said there would be a hearing todayif you can't; then YOU orchestrated it. 
+3	1525707495	18	Are you really that stupid?
+4	1525707801	-14	that stupid to ask for references? you provide links, if you're so smart...
+5	1525708060	6	Kyle bro, if anything, OP = debunking FUD. Not orchestrating.
+6	1525709008	-6	Link to some of this FUD, plz. Because I think OP is playing it up, and only saying that "outlets were reporting there was a hearing" to manipulate users here.
+3	1525707044	13	Google is your friend. Please use Google. Tons of websites/reddit posts are falsely alluding to the fact today is judgement day for ETH/XRP/ERC20 tokens because the "SEC will make a decision on ETH being classified as a security or not" ( hence: Orchestrated FUD). This is a lie, the SEC/CFTC will not make any public announcements today. We are diffusing the FUD. You are throwing more FUD. Lets stop the FUD fight please.TLDR: Today is a nothingburger. Lets all proceed as normal.
+4	1525707269	-18	You are making more un-cited, ridiculous claims of "orchestrated FUD," MR FUDPlease provide links so that people may actually believe what you say
+5	1525707792	14	Anyone browsing this sub in the last week would have seen the FUD. Which rock were you hiding under? 
+6	1525707853	-4	If so, then you should be able to provide a link, no?
+7	1525708467	4	You're clueless bud.
+8	1525709040	-2	I'm without any links upon which to base my opinion of this "FUD", bub
+9	1525709842	2	go through daily discussion and posts from the past 4 days. 
+9	1525712298	2	Then you're absolutely hopeless and shouldn't be trading crypto due to your inability to do basic research and think
+7	1525712735	1	There were so many posts mate and of course in the daily too, just search this sub for SEC. Its not worth my time doing it for you sorry.
+5	1525708408	3	it has been all over /biz/
+3	1525709354	3	Why would this guy diffuse his own orchestrated FUD?
+4	1525709422	-4	To legitimize his alarmist post?
+1	1525706663	1	Wow!! How was I able to read Wsj without paying a penny.. 
+0	1525714471	0	[deleted]
+1	1525714595	1	you have my downvote
+0	1525709638	-3	Yall have way too much time on your hands. Does anyone here have an actual job?
+0	1525709052	-5	Yeah, don't worry guys.  Just pure FUD, I swear!  brb dumping my bags lol
+0	1525707084	-35	The way things are going it's looking hard for Ethereum to overtake bitcoin core as #1 cryptocurrency.
+1	1525707299	22	You mean bitcoin.
+2	1525707700	-31	Bitcoin is currently #4 by market cap. I'm talking about bitcoin core which is #1. For reference, Ethereum is #2 and Ripple is #3.
+3	1525707782	13	Your Beecash is #4. Leave BTC alone. 
+4	1525708304	-14	Okie dokie, shill.
+5	1525708800	7	Lmao I don't even hodl BTC. BeeCashers are like flat-earthers. The proof that the earth is round is there. We have satellites, diagrams, pictures, videos, mathematic proof, and the list goes on and on. As for Bitcoin, every single exchange has Bitcoin as BTC, while Bitcoin Cash is clearly BCH. Notice how they don't have BTC as Bitcoin Core, just plain old Bitcoin. The term "Core" was only recent because of Roger Ver and his very recent promotion Bitcoin Cash, the fork that just occurred less than a year ago. So the proof that BTC is just Bitcoin is there, no "Core" involved.
+3	1525708964	6	lmao jesus you BCASHers dont give up do you? Your entire marketing campaign is to try and convince people BCASH is the real Bitcoin. Give it a rest dude
+3	1525707866	6	Oh lol you're  one of those. I didnt think they were real.
+1	1525707474	8	It's just Bitcoin, unless you're an /r/btc weirdo
+2	1525708453	3	which he is...
+3	1525709949	-3	no u
+4	1525711335	1	bitcoin and bitcoin cash are both useless and outdated crap

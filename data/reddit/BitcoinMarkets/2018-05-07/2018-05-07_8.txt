@@ -1,0 +1,16 @@
+File created at: 1525716265
+Subreddit: BitcoinMarkets
+Submission title: How much is everyone earning from leanding / funding btc in the past years? Whats the average?
+Submission created utc: 1525638621
+Submission score: 0
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525643232	6	first rule of crypto, never let anyone know how well you are doing in crypto
+1	1525644871	1	how does one tell?
+2	1525662373	3	>how does one tell?Sudden appearance of Lambos. 
+0	1525643791	2	Average over 0.08% on Bitfinex. 
+1	1525654632	1	Per day?
+2	1525657585	2	>Per day?Yep. 
+1	1525672166	1	if tether/bitfinex collapse or gets hacked, will coins in margin lending be affected?
+2	1525674422	1	>if tether/bitfinex collapse or gets hacked, will coins in margin lending be affected?They were affected the last time Bitfinex was hacked, but I don't know what the situation would be in the future. 
+2	1525675221	1	Of course, last time bitfinex was hacked 36% of your lending balance was gone within seconds. So you were lending $100k feeling like a genius and them boom you lose $36000 instantly. So yeah...They managed to repay with time most of it but many people sold their debt at a loss before that.If some deal looks too good to be true its because it is. Take the risk into account when judging the rates.

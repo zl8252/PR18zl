@@ -1,0 +1,44 @@
+File created at: 1525716209
+Subreddit: Bitcoin
+Submission title: St. Louis Fed predicts a rapid transition from cash to cryptos: "In the near future, a close cash substitute will be developed that will rapidly drive out cash as a means of payment. A contender is Bitcoin or some other cryptocurrency"
+Submission created utc: 1525640383
+Submission score: 147
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525649239	20	> While cryptocurrencies still have many drawbacks, such as high payment fees, scaling issues, and poor adoption, these issues could rapidly disappear with the emergence of large-scale off-chain payment networks (e.g., Bitcoin's lightning network) and other scaling solutions.Ha!/e: man they really did thorough research, good read.
+0	1525654105	11	Time to start asking why the US Fed is promoting this. The right to print USD is the most lucrative franchise in the history of the world. The fed is the owner of that franchise.
+1	1525655827	11	Chinese petroyuan (gold-backed) is lancing the petrodollar and that means no more fiat Ponzi magic show. But they still need a big war before doing a total reset of the system - and we can all see the dominoes are just about done being set up for one.Reserve currency status is over - they know it, we know it.
+2	1525657148	10	It's about to get fucking lit.
+2	1525667917	6	I have some of the same thoughts. More than anything this reveals that the Fed knows that the jig is up for the dollar.
+1	1525665838	5	The Fed knows the US needs a new system in place before the government can default on its debt.
+1	1525669787	2	cos bitcoin still hasn't been stable enough for people to price things in them.right now everyone is transacting: pls send me $500 worth of bitcoin. at the end of the day, users are still pricing bitcoin transactions in us dollar. and if it remains so, the fed still has some semblance of control over the flow of money.the end game for bitcoin is when mcdonald's lists their menu in bitcoins/satoshis, and have no need to change their menu prices more often than every few years.
+1	1525696141	1	The review is only a publication of  independent  research, and not the view of the St\-Louis Fed.  *Review* is a quarterly journal of national and  international economic research, particularly focusing on monetary  issues. Aimed at economists, economics professors and others interested  in such research.  the same issue contains 2 articles that are "negative" on bitcoin [Blockchain: What It Is, What It Does, and Why You Probably Don’t Need One](https://research.stlouisfed.org/publications/review/2018/02/13/blockchain-what-it-is-what-it-does-and-why-you-probably-dont-need-one)  [Is Bitcoin a Waste of Resources?](https://research.stlouisfed.org/publications/review/2018/02/13/is-bitcoin-a-waste-of-resources) Although the other articles contain interesting statements like "blockchain is often described as consisting of \(among other things\) an *immutable ledger*. To me, this is like defining *a titan*ic to be a*n unsinkable sh*ip "Also, the article  mentioned  in this post argues that bitcoin is a good alternative for cash transaction, especially when anonymity and, but that wider adoption in the financial system is highly unlikely as direct deposits at the central bank are a good alternative to avoid the risk of putting your money in a bank. The writer is a professor in Switserland and has no affiliation with the FED or actors in the US monetary system
+0	1525654123	4	Crypto can't replace cash until it's as fast (instant) and free to use.I don't understand why people want to buy things like coffee with crypto when cash is instant and free
+1	1525655564	7	Cash isn't a store of value.
+2	1525659046	6	Yes so why would you spend crypto instead of cash ?
+3	1525661095	7	because you are all-in already obviously  ;) 
+4	1525664603	4	This is me
+3	1525665609	4	Because sellers of goods and services would rather accept an appreciating currency than a depreciating one, so they'll say "dollars aren't good here, sorry".
+1	1525690021	1	Apples to apples, bitcoin has always been faster and cheaper than fiat.Because an apples to apples comparison means, you have a custodial wallet that transfers bitcoin via internal database transactions or external trusted transactions that get settled independently from the actual sending/receiving.
+1	1525684139	-1	Nano is instant and free.
+2	1525686663	3	If they can work with the bugs and prove it can scale it could be huge
+2	1525709861	1	Can we spam transactions for free?
+3	1525710023	1	There are security measures against that. Ask /r/nanocurrency for details
+3	1525711190	1	No, it costs PoW; the guys who say "free" don't economics. It's just _cheaper_ for attackers than for honest users.
+0	1525673422	4	I think it is probably accurate to say within the next few decades, we'll all be using cryptocurrencies in our daily lives.  Bitcoin must be hardened and prepared for the rise of CentralBankCoins, just like it must be hardened and prepared to fight against government-issued cryptocurrency like Venezuela's.Don't waste time mindlessly bickering, don't let FUD cloud your judgement.  Be a Bitcoin expert, teach Bitcoin concepts.  We need to be skilled and grizzled _before_ CentralBankCoin becomes a thing, so we can fight the sure-to-exist sockpuppet armies and FUD.Personally, I'm trying to convince my local library to let me host a Bitcoin workshop, and I suggest others who are prepared in technical knowledge and the ability to explain concepts in Bitcoin simply to consider doing the same.  I've got a [Bitcoin presentation](https://github.com/tyzbit/bitcoin-presentation) I've been working on that others are free to use.
+1	1525686404	2	> Personally, I'm trying to convince my local library to let me host a Bitcoin workshop, and I suggest others who are prepared in technical knowledge and the ability to explain concepts in Bitcoin simply to consider doing the same. awesome! :)
+0	1525653386	1	Fascinating read. St. Louis Fed is doing yemoen's work lately.
+0	1525656314	0	Their first problem is finding a coin that is not volatile in price on a daily basis.  I know BTC can be subdivided but today 1 BTC moved $470.  If the Fed wants a virtual currency it would be nice but I don't really want the government to know where I make all my purchases.  I use my debit card so they can see the info if they make an effort to get it from my bank.   
+1	1525657263	9	Volatility is naturally tied to adoption.The more adoption - the less any individual actor can influence the market - the lower the volatility will be.
+2	1525658990	2	I can agree with that.  The problem is getting people to use a crypto until it loses its volatility.  They could do what India did and make their old currency worthless if you did not turn it in for the new currency. Now they have banned or are about to ban the banks from doing any transactions for crypto so a lot of cryptos are being purchased before the door shuts.  I think this is a good idea if they can pull it off.  I just see the banks fighting it like they may be doing now. All of a sudden the SEC wants to declare cryptos as securities.  
+1	1525657360	3	The feds will easily know where you make all your purchases with crypto. It’s a feature of blockchain. 
+2	1525658118	2	And we'll know (and be able to help guide via the wisdom of well informed crowds) where they make all theirs on our behalf.
+2	1525667730	1	That's why you use Monero
+2	1525658156	0	I have read that if they can confirm one or two transactions they can track you on the blockchain.  
+3	1525663641	2	Yeah and that's why I always find it weird when people say block chain is good for being anonymous. Unless you are going to great pains to essentially periodically launder Bitcoin, it's pretty easy to track everything you've ever done with it.
+4	1525687657	2	Even if you go to all that trouble they can use the IRS to get you with an audit.   
+0	1525649817	-5	[removed]
+1	1525650143	5	Lol
+1	1525657302	2	Looking at adoption spikes in the past - it will be quick.
+1	1525657262	1	As likely as BANANO
+0	1525657213	-4	Zero chance it’s bitcoin. 

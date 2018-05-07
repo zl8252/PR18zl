@@ -1,0 +1,23 @@
+File created at: 1525716260
+Subreddit: BitcoinMarkets
+Submission title: How to calculate your liquidation price when using the same asset for collateral as the one you are borrowing?
+Submission created utc: 1525628915
+Submission score: 28
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525636834	8	Dont use crypto as collateral, always use fiat as its stable so liquidation price will stay the same.If you you use btc  as collateral then it drops to 7k, you will get wiped  out fast
+0	1525630499	4	> does the liquidation price shown (on Bitfinex) take this potential drop in the value of my collateral/equity into account or should I calculate my actual liquidation price manually?it doesn't -- if you're long while using that coin as a collateral, your liquidation price will increase as the coin drops, since I believe it's calculated relative to current USDT price. so yes you should solve for it by hand.
+1	1525630612	1	Ok cool. Good to know. Thank you.
+2	1525639872	1	The safer option is to use fiat and go long x long
+0	1525646619	3	I actually calculated it already a few days ago. The formula is quite complex.Let's say you Margin Trade BTC/USD and you have both USD and BTC in you Margin Wallet. I'll call :* USD : Number of USD in your Margin Wallet* BTC : Number of BTC in your Margin Wallet* PV : Size of the position (in BTC).* EP : Entry Price (in USD)**Long** : 0.5*(SQRT(-1472000*PV^2 *USD *ABS(PV *EP)+846400*PV^2 *ABS(PV *EP)^2 +640000*PV^2 *USD^2 )-BTC*(920*ABS(PV *EP)-800*USD)) / (400*PV^2 -400*BTC^2 )**Short** : 0.5*(SQRT(1088000*PV^2 *USD*ABS(PV*EP)+462400*PV^2 *ABS(PV*EP)^2 +640000*PV^2 *USD^2 )-BTC*(-680*ABS(PV*EP)-800*USD))/(400*PV^2 -400*BTC^2 )Sqrt is Square Root and Abs is Absolute Value.Don't ask me how I got these results. Too lazy to explain.EDIT : Formatting
+1	1525679825	1	Never thought of this before, this is actually a great formula !
+1	1525691173	1	This is very useful. Thanks!
+1	1525701226	0	What the fuck, you just have to maintain 30% of entry position. How does it translate to this cluster fuck of constants
+2	1525702842	1	> Too lazy to explain.
+3	1525715639	1	Please do - I'm interested.
+0	1525636887	4	As other have said, it's not included. Further, be aware of stop hunting, and notice that occasionally long wicks will appear which may indicate successful stop hunted liquidations. A good defense against stop hunting is a diversified portfolio where it's unlikely that every asset can be stop hunted at the same time. 
+1	1525692026	1	Good point. The leverage is just to hedge my portfolio and I'm using fiat as collateral too, so I have a long way to go to liquidation.I'm just looking to fully understand how these things are calculated to ensure that, in the case of a dump, I've mitigated any risk of liquidation, even with stop hunting/long wicks.The replies that I've received so far have clarified things for me.
+0	1525629102	-9	[deleted]
+1	1525629246	10	Thanks, but not particularly helpful.
+1	1525633828	1	Yes leave all the money on the table for guys like me. 
+1	1525643624	-1	This is partially correct.  Margin trading is dangerous.   If you are new at margin trading, never trade more than 10% of your fiat balance.  Even after you are a "pro" never trade more than half your balance.This is to help you reduce your risk and learn the how the market moves.  It's just like gambling.  You wouldn't throw down $100 on black in roulette unless you were willing to lose it all, because you still have $1k in your pocket.  (Or because it's 6am and you're wasted... /ts 🤣)

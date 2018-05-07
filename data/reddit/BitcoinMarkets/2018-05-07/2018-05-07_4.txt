@@ -1,0 +1,13 @@
+File created at: 1525716262
+Subreddit: BitcoinMarkets
+Submission title: exchanges that do not serve US customers?
+Submission created utc: 1525658987
+Submission score: 2
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525659191	3	BitMEX
+0	1525666094	3	Depending on US state of residence you may not be allowed to register with several US BASED EXCHANGES! Its a little maddening.edit: New York is the primary one here, but also this:"Shortly after the regulations were signed into law, exchanges such as Bitfinex, Bitstamp, Kraken, and Poloniex pulled out of the state, and informed Washington customers they needed to take their business elsewhere."https://www.geekwire.com/2017/new-bitcoin-regulations-shake-washington-states-cryptocurrency-industry/It's a little crazy as Bittrex is based in Seattle WA and Seattle is a major tech hub...
+1	1525670467	1	Now that polo is part of circle this is likely no longer the case.  NY folks can use Gemini, GDAX, Bittrex, etc. It's also not hard to open a business in another state.
+0	1525672649	1	You're going to have to be more specific. 
+0	1525672945	1	yes, lots.
+0	1525680007	1	China, Japan... Most countries as the US expects the world to comply with their laws when providing a service to their citizens. 

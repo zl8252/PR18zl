@@ -1,0 +1,49 @@
+File created at: 1525716248
+Subreddit: CryptoCurrency
+Submission title: Billions TV Show References Cryptocurrency and Ledger Wallet. Axe pays $1M in crypto to a trader at his hedge fund in cold storage.
+Submission created utc: 1525667047
+Submission score: 336
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525700764	1	Remember to use the spoiler tag. 
+0	1525670578	71	Fuck accepting a second hand nano
+1	1525674500	40	axe capital getting in institutional money, bois and galspack it up, get ready for the dogecoin pamp 
+2	1525700613	2	real life Axe, Steve Cohen is taking big positions too
+1	1525682518	10	Context matters here. There's no motive for foul play. This is Axe moving money between his own holdings. All they would have to do is take the money off it and put it in their own address and throw the ledger away.   Unless you're worried about malware, but Axe infecting his own hedge fund with malware wouldn't make any sense, he's only doing it because he isn't allowed to coordinate with his company.  
+2	1525693489	2	I don’t watch the show, so admittedly don’t get the context, but I think it’s more about not securing the seed than malware.
+3	1525694065	4	He got indicted and he is not allowed to coordinate with his own company. The company has to conduct their business without his direction or interference.  There was some profitable play they could make but they needed his money. And thus he gave them a ledger. It's a transaction between trusted parties and thus there is no requirement to secure it.  It didn't have to be on a ledger he could've just give them an open wallet on a USB drive and it would achieve the same but it wouldn't look as flashy and it wouldn't convey as well to outsiders that this was money he was dealing with.  But you are completely right, this is NOT the way to securely transfer money between two untrusted parties. Drug or weapons dealers doing the same thing would be stupid. 
+4	1525694234	0	Where's the Spoiler Alert? I just started watching last episode!!! 
+1	1525707153	2	He didn't give him the key or the seed either. A Ledger is as good as useless without those.
+0	1525674416	20	Is that major dick winters ? 
+1	1525674774	1	Yup
+2	1525684655	8	Also known as sergeant Nicholas Brody, an American patriot (not a terrorist) 
+0	1525674914	9	Wow I haven't started watching this season of billions yet 😭😭
+0	1525683903	7	man, as soon as a saw the ledger i jumped out of my seat. It's a ledger, he's getting crypto! 
+1	1525687733	1	Which episode? The new one?
+2	1525687833	1	yeah, last nights. https://www.thetvdb.com/series/billions/episodes/6508245
+0	1525667212	22	Could have put spoiler warning jeez
+1	1525682754	10	I'm not sure what it spoils other than the novelty of the Ledger being in the show. He's referenced Crypto before and him sending 1m to 'a trader' is pretty par for the course and gives nothing away 
+2	1525708521	1	Axe is banned from trading due to his shady deals with Ice Juice. Him giving 1 mil in crypto to his company would be him breaking the law, which would have been a spoiler to anyone who hasn't seen that episode yet.The picture is fine, but the title is the spoiler.
+0	1525671574	6	The PR we need! /s
+0	1525683976	5	Nano Ledger S.. daymn! I got the same security as Axe Capital!!!111
+0	1525690653	3	I recommend you all to watch StartUp (https://www.imdb.com/title/tt5028002/?ref_=nv_sr_1), a tv show about the building of a cryptocurrency by a genius programmer, a gang leader and young entrepreneur.. its like silicon valley, but instead of comedy you get thriller as the main definition, I love it!
+0	1525671789	5	Appreciate the spoiler. /s
+1	1525702977	1	doesn't spoil anything in the episode, whole scene lasts like 20 seconds
+0	1525688652	2	This is one of the best shows ever.
+0	1525667048	1	If this submission was flaired inaccurately, [click here](https://www.reddit.com/r/CryptoCurrency/wiki/resources#wiki_flairing_content).*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1525672747	1	Cant wait to get to that episode! Fuk Chuck and his nasty manipulations!
+1	1525674554	2	bald chucky is the regulator crypto will put out of business and fork his wife 
+2	1525675601	1	Oh man that would be awesome... but i dont think thats exactly what ‘they’ want us to see happening tho.
+1	1525688090	1	If he and Axe hadn’t gotten into a dick-measuring contest in the first place, they wouldn’t be where they are now. I’m disappointed in him though. Even with political ambitions, he should be playing it clean. Axe making shady moves I’ve come to expect. 
+2	1525688186	1	I mean you can clearly expect that from someone like ax but chuck wtf guy’s lost the plot he’s definitely out of his element by now!
+3	1525689209	1	Yep. I think he’s too blinded by ambition, and still trying to please his dad, who’s made plenty of shady moves himself. 
+0	1525676073	1	loved it !
+0	1525679029	1	Is this supposed to be good advertisement? He's a billionaire hedgefund manager doing illegal shit with crypto
+1	1525680937	11	Good advertising is a housewife paying with crypto for new kitchen appliances. A billionaire hedge fund manager doing illegal shit with crypto is a FUCKING GREAT advertising.
+1	1525688638	2	Eh, not directly. Just paying off one of his traders for being a team player. Honestly, I think Mafee was happier with Wendy’s thank you. :)Point taken though..and I’m sure people far, far richer than I am are doing even shadier shit than Axe is doing. 
+1	1525684025	1	Whenever people make money - it is good advertisement. Have greed taugh you nothing in this world?
+0	1525683029	1	omg i crypto bobby. looking a bit old there buddy
+0	1525697713	1	Monero
+0	1525703078	1	luckily that i never watch this to be afraid of such a spoiler?
+0	1525706797	1	He didn't even give him the pin or seed words. It's a trap!
+0	1525677542	-1	axe capital funded blockstream to destroy bitcoin.buy bcash

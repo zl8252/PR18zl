@@ -1,0 +1,94 @@
+File created at: 1526319259
+Subreddit: Bitcoin
+Submission title: Consensus 2018: I'll just gently drop that graph here..
+Submission created utc: 1526236493
+Submission score: 456
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526236610	39	Can you explain to me what the consensus thing is please
+1	1526236932	17	https://www.coindesk.com/events/consensus-2018/
+2	1526236975	8	Nice thank you
+2	1526243545	3	The amount of speakers is massive. I didn't see Andreas, is he going? Good thing is I didn't see Ver.https://www.coindesk.com/events/consensus-2018/speakers/
+3	1526245862	6	I was at the Polish Bitcoin Congress friday/saturday 11-12th May and he was the main guest speaker at the end of day 2. He was asked about Consensus at the end during a short Q&A and mentioned jokingly that 'I guess I forgot to go there and picked this event instead'
+3	1526252397	4	Yeah, I don't think Antonopoulos will be at @ Consensus.I'm lucky enough to attend this year's summit \(from [indorse.io](https://indorse.io)\)! If someone want's to share a beer at the Civic vending machine, drop a message!
+3	1526257583	7	If we need a rat, we'll just get one from the alley.Nobody needs to hear from Roger Lyin' Ver.
+3	1526246842	1	That is quite a healthy list. Shout out to Phil Chen..... hilarious pic, looks like a Facebook profile pic with that hat on.Diffie is a speaker? Way too cool.Incredibly well balanced speaker list gender wise. While this matters in no way, I am a bit surprised at the amount of young attractive female speakers. Looking like things are getting quite diversified!
+4	1526249702	11	Yes, diversity, in which we discuss the physical attractiveness of members of one gender. Smh
+5	1526293832	1	C'mon dude... the majority of tech people are nerds. You're not going to get fired from Google for pointing this out (or maybe you will?)If super models were picking up my garbage and recycling, I'd point that out. If all the car mechanics at Jiffy Lube were 6' tall buxom blonds, I'd point that out. If the road was being paved and tarred by a team of pretty young women, I'd point that out. If 98% of workplace deaths were women, I'd point that out.That just ain't reality buddy. And it's good to see women in Bitcoin, but it's not a sin to point that out.
+6	1526301638	1	Pointing it out to make the observation that perhaps there's still some unfairness behind who is in what position, would be a valuable discussion. But that's not what happened, is it?
+4	1526251263	-2	Giggity giggity
+2	1526274103	1	Someone should go and tell these people that when you are already centralized (99.9% of the cases) bongchains are not only superfluous but an unnecessary overhead.
+2	1526293197	1	I really wish that website would rename to blockchaindesk 
+3	1526312574	1	Consensus is a core principle for every blockchain. As for example take a look at BTC BCH drama where they already lost the war \(Cash fans\) but they still manage to create problems for the real chain.
+1	1526237022	10	Let's say it's a blockchain congress. It started back in 2015. Flashy one, but still a good congress.If I recall correctly, there were around 300 attendees back in 2015; they're claiming more than 4000 for 2018 \(TBV\).
+2	1526304075	1	last I heard was 8500 tickets sold
+2	1526237800	1	Thanks for explaining
+2	1526249635	-1	When and where is it happening this year?
+0	1526264020	24	Should've called it coinsensus.
+0	1526245629	16	People have been googling the 2018 consensus since before the 2017 consensus? Thats madness. 
+1	1526245869	1	They weren't necessarily searching for this Consensus summit. But if they were, yep, I would also call that madness. 
+2	1526245965	3	Haha. Im seriously wondering how much Btc and Eth will be effected by this over the next 2-6 weeks. 
+0	1526239326	52	Consensus is marketing wise one of the better organised conferences but once you are there it feels empty... very empty... There are  exceptions and everyone knows them by now if you are a while into Bitcoin. TIP 1: enjoy NYTIP 2: People who have not the money or did not get tickets for this conference, don't worry, look for the little after gigs in the early evenings. More fun, more quality if you don't end up being scamed ... don't trust verify!Blockchain \(s\) \(technology\), ICO's and DLT's and other fancy names are just words... and are being used/abused by very powerfull smart marketing and communication agencies. Bitcoin is and does NOT care. \(full stop\)
+1	1526240815	0	Have you been there to say it feels empty ? 
+0	1526266348	8	I just googled Consensus 2019.
+0	1526255788	3	Markets usually price such events in early. The fact that everyone expects it to bump is a tell.
+0	1526240799	12	Looks like there's a sharp rise then a drop - set your stop losses and adjust it as it rises so you can cash out when it drops 
+1	1526241551	15	Are you really trading Google searches how
+2	1526249578	3	Google searches has been a leading indicator for every bubble so far. You could do worse than use it in your process
+3	1526304132	1	google searches for consensus or bitcoin because this is searches for a consensus which on the surface seems to be all about DLT and altcoins and almost nothing about bitcoin.
+1	1526243179	4	I am dumb - I failed to read the chart properly - thought it was BTC price during Coinsensus 
+1	1526246169	2	Go short $GOOG.
+2	1526275375	2	I belong in /r/wallstreetbets
+1	1526241677	1	The graph/chart has nothing to do with any price of any cc. You could nevertheless try to find some shy correlations with price evolution.
+0	1526248908	5	Ark is everywhere in Consensus even the elevators. 
+1	1526279304	1	Pretty insane booth they have!
+1	1526291390	1	Are you an attendee??
+0	1526252378	4	This graph is bullshit and misleading look at the actual rates around consensus don't rely on this at all.
+0	1526237346	4	Oh you and those graphs. Stop with data and research we don’t want that here. You can’t use actual data points to substantiate your claims that’s complete BS!!’ ( Sarcasam ) 
+1	1526239586	1	Loling. Loling good. 
+0	1526249298	1	This isn't surprising in the least though? 
+0	1526257913	1	I believe it is not true representation. If it is true also it will not repeat this year. 
+0	1526275021	1	This year, mr. Kobayashi will have the biggest stand on Consensus conference
+0	1526285547	1	Growing in the right direction.seems Mooning!
+0	1526285730	1	These sorts of posts from new redditors always pop up when crypto is crashing.I wonder why..
+1	1526291311	1	Conspiracy 2018.
+0	1526286444	1	what does the dashed line represent?
+0	1526290785	1	Consensus 2021 is gonna be great.Either the parking lot will be full of lambos or we'll get to see McAfee do the eat thing ON STAGE
+1	1526304924	1	That would be something else.Like we all think that McAfee is a level 4 or so on the insane scale, but maybe he's actually a 9 or 10 and he actually eats his own dick.
+0	1526292345	1	Wish you look in the bullruns to come !
+0	1526245472	1	That was the top. Hype is over. Steady from now on.
+1	1526245689	0	Let's see what effect Consensus' marketing will have.
+0	1526250568	1	Supposedly they sold ~8000 tickets at $2000 apiece. 
+1	1526265526	3	Not really. I mean yes we have more than 8.4/8.5k people registered but as I understand it a lot of the tickets were sold at <$1k 
+0	1526248299	-1	i just want 1 huuuge crash because usa fed bans bitcoin or something (a try bound to fail) or something else that scares noobs and idiot-holders (smart hodlers won't budge of course)so i can buy more, as im sure the price is indeed going to go to the moon in the next 3-5 years
+0	1526244324	0	Does BTC generate interest?
+1	1526247427	2	Nope. If you store 1BTC in your cold wallet it will keep being 1BTC.
+2	1526247671	0	well, not entirely true... Still more 4million btc to be mined, so 1btc does lose buying power untill year 2140. Then 1 btc is actually 1 btc forever
+3	1526252099	4	1 btc = 1btc. The purchasing power or value of it is determined by what people think it's value is. The supply in circulation is just one part of what people take into consideration when they put a value on it.
+4	1526285252	1	1 bitconnect token was always = 1 bitconnect token except people lost a shit ton of money and are never seeing them again. Btc miners get 1800 btc daily or $15mil at current price and the investors on average need to pour in $15mil fiat daily just to keep the price flat.  Until mining is over bitcoin indeed looses it's value daily even if price goes up
+4	1526286317	1	What your saying is that then, 1usd=1usd...
+5	1526311369	1	Correct. X = X. When you want to value x to y, it is subject to any given persons opinion. People's opinions are based on many things. We use exchanges to gauge value because they tend to close to the average persons opinion, and it's the best method we have.
+6	1526311596	1	I will add, that the reason I stated something so obvious is because eksander claimed that it would lose buying power as more btc are mined. That is not true necessarily. There are many factors that counteract inflation, such as if the amount of people that want Bitcoin outpace the rate at which they were mined.
+6	1526315979	1	I'm no economics expert, but I still don't believe that is correct. Inflation is not related to peoples opinion, it is maths. 1usd=1usd only if you time freeze it, but I was comparing USD(1980) to USD (2018). Forget the USD value of bitcoin, in 2140 it could be 1billion, doesnt matter. The fact is that1BTC(2140)/1BTC(2018) = 17M/21MIt will be worth more in reality, but thats not because of inflation, thats because of demand which cannot be easily modeled. The inflation will still be hidden within the final USD evaluation in 2140
+7	1526317680	1	Value is related to peoples opinion. 1btc is by definition 1btc. x = x. what you can buy with 1btc ( x = y ) will changed based on inflation and many other factors. As more btc gets mined, assuming that was the only factor involved, you are correct the price would go down. that is because the supply would exceed the demand. It is also possible that the 12.5 btc reward will not keep up with demand, in which case the price would go up. It is also possible that a flaw will be found in the code and people switch to another coin, in which case the supply will continue going up and the demand will drop, causing the price to drop.To sum it up. $1 = $1, 1btc = 1btc. $1 or 1btc today might be not be valued the same as it will be tomorrow. Inflation is only one out of many factors that determine what the value is.to quote your original comment: "...so 1btc does lose buying power until year 2140." is incorrect, it's supply will increase, but its buying power (value) has been going up consistently since it was created. in 2012 1btc was ~$5 currently it is ~$8700. I 'll bet you an upvote that this trend will continue. This is to the fact the the amount of demand (new adopters) will outpace the rate at witch it is mined(inflation). 
+2	1526247741	-2	So OP's graph is shit then. Got it.
+0	1526285412	0	 *This shows that it is possible to deliver payments in a way that has never been done before – by directly swapping cash from buyers to sellers, resulting in instant settlements. Thats why we need faster tps which can be provided by Credits platform for example.*
+0	1526246556	-2	This graph is ambiguous in soo many ways. Where is the data collected from? What currencies/countries are being considered here? Based on what kind of population? 
+1	1526247758	2	Quite simple my dear Watson:1. Google Trends.2. No mentions at all about currencies \- it's about keywords Consensus 15, 16, 17 and 18.3. General web search on all our nice globe.4. On a population that has a smart phone, a computer or a magic crystal ball that uses google search.
+2	1526248070	1	So this has very, very little to do with the conference of that name I take it?
+3	1526248472	1	How did you arrive at that conclusion?Anyway, the most efficient answer to that is: the spikes on the chart are correlated/linked/connected with the the event dates.But again, it's no magic graph, it's just a nice little chart.
+0	1526243305	-21	[deleted]
+1	1526245893	7	Please keep spreading this, just makes it cheaper to become a millionaire for those of us getting in. 
+2	1526245932	-6	[deleted]
+3	1526246011	6	Keep this up, its great!
+3	1526248559	3	it's gonna skyrocket, but one last hurrah of a crash for naysayers like you, will sufficiently bring it down for the believers to grab more, so keep up the good work and scare those who scare easy
+4	1526248607	-6	[deleted]
+5	1526249359	2	What's different between now and any time in the last 9 years? If you had said the same things you are saying now, 5 years ago, for example, you'd be looking very foolish now. So what makes today different?
+6	1526250151	-1	It's reached critical mass. The 3 lettered governments are involved and control some of it, MT. Gox selling off thousand of BTC at a time and waiting until the price increases to just under 10K, sells thousands more.. Point is, people and government can control the price. So they are. We'll never see $10K BTC again. It's over.
+7	1526254604	2	lol shut up, we'll never see 10k again. we'll see new ATHs in a year or less.
+7	1526250486	0	The amount Mt. Gox has is a pittance compared to daily volumes, so people who cite it as a major influence on the market are mistaken. Looks like you missed your chance before the consolidation started if you were looking to buy back in cheap. Next time throw some stuff in about the Illuminati or a rumor that Satoshi just got kidnapped by the yakuza and are torturing him for his keys, or something.
+8	1526252676	1	We’d be st 30k plus now if that were true
+5	1526248736	0	delusional=/u/MadBolts, there
+1	1526243704	6	Do you have any ''true facts'' \(as we say in Texas\) to share with us?
+2	1526245241	2	He doesn’t 
+2	1526266945	1	What are the units for “interest” . Number of searches? Some percentage of viewers?

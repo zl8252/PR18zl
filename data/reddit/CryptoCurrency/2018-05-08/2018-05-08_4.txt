@@ -1,0 +1,211 @@
+File created at: 1525804708
+Subreddit: CryptoCurrency
+Submission title: Current BCN pump is a sophisticated pump and dump.
+Submission created utc: 1525778052
+Submission score: 535
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525778818	176	so nothing new about BCN in the end. shady as fuck, like always.
+1	1525779132	98	The problem with this is that Binance allows this to happen. Not only by listing BCN, but also by keeping trading enabled while there's such a huge price discrepancy between different exchanges, while there's no ability to arbitrage it. I think they should lead by example and take a stance on this, as this is definitely hurting the trust of the average joe.
+2	1525783647	12	Is it possible other exchanges are disabling withdrawals to avoid high levels or arbitrage? Letting the price action level out while they look into the matter. Binance has always been very public about errors or mishaps. Interested to see what their response is. 
+3	1525804540	1	lol, really, why would I risk the reputation of my Bitcoin exchange by pausing withdraws to essentially assist a competitor.  Doesn't sound like a solid strategy unfortunately. 
+2	1525788609	8	Binance not only allows it but encourages it with contests like the current Nano one.  That clearly hasn't pumped like BCN but openly having contests to see who can trade the most volume of a coin is clear market manipulation.  These things hurt us all and ensure that rational people aren't going to enter cryptocurrency anytime soon
+3	1525796712	3	yea, those annoy me aswell all the time, in the beginning they used to give small portions to everyone, which was fair in square. i grabbed 20 wtcs and 500 tron back then, also a half hshare. but these bonuses for the whales are getting ridiculous..
+3	1525803616	1	They make their money from trading fees. How exactly is a volume contest pure manipulation? You didn't actually provide a reason. Volume has no direction in regards to price. 
+4	1525804167	1	people pumping millions of dollars into a coin in a short amount of time to win a contest doesn't effect price?
+2	1525780589	5	Yes. But I guess they are in for the money, not the ethics. 
+3	1525782686	4	whowouldhavethunked
+2	1525792596	2	clear throats, bnb is the best exchange. Spring the plots binance
+2	1525781531	16	Binance is probably in on it, they are notorious for insider trading and pump and dumps
+3	1525782036	21	Do you have some proof for this? I would like to read about it.
+4	1525793975	17	they do not. they're talking out of their ass because they don't understand how things work.
+5	1525802397	0	You have perhaps 30-50 legitimate projects that have applied to binance, and they list fucking BCN? A complete shitcoin? Yea, that's about all the evidence you need. 
+6	1525802454	6	no that is not evidence of anything, you're an idiot. pretty much every exchange has their share of shitcoins.
+7	1525803587	1	Not every exchange chooses shitcoins over solid projects simply for the listing fee.  Also the BCN team knowingly exploited a CryptoNote bug that they were informed of by Monero in order to spawn a massive number of new coins on their network.  This is open knowledge and yet Binance lists them and enables them to dump the scam coins onto ignorant users.
+4	1525782186	-20	I'm not sure if there are any articles about it but basically look at any coin in the time around a Binance listing it's fairly obvious.
+5	1525783915	10	Exactly -- Binance supposedly keeps it a secret as to which coin will get listed next. But magically every coin they list gets volume increases on other exchanges before the Binance listing. The clear conclusion is that Binance insiders are buying up the coin they know they are about to list.
+6	1525784264	10	not really, the price movement only started the exact minute the tweet went out https://media.discordapp.net/attachments/313277978610237441/443332535414423562/unknown.png?width=949&height=801 and https://media.discordapp.net/attachments/313277978610237441/443332551030079488/unknown.png
+7	1525788152	4	I'm talking about volume. Volume mysteriously picked up last Thursday on other exchanges. That would indicate someone or someones deciding to stockpile the coin for some reason. Then, five days later, lo and behold, a Binance listing.Yes, I'm positing a theory that Binance employees knew about the upcoming listing and used that insider info to go buy the coin first on other exchanges so that they could profit.
+8	1525790809	5	Nah BNB increased only exactly when they released their news about their whole DEX and blockchain thing. Many coins also didn't pick up until a binance listing was confirmed. There are some coins that have been anticipating a binance listing and people buy that rumor to sell the news. 
+7	1525786160	0	Is the light green line the volume?
+8	1525787646	3	No, there is no volume info in that chart, it is an Ichimoku cloud.
+3	1525781962	4	Well, if this continues to happen I don’t think they would stay as the number one exchange for so long. 
+4	1525782368	2	yeah... no.
+4	1525783034	2	Im glad i switched to airswap
+5	1525803707	2	I saved $300 by switching to Geicko.
+5	1525790314	1	Glad I switched to Kyber :)
+3	1525785699	7	This. There needs to be more visibility about the shady shit that goes on at Binance. CZ has a good rep, but he really must stop listing every little shitcoin. Bytecoin has a known shady reputation and listing such a coin on the worlds biggest exchange doesnt exactly paint a good picture for people watching this scene. Today invariably every PND starts on Binance and is coordinated among Okex, Huobi and Binance together..... 
+4	1525796431	3	But most, if not all of the shady shit is just people regurgitating rumors and opinion hear on social media. With the blockchain being public, someone could analyze the mess and get a sense of what's going on with Binance. So far I haven't seen that.
+3	1525782453	2	yes binance is greedy
+3	1525803448	1	Lol no they are not. They make their money from trading fees, not shady shit as you seem to think.Please give me 3 examples of binance doing shady shit? I would love to hear what kind of bullshit you regurgitate, that is if you even reply. 
+3	1525782765	0	ding ding ding. Seriously, anyone who thinks otherwise is a fool.  remember people we're in bear season, for an exchange it's the same. They need money.Pumps like this give them some extra liquid.  
+4	1525800084	1	You do realize exchanges still make money if the market goes down? They don't have liquidity problems.
+3	1525796525	-1	looking at you walton...
+2	1525781761	2	Binance opened a BCN wallet since some time now, it wasn’t that difficult to predict it would get listed 
+3	1525782930	1	how long is 'some time now'
+4	1525783889	3	I heard of it last week, maybe the wallet was even opened before 
+5	1525784418	2	Where did u see the wallet?
+6	1525784512	2	Saw the news about the wallet on twitter and even on Reddit I think 
+7	1525788597	1	I checked the twitter but couldn't find anything, also didn't see anything in their announcement tab. Can you send the link?
+8	1525791243	3	[link](https://twitter.com/crypto_ed_nl/status/992009982458646531?s=21) 
+2	1525794616	1	Solution should not be enforced by humans. This is the free market, and also the era of smart contracts, regulation should be done there and not from outside.
+2	1525804480	1	Binance HAS to let this happen.  Bitcoin trading alone?  Doesn't make sense.   Marketing alts and a complete ecosystem of trading makes the exchange a LOT more money.  Trust me, exchanges aren't here to support Bitcoin necessarily, they are here to make money, and encouraging ALT trading, and cryptocurrency diversity basically guarantees their revenue stream.       
+2	1525787043	0	We haven’t manipulated the price, we really never had anything to do with it. But it was possible for Binance users, and that’s the common situation for new coins which get a listing on Binance. We understand that some of you guys won't believe us but this mixed with such a high degree of traffic is the reason the wallet / the system is having issues right now.
+3	1525795378	3	It's ok you'll all end up in jail eventually or worse
+3	1525789040	0	Stop adding scammy coins would be a start, if you want people to believe you
+4	1525789396	7	You're replying to the Bytecoin team, not Binance
+5	1525789892	2	must have been the sun :D thx bro
+3	1525801058	-1	Wish you guys would stop with competitions that just make the rich richer. You’re continually giving extreme amounts of coins to those who least need it. Users in the US are taxed on every exchange so cannot really participate in your volume competitions either.. whole thing is ridiculous please think of some other fair method for promoting projects.
+4	1525803800	1	Dude they are a business not a god damn charity. Profits are what matter, nobody owes your broke ass anything lolContrary to popular belief, the US is not the center of the universe.
+2	1525783627	-8	It’s an unregulated market, are we really complaining about being able to make 600%+ on positions? Cmon. 
+3	1525800643	1	The casino is rigged. 
+4	1525804417	1	If you can still make a shitload of money playing in it then who gives a shit? 
+1	1525787509	11	Bytecoin is a huge scam, around 80% premine, iirc. The fact that it sits up there with legit projects is still incredibly puzzling.
+2	1525789566	7	This is the exact reason XMR forked away from it, cause of the premine and dodgy shenanigans. Also interesting to note that they support the ASIC's which Monero forked away from, I wonder if the ASIC's controlling 99% of the network had anything to do with this blockchain related issue p&d hmmmm...
+3	1525802557	0	Worth noting that XMR had had several chain attacks of late, the longest hostile chain being mined 21 blocks before being rejected. At two minute block times, it was enough for potential double spending.
+2	1525795554	-2	All ERC-20 tokens are also premined and some other big market cap coins like Ripple or Stellar. Does this means all these are scams ?
+3	1525796252	0	The icos you’re talking about don’t get mined, there is usually a known number of preowned tokens. Ripple is not really a crypto and is a marketing scam. Stellar is a fork of ripple, so wouldn’t put it in another category. However, none of these, not even ripple, is even close to 80% being owned by an entity. 
+1	1525790739	7	BYTECOINNECCCCCCCCCCCCCCCCCCCT
+1	1525800579	2	If you listen closely you can hear someone chanting "hey hey heyyy"
+1	1525798354	0	Why is BCN shady? I’ve never heard anything along those lines and their road map looks good to me. 
+2	1525802118	1	[maybe this?](https://bitcointalk.org/index.php?topic=740112.msg8361633#msg8361633) 
+3	1525803358	1	Sheesh. First I’ve heard of this post. Thanks! 
+0	1525778989	85	It is curious that Binance will list it under those circumstances, especially with a broken blockchain and [82% of the coin being pre-mined to the founders....](https://bitcointalk.org/index.php?topic=740112.0)EDIT: Added link for the premine allegation. The blockchain seems to be up and running again too: https://chainradar.comAt the time of posting the blocks were delayed by ~100 minutesAlso apparently had a [double spend bug exploited in the past](https://monero.stackexchange.com/questions/4241/how-does-the-recent-patched-key-image-exploit-work-in-practice/4252#4252)
+1	1525783779	28	Another proof CZ only cares about money although some blind folded people have him like a crypto god lolThe same guy that told on a conference that he refused millionaire offers to list coins yeah sure
+2	1525790573	1	>The same guy that told on a conference that he refused millionaire offers to list coins yeah sureWhy is that so unbelievable?
+3	1525804206	1	He had some talk earlier in Jan where he said he turned down a $2mil dollar offer to list a token because it didn't pass their labs internal score. Maybe Bytecoin did XDEDIT: [https://www.youtube.com/watch?v=l8XNRTfPgZI](https://www.youtube.com/watch?v=l8XNRTfPgZI) link to talk
+1	1525781647	3	Why is their blockchain broken?
+2	1525782188	1	source on the 82% .. wow same reason i'm out of ONT
+3	1525783194	6	a classic...https://bitcointalk.org/index.php?topic=740112.0
+3	1525784219	6	Sorry, but ONT being reserved for corporate use is the single purpose of this coin/blockchain.
+4	1525784883	5	Ok, but what is the point of "investing" in ONT then ? I dont get it 
+5	1525787408	11	Nobody asked anyone to "invest" in ONT. The entire supply in circulation has been airdropped to holders. The ONT team itself took nothing in return, neither ICO nor any other fund raiser. 
+6	1525787943	1	ok
+3	1525789115	4	here you go about their story https://bitcointalk.org/index.php?topic=740112.0
+3	1525783650	1	why did you out of ont? pls i'm a newb
+4	1525784021	4	Probably cause a few whales control like 90% of the supply
+5	1525785223	3	yes . And I dont think it should be that near of NEO marketcap
+3	1525797440	1	what happened with ONT ?
+3	1525786050	0	Except ONT is gonna go higher because the people who control the coins are large institutions  like Sequoia capital and not a bunch of shady devs. These institutions have no motive to sell the coins.  ONT was never going to be traded yet was listed only based on request from the NEO community members. It makes it look suspicious, but way different use case and motive behind the coins. 
+1	1525785822	5	^^ This needs to be stickiedBCN is the definition of a SCAM COIN 
+1	1525784223	2	You're curious why?  Really?  MONEY
+1	1525789807	0	70% of the total ETH supply was premined.
+2	1525790250	1	I thought eth has an uncapped supply?
+3	1525790698	1	It's uncapped right now, but 70M out of 99M ETH are premined. 
+4	1525802675	2	And sold during the ICO. There's a huge difference between a pre/fast mine that holds onto the tokens, or those that sell right away. 
+1	1525782295	-10	Yep, you sure know better than binance
+2	1525782755	5	I never claimed Binance was unaware of these issues.  Actually I was implying the opposite...
+3	1525783323	-1	Binance got the biggest transaction volume, so i suppose all other exchanges need to follow up with the price change?
+4	1525783353	5	I'm not catching your point
+4	1525790659	1	Yeah, that's what arbitrage means, except price can't move around exchanges if blockchain is stuck.. opening the opportunity to pump & dump very easily on binance, which is what OP is concerned about 
+2	1525783335	-1	Brainlet
+2	1525783448	-1	Brainlet
+0	1525783948	37	Hey hey heey 
+1	1525803145	3	#***BYTECONNEEEEEEEEECTTTT!!!!!!!***
+1	1525803830	1	Lol
+0	1525786238	42	People should realise this "Binance only lists quality coins" bullshit is a myth. They will list absolutely anyone who pays their at-times-absurd listing fees
+1	1525791025	36	They don't even have dogecoin
+2	1525793348	25	How can they even call themselves an exchange?
+3	1525802440	6	Well what's the point of exchanging Doge? It's always worth the same :-)
+1	1525791400	2	They are more exclusive than Kucoin though.
+2	1525791610	5	Kucoin is 32nd in volume, they can't afford to be exclusive. I don't know why it always makes it into these conversationsAsking 10m USD to list a project lends itself to automatic exclusivity, then scams pay it and reputable projects gain volume elsewhere to bring the fee down 
+1	1525793201	1	How’s it compare to Poloniex and Bittrex?
+2	1525794185	1	I'm not aware of Polo currently listing anything. Bittrex are high but not to the places Binance have taken it
+0	1525779918	29	Hitbtc withdrawals never work, for any coin. 
+1	1525780656	22	People don't like this opinion but even antanopoulos says it.. People NEED to get scammed AT LEAST once, maybe 3 times before they understand that they need to stop being retards.everyone knows hitbtc is a scam exchange.. lots of issues, all volume is fake; it exists for money laundering through BCH.No sympathy for anyone using hitbtc.
+2	1525790286	1	With IDEX I had to use it to pick up TAU. Got my coins the fuck out of there ASAP though. ~180 TAU withdrawal fee though! (Around $40-50 at the time) Highway robbery, I tells ya.
+1	1525783816	6	Hitbtc is owned by crooks. I'm going as far as saying that they're involved in this pump.
+1	1525803398	1	Worked for me yesterday when depositing and trading Bitcoin Private. 
+0	1525782442	11	Also the insane volume on Binance has to be fake, especially since nobody can deposit.
+1	1525802782	1	Binance wash trades like none other. It's staggering the number of times six digit fiat order values will magically intersect between the spread without touching the order book. 
+2	1525804013	1	I don't think it's fair to pull any conclusions from this. The webpage just can't keep up with the volume and realtime updates so it lags and makes it look like orders go through with neither side ever being in the order book.
+0	1525784521	11	Great investigative work op. Please continue to warn us of other pnd in the future. I guess at this stage it's quite obvious bcn is suspicious af tho
+0	1525792446	9	Binance is as greedy as any other exchange. Pay a hefty fee and they list any shitcoin you can think of. I remember reading a guide by binance how they list coins but I guess that's bullshit. Money always wins.
+1	1525796967	3	CZ´s talked about a reviewing team that nobody knows but him :D yea "byte" me
+1	1525792845	-3	you say too much. Binance is the best exchange.
+2	1525793553	3	I didn't say it wasn't the best exchange. It probably is, but means of making money never changes. Even if that means listing a shit/scamcoin for own profit.
+0	1525780507	34	This is irresponsible that Binance has allowed this blatant price manipulation to occur on their exchange. Poor form.
+1	1525787110	8	There's no price manipulation I can see. Cut off the supply of any coin to an exchange as it gets listed and it will start trading at artificially higher pricesOnce the wallets reopen - it quickly falls back to the "real" market price(I sent BCN hours ago to Binance and it still hasn't arrived - if it came in now I stand to make almost 10x)
+0	1525781896	25	my post comparing bytecoin with monero and other CN coins was immediately downvoted to oblivion. so [here](https://i.redd.it/yy11y5w8fmw01.jpg) is the chart. look at it and tell me what does BCN offers which justifies it adding a billion dollar to its MC in less than a day.  Crypto isn't going to be universally accepted if shit like this keeps on happening. everyone wants to ride the pump and dump on the last guy who will keep on holding his bags untill the next pump.
+1	1525797600	4	It's half the reason why bitcoin is soooo far ahead of alt coins.At least bitcoin is trustworthy
+0	1525782679	7	This pump just tells me how filled this industry is with retards stillWell at least alt season is here 
+0	1525782341	5	Also it looked like HitBTC and Crex were getting DDOS'd during this. Way too many things to be a coincidence.
+1	1525803052	1	Do you have a source for the DDoS info? 
+1	1525803057	1	Do you have a source for the DDoS info? 
+1	1525803080	1	Do you have a source for the DDoS info? 
+0	1525782878	5	I cannot even get to my bytecoin wallet anyway for the dump portion of things...it's conveniently under maintenance...
+0	1525785951	4	I saw the price increase this morning and I had no idea what was going on. I had a bit over 20k BCN on cryptonator for some reason (I bought that a long time ago). Needless to say I exchanged all of it for one LTC. A good trade if you ask me.The price will certainly go back to normal in a day or two so if you can it is better to cash in on this one.
+1	1525799496	1	Is cryptonator scam? I tried to google their name only after attempt of withdrawal. A lot of people claim that they are scam.
+0	1525780814	13	I dont know enough about bcns history but if this is true then binance is shady as fuck. 
+1	1525786281	10	It is all true. Bytecoin is a scam and was outed as early as **2014**  (probably even earlier if you hung out around the monero camp) It has no business being listed anywhere, let along going up 150%. For people who have been in this space for a while, its like waking up in Dec 2018 and finding Bitconnect listed on Binance. Yeah... 
+1	1525800937	2	>BCNNow that's a name I haven't heard in a long time.
+0	1525782924	7	Watching y'all realize exchanges are shady as fuck and unceremoniously ripping off all the retail investors is very entertaining. 
+1	1525797650	2	This is why we don't trust alt coins and we horde BTC in cold storage.
+0	1525779620	15	Does Binance actually carry out due diligence? No wonder they ran away to Malta xD
+1	1525789425	1	As if they really would be able to set a foot into the EU with stuff like this ... no way they could meet even weak regulatory tasks in europe
+0	1525779124	10	Binance will probably suspend the trading of BCN soon.
+1	1525780937	22	The fact that they put it on the exchnage in the first place is the problem I have. They deny quality projects but allow a shitcoin? What are they up to? I suspect inside trading. Was done to rob traders and line their own pockets imo
+2	1525783563	12	yeah Binance is full of shitcoins and scamcoins.as long as it brings them traffic and users and as long as they get paid, they will list anything
+1	1525781119	1	Too late for that if the coin already pumped 400% on their exchange. 
+1	1525788630	0	Very likely. Not a big fun of Crypto trading anymore. Mostly switched to Tokens.
+2	1525790478	1	As if that’s any better. 
+2	1525804030	1	That didn't make any sense 
+0	1525781735	6	Its not the single time this is happening on Binance, clearly something is not right with the exchange and their activities. Probably that’s where they are always running from regulators 
+1	1525789567	5	You think an exchange hits spot 1# after ONE year out of nowhere without there being suspicious activities on the exchange itself 
+0	1525782920	2	And the pumping started with this thread: https://np.reddit.com/r/ShittyLifeProTips/comments/7kttit/lpt_send_all_your_bitcoin_to/?st=JGXNCIKD&sh=c3984a86
+0	1525785545	2	I just want to say brilliant investigative work
+0	1525786635	2	I don’t see how this is really anyone’s fault but the bytecoin devs? The circulating supply on Binance was low which caused for easy price manipulation. Everyone on Twitter is calling out Binance on causing this pump, but it’s not their fault that other exchanges didn’t have withdrawals working nor that they had a small supply. Everyone knows that the moment a new coin gets listed on a high volume exchange it usually has a small pump then gets dumped once deposits start working consistently. Only this time, it was the withdrawal of other exchanges that stopped it from dumping. 
+0	1525788034	2	I got burnt with BCN fuck sake
+1	1525788678	1	Me too
+1	1525788687	1	Fuckin pissed!!
+0	1525788956	2	This is similar to what happened to B3 coin formerly known as KB3 a few months back.* There was a 1000% pump on an exchange where volume was tiny due to deposits and withdrawals being halted. It's assumed that the bulk of the volume was controlled by a few bad actors. * The coin was also listed on Coinexchange.io where price was significantly lower.* People tried to arbitrage it and bought on Coinexchange.io, pumping it 2x in a matter of minutes but finding themselves unable to sell on the other exchange. 
+0	1525789357	2	Good post, thanks for the write up. Never owned any BCN but was interested to know what went on
+0	1525796768	2	The listing price isn't a sophisticated pump and dump. It's mania making its way into the market again. People saw what happened with Loom... and most other coins that get listed to Binance. This is extremely common. Look at Loom. Look at Lisk. Look at Nano. People are simply wising up and reading the mania better. As a whole we are moving away from market principles and towards manic non\-fundamental purchases again.
+0	1525803139	2	something shady for sure
+0	1525778436	5	Congratulations on everyone who managed to profit from the pump, biggest pump of 2018 so far I  believe. 
+1	1525778788	4	You forgot that 1000% paccoin pump back in january mate
+2	1525780058	3	dont forget PickleRicks  https://www.cryptopia.co.nz/Exchange?market=RICKS_BTC
+3	1525791208	2	Hey mate i remembered to have some RICKS thanks to you! This 20 euros profit i Made isnt much (damn i bought them as a joke), but still!
+2	1525780977	2	You're right. I have never bought a low cap, high supply shitcoin, I forget about these all the time. 
+2	1525782843	1	what?
+2	1525779094	1	pac4life, millionaires were made that time
+1	1525796497	1	I wonder if someone lost money from this pump and dump.
+1	1525804133	1	Lol no. It doesn't count because the wallet wasn't working.Its like saying Bitcoin Cash's all-time high is $8000, because it reached that price on coinbase when deposits were closed...
+0	1525779064	4	Wow, Pnd groups are getting innovative /s
+0	1525790275	4	The only problem here is that people still think Binance is trustworthy.
+0	1525782094	3	So the price is up 20x on listing news? lol what a joke
+0	1525796260	3	binance just lost its reputation!actually CZ´s said 1000 times that ONLY binance team would know when a coin gets listed, tho all wallets closed! inside setup with a crappy coin!!!bye bye byenance
+0	1525786760	1	Binance got swamped with people trying to move BCN from Poloniex and wallets over to itThe wallets have even gone down on Poloniex nowWith deposits not reaching Binance, the supply limited amount naturally soared in price (like Smartcash did in January with the supply limited amounts)I don't see anything sophisticated about this, rather the exchange couldn't cope, and traders were trading BCN on the new exchange with no supply coming in - naturally pushing the price higher (with the price rising on Poloniex as people bought it to sell on Binance)Edit: BCN wallets closed on Poloniex now - no supply coming in, but I think there's already insanely high volume on that exchange. We'll see what happens to price there (unlikely to go anywhere near the far-lower supply, far higher price on Binance
+0	1525790454	1	Looks like it is much safer to invest in tokens now.
+1	1525790596	1	Did anyone hear anything about the wikitoken?
+0	1525791697	1	thanks shit like this i dont trade anymore i dont trust anything but ARK and ethereum and a few more
+0	1525792179	1	A functional big pump group or few number of whales? Breaking bad.
+1	1525792189	1	The blue whale is the largest animal to have ever lived on Earth; the largest on record was 100 ft. long.
+0	1525793667	1	Anyone know where the latest and fully bytecoin chain can be downloaded?
+0	1525796934	1	So binance lists that fraud crypto but still nothing for electrify Asia. Tweet the binance CEO #whenelectrifyasia
+0	1525799246	1	I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:- [/r/dcrtrader] [Current BCN pump is a sophisticated pump and dump.](https://www.reddit.com/r/Dcrtrader/comments/8hyci2/current_bcn_pump_is_a_sophisticated_pump_and_dump/)- [/r/qash] [Shady shit going on at Binance. This is why we need regulation.](https://www.reddit.com/r/QASH/comments/8hwf4s/shady_shit_going_on_at_binance_this_is_why_we/)&nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
+1	1525799248	1	If any brigades are found in the TotesMessenger x-post list above, report it to [the modmail](https://www.reddit.com/message/compose?to=%2Fr%2FCryptoCurrency).  Also please use our [vote tracking tool](https://www.reddit.com/r/CryptoCurrency/wiki/resources) to analyze the vote behavior on this post. If you find suspicious vote numbers in a short period of time, report it to [the modmail](https://www.reddit.com/message/compose?to=%2Fr%2FCryptoCurrency). Thank you in advance for your help.*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1525801113	1	That trade ogre ddos tho 
+0	1525801856	1	Binance has been always very shady.See the dust problem, if they didn't get rich as fuck they probably would never address this issue. They NEVER answered user complaints about this until a few weeks ago, probably thinking letting users convert it to BNB and have a clean image and happy customers would net them more profits short term than run away with users dust when the store closes down.
+1	1525804532	1	Umm...most exchanges run away with your dust. Not saying it’s right but this isn’t something unique to Binance. What is unique is the step they took to allow you to get some value out of it
+0	1525802684	1	Insider trading seems to be a relatively regular occurrence in regards to binance listings, these things happen all the time.
+0	1525804356	1	Obviously they are involved.  This isn't a new thing.  They have been trapping people with non liquid assets in exchanges since day 1.     Whack, but something people should research.  Never profit off the innocent, it's not a good style. 
+0	1525786595	1	Confirmed: Binance is a scam as well.
+0	1525789712	1	If we do not have an answer on this from Binance, I think it's time to leave this shady business, they should have stopped all the trading activity. Also, more that 300 mln $ in less than 24h volume, are you joking? Clear manipulation, good job Binance.
+1	1525791440	1	Same here man. I wont look at Binance same way as I did. I will do business with them only if absolutely necessary.
+0	1525794287	1	Time to take a stand and boycott Binance. CZ would be in jail if we had any regulations.  Greed is above morality with them and it's a matter of time before we all get screwed doing business with them.  Get out while you can
+0	1525794710	1	umm, they do this with every new listing and huge ones such as DGD and Nano. They obviously don't want arbitraging and other exchanges don't want their arbitraging from their listings as well. None of this is new news. 
+0	1525796348	1	Binance can suck a bag of dicks. They won't allow Elastos to be listed on their exchange unless they pay an extortion style listing fee, even though THEY WON THE COMMUNITY VOTE. And then they orchestrate pump and dumps like this. Real shady Binance. You should be better than this. 
+0	1525780369	0	Expect it to be suspended soon by Binance as something is going on with BCN.
+0	1525781362	0	i pitty the foooo aka bag holders
+1	1525784113	2	I almost went full fomo when it hit 400%. Decided not to. Should have as it went up even more but I would rather skip something like this than be a bag holder 
+0	1525784205	0	BCN was listed on Binance
+0	1525797018	0	$100 k guarantees 5 pumps a year.
+0	1525802967	0	what the heck happened
+0	1525783030	-7	It's this post that is shady, BCN blockchain is working fine.Question is, who is FUDing - Monerons?1524317 	2018-05-08 12:29:35 	11267 	4 	345335551763e7925cc0cb785105f4fe715f76a4d8d34ad019ea1fdd7104cb461524316 	2018-05-08 12:28:03 	60532 	11 	1d63450374998a79fea1914a1fb8fd331ea4dcef5419146890c9b1ca333d98ca1524315 	2018-05-08 12:23:46 	49903 	10 	edd678beace4434ae2dccd11773289e7129e6ec6d41e4573ec997ce2e052bc531524314 	2018-05-08 12:19:26 	471 	1 	0bb77ba1e32a0cc286e7cf0138f414ea2d563b479f45a1364242c256af0e86b7
+1	1525783137	1	Well it wasn't working for hours! I have pending deposit 3h.
+2	1525786128	0	Fair enough. It seems ok now though.
+0	1525783431	-1	27k btc volume and blockchain working but slow. The gap will minimise after more people can get theirs coin in for sell. Not sure why people spreading FUDs.
+0	1525789563	-1	Bitcoin manager from you tube had his clients in it maybe his TA sound. If I was watching it i could have spotted the exchange announment
+0	1525794890	-2	There is a new crypto and fiat all in one portfolio tracking. Check it out https://www.chartbulls.com
+0	1525789281	-2	Wow someone is pumping then dumping a coin? Thank you for this news that frankly could rock the cryptosphere.

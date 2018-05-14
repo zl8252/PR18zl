@@ -1,0 +1,42 @@
+File created at: 1525804717
+Subreddit: BitcoinMarkets
+Submission title: I built a small app to track my portfolio as easily as possible. I'm sharing it with you guys.
+Submission created utc: 1525727120
+Submission score: 32
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525728814	13	Not instant. You need to sign up
+1	1525729065	9	Agreed especially considering it requires a valid email address to confirm. Would must prefer the ability to make a random no-email username and password if I so wish. See no reason why signing up with an email or google account is required. 
+2	1525732503	3	I understand the point. The reason an email is required is to bind your data to it, instead of binding it to your device. This way everything in the app is instantly saved and synced across your devices.I will setup an email free version to demo the app before inviting the user to sign in.
+3	1525747001	6	So bind it to username??
+3	1525752819	5	As an option why not just give the user a UUID they can copy/paste for if they value their privacy?
+4	1525775639	2	That's a very good suggestion. I will add this option as soon as possible. Thanks :-)
+4	1525758097	1	this is much safer
+4	1525791278	1	This. 
+2	1525735051	1	This is why the portfolio app I’m building doesn’t require signups, security is obviously a huge concern when it comes to anything to do with personal finances, and moreso in crypto as there are scams abound. The way we do this is only storing authentication on-device, so once you delete the app you wipe your data. We are launching a closed alpha soon with an open beta coming: http://matrixportfolio.com
+3	1525742136	2	Do tou open sourced the authentification plugin? I would be interested
+4	1525751076	1	That’s definitely something we can look at! We are building it with React Native so we will have to see how we would open source that chunk of the code while keeping it in our deployment workflow, and whether it would make sense for us. The purpose here I assume is instilling confidence there’s no funny business happening which I totally understand. We’re still exploring the details of how to handle security holistically, but user security is a high priority obviously, so we are trying to figure out how to hash certain data to minimize vulnerability. Happy to share more as we finalize the app and we get closer to production ready code! If you’re signed up to the waitlist I’ll definitely be mentioning these things in a future update. 
+3	1525751793	1	So if you lose or break your phone or you reset it (which I had to do a few times already) the data is also gone..I would say it's more convenient to actually set up an email for this, doesn't have to be your main email. 
+4	1525751864	2	There are ways around it such as using iOS keychain to keep it in sync so when you reinstall the app the data can get securely restored, but those are things we will look at after our alpha/beta :)
+5	1525752115	1	I get your point, but you're still limiting yourself to 1 platform (iOS). I moved from iOS to Android recently and actually wish there would be a desktop (windows or chromebook) version where I could track my portfolio, and that syncs across platforms, so email is easiest?
+6	1525752505	2	Good point, this is something we’ll have to evaluate, it’s a matter of balancing security and convenience. I’ve seen stuff like this done with scanning a QR code, so we’ll definitely explore that. 
+7	1525753017	1	great! keep us updated, and stay away from using phone number (e.g. for 2FA) ;)
+1	1525796885	1	Look at https://coinloop.io
+0	1525787297	2	Another blockfolio app. Do we have any new ideas on this realm or just copycats?
+0	1525751332	1	/u/MatrixApp has the right idea. This linking of email to folio will never take of
+0	1525770365	1	Ahhh i lost all my bitcoins
+0	1525779041	1	wow is that nice?
+0	1525728581	1	!remindme 20 hours
+1	1525728585	1	I will be messaging you on [**2018-05-08 17:29:43 UTC**](http://www.wolframalpha.com/input/?i=2018-05-08 17:29:43 UTC To Local Time) to remind you of [**this link.**](https://www.reddit.com/r/BitcoinMarkets/comments/8hr03l/i_built_a_small_app_to_track_my_portfolio_as/)[**CLICK THIS LINK**](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[https://www.reddit.com/r/BitcoinMarkets/comments/8hr03l/i_built_a_small_app_to_track_my_portfolio_as/]%0A%0ARemindMe!  20 hours) to send a PM to also be reminded and to reduce spam.^(Parent commenter can ) [^(delete this message to hide from others.)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete Comment&message=Delete! dylvghp)_____|[^(FAQs)](http://np.reddit.com/r/RemindMeBot/comments/24duzp/remindmebot_info/)|[^(Custom)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[LINK INSIDE SQUARE BRACKETS else default to FAQs]%0A%0ANOTE: Don't forget to add the time options after the command.%0A%0ARemindMe!)|[^(Your Reminders)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=List Of Reminders&message=MyReminders!)|[^(Feedback)](http://np.reddit.com/message/compose/?to=RemindMeBotWrangler&subject=Feedback)|[^(Code)](https://github.com/SIlver--/remindmebot-reddit)|[^(Browser Extensions)](https://np.reddit.com/r/RemindMeBot/comments/4kldad/remindmebot_extensions/)|-|-|-|-|-|-|
+0	1525735612	1	I dig it. Nice and simple. Thanks.
+0	1525752716	0	I like Delta app, even better than Blockfolio.  It got Ravencoin listed a lot faster 
+0	1525733245	-13	That's dangerous and here is why:#Anytime you have to give an email address (user name) and a password, just to use this 'app' ...... there will be someone stupid enough to re-use email & password. Fish in a barrel.**It would be wise for all crypto-related subreddits to enact a rule banning posts like these, that expose people to risk**
+1	1525733897	13	I have no idea what you are referring to. My app doesn't require any password, try it you will see. Your data's safety within coins.rodeo are as safe as google can be, as it uses firebase authentication, which is owned by google.Please be kind enough and try the app or contact me about your concerns before writing such an aggressive statement publicly.
+2	1525752833	1	The goal of crypto is decentralization, as well as many cryptos are privacy-driven as well.  You have a database of all users, email addresses, and what coins they’ve added as “holding” — too much data 
+2	1525738543	-4	Take a look: https://imgur.com/a/WZoPtfH>Please be kind enough and try the app or contact me about your concerns before writing such an aggressive statement publicly.Warning people against clicking links, downloading apps or giving out emails, etc **is good practice** and should be a sidebar rule.Even if you are 100% honest, the principle behind this type of security risk is real.Sorry you took that as an attack on you, it is not. Be safe with crypto.
+3	1525741441	4	You clearly have no idea how OAUTH works.....
+4	1525756626	0	like I said: even if this guy is legit trustworthy, doesnt make this a good practice. giving out email addresses to a new reddit account sounds safe? 
+5	1525757443	0	> giving out email addresses to a new reddit account sounds safe?Yes, collecting emails is how entrepreneurs and start-ups size their potential user base as well as grow their businesses.How else would ***you*** do it?? Have you ever tried starting a business?
+6	1525758594	1	>How else would you do it?? Unique User Identification Number>Have you ever tried starting a business?yes. this is not an argument about starting a business. collection of emails by anyone, let alone a relatively new reddit account, is unsafe. you already know why.plus if you checked user history, you would see OP's bright idea to sell preloaded qr code wallets .. of BCH
+1	1525754988	1	Yeah, I leap out in front of a car and broke every bone in my body. Incredibly the driver wouldn't even admit he was responsible for *exposing me to risk*!
+2	1525756384	1	exactly! but in this case jumping out in front of a driver with less then 1 year ~~reddit account~~ driving experience.  

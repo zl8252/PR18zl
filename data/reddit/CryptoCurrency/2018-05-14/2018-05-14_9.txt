@@ -1,0 +1,57 @@
+File created at: 1526319337
+Subreddit: CryptoCurrency
+Submission title: PayFair dumps plans to list token on scam exchange HitBTC
+Submission created utc: 1526243626
+Submission score: 108
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526246048	44	This is why I love the Payfair team. Long term vision, not short-term pump and dumps.
+1	1526267767	4	Also, getting a trust node (10,000 PFR) is still only about 1.5 ETH. If this thing takes off the passive income from this will be well worthwhile!
+2	1526295043	3	Absolutely loved how easy it was to set up.  Have been looking into the whole masternode thing for quite some time, but as my technical skills are, let's say limited at most, i haven't risked it so far. 
+3	1526296209	1	Welcome fellow trustnodian! Make sure you help spread the word by getting friends and family to use Payfair when buying crypto. I’m looking forward to when they introduce more coin options 😀
+4	1526299840	2	What does a payfair trust node do?
+5	1526311354	1	It's not really a node. You setup an eth wallet with 10k pAyfair tokens, then sign a message with your pAyfair username from that address.The point of a trust node is just to hodl, which has the effect of limiting supply, which can hopefully reduce some of the price volatility. 
+2	1526289668	2	That's a reason I got into this; a small bet on this panning out as planned with some nice ROI in the future.
+3	1526290908	2	Agree completely. I have missed out on masternode type incentives with other projects as by the time I’ve found them they are way to expensive. Not this time though, hopefully it turns out to be a good decision!!
+2	1526296441	2	oh wow coordinated shilling by a discord in full effect.
+3	1526297832	2	i think this is just how neckbeards talk to each other.. Having a full life of no one loving you makes you talk weird online
+2	1526273617	3	I'm going to set mine up this week. Love the project and I think it's highly undervalued
+0	1526243998	32	Go for Coss or Kucoin. Well done for dumping Hitbtc👍
+1	1526246258	20	Kucoin yes, Coss has 0 volume on anything other than COSS and they still have bugs since their original launch..it’s constant beta and I don’t see that changing. Kucoin may have some complaints but overal is positive, so I’m all for that.
+2	1526247100	23	Agree that COSS isnt Binance, however"Coss has 0 volume on anything other than COSS"https://coinmarketcap.com/exchanges/coss/Also COSS ICO was less than a year ago. "still have bugs 2 years into the launch' is just false statement... 
+3	1526319276	1	Coss is dead. Soon to be mandatory KYC hahahha.
+3	1526250218	0	Edited for accuracy, I’ll just say constant beta.
+4	1526251518	16	Fair enough. Imo COSS gets shit on by a lot of people  because they expect it to be like Binance or Bittrex, but that isnt COSS yet. COSS has just $1.2m raised during the ICO and its more a community driven exchange. Most of the coins on COSS are local projects/teams from Singapore and the listing fees are very low for a project to list. Rougly $5k. Kucoin on the other hand has a listing fee of 100k, Binance has a fee of 1m, etc... Most exchanges have turned the market into a commercial/mercenary game, when crypto was meant to make financial inclusion easy. COSS tries to make this happen for small projects. For example one of the coins on COSS is hello gold which lets you buy real gold and trade gold on its platform with crypto with rewards (although limited to Malaysia). It isnt gonna "moon" anytime but a good venture and a genuine use case for crypto 
+4	1526260361	2	Accept it's not and everything works perfectly. 
+3	1526274919	-4	96th in volume? That's basically zero.
+2	1526246478	3	You are right, Kucoin would be better option. Can try Huobi and Okex too. Had no issues with them so far.
+0	1526257355	8	Bankera is listing Bankers \(BNK\) on HitBTC.Investors have cried, begged and offered blood sacrifice to Bankera but they obviously don't give a rat's ass.How easily Payfair moved on makes me hate Bankera more.
+0	1526244084	14	What a good news. Still don't believe people are still trading on HitBTC.
+1	1526244260	8	Well it is still highly advertised and sucks in newbies every day. HitBTC is almost very closely affiliated with the Chinese miners scammers group, going by the fact this exchange added scams like Monero Classic, MoveroV and other coins which are nothing but scams and cash grabs by asic mining overlords 
+2	1526250510	4	I didn't realize how fucked up their withdrawal fees are until it was too late, unfortunately. I thought others were bad, but on HitBTC I lost 10%+
+3	1526260153	3	I almost made the mistake of depositing BTC once, until I saw I was being charged .0006 just to deposit. 
+4	1526283072	4	Wait what they have deposit fees too?!!?!
+5	1526293108	1	Not on everything, but BTC, yes. So either you waste time and money trading for BTC so that you can trade, or you pay the deposit fee. Either way, it’s a crap exchange. 
+2	1526278067	-6	> added scams like Monero Classic? this is literally the longest monero chain
+3	1526280695	2	What? 
+4	1526283901	-5	It has bigger hashrate and longer chain than monero which forked of it, what's there you cannot understand?
+0	1526243924	11	This is a good move. I would like to see more projects be more skeptical of listing on exchanges with bad reputations. 
+0	1526258287	5	Good to hear they listen to the community. Can’t wait to use Payfair once I need to buy more crypto 
+0	1526253489	4	Great god dam move by them. Shows these guys aren't greedy as fk. 
+0	1526263882	4	Wow, that's very encouraging and has boosted my faith in Payfair. Definitely will watch closely its progress.
+0	1526262387	3	WOW finally a smart community speaks out against listing there. I've been saying for ages that Hitbtc is a pile of junk. If you ever want too feel sad for people just visit their subreddit. 
+0	1526256351	4	These guys are inexperienced and there are more than enough reasons to not have confidence in the project.With that being said, they delivered a working product and seem to constantly take community feedback. Kudos to them. Hopefully they can continue to deliver.Edit: Also, didn't localbtc just switch to mandatory kyc? this should be huge for any budding escrow services
+1	1526262667	3	Yes localbitcoin did force kyc. Payfair has a huge opportunity to steal a lot ALOT of customers. They will be added BTC soon also. They already have many erc20 coins and will be adding more. 
+2	1526262831	5	Yeah, looking forward to what the future holds for them. If they can make a clean UI and add the important coins like XMR and BTC (in time), I think they might have a bright future
+0	1526281080	2	Believe in this project. Will give good gains long term. 
+0	1526261900	4	Bullshit. They don't list because HitBTC charge over 90 plus BTC to be listed. I'd say 80% of the coins listed on IDEX is owned by the same group, so they're no better than HitBTC. Also,payfair.io uses an invalid security certificate. The certificate is not trusted because the issuer certificate is unknown.Well done developers.
+1	1526278760	5	Are you saying that HitBTC has none of the issues that they have many complaints about?  Such as insanely high withdrawal fees, issues with users withdrawing/depositing, etc.And maybe you should check the TLS certificate on https://payfair.io again.  Its valid, issued from a valid 3rd party CA.  The CA in their certificate is COMODO so I have no clue why you are claiming the issuer is unknown.I'm far from a shill and will acknowledge the platform is in a very early release state with many things the developers need to work on but you're spreading purely false information.
+2	1526280861	-5	@Tits: It's common thing they do on Reddit when they got someone telling the truth in their thread. Usually telling the truth in crypto subs isn't a good idea if u care about your karma, I had a good laugh though from 150 to 30 something in 3 hours, must've been Indian monkeys they've hired.@Cuzzo, I have done zero research about HitBTC, I know some people who tried to list on HitBTC but the fee is kind of stupid. I mean not even Bloomberg or Reuters that they shill their ICOs on cost that much. Three people checked the TLS it's not valid, unknown issuer, they haven't authenticated or configured the SSL properly. I'm not spreading false information, I am telling u what I experienced there is no other reason they would deny HitBTC that has been proven in this post.
+3	1526289372	2	Yeah, in that case you should start doing some research on Hitbtc, buddy.    This is in no way about the listing process of Hitbtc, but rather the fact that they are shady as fuck and should not be trusted by anyone, you should know this much.
+1	1526278061	1	Way to go PayFair community. Rather than discussing what he says you just downvote him.
+2	1526293625	1	you are an empty vessel if you think someone who says hitbtc charges 90 fucking BTC to list a coin deserves any reply...have you seen the kind of coins on hitbtc? lmao
+0	1526281584	1	I'd be careful trading on HitBTC for the moment a lot of red flags.
+0	1526289588	1	For half a sec my mind read 'PayFair dumps tokens on HitBTC' and I got pretty scared & disappointed :D
+0	1526291746	1	Good news, but when to expect a listing elsewhere? 
+0	1526273383	0	Way to go spinning bad news into good news.
+0	1526294444	-2	So what?

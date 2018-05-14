@@ -1,0 +1,65 @@
+File created at: 1525898414
+Subreddit: btc
+Submission title: BCH could really be missing the new big use case. Gamers would love to have real ownership of game items. The first game which will integrate a digital coin and make it popular will be groundbreaking.
+Submission created utc: 1525867541
+Submission score: 109
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525869878	24	Enjin is trying this.
+1	1525873144	5	I was gonna say that I thought there was a coin (this one) that was actually focused on exactly that use. 
+2	1525877572	2	I wouldn't buy enjincoin though. They seem like a serious company, but i dont like the token value proposition
+3	1525890986	1	Serious company, with a popular use case, and first to market advantage - what don't you like?
+4	1525891145	0	Lack of price stability for the token, so not really useful
+5	1525891481	1	The price is more stable than most cryptos, including BTC... 
+0	1525873133	12	Back in the early to mid 2000s there was a Star Wars MMORPG called Star Wars Galaxies.  This game was unique in that it had over 30 professions, which included crafting professions, and a completely player-driven economy.  Instead of buying weapons and armor from NPCs or looting it in dungeons,  you had to buy it from a player who had trained in the applicable crafting profession.  I thought it would be so cool to have this same system but with crypto.  I also had the idea of in-game tournaments with real money pots that are funded by micro transactions of all players participating, all run completely within the game.  I think it would be a great way to encourage competitive play without the "I'll probably lose my money so why bother?" mentality in that one would be able to contribute something as little as 5 cents to a tournament with a $1-$2 prize.
+1	1525879006	2	There are regulatory hurdles to doing that (in the US) because regulators would view it as a form of gambling, and possibly the company as a money transmitter, etc.So, do it outside the US.
+2	1525880414	4	Yeah, or build the game on the blockchain. :) 
+2	1525893748	3	> So, do it outside the US.Ironic that the country that's supposed to stand for freedom of its citizens is the one where you can't do this...
+1	1525897656	2	SWG veteran here!! Loved that game, made extra accounts to have all 4 crafters. Deff need a huge mmo like that.
+1	1525883609	1	In the mid to end 90s we had Ultima Online ;\)
+2	1525883807	1	Was that also a player-driven economy?  I'm familiar with the name but I know nothing about it. 
+3	1525884285	1	Yes, it was. The players had to do everything themselves. From hunting and growing food to survive, to gathering ressources crafting what ever is needed or even tame animals.
+0	1525873919	10	That was Second Life, in 2006, with their "Linden Dollars" (L$).  They were exchangeable with US dollars, content creators owned their assets, and it created an explosion of creativity and a virtual real estate market. Second Life is still around, by the way.The only downside is it was centralized by Linden Lab, the company that owns Second Life.  They didn't allow you to use L$ to buy things outside their virtual world.  When I first heard of bitcoin in 2011, which could be used to buy anything, it was obvious to me, based on my Second Life experience, it was going to be big.  So I cashed out some of my L$ and used them to buy BTC.  That worked out very well, since I held them until a few months ago when the price got so high.
+1	1525888244	3	Remember the Linden Dollar<->Bitcoin exchange?
+2	1525889222	3	Virwox! 
+3	1525897705	1	yes!!! my first way ofbgetting btc heh
+2	1525891646	2	Remember? it is still there.. lol  (Virwox)
+2	1525890929	1	There were several.  I used Virwox, until Linden Lab banned it.  Then I cashed out and went to outside exchanges to buy my BTC.
+0	1525869224	8	There is this already, it just doesn't use crypto.  Look at the steam market.  CS:go skins and others.  Actually gaming companies are putting an end to these types of transactions through making the items not trade able and such.
+1	1525870251	7	A company whome embraces it and actually allows true ownership that they cannot refute or take away will be GAME BREAKING. I have been a gamer for 15+ years and I know that this is a feature i YEARNNNN for
+2	1525876154	3	Not sure if full ownership could be applied, you’d essentially be paying for an item on their servers and stuff they ha e the rights too but gaming is big and 1st Blood is doing it right. 
+3	1525878839	3	I agree. This is something that at first seems like a nice idea but actually doesn't make a lot of sense.
+4	1525891192	1	It makes sense to me.  *Ownership* of the digital good is what we're tracking here, not the digital good itself.  The actual in game item is obviously dependent upon the game, but the ownership is not.  Steam has a pretty cool platform for trading items, but you can't trade with people on Origin or Xbox or Playstation.  A block chain solution could open up that possibility without requiring any cooperation from those entities.  If we own the same game, and I own an in game item, I could trade it to you on the blockchain, outside the purview of any third party.
+4	1525897885	1	works on eth just fine. ethergoo , cryptokitties, etherdungeons, etheremon, some dragon game, whole mess of other crap games atm.parsec frontiers will be the first real mmo to come out. made by devs who made battlestar galatica onlinebch needs smart contracts
+2	1525891764	1	Except that doing this exposes the company to a ton of legal issues like underage gambling and money laundering
+0	1525881183	6	Really wish steam would start accepting BCH. 
+0	1525872157	4	Fortnite uses v bucks lol
+0	1525873333	4	Cryptokitties is basically this, only it's barely a game and super simple, so it's the beginning.  
+0	1525879366	3	Hey, I just posted about this on another sub.Check it out here [/r/CryptoCurrency/the\_truth\_about\_wax\_and\_digital\_assets/](https://www.reddit.com/r/CryptoCurrency/comments/8i62rd/the_truth_about_wax_and_digital_assets/)
+0	1525884801	5	I can tell you what the big obstacle is. It's not token management, or issuance complications, or distrust in smart contracts.It's licensing.Game platforms are *incredibly* strict about transactions. XBox Live, for example, requires that any in-game transactions be conducted via their Game Store. Unity has a crystal-clear "no gambling" clause in its license agreement. Google Play apps are not allowed to accept payment via any method other than the Play Store; same with iTunes.Integrating blockchain technology in any form potentially runs afoul of these licensing restrictions for game developers. There was a company called Mego (I think they're still around) that was trying to make a Minecraft server that used a real-money economy denominated and recorded entirely in Bitcoin. Mojang brought that to a halt, and they pivoted to a pay-for-vanity model like other complying servers.Even a non-monetary blockchain token integrated into a game could bring legal problems. Just *enabling* this type of trade opens a very difficult can of worms for game producers.
+1	1525887462	1	That's a great point, but surly some other games will do things better using blockchain properties.100 bits u/tippr
+2	1525887483	1	u/chernobyl169, you've received `0.0001 BCH ($0.167237 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1525877107	3	 csc-game.com is doing this, though with erc-20...
+1	1525880056	2	yeah and that´s the problem. ERC-20 will literally be too slow for the huge amount of transactions. Don´t forget - WAX is also OPskins which is the worlds biggest game asset exchange! WAX is already usable to buy skins etc.EOS can handle by far more transactions than ETH. And while WAX will be an EOS variant it is predestined for this use case.
+2	1525897961	1	Not when Plasma is out. Infinite sidechain scaling
+0	1525878361	3	Isnt this the concept behind WAX and OpSkins? You can trade many game items and the blockchain should be based on the EOS chain. Also WAX is not limited to gaming items. But I agree, that it has big use cases
+0	1525882608	3	This has been done:[Dragon's Tale, a Bitcoin MMORPG](http://www.dragons.tl/) https://bitcointalk.org/index.php?topic=1392.0Edit: oops, [Elora  is the one funded by Mircea Popescu](http://trilema.com/2015/ok-so-what-is-eulora-disrupting/)-- Unfortunately, it probably only works with 1MB (not even segwit) "The Real Bitcoin".
+1	1525895850	1	I played the shit out of Dragon's Tale. It was just gambling dressed up in a shitty mmo, but I remember walking around shaking bushes to see if I would find another 250 bitcoin haul. The old days
+0	1525885711	2	Enjin and minecraft, no? 
+0	1525887301	2	The very first Game ICO in 2015 did this!  It's called Spells of Genesis, go download it from your app store and start playing.  It's an awesome, addicting game.  The blockchain assets are somewhat hidden until you reach higher levels of the game, and you need a separate app to trade them with other people or on the market.  The trading currency is BitCrystals, which are worth .37c now on coinmarketcap.
+0	1525869996	1	I think you are right.
+0	1525870316	1	Seems like its more profitable to just sell items through through normal shop.
+1	1525872003	1	But people can't save individual items and trade them.
+2	1525884674	2	They can and do on the biggest gaming platform there is?
+0	1525871386	1	Yeah, then the IRS will want you to report the capital gains of your new crypto "assets" every year...gotta pay them illegal taxes.
+1	1525872180	1	But most of the items didn't cost money.
+2	1525897212	1	I think you still have to pay taxes when sold for profit. It’s the same as a fork and receiving “free” coins or tokens.
+0	1525872943	1	GameCredits ?
+0	1525881216	1	Orpg like Diablo 2. I am playing that game!
+0	1525886252	1	Um, how exactly would you make this work being that you don't control the servers? Game publishers are more than happy to just sell you DLC and stuff with each new game.Also, it's not like stuff carried over to other games. It's applicable to only one game.
+0	1525887229	1	diablo 2
+0	1525892496	1	think biggertoken = currency ingame+token = item
+0	1525896366	1	Extend this to movies, cross platform drm renting
+0	1525879628	1	Well, as far as I am familiar the issue which you are describing will be resolved by WAX and it´s chain which will be based on EOS. But next to game items WAX also can be used to even trade real world items.You should have a look into it.
+0	1525880407	1	Enjin is already going after this niche and I think they are in the lead by a long shot 
+1	1525880417	2	Redditor /u/cryptodirky has low karma in this subreddit.

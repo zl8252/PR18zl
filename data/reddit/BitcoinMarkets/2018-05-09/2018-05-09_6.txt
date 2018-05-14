@@ -1,0 +1,8 @@
+File created at: 1525898463
+Subreddit: BitcoinMarkets
+Submission title: Post Mortem of a losing trade. Results oriented thinking or a good decision?
+Submission created utc: 1525888547
+Submission score: 1
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525892809	1	I instantly spot multiple issues* Focusing on orderbooks* No mention of chart indicators, support/resistance/pivot points, etc* No proper risk management strategy (you're average was $9161 and you felt compelled to sell at $9059 because you were losing too much) * Misuse of margin * Not setting stops , but rather selling based on feelings, like tiredness or potential BRD's.Use charts to find support/resistance.  Buy in based on that, and set stops based on that.  I'll recommend setting stops like you bought in, incrementally (not all at once).  Also, you set your max position size (including max margin use) based on the $ loss you're willing to absorb.  If a 10% loss to yoru stack is acceptable, then set your margin and stop losses accordingly.  Also, ignore orderbooks.  GDAX is extremely liquid and will constantly show 100 - 300 btc buy walls then fold them away instantly.  You're better off not even looking at it.

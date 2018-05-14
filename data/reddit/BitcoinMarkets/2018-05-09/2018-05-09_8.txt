@@ -1,0 +1,8 @@
+File created at: 1525898466
+Subreddit: BitcoinMarkets
+Submission title: How We Grew Our Crypto Fund To $1,000,000 In 1 Month Flat
+Submission created utc: 1525889582
+Submission score: 0
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525890550	2	Do you know why your backtests at https://www.shrimpy.io/backtest don't seem to back up the 1 hr rebalance recommendation data at https://medium.com/@ShrimpyApp/rebalance-vs-hodl-a-technical-analysis-6f341b0db9cd?  They seemed to a few days ago when I tried it but when I do backtests today it seems like no matter what I do rebalancing at around two weeks seems optimal.Love your site and the analysis you have been doing though.

@@ -1,0 +1,50 @@
+File created at: 1525898451
+Subreddit: CryptoCurrency
+Submission title: Why the future of Ethereum is looking bright
+Submission created utc: 1525857863
+Submission score: 200
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525857943	35	I am here waiting for the new king :) 
+1	1525887944	5	One of the great things about Ethereum is that the Ethereum Classic community aren't constantly attacking Ethereum and trying to destroy it.  Which is kind of crazy when you think about it because what Ethereum did in the fork could have created a much more toxic atmosphere.  It just goes to show that the BCH split was all about money and not about idealism and vision.
+0	1525859404	12	I wish I have a lot of money there
+1	1525889130	4	Buy as much as possible before the price go up ;)
+1	1525863648	0	do you yeah?
+0	1525889835	4	Still undervalued !
+0	1525868447	13	i am new to the cryto world but isnt the scalability and the transactions fees still a huge problem when talking about Ethereum? 
+1	1525872219	28	There are several scaling solutions on the way, that wont sacrifice decentralization in order to scale. These include plasma, raiden, sharding casper. When other chains boast no transaction fees or more transactions per second, its at the expense of centralization in one way or another.
+2	1525877147	11	It's also largely non-battle tested. Something like Nano, is extremely exciting sure, but can they get there, that's the question. What does security look like, sync issues, etc.
+2	1525893871	1	Can you tell me what each of those will accomplish in 140 characters or less?
+3	1525896006	2	Sharding: run multiple instances of the blockchain in parallel, each “shard” will have the the transaction capacity of the current chain. Vitalik has dropped the initial version of the protocol to be reviewed and current implementation is 100 shards. This brings eth to 1000+ transactions a second, or visa level. Plasma: child chains. A blockchain within a blockchain. Top layer being most secure and defaulted to if there is any controversy.Both work together and exponentially raises transaction speeds. Without sacrificing decentralization. DPOS like EOS can be built on ethereum using loom. Loom founder recently said its easy and entirely possible to build EOS w loom on ethereum and the advantage of this is actually more secure than EOS currently stands bc you have a secure decentralized chain for disputes. 
+2	1525884185	-2	They may have decentralization but they'll never have distribution
+1	1525885154	7	Not just Ethereum, but all protocols for now. The reason it’s “more” of a problem for Ethereum is because of its popularity. And anything else that claims it has scaling solved either sacrifices decentralization or security or both. And at that point you’ve just created a database. Congratulations. Edit: you’re -> you’ve
+0	1525889328	3	$1500 for Ethereal tickets in NYC, with Deepak Chopra leading a "guided meditation". Really?? GTFO. 
+1	1525892070	2	\*$1200
+0	1525879337	8	[deleted]
+1	1525881298	3	No it hasn't. It has done more $ in transactions in a single day, but it has NEVER had a higher market cap. Yet...edit: Since they deleted their comments, OP had just stated that Ethereum's market cap had, at one point, briefly surpassed Bitcoin's. Just to clear up any confusion about my comment.
+2	1525881424	-3	[deleted]
+3	1525881844	2	I don't see anything like that mentioned in there at all. The closest comparison being "Although Bitcoin still has a substantial market cap lead over its closest “rival” in the form of Ethereum, the gap has been closing rapidly."The first comparison puts Bitcoin's $40bn market cap to ethereum's $20bn.
+1	1525880370	5	I think you're right, especially after PoS kicks off. People with big-time crypto money (who have big money period, most likely), will prefer the coin that has the name behind it *and* earns "interest". Much like choosing between two blue-chip stocks, you'd probably take the dividend stock if you're buying to hold long term.
+1	1525881093	4	Ethereum didnt surpass bitcoins market cap. No one ever did that. But it will, sooner or later.
+1	1525881355	1	No, that never happened
+0	1525897765	1	Number can change in 1 day.
+0	1525857864	1	**Ethereum (ETH) Basic Info:** [Website](https://ethereum.org/) - r/Ethereum - [Abstract](https://www.reddit.com/r/CryptoWikis/wiki/Ethereum_basicinfo#wiki_short_description) - [History](https://www.reddit.com/r/CryptoWikis/wiki/Ethereum_basicinfo#wiki_history) - [Exchanges](https://www.reddit.com/r/CryptoWikis/wiki/Ethereum_basicinfo#wiki_exchanges) - [Wallets](https://www.reddit.com/r/CryptoWikis/wiki/Ethereum_basicinfo#wiki_wallets)  **Biases:** [Arguments For](https://www.reddit.com/r/CryptoWikis/wiki/Ethereum_pros) & [Arguments Against](https://www.reddit.com/r/CryptoWikis/wiki/Ethereum_cons) | **CryptoWikis:** [Policy](https://www.reddit.com/r/CryptoCurrency/wiki/policy#wiki_cryptowikis_program_-_.28work_in_progress.29) - [Contribute Content](https://www.reddit.com/r/CryptoWikis/wiki/contributing)---        *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1525867722	-7	>whilst Bitcoin is left facing a number of different problems to overcome in order to stay at the top, the future of Ethereum is looking very bright indeed.What is the purpose of sharding, POS, raiden ?* Ethereum Blockchain size: 530 GB* Bitcoin Blockchain size: 185GB* Ethereum: 3 Years worth of transaction* Bitcoin: 9 Years worth of transactionsIt seems one has a bigger problem than the other.>Currently, the Bitcoin blockchain network is dealing with approximately 230,000 transactions, which are charging a total fee of 37 Bitcoin, equating to $340,000. However, when you look at Ethereum, it really stands out, reaching 800,000 transactions with a fee of 515 ETH, equating to $375,000. A clear lead over Bitcoin.1. How are they calculating lightning network transactions ?2. Every Bitcoin transaction can be multiple transactions. A Bitcoin transaction that is only one input and output is very rare. If you say "those don't count" then neither do crypto kitties.
+1	1525876276	13	You only need to store the entire Ethereum blockchain state history if you're running an archival node. Full nodes do not need to use all that space.
+2	1525877680	1	[deleted]
+2	1525878988	0	Yes, I'm aware and I'm also not sure how it's relevant. Bitcoin implementations are compatible with various different configurations also. Pruning trees predate blockchain.  I'm not trying to start an argument or debate, I only want to address the FUD article. The "unlike Bitcoin" articles are just lazy.
+3	1525879137	7	Because you brought up the storage space requirements for types of nodes that most people don't need to run as a big problem.
+4	1525881587	-1	It is a problem,if say... you didn't want the majority of archival nodes to be run by one alliance. Given that they also require solid state drives due to the disk I/O since you’re executing every smart contract ever performed in the history of Ethereum and updating the state on disk isn't great either.
+5	1525881824	5	I think we'd need to see more than an order of magnitude increase in size if we're talking about it being prohibitive for independent entities to run archival nodes. Plus, it's not really a security issue even if that were the case, to my knowledge. 
+1	1525881620	4	Every Ethereum transaction can do literally anything up to the block gas limit so the whole "Bitcoin transactions can have multiple outputs" argument means nothing. Every ETH transaction could also have multiple outputs, or have zero outputs, or perform any number of complex tasks in the background.Asking how they calculate lightning transactions is the equivalent of asking how do they calculate all of the token value transfers and smart contract execution of ETH/Tokens when ETH sent is 0?
+2	1525886188	-2	> Every Ethereum transaction can do literally anything up to the block gas limit so the whole "Bitcoin transactions can have multiple outputs" argument means nothing. Every ETH transaction could also have multiple outputs, or have zero outputs, or perform any number of complex tasks in the backgroundEthereum is account based. You can't have multiple outputs as UTXO does. The account based nature of it is actually part of why it's so bloated. I'm aware it can perform tasks under the hood, we are talking about transaction count though as specified in the article.> Asking how they calculate lightning transactions is the equivalent of asking how do they calculate all of the token value transfers and smart contract execution of ETH/Tokens when ETH sent is 0?No it isn't. I'm asking how they are counting the exchange of Bitcoin via multisig HTLC. Ethereum does not have this funtionality and the exchange of premined ERC-20 tokens is not the equivalent of an Ethereum transaction in this sense.
+1	1525871946	1	I also don't like the fact that such a direct comparison is made when one is made to be a platform and the other one a currency.
+0	1525894892	-1	ETH is really growing but I still think it’s overrated and many coins that are offering good features are undervalued. Lamden is giving good features including a good Transactions speed of 10k per Sec.
+0	1525886763	0	What about NEO? Does it have the same potential? 
+1	1525888103	0	It's currently an order of magnitude smaller
+0	1525864962	-37	Ain't EOS the one that has a bright future?
+1	1525865103	19	Good one :D
+1	1525879313	6	lol
+1	1525866641	-4	I'm really sick of people constantly comparing ETH and EOS.There is space for both platforms to succeed.
+2	1525869855	10	There is only one chain to rule them all
+3	1525871187	-23	And that's EOS.

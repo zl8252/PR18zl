@@ -1,0 +1,82 @@
+File created at: 1526319256
+Subreddit: Bitcoin
+Submission title: Microsoft + Bitcoin Lightning Network. Decentralized Identity proof of concept to be shown off at Consensus 2018. Seems big
+Submission created utc: 1526262309
+Submission score: 647
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526263093	67	Another interesting tweet from Daniel today;"What transpired at MSFT over the last 2 weeks is breathtaking. I've never been more confident in the probability of decentralized identity's success.We're going to win this thing as a community - not for the enrichment of any person or company, for the betterment of us all."https://twitter.com/csuwildcat/status/995784337999134720
+1	1526293988	7	This actually made me shed a tear because it defines so beautifully what so many of us feel and want and why we believe so much in Bitcoin and not any other Alt-coin. Thank you so much for sharing. Let’s hope consensus shows the world just how much crypto has grown in the last 12 months and how much closer we are to a tipping point. Hopefully this year they can no longer laugh, ignore or fight us but will have to join us. 
+2	1526308382	1	They'll join when it's easy to do so and adds clear value to their lives (not promises).  Fortunately, that feels like it's getting closer and closer by the day.
+1	1526312343	1	I don't doubt it. Decentralized trust or distibuted ledger technology is nothing short of world changing tech. 
+0	1526291325	24	Now we know why Bill Gates wasn't allowed to short Bitcoin.
+1	1526293406	6	Poor poor Billy 
+0	1526270359	48	You mean we don't need some random shitcoin to accomplish this?
+1	1526271564	27	It's incredible that there are so few companies that haven't fallen for all the shitcoiner buzzwords like "blockchain techhology" "third generation blockchains" and "smart contracts". Props to Microsoft. 
+2	1526293179	5	well microsoft \*did\* fall for all kinds of blerkchain and shitcoins.it just depends on individual employees to set up their pet projects it seems.
+2	1526285276	8	That's what I like about Bitcoin. Many shitcoins use flashy presentations, tout all the "partnerships" they have and the people on their foundation/board/whatever.Bitcoin just delivers the tech and lets people play with it. No need for formal partnerships and if people want to become an "advisor", then the GitHub page is open for comments.
+2	1526279429	6	Microsoft isn’t dumb. They are the juggernaut of software dev. Really smart people work there. All of them rich. 
+1	1526282896	1	I mean if you were Microsoft you would want the most tested blockchain I would think.  
+1	1526280952	-4	You mean scam coin?
+0	1526289646	10	I have been following the MS decentralized ID  work ,but .. the LN part in the title is a pure speculation on your part?
+1	1526290206	0	Well they have stated it will be on layer 2:> To overcome these technical barriers, we are collaborating on decentralized Layer 2 protocols that run atop these public blockchains to achieve global scale, And they have stated it will be either BTC, ETH, or LTC. Of these BTC is the only one with a working layer 2 (LN). Check out Daniel on Twitter (@csuwildcat). He is very pro bitcoin. There is some speculation on my part yes. But the links seem pretty clear to me.
+2	1526290415	8	As I said, I am following that development, which includes @csuwildcat :) and iirc he never mentioned LN before in this context.  Layer 2 is a general description, it's not only lightning. It might be, but doesn't have to. They could be working on an own L2 solution. Or integrate it on a whole different coin (as you pointed out, btc is not even the single candidate here, although it's the most likely, I agree)
+3	1526300943	3	https://www.reddit.com/r/Bitcoin/comments/8j8pd0/microsoft_bitcoin_lightning_network_decentralized/?st=JH680IQ4&sh=04f267fd the actual layer 2 protocol they are using is chainpoint daniel confirms this in his tweet, see my comment for more info.
+3	1526303765	2	Yeah I'm not sure why they would add all of the other stuff lightning uses just to make an id system. None of the onion routing or AMP are needed for a decentralized id. I also think L2 is probably a catch all term for off chain
+3	1526290520	2	As I understand it they are building a protocol that runs on multiple chains.Also proof that Bitcoin will be involved https://twitter.com/csuwildcat/status/944524657348055041?s=19
+0	1526262437	21	I'm keen to see Microsoft's presentation. should be a live stream available here on Wednesday https://www.coindesk.com/events/consensus-2018/live/ 
+0	1526298996	16	The title of this reddit post is wrong they are using chainpoint not lightning network to anchor to btc. Daniel Buchner confirms here they are using Chainpoint as the layer 2 decentralised protocol to anchor to the btc blockchain https://twitter.com/csuwildcat/status/995804954316206080?s=21Chainpoint is managed by company called Tierion. Tierion has already been proven to be able to anchor hundreds of millions of hashes per day to btc blockchain giving it global scale see here. https://twitter.com/tierion/status/988890700241661964?s=21Chainpoint is also being used and proven by enterprise platforms already with over 7000 nodes maintaining the chainpoint calendar as the layer 2 protocol see here: https://medium.com/tierion/mainstream-adoption-of-blockchain-technology-is-happening-1d985f069026?source=linkShare-57f56514124a-1526299269Also Tierion are part of DIF and been working with microsoft for long time heres Tierion ceo tweet from MS san fran office in dec last year https://twitter.com/waynevaughan/status/938204548878950400?s=21Heres collab announcement from early DIF dayshttps://azure.microsoft.com/en-us/blog/blockchain-identity-proofs/Here is specific technical details on the layer 2 protocol in their original whitepaper which also explains microsofts involvement. https://tokensale.tierion.com/TierionTokenSaleWhitePaper.pdf The token is agnostic and will allow anchoring across all major public chains not just BTC.EDIT: MORE INFOTierion network token (TNT) as stated in the whitepaper will be used as a means for settlement of value between network participants.This video here shows Tierion CEO Wayne Vaughan and Daniel Buchner at consensus last yeardiscussing hypothetical use cases for linked in. https://www.youtube.com/watch?v=l5laRZfn8AI&t=1500s
+1	1526313203	1	https://petertodd.org/2017/misleading-and-inaccurate-tierion-ico-claims
+1	1526317915	1	Tierion is a dead project. If anything they are using Factom.Edit: Also none of those posts and "tweets" you linked to confirm anything at all about tierion being used.Also Factom has been partnered with microsoft since early 2017 and are part of their microsoft azure bockchain as a service platform.The evidence supports Factoms involvement not tierion.
+1	1526299951	1	Thanks for the info and sources. It's seems I've jumped to a conclusion too quickly. Will edit. Regardless of how it's anchored it relies on the Bitcoin chain. Which is bullish forbbutcoin.
+2	1526300349	2	Correct, however settlement of value between chainpoint node operator and user (service provider or consumer) will occur using $tnt. Also the chainpoint standard supports both btc and eth currently and most likely ltc in future. Which aligns to the requirements for global scale talked about in the article.
+3	1526318327	1	No
+0	1526275014	48	My favorite part for BCashers. "While some blockchain communities have increased on-chain transaction capacity (e.g. blocksize increases), this approach generally degrades the decentralized state of the network and cannot reach the millions of transactions per second"
+1	1526311907	1	bcore is killing babies, didn't you know?
+0	1526283036	4	So does this basically eliminate the need for stuff like Civic, Selfkey, TheKey, etc.? Or would separate projects still be necessary on ERC20?
+1	1526291029	2	One project would never monopolize the whole world's identification needs. We will need identification for medical, insurance, automotive, financial, educational, and many other sectors. Some of these projects will grow together, and no, it wont eliminate the need. If anything, it might demonstrate the usefulness and reinforce the need.
+0	1526291258	5	here comes the Internet License.
+0	1526265416	4	This is fascinating stuff! Thanks for reminding us about it.
+0	1526296003	2	Yuge. Maybe. Except MSFT is centralized and rent seeking. So maybe/probably not. Not from MSFT, that is.
+0	1526310967	1	This is the kind of development that originally got me excited about this tech. 
+0	1526312144	1	Ive been following @csuwildcat for awhile. He has been dropping hints about this all last year. The future is going to be decentralized its just been a matter of time since Bitcoin/ decentralized trust was invented. MSFT incorporating Bitcoin and existing blockchain tech proves that theres no point trying to dev a replacement when the best is already decentralized.
+0	1526273099	9	What we need is a VOLUNTEER WORLD WITH NO IDENTITY required.. Sick of this Orwellian brave new world control prison grid we call earth.  If I injure another person with my behavior then society can come after me NOT BEFORE! fkn tom cruise precrimes collectivist bullshit. Private keys ARE our identity FFS isn't this clear by now?
+1	1526276091	13	I now own your house. Please prove otherwise without using any identity.
+2	1526277894	2	Really?  that's a terrible example but even so what's wrong to tieing assets and registry to private keys?  No all this Identity beyond private keys is an excuse to control people as is the way with this collectivist slave grid we are building.
+3	1526279443	3	Calm down buddy.An Identity !== 1 person.An Identity in this context is a public key. One person could hold the private key, many people could hold the private key, an automated system (AI, 0 people) could hold the private key.
+3	1526281511	3	What you are describing is exactly the point of this post and what Microsoft seem to be trying to achieve. But the tech is not ready. I'm just making the point that we can't completely do away with ID just yet.Lets just hope granny doesn't lose her private keys.
+1	1526280255	5	This. Private key for identity and asset ownership works well without the need for all this additional intrusion of our privacy.Given their abysmal track record when it comes to privacy, I think it's sensible to be skeptical about any claims made by MSFT.
+1	1526314931	1	I think you are missing one of the key points. Trust and authority.In the real world trust is earned via peers, family and friends. Online, we are told who to trust by advertising, "peers" or the networks themselves.By building an identity layer (identity is not the same as an individual - and multiple identities could represent a person) you can create a much fairer trust model, and from that allow for a better authority of what should be right or wrong (technical rather than morally).Now its not without its downsides as a verified identity could be used in some kind of social rating such as that in China. 
+0	1526284591	2	 This is awesome stuff .Thank you guys.
+0	1526283095	0	>I'm not sure why this is flying under the radar. This seems extremely bullish for bitcoin.You mean you don’t understand why the price hasn’t jumped up because of this?I’ll tell you why: because the people buying and selling bitcoin based on hearsay don’t understand this. This is too complicated for them. Its also something from a conference about blockchain tech, which they almost certainly aren’t paying attention to. 
+1	1526285002	5	Nope. I buy and sell bitcoin, and I understand this and Blockchain tech, I'm also following consensus but haven't heard about this until this post, I'm sure there's many more like me 
+2	1526302878	2	It has been public knowledge for a long time
+2	1526291885	1	https://en.wikipedia.org/wiki/Proof_by_example
+3	1526291892	2	**Proof by example**Proof by example (also known as inappropriate generalization) is a logical fallacy whereby one or more examples are claimed as "proof" for a more general statement.This fallacy has the following structure, and argument form:Structure:I know that X is such.Therefore, anything related to X is also such.Argument form:I know that x, which is a member of group X, has the property P.Therefore, all other elements of X have the property P.The following example demonstrates why this is a logical fallacy:I've seen a person shoot someone dead.***^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/Bitcoin/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]^Downvote ^to ^remove ^| ^v0.28
+1	1526302764	2	It's also been common knowledge for like, years
+0	1526265357	1	[deleted]
+1	1526265695	4	Doesn't look like it. Microsoft has made it clear that they are not creating a new blockchain or token for their decentralized identity system. It will be a protocol standard that runs on existing chains with second layers. The azura network is a separate event on the consensus agenda. 
+2	1526278470	-1	It could be a layer 2 on Ethereum ?
+1	1526267195	2	No. It's about bitcoin as mentioned in the text.
+2	1526285851	3	Read the original text, it is absolutely not clear.
+0	1526297782	1	Go Go Go bulls
+0	1526305226	1	Very big, price still too high by 8x
+1	1526315089	1	I'm sure this is based on some solid analysis?
+2	1526318953	1	Yes.
+0	1526306720	1	I don't think LN has anything to do with it, my guess is it's a completely independent layer 2 solution.
+0	1526310954	1	yeah, 50k$ tomorrow ... ;-)
+0	1526315903	1	*centralized modern banking system v2.0.Fixed your spelling mistake in the title.
+0	1526279159	2	If price doesn't go up, it's not bullish
+0	1526290221	1	Hopefully the lightening network shows off some good progression or at least movement in the right directionI'm completely confident in the BTC team to make the correct decisions to increase the network speedWhile Rodge and his cronies are putting hacks in place to get quicker confirmations, I believe the BTC team are taking the correct approach and aren't rushing into anything without thinking the changes through
+0	1526293498	1	I don’t see any mention of Lightning Network, but maybe I was reading too fast. Layer 2 could mean *anything*.But it’s great to see that they want to build on top of Bitcoin.
+0	1526265868	1	So has Bill Gates "done a 180" on Bitcoin or not? I know he has praised it in the past, but I thought I'd seen that he's been rather critical of it lately.
+1	1526266378	20	Well, Bill Gates isn't really in charge of MS right now...
+2	1526267626	2	Fair.Was "Bull Gates" a slip? :P
+3	1526268632	3	Gah, autocorrect takes the day again...
+4	1526296863	1	Should have been Bear Gates? ;)
+0	1526296866	0	This is just a fraction of the groundbreaking press releases coming out of Blockchain Week.Bitcoin price is gonna bust one huge nut all over the market.You better bring protection, a six pack, if this is the foreplay.....
+1	1526301058	1	That metaphor conjures horrible imagery
+1	1526312543	1	Very exciting times. Longtime HODLers getting ready to smug.
+0	1526307783	1	There is an alt called Civic that is in this biz...
+0	1526284978	-7	 *Any person who buys, sells, or otherwise transacts in cryptocurrencies, whether online, or otherwise, does so at their own risk and will have no recourse to the Reserve Bank or to any regulatory authority in the country. So I d say that there s always a risk thats why I trust only to secure coins like CS and NEO*
+0	1526290016	-2	IF true

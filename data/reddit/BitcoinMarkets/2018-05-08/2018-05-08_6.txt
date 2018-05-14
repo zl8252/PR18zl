@@ -1,0 +1,11 @@
+File created at: 1525804720
+Subreddit: BitcoinMarkets
+Submission title: WARNING: DO NOT USE BTCTRADE.IM ANYMORE.
+Submission created utc: 1525783583
+Submission score: 3
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525792523	3	You just explained why there was a 6% arbitrage. The price was lower because they were having problems for withdrawals.
+1	1525793009	1	Yes. It was not known at the time, and it is not happening only for DOGE, so watch out for any "arbitrage" opportunities from this exchange.I had used it a LOT, like 50 BTC withdrawals, but for other purposes (Selling BTW).
+0	1525793399	2	In general, do not expect to be able to exploit arbitrage on markets where you don't already have the funds available already. Never count on deposits or withdrawals going through in a timely manner. This goes for all exchanges.Any risk-free arbitrage of this sort would have been exploited by bots by the time you execute it.
+1	1525793537	1	This is good advice, but the thing here is not that the withdrawals will process any time soon. They may never get processed.

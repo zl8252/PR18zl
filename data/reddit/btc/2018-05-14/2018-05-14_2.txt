@@ -1,0 +1,138 @@
+File created at: 1526319278
+Subreddit: btc
+Submission title: See in this twitter thread Luke Jr actually arguing that PayPal is cheaper than BCH!! Is this guy in full delirium? Or just spouts misinformation on purpose?
+Submission created utc: 1526277906
+Submission score: 133
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526280250	24	I might respond but he blocked me for posting logical facts.
+1	1526284105	6	Sounds familiar
+1	1526318309	1	I have like 3 posts on twitter ever and I'm blocked....Never seen that before
+0	1526280434	48	Does anyone take him seriously?
+1	1526284081	29	Quite a few unfortunately..
+2	1526289819	10	I asked in the bcoinjs chat room if they were going to support bch and luke jr. yelled back something to the effect of "that fake shitcoin should burn in hell" or something. I said "oh, ok. So that's a 'no', I take it?" lol
+3	1526316128	1	His loss
+1	1526294012	12	Nobody that matters.
+1	1526293681	-20	If you account for exchanging in and out of buttcash the guy is right, no matter how butthurt it makes you.
+2	1526294719	6	thats a funny name for BTC.  I've heard it called Buttcoin, but now Buttcash! Buttcash Core is the only client I'll use.
+3	1526296825	0	It's a shit client tbh, the correct one is http://thebitcoin.foundation/trb-howto.html
+2	1526296949	5	Is that because the bcore fees are so high ?
+2	1526318268	1	so if you account for the problmes btc has? no that's stupid
+0	1526280827	56	He's the reason I stepped away from BTC.  I'd say completely delusional, I worry that the guy might have some kind of mental illness though.
+1	1526282770	15	You can only tell by the look in his eyes... he doesn’t seem mentally healthy.
+2	1526283082	19	You can also tell from a lot of the things he says, and his general demeanor.  He seems unsure of how to act like a person or interact in a normal manner.https://www.youtube.com/watch?v=nAzQl1E2OQw  there are tons of other videos of him being weird or awkward, I thought this was the most revealing in terms of his actual enthusiasm for his project though.
+3	1526287935	3	I was hoping someone linked this.  ThanksThat video is a great comparison between him and those who are in bitcoin to spread freedom.
+3	1526312365	1	............ it's interesting technology... .. 🤔
+3	1526285765	-14	Oh Jesus, give it up dude. 1) people have a wide range of social aptitudes, charisma and speaking abilities and 2) people have many reasons for being interested in Bitcoin, some are in it for the money, some for the disruption and some just for the code. Get this armchair psychoanalysis babble out of here.
+4	1526286587	32	Way to reveal you have no idea what you're talking about.I was trying to keep it relevant to Bitcoin, I neglected to mention that he's also intensely religious, anti-science, thinks the sun revolves around the Earth, believes the law is infallible and everyone should defer to the state, and believes that invalidating hundreds of millions of dollars in hardware investment would increase the adoption of his project.  I love how people have started using "armchair" remarks to try to insult anyone who takes a stance on something.  The guy is mentally ill.
+5	1526301328	2	Luke may be a strange guy, but look at his longstanding commit history. Every BCH and BTC user is using his code.
+6	1526312803	2	A good coder sure.. But read some of his comments on BIPs... I wouldn't trust that guy with the financial future of the world.
+7	1526313059	1	Neither would I, but then neither does bitcoin core generally. His suggestions get rejected all the time. It is not such a bad thing to have someone with counter-views that also has a strong understanding of the code. Counter to the prevailing belief here, nobody actually has the power to change anything themselves without peer-review and consensus, and core devs disagree fairly often.Everyone thought segwit was only possible with a hard-fork, and it was luke-jr that saw it could be done as a soft fork.
+8	1526313767	1	Which is all fine and dandy. But he often takes things to the extreme and irrational. When you are working as a team on a project you have to strike a balance between able to code and able to work with others. I am thankful for his contributions, but given how things have fallen apart since Gavin assembled the A-team, I wonder at what cost...?
+9	1526314623	1	I don't think that is how open source projects work though. Anyone can do a pull request, and if it is accepted by the devs/community/maintainers it gets merged into the code. None of Luke's extreme or irrational ideas have ever made it in.We are not in agreement on the current state of bitcoin. I don't think things have fallen apart at all and think the current state of the code looks very robust.
+6	1526311535	2	If you can't get youe head out of your ass enough to recognize BCH fees are lower than paypal, and then when you get called out on your bullshit you try to deflect, it means you're fucking incompetent and it makes perfect sense that be is a core dev.
+7	1526312110	1	Wut. I never said BCH fees are lower than paypal. I am not luke-jr.
+5	1526299436	1	While I agree with you that this dude is actually mental, I don't agree that the video, you linked, shows that really well. When you compare the eloquence of Roger Ver, a selfmade millionaire to a shut off, mentally ill and socially retarded Luke Jr, of course you would think that Roger cares more about Bitcoin. But I guess Luke Jr also really cares about Bitcoin, he just can't show it and to bash him for that is just ignorant.
+6	1526311591	0	luke jr cares very much about (destroying) bitcoin. I say let him have at it.
+4	1526302182	2	He thinks god gives the government its authority. I think it speaks to his grasp on reality. How could you possibly come to a conclusion like that if you're a thinking person?
+5	1526312053	1	I know many Christians who think that way. They tend to be be brighter regarding other types of topics, but they do not usually question this type of approach since they do not want to contradict the Bible. Luke, however, goes much further. He has much rarer beliefs than those.
+1	1526293154	17	He was chosen like every other Core guy precisely because he's controllable, a useful puppet.
+2	1526301175	-2	Or because he continually contributes high quality code...https://github.com/luke-jr?tab=overview&from=2018-03-01&to=2018-03-31
+3	1526311661	5	redditor for less than 30 days and all your comments on this thread are about how lukejr isn't a puppet 
+4	1526312014	0	Well there are two things about that. I generally don't like character assasination, and the other is that I find the whole "puppet" idea/narrative to be pretty retarded.
+3	1526308792	1	Can you be more specific about which code?
+4	1526309051	0	Not really, he's been contributing a long time, but he is the primary maintainer of the BIP process:https://github.com/bitcoin/bips
+5	1526313171	1	But then there is also stuff like this: https://www.reddit.com/r/Bitcoin/comments/2iuf4s/lukejrs_public_apology_for_poor_gentoo_packaging/
+1	1526284523	17	It's actually psychotic behaviour which is not unusual for zealously religious people. I have had the displeasure of having to deal with these types of bastards and they are pure evil.
+1	1526287150	13	Can't really stop a guy from involving himself in a coin, just as fair as people saying they avoid BCH due to Roger, Craig, Jihan, McAfee...
+1	1526286577	9	He's a psycho religious guy, check his profile.
+2	1526286699	7	Oh I know, I started worrying about him scaring people away from crypto when he started talking about flat earth/anti-Copernicus shit.  It's just insane that he's still on the project.
+3	1526302628	1	I 've seen him saying a lot of shit, but I don't think I've ever seen him talking about the shape of the  Earth.
+3	1526289625	-10	You mean someone who works with satellites has no clue about the solar system? Please provide a link where he claims that the Earth is flat. And no, geocentrism is not wrong. It's just a model which happens to be unnecessarily complicated.
+4	1526291615	6	How is geocentrism not wrong? What laws of physics do you follow? 
+5	1526308123	-2	Why would it be wrong? Have you studied relativity?
+6	1526315127	1	The problems inherent to a geocentric solar system were a primary factor behind the discovery of the heliocentric model.The heliocentric model worked more properly and required fewer assumptions and unexplained phenomena\-\-for instance, the geocentric model required orbiting bodies to take epicycle orbits, a phenomenon unexplainable by the laws of physics, to explain away the observed periodic retrograde motion, which the heliocentric model has no need to explain away since it was simply a byproduct of different orbital radii and orbital velocities.I can only imagine the kinds of assumptions and handwaving a geocentric *universe* would require.
+4	1526289663	4	Redditor /u/Josephson247 has low karma in this subreddit.
+5	1526289683	-5	Please remember not to upvote or downvote comments based on the user's karma value in any particular subreddit. Downvotes should only be used if the comment is something completely off-topic, and even if you disagree with the comment (or dislike the user who wrote it), please abide by [reddiquette](https://www.reddit.com/wiki/reddiquette) the best you possibly can.Thank you, and have a great day!
+4	1526292709	5	> someone who works with satellites Hahahahaha now he's an astrophysicist is he?Good one, mate. "Works with satellites." Heh.
+5	1526302285	3	I listen to Howard Stern make farts jokes on Sirius, I work with satellites too!
+6	1526316672	1	I think we call that a "parternership" in this space now
+5	1526312679	3	I can practically hear u/DougPolkPoker scribbling this shit down for his next cuckfest of a show. 
+1	1526297063	2	He beleieves the earth rotates around the sun. You decide.
+0	1526281065	61	Paypal fees are typically 5% of the payment amount. But it's well-known that Blockstream employees are typically clueless about real-world usage.
+1	1526284060	13	Touché!
+0	1526282950	10	He does not understand that fees that PayPal bills to the merchant have already been included in the price of the goods/services you buy.Merchants could effectively sell everything 5% cheaper for BCH and still get the same amount of profit.edit: typo
+1	1526312091	1	Paypal friends and family which is like a cash transaction that cannot be reversed has no fees.  It is there to match the free bank transfers banks have currently.But it doesn't sound like he even knew about that as he said "typically with lower fees".  Also, I would bet paypal wouldn't let a merchant heavily use that service and would cut them off.
+0	1526283518	13	He's delusional. PayPal is ran by a central authority that can ban and reverse transfers. 
+0	1526283330	7	I don't understand why we keep giving this person any platform or recognition here for his continuous stream of nonsense that is self evident
+0	1526287270	4	He has creative private interpretations of words.
+1	1526305949	3	Exactly this. His standard argument style is to have idiosyncratic interpretations and concepts, and then attack you for not semantically conforming to the concepts that only exist in his head. Maxwell does this too, but in a more restrained way where he mainly coins his own terminology, uses it in a context where if you didn't know an better you would assume it's some domain-specific jargon, attacks you for not conforming to this jargon, and then you discover that he made the whole thing up from the beginning.
+0	1526308079	3	Dude wow. Bch only has one miner? He actually said that.
+0	1526284020	5	Typical /u/luke-jr say stupid shit.. never explain his reasoning.. (because he is just Buthurt basically)
+0	1526287610	2	his background the starwars blockstream army. LULEdit: well he plays starwars at 33 fps, his gpu is almost as old as the theory of the 1mb block
+0	1526287915	2	or is he trying to look like he's **not** cobra?
+1	1526313160	1	Good point haha. Regardless of the fee thing it's weird he's talking about BCH being reliant on miners but BTC is too...He's also implying that if the Chinese gov decided to censor BCH transactions it would happen even though non Chinese miners could still mine blocks. Plus everything he says still applies to BTC.Maybe he's just crazy at this point and one personality is cobra and the other is luke
+0	1526288265	2	Where do you guys get dinged with PayPal?
+0	1526289456	2	Well, this means we know why some people are occasionally making bitcoin-cash transactions with $100 fees!
+0	1526301893	2	“It is difficult to get a man to understand something, when his salary depends on his not understanding it.” - Upton Sinclair
+0	1526305556	2	When the government needs any kind of tech work done, they need an engineer smart enough at something specific like coding to do the work, but dumb enough in every other way to work for the government (Adam, Luke, Greg, etc,,,)
+0	1526305805	2	Of course Bitcoin Cash is cheaper than PayPal. If he had a business, he would know that. But then again, who really takes these comments about Bitcoin Cash seriously? No one, and the proof is in the rising market cap of Bitcoin Cash.
+0	1526309521	2	This explains that bullshit yesterday when they were jacking up fees deliberately over $100.  And one more thing.  How desperate do you think their mindset is becoming that they are resorting to this shit?   They thought they were untouchable and unstoppable.    Now they know they may very well lose the war."If you don't like it just fork another coin" They said.  Well you guys did,  and it is becoming vastly superior the the utterly embarrassing, technologically failing, censorship driven swamp they are currently swimming in.
+0	1526290069	3	PayPal is often cheaper if you take into account exchange fees FIAT -> BCH and back again. 
+1	1526303160	1	Do any exchanges charge anywhere near 10% for a roundtrip?
+0	1526281602	2	I gonna devil's advocate this and say for most regular people doing no cross-border payments than it's kinda true. Getting coffee in your local shop is feeless with PayPal whereas BCH is still a penny.
+1	1526282764	15	That's not true.  The fees are paid by the merchant.  And the merchant included them already in the price of the goods/services you are buying.So in the end you pay the fees, they are just hidden from you.
+2	1526285948	4	Oh right, I stand corrected.
+3	1526287215	3	But that was probably what Luke meant, or some similar convolution.
+2	1526296490	1	>So in the end you pay the fees, they are just hidden from you.Isn't the block subsidy a "hidden fee" as well?
+3	1526300283	5	No, it is inflation.
+4	1526303069	1	Sorta the same thing, except inflation is not per transaction. But the thing is, with the price rising on average, the inflation is actually being eaten away by deflation, so it's not such a big deal as it is with most fiat; and unlike fiat, it's being used to pay for something that benefits everyone, the securing of the network.
+1	1526283201	4	>At PayPal, our flat-rate pricing structure is a base rate of 2.9% plus $0.30 per transaction.No, PayPal is never "feeless"Not to mention merchants are also on the hook for fraud.
+1	1526283380	4	Who buys coffee in a shop and pays with paypal? I have never seen that done. Is that an option, paypal has a credit card? 
+2	1526291870	3	Bitter aftertaste - open a dispute in the resolution center. 
+2	1526316862	1	I had a PayPal debit card for a time
+1	1526282834	2	Unless the fee structure has changed, it's those kind of transactions that charge the most (per amount). Small transactions are fee-free with PayPal only when they're deemed non-commercial, which purchasing coffee certainly isn't.
+1	1526284133	1	> BCH is still a penny.it's not 
+2	1526285787	9	Yea, it is less than that. Thanks.
+0	1526283338	3	Luke Jr, if that's his real name, has a short circuit somewhere in his brain, or maybe few of them. I don't know how anyone could think that he is intelligent.EDIT:On second thought, maybe he could be referring to what the user sees. For example i have PayPal connected to my CC, so when I make purchase and pay with PayPal, say on eBay, I pay the amount the seller asks+shipping if applicable, so the cost of using PayPal seems to be zero, which is lower then fee in BCH no matter how small the fee is.But as we know that PayPal charges the banks for the service, and banks charge us, the cost of using it is not zero as it seems on the surface, so it depends how you look at it. On surface it does look cheaper (for free) but under the hood, its not.
+1	1526285879	-1	Well, under the hood you dont see the cost of nining on bcash or any other crypto either. The mining reward is partially sold on exchanges reflecting a downward pressure on price of whatever percentage of thecmining reward is sold.
+2	1526286057	2	You don't need to see cost of mining, it does not apply to you as user. while the CC you use through your bank, does have some cost to you.You can't use "free" PayPal without bank account, and bank accounts do cost something... with BCH you pay minimal fee of 1bit.
+3	1526288708	3	What you are talking about is final cost of using paypal. Not the fee the user pays. I get your point, but if you want to talk about total cost of paypal you also have to look at the total cost of the mining reward. All this hashrate costs something, and in the end users pay those expenses somehow.
+0	1526277916	2	^The linked tweet was tweeted by [@LukeDashjr](https://twitter.com/LukeDashjr) on May 14, 2018 05:31:51 UTC (0 Retweets | 1 Favorites)-------------------------------------------------[@SheriUcar](https://twitter.com/SheriUcar)  [@CobraBitcoin ](https://twitter.com/CobraBitcoin ) So? It does payments better than BCH, typically with lower fees.-------------------------------------------------^^• Beep boop I'm a bot • Find out more about me at /r/tweettranscriberbot/ •
+0	1526292361	2	To be fair for Sending Money to friends PayPal Costs you Zero Fees, is linked to your bank Account, and isnt volatile For any Crypto You have atleast some Transaction Fee and the Exchange Fee. I Love Crypto currency butr my friends will Not send me 5$ in any Crypto after I ordered pizza, which will either be worth 1$ or 50$ next month 
+1	1526303124	1	The bolivar wasn't volatile either, until it was.
+0	1526286711	1	Obviously, he meant BTC and wrote BCH by accident.
+0	1526295097	1	He's pretty lacking in sanity, he might have skills as a programmer but so does the creator of TempleOS, I'd say he's about the same level of crazy minus the schizophrenia.
+0	1526297448	1	He's the best troll. Absolutely classic. 8/8
+0	1526304949	1	> Or just spouts **misinformation** on purpose?Or just spouts **Lies** on purpose?
+0	1526309760	1	Honest question here...Why is everyone in these comments accusing him of being insane or a zealot for saying something that is factually accurate?I've never been charged any fee by paypal.
+1	1526311705	1	Utter Bollocks.   That is stating that you have never sold anything on Ebay
+2	1526315605	1	You don't believe in people who don't sell things on ebay?Are you trying to say that not selling things on ebay is a result of "full delirium"?
+0	1526310926	1	Hes a walking disinformation campaign.  
+0	1526311087	1	doge is cheaper than paypal steem is cheaper than paypalNeo is cheaper than paypalI can't think of anything that isn't cheaper than pay\-pal.What is the catch here??
+0	1526313450	1	Anyone notice that in his background pic /u/nullc is a Sith? 
+0	1526315677	1	i think he is delieruis
+0	1526284650	1	I think he believes the Earth is flat so I'd go with the delirium.
+1	1526287673	1	He's not a flat earther, he's an heliocentrist - believes sun rotates around the earth. If he was a flat earther, how could the Blockstream satellite broadcasting the tip of the btc blockchain from space work?
+2	1526288651	6	You mean geocentrist. Heliocentrism places the Sun in the center, with the planets orbiting it (i.e. the Copernican model).
+3	1526289792	2	Heliodecentrist? :D
+3	1526296590	1	> You mean geocentrist.Correct. I meant that.
+2	1526288881	1	It could work, flat earthers don't deny the existence of space meaning that there is a place where the satellite can stand :)
+1	1526286200	-1	Lol! That's the only thing i agree with him on XD
+0	1526288250	1	I'm downvoting every thread that shits on the other camp. Let's not be like them. Let's have a  subreddit that consentrates on building and adoption and positive vibes. Please.
+0	1526283809	1	Yes.
+0	1526286925	1	Considering the guy believes that the earth is the center of the universe and that slavery is a good thing, it's safe to say he's definitely delirious.And oh great, he's a developer for bcore.  You'd be taking massive risk to invest in anything that this guy has a lot of influence with.  Bcore segwitcoin is dead, it's only a matter of time.  Those backwards thinkers failed before they even began.
+1	1526303371	1	> Bcore segwitcoinMaybe we shouldn't lower ourselves to their level?
+1	1526301465	-3	Are you aware that as a BCH user you are using his code?
+0	1526289538	-1	Bigger blocks, less miner can handle it = Higher centralisation. That's what all this discussion is about.And for the noobs: search for 'ASIC boost' bitcoin
+1	1526303509	2	Lower capacity means higher fees, and higher fees eat away a much bigger percentage of the pool payout of smaller miners.
+2	1526304575	0	Here comes lightning into the game as an option. The fees for bitcoin are fine even without lightning. Also bitcoin can upgrade to bigger blocks of needed or wanted. There is absolutely nothing which makes bch block upgrade better than it was before.
+3	1526305406	3	> Here comes lightning into the game as an optionAnd how will those pool payouts get into a lightining channel for each miner?> The fees for bitcoin are fine even without lightning. Fees got lower because people stopped trying to use it.> bitcoin can upgrade to bigger blocks of needed or wantedWe're way past that point; Core won't let that happen, just like how they've fought all previous attempts to fix the issue.> There is absolutely nothing which makes bch block upgrade better than it was before.Bitcoin Cash won't suffer a repeat of the disastrous fee conditions bitcoin Core experienced; and the increased capacity isn't the only advantage Bitcoin Cash has over bitcoin Core, there are all sorts of optimizations and new features, both already available and also in active development.
+4	1526308257	1	Ok, good luck then. 
+3	1526311872	2	"here comes lightning into the game as an option" stfu. is that shit even ready yet? no? k coo keep talking out of your ass.
+4	1526315574	0	'stfu' - nice. you have no idea you fool.
+1	1526312846	2	I like you. Well indoctrinated. 
+0	1526301645	-1	I'm still trying to figure out who this boogeyman is that r/Bitcoin and Luke Jr think is going to censor BCH transactions.The NSA? Those fuckers could 51% BTC *or* BCH at any given moment if they just used that data center in Utah.The Chinese? Even if they did have direct control over the mining pools, they'd have to intercept and reject transactions within 10 minutes or so, otherwise a hard fork would probably be required to remove the offending tx. And even if they could the other non Chinese 49% could fork off again and make some edits if this became a problem.No single entity has ever hijacked mining power to censor on-chain transactions. The day that happens Hell will freeze over
+1	1526308759	1	Large mining pools do this all the time. Bitcoin China used to drop some txes so their own wallet users' txes could be included without fee. ViaBTC used to drop some txes to prioritize txes that went through big blocks advertisement they had up online.
+2	1526308831	1	But is this exclusive to BCH?
+3	1526309207	1	The censoring of txes, definitely not. The ones I mentioned are or were Bitcoin miners. Reducing your set of full nodes and  having a smaller set of companies running mining pools makes you less resistant to such censorship though.

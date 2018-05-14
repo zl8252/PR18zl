@@ -1,0 +1,48 @@
+File created at: 1525898461
+Subreddit: BitcoinMarkets
+Submission title: [Altcoin Discussion] Wednesday, May 09, 2018
+Submission created utc: 1525838758
+Submission score: 10
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525867897	3	My stop at $150 was never hit (long 100 LTC at $170), went very close. I got extremely lucky, seeing $151 was the very bottom. As we bounced off $151 perfectly I added 40 more LTC to my position. My current longs: 40@$154 & 100@$170. As stated previously, LTC has not had its rally yet and Im expecting a rally to atleast $215 where a major resistance will be met. I am looking to sell at those levels for a good profit. This is a short term trade but Im willing to wait and see how things play out.
+1	1525873001	1	Yeah ETH and LTC have both decreased about 15% from their recent rally, but LTC's rally was much less intense, so should have more upside. I'm adding some LTC to my portfolio too here from some laddered buys which I'm hoping will hit. 
+2	1525877827	1	Great one! Lets hope it'll hit some magnificient highs.
+1	1525881796	1	Sold my ltc at 164, wasn’t sure what direction bitcoin was going to take, just bought in back at 157.Have the same targets.
+1	1525892305	1	Bought last night on the retest of the log breakout as well:https://www.tradingview.com/x/lKnGwfHX/The last time this happened:https://www.tradingview.com/x/ESQDBSUK/
+0	1525860845	2	[https://www.matrix.io](https://www.matrix.io)I ended up reading about this since it's one of the coins thats being pumped today. Sounds good.. but then it could be just another PND coin with fancy white paper which never gets released. What do you think? should I buy? 
+1	1525861336	2	- Claims to be better than Ethereum- Claims to have better security with AI- Claims to have a million tx/sIt's all bullshit unless they have more resources than any other project. Tx/s claims could be true but they'd need masternodes for that which makes it less distributed and therefore less valuable. I do not recommend.
+2	1525861851	1	I think it's bullshit too… they have announced they getting listed on more exchanges tomorrow and now its getting pumped. I think it's good for short term gains. 
+0	1525861751	2	ETH has maintained the same ~0.08 ratio to BTC as it had while BTC was in the mid-9000s (currently low-9000s). Is this bullish for ETH? When BTC finally pumps will ETH see a larger gain than before? Or is this an indicator that BTC was overpriced while it was pushing 10k?
+1	1525862572	1	If we do not push higher it might reverse here. I expect it makes a large scale pennant in the ratio with Bitcoin. 0.9 would be around the max we would get if you draw the pennant without the wicks.
+2	1525872673	1	I'm keeping an eye on a potential (bearish?) pennant that's been developing over the past few days in which it's bouncing around. Though if BTc pops up it will probably drag Eth along, however if it fails I have the downside target at the 0.382 ~$632Edit: if we pop up, target of $850
+0	1525860274	2	What do other people take away from the btc dominance charthttps://coinmarketcap.com/charts/#dominance-percentageI find the "other" sitting at 25% and growing to still be unbelievably unhealthy, if it was eth, xrp, xmr etc. all eating a growing chunk of btc dom fine, other poeple can invest in the wrong project without being insane; but "other" I read was "fucking bullshit ponzi schemes" and I have yet to hear a convincing argument otherwise; what's in other that's worth a damn and why the fuck is it growing over time?
+1	1525861851	3	I think it's a sign that mad money is coming back into crypto, which is bullish.
+1	1525874828	2	As someone that has taken ecology I find diversity in an ecosystem quite healthy and the more diversity you have the less sensitive to disturbances you are.Why would you make such silly statements as the "other" is all ponzi schemes?  You do realize eth, xrp, xmr were all "other" at one point?
+1	1525877657	2	>Big whorls have little whorls>That feed on their velocity,>And little whorls have lesser whorls>And so on to viscosity.>*Lewis F. Richardson*Like the turbulent cascade, we are seeing small motions where the energy is dissipated, leeching off the large ones. As the size of bitcoin increases, there is more room at the bottom.
+2	1525887468	1	I disagree. The bigger bitcoin gets, the more its network effect should suppress the growth of smaller cryptocurrencies.The fact that it isn't doing this is probably due the market not believing Bitcoin's network effect is a strong fundamental.
+3	1525889647	1	Hmmm. If you assume similar use case, I can see your argument.
+1	1525887545	2	It's a sign that no cryptocurrency is a sure bet, and the market is still 95% speculation.Mainstream adoption is what will put an end to this. That or an extreme bear market, which also seems plausible.
+1	1525861405	1	There are good projects in "other" but those are probably not the majority of those pumping and making up those 25%
+0	1525882432	2	bch doing its thing again, it didn't drop much more than btc when we're dumping, it just baffles me how it would go up while we're stagnant
+1	1525882796	3	Very rich people are holding tremendous stakes in it and mining the hell out of it.  They are very motivated to drive the price up.  All I can say is if you buy that shit have a plan to dump it.  It can move pretty damn fast.
+2	1525885188	5	>Very rich people are holding tremendous stakes in it and mining the hell out of it. They are very motivated to drive the price up.Why does this argument eerily sound like a nocoiner argument against BTC? 🤔
+3	1525888963	1	I have crypto and actually for a lot of crypto it is a good argument.  Btc is the most spread out of any of it though.  We all pretty much know the vast majority of crypto will be pretty much worthless in a few years.  While it is running hot there is not much better on the planet to manipulate.  If you are looking to buy Bcash for a long hold, I wish you luck.  It will dump back below the local bottom of $600.  I guarantee it.  
+4	1525889339	4	The vast majority of crypto may be worthless in two years if you are counting by the number of coins/vehicles, but in terms of market value I think the space will overall expand. You are entitled to your bearish opinion on the sector as a whole, but I respectfully disagree. 
+0	1525894291	1	Any reason in particular why BNB is pumping atm?
+0	1525862821	1	BCH falling in ratio.  Maybe it will get back to .09x and repeat another round of pump and dump
+1	1525874735	2	I think it reached peak three days ago.  That would put the peak at 9 days before the news, which is quite normal.
+1	1525866869	2	https://i.redd.it/jdpuzuum9tw01.jpg
+1	1525862993	4	Thats a gamble. With may 15th 32mb upgrade for BCH. They will have the capability for half of all paypal daily transactions.
+2	1525871385	1	https://bitinfocharts.com/comparison/transactions-btc-bch.htmlhttps://bitinfocharts.com/comparison/size-btc-bch.htmlcapacity doesn't matter if nobody is using it. 
+3	1525881226	4	The point is it *can* be used, and it's *ready* to be used, right now.The same can't be said for Lightning Network, therefore we're likely to see increased usage of BCH.
+4	1525889683	0	Bought a shirt over lightning and it worked like a charm.BCH's road map calls for 1GB blocks. Should BCH actually achieve 1GB capacity then running a full node will be a 'corporate only' thing. That spells centralization to me. 
+5	1525890234	1	[Huh?](https://www.amazon.com/Seagate-Barracuda-3-5-Inch-Internal-ST8000DM004/dp/B075WYBQXJ/ref=sr_1_4?s=electronics&ie=UTF8&qid=1525890234&sr=1-4&keywords=8tb+hard+drive)
+1	1525863629	1	I’m stuck between choosing the BCH pump or TRX mainnet pump
+1	1525882507	1	Well it's back to pumping now, so you probably won't be able to get that entry :(
+0	1525891670	0	Is EOS in a [bull pennant](https://imgur.com/a/PqO9jZJ) on the 1D chart, with mainnet coming?
+1	1525891801	0	1st June bro.
+2	1525896409	1	I don't understand what you are saying.  Yes mainnet is June 2.
+0	1525840451	-9	Wam bam thank you ma’am 
+1	1525846654	-2	Wan*
+1	1525853617	0	Wazzza wazzzzaaaa wazzzzzaaaaa

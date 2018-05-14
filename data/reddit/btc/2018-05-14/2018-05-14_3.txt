@@ -1,0 +1,48 @@
+File created at: 1526319281
+Subreddit: btc
+Submission title: Breaking News: Winklevoss Brothers Bitcoin Exchange Adds Bitcoin Cash support!
+Submission created utc: 1526305768
+Submission score: 146
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526306379	22	Good job... Could have skimmed millions in fees by now if you did it in Aug, though. 
+0	1526308711	16	Wow, this looks to be huge for encouraging the value-flippening since these guys showing any respect for BCH is like a minor Mutiny on the HMS-Bitcoin Core... 
+1	1526311398	15	Anyone with their eyes open can see trouble on the horizon for BTC after it simply showed the whole world how broken it is, and how that problem was in no way actually addressed in the past 6 months other than "Lightning is coming!" which is simply unacceptable. Bitcoin Cash corrected the problem immediately, and is even correcting it even more tomorrow.  Supporting BCH is at minimum an insurance policy.
+2	1526316285	5	People are more educated today \- therefore when the opposition acts with immaturity i.e. Core Dev team, thats a tell tail sign \- people today can see the similarity's with how these 'types' behave and bad political agenda's, therefore leaving only one conclusion BTC Core dev team are highly politically motivated to 'actually' damage 'Bitcoin' success by pretending to act in 'best interests' when behind the scenes they are paid for by banking empire \- to either slowly break its confidence or take it over entirely.\(Why am I seeing someone like Tone Vays on the Core Dev team, he is the 'last' person that should be on the team \- why? because his past as vp at JP Morgan bank shows the bias & agenda!\).What do you do if you hate something \- want to destroy it \- but can't do anything about it?You employ 'pretenders' \(company formation\) to act in the 'best interests' \- whilst spreading lies and instilling fear/uncertainty \- to actually destroy it from within.Paying employee's \- controlled by a 'employer' aka Block Stream is not only against the principles of Open Source & community software, but shows a bias of control \- because... "You have to do what you're employer says \(Coding centralisation & bloating\) \- right?"
+2	1526311664	-12	Eh, I would say that less than 5% of my transactions in the last 3 years have been on-chain.Onchain is easy to use, but I dont think its scalable for billions of people.Heck coinbase payments work so easily, I actually sold most of my currency alt coins. 
+3	1526314768	6	100&#37; of my 50 or so transactions in 2018 have been on chain and at 1 satoshi per byte
+3	1526315675	3	maybe crypto just isn't for you
+4	1526316477	0	Ive used Bitcoin on over 50 transactions. Should I stop?
+5	1526316718	2	have you even started if all you do is shuffle BTC between coinbase wallets?
+6	1526317548	0	I dont think you understand how trade works.Have you used technology to exchange value before?"Does amazon really get paid if all we do is shuffle  1s and 0s between bank accounts?"
+7	1526318163	1	as long as it's 1s and 0s on coinbase you might as well be trading pebbles or LTC
+8	1526318798	0	Sorry about your economics understanding.The free market is beautiful and finds solutions to everything. You will understand this soon enough.
+3	1526315832	1	Yeah, well you’re wrong. Sorry.
+0	1526310668	9	I got an email about ZEC but nothing about BCH.https://gemini.com/blog/gemini-is-now-the-worlds-first-licensed-zcash-exchange/Is the only announcement today that I see.
+0	1526308440	15	“In addition to being approved to custody and trade Zcash the NYDFS has confirmed to Forbes that Gemini will also receive approvals for Bitcoin Cash, with a total market value of $25 billion and Litecoin, valued at $8.2 billion, though details about when these currencies might go live remain sparse.”
+1	1526309418	8	Don't bother clicking.  This is everything you need to know.  Misleading title linking to an ad-walled site and talking about zcash.  
+0	1526308055	14	Speaking of Zcash, how can a coin with 20% founder reward be taken seriously when there are alternatives?
+1	1526308515	7	Maybe the founder bribed them for a big chunk of coin? Maybe they bought 40% of it before they brought up the idea so they don't care? 
+1	1526310652	5	The founders reward is temporary and lasts 4 years from genesis, after which miners get 100%. Not to say anything about the fairness of this scheme, but it should be noted it doesn't last forever. Zclassic was created as Zcash without the subsidy, though I think this as well as ZenCash and Bitcoin Private are just altcoin fork scams by Rhett Creighton basically.I always saw Zcash as more of a research project more than a currency you'd really use though . Due to its design and the way zk-snarks was implemented among other concerns it has some fairly serious issues that are not easily remedied to be truly sound money.You might want to look at Zcoin for the other side of Zcash. The ZeroCash and ZeroCoin whitepapers were co-written by several of the same people.
+2	1526316214	1	> The founders reward is temporary and lasts 4 years from genesis, after which miners get 100%.They still get a substantial amount of coins. Bitcoin is perhaps the most fairly distributed crypto.Zcoin also has a substantial founder reward. Looks like it's one of the best options around, with maybe only Monero being more private due to forced mixing.
+3	1526317114	2	Sure, as said I wasn't trying to speak to the fairness of their distribution method, I don't use Zcash for anything or hold any for the same reasons (Peter Todd was also part of the trusted seed process, I refuse to touch anything that guy is involved in on any level).Bitcoin's distribution is definitely favorable to me over a forced developer fund as deployed by Zcash.
+1	1526308814	3	Probably an effort to raise awareness of ZKP utility. I'd like to see new ZKP transaction types in Bitcoin (BCH).
+1	1526315077	1	Yeah, [5%](https://eklitzke.org/how-many-bitcoins-did-satoshi-nakamoto-mine) is clearly much better
+2	1526315085	1	It seems that your comment contains 1 or more links that are hard to tap for mobile users. I will extend those so they're easier for our sausage fingers to click![Here is link number 1](https://eklitzke.org/how-many-bitcoins-did-satoshi-nakamoto-mine) - Previous text "5%"----^Please ^PM ^/u/eganwall ^with ^issues ^or ^feedback! ^| ^[Delete](https://reddit.com/message/compose/?to=FatFingerHelperBot&subject=delete&message=delete%20dyysfvm)
+2	1526316413	1	He never moved 99.9% of his coins and even those were before 2011.
+1	1526318488	1	> Speaking of Zcash, how can a coin with 20% founder reward be taken seriously when there are alternatives?And being a corporate coin...I guess they payed to be included.
+0	1526308380	5	Not too sure if they did just yet. I know they plan on it tho. I went over to Gemini and did not see an option for BCH anywhere. 
+1	1526309208	3	"...details about when... remain sparse."
+0	1526311595	8	Fuck Forbes and their shitty website filled with scripts calling scripts calling scripts.
+1	1526312794	1	Probably a React website. They're the absolute plague.
+0	1526313330	3	Hopefully they updated their node before tomorrow haha
+0	1526315637	2	cant believe how much this means for adoption since a few exchanges removed it recently
+0	1526311758	2	Another thing for North 'Core'a to boycott.  That list is growing by the hour.
+0	1526315001	1	# M-M-M-M-M-M-MONSTER KILL!!!!!!!!
+1	1526319209	1	Unreal. Just unreal. 
+0	1526317026	1	As a result, the cryptocurrency offers privacy to those in oppressed nations, criminals and privacy-focused individuals, drawing the attention of both supporters and detractors. 
+0	1526316347	-1	all r/BTC contains is misleading titles, fake news, and propaganda. This is nothing new.
+0	1526317505	0	BCH adoption going forward surely and steadily. 
+0	1526311516	-3	ONLY ZCASH, NOTHING ABOUT BCH. 
+1	1526312134	5	"In addition to being approved to custody and trade Zcash the NYDFS has confirmed to Forbes that Gemini will also receive approvals for Bitcoin Cash, with a total market value of $25 billion and Litecoin, valued at $8.2 billion, though details about when these currencies might go live remain sparse."Nothing concrete yet, but saying "nothing about BCH" sounds deceiving.
+2	1526312507	3	Sorry, I was upset but the truth is, Gemini made no announcement about "adding" Bitcoin Cash BUT, they did announce when and exactly how they will support zcash. I am mostly in BCH, so don't get me wrong, I want this, but they may be putting it off due to the fork or politics. Here, Forbes got confirmation that Gemin applied for and received ability to trade zcahs, BCH..., but again, Gemini themselves have only announced zcash, it is a big difference and the title is disingenuous at the very least. 

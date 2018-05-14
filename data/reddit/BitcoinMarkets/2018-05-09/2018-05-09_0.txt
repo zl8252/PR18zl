@@ -1,0 +1,31 @@
+File created at: 1525898453
+Subreddit: BitcoinMarkets
+Submission title: I am surprised this isn't getting more attention. New York Stock Exchange Will Develop a Bitcoin Trading Platform
+Submission created utc: 1525883229
+Submission score: 121
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525884133	11	Yah this strange. After months of FUD and fake news this amazing story breaks and the market shrugs. That has to mean something
+1	1525884498	9	also comes a week after ridiculously bullish Goldman sachs announcement
+1	1525888541	7	I feel stories like this have popped up so much through either rumors or fake news posts that no one really takes it seriously until trading actually picks up.
+2	1525890064	1	Either there is news fatigue as you said or fundamentals have de-coupled from price. I think its that news as a whole doesn't effect this market much anymore. I think also this will have to correct itself at some point, we were told late last year that the herd was coming, what we are seeing hear are the first rumblings under our feet. 
+0	1525888634	2	This opens up the possibility of using bitcoin as collateral to take long and short positions on equities and other asset classes, and vice versa, which is nicely in line with the vision of the blockchain as the ultimate metal layer with other services built on top. I've seen attempts by startups like 796.com in the past, but this opens up a whole new institutional market.
+0	1525885231	2	they want all the $$ binance, okex, bitfinex are making on exchange fees, not to swindle people. Forget the conspiracy theories.. whats the business strategy here?  how do they plan to compete against the dominant established exchanges?
+1	1525885491	5	> how do they plan to compete against the dominate established exchanges?They are going to allow their existing high net worth clientele get exposure in their manged portfolios. They will not be competing with crypto kids. People frequenting this sub will not likely be their target market.
+2	1525885858	1	who's clientele? Goldman Sachs?  Can't they invest through hedge funds?  Why make an exchange if you don't intend to collect exchange fees, and run an exchange?
+3	1525886437	3	Intercontinental Exchange runs many exchanges NYSE being the most noted. I'm guessing the customers that plug into the NYSE for trading will now have access to plug into their BTC Exchange. Regarding GS yes they'll pitch to their existing clientele.
+4	1525886936	1	seems like a good way to dump their crypto holdings.  Bags gettin' heavy.  Satoshi probably spearheaded it.  Satoshi nakamoto: I tried to sell at 20k but the market crashed after 0.1% of my holdings were dumped.  GS: yeah us too.  lets make an exchange maybe we can dump onto institutions!institutions: no thanks
+5	1525886983	2	Whose bags? How did they get the bags? Who is going to buy them? 
+1	1525885472	2	They're only offering services to institutional investors. The whales now will be minnow compared to what the NYSE brings in.
+2	1525887781	1	they said that about the CME too.  It was a big let down.most institutions on the CME are short anyway.
+3	1525888170	2	Futures are different. People dont actually buy and sell bitcoin on futures contracts. This is direct buying and selling of bitcoin. This will increase the demand for bitcoin while simultaneously decreasing the supply. Demand goes up, supply goes down, price goes up.
+3	1525889160	1	Isn't CME on pace to doing 1 billion dollars a day this year? How is that insignificant?
+4	1525889490	1	CME Group Exchange Open Interest Report - MonthlyEquity Index FuturesBITCOIN FUTURESAPR: 2,220MAR: 1,71029.8%it's 2.2k x 5 but up 30% month over monthThats open interest - the volume could be much higher, people opening and closing positions daytrading, etc. Bottom line the market makers have already accumulated their coin in estimate of what the demand is going to be. or maybe not.. depends what they forecasting demand to be like last year.  Which probably is high, considering the crash.anyway its bullish.. more bullish than an exchange closing down, or plans being cancelled.  GS must see demand.
+0	1525887169	1	I hope they adopt a similar margin funding system to polo and Bitfinex.  
+0	1525893731	1	At least from reading Reddit lately, the thing I keep reading over and over when there's news is BUT WHY DOES THE PRICE KEEP DROPPING THEN?!?!?!?Short attention spans I guess.
+1	1525894109	1	Fornthe past few months the news has been overwhelmingly bullish. Maybe more so than anytime in bitcoin history. Price is disconnected from these fundamentals for the time being. Tough to say when the pendulum swings back but it should be explosive when it does. 
+2	1525897639	1	to be fair we did move up 50% in a month
+0	1525897412	1	[deleted]
+1	1525897556	1	SBI? 
+0	1525893356	0	Because the News is old an spreaded a lot of times, getting tired of the same news over and over. EVERY exchange builds its blockchain devision, us, germany,france,spain,uk,japan,china...............
+1	1525893681	1	Story literally broke less than 48 hours ago 

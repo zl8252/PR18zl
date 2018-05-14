@@ -1,0 +1,47 @@
+File created at: 1525804684
+Subreddit: Bitcoin
+Submission title: Blockchain.info. 8 months and still no segwit support. They are more lazy than sub-saharan public sector
+Submission created utc: 1525779120
+Submission score: 183
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525782724	22	They only exist because they had a modern-ish wallet early on, today their wallet is dated and crap, companies like them don't last long once they stop innovating in a field full of innovation and change. 
+1	1525786357	3	What's good to replace it? Bread?
+2	1525788194	12	samourai seems pretty popular and even has bech32 support, so I heard atleast
+2	1525790455	1	I haven’t used  coin.space but I believe they have segwit. I haven’t download it yet but waiting To use it. 
+2	1525789154	3	Yet another wallet that hasn’t implemented support for Segwit yet.
+0	1525785565	10	Laziness has absolutely nothing to do with their refusal to implement segwit...
+1	1525802395	1	It's Ver's doing.
+0	1525780918	17	Rumour has it Ver pressured the CEO into dropping it.
+1	1525784764	12	> Rumour has it Ver bribed the CEO into dropping it.FTFY
+1	1525802394	1	They were actually one of the first to *display* bech32 addresses. You had to be on their advance mode and you couldn't search/click on them, but they were very very early to add this.
+0	1525787902	15	They are an anti-Bitcoin company Roger Ver created, Roger has used their database to doxx users in the past.Use an alternative that isn't trying to slowly co-opt the Bitcoin name.
+0	1525783465	14	Roger was one of the first co-owners and for sure has some influence still.But I checked blockchain-info repo and they are working on a code to introduce lightning as well, so there might be some hope there.
+1	1525795531	1	>But I checked blockchain-info repo and they are working on a code to introduce lightningAre you sure it's Lightning? They were developing simmering similar but not interoperable. I think it was called Thunder.
+2	1525804600	1	Yeah, I had to "borrow" some code from them. It's actually not bad. But you can see assigned issues here: https://github.com/blockchain/blockchain-wallet-v4-frontend/issuesIn closed issues you can see what was implemented already.This is unreleased wallet frontend.
+1	1525783897	4	I hope so. Is ridiculous to try to support something that has few transactions even from dogecoin(bcash) than to full support, develop and promote Bitcoin, the main sell product of the platform.
+0	1525788162	10	Ver (Bcash) company stay away.
+0	1525788943	6	Don't like them? Don't use them. Send your coins to another wallet. What's the big deal ?
+1	1525789339	6	and what is the big deal to keep their promise that they will enable segwit the first quarter of 201&?
+2	1525790005	5	They were lying, or don't have the technical abilities to deliver. If you want to help the ecosystem, boycott Ver's companies.
+0	1525796179	1	Come now Jameson, Blockchain.info have been very busy with important press shoots with [former prime ministers](https://mobile.twitter.com/david_cameron/status/836294380281606144?lang=en), not to mention all those "Be Your Own Bank™" trademark lawyer meets.We should all be very proud of how far they've come from those early days when they relied on the good people in this very Reddit to help save them from the Apple app store ban :p
+1	1525796189	1	[**@David\_Cameron**](https://twitter.com/David_Cameron/)> [2017-02-27 19:18 +00:00](https://twitter.com/David_Cameron/status/836294380281606144)> Great to open @Blockchain’s new London HQ today - a fascinating insight into the future of finance, where Britain is leading the way. >[[Attached pic]](http://pbs.twimg.com/media/C5sdI1wWcAE5Wo3.jpg) [[Imgur rehost]](https://i.imgur.com/23fzc00.jpg)----^This ^message ^was ^created ^by ^a ^bot[^[Contact&#32;creator]](http://np.reddit.com/message/compose/?to=jasie3k&amp;subject=TweetsInCommentsBot)[^[Source&#32;code]](https://github.com/janpetryk/reddit-bot)[**^[Donate&#32;to&#32;keep&#32;this&#32;bot&#32;going]**](https://www.paypal.com/pools/c/80YvGrbq35)[^[Read&#32;more&#32;about&#32;donation]](http://np.reddit.com/r/nfl/comments/7pwo2m/heres_an_interesting_one_league_source_says/dsmirtu/)
+1	1525800399	1	yeah, never forget about this  https://www.reddit.com/r/Bitcoin/comments/1x4ses/blockchaininfos_response_to_apple_removing/  and the thank you is to turn their back to us. great.. :P
+0	1525790082	3	Hey Hey Heey 
+1	1525795605	1	Bitconnnnneccccctttt!
+0	1525785209	7	As a subsaharan public offical, I denounce the absurd intensity of fact in your post title!!
+1	1525785954	1	i have experience from sub-saharan public sector. Yeah they are lazy.
+0	1525786168	2	Why use a hosted wallet? SMH
+0	1525792315	1	The atleas said they would implement it in 2018. Will probably boost segwit adoption to 45% ish?
+1	1525800424	1	they said first quarter not 2018
+2	1525800509	1	Didnt know! Whatever the case, they are slow. Just like Exodus and plenty over other wallets
+0	1525796492	1	if you search for 'sub saharan public sector lazy' on duckduckgo this post will list among the first 5 results.
+1	1525796598	1	Good bot... oh wait.
+1	1525799552	1	now is first :P
+0	1525800005	1	Why is the DM from Harmonquest in the thumbnail?
+0	1525784765	-4	So... pitchforks? New enemy of Bitcoin?
+1	1525786339	3	No pitchforks. Putting pressure on them? Fuck yeah!
+1	1525786441	3	give one reason why their customers need to pay double fees?
+1	1525792211	1	Same enemy of bitcoin, Ver.
+0	1525801171	1	Casual racism...because? Couldn't have just said 'public sector' like most conservative types like to meme?Jesus.
+1	1525803191	1	Dude thats not what casual racism isLol

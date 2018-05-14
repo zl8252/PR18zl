@@ -1,0 +1,44 @@
+File created at: 1525898446
+Subreddit: CryptoCurrency
+Submission title: Let's spread adoption. Spot a business accepting crypto? Put it on the map with CryptoFind app, help crypto grow as a currency and get rewarded.
+Submission created utc: 1525840795
+Submission score: 296
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525849810	30	Not very nice that i can only login thru facebook. Also, tried to add a restaurant and it asked me for their emailIts more like an app for business owners to add and users to browse
+1	1525850499	-3	User can see businesses without facebook. Use of facebook is to avoid spam. I've raised it with devs. New release is coming up afaik.
+2	1525853180	22	Mandatory Facebook login should be a deal breaker
+3	1525858622	1	From Dev: "Twitter & Google login options are coming" 
+4	1525861313	2	We need a "login with coinbase"
+5	1525869500	6	no login needed at all
+2	1525854956	2	Yeah.. but to add a place i need to login. Its annoying. Also, the merchant needs to validate anyway by email (which makes me need to know merchants email - and it might not even be enough, since they might not take the validation email seriously.. cause it seems just random). So its more about the business adding themselves.All in all... hope it works
+3	1525856045	1	Thanks. I've raised this with dev. Think this is done to avoid spam/bogus listings.
+3	1525858573	1	From Dev: "We have had people list businesses willy nilly to get the bonuses - we need a way to validate there listing, make sure the info is correct and manager is aware of being listed."
+4	1525859288	3	What if we use the QR code to their wallet to verify the business?Something like that?
+0	1525851097	10	I opened a business very recently and I'm offering a discount to people paying with crypto. Thanks for this info, will get myself set up here!
+1	1525852158	1	Nice one!
+0	1525840823	7	Android: https://play.google.com/store/apps/details?id=com.graft.cryptofinder
+0	1525858733	4	Fuck Facebook usage. Definite deal breaker.
+1	1525858865	1	Twitter & Google login are being added.
+0	1525859696	2	Sounds like a good choice.
+0	1525873430	2	If only we had something like this already... https://coinmap.org
+1	1525886259	1	Cool idea but that site doesn't work well for me. OPs app requires Facebook so that doesn't work for me. Hopefully eventually somebody makes a good site:)
+0	1525841287	2	Get 300 Graft for just getting the retailer to put a sticker in the window. Not a bad deal.. You can thank me later when it moons in 9 months.https://www.graft.network/download-print-decal/
+1	1525853811	2	I don't get how?
+0	1525848172	1	Isn't this similar to dether? https://dether.io
+1	1525854266	5	No it's quite different. To start with Graft are using their own blockchain that ultilizes PoS &  PoW to create their own alternative payment  network/ gateway that operates at point of sale(POS) like Visa & MC. It will also be built into standard merchant terminals( so far they have certification for Verifone,  who are one of the biggest POS terminal providers in the world)
+1	1525849668	1	Not familiar with this project.
+0	1525874010	1	I have the android app downloaded on my phone but I don't see how to actually add a business to the map. Can you explain the process?
+0	1525876858	1	I would buy some of this coin, but the only exchanges it's on are absolute and total garbage
+0	1525876905	1	Why do I even need an app? Do you just have  Web browser version? 
+0	1525887114	1	This is the point of Dether. App with map for on/offboard of crypto, peer to peer.
+0	1525845922	1	Any plans to support Nano ? u/argon_natorThis is a small but growing list of sites that accept nano : https://usenano.org/ 
+1	1525848068	1	I'm not the dev, but yes, why not?
+0	1525855674	0	When someone posts about a coin he gets downvoted and called a shill, when someone shills his mobile app 95% upvotes
+1	1525856118	2	Hey fellow Omise fan. Not my project. I do support if fully, as it paves way for us to spend crypto.
+1	1525877607	2	Yes because we want people to develop apps, or websites that accept or integrate cryptocurrencies and blockchain technology somehow. Adoption and technological advances come first.. and price will follow. If you're just hoping for moon coin picks and lambos idk what you expect lol
+0	1525853373	0	also www.pivxplaces.com
+1	1525854877	3	No. Nothing like Pixv.  Graft are not trying to force you to purchase thier currency in order to buy something. Graft is more of a payment network that specializes at POS like Visa/ MC, so you will beable to use the graft network with any main Crypto, just like you can use Visa/ MC with any fiat currency. Also, everything is run through traditional merchant terminals ( the same ones that accept Visa/ MC). The merchant doesn't need to use an android app like they do with pivx. 
+2	1525857836	1	What the poster meant is that PIVX places has map where crypto (PIVX) is accepted. Let's not be tribal, as per Snowden's suggestion :)
+0	1525882027	0	The most important aspect of adoption is adoption of platform coins or DApp coins. Coins like EOS, TAU are not only futuristic, they will define the way SMEs will develop blockchain for themselves without hefty amount being invested into devs. This will remove the barriers to entry. We should support these coins.
+0	1525858425	-3	Have you looked at adding all Bitcoin Cash locations from Marco Coino? Tons of places in Tokyo taking Bitcoin (BCH)

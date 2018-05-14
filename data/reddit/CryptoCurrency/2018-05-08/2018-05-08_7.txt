@@ -1,0 +1,17 @@
+File created at: 1525804711
+Subreddit: CryptoCurrency
+Submission title: The Vertbase team is working on finishing the bank integration into the platform and finalize their testing and QA. Expecting to start onboarding their first US-based users on June 1st!
+Submission created utc: 1525729511
+Submission score: 286
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525747787	27	I hope this works out well for vertcoin. I haven't kept up with them much, but it seems like a good project, and I'll be excited to see another asic-resistant currency gain a fiat gateway.
+0	1525748662	17	I can't wait for this, VTC are making inroads for mainstream adoption. 
+1	1525764246	1	Just to make sure you know, Vertbase is not affiliated with the Vertcoin team. It's a completely separate entity.
+2	1525789549	1	They actually are, the community is part of the team according to their website: https://vertcoin.org/team/
+1	1525780296	-5	No one going to start using this. Current investors are the only ones interested. If this peeks their interest, then research should turn them off
+2	1525801488	1	Your feedback is not welcome, go buy a shilled coin like nano and have fun with your bags😆
+0	1525752239	11	Hopefully we will have another Cryptocurrency /fiat gateway and that is awesome for adoption. Vertcoin is a great project and will be around for many years 
+0	1525757972	5	Nice progress. With the low tx fees (it's like half a cent), this could be a really nice way to buy some crypto. let's hope the fees won't be as high as in many other services.
+0	1525747313	11	I'm psyched!
+0	1525775371	4	Within a month there will be two dedicated Vertcoin fiat exchanges, Vertbase(USD) and Vertpig(EUR)

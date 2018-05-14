@@ -1,0 +1,22 @@
+File created at: 1525898459
+Subreddit: BitcoinMarkets
+Submission title: Top Crypto movers page
+Submission created utc: 1525861335
+Submission score: 10
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525863229	3	cool. btw, where do you based the numbers?
+1	1525864142	3	Pulling it from a few exchanges as well as correlating with coinmarketcap's API - I love coinmarketcap, but I don't like their layout so I essentially build my own version to my own liking. 
+0	1525862890	2	Cool! Thanks!I don't mess with altcoins much, but info is always good.
+1	1525864193	0	I appreciate the feedback, meh I got in a bit too late for BTC, well I am lying I got in at $120 but sold at $400 so I chickened out, trying to make up for it now with Alts like Civic and EOS. 
+0	1525863405	2	Can you make the time period selectable between 1, 4, 8 hours?
+1	1525863985	1	Can you paste a screenshot for me to illustrate what function of the site you are referring to?
+2	1525864196	1	Just a shorter time period than 24 hours. This is totally a is-this-possible thing. I just want to spot a coin at the start of a pump.
+3	1525864835	1	Aha, Yes I can add that, I only have 1h 24h and 7days (similar to coinmarketcap.)
+4	1525864892	1	😎Great. 
+4	1525873567	1	Awesome 
+0	1525881039	1	Suggestion: Add option to weight the gain by market cap. I don't care that a coin that has 10$ of liquidity just moved 1000%, but I do care when a 1 billion market cap went up 10%.
+0	1525881778	1	i want to see a bigger time frame than 24h -- say 72h or 1 ~~day~~ week.
+1	1525882268	1	24 hours is one day.... 
+2	1525882320	1	fixed, thanks math senpai
+0	1525887528	1	Cool, thanks for sharing!

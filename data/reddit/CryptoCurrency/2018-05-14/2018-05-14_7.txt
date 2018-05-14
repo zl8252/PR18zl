@@ -1,0 +1,40 @@
+File created at: 1526319333
+Subreddit: CryptoCurrency
+Submission title: HSBC Completes First Trade-Finance Deal Using Blockchain, Opening $9 Trillion Market For Mass Adoption
+Submission created utc: 1526266995
+Submission score: 115
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526281528	15	Ah HSBC, the bank that got caught laundering money for drug cartels and terrorists. Recieving high praise from literal cartel lords such as "the place to launder money". 
+1	1526282205	10	yeah that old school banking system along with wells fargo and deutsche bank and probably somemore. LOL.
+2	1526283132	3	No doubt, it is what it is.
+0	1526276793	11	Blockchain =/= crypto
+1	1526281982	5	cryptos use blockchain.
+2	1526291033	6	blockchain without all the pillars is just a worthless, slow, public database.. it's useless.
+3	1526291380	1	[https://www.hyperledger.org/](https://www.hyperledger.org/)Enterprise blockchain \> [https://www.r3.com/](https://www.r3.com/)Infrastructure is the pillar.. Enterprise blockchain, infrastructure wise, is no different to a crypto dominated by large mining pools. e.g several large companies \(or several large mining pools\) providing most of the power to the blockchain. 
+4	1526291601	16	all garbage... Sure you can build one, but it has no point. The distributed ledger is NOT the magic that grew out of bitcoin. This is what wallstreet wants you to believe. The rest is useless, but without the rest blockchain is useless.An immutable public ledger only has value in a cryptographically secure, decentralized, borderless, permissionless, trustless peer to peer system.In any case where I would want to use only a blockchain, a postgres or nosql database will solve the problem more efficiently.There is absolutely no reason to ever use a blockchain without all 3 pillars. What makes bitcoins blockchain special is that it is secured by the most powerful computing network in the world. Not that it's a blockchain. The blockchain was how we solved the byzantine generals trust problem in distributed networks. If you're not building a distributed network, the blockchain is useless.When you centralize data, it gets stolen. And these blockchains will get hacked. You can't centralize something and NOT get hacked. It's only a matter of time. Not if, when.  Do not fall for the "blockchain" scam coming from the mainstream.They want you to believe this because this technology makes them obsolete.
+5	1526291663	7	Great counter argument. Thanks for the input,
+6	1526292087	5	no problem! i love this stuff and could honestly talk about it all day. Thank you for being open to discussion. That's worth more than anything! Especially on Reddit. Not something you see everyday.
+5	1526302438	1	Awesome post. 
+2	1526285194	3	Blockchain doesn't need to use crypto 
+3	1526291056	6	it most certainly does. Otherwise all you have is a very slow, public, and pointless database. In every case where you use a blockchain without all the pillars that make it what it is, you're better off using postgres or nosql.
+3	1526290383	2	every blockchain needs a cryptocurrency so that it can gather an army of shills and hype it up endlessly. cryptocurrency's true vision: sockpuppetry 
+2	1526307518	1	Mammals =/= humans>Humans are mammalsyes, but not all mammals are humans. 
+0	1526268740	4	This is stated too many times. There are like 50 crypto projects that open X Billion dollar industry to crypto. It makes it sound like they will also be worth billions which has yet to happen. 
+1	1526269247	1	Not much positive news in crypto space right now. So this kind of adoption article is never too much.edit: As per the article.. **"..the FT reported that in a somewhat parallel transaction, UK-based banking giant HSBC has completed the world’s first commercially viable trade-finance transaction using blockchain.."**
+2	1526270665	2	I don't' necessarily think we're lacking good news. I don't hate more of it though. This may be good but it's sounding more and more like a buzzword lately, just like Tx/s, and partnerships except it mentions money. 
+2	1526286193	1	I really don't know what that means. What have they done differently to make a blockchain transaction "commercially viable"? Why have all the b2b transactions that came before it not been viable?Also: > And now the race is on for the next standardization protocal (sic!), which unless something far better emerges in the coming months, will be blockchainBlockchain is not a protocol, obviously. Writer doesn't know what he is talking about.
+0	1526280082	2	Yes its a buzz but it's a step in the right direction to see banks continue to work to adopt blockchain. Here's a deeper look at what blockchain can do for trade finance: https://blockchainreview.io/blockchain-trade-finance/
+0	1526296845	2	Hey, now HSBC could go back to laundering money for the drug cartels in Mexico without worry... good for them.
+0	1526275957	7	Which blockchain? Why?Its like saying they used 'Computer', then people freak out thinking their Microsoft and/or Apple stock is being used but in reality they probably just used an Abacus with a Computer sticker on top (also known as 'private blockchain')
+1	1526281906	10	>**The transaction for Cargill was for a shipment of soyabeans from Argentina to Malaysia last week. HSBC used the Corda blockchain platform, which was developed by technology consortium R3. Dutch bank ING, which has also adopted the technology, was a counterparty on the deal.**do you even read the article before commenting?
+2	1526306915	1	Ha, I skimmed it but it was late, thanks for highlighting
+1	1526285202	1	It's using R3's Corda platform, which is meant for private blockchains (They brand it as a distributed ledger, though its mostly a semantics issue). It's reported in more detail here: https://www.gtreview.com/news/fintech/hsbc-and-ing-in-live-trade-finance-transaction-on-blockchain/From what I have seen, Corda has a lot of backing by Banks, and its likely going to become a big tech to power a lot of large interbank transactions in the Western world (A big thing that helps is R3 basically tailored the platform's feature set to what financial institutions care about). I helped out a tiny bit on that LenderComm product mentioned in the article, and worked in the same office, so I have some familiarity with Corda, though I can't tell if this transaction is using that specific product or not.
+2	1526300343	1	It uses something built on corda. However the transactions still go through their legacy systems. 
+1	1526281832	0	Fucking righteous retort.
+2	1526306926	1	righteous and tubular my dude
+0	1526288915	2	Xrp
+0	1526281352	1	company completes trial  -->  billions and mass adoptionYeah, that seems like the complete story
+1	1526282109	1	>**..UK-based banking giant HSBC has completed the world’s first commercially viable trade-finance transaction using blockchain**
+0	1526300134	1	Claiming first trade finance deal is so 2017Edit: also , the payments still go through their legacy systems.
+0	1526301162	1	Wonder what type of blockchain tech they were using... anyone want to link me some more info?? ;)

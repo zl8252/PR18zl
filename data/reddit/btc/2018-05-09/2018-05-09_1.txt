@@ -1,0 +1,107 @@
+File created at: 1525898403
+Subreddit: btc
+Submission title: Newbie tip! Do yourself a favor, get a Protonmail email account and switch all your crypto exchanges to that email. No reason Google/Gmail need to have your entire crypto history at their fingertips.
+Submission created utc: 1525857855
+Submission score: 247
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525860831	32	And use a password safe like keepass, not an online one. Make all passwords long, unique, and difficult. And 2fa everywhere. 
+1	1525870215	12	I recommend [bitwarden](https://bitwarden.com/) over keepass.It's open source, full encrypted, has been peer audited, and works really well on all operating systems including Android and iOS, and you can host it on your own server.
+2	1525884045	7	what makes it better than keepass? 
+3	1525886605	3	I have never used it, but bitwarden looks like a true client -> server, vs keepass which is just a shared local database. Correct me if I'm wrong.Just heard about it today, might switch off of lastpass.
+2	1525881530	2	that's nice
+1	1525873416	1	YES.   Tell your family.  I can't support this enough. 
+2	1525882576	3	U may reconsider this advice. People often go insane over money, especially big money. I'd say trust no one
+3	1525885230	2	You could be right 
+4	1525885934	2	With crypto u can conseal your wealth perfectly and close social world around u'll be less toxic, cos it won't as distorted as it could be
+3	1525894815	1	Yes my $300 portfolio could be big in 5 yrs
+1	1525881331	1	wow great advice especially if you have a large portfolio.better safe than sorry
+1	1525869275	1	Or better don't keep coins in an exchange...
+2	1525874346	6	You get an email every time you buy on an exchange even if you don't keep it there.
+2	1525894841	1	Abstinence education
+0	1525868518	14	May I suggest https://kolabnow.com as well?Also in Switzerland, even better webmail and access on your phone and for $40 a year I think its a pretty good deal. They do not require your phone number, address or anything like that.They actually take Bitcoin/Bitcoin Cash payments (as well as paypal etc) and I've been using them for some years with excellent service.Last I checked, protonmail did not take Bitcoin Cash, so for those that want to be anonymous or use their actual BCH, the kolab is the way to go.
+1	1525880349	3	Kolab is good too.Also Tutanota.com (Free).
+1	1525887548	2	> $40 a year And this is how you know how much profiling Google is making from your messages.
+1	1525893729	0	last I checked protonmail was free though, so not taking BCH is not a downside.Edit: just checked again and yes, it is still free and btw I just made a new account and it did not ask my phone number. This post is wrong about a bunch of stuff. why is this upvoted at +16?Edit 2: to be fair some of the 4 euros a month features are very basic and not included in the free version and I can imagine it being quite annoying to not have them, if the account is used for all mail and not only specific stuff.
+0	1525880788	4	I'm still in the process of moving things over to protonmail. You get so attached to email accounts.
+1	1525883847	2	I mean, you can have different email accounts for different purposes. Going entirely Google free isn't the same as having a separate account for a specific thing. I think that it's not a bad idea to have your "money" (crypto, bank accounts, etc) be a separate email account from the one you use for all your day to day emails, regardless of provider.
+2	1525885656	1	Fully protommail.com is the safest. Only reason to use gmail that I see is the calendar.  Maybe you see other reasons or features?But those ads are so so annoying. 
+3	1525887110	2	Sorry for not being clear. My point was that there is no point in waiting to move the "important" stuff away from Gmail if you have unimportant stuff holding you back from fully migrating email providers.I still use Gmail because I have an Android and am too lazy to fully leave it, but any account that touches money uses proton.That being said, I'm don't want to give my proton mail address out anywhere that might turn into a spam list to reduce the risk of getting pished. I only check my crypto and proton mail on 2 devices, neither of which leave the house. I don't keep banking / crypto apps on my phone because I use Google on it and is not considered a secure device. I'll use a different browser for secure vs non secure activities. I haven't noticed ads in Gmail in forever. Are you not using an ad blocker?
+1	1525885676	1	Awesome man.  Step in the right direction!  Keep it up.  
+0	1525859666	13	Absolutely.BTW, what's up with me protonmail requiring your phone number or a credit card, either of which collapses your anonymity.BTW2, a protonmail guy actually requested some assistance to set up BCH as payment method. That would be wins all the way around...
+1	1525870634	6	Paid accounts require nothing.  And they accept Bitcoin.  *Edit:  Even if they require a phone number they're miles ahead of Google.   They don't read your emails.  There's zero ads*
+1	1525867325	12	>> get a Protonmail email account> Absolutely.> BTW, what's up with me protonmail requiring your phone number or a credit card, either of which collapses your anonymity.LOL. Yes. Absolutely I will get a protonmail account.BTW, I will absolutely not get a protonmail account.
+2	1525870814	2	Get one.   They're miles ahead of google.  
+3	1525871252	-1	Listen officer, if you want my phone number that badly, why don't you just ask me for it directly? I will probably just give it to you. Why not? Everyone should have my phone number, **especially** those websites and services that claim to support anonymity.
+4	1525881984	4	Protonmail does not ask for phone number, it didnt when I signed uo.
+5	1525883785	1	When was that? They asked me to pay with credit card, or for a phone number. The reason they state is to prevent excessive account creation abuse.
+6	1525886259	1	Around two years ago. That's pretty shitty if they request one now.
+6	1525891312	1	From what I can tell it is somewhat random the phone request, I created a few accounts and then it started asking me, but, a week or two later I created a new one without any prompts.
+4	1525872554	3	You can't setup a gmail without one either.  We're comparing the two. 
+5	1525873159	4	> We're comparing the two.I thought the point was to suggest services that are better than gmail.
+6	1525873703	7	Protonmail is MILES ahead.   If they both need a phone number that part is a tie.  Protonmail doesn't read your emails.  Protonmail doesn't have ads.  Protonmail isn't in the United States.Three massive wins with the first part being so big it can't be overestimated.  Google and google employees can READ your emails anytime they want.  In addition over 900,000 law enforcement personal have access to gmail anytime they want.  Most times without a court even getting involved *(not than it is hard to get the court involved if they want)*For anything other than a **teenager,** I honestly don't understand how people can trust google with something so private and personal and essential as email.  Especially when there's a free simple alternative that is a breeze to use readily available.  Protonmail.com.  *Edit: replaces "teenage girl" with "teenager" after my wife read this*
+7	1525883699	1	Also replaced "wife" with "partner."
+8	1525885398	1	Hehehehhehehe.  I can't quite get that politically correct. Doing my best!
+6	1525882707	5	End-to-end encryption is better than Gmail
+5	1525884514	1	you don't have to with Gmail, they just bug you to add one
+6	1525885519	1	Protonmail requires another email or phone number to sign up for free.  Paid with Bitcoin requires nothing and fully anonymously setup.  I know for a fact Gmail requires something to setup.  Most have had their accounts forever but try signing up new. Online it requires me to have a phone number but I'm in Latin America.  If an Android they already have your info so they may not ask.  Are you sure gmail asks for no info to sign up?
+7	1525885881	2	ahh your right it's been ages since I created an account on Gmail...I wonder if  you could  just create a dummy account on Skype or something similar as a phone number to verify
+8	1525888167	1	No, they detect VoIP numbers. 
+8	1525898339	1	Theres ways around it but you can use those same methods on Protonmail.com as well.  Bottom line is comparing Protonmail to Gmail and Protonmail wins in every metric when it comes to privacy. 
+2	1525883439	2	Proton mail is good for privacy. Not so perfect for anonymity. (They don't claim to serve that need.)
+1	1525870634	2	I think you can get a temp email from somewhere, sign up with that as the additional email. Then when registering don't add your phone number or credit card, just do a captcha.
+1	1525881944	2	>Absolutely.>>BTW, what's up with me protonmail requiring your phone number or a credit card, either of which collapses your anonymity.This is not true
+1	1525877892	2	You don't need a phone number or credit card to set up a ProtonMail account. At least not for the free plan, in my experience.
+0	1525871823	3	What makes protonmail different ? I haven't heard of them before. 
+1	1525884017	5	End to end encryption to other protonmail users. Everything is encrypted with your key at rest. So once it hits PM's servers they can't read it anymore.They use SRP, so they dont have any clue what your password is even if they wanted to. 
+1	1525885856	2	Personally I feel email should be a private experience.  Gmail is not.  Google employees plus law enforcement can access your entire email from day one anytime they want.  *(including the IRS and SEC)* which should matter to all crypto supporters.  Protonmail doesn't read your emails.  Protonmail doesn't have ads.  Protonmail isn't in the United States.No brainer.  
+0	1525873840	3	Good friggin point
+0	1525877112	3	I wish they served android apks from their own site (they said they plan too and provide source code, but that was a long long while back). I think its weird to require a google account to then access their android app.
+1	1525885917	1	Still miles ahead of gmail.  But you're right. 
+2	1525894850	1	Miles ahead of gmail but we are still miles behind in where we should be, which is a blockchain controlled email network. Not like emails in a blockchain but where identity and communication rules (whom can send an email to whom, prices in sending solicitation emails, etc), rules controlled by you in the blockchain. I mean cryptocurrency technology is securing more than $400 billion and that is without having recoverability, it seems like it could secure identity on the web better than email can.
+0	1525877725	3	I use Protonmail, free version of course. I liked the fact that they offer RSA 4096 as a security option for free.
+0	1525886207	3	These are the kinds of posts that make me realize the r/bitcoin and r/btc people should have way more in comment than we do against each other.  Smart reminder posts like this to stay away from GMAIL and use a great service like PROTONMAIL is one of the reasons I love the crypto community 
+1	1525891474	1	Protonmail is also free unless you make a ton of accounts. That helps people with no money get signed up with yours.org...for example.
+0	1525865713	2	Pls elaborate how is that possible for Ugoogly to have teh access?
+1	1525870304	3	r/privacy
+2	1525870322	2	Here's a sneak peek of /r/privacy using the [top posts](https://np.reddit.com/r/privacy/top/?sort=top&t=year) of the year!\#1: [NSA Deletes “Honesty” and “Openness” From Core Values Statement on Their Site](https://theintercept.com/2018/01/24/nsa-core-values-honesty-deleted/) | [293 comments](https://np.reddit.com/r/privacy/comments/7sn1tm/nsa_deletes_honesty_and_openness_from_core_values/)  \#2: [Theresa May says the internet must now be regulated following London Bridge terror attack](http://www.independent.co.uk/news/uk/politics/theresa-may-internet-regulated-london-bridge-terror-attack-google-facebook-whatsapp-borough-security-a7771896.html) | [758 comments](https://np.reddit.com/r/privacy/comments/6f6wph/theresa_may_says_the_internet_must_now_be/)  \#3: [White House Publishes Names, Emails, Phone Numbers, Home Addresses of Critics](http://www.slate.com/blogs/the_slatest/2017/07/15/white_house_publishes_names_emails_phone_numbers_home_addresses_of_critics.html) | [588 comments](https://np.reddit.com/r/privacy/comments/6nm0r8/white_house_publishes_names_emails_phone_numbers/)----^^I'm ^^a ^^bot, ^^beep ^^boop ^^| ^^Downvote ^^to ^^remove ^^| [^^Contact ^^me](https://www.reddit.com/message/compose/?to=sneakpeekbot) ^^| [^^Info](https://np.reddit.com/r/sneakpeekbot/) ^^| [^^Opt-out](https://np.reddit.com/r/sneakpeekbot/comments/7o7jnj/blacklist/)
+1	1525885709	2	Serious?  Google and google employees can READ your emails anytime they want.  In addition over 900,000 law enforcement personal have access to gmail anytime they want.  Most times without a court even getting involved *(not than it is hard to get the court involved if they want)*
+0	1525868230	2	Not to mention they probably also have your fingertips, ehm I mean fingerprints
+0	1525869213	2	What's the difference between Protonmail and other non-big-four provider?
+1	1525870689	5	Protonmail is fully encrypted meaning they can't read any of your emails (Google can)So Protonmail is secure and has zero ads.  I can't support it enough. 
+2	1525872055	3	Who holds the keys though?
+3	1525884044	5	You do. Keys are generated client side. And the webclient is [open source](https://github.com/ProtonMail/WebClient)
+4	1525887158	1	> Keys are generated client side.But that requires the sender to do extra work. I don't think many online services will support it..
+5	1525887240	2	How so? It's no different than any other public-key crypto
+3	1525880167	2	And who does the encryption?
+3	1525873379	1	With Gmail?  Hmmmmm
+4	1525874593	2	With Protonmail.
+5	1525885124	2	I was being funny as obviously there are no keys to worry about with gmail.  But the argument is Protonmail is miles ahead of Gmail. Which it is.  
+2	1525882746	2	Is it fully open source?
+3	1525884086	2	The webclient is.
+3	1525885368	1	If you use the web client.  Their iOS and Android and Bridge add ons are not.  But I mean seriously.  Comparing the two free email services isn't even close.  And even forgetting security, I know gmail has amazing features but those ads are so so annoying.  As protonmail gett better and better I'd almost say it's more user friendly due to not having ads.  But security wise.  One is secure.  The other isn't. 
+2	1525877790	-2	Protonmail can read your mail. They just pinky swear that they will encrypt it as soon as they receive it.Edit: to whoever is downvoting, I hope that you are not doing it because you don't understand the security model of ProtonMail
+3	1525885213	3	They can't.  Its end to end encryption. https://protonmail.com/security-detailsIt's called zero knowledge.  
+4	1525885726	3	No, no, no!> Messages between ProtonMail users are also transmitted in encrypted form within our secure server network.This means that messages not between ProtonMail users are NOT transmitted in encrypted form.Most (all if you don't have many ProtonMail friends) messages that you receive come from outside of ProtonMail and they arrive unencrypted.ProtonMail is intentionally misleading about this. They could read all incoming mail if they wanted.True End to End security requires that the sender encrypt your emails before they send it. Some crypto websites do this. QuadrigaCX for example, and this does not require that you use any specific mail provider.
+5	1525898241	1	They're not misleading.  Email in transit is absolutely not safe.  That's for sure.  You can send an encrypted email to anyone and then they have to enter a code and that's fully encrypted but most don't like that extra step.  **We're comparing Gmail and Protonmail.**  Or Protonmail.com to any other free email on earth.  Protonmail doesn't read your emails.  Protonmail doesn't have ads.  Protonmail isn't in the United States.Find me another free service that has those qualities and is half as user friendly and I'll happily use them also.  
+0	1525873142	2	I had to renew my yearly subscription with them earlier this week using AmEx since they don't accept BCH yet.
+1	1525885993	3	Protommail does take Legacy Bitcoin. I'll email them to ask them to accept BCH.   
+0	1525883522	2	Another reason this is a good idea is that small blockers / Dragon's Den assholes are on a mission to dox, hack, and generally fuck you up, and it's easy to overlook unexpected ways you might've leaked info that they can use. 
+0	1525885465	2	This is a very good use that I never thought of. Thank you very much
+0	1525867969	1	Proton mail ftw
+0	1525881549	1	It's a shame the Android version doesn't have a widget
+0	1525882872	1	Using the same email for all of your logins is a terrible idea. Each exchange should have a unique email that is never used for anything else ever. 
+1	1525886026	1	That's a ton of work for most people though and really not realistic unless you run your own email server. 
+0	1525885641	1	Protonmail has no recovery options and shady service, do not recommend them to crypto noobs. 
+0	1525886785	1	And a VPN service!
+0	1525887768	1	Also, do not leave ANY of your usernames/ passwords on your computer, or any apps like notes and word documents. Get a flash drive and put everything on there.
+0	1525891478	1	No reason to give Google any of your info.  Protonmail is a great alternative.Use Startpage, Bing or Yahoo for your searches.
+0	1525891535	1	Hey there, I really love these newbie tips, got any more??? Or someone else can post one, maybe this should be a day of the week thing. 
+0	1525893451	1	Or run your own mail server.  I've been doing it since the mid 90's. 
+0	1525870174	1	This assumes you are using gmail in the first place.An awful big assumption.
+1	1525875026	4	I just googled "number of gmail users".*In February 2016, Google announced that Gmail had passed 1 billion active users.*There are only about 7 billion people in the world, and many don't have internet.
+0	1525872734	0	Who runs server for proton mail?
+1	1525886128	2	They do. But its end to end encrypted.  Protonmail doesn't read your emails.  Protonmail doesn't have ads.  Protonmail isn't in the United States.Name another free service that does these.  Plus super user friendly and nice.  No brainer man.  
+0	1525866838	-5	What makes ProtonMail more eligible to know your crypto dealings than Google?!ProtonMail is only more useful for sending end to end encrypted mail. 
+1	1525886070	2	Protonmail doesn't read your emails.  Protonmail doesn't have ads.  Protonmail isn't in the United States.Three massive wins with the first part being so big it can't be overestimated.  
+1	1525866849	1	Redditor /u/mutantdna has low karma in this subreddit.

@@ -1,0 +1,20 @@
+File created at: 1526319298
+Subreddit: btc
+Submission title: [AMA] Reminder: Jesse Lund, Vice President of IBM's Blockchain Group, will be doing an r/btc Ask Me Anything! livestream on May 15th from 1PM-2PM EST
+Submission created utc: 1526249042
+Submission score: 88
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526249135	7	Here is the original AMA announcement thread found in the sidebar: https://np.reddit.com/r/btc/comments/8iqx3r/jesse_lund_vice_president_ibm_blockchain_will_be/
+1	1526270175	1	That's interesting.Does their Blockchain group overlap with cryptocurrencies?
+2	1526271484	4	Yup. They have been actively using Stellar Lumens 
+0	1526270463	7	Very interesting. Why on /r/btc? Isn't IBM mostly associated with Stellar?
+1	1526288798	6	They did an AMA on r/stellar a few weeks back and then approached us asking if they could do one on r/btc. I'm not sure what their involvement with bitcoin is at the moment. You should ask them in a couple days.
+2	1526292353	2	I'm happy that they chose /r/btc over the "other sub"!
+3	1526298275	-4	They probably don’t realize they’re in the wrong sub
+4	1526298302	2	Redditor /u/priuspilot has low karma in this subreddit.
+5	1526298318	0	Please remember not to upvote or downvote comments based on the user's karma value in any particular subreddit. Downvotes should only be used if the comment is something completely off-topic, and even if you disagree with the comment (or dislike the user who wrote it), please abide by [reddiquette](https://www.reddit.com/wiki/reddiquette) the best you possibly can.Take care!
+4	1526312946	1	They don't do AMAs. Instead, they have AMACABAO theads: Ask Me Anything Core And Blockstream Approve Of
+0	1526249052	3	View in your timezone:  [May 15th from 1PM-2PM EDT][0]  [0]: https://timee.io/20180515T1700?tl=%5BAMA%5D%20Reminder%3A%20Jesse%20Lund%2C%20Vice%20President%20of%20IBM's%20Blockchain%20Group%2C%20will%20be%20doing%20an%20r%2Fbtc%20Ask%20Me%20Anything!%20livestream%20on%20May%2015th%20from%201PM-2PM%20EST&d=60*****^^Assumed ^^EDT ^^instead ^^of ^^EST. [^^undo*](/message/compose?to=timee_bot&subject=reprocess_ntz+request&message=%21reprocess_ntz+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkeXhoNmNkIiwiYWN0IjoicmVwcm9jZXNzIiwib3AiOiJCaXRjb2lub3BvbHkiLCJwbm0iOiJ0M184ajdkZWIiLCJpYXQiOjE1MjYyNDkwNTJ9.10lS0H51-7rd2MLPhXdfyNV5alOMic82vvJhUGbFujI)[^^delete*](/message/compose?to=timee_bot&subject=delete+request&message=%21delete+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkeXhoNmNkIiwiYWN0IjoiZGVsZXRlIiwib3AiOiJCaXRjb2lub3BvbHkiLCJpYXQiOjE1MjYyNDkwNTJ9.7u0m3vnIRHGqxkmkrZKkaBZR7t-c9IDH53TimGMpEBU)^^|[^^reprocess*](/message/compose?to=timee_bot&subject=reprocess+request&message=%21reprocess+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkeXhoNmNkIiwiYWN0IjoicmVwcm9jZXNzIiwib3AiOiJCaXRjb2lub3BvbHkiLCJwbm0iOiJ0M184ajdkZWIiLCJpYXQiOjE1MjYyNDkwNTJ9.10lS0H51-7rd2MLPhXdfyNV5alOMic82vvJhUGbFujI)^^|[^^ignore ^^me](/message/compose?to=timee_bot&subject=ignore+request&message=%21ignore+me)^^|[^^help](https://www.reddit.com/r/timee_bot/wiki/index)^^*OP ^^only
+0	1526295038	1	It smells good
+1	1526306148	1	[It](http://contracts.mywish.io/create?utm_source=com&utm_medium=S1405cherry&utm_campaign=redditS) smells even better. Like a cherry pie.

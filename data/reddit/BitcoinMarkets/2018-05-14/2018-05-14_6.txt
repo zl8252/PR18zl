@@ -1,0 +1,12 @@
+File created at: 1526319348
+Subreddit: BitcoinMarkets
+Submission title: BitGo custodial solution for institutional investors may be the bump this market needs.
+Submission created utc: 1526273270
+Submission score: 0
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526290128	2	Big Question is, "What is ICE/NYSE going to use?"
+0	1526288597	1	[Direct link](https://www.coindesk.com/bitgo-courts-wall-street-new-bitcoin-custody-products/).
+0	1526293470	1	BitGo are literally the last company I would trust with this
+0	1526291507	0	Keep praying that someone or something is going to save you...still probably not going to happen.
+0	1526308519	0	so the part institutional are interested is the Kingdom markets piece that allows third party custodial otc and handles kyc for participants . this is still tied up in legal. Source - they were in my office and this is what they said.

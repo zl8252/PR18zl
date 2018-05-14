@@ -1,0 +1,99 @@
+File created at: 1525898449
+Subreddit: CryptoCurrency
+Submission title: BCN - Read this dudes name..
+Submission created utc: 1525817898
+Submission score: 215
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525819813	155	I don't know whether I should be looking at the System96, the Seven DoorKnobs or both 😂
+1	1525868060	7	Honest to god, i didnt even notice System96!
+2	1525875601	7	but he's a 24/7 enthusiast!
+3	1525894575	1	he loves all the time.... all the time.
+1	1525855160	15	Pascal Ender is made up too.Ender is from the Sci Fi novel Ender's Game, and there's a reference in there somewhere about the philosophical term "Pascal's Wager" 
+2	1525871531	1	Ender's game is one of my favorite movies. Didn't even notice 😂 
+3	1525886337	1	Omg what? The book is great but, holy shit that movie was a pile of hot garbage. 
+4	1525886520	1	I haven't read the book so maybe my opinion will change after I do but I really enjoyed that movie. Not even going to lie 😅
+1	1525847545	-12	Don't forget Pascal Ender, pascal is a programming language
+2	1525847769	19	also a very common first name in germany
+3	1525850483	11	They named kids after a programming language?Edit: didn't know I needed it but here it is:/s
+4	1525852321	1	they named a programming language after a firstname...
+5	1525886397	1	r/whoosh 
+5	1525854234	-4	I think they named them after the unit for pressure.
+6	1525854533	6	Which was named after the French polymath Blaise Pascal
+0	1525820952	76	System96 looks like he was born in 2006
+1	1525849616	10	A 24/7 enthusiast too. Even whilst shitting and sleeping.
+0	1525819967	66	Shitcoin
+1	1525823724	35	Organized crime coin
+0	1525836611	32	Having him on the team will open many doors for the project 
+1	1525849019	3	savage but so true
+1	1525886449	1	Or... wait for it... close them 🚬
+1	1525874948	0	underrated post
+0	1525821546	29	I love how they have positions for 'enthusiasts' in the team roster. Looks so damn professional. 
+1	1525839106	35	He's not just enthusiast he's '24/7 enthusiast'. He reached a level of enthusiasm many here can only dream about.
+1	1525845658	3	This isn't actually the team, it's a [page of open source contributors](https://bytecoin.org/community) to the project. It's still funny though "24/7 enthusiast" and "telegram manager", lol..
+1	1525851254	3	The first one in this list is Afdi - Active User[proof](https://bytecoin.org/community)
+2	1525867875	2	why are they all wearing sunglasses? anonimity?
+0	1525831794	48	...And that's how BCN overtook XVG as everyone's fav shitcoin of the year. 
+0	1525820842	79	Team looks legit. I'm going all in!
+1	1525825765	16	YOLO
+1	1525840373	11	Dude, you have to wait for the McAfee stamp of approval!
+0	1525839149	13	Lmao and I thought nothing would get more ridiculous than tyrone fountain!
+1	1525852828	6	Haha, forgot the 50yr old Asian Tyrone Fountain. Still the winner! On that project they actually thought it would look legit. On Bytecoin they just let the developing kids and entousiastics use their game names. 
+0	1525821104	27	Seven Doorknobs is legit... His parents just stole the name from George Costanza
+1	1525839795	2	My thoughts exactly haha
+0	1525840491	19	Ancient scamcoin. Some group gathered the Binance listing fee to run the biggest PnD in the history of crypto. So many normies got wrecked. Can you even imagine buying this trash at 24,000 sats? hahahahhaha
+1	1525851007	1	Scam or not, with the continued increase in price, people are cashing money.
+2	1525855029	1	Somebody has to pay that money.
+3	1525856847	2	Yeah... The fools that buy higher than the previous fool is paying for it.
+1	1525842392	0	Bullshit. This was not bigger than bcash. 
+2	1525848239	-5	What's scammy about bcash
+3	1525869906	1	if you really have to ask that in all seriousness i feel kinda sorry for you... you probably shouldnt speculate on crypto...im not even kidding, anyone with half a brain, 5 minutes and google can figure out why exactly bcash is a "scam" and if you cant be bothered to even research the most obvious of obvious scams, but instead decide to ask in reddit comment whats "scammy about it" i dont think you have what it takes to not get rekt in this wildwest of a market ;)tl:dr; bcash is fake "bitcoin" fork made by bitmain so they can continue to use their asicboost advantage, with an artificially low difficutly (thanks to the totally not on purpose broken EDA), meaning it could be attacked by the majority sha256 hashrate at any moment, that gets promoted by roger ver and other known scammers as "the real bitcoin" in an attempt to trick noobs that dont know any better into buying their centrally controlled version of bitcoin... and this isnt even touching on how stupid 8MB blocks are... the things that gives bitcoin value are decentralization and censorship resistance, bcash removes all of those things by giving all the power to a central party (bitmain), anybody that says otherwise is lying or naive.https://hackernoon.com/thats-not-bitcoin-that-s-bcash-f730f0d0a837
+4	1525870353	2	Why do you hate peer to peer electronic cash? Like what do you have against on chain scaling. From my understanding it's been a strongly debated method since 2015. Yet despite separating in August. The Bitcoin Core camp still come out in droves to light shit bags and leave them on the door step of their neighbours that are simply trying to move on with their lives. Following their ideals over greed. Curious why you find that a problem?
+5	1525871227	2	>The Bitcoin Core campfirst things first. thers is no such thing as "bitcoin core", just stop, you look really silly when you say that... bitcoin core is the reference client ffs>Why do you hate peer to peer electronic cash?nothing. are you trying to imply bitcoin isnt peer to peer cash? try harder>Like what do you have against on chain scaling.nothing. you should fork to 1GB blocks, im sure itll go great... I mean not that you need it or anything since you cant even fill 1MB with transactions, but still go for it, im sure itll work out great and you can just keep making the blocks bigger whenever they get full. its so simple why didnt anyone else think of it, its genius really: we just make it bigger... simple as that, scaling problem solved once and for all...>Following their ideals over greed.lul wut? roger is trying his hardest to convince anyone who will listen and doesnt know any better that his version of bitcoin is "the real bitcoin"... like what are you even trying to say here? how is bcash following ideals? (lol) how i bitcoin following "greed"?this whole situation really isnt that complicated. everyone that understand bitcoin and crypto is moving forward with the real decentralized bitcoin while idiots and scammers are trying their hardest to push their own centralized version of bitcoin as the real thing, if you cant see that i really feel sorry for you and may god have mercy on your bags
+6	1525878156	-3	So you're saying you hold Bitcoin Core and not Bitcoin Cash? What makes the former a better long term bet than the latter when you consider what made Bitcoin Core "Bitcoin" is irrefutably no longer valid. ❎ Peer to peer digital cash - KIA❎ Chain of signatures  - KIA❎ fast instant payments - KIA❎ Transactions nearly free and under a penny - KIA❎ Network effect broken, merchants stopped accepting because of the above ❎ Community that stopped USING Bitcoin and innovating. So yea, enjoy those bags. ( ͡° ͜ʖ ͡°)
+7	1525881271	3	> irrefutably no longer valid.lol wut? irrefutable... goes on to literally spew lies that are provably false xD❎ Peer to peer digital cash - yes❎ Chain of signatures - yes❎ fast instant payments - yes❎ Transactions nearly free and under a penny - still nearly free and if people actually used bcash it would faaaaaaar worse, but nobody does... having low fees on a chain nobody wants to use isnt hard, just look at literally every shitcoin if you need an example❎ Network effect broken, merchants stopped accepting because of the above - lol wut?❎ Community that stopped USING Bitcoin and innovating. - omfg i cant even...after having a quick look at your comment history i just realized that i wasted my time here, 8 months ago you suddenly started posting pro bcash shit (mostly straight up lies) and now thats literally all you do with this account, so either  this is literally your job or youre a noob thats been had hook, line and sinker... either way, at this point I think you are hopeless and I wish you the best of luck with jihan and rogers coin, youre gonna need it
+7	1525886716	1	You can’t hold “bitcoin core” 🤦🏼‍♂️
+5	1525886616	1	Move on with their lives? Shut the fuck up lol I can’t 😭They literally own bitcoin.com and are actively claiming they’re the original bitcoin and that btc is a fraud. 
+6	1525886792	-1	> are actively claiming they’re the original bitcoinIt’s a fork of the Bitcoin blockchain that follows the original structure and functionality put in place by Satoshi.  Thats why they say this. > and that BTC is a fraudNobody is claiming BTC is a “fraud”.  If they are, they are using poor wording. The problem is that BTC has been co-opted by a corporation that has crippled its basic functionality. So they have a problem with that.  Many do. 
+3	1525864064	0	The starting price was around 500 and was added to Coinbase whose being investigated for insider trading or something cuz it is believed they allowed employees to stock up before the listing when those people aren’t supposed to take advantage of the coin prior to a listing. 
+2	1525848087	-6	shoo shoo corecuck
+0	1525824367	38	Again, thanks Binance for being part of manipulation, ohh, you made some millions, sorry. 
+1	1525837352	10	Your name has a warning next to it lol
+2	1525839297	12	I had warnings for quite some time.  Lurkers get no love.
+3	1525840274	12	Telling the truth doesn't either. Binance is based on fraud, look at their 'blog' how they claim giving away supercars in 'competitions' all of those competitions/icos are managed by the same group. With the consistency of it, I am sure they are involved somewhat with Binance as well. But yeah, don't claim things without evidence etc. Just people should think about it themselves, it does make things a bit suspicious.
+2	1525863188	2	Never understood those warnings "Has X comment Karma". Yeah but i can go to a shitposting subreddit and farm like 20k karma in a week by making shitty jokes.
+3	1525868260	1	hahaah
+3	1525870812	1	Link pls
+4	1525870997	1	[Link](https://i.imgur.com/9OvEmtl.png) provided.
+0	1525826495	7	seems legit
+0	1525828896	6	Pools don't just develop themselves...
+0	1525841242	5	Seven doorknobs has a face of terror 
+0	1525847929	4	How does Binance allow these coins? Such an obvious scam. 
+0	1525845018	3	Lol how the fuck did this shit get on Binance??Edit: To be fair, this is a [page of people who have contributed to the project](https://bytecoin.org/community), because it's open source. This is just the usernames they submitted. These people aren't actual staff, thank god lol..
+0	1525848629	3	Seven Dorknoobs is ok but I won't get into it until they get Daddy's Basement Superstar on the team. His enthusiasm can summon pools in telegram groups, 24/7. You know it boi! 
+0	1525846295	2	Nothing like weird names to get ppl confident in your project
+0	1525847651	2	Looks like a great team, lots of potential and whitepaper checks out. I'm going all in.
+0	1525857380	2	How was this listed in binance is beyond me. This is coming from a binance lover
+0	1525843277	2	Seven Doorknobs looks like a name you'd get from some sort of English name generator lmao
+0	1525844155	2	Honest question, why it's the team staying anonymous a bad thing? We still don't know who made bitcoin...
+1	1525856874	1	It's a red flag when you're asking for money or control a large portion of the supply. That's no different than handing your savings to a random beggar on the street while on vacation. Sure, it'll make that person happy, but when you expect to make a profit from it yourself, the odds are stacked against you.
+0	1525836152	2	[removed]
+1	1525840565	2	hahahaha
+0	1525817898	1	If this submission was flaired inaccurately, [click here](https://www.reddit.com/r/CryptoCurrency/wiki/resources#wiki_flairing_content).*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1525845420	1	You forgot Jason parser. 
+0	1525852119	1	Those names are wild from start to finish.
+0	1525861662	1	yes because the reputation of the team is based on identity. not like any other coin would be like this. 
+0	1525864421	1	All they need is Tyrone Fountain
+0	1525870047	1	Ryan Gosling - Enthusiast and Marketing Manager
+0	1525870381	1	What's a 24/7 Enthusiast and how do I become one
+0	1525875507	1	System96General Autist, 24/7Retard
+0	1525875827	1	If this doesn't scream shitcoin I don't know what does
+0	1525897491	1	One of the most solid looking teams in crypto easily.Thanks, just bought 250K!
+0	1525845531	1	Sigh, so many pump and dumps happening in the crypto space, doesn't give us a good rep
+0	1525862472	0	Such meme.Much wow.
+0	1525835868	-3	someone look at pascal ender. he looks like a freaking terrorist
+1	1525852971	1	Why are we downvoting? 
+2	1525857662	-1	I am probably targeted  by VeChain fanboys because I dared asked questions. More downvoting commencing in 3..2..1...
+1	1525836932	-2	Can totally see this picture on the morning news next to an explosion. Neighbors being interviewed, "He was such a nice guy, just kept to himself."....
+0	1525854766	-3	I trust 7 Doorknobs more than Mohamed Cherif Zeghad....Shady terrorist motherfucker lol....
+0	1525821153	-11	Seven Doorknobs is legit... His parents just stole the name from George Costanza

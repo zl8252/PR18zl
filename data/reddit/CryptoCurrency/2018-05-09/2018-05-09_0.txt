@@ -1,0 +1,251 @@
+File created at: 1525898433
+Subreddit: CryptoCurrency
+Submission title: New York Times Front Page Today In Case You Missed It!
+Submission created utc: 1525828487
+Submission score: 3557
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525830124	526	It's terrible what's happening in Venezuela. 😔
+1	1525850867	568	Everything you read in the news is true. I see people eating from garbage every single day.If you can afford it you can get some of the nice stuff like food, medicines (except for Cancer, Asthma, Allergies, Alzheimer, AIDS, etc etc), liquor, counterfeit items for personal care, bread every day, cheese etc.Most people earn 2.55 million bolivars which translates to $3 per month or $0.1 per day. With that amount you can't even afford food, to give you some perspective:* 1 raw chicken: 3 million bolivars* 1 kg or meat: 3 million bolivars* 1 small tuna can: 2 million bolivarsThere's no cash in the streets so you can't take transportation, if you need to go to work you need to either walk or go to the bus stop 3 or 4 hrs earlier.Source: I live here, but fortunately I can afford stuff because I'm a freelancer and started in crypto a while ago. So yay for crypto :DEDIT: Crypto won't save Venezuelans, I see people saying Crypto is the answer to the crisis here. Stop. People don't even talk about it in this country. Most Venezuelans are starving and their only thing in their minds is food or how to resist one more day.EDIT2: Someone downvoted this post. You must be a fucking Chavista.
+2	1525855506	82	I heard some people in venuzuela have began making money through old school runescape. If they manage to play the entire day ans farm the in-game currency, they can sell it on websites and I jave heard it is possible to make between 1-2 dollars a day. I was wondering if you ever heard of it happening
+3	1525867135	29	Used to play OSRS. There are plenty of Venezuelan gold farmers, or at least there used to be months ago when I played. You can easily make the in game equivalent  of $0.50 - $1 an hour with low-mid stats. At higher levels its possible to make the equivalent of over $2 an hour. The problem for the Venezuelan gold farmers though is the company that owns Runescape bans gold sellers because on their website they sell gold for triple the price of what the blackmarket gold sellers charge. Ive heard even logging in with a Venezuelan IP address will get your account banned even if you arent trying to sell gold. It's kind of sad really.
+4	1525867884	14	Yeah I even heard of players hunting venezuelan gold miners. It is very sad to see that there are people who give the in-game currency more priority than the actual lives of people in a country that is in trouble. They had the oppertunity to help the people of venezuela in a way of micro donations, but instead they do this instead.
+5	1525885504	3	That's really sad to hear but not to surprising from the online gaming community. It would be nice to see players coming together and doing something real by donating them in game money. It's crazy that in game money even means something to them. 
+4	1525877205	3	2$ is pretty shitty, I know other games where you can earn more and there's no such problems with bans.
+5	1525879743	6	Bullshit, osrs has dominated RWT for 13 years. WoW has had major inflation and 500k gold trades for about $25 USD. Other smaller online titles barely even have a market to trade $  for gold or items
+6	1525880119	4	Also OSRS client can be run headless (no ui) or remotely, you can run a VPN server of 10 clients for $5-8/m and it's infinitely expandable. Sure other games might have methods that make more, but you can't run 10 wow clients on a toaster.
+6	1525880760	4	> Bullshit, osrs has dominated RWT for 13 years. WoW has had major inflation and 500k gold trades for about $25 USD. Other smaller online titles barely even have a market to trade $ for gold or itemsMetin2 comes to my mind and Guild Wars 2, in Guild Wars 2 you can make as much money as good are you on flipping items on the market, same goes for WoW. WoW changes a lot too so depends what patch is it there are different ways, when I was playing you could farm raids for high tier items in small groups and the items went for 30-100k it was during WoD before the sub token release so basically one item was 10$ minimum and you easily could get 1 per hour. I guess if you want mindlessly farm the same shit for cash then maybe 2$ is the pinnacle but if you're willing to use your brain and change things depending on the market then you can earn much more.
+6	1525890251	1	You're wrong.
+5	1525877749	1	Please share!
+3	1525886721	5	What about something like CSGO or PUBG. You can sell the boxes then use third party to transfer you steam credits to an actual account. 
+3	1525885596	3	I read somewhere this week that the currency in World of warcraft is 7x more worth than venuzuelan cash
+4	1525894653	1	Think that number is up to 15x or so now.
+3	1525886659	2	I work on the team that’s developing a silly Nano fork called Banano. Similarly to Nano’s initial captcha faucet distribution we decided to keep with the free faucet model (but instead of just a captcha faucet we developed a simple runner style game event people can participate in to collect Bananos)One really interesting side effect (of the non-ico/free faucet distribution method) is that we have had a huuge influx of Venezuelan players. Even though banano isn’t traded on any big exchanges they still treat the game as if it’s a full time job, playing for many hours on the days the event is running. In some cases the game pays out better than working a minimum wage job for Bolivars. Which is insane when you stop to think about it.It’s a crisis, what’s happening in Venezuela, and I hope that our little meme currency, in however small a way it is, can do something to help.
+4	1525888002	3	Hello! I was tipped 1000 Banano for crafting [this dank meme](https://www.reddit.com/r/cryptocurrencymemes/comments/8hs39d/extra_extra_old_man_yells_at_coin/) yesterday - I read on the wiki the exchange rate is $0.25 per 100 coins and if that's still correct / if 1000 is enough to buy a non-negligble amount of food in that clusterfucked socialist hellscape do you know of a way I & others holders of juicy Banano could send it to someone there? I'm assuming not directly, but if there's a pool of funds that get distributed or something.
+5	1525888514	1	We don’t have any sort of charity initiative and afaik there’s no user led pool either (though both interesting potential ideas) your best bet right now would be to tip as you’ve been tipped (using our tipbots) there’s a burgeoning Venezuelan community on our discord and the bots there are very intuitive. On the discord you can navigate to #la-jungla which is our spanish speaking section. You’ll find many people there who would be overjoyed to be tipped. We also have a “rain” command for the discord tipbots that lets you tip a set amount which is then divided equally to all active users in the various channels. That’s the most egalitarian method. Hope that helps!Edit: In regards to the perceived value of your bananos, it’s still so early in distribution and without exchange listings that figure may not be 100%. We have some beta escrow services on our discord bots and the exchange rate is set by users in the bazaar section. Currently it looks like roughly ~3500 banano:1 Nano. The only true constant is that 1 banano = 1 banano :)
+6	1525888746	2	Cheers! Can you post or send me the link to the Discord please?
+4	1525896179	1	Yo can I ge a link to this Banano nonsense it sounds great
+3	1525890257	2	Its more like 1-2 per hour but yeah
+2	1525855075	13	How much of the people you know are farming gold on Oldschool RuneScape? Those who do must live quite nicely, considering.
+3	1525893567	1	I know people playing Pokemon and selling virtual cards online.
+2	1525857727	8	How safe is it to live there while having a higher income?Let's say you can make something like $2K, which is like 600 times the average wage... Does that make you live like a rockstar over there or just puts a target on your back?Prices seem super high compared to the currency and wages, but not compared to "regular" prices in USD, but I might be wrong.I've heard different opinions and I'm quite curious about it.
+3	1525859033	17	I was dating a Venezuelan girl near the end of last year. she managed to get out and lives in Ireland now.She was telling me that if you had 100 dollars in cash in your apartment and people found out, it would be likely that you would be kidnapped for it
+4	1525862834	4	It someone lives in a poor neighborhood, it could be a problem.  But for all the poverty, there are still plenty of pretty well off people in Venezuela.  I'm on a hobby forum where items cost X,XXX-XX,XXX.  There are several Venezuelans on the forum posting videos/pics/reviews.  They can afford the hobby and by the visuals of their environment it doesn't look like they are struggling at all.  Basically, even in the worst of the worst, there's people with money and power.  And that will certainly be true of Venezuela.  That oil/mining/farming/etc money isn't just disappearing into thin air. In unsafe environments there are bubbles of wealth and semi-wealth where life is more than livable.  People also misinterpret statistics - just because crime rate may be 100x higher than Detroit doesn't mean someone is going to die if they go to the store today.  Even in very bad areas, it takes a very long time for statistics to catch up.  (Never been to Venezuela.  But I have been to some poor countries in Latin America and lots of poor counties in Africa, including Zimbabwe.)  
+5	1525865314	3	In the nineties, my parents considered buying beachside property in Venezuela. They eventually went with Aruba but sometimes I wonder what would've happened if they'd gone for it.
+6	1525870568	10	Maduro would own it and your parents would be imprisoned for *something, something, imperialism of the USA*
+3	1525878942	2	>Does that make you live like a rockstar over there or just puts a target on your back?Depends on where you live. The rich area of my city (Maracaibo) people contract private security and put gates on the surrounding streets. 
+4	1525881541	1	Rich by what standards, I wonder?
+5	1525882048	2	Well, they usually drive Hummers, Corvettes, Porsches, BMWs. 
+3	1525894131	2	>Let's say you can make something like $2KI earn way more than that per month as a freelancer \+ ether mining and yes you can live like a rockstar, I can afford pretty much everything I want here and I'm pretty sure I can even start a successful food business \(like a lot of people is doing\) but I'm saving every penny to start a new life with my wife and kid in another country.>or just puts a target on your back?Definitely but you need to stay low\-key. E.g. Never mention to anybody you earn in dollars, live a normal life without excess, don't buy expensive cars, definitely don't buy an iPhone X, etc.
+2	1525872569	4	Incredible and sad. Venezuela should be one of the richest countries in the world. When Chavez took power some stupid Canadian socialists were cheering.
+2	1525864716	7	This is exactly what I said a while back and got downvoted to oblivion.The first thing people think about in such a crisis is food, water and healthcare. Dont bloody tell me that they can use crypto or what not, these people cant even afford bread let alone some cryptocurrencies. The people who think that crypto is what these people think about and need really, should opens their eyes and get out of their moms basements to see what is happening in the real world.Get a grip
+3	1525868389	5	Crypto obviously isn't going to solve their problems especially at this point but it is a useful tool and an alternative to using depreciating fiat.If a large percentage of the population had access to crypto a lot earlier it could have been used to prevent this situation.  Sadly what we have to offer right now is way too little way too late.
+3	1525868797	3	Yah seriously and having personally been homeless at one point when I was younger I can’t imagine using the measly 50 bucks I had to my name to buy crypto in the hope that it would make me rich. Those luxuries are for people with a steady stream of the necessities and then a little extra. Not when ur struggling just to eat
+4	1525869821	6	Investing in crypto is not only about making you rich, it's about preserving the buying power of your capital, especially in such situations.
+5	1525873081	2	Agreed. But my point was that even *that’s* still a luxury for many in different regions. But ur right even tho USD inflation is down a bit it’s still depreciating so u gotta keep up
+6	1525891080	1	I agree its far too late now.  However, theoretically if everyone was able to put a portion of their income in crypto I'm sure they would be doing much better than they are right now. (provided they could get it out)
+2	1525861571	3	That is insane, plenty of work online with low wages like that. Cheap computers plus basic computer skills would be a life saver.
+2	1525871980	19	The situation in Venezuela is disgusting. Unfortunately this kind of situation is the tried and tested result for societies that give in to the delusion of socialism.I expect to be downvoted by all the /r/LateStageCapitalism fans, but the simple truth is that Venezuela is in dire needs of a Free Market system in conjunction with Democracy.I'm a big crypto advocate, but crypto doesn't address the issues faced by a society lacking a functioning system of property rights along with a government that defends and enforces said rights.
+3	1525876119	10	Sorry, what's happening in Venezuela was never actual socialism.  It was a dictatorial power grab, and an actual Socialist system was never fully implemented.This is actually a much better illustration of what happens when a government is formed from the people who led a revolution.  When you allow your militia leaders to then assume civilian leadership, they carry the aggression and military mindset to the government.Chavez never had any intention of installing actual Socialism: he intended on installing HIS SUPPORTERS AND FRIENDS, which is exactly what happened.Socialism didn't ruin Venezuela, mate: greed did, as it always does.  Chavez and co. raped and raided Venezuela for years, enriching themselves while pretending to be Socialist champions.The US is more socialist than Venezuela.  We have corporate subsidies, wellfare, Social Security, government funded highways and schools...the only difference is we allow the free market to control our food and water and commerce, and we are can vote for more than 1 fucking party.CAPITALISM DOESN'T WORK WITHOUT GROWTH so hopefully Crypto will be the catalyst for another 50 years of healthy global capitalism, but long term we are going to have to look at more socialist-style policies to deal with the rise of automation and unemployment.
+4	1525876807	8	[IT WASN'T REAL SOCIALISM](https://youtu.be/zw-FF6CPmvs?t=20441)Every goddamn time.
+5	1525877161	8	Denmark has "real" socialism.  An actual government, with rules, and elections with monitors.  It wasn't an OBVIOUS BANANA REPUBLIC PROPPED UP BY A MILITARY JUNTA.Come on, read some fucking text books you unbelievable idiots...
+6	1525890025	4	Now listen here, it's okay for delusional hardcore libertarians, ancaps even, to say that Denmark is socialistic. It's not okay for socialists to say so. Denmark is 100% capitalistic by the standards of 21st century. Marx would condemn it. There is not a single sense in which it is an example of socialism. It's just not an Ancapistan. 
+7	1525894029	0	Capitalism and Socialism are on a spectrum. Denmark is certainly more towards the socialist side than most other developed nations. Marx advocated communism (where the workers collectively owned the factories), but I'm sure he'd be more in favour with the employment situation in Denmark compared to the USA (and he'd be right). 
+6	1525878608	0	I considered engaging with your argument in earnest, because I don't generally like sandbagging a conversation by hammering down a point (which I admit I did).But then I read your post carefully and didn't really find an argument. In fact, you admit yourself that when it comes to food and water, venezuela is more socialist than the US, yet you still reverse the terms for some reason, calling US more socialist than Venezuela.Denmark is a country with private property and market economy, with a minimum wage of $11. Property rights are well protected. There are few restrictions on firing and hiring. They funded their welfare program by their oil reserves and since those are running out, the socialist part of their government is becoming unsustainable. In recent years, Denmark has been reducing their welfare spending every year. They are in fact becoming less socialist.Why are they choosing to become less socialist if socialism is so wonderful to live in?
+7	1525881045	3	Because they have growth.  They are growing their economy, and capitalism is 100% better for "Growing" an economy.But once your economy becomes dependent on Service sector, like the US, capitalism is only a hinderance as there is no more room for growth.  Once an economy stagnates, it is MORE beneficial to transition to socialist policies that offer a sustainable quality of life, so that folks have more free-time to innovate.A hybrid of the two is the ideal: a government that provides for all basic services for its citizens using shared pool of wealth (taxes), while allowing the free market to drive innovation, industry, and leisure.
+8	1525882028	3	Why would a stagnated economy benefit from transition to socialist policies?Socialist policies improve quality of life for some, until the money runs out. There is nothing sustainable about it. You can see this in the west. As most western countries have become more socialist the last five decades, they have racked up more and more debt. The hangover for this overspending is arriving for the younger generation, which are less likely to own homes, less likely to have stable jobs, earn less money when controlled for inflation and spending power.It's just borrowing wealth from future generations to spend now on ipods and iphones.Every western country is some kind of hybrid between the two, the real discussion of course is the degree. And once it becomes more socialist it gets closer to venezuela. That's what happened to both China and the Soviet Union. What happened to South Africa. It will continue to happen again and again for people that want stuff now rather than work for stuff tomorrow.
+9	1525882391	0	Yeah the money isn't going to run out, dude.  we aren't venezuela and I'm not talking about the government seizing control of private industry.  NOBODY IN THIS COUNTRY WHO IS SERIOUS ABOUT THIS STUFF IS TALKING ABOUT ANYTHING EVEN REMOTELY LIKE THAT, so stop projecting.The benefits come from having a populace that is not bothered by the basic fight for survival.  As numerous studies have shown, happy people are more productive and innovative.  As automation takes more and more jobs, we're going to be left with plenty of folks who literally do not need to work: they have become redundant.  There are 2 ways to deal with them:1.) Let them all die.  If you are in favor of this, I sincerely hope you get cancer, suffer tremendously, and die from it.or 2.) Establish a universal income/safety net/citizens pay that allows folks to live their lives as they want.  you can either sit around on a decent public pension, or transfer part of that money into schools/trade schools to learn a valuable skill.Eventually, the innovation will lead to new industries, which can then hire people, thus lowering the cost of the UBI.OF course, this is all moot if we radically invest in space exploration.  There's enough work to be done there that we could employ the entire planet if we just worked together on getting off this rock.
+6	1525895071	1	Words have meanings, you don't get to redefine them to suit your opinion; that's dishonest. Those "textbooks" say that Capitalism and Socialism are Modes of Production \- Denmark is the former, not the latter. This is affirmed by economists worldwide.* **Socialism** = Public \(government\) ownership of the means of production, restrictive trade and exchanges, and the central management of economic resources.* **Capitalism** = Private ownership of MoP, \(relatively\) free trade and voluntary exchange, and decentralized \(market\) resource allocation.* **Welfare** = A set of polices designed to lower barriers to market participation or to provide basic needs \(which also lowers barriers to market participation\).During a 2015 US visit, Denmark's PM called out Sen.Sanders' misrepresentation of Nordic\-Model:>[https://www.vox.com/2015/10/31/9650030/denmark\-prime\-minister\-bernie\-sanders](https://www.vox.com/2015/10/31/9650030/denmark-prime-minister-bernie-sanders)Heritage/Wall Street Journal's "Index of Economic Freedom" ranks Denmark as MORE economically liberal \(i.e. free market\)than the United States:>[https://www.heritage.org/index/ranking](https://www.heritage.org/index/ranking)Denmark's robust Welfare system is **predicated upon** it's capitalist economy.
+6	1525878618	-6	Socialism is evil - look at history buddy. Capitalism might have some great evils - but its the best we've got for now.
+5	1525896586	1	it's a mental illness 
+4	1525889525	1	> greed did, as it always does. So, since greed always ruins any attempt at a socialist society, can we safely assume that socialism, by design, can not handle an externality that will inevitably manifest itself in a human population? 
+2	1525871409	2	serious question.. if everything is so cheap, wouldn't a large scale attempt of assistance (say even "just" 100k USD) make a difference for a LOT of people? Food/resource wise?
+2	1525892808	2	Love EDIT2
+2	1525858651	3	I like the bitcoin community because of this
+3	1525872027	1	Someone was like:YOU ARE USING COINBASE THATS NOT BITCOINYes it is.  I dont have USD in coinbase. My shift card spends BTC. Coinbase email peer to peer sends BTC.Governments prints more and more fiat, who cares if we used blockchain to move rare digital money that doesnt inflate.
+2	1525854249	4	That is why Roger Ver mentioned that babies are dying from lack of economic freedom. Like him or not, that is true and crypto could give them atleast somekind of stability. But it is still more like assets to get rich even richer. It is sad realy.
+3	1525855785	8	Roger Ver doesn't give a fuck about what's happening in Venezuela, all he wants is more money.
+4	1525856687	16	Roger has been known to say "I don't need more money. I just want people using Bitcoin" when pitched profitable but irrelevant ideas. So not sure where your Intel comes from. I suspect you pulled it out of your ass.
+5	1525882833	2	You mean he wants people using Bcash?
+5	1525857493	0	I dont want any money and wish my wages to go to poor people.... Ive been known to say that, doesnt mean i actually believe it. My intel is every bit as reliable as yours.... He doesn't want everyone using bitcoin, he wants them using bitcoin cash, which he pretends is bitcoin.
+6	1525880113	1	I don’t want people using bitcoin either (I recommend other top 5 currencies). It is no longer representative of what digital currency can do. 
+6	1525860101	2	Your logic is completely broken there. But okay. Good work. You admit you say things you don't mean.
+7	1525865389	-5	Is it any worse than saying things you don't understand?
+8	1525866048	3	😂
+4	1525855979	3	oh excuse me but why are you in crypto?
+5	1525857280	19	It all started in the summer of '96, it was a real hot day, I can still remember it, my friend Timmy had just gotten his new bike. We brought it up to Loughlins hill, just wanting to check out how fast it could go. He looked at me nervously, I told him its okay to be scared, but no matter what happens to keep pedaling. He smiled back awkwardly and we set off. We had just cleared Mcnamaras entrance and were taking a sharp right, I negotitated it safely but heard a scream and looked back to see Timmy had hit the wall. He wasn't wearing any helmet. I jumped off the bike and ran back upto him, the sun overheating me and i fell to my knees beside him gasping for my breath. He looked fine at first, but then I noticed the blood on the back of his head. He was cut up pretty bad. Timmy started to shake in my arms, drifting in and out of consciousness. He looked up at me with a big smile on his face and said "I never stopped pedalling"........ A tear ran down my eye, I answered him "You sure didn't Timmy, and when you get up we're going to keep pedaling"... He tried to laugh but coughed up some blood instead. "I sure hope we can pedal forever and ever" were Timmys last words as he went limp in my arms. I lost my best friend that day, all because I told him "to just keep pedaling", so to answer you're question as to why I'm in crypto, it's so i can get used by really hot women who are after my money.
+6	1525872718	2	L0L, you deserve a medal ma dude. God bless Timmy :(
+6	1525864981	1	lmfao, how did this get downvoted i'll never know
+2	1525862851	2	It won't save them in the short term, but it will help long-term. Remember this mess is due to hyper-inflation to begin with, and that would not have been an issue with crypto.
+2	1525870094	1	I see a ton of Venezuela on Christmas, it's really sobering to see they're probably  only there because of the countries current crisis.   
+2	1525888184	1	Hi, can you recommend me legitimate charities to sponsor a family monthly? I'd trust a locals opinion over someone elses.
+3	1525894441	1	Unfortunately you can't start a charity without being targeted by the government. The government doesn't want anybody to know what's going on here.
+2	1525855700	-2	>If you can afford it you can get some of the nice stuff like food, medicines \(except for Cancer, Asthma, Allergies, Alzheimer, AIDS, etc etc\), liquor, counterfeit items for personal care, bread every day, cheese etc.Are you talking about America or Venezuela?
+2	1525870242	-1	I would downvote your post just because you felt the need to edit to call someone else out for downvoting it. What do you care? Post your comment and let your thoughts stand on their own. Who cares which way people vote a comment. Do you want to raise awareness for the crisis you talk about or harvest reddit karma?
+3	1525893325	1	After a certain amount of downvotes the comment is hidden.
+3	1525871662	0	I did exactly that. :\)Everyone has opinions from different but equally valid perspectives, the OP shouldn't go around denigrating people for which way they vote on a post.
+1	1525846981	40	It really is heartbreaking.  It’s a good reminder that while we complain about being in the red, we have it significantly better than other people in the world.
+2	1525851319	4	Absolutely mate, all round terrible situation. Inflation just hit 13779% . . . http://news.abs-cbn.com/overseas/05/08/18/venezuela-inflation-hits-13779-percentMental.. 
+3	1525862914	1	Anywhere we can see a realtime update?
+4	1525867560	3	[one guy at an Alabama Home Depot controls Venezuela's currency](http://theweek.com/articles/667073/how-guy-alabama-home-depot-controls-venezuelas-currency)
+5	1525879680	1	Actually, people now use Localbtc's figures as reference, starting this year the BsF devaluated from 200000 BsF/$ to 800000 BsF/$, and a part of that is because of the price drop of BTC  that happened at the begging of the year. 
+2	1525855591	2	Venezuela is red too, in a different way though
+3	1525879761	1	The reddest red. 
+2	1525890891	1	Yes, this is very true :( A lot of us got into crypto on the promises it brought for helping the 2nd and 3rd world but it's easy to lose track of that with the gains and memes.
+1	1525831922	7	IKR?
+1	1525861502	2	It's very sad.
+1	1525874853	2	/r/vzla go make some donations with the tippr bot
+1	1525834972	-19	Crypto could be the answer!
+2	1525840030	38	Certain towns in Venezuela have started using Nano actually (long before any of us knew about it). The distribution was marketed towards there most.
+3	1525840216	11	Yep! A lot of them got it via faucet in the RaiBlocks days. Hopefully it's creating a better life for those lucky enough to have stumbled upon it.
+4	1525840525	12	I small part of my family tree lives in venezuela, I actually found out about XRB from them, but sadly they didn't tell me during the faucet, I arrived the day it closed :/
+5	1525840712	2	Well, if they told you about it around the time it closed, then you still got in very early. :)
+6	1525841038	2	oh yeah, I only wish I put in more haha
+7	1525841693	2	Don't we all :/ haha
+2	1525846456	1	Maybe part of the answer, but I don’t think they’re main issue is a poor exchange of currency.
+3	1525847108	1	Definitely part of the answer -- one of their main issues is that their currency is pretty much worthless.
+2	1525836431	1	Is there any projects/ngo helping there to whom we can donate?
+3	1525840752	6	EatBCH
+3	1525850060	1	https://www.cuatroporvenezuela.org/I remember one Redditor posting on the bitcoin sub about personally donating food but can't find their post. I am not sure if it was legit or a scam.
+3	1525860632	1	https://twitter.com/eatBCH/status/992911261338947589
+3	1525837867	-3	Dash
+4	1525839969	3	I would feel very wary of donating anything to those cult leaders, is there proof the money goes there?
+2	1525842402	0	Dai!
+1	1525879501	0	They don't have condoms there?
+1	1525893485	0	You mean socialism?  Yeah, that's what happens every time.
+1	1525876847	-1	Wtf you talking about? Centralized economic planning is the only way to get economic and social justiREEEEEEEEEEEEEEE
+0	1525830687	128	And how the market is responding? Going down of course LOL.Nevertheless, this is just the beginning my friends, HODL, HODL!!
+1	1525834324	101	If someone read that article and instantly decided to buy BTC it'd probably take more than a week to actually get it, lets be fair haha
+2	1525871233	5	A week?It took me 16 days to just get approval from kraken/binance and another 2-3 days for fund transfers.
+3	1525874780	6	Coinbase is much faster, and most people will be using coinbase as their first entry point. I know I did.Coinbase is also ramping up and hiring like mad.I can only get so erect.
+2	1525835118	8	Pretty true. 
+2	1525875266	1	Priced in!
+2	1525865100	2	Wait are transaction times really high again? Last time I used BTC ( ~2months ago ) it took a few minutes to receive amd some people on herr even downvoted me because they said it was 'slow'
+3	1525866196	15	He probably meant that, someone new to crypto, getting verified on exchange and co will take about a week.
+4	1525866729	2	Ah ok, so the transaction times are still fairly low?
+5	1525867979	6	Blockchain transaction time is around 10 minutes for BTC and has always been like that. It's the exchanges that add extra processing time. They also wait 2\-3 blocks before updating your balance, so it might be 30 minutes before you see your money. I honestly tend to agree with you, this is a bit slow....but if you want to go faster you need to look at other crypto, not BTC.
+3	1525866471	1	In case you are serious and not trolling, fiat gateways are the holdup. Let’s say you decided to buy your first .01 bitcoin. You would spend the afternoon figuring what it it, google where to buy it, realize there is no place to trade it in person for 600 miles. You would eventually find coinbase and set up an account. If you were really excited you might complete kyc aml checks tonight. Then you husband/wife would say “are you coming to bed at all tonight?” Tomorrow on a lunch break link you bank account after finding a physical check ( who carries those anymore? Do you know it is 2018 dude?.. yes I’m kidding but shouldn’t have to be, that’s a different rant.). And wait 7-9 days for the transfer to finish and get bitcoin after it has gone up/down/sideways for 2 weeks. Fomo bc it is up 20%.
+4	1525866480	2	600.0 miles = 965.61 kilometres. _____^(I'm a bot. Downvote to 0 to delete this comment.) ^[Info](https://www.reddit.com/user/bot_metric)
+3	1525872211	0	They are talking about the exchanges taking a while.I can send you BTC instantly and free from coinbase. I cannot verify your bank account instantly. Coinbase takes a week or 2. Also OP, try spending BTC. You will find nearly everyone uses layer 2 solutions. Its faster and cheaper than alt coins using on-chain transactions. 
+1	1525846309	6	Are the best coins to hold for this Wall Street news BTC and ETH?trying to get some people’s input
+2	1525847622	3	I would guess BTC for sure, initially. Will have to wait for more news to know for sure.
+3	1525852763	4	Yea, especially after that bullshit the wall street journal pulled on ETH.
+4	1525875822	1	?
+2	1525872263	-6	ETH is not at the same level as BTC.ETH is run by 1 russian kid, it hasnt gone through POS hard fork, it has no cap on coins.
+1	1525835980	5	It's just going on sale! Buy more!
+1	1525851778	-1	tbh market going down is probably because of the uncertainty about the net neutrality vote today
+1	1525861125	0	Another possibility is that Wall Street will give traders one more way to short the market. Prior to the CME and CBOE futures market, there were no easy ways to short the market. See for example* https://www.frbsf.org/economic-research/publications/economic-letter/2018/may/how-futures-trading-changed-bitcoin-prices/* https://twitter.com/SJosephBurns/status/979435269144436736Wall Street will provide yet another mechanism to take a bearish position.
+2	1525874912	2	Taking a bearish position as entry points are being created to make BTC more accessible to the average Joe? Lunatics. Let them. We need more liquidated shorts causing spiked market buying.
+0	1525867737	9	More bullish news from Wall Street https://twitter.com/CNBCFastMoney/status/993969955300368387
+1	1525880579	1	He seems somewhat positive, alright.
+0	1525844406	21	This is so bullish!
+1	1525852439	4	Doesn’t seem to have impacted price though 
+2	1525852948	48	It did, I'm down 5%
+3	1525855752	3	Lol
+2	1525865250	7	Maybe not on short term, but definitely on long term
+2	1525874974	2	How fast were you able to buy BTC when you finally decided "yep, I'm going to buy some". For me it was about 3 days.
+3	1525877766	1	I guess that also depends on the amount. if its your first time buying, you might need to get verified first when going over a certain value which then in turn could potentially take a lot longer.once being verified, it only takes me 1\-2 mins to initiate the bank transfer and close the buying process \(EU here; excluding the time the coin takes to arrive in the wallet of my choice\)
+0	1525838945	36	An article about Bitcoin printed in a newspaper... Oh, I’m sure there’s a lot of overlap on that Venn diagram!^^^(Just kidding! Bullish!) 
+0	1525851977	6	Yep. That’s the New York Times alright. Good eye.
+1	1525862223	2	Nailed it!
+0	1525832653	61	People still buy actual newspapers? How quaint! 👍
+1	1525833694	74	This is one of the broad audiences we need to target -- the ones slow to adopt technology.
+2	1525854033	10	Physical copies work better for some people and some situations.   I read a ton, some digital and some physical.   They're not the same thing.  For recreation I don't have a preference,  but if I'm trying to learn from the text I prefer a physical copy.
+3	1525854625	2	I agree, they aren't the same thing at all... and I can appreciate both! It's just interesting to see a topic, at the forefront of new technology, that's being published on a technology that's been around since the 1600s.
+4	1525855358	2	It is interesting.  In the surge of changes we see these days it's interesting to consider that some things still stand the test of time.  Moving forward and changing is good, but learning from history is good too. 
+2	1525836183	6	The "Old money" audience?
+3	1525836384	8	Old money, old ways. Sooner or later they'll wake up and cross the bridge into this century.
+4	1525840419	5	well for now they think bitcoin is rat poision / turds / babybrains
+5	1525891150	1	Where do I harvest and trade fresh baby baby brains?
+4	1525837018	1	Or might not wake up. 🤣😂
+5	1525837387	2	Very possible.
+2	1525842636	-3	You mean the people that are stubborn and will die soon? Dunno if that's too important of an audience.
+0	1525869552	4	When moon? 
+1	1525880345	3	1968
+2	1525896745	1	Er, You're a year off there, Buzz.
+1	1525881442	2	When sun 
+0	1525850985	11	Geez front page of NYT? They either ran out of things to report or bitcoin is making it.
+0	1525850551	7	Fuck HIV!
+1	1525866640	6	With a condom
+0	1525840944	18	Yuge if bigly
+1	1525869902	3	Bullish if hodl
+1	1525873824	2	BIG LEAGUE
+0	1525870480	3	Right: Opening people's eyes to the poverty & sickness in the world.Left: Hyping & celebrating a new profit model.
+0	1525839662	2	[deleted]
+1	1525840359	1	Stop virtue signaling.. 
+2	1525840399	3	God, you're right! Delete! 
+3	1525840867	1	Lol. It happens.
+0	1525845034	2	[deleted]
+1	1525845729	3	Who hurt you to make you feel this way?
+1	1525845926	0	America is not its own planet?
+0	1525869496	2	Front page news, amazing. Good awareness and will take it to a common man.
+0	1525870675	2	 it’s the result of what they call Bolivariano Regime.... 
+0	1525871631	2	That poor village...
+0	1525873146	2	Can't wait for JP Morgan's response
+0	1525890487	2	I find it funny how people still trust media... Find me an interview with someone on Wall Street saying BTC (and others?) will be traded soon, and I'll believe it. Major news outlets twist everything their direction to get more clicks/views/magazine sales.
+1	1525890871	2	They literally cannot identify themselves.  It’s confidential information.  It’s not something to lie about as it doesn’t exactly help stocks.  
+2	1525897576	1	Right, so it's the perfect subject to just put on the front-page with an unnamed source that cannot be tracked then. I for one will not read to much into this until we get actual confirmation, and as the market hasn't really spiked since the news, I guess most of the crypto world agree.
+0	1525849754	4	All this means is more manipulation.
+1	1525875093	15	I'm not sure why you are upvoted, because with all due respect, it actually means the opposite. It means that people that want to manipulate the market will have a harder time to do it, because there will be more smaller holders (more inertia) in the market.For example, if I made a coin with myself and my 3 kids, I could toss the value of the coin around like crazy. Now, if I went in with my 3 kids kids, all their friends, all their friend's friend's, all their friend's friend's friends. I'd have a lot harder time to throw the market around. Even though I'm a big fish in a little pond, there are a LOT of minnows there.
+1	1525880812	2	Yes, people are cheering up and partying like "wolf of wall-street" style. This will lead nowhere but more manipulation to the technology. People just want new money in. No care for value, technology or adaption.  Say hello to new money. 
+1	1525884763	1	Please explain why you believe this.
+0	1525831103	4	What’s the dates?
+0	1525842726	3	Great to see things like this!
+0	1525844447	2	Hold on to your sit we will fly
+0	1525846007	3	YUGE! 
+0	1525851226	2	More pumping and dumping, more regulation and more noobs. Yeah great if you trade but it's terrible news for bitcoin as a currency. There is zero progress on that front.
+1	1525872092	1	Forgetting about segwit adoption, lightning network, and schnorr signatures?
+2	1525873265	2	Point conceded. However the complexity is increasingly making it harder for commerce to be done in the ways intended without 3rd parties and fiat getting involved. Accepting bitcoin commercially requires hoops and issues unrelated to bitcoin code. 
+0	1525850372	1	Is this actually happening? If it does, it means that it won't be a decentralised currency anymore, just another get quick rich scheme.
+1	1525852392	7	Centralised exchanges already exist. It doesn’t make BTC itself fundamentally centralised 
+2	1525865559	0	Name one! 
+3	1525875179	1	Literally all of them except a few decentralized ones like switcheo.
+4	1525877935	2	Yeah was gunna say... name one that isn’t! The term decentralisation has more than one layer to it 
+1	1525860271	0	Exactly... What happened to all the "decentralized crypto will bring down the big banks" and "crypto is a social movement" talk? This is terrible news if you ever actually believed crypto would make a change in the world. It turns out crypto is just Enron Jr. 
+0	1525864317	3	The exact antithesis of what Satoshi wanted to create, a distributed currency free from Wall Street’s greedy clutches. SMH that people care more about “gains” than about an actual private and distributed practical coin.
+1	1525865612	6	I don’t think anyone is naive enough to think that bitcoin could be “free from a Wall Street”. Everything that becomes big enough gets the attention of Wall Street. What matters is how the technology works and the freedom that the users have. If Wall Street wants to be part of it, there is nothing we can do to stop it. 
+2	1525876901	1	Sure, I agree, but that doesn’t mean the community should be cheering it on. Which is what happens here all the time, everyone gets all excited any time Wall Street takes a look at Bitcoin. We should be booing the involvement of the big banks and financial institutions. I honestly would not be surprised if this becomes Downturn 3.0 because the big institutions pump and dump coins and leave Average Joe holding the bag.Edit: Not to mention cheering on “increased regulations”. Bitcoin is useless if regulated. The whole point is you’re supposed to be able to be your own bank.
+1	1525881421	1	If it is tradeable, you can't avoid Wall Street. However, it can be on Wall Street, on the TSX, on the whatever the other world exchanges are; that's the beauty of it.
+0	1525867988	3	Be happy people. This will bring dumb money in. 
+1	1525875249	5	You mean smart money. Smart money is buying BTC today. Dumb money is buying BTC in 10 years.For what it's worth, I understood your point... (moon lambo types, etc), but we shouldn't be calling BTC investors "dumb money", because that makes it sound like this is some Ponzi scheme, and we are all waiting for saps to come hold our bags, which it isn't. I think we do ourselves a disservice when we call new investors "dumb money".
+0	1525847165	1	the picture reminds me of charlie munger 🙈
+0	1525847728	1	An AIDS epidemic.... very sad.
+0	1525861534	1	Wouldnt crypto being on Wall St cause a ton of regulations to come down on trading it? 
+1	1525870748	1	Regulations at this point are good. Go review the SEC and CFTC position on crypto. Go learn about Giancarlo. As long as he's at the helm, regulations will help, not harm.
+0	1525864270	1	F'ing awesome pixels....
+0	1525865105	1	We should soon see some bullish momentum!
+0	1525880589	1	There is no way Gojira cares this much about bitcoin....
+0	1525882616	1	In my wildest dreams when I first got into crypto in 2015 I would not have believed how fast BTC is becoming mainstream in 2018... We're just starting... 
+0	1525883059	1	Why's the paper perforated on the side?
+1	1525884724	1	I think it makes it easier to fold open. 
+2	1525885622	1	And back closed.
+0	1525884704	1	Good news for Bitcoin.No word of GEOTUS' historic move to cancel the invalid and horrible Iran deal.
+0	1525886756	1	Everything else on that page is more important than the Crytpo news.
+1	1525893075	1	I 
+0	1525887761	1	Who is Trump racing? Is this a foot race?
+0	1525887837	1	Reading the headline, I had a sudden feeling of living in the future, until I saw the cover photo is of people living in stark poverty still in this modern and advanced world, published on printed newspaper, a dying medium.
+0	1525889063	1	Been waiting for it for soooo long. Great news
+0	1525892244	1	Does that mean the price would stabilize or more ups and downs due to them trading?
+0	1525895455	1	I don't know if that is a good thing or bad.
+0	1525895628	1	One year ago, this sort of headline would have been thought impossible in the short term. And here we are....with similar headlines every week.
+0	1525833117	0	🚀 B U L L I S H 🚀 
+0	1525846863	1	This comment section is cancer
+0	1525828488	1	If this submission was flaired inaccurately, [click here](https://www.reddit.com/r/CryptoCurrency/wiki/resources#wiki_flairing_content).*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1525859458	1	With all this good news the market is still shitty
+0	1525867384	1	Wow I seriously only saw Bitcoin, did not even notice the photo😐
+0	1525888111	1	Finally the centralized and regulated bitcoin will become reality <3 Lets make money fellow capitalists!
+1	1525894444	1	Why does it need to be centralized and regulated? If you're a capitalist, shouldn't you want natural, non-government market forces? 
+0	1525831036	-1	Strap in boys!
+1	1525843800	7	I read this as strap on boys... > >
+1	1525850610	1	Ugh just fuck off with this bullshit, this isn't a frat house.
+0	1525868226	0	People dying of starvation and desease and all you care is your environment destroying virtual coin to buy a useless Lamborghini top kek.
+0	1525846530	-2	The choice of bitcoin is just idiotic... Should have chosen a much faster crypto.
+1	1525846873	2	baby steps!
+1	1525853839	1	They are just trading it, not using it as a payment (which they couldn't anyways since they are trading Bitcoin derivatives). Plus, it's the most liquid one.
+2	1525853939	3	Bitcoin transactions are slow compared to other criptos, won't trading it increase the transaction volume?
+3	1525866881	1	They won't actually be trading the Bitcoin, only pieces of paper over the counter, so the answer to your question is no mate.
+3	1525884512	1	No. Unless you're using a decentralized exchange (which they definitely will not be,) trades happen off-chain.
+0	1525853990	-1	Very good news!
+0	1525840942	-5	Awesome...for once Trump isnt endorsing an idiot candidate....personally though, I think it's reverse psychology. The last few he's endorsed has lost. So this time he's doing the opposite to see if it will actually get him elected.
+0	1525856153	0	Get ready for the values to go up😂
+0	1525888322	0	Satoshi should make another bitcoin transaction and label it: "Tue May 8 2018: Coming Soon: Bitcoin Trades On Wall Street - My creation failed"

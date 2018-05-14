@@ -1,0 +1,152 @@
+File created at: 1525804710
+Subreddit: CryptoCurrency
+Submission title: Be careful out there.
+Submission created utc: 1525727626
+Submission score: 301
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525745845	52	https://etherscan.io/address/0x2c2fb0313bd5120aa5d5bea20ea07e22e565c6b4In case anyone thought it was fake, I found it to make sure.I asked in another thread and someone confirmed that at least 100k of the ether is from the EOS contract address.
+1	1525750488	21	[Holy shit](https://etherscan.io/tx/0xf360df60392bc953268ce745c05e26931664d648a5ab41cbdcdf74b730e7198e)
+2	1525760274	11	Imagine if that $90 million (!!!) file transaction failed.
+3	1525790925	4	"Uh, boss, you know that virus that changes the pasted address to a new one before you notice? well..."
+1	1525772877	1	Thanks for the link.
+0	1525741837	116	good . hopefully they will give me the 10 ethers they promised after i sent them 1.  lol 
+1	1525770421	27	WOW! It worked!! Thank you so much!!!!!!!!!!! (:
+1	1525763274	3	was it not 5 ethers?
+2	1525764423	19	He sent twice by mistake 
+0	1525738957	24	Why would they sell on exchange and not OTC?
+1	1525741096	53	Selling OTC doesn't affect price, which is presumably what they want.
+2	1525748030	8	selling OTC does effect the price
+3	1525751184	6	It does ? How 
+4	1525752626	20	If someone wants to buy a billion dollars worth of crypto, the OTC people have to acquire a billion dollars of crypto from somewhere. Basic supply and demand. It might just take longer to show up on the sheets because there won't be a big candle advertising the trade.
+5	1525760948	18	Why would you buy over the counter from someone who doesn’t have it and has to acquire it?Over the counter means one rich asshole buying off another. 
+6	1525767035	2	I meant selling the ETH raised in the ico via OTC (sale off exchange). That way it wouldnt impact price of ETH as much.
+5	1525753219	5	Does OTC refer to over the counter or am I mistaken ? I was under the impression it would be a private sale so yeah it wouldn’t show up with a giant candle but how would it “show up on the sheets” exactly. I mean like how would someone know it’s a sale vs someone moving it between wallets
+6	1525755316	12	Whether or not a trade makes a colored line appear on a website, the issues of supply and demand are still at play
+6	1525755786	3	Some OTC buyers would buy and hold (long) to later sell ... driving the price down at a later date.Some OTC buyers would short then buy OTC and dump on market immediately ... again driving price down but in a much shorter timeframe.Most OTC sellers would likely be long term holding whales who have large amounts of crypto out of the marketplace currently
+5	1525757956	2	They can already have the crypto... You don't need to purchase it, and in this case EOS didn't, it was acquired via the ICO. 
+5	1525759464	2	Yes, from otc sellers
+5	1525774346	1	While in the long-term demand and supply is at work, you're mistaken in your understanding of how OTC works. The whole point is to avoid slippage. If the seller had to buy off an exchange in that kind of volume, the buyer would be paying a premium on the current spot rate, which is exactly what they are trying to avoid.
+3	1525759437	2	Certainly not as direct as throwing them on an exchange. The otc market is largely independent from exchanges.
+3	1525749102	2	Doesn't really.  Exchanges affect OTC price though. 
+2	1525749511	2	Ahhh I think I see your point. They want to reduce/ impact the price of ETH as they are a competitor?If that's the case, bit of a shit go really. They gave EOS the platform for their ico wich allowed them to raise billions. 
+3	1525761064	8	They may be just straight buying EOS to pump the price.
+4	1525764469	5	EOS is not gonna end well.
+2	1525793719	1	45 upvotes for this? lolevery eth they sell was also bought somewhere :p
+3	1525794736	1	Likely from their ICO, so not really.
+1	1525748073	3	selling OTC requires much higher level of KYC and is tracked more rigorously. of course, the assumption is that people trading OTC do it for legitimate purposes with clean funds, so any kind of shady OTC activity sticks out like a sore thumb. which is why people go the exchange route for pnd/insider trading/etc as they can obfuscate the transactions to a good extent 
+2	1525749240	-2	True but I would assume the EOS team would rather be, or at least seem to be, KYC compliant and legitimate. I doubt the would want to do anything shady. I could be naieve 
+1	1525760729	2	Bitfinex offer OTC.
+2	1525767157	1	I assume that doesnt get taken into account on the bitfinex public market though as it is a private type of sale?
+0	1525737497	110	Juicy conspiracy of the day: Those guys generated the SEC FUD to hide the fact they were dumping their ETH.
+1	1525741152	13	Yum more like someone knew they were dumping anyway then tried to jump on with sec fud for maxBenefit
+1	1525746547	12	WSJ said "SEC will have a meeting and discuss crypto, this could lead to eventual regulation"We read "SEC HEARING ON ETHER TOMORROW ETHER MIGHT BE RUINED IF OUTCOME IS BAD!"We did this to ourselves... Also, eth is worth fuck all in the real world. What's the point of an ICO if you don't actually trade the ether into spendable currency??
+2	1525749488	15	Shhh if you bring logic into this you’ll ruin the narrative. Not sure what happened around here but all the ETH fans sounds like the Bitcoin maximalists last year. There’s room for more than one platform and we have no idea which one will solve scaling yet. Genuine concerns with dPoS are one thing, but there’s just so much speculation and conspiracy theories that get upvoted to the top lately.
+2	1525780968	1	It was orchestrated. I was hanging out reading comments the last few days bc I’m sick in bed and it was definitely an orchestrated FUD campaign. Sure we were all susceptible but we did not do it to ourselves. 
+1	1525740666	6	And they are artificially manipulating by washing and recycling funds collected in the ico back into the ico 
+2	1525757360	7	But it's okay because "you can trust dan" - quote from EOS holder defending their weird ICO
+0	1525730155	65	How does someone have this much ether? Jeez, and they are still in ICO. Question. If EOS is still doing its ICO then how much are they collecting for their tokens? Market price? If so I see a huge incentive for eos to use that eth to inflate their price.I would stay away from eos. If they are doing this the will get caught
+1	1525750514	15	Yes, it's been stated that EOS is likely buying back EOS with their ETH to run up the price because fuck you
+1	1525730345	16	which is why they probably aren't doing it. very much in the spotlight and mainnet is close, no sense in jeapordizing anything now
+2	1525731440	16	Unless something got jeapordised behind the scenes and they're the only ones who know about and take advantage of the fact that ICO's don't protect against insider trading.  
+3	1525739382	19	The butler did it in the library with a  candle stick
+4	1525742361	5	Aw get a Clue! 
+2	1525750363	17	You realize that's how this works, right? They lie about the product and then dump before they have to reveal it. Of course they're saying the mainnet is close. We'll see, I guess.I'm not invested in EOS, nor do I have anything in particular against EOS, but the project has always seemed sketchy, so I'm staying away.
+3	1525756803	5	funded by eric schmidt's vc firm? quite the gamble if it's a known flukeit's currently #8 for highest activity on github. kinda can't say the same thing about other ico's. obviously there is real activity here so it's very -very- unlikely this'll scam out. besides that, the founders already made bitshares and steemit. exceptionally productive chain services. in their own words, at a certain point it doesn't matter how much money you have, it matters what you do/make
+4	1525772239	2	With the amount of funding they recieved in ico i'd expect them to be #1 on activity in github with 500 developers at least.
+5	1525779450	4	Lots of tiny change and resubmissions of readmes
+4	1525796696	1	 #8 on github because EOS themselves are building literally nothing, the community has to build it all
+2	1525730404	4	idk, I hope they are not doing it. It would look bad on crypto.
+3	1525745017	2	Why would they? They could just as easily have used a privacy coin for this transaction if the purpose was nefarious.
+4	1525755472	5	The purple is always nefarious
+5	1525756036	1	Shit. Fixed. Gboard has such shitty predictive autocorrect and swipe prediction on iOS compared to the Android version...
+1	1525741227	13	Eos is a fuckingFraud??
+0	1525770415	10	With such huge amount why don't they do OTC trading. The fees to pay escrow is much better than losing on slippage!They can use localbitcoins for erc20 tokens. PayFair is one of them that does this. 1% fee
+1	1525775508	1	I thought block.one has connections with Bitfinex, so maybe that is why they use the exchange.
+2	1525779724	1	Maybe, Block Pierce has got strong connections with Phil and the guys.
+3	1525788964	1	Brock Pierce is no longer serving eos though, he was kicked from the team a couple months ago.
+0	1525729835	16	mind explaining?
+1	1525729961	56	They will sell it.
+1	1525730521	46	Last time that EOS transferred a big amount of ETH that I remember reading about on here, it was (apparently) to dump it on the market and ETH went down a lot on that day (I believe it hapened when it went from 400$ to 330$ or to low 400s from higer 400$ but don't quote me on that).People assumed it was them dumping, as there can't be any real proof of them dumping and not some other whale, but it was pretty likely as there was a huge sell volume after the transfer from the EOS wallet to the exchange one, they've been collecting money for their ICO for a long time and they seem to cashout huge amounts in the "wrong" moments for the market or atleast, whether on purpose or not, it wouldn't be the first time.Again, not trying to spread EOS fud but moving the funds over to Bitfinex can't mean much else, atleast that's what I gathered from past posts :)
+1	1525729979	12	Dump incoming
+2	1525739308	4	Too late. Clogged that porcelain bitch proper
+1	1525731562	-20	Probably worried about SEC ruling on ETH. Or expected it to be favourable, then sell on the pump.
+2	1525735574	8	But Sec was nonsense to empty your bag 
+2	1525766072	2	Why the downvotes on this comment? 
+3	1525794159	1	Because it was bs, scaremongering. 
+0	1525761642	24	They are just pumping their price by selling all their ETH for EOS.  It's great marketing as far as inducing FOMO as they countdown to their Main Net.  People will see the EOS price rise fast and FOMO in.  Or, they are going to buy up a ton of EOS the day of/after Main Net to cancel out the dump, for perception reasons.  Either way, I don't care.  I'll never touch EOS.
+1	1525775579	-2	How this gets upvotes without any evidence backing it up...
+2	1525789986	1	How can you give evidence of another person's motivation and future action? That being said, his analysis is sound as far as what would be the best move
+0	1525760112	3	Run for the hills!!
+0	1525764362	3	I don't know why people are making this a big deal. ICO's are double edged swords for ETH if hundreds of ICO on  ETH raised it's price  people should be aware that some day or other ICO's will dump the raised ETH.
+0	1525735155	7	Screw it. I'm selling just to be safe. Got in at a good price anyway.
+1	1525740579	11	Safe from what?
+2	1525784624	1	This sub is funny sometimes.  So much FUD.
+1	1525746309	8	Set a stop-loss? If it goes down you're safe if it doesn't then nothing to worry about...
+2	1525777887	2	I'm sorry but are you keeping all your stuff on exchanges?
+2	1525767390	2	I've been burned far more by stop-losses than that they've saved my arse. Besides. Nothing wrong with getting out at a good price and moving to other assets.
+3	1525769666	2	How can you get burned by a stoploss?
+4	1525772891	3	When it sells while you're sleeping and immediately after shoots straight back up to previous position and only goes up from there ;) Has happened to me three times before so I stopped using them. I'd rather be in the red.
+1	1525748159	28	Lol jeez u people are so easy to manipulate. 
+2	1525750018	6	Lol its hilarious 
+2	1525793116	1	Screen shot your trades then big man.
+2	1525779756	0	Well selling looks like it was a pretty good move now though, doesn't it? ;)
+1	1525750077	5	China ban bitcoin! Sell all your bitcoin now 
+1	1525739980	-21	Good luck with those taxes 😅
+2	1525740940	38	Not everyone is American....
+3	1525741128	-44	What does that have to do witg anything? Taxes are the same in most countries 
+4	1525741373	42	wrong
+4	1525742165	11	In Canada you only have to declare taxes when it is realized, meaning when it goes back to CAD. 
+5	1525742698	5	Are you sure? I thought that I was going to have to pay taxes on all transactions including crypto to crypto. 
+6	1525742730	3	That's not what the law is. I've talked to an accountant about it
+7	1525743152	1	You are wrong. Fire your accountant.
+8	1525744037	-2	Just looked it up again, sure says realized. Btc or eth or usdt is not legal tender so it is therefore unrealized gains. 
+9	1525744603	5	Wrong: https://www.canada.ca/en/revenue-agency/news/newsroom/fact-sheets/fact-sheets-2015/what-you-should-know-about-digital-currency.htmlhttps://canadian.tax/bitcoin-tax/https://www.theglobeandmail.com/globe-investor/personal-finance/taxes/some-basic-answers-to-the-tax-implications-of-cryptocurrencies/article37749902/
+7	1525744413	0	Well that is excellent news then! I have yet to convert anything bad to CAD.
+6	1525751394	0	You do. Hes wrong
+5	1525758423	1	That's actually not what realized means in this sense, whenever you trade your cryptos that is your new taxable amount. If you don't trade them then the "realized" amount doesn't increase
+5	1525777964	1	So wrong lmao 
+5	1525743133	1	Wrong. FFS - get an accountant.
+6	1525743531	1	When did the law change then?
+5	1525751361	0	Dude. Yes.. but no..Realized just means you SOLD. You sold ven for btc? You just realized a gain and need to pay taxes on that trade. It has nothing to do with going back to CAD.. I really hope you didnt fuck up your taxes too much with this knowledge..
+4	1525744052	1	Oh you sweet summer child. Never change.
+4	1525749981	-2	Lmao you're from 'murica alright
+4	1525744717	-1	Lol
+2	1525767497	2	Who says I intend on paying taxes?
+0	1525727627	2	If this submission was flaired inaccurately, [click here](https://www.reddit.com/r/CryptoCurrency/wiki/resources#wiki_flairing_content).*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1525777943	1	I dont understand what is going on, anyone who can explain?
+0	1525780623	1	They always do it, what is new??
+0	1525789517	1	Question from a newbie: if you thought they might be moving this ETH to dump for EOS to artificially boost their own price, wouldn't you buy EOS to cover potential losses on ETH rather than sell the ETH you already have? I'm just asking because given the downswing ETH already experienced yesterday and today, and the general trajectory of ETH, it wouldn't make much sense to sell it even if this was the situation that's going to happen.
+0	1525794960	1	EOS is going to be the largest bait and switch in history lol...Just in front of Ripple.Anyone holding is going to get fucking wrecked if theyre not paying attention
+0	1525796171	1	God, I wish EOS would just PUMP so I can get rid of my measly 50 tokens and re\-invest in safer projects. I've been watching the price doodle around sideways at $17\-18 and it's making me crazy.
+0	1525747965	-4	Lol eos exit scam. Called it.
+1	1525749682	4	It’s a small fraction of the ETH they hold, and they aren’t selling their EOS.You called it wrong.Not sure what everyone here thinks an ICO is for. They generated ETH and sell it to fund development of the project. That’s the whole point, and there’s 1000s of ICOs doing it. But somehow EOS doing what ETH was designed for makes it a scam. The complete lack of reasoning is baffling.
+2	1525752985	1	Yeah I'd be more concerned about increased sell pressure on ETH than a selloff of EOS.  ICOs have been a double edged sword for ethereum's price. 
+3	1525758523	1	It might seem that way, but I think they just drive up the price and then bring it back down the same amount? or even bring it down less since the volume and liquidity are ever increasing
+1	1525748072	2	EOS liquidating collected Ether while the price is high? To fund the project and VC firms that are devving on EOS?
+1	1525749981	0	You are not a smart man
+0	1525775355	1	Oh wow an ICO selling the funds they raised, how sad.../s
+1	1525776218	-4	where are they supposed to get the money from, in your opinion?
+0	1525752934	-2	Eh, everyone knew this was coming. This is why I've stayed out of Ethereum even though I otherwise think it has good potential.  The price ran up an insane amount and not only does eos hold over $2 billion of ether but other big ICOs hold hundreds of millions as well (Tezos, Bancor, etc) and as they sell there's going to be immense price pressure.  There's no reason for competing platforms to hold ETH. There's likely about $3 billion of ETH waiting to be sold off.  MtGox dumping just $400 million BTC crashed it from 20K down to 6K and that's in a more liquid trading pair so this is going to be an ETH bloodbath.
+1	1525760239	6	Assuming they have any sense at all and aren't 100% malicious, they'll sell the ether OTC. OTC selling probably affects price at least somewhat, but nowhere near as dramatically as dumping it on exchanges with insufficient liquidity.There is no problem whatsoever with, say, EOS selling $2 billion worth of ETH. They'd do it via OTC brokers and the price pressure on ETH would be minimal. Exchanges and retail investors largely set the price. And there are going to be many rich people and institutions wanting to buy big chunks in one go, which means OTC. I suspect OTC brokers pretty routinely have people wanting to buy for hundreds of millions, and that isn't really seen that much in the price action.Also, the idea that it was MtGox dumping BTC that dropped the entire market by 70-80% is just wrong. 
+1	1525753883	7	Oh you're staying out of ETH with by far the best team, partnerships, potential, exchange support and use cases? Good move.
+1	1525756162	1	Agree with thesis, disagree about MtGox crashing the market.The only good that can come from ICO's holding massive bags of ETH would be that ETH is a base trading pair most everywhere.   Meaning that while eth gets dumped on, what funds aren't cashed out will be used to buy ALTs.
+0	1525750947	-3	More bullshit.  EOS are just moving part of their ICO funds onto bitfinex.  They aren't about to sell anything.  It will be used to fund projects, so maybe they'll sell a thousand per week, or less.One thing is for certain,  they arent going to sell the lot.  You watch,  I'll bet in five years time that address will still hold most of that 200k, possibly more. 
+1	1525756403	6	1.   "One thing is for certain, they arent going to sell the lot." Do you have a crystal ball?2. "They aren't about to sell anything" & "maybe they'll sell a thousand per week" this doesn't jive.3. "You watch, I'll bet in five years time that address will still hold most of that 200k, possibly more. "  .... addresses owned by exchanges aren't linked to clients, they're just massive wallets that the exchange owns.   If it does hold that much ETH 5 years from now it will prove nothing.   That said, we are talking bitfinex here, they're shady af.   As time goes on, good chance that wallet approaches zero.
+0	1525745340	-7	Why the hell does it matter?It’s their money to spend!Maybe they needed extra funds to help the final developments of their platform before launch?Maybe they wanted to take the competition (eth) out at the legs while they were weak as a strategic move?
+1	1525749224	0	I hate EOS as much as the next guy but you're right. 
+0	1525775047	0	I know I want to invest in a project that is literally trying to steal their investors money from them. What a great project! Great team! Edit: I can't believe I have to paint this picture for you guys...1) EOS raises money for year long ICO. This money is raised in the form of ETH.2) Instead of spending that money to develop a product (i.e. THEY STILL HAVE NO PRODUCT), (yeah yeah, main net is right around the corner, etc)... they are buying EOS stock from holders of EOS stock with their ETH.3) This pumps the price, because they have massive ETH reserves to cut through the ask orderbook.4) They are doing this to generate hype and FOMO and timing it just prior to their main net launch. They are buying up EOS stock "cheap", from investors and driving price up artificially. They are doing this with YOUR MONEY that you gave them to develop a product. This is highly unethical. That money wasn't for artificially inflating the price of their coin, it was for development of a product.5) What do you think happens when they have traded all their ETH for a bloated EOS coin? They are going to be sitting on a mount of inflated EOS. They know this, they have no product. They are wash trading on a PERFECT SINE-WAVE. There are so so so so so many red flags here people.6) Investors (all of you guys) are buying up this inflated EOS aircoin, this ERC20 token that is rank 5 with no product yet. EOS then dumps their EOS coins to you guys at a premium, and you just gobble it up, because it's going to flip Etheruem apparently.When this house of cards falls, the people who get hurt the most are the ones that are buying EOS now, and still holding. People who think this is going anywhere but a dumpster fire. The people who get off early will come out okay. Because EOS has all the power to trigger the collapse anytime they want, you can't beat them out of the market. The people who get hurt the most are the people who are actually legitimately (naïve or not) supporting the project. But really, the ones that come out the best are EOS themselves, who are LITERALLY going to STEAL MONEY OFF THEIR INVESTORS. But you all don't care, despite warnings and red flags everywhere. Links to wallets transferring 1000's of ETH each week to binance.... ETH that was raised to develop a product and instead used to pump price of a coin instead of develop a product. This has been going no for months and nobody cares.  If a company raises money to develop a product, I expect them to use that money to develop their product. So should you.EOS investors don't care. You guys are in 2 camps... half of you are riding the wave, for as long as you can, ready to jump off the ship before it gets swallowed whole. It's cruel, but hey, we're all here to make money, and if you think you can time that badboy, then you deserve your profits. The other half are going to lose everything, or nearly everything. And it's really sad, but I have no sympathy for you getting hit by the train when the bars are down, the lights are flashing and for months people have been giving you the warning signs... DING DING DING DING DING DING DING DING, get off the fucking track.
+1	1525776231	2	wat?
+0	1525749299	-5	Haha I’ve been downvoted. That means I was speaking logic. 
+0	1525732536	-16	Yay more fake FUD! whoo!
+0	1525757726	-1	EOS sent ETH? what? 
+1	1525779032	2	To participate in an ICO you send them ETH in exchange for tokens. In this case EOS tokens etc.
+2	1525779475	1	I thought they were pumping the price of EOS themselves using ETH they got for ICO.  
+0	1525758832	-1	!needmorejpeg
+0	1525777449	-1	That's .2% of all circulating ETH, 5% of the last 24h volume. Shouldn't make much of a dent.
+0	1525780824	-1	They have to fuel their EOS volume pump somehow...
+1	1525781254	1	More bullshit to hear??
+0	1525738830	-10	It’s FUD yay
+0	1525757964	-6	And why are we taking the news from a guy named Abercrombie? 😂😂 
+0	1525743742	-13	It's not confirmed which address it's from 
+0	1525749255	-14	So? Asshole.

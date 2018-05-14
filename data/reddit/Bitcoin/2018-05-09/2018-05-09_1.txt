@@ -1,0 +1,286 @@
+File created at: 1525898392
+Subreddit: Bitcoin
+Submission title: Satoshi Nakamoto about bitcoin.com
+Submission created utc: 1525810278
+Submission score: 2301
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525813177	352	Satoshi's Vision™ at its finest 
+1	1525816148	103	This should be the only response when bcashers bring up "Satoshi's vision". 
+2	1525823615	37	That and decentralization. Honestly, I'd believe the whole spiel a lot more if they switched their PoW to a GPU-friendly algorithm.
+3	1525837590	8	The miners decide on algo changes. Your proposal is frankly ridiculous
+4	1525872132	5	Only when the nodes are controlled by them too, a huge problem with the fake bitcoin chain.
+4	1525869637	10	Miners do not decide on mining algorithm changes. Nodes choose which chain to select as the valid one. This is the very nature of a hard fork.In fact, there are bitcoin hard forks that have changed the algorithm, "Bitcoin Gold" is one.
+5	1525895118	1	Also a block hashing algorithm change is one of the few hard forks that SPV nodes can't be fooled into following.
+5	1525879122	-2	Yes, but as a minority fork
+6	1525884750	1	There's no such thing as a "minority fork" when the algorithm is changed, the miners don't decide this nor would they because their hardware would become obsolete.Think things through a bit.
+4	1525858146	2	Is sha256 quantum-resistant, if not, wouldn't that trigger an algo change when needed? Since many miners would lose a lot of money with algo changes, asics rendered useless, how are we planning to overcome that
+5	1525874594	3	No, it's not the PoW that needs to be quantum resistant, it's the transfer mechanism.  Most cryptocurrencies use ECDSA, which means the wallets can be cracked and emptied by a quantum capable attacker.  Quantum mining isn't much of a threat.
+6	1525875293	1	Quantum computers breaking encryption is what I'm talking about
+7	1525884330	1	sha256 is not encryption, it's a hash.  Completely different problem than the quantum attacks that break PKI.Do you know much about public keys and private keys?  That's what quantum computers are good at breaking, not just "encryption" in general.
+5	1525873319	0	Same way we will overcome the boogieman. We will fix real tangible problems first. Just like a 51% attack. No one ever will spend a few hundred million dollars only to possible crack a wallet and get 100k dollars. 
+6	1525875231	2	I'm talking about in the future when cheap quantum computers will be available
+7	1525883459	1	Quantum won't really do anything. The difficulty will just rise a lot more..
+8	1525884085	1	After some research I did on what quantum computers are capable of, its seems to me that they can calculate private keys from public keys. Currently computers would take too long to do that but quantum computers may be able too. Centralised services can change, but with miners who don't want to make their mining farms useless, how are we going to change the encryption method to a different one in this case?
+9	1525884503	1	Hashed public keys won't be vulnerable, but yes, once you sign a transaction \( and thus expose your public key\) you'll become vulnerable.
+4	1525891750	1	Boy you could not be more wrong, though I'd love to see you try to rationalize this nonsense.
+4	1525895676	1	Miners don't _decide anything_ except the ordering of transactions into valid blocks/whether they will mine at all.
+4	1525842477	0	Yes! because ASICs will always happen... There is an alternative... DPOS like EOS - but lets see them try it...
+5	1525853551	6	Asics don't always happen. We do not live in a determinstic world for god's sake.It's frankly uneconomocal to build an ASIC for monero at this point. Even if you do, every six months the pow changes so your hardware would be obsolete.Of course you can build FPGAs, but they hardly offer much better performance, for quite a greater cost.I do agree, thought that gpu mining is probably not needed for bitcoin. The network is too great to be taken oven by any single ASIC manufacturer... smaller networks need asic resistance though, as they are often taken over (graft and I think the sumo network were the latest to be afflicted by double spend).Not sold on PoS (of any kind) though, it throws out a player (miners) and in game theoretic games that is unwise if you strive for equilibrium.
+6	1525880851	1	Changing the mining algorithm is a huge risk. Changing anything really is a risk. 
+7	1525890186	1	Well, it's a hard fork. Hard forks happen quite smoothly most often than not. Monero has hard forked 7 times already very smoothly. I'd guess the more experience they get, the smoother it will be getting.An ASIC company must be suicidal at this point to make an ASIC for cryptonote coins. The centralozation and the double spend incidents were rife enough on cryptonote coins that they pretty much have to fork quite often at this point.SHA256 based coins seems to have been less vulnerable to ASIC bornt attacks so they are in friendly terms with them. Equihash is next, let's see if ASIC makers would act as bad actors there too (if yes, equihash based coins would turn PoS or change their PoW algorithm as well...)
+6	1525855998	0	Good stable coin that aims to have good price can not afford to fork every few months or even every year. So if any coin gets stable and profitable enough, ASIC for that coin will come. It's been shown time after time.
+7	1525861718	5	You have no idea what forking means. Monero forks every 6months and its one of the most stable coins.
+5	1525879047	2	There's no reason for SHA miners to abandon all of their hardware for cheaper, less secure PoS models
+6	1525880673	0	Sure.. But if you were to start your own shitcoin you probably wouldn't care for security.
+5	1525851312	1	But that cryptocurrency sub says that EOS is a scam coin run by shills because it's not lambo mooning
+6	1525855922	1	It is the least scammy ICO...  sure anything not PoW should be considered a scam.
+5	1525858002	1	DPOS also has centralisation issues atm
+6	1525858357	1	True.I know too much about this... But when you bootstrap the network, nothing is stopping you in doing the same thing. My concern is more about the voting.. how can you vote objectively..(you can't) It is interesting to see how it play out.. on a larger scale.. 
+7	1525868101	2	Ye I agree - it will be quite interesting to see how the system works, even better to see how people react to this. Its the first coin ive seen that steps away from POW without being completely centralised
+3	1525832574	1	That and him clearly modelling it on gold.
+4	1525840030	1	Which... If he wanted it to be Decentralized gold is a terrible fucking example. For some portion of 'golds' history somewhere near 70-80% of the worlds supply was owned by the united states. 
+5	1525840449	0	What has that to do with Bitcoin?
+6	1525842962	1	.... You said he modeled it after gold.... Which has been horrendously centralized. Lol. 
+7	1525858879	2	If you say gold is centralized cos someone can/does own a lot then what is not centralized?
+7	1525891859	1	That's a different kind of centralization, the kind that doesn't really matter for the sake of security and integrity of the network (which is the whole point). Where did you get the idea that decentralization meant spreading the wealth?
+7	1525884063	1	But without the third party risk.
+7	1525871921	1	Decentralization does not refer to who owns bitcoin but who owns hashing power. The mining is (or should be) decentralized, not necessarily ownership.
+8	1525878150	0	You think three mining pools is decentralized? 
+9	1525879527	2	I'm not making an argument either way, just pointing out that your comparison of certain countries owning a lot of gold is irrelevant.
+3	1525845592	0	Power will be likely almost free in the next 10 years- Look up Lockheed martins mobile fusion centers! 
+4	1525846415	2	can i fit that in a watch battery?
+2	1525816936	9	Lmfao. So true.
+2	1525832146	3	No, you should be better than that.We're all grown-ups, leveling down the debat just because it's fun is not what will make the crypto-community (if such thing exists) progress. :)
+3	1525833615	4	You're right. In the end, we're all on the same side. 
+4	1525864031	2	That's not necessarily true...
+5	1525876243	1	Of course it is.  There's no us and them. That's just something *they* made up.
+6	1525891939	1	How can you argue this when there's a group of people actively trying to undermine Bitcoin and the crypto community as a whole (whether knowingly or unwittingly)?
+7	1525894900	1	That's alright, they don't know or understand yet that there are no sides. So they yell they are on the other side, try to tell other people there's something like sides, and that theirs is the right one. Going against it means acknowledging there are indeed sides to all of this, and now we have a conflict on our hands.Don't acknowledge those who claim to be from whatever side, they are not important to the cause. Going against it also gives free advertising for the other 'side', it only keeps the illusion of sides and their alleged relevance going.In more simple words: The best way to get rid of a troll is by not feeding them. No attention, not even mentioning its existence. 
+8	1525896999	1	I disagree. Not talking about it means more people are likely to fall for scams and shitcoins, which will harm the community in the long run. Setting the record straight is vital, doing nothing and ignoring it is just lazy.
+3	1525858672	2	Lol. That's so true.
+2	1525854688	1	> This should be the only response when bcashers bring up "Satoshi's vision".Also Satoshi didn't write some stupid "non-validating" node code, all nodes validated.
+2	1525835243	0	And that would be a dumb response.
+3	1525835500	1	I know you are but what am I?
+1	1525825458	14	No no no. A .Com is what Satoshi ACTUALLY meant to invision. It's what closely match his white paper the best. Maybe you didn't read  /s
+1	1525859800	2	> Satoshi's Vision™is that like those HD vision sunglasses?wait, hodl on... this gives me an idea
+1	1525819007	2	Eat that Roger!
+1	1525821975	2	Quick and easy question.Who is Satoshi?Thx.
+2	1525824469	9	The creator of bitcoin. He disappeared some time ago. Noone knows who he really was or if he's still alive
+3	1525828317	8	He/she/they
+4	1525843445	3	Gilfoyle correct is the best kind of correct.
+4	1525874788	1	Satoshi is a male identity.  Even if he was run by a female human behind the scenes, it's still proper to refer to him as "he".
+4	1525862388	0	Ahh we surely lacked that PC remark, thanks for your input
+3	1525824622	1	I am Satoshi.
+4	1525827165	13	We all are, buddy. Give me a big hug. 
+5	1525842763	6	Everyone but *fake satoshi*
+5	1525852803	3	We are Satoshis. We are legion. We do not forgive. We do not forget :D
+5	1525858468	2	Group hug! 🤗
+4	1525858219	2	We are all satoshi on this blessed day
+0	1525820913	259	[removed]
+1	1525826003	107	yesterday's post about buying coffee at Brisbane airport via lightning got less support then all this roger stuff. I guess people only care about the drama.
+2	1525828097	23	The whole pre and post fork debate in a nutshell.  "People only care about the drama".
+2	1525831963	19	Reddit as a whole seems to think that making someone infamous is how you destroy them.Spoiler alert: it's not.
+2	1525842641	5	Most people that care about more than just drama have simply moved on
+3	1525853748	1	Where? I'd love to know where all the grown-ups went...
+4	1525854643	2	Scattered, all over the ecosystem. Which didn't have to happen at that scale, but it did ¯\\\_(ツ)\_/¯
+2	1525844790	4	Doesn't the day to day drama effect the price? There's plenty of daytraders here I'm sure. Sure bitcoin *coooould* change the world someday but, how do I make money off it today? Tomorrow? Next week? Etc
+2	1525840911	7	Aren’t they just raiding awareness so people dont buy cash over actual btc?
+2	1525839352	3	I asked a mod why they weren't enforcing the no Bitcoin rule and they just kind of ignored me and said it was dumb
+2	1525852257	3	That was really awesome, should have been the top post of the week
+2	1525833711	1	This is the internet after all
+1	1525860288	4	I agree. This sub shouldn't turn into /r/btc where every top post deals with Bitcoin vs Bcash.
+1	1525831134	3	Take it up with the mods.
+2	1525849136	8	[removed]
+3	1525852462	2	hmm, no, i see my downvote on that "1k karma" top comment, and i understand why i have given it. /u/theymos did nothing wrong.
+1	1525847827	3	There is nothing interesting to say about bitcoin anymore. You nailed it, we've already heard all the Alex Jones bullshit that it's going to bring down the banking system.
+1	1525855707	3	Don't forget the - *ermagod bitcccccoin just went over X amount if you arbitrarily measure it by this one specific fiat currency!* - posts. 
+1	1525823482	5	The price is going sideways, and the most important sub-project (Lightning Network) is live and off to a decent start. Nothing for miners to vote on. Boooooooring.
+1	1525852300	2	Couldn't agree more, I'd even prefer price posts over the drama posts.
+1	1525829963	2	you're free to post whatever you find interesting 
+1	1525830757	1	It had dropped off for a while, now it’s back.
+1	1525847296	1	[removed]
+1	1525842406	0	reminds me of the US' Demo Party.  Nothing to say to the public other than "Trump sucks"
+2	1525852701	2	[be a dumbster, like the Trumpster](https://i.imgur.com/fnGTlgC.jpg)
+1	1525845832	-3	It is about Bitcoin.Its about an asshole that will stop at nothing to subvert and fuck up the best chance anyone has at true financial freedom, out from under the thumb of callous institutions and meddling central banks.But keep thinking its about your poor eyeballs and the shit you have to see here -- because it fucking isn't.There's more at stake here than your unwillingness to stand up and fight.
+1	1525829946	-4	Tell Ver to stop scamming people, and people will stop talking about it.
+0	1525812802	48	wait... so electrum.com isn't the right address to download the wallet? \*gasp*[edit] some clarification.org domains are commonly used for non-commercial and/or open source *org*anisations. As mentioned by Satoshi.  Although they're free to use any other domain name, and visa versa.
+1	1525812948	10	HELL NO!
+2	1525813108	8	try to poke fun, get people spooked instead...my bad
+3	1525817738	7	Even if one person sees this who didn't know, then you did a good deed. 
+1	1525824674	2	And any other organization is free to register .org's
+1	1525881365	1	It seems like you're making a sarcastic joke, but I feel the need to mention to anyone reading that electrum.com *is not* the right address to download the wallet. The real electrum wallet should only be downloaded from electrum.org! The .com version is said to be a literal scam wallet called "electrum pro" https://www.reddit.com/r/Bitcoin/comments/8hwa1n/electrum_will_publish_proof_that_electrum_pro_is/
+0	1525816199	28	Sucks that he just dropped off from talking
+1	1525817627	74	Apart from all the development work, this was the single best thing he did for bitcoin
+2	1525864812	2	Immaculate conception.
+3	1525875463	1	https://imgur.com/r/funny/HkPOzEH
+1	1525817183	27	He either died or went to jail and is still there for something. People say it was Hal Finney who died. 
+2	1525824609	9	I've always thought it was someone who lived in St. Louis and was either a professor at Wash U or even worked at the St. Louis Fed. Notice the original Bitcoin whitepaper is timestamped for CST and when [someone hacked SN's email](https://motherboard.vice.com/en_us/article/jp5dk8/the-satoshi-nakamoto-email-hacker-says-hes-negotiating-with-the-bitcoin-founder), the address zipcode was 63101.
+3	1525840747	3	I didn't see anywhere in that article that links that zipcode to SN. Then again I only skimmed it. 
+4	1525842404	5	It's literally in one of the screenshots. Ctrl + F will not find it...
+5	1525842878	3	Oh gotcha. 
+2	1525822399	5	Could also be David Klienman. The timeline fits, and he was known to wear a encrypted USB around his neck. Maybe CWS knew this, and tried to get his family to send the USB to him, so he could take the credit, and the BTC. 
+2	1525823589	6	Satoshi possibilities: Hal Finney, Nick Szabo 
+3	1525852165	3	It's Nick. Everyone who's been around since the beginning knows it.
+3	1525823717	6	I personally don't think it was Hal because of some of the post he did about his life and experiences with satoshi. I havent done all the research I could of course. 
+2	1525822328	4	[removed]
+3	1525822603	3	who is CW?
+4	1525823464	8	Craig Wright.
+5	1525824727	9	oh yea that scammer, thank you
+4	1525823535	4	Not Satoshi.
+3	1525822609	4	I hope cw is just faking it and satoshi really is in jail. Would be nice to see him come back and be like wtf happened. 
+4	1525828472	7	He is faking it, the community has already caught him going back and forging old blog entries, faking the date of keys by setting the clock on his computer back and faking signing cryptographic proof. The deniers claim that he's intentionally making sure that it's not possible to prove that he's Satoshi because taxes or some nonsense. His own mother admitted that he would frequently say things that weren't true.
+5	1525847863	0	Damn, that must really suck when your own mom says that you're a liar 😂
+5	1525847877	0	Damn, that must really suck when your own mom says that you're a liar 😂
+3	1525840145	1	CW? Who is that?
+2	1525867072	1	Hal will be back to see the last Bitcoin mined he's in cryopreservation at the mo 
+1	1525873713	1	Probably no one in the public eye. I have a feeling he is alive, he had to disappear because he realized the shit storm he started with governments, big banks, and the elite class. There are people out there who would want to harm him. I would even wager he posts on Reddit as an anon from time to time.
+2	1525875541	1	I always liked the theory it was a group of people.
+0	1525830456	27	Wait, so if Bitcoin.com isn’t relevant to btc, but moreso bch, then *why is it posted on this sub so much?*Just wondering, as I had asked about btc vs bch in terms of what is it and what happened, etc etc, but my post was removed, and now I’m not sure I understand why.
+1	1525848732	15	[removed]
+2	1525851979	6	So uh why'd it take two years for some dude to say fuck it and just fork the 8mb block size himself?
+3	1525862797	4	look up the hong kong agreement and segwit2x. it was a stalling tactik and the big blockers fell for it.
+4	1525867561	-2	Are you daft? SegWit2x had 0 to do with hong kong and was in fact was a bait and switch scam that BIGblockers tried to pull. Luckily only a few idiots fell for that miserable failure and most of the other idiots had already jumped ship to bcash months before.
+2	1525851060	3	People keep repeating that again and again but it’s just not true. After much criticism the mods gave in and a special weekly or daily (I don't remember) discussion thread was created on rbitcoin to discuss block size (comparable to the "Daily Discussion" thread). For example, I created a simple program to calculate the block sizes bitcoin would have if Gavin's proposal was accepted and published the result in that thread.
+3	1525851308	3	[removed]
+4	1525852024	2	Well, he has the difficult task to keep altcoins out of rbitcoin and this isn't a bad general rule as long as discussions are still allowed. I think even discussions about altering the block size were banned at some point except in that thread. I did not agree 100% with theymos here but it was still possible to have meaningful discussions.
+2	1525861587	2	After xt and the attempted bch take over I think it's safe to say there is consensus. Only the consensus is towards small blocks, which some folks don't want to accept. While I agree the reaction of/on this sub against the whole big block debate is quite aggressive, I think it is quite understandable though. One of the fundamentals of bitcoin is it being the "one and only". Now after the debate has been repeated a bunch of times and the community has chosen multiple times to go for the smaller blocks it doesn't look like the big blockers are trying to have an honest debate from this perspective. It feels like an attack on bitcoins integrity to them.
+2	1525849541	1	Wow, that is one sided and not nearly enough info.
+1	1525847385	5	It's the uninformed, or people trying to dupe the uninformed into buying and using BCH instead of BTC.
+0	1525826576	137	Me: Oh it's been a few days since I've checked the r/Bitcoin sub. I wonder if anyone's made a thoughtful post about the political implications of a decentralised and digitally scarce protoco-r/Bitcoin: BCASH, ROGER VER, BITCOIN.COM, ROGER VER, SCAM, SHITCOIN, ROGER VER,Me: Ok I think... I think I'm gonnar/Bitcoin: ROGER VER, BCASH, ROGER VER, SATOSHI'S VISION LOLMe: Yeah I think I'm gonna just lea-r/Bitcoin: BCASH, ROGER VER, JIDAD WU, DID I MENTION ROGER VER YET?!?! SCAM, BITCOIN.COM, CRAIG WRIGHT, FAKETOSHI...Fuck this sub, honestly.
+1	1525838454	17	Let’s just head over to /r/btc...nope. Also insane there too lol 
+2	1525839869	8	You’re missing the point all these two subs are doing rn are flinging shit at each other 
+3	1525850141	0	Read more - you're wrong.
+4	1525882066	2	Please explain?? 
+5	1525884509	1	Look at the top posts in /r/ bitcoin at any given moment and you will see mostly informative articles about bitcoin, memes, with Ver drama peppered in there.  If you visit /r/btc at any given moment, you will see mostly articles or self posts about how bitcoin is corrupt or how it will fail, some actual articles about Bcash, memes, and more articles that provide misinfo about Bitcoin.
+2	1525850409	1	Bitcoin isn't what it's used to be...
+1	1525830719	27	I'm surpeised your comment is still up
+2	1525840534	6	[removed]
+2	1525850051	-4	Cool story.  Go back to btc.
+1	1525831891	2	At the end of the day Reddit isn’t what drives bitcoin forward, I know your not dumb to see that. There’s good discussions on the subreddit, but in actuality it’s just guys and girls just talking about what were interested in. This isn’t an economic journal. we’re all like friends that likes to gossip and rant about the other people/ projects, and where we would like to see bitcoin continue grow towards. Butttttttt bcash is still a scam. 
+2	1525839524	4	Why is B cash a scam though? I get it they have questionable marketing techniques but lots of businesses do this. The fact is that bkash does work please don't say I'm some shill because I'm not I don't even own any bcash. Most of my crypto is in Litecoin and then Bitcoin is  number 2 in my Holdings. I don't care for a Rodger I don't like what he says or how he acts. I would not want that person being a lead in anything that I put my money in but it does work. Is it the best? Heck no but are they stealing your money? Definitely not. They are just using a marketing tactic that is as old as time. A questionable one yes but not what you would call a scam in my opinion
+3	1525841131	6	Scam was probably the wrong word, but I have respect for bcash. but what turned me against it is when developers deliberately changed the name of Bcash to say they were “bitcoin (no cash at the end)” causing a lot of (alleged) new users to send BTC to a BCH wallet just due to them not realizing they sent to the wrong “bitcoin”, never to get back their money. In a way for me if they mess with someone else’s money in a misleading way they are practically messing with my money as well. 
+4	1525857269	4	> when developers deliberately changed the name of Bcash to say they were “bitcoin (no cash at the end)”Which developers? The only place I've see that done is on bitcoin.com by Roger... and has since been reverted.
+5	1525868714	3	I also believe a few separate google play wallets did also, but I could be wrong.
+1	1525896323	1	If you want a more focus discussion forum, check us out at r/BitcoinDiscussion.
+0	1525820250	42	Look at the date - March 2010. [This](https://web.archive.org/web/20100304013259/http://www.bitcoin.com:80/) is the website Satoshi was talking about. Ver did not even know about Bitcoin until 2011.
+1	1525858044	5	And yet the point that Satoshi has made is still valid. 
+2	1525896116	1	It's certainly not unrelated. If it was unrelated then there wouldn't be all this ridiculous drama about it.
+1	1525834545	4	So did Bitcoin kill BitCoin?
+1	1525841146	2	The proposal described on this website is oddly similar to BAT. Perhaps these guys are still around - they were just ahead of their time.
+2	1525871609	1	That's what I thought too, was wondering if Brenden was involved.  He's been advocating for a web based payment system since at least the mid 90s.  He's all about micropayments though, and notably the website differentiates "metered payments" from "micropayments".The  HTTP 1.1 spec from 1997 had error 402 (payment required) which assumes some future web payment standard would be developed.https://tools.ietf.org/html/rfc2068#section-10.4.3Notably, 402 was not in the 1.0 spec from a year earlier.https://tools.ietf.org/html/rfc1945
+1	1525845831	4	And this makes a difference? .com domain wasn't related to bitcoin in2010 as it is now.Hey you are the same bcash shill from yesterday!
+2	1525896334	1	I'm no fan of BCH but when you see someone taking Satoshi's words out of context like this it's bullshit, and whether bullshit fits your narrative or not, you should call it out as bullshit. Bullshit shouldn't get a free pass because it's the right sort of bullshit. You don't try to stomp on people for calling out bullshit because that bullshit makes you feel good.It's fucking dishonest bullshit and so is everyone who upvoted it. Absolutely disgusting behaviour all around.
+1	1525858428	1	Can't reach the site
+1	1525829267	-1	What difference does it make site was sold to highest bidder, he clearly stated it's unrelated.
+0	1525829995	4	it's funny because bitcoin needs no website
+0	1525826864	5	I know one person that owned that domain, and met three other people that also did. It was profitable to flip it for sure.
+0	1525829351	3	That'd be the best AMA possible that will never actually happen
+0	1525842894	3	I don’t get it- if no one knows who satoshi is how can he respond on some website?
+1	1525851290	3	this is from 2010. he communicated only online.
+1	1525852337	1	Well it was his website
+0	1525821487	18	[deleted]
+1	1525867687	2	Seriously though, fuck Roger.
+1	1525823232	2	It's the war of tour times 
+2	1525834664	3	Pretty shitty tour if you ask me.
+1	1525832674	2	BCH, not BCC.
+2	1525865412	1	Some exchanges use "BCC" as a ticker when trading BCH.
+3	1525883941	1	Well, they shouldn't.
+2	1525845719	1	They are the same thing, bcash = bitconnect
+3	1525869013	2	lmao
+1	1525822533	0	[deleted]
+1	1525830077	-4	Tell Ver to stop scamming people, and people will stop talking about it.
+2	1525841281	-1	Why doesn't the community focus on something else. If people don't bother to research what they are investing in and invest in what they believe in (bigger blocks or LN), then they likely dont give a shit about the tech anyways. They are going to invest in what makes them the most profit. 
+3	1525846451	1	That is an incredibly hostile attitude to people newly interested.Sounds exactly like what Ver wants.  Nobody talk about his scam, so he can dupe more people into his latest. We've seen so many before from him, but this BCH is the most damaging. How many will innocently stray into the trap that is bitcoin.COM without any mention of it on legit crypto forums like this one.Yah, there's not much else going on except the steady progress. When you see a new release, or breakthrough in the new tech SegWit now allows, promote the shit out of it!In between though, the news is just trying to keep people from falling into Ver's scam coin.
+1	1525830448	-3	You can't hate BCC... BCC is the totally legitimate BITCONNEEEEEEEECT! BCH is that scam thingy, or whatever.
+0	1525834091	2	Wish this isnt morphed if not great to see words from the Man himself.
+0	1525839276	2	Wait so somebody just happened to already have that name not knowing what it would become?
+1	1525872718	3	Cryptocurrencies started getting popular in the early 90s when RSA got big and people started using GPG.  They didn't really become viable until Satoshi found a good solution for the double spend problem though.  Bitcoin is a pretty obvious name for a cryptocurrency, so it's no surprise that someone came up with it before Satoshi.
+2	1525876413	1	Makes sense.  Youd think hed of checked the registry first but like he said if that is him pretty much everything was already taken. 
+0	1525854897	2	Satoshi really saw the future way back 10 years ago.
+0	1525857851	2	A true visionary
+0	1525858117	2	Our wise master has spoken. Let us banish Bitcoin .com once and for all.
+0	1525873942	2	Well said
+0	1525875276	2	haha gold!
+0	1525836618	3	bitcoin.con is the best domain.
+0	1525842708	3	bcash uses that idea to push their bullshit to get rich quick. they dont give a shit about making bitcoin his vision
+0	1525822711	1	his english was too good for him to be actually japanese
+0	1525817560	6	This is gold.  Literally, Satoshi's vision.Way to smack Roger Ver's little pink tushie.
+0	1525839180	5	I dont really care about this debacle over btc and bch. They come from the same parent.    This bickering reminds me of politicians arguing over whether homosexuals deserve the same legal rights as heterosexual couples. The answer is really obvious. It's not your life. Let them get married. It's a waste of time arguing over this.   I think bch is more like what Satoshi imagined. However there's no need to fight over the name. I also dont think bch should be trying to steal the bitcoin mantle. It should make it's own name. A name holds a lot of networking power but it's the fundamentals which matter in the long run. Lets just move on.  
+0	1525816035	4	Satoshi vision!!
+1	1525818397	5	Oooh, that’s my new band name, I’m calling it! 😯
+0	1525842130	2	[removed]
+1	1525858597	1	Lol 20% up voted
+1	1525865222	1	Don't brigade. 
+0	1525844889	2	The real Satoshi throwing down on Mr.Ver and his BS from years ago!
+0	1525865530	2	[Satoshi Nakamoto on scaling](http://satoshi.nakamotoinstitute.org/emails/cryptography/2/#selection-67.0-103.78)
+1	1525884404	1	https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2013-April/002417.html
+0	1525817259	0	Another blow to scamming scumbag Roger Ver, fucking fraud...
+0	1525823368	0	Satoshi Nakamoto, Jesus Christ, Euclid ofAlexadria....  All fictional characters; teams of writers.  They're gematria has very peculiar things going on.
+0	1525814619	1	even from the grave he gives them hell. RIP Satoshi
+1	1525814890	8	How can you know that
+2	1525815573	13	Hal Finney received the first bitcoin tx from Satoshi Nakomoto.If you just mined the first ever block of BTC and you needed to test a send transaction, who would you send it to? It's almost a 100% guarantee that you would send it to yourself. You want to be able to follow the sequence every step of the way. It's very VERY likely that Hal Finney is satoshi nakomoto. He passed awhile back, which is why Hans here says "from his grave". 
+3	1525815887	11	btw Hal Finney is cryoconserved! He'll be back! maybe.
+4	1525821342	7	The problem with cryo is we don't know how to do it without forming ice crystals that destroy cells and DNA..so not only would we have to cure ALS, we'd have to figure out how to revive someone who's cells were literally shattered by ice crystals like freezer burned steak.
+5	1525829398	9	Hal has the money to fund this research from the grave. He knew he would so he had himself cryogenically frozen and a unbeknownst team headed by the boggs will start the research after btc hits 100k. The keys were entrusted to a program he wrote, on a deads mans switch that triggers a very specific plan that will unfold off the blockchain and later be brought on. It is running on a separate chain he created with smart contracts and he already solved oracle problem. You will all bow to your reborn overlord satoshi when he is brought back to life in a robotic body as the richest man ever... At which point he will get in elon musks tesla space shuttle car and fly away to live on his own planet. The Winkelvoss twins are the first timeline of the Bogdonoffs, they invented time travel to ensure Satoshis plan, and under went surgery after a failed time jump left them stranded waiting to fix their timeline. After the singularity hits when time travel is once again created, they will both disappear into thin air and the timeline will be sealed. 
+6	1525834400	2	Am looking forward to the book. When does the seventh installment hit theaters?
+5	1525821786	3	Nanobots could be used to repair broken cells while being unfrozen.
+6	1525822559	3	The problem with nanobots is we don't know how to do it...
+7	1525823421	1	Yet.
+5	1525833321	1	The key is a mature nanotechnology - once we reach a point where fully functioning, self-replicating nanobots are standard tools in medicine, then cellular repair/rejuvenation will be possible and that will be the key.  That and much improved cryo-fluids, so don't be surprised if in 20-30 years they're able to bring back the cryogenically preserved.  I'm doing it, worth the gamble ;?)
+6	1525841711	1	Currently the absolute edge of bioengineering is the fairly unreliable (currently) [CRISPR](https://www.broadinstitute.org/what-broad/areas-focus/project-spotlight/crispr-timeline), and that's simply splicing between specific genes. You really think in 20-30 years that will progress into nanobots that can completely reconstruct a shattered genome? Ice crystals absolutely decimate cells, we've been trying to get something as simple as the single uniform carbon layer that is graphene out of the lab for over a decade now. __________EDIT: To provide a link to the timeline of CRISPR development
+5	1525851146	1	isn't the property of cryotech that the fluid doesn't crytalize (as much)?
+4	1525819127	1	He'll be resurrected to see his vision has been realized.
+3	1525817252	26	That theory is so silly that you should doubt the intelligence of anyone who entertains it seriously for more than a few minutes. It would mean that Satoshi, master of anonymity, made a few clumsy mistakes: * He [weirdly praised himself and then praised himself back](https://bitcointalk.org/index.php?topic=2188.msg29259#msg29259)* He [responded to his own mailing list debut very early on](http://www.metzdowd.com/pipermail/cryptography/2008-November/014827.html) (notice that Hal even said: "Unfortunately I am having trouble fully understanding the system" and asked a few questions like: "I also don't understand exactly how double-spending, or cancellingtransactions, is accomplished by a superior attacker who is able to mustermore computing power than all the honest participants. I see that he cancreate new blocks and add them to create the longest chain, but how canhe erase or add old transactions in the chain?" and "As far as the spending transactions, what checks does the recipient of acoin have to perform? Does she need to go back through the coin's entirehistory of transfers, and make sure that every transaction on the list isindeed linked into the "timestamp" block chain? Or can she just do thelatest one? Do the timestamp nodes check transactions, making sure thatthe previous transaction on a coin is in the chain, thereby enforcingthe rule that all transactions in the chain represent valid coins?")* He [awkwardly contributed code using his "halfinney" account](https://github.com/halfinney/bitcoin) rather than consistently using his "satoshi" account* He conspicuously [sent the very first Bitcoin transaction to himself](https://blockchain.info/block/00000000d1145790a8694403d4063f323d499e655c83426834d4ce2f8dd4a2ee) (*and publicized his True Name as the recipient for some reason!*) despite the implications that this would have in terms of identifying himself.This theory makes about as much sense as "Satoshi Nakamoto is Dorian Nakamoto, and just decided to use his real name as his nym."
+4	1525817871	9	Well according to your logic, "it's so silly" therefore it's the perfect cover because it's "so bad nobody would believe it."If you believe hal was not satoshi, perhaps mission accomplished?
+5	1525818188	7	Haha, touché.
+5	1525819529	6	That's the impression I got when I was reading through his list... It was almost as if someone had went out of their way to make Hal seem incompetent compared to Satoshi... It would serve the purpose of building up Satoshi, as well as creating plausible deniability for Hal. Now Hal can say something along the lines of, "Your honor, there is no way I could have created this, I could barely understand it!"If you think about it, making a non-existent creator is actually brilliant... There's no one to point the finger at if shit hits the fan - and more importantly, it makes this figure into a "legend". You also avoid the scenario where discovering his identity leads to panic because entities start to personally attack him because he had a drinking or a gambling problem... With Satoshi being fake there is nothing that can tarnish his legacy - he will be a legend until the end of time.
+6	1525821789	5	Let's also not forget he was protecting his identity in case the federal gov decided to hunt him down for trying to supplant the almighty dollar
+3	1525820479	7	https://bitcointalk.org/index.php?topic=155054.0"When Satoshi announced the first release of the software, I grabbed it right away. I think I was the first person besides Satoshi to run bitcoin. I mined block 70-something, and I was the recipient of the first bitcoin transaction, when Satoshi sent ten coins to me as a test. I carried on an email conversation with Satoshi over the next few days, mostly me reporting bugs and him fixing them."
+3	1525817476	5	Doesn't that account sit on billions of dollars now?
+4	1525818453	3	I believe atm a very rough estimate of 30-40 billion
+5	1525818760	-2	Yea, so hard it's hard to believe a sole individual is the creator. 
+6	1525823439	2	Why is that?  I don't see your logic.
+7	1525824548	1	Who would sit on that never cashing out?
+8	1525838402	3	Well, if it was 30 people then they all have like a billion.  You think it'd be easier to get 30 people to not cash a dime out still? 
+8	1525825804	2	Somebody who didn’t write down the keys?
+9	1525826132	4	Well obviously I'm holding the creator of Bitcoin to having a certain caliber of precaution towards things.
+9	1525828859	0	Satoshi said pretty early on that anyone who would ever delete their private keys was a fool. If he wanted to do something like that he would have sent them to an unspendable address. It's likely Satoshi still has all of that BTC.
+8	1525835041	2	Probably the exact opposite kind of person that would cash out. He's probably just hanging out on the sidelines, maybe he purposefully deleted his keys?
+3	1525855335	1	One guy didn't make bitcoin
+2	1525815449	2	He probably means that the persona is "dead", as we haven't heard from Nakamoto in years. The person behind Saroshi Nakamoto might very well still be around.
+0	1525835215	1	Does anyone else believe that, based on his flawless English, Satoshi is American (or English/Canadian/Australian)?  Also he's obviously trying to conceal his identity. So it would make sense that he didn't pick a common/generic English/Anglo name, that would further suggest his real identity.
+1	1525845703	3	More evidence to suggest British in the Genesis Block and his casual use of British slang eg Bloody hard
+1	1525840620	1	I was just wondering that. Surely he has grammatical patterns that could be identifiable too. 
+0	1525840564	1	Surely someone can analyze grammatical patterns and figure out who he is. 
+1	1525853966	1	Zoom in. Enhance.
+1	1525855590	1	Linguistical forensics? What am I supposed to do with that!?
+0	1525866127	1	Billionaire 
+0	1525872231	1	I assume you understand that this has been posted like 20 times since August 1.
+0	1525877276	1	another example [linux.org/linux.com](https://linux.org/linux.com), one being an open discussion board for free thinkers/coders; the other being for those who need it spoonfed..wheres that [reddit.org](https://reddit.org) ..not even halfway down this page, ive already seen the words 'decentralization' and '51&#37;'.. fml
+0	1525887123	1	I've randomly met ... when I was traveling, who owned the bitcoin.com domain for a while. He's the founder of one of the first BTC exchanges. He had to give back the domain because he didn't meet some guidelines on the project.
+0	1525895715	1	[Bitcoin.com](https://Bitcoin.com) is unrelated\-Satoshi Nakamoto
+0	1525832572	0	Nice to wake up to yet another morning in Asia and to see Roger Ver on the front page of r/bitcoin. Keep it up guys!
+0	1525827757	1	Upvote this to the max! 
+0	1525827394	1	What's the name of this forum?
+1	1525827450	3	www.bitcointalk.org
+2	1525827495	2	Is Satoshi still active there?
+3	1525827582	4	No. If I recall Satoshi went radio silent in 2010. I was never active on there, but it’s the stumping grounds for most crypto coin release threads and some miner program release threads. 
+3	1525840683	1	No. The mystery of Satoshi‘s identify is huge and baffling. 
+0	1525841238	1	Why isn’t threads like this posted on r/BTC to expose the fraud they are?
+1	1525845429	1	Bcash people are so delusional they actually believe satoshi was favoring the .com domain by this message.They are paid to spread lies.
+2	1525852285	5	Ok forreal if anyone wants to pay me to lie on their behalf on the internet in exchange for bitcoins or bcash shoot me a PM. I will lie and say literally anything you want.
+3	1525855766	0	They are mostly from China or other 3rd world countries. They are getting pennies for these spamming shit.Have you heard the pay to click businesses which end with xxxxxbux?They are the same morons who use these shit. They spreading shit for pennies.In other words, If you are one of those broke 3rd world scum, go for it.
+4	1525873840	1	I don't know why mr. jetrucci was downvoted. He telling the true. Kinda part after telling about businesses was not necessary, but still.
+5	1525873927	1	Major brigading happening right now
+6	1525884782	1	I thought they were all banned ? .......Censored I mean.
+7	1525884926	1	As you see there is no such thing as censorship.
+0	1525843251	1	Hail to the king 
+0	1525846321	1	can you do something in india? why RBI going to banned cryptocurreny?
+1	1525850825	1	you know how good is our government in banning international stuff. So we all should stick to localbitcoins[dot]com.
+0	1525857891	1	.com is the commercialization of Bitcoin, where .org is the true believers and supporters of the true "origin" of Bitcoin. 
+0	1525865754	1	It's bitcoin.org not .com - that's Roger Ver's personal bcash page
+0	1525870020	1	unfortunately, the incoming mainstream eternal september crypto noob hordes dont have any clue about a "standard for open source projects" and ".org".
+0	1525827458	-2	Look seriously Bcash trashed Bitcoin and created a joke for the crypto community absolute sabotager. But Roger makes a fine point too. Bitcoin fuked up in December. So i don't know guys some dark shit is going on that we are not awre of fully.
+0	1525835330	0	[deleted]
+1	1525851524	2	welcome to the real world

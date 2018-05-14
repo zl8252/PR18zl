@@ -1,0 +1,32 @@
+File created at: 1525804684
+Subreddit: Bitcoin
+Submission title: Electrum will publish proof that "Electrum Pro" is bitcoin-stealing malware.
+Submission created utc: 1525782441
+Submission score: 224
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525796002	1	This shall be interesting, really interested in seeing their proof. Really seemed weird for Electrum Pro to fork Electrum repo this way, use a very similar name and acquire the electrumdotcom domain to host their project. Let's see how this pans out.What they surely achieved by doing things this way is they have ensured that people would be much more careful before running their software... so if they are bad actors at least they aren't very clever about it.
+1	1525796797	1	Yes, but electrum , com (the scam site) is the first result you get if you search for "electrum pro".Very easy to mislead people if you somehow make the search for "electrum pro" (for example by tweeting or reddit posts that mention it as "pro")
+2	1525797779	1	The bitcoin space really is a minefield now. Before when only techies were interested you could pretty much trust most things. 
+0	1525799084	1	Do NOT download Electrum Pro.
+0	1525799139	1	https://safebrowsing.google.com/safebrowsing/report_badware/
+0	1525800325	1	I still can't remember my password for electrum from like 3 years ago. Yeah, I've tried to recover from a seed, I'm fucked and the bitcoins are lost.
+1	1525801781	1	Try walletrecoveryservices. They are reputed and good at brute forcing this if you remember some aspects of the password. They will take 10-20% of your coins as fees though
+2	1525801919	1	I could brute force myself, I remember no aspects, I've even tried calling an ex and be like "hey, do you remember any of the passwords I used a few years ago?" Fucking nothing.
+3	1525802104	1	Never give up if you still have the original encrypted wallet. It took me six months but I eventually brute forced my brothers multibit, and I am not in any way a tech whizz. Keep having a go at it as a side project. Try gurnec's ''btc recover'' program on github. 
+4	1525803285	1	I'll look into it, worst case scenario is I lose bitcoins that are already lost. I do still have the original encrypted wallet.
+1	1525801813	1	Can you elaborate as to how you tried and failed to recover from a seed? 
+2	1525802140	1	OS upgrade on the storage device deleted it. Also went through a crazy break up so I turned my opsec a little to high. It was a dark time in my life.
+1	1525800978	1	[deleted]
+2	1525801192	1	Dude, these bitcoins have been lost for a few years. They're in cold storage and I can't remember the password, I don't see how that's electrum's fault.
+3	1525801637	1	I don't need a password if you have the seed
+4	1525801845	1	Don't have the seed anymore.
+5	1525801919	1	As Satoshi said, lost bitcoins are a donation to the community
+6	1525802037	1	Could be worse, one of my coworkers lost 200 coins during a linux upgrade because his HDD failed during the process.
+7	1525802308	1	I think the information from the HDD can be recovered in that case, even deleted files can be recovered. But the real question is, why would you hold 200 bitcoin on your old computer without a backup? There can be a fire or a flood, or someone can steal it from you, just like a regular wallet.
+8	1525803144	1	That was a coworker that lost that much, so as a third party I'm not privy to how he would be able to recover them. It was also back when bitcoin was worth less than a dollar so at the time he didn't really care.
+9	1525803221	1	He would have sold a $10 per BTC anyway
+3	1525801839	1	Just send me your seed and I’ll recover them for you 
+4	1525802551	1	Let me just mail you my HDD, credit card, social security number, and a list of all the illegal things I've done in the past five years.
+2	1525801418	1	what are you talking about??
+0	1525802610	1	What is the reason to run ElectrumPRO if there is electrum-3.1.3 ? Is it something like PRO transfer or PRO deposit ?

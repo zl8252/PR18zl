@@ -1,0 +1,40 @@
+File created at: 1525804692
+Subreddit: btc
+Submission title: Gregory Maxwell doesn't want a solution...
+Submission created utc: 1525767846
+Submission score: 97
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525779729	11	He doesn't want any solution he wants his solution. Patented and created by him. Eventually BTC will be mostly only his patented shitware and he will transcend and become satoshi
+0	1525769218	16	This needs a followup:GM: I've proved Bitcoin doesn't workUser: but it does - fast and cheap!GM: experts agree 1MB blocks are TOO BIG, that's an attackGM: here, let me fix it _(installs Segwit)_---another one could illustrate the rough consensus process at BS/Core
+1	1525771611	4	>This needs a followup:>>GM: I've proved Bitcoin doesn't work>>User: but it does - fast and cheap!>>GM: experts agree 1MB blocks are TOO BIG, that's an attack>>GM: here, let me fix it _(installs Segwit)_...using a sledgehammer and chainsaw.
+1	1525769945	3	I like the way you think.
+0	1525786426	3	Max: "Fees are getting high and Bitcoin is popular. Champagne, monsieur!"Bob: "But it lacks block space. Let's add some, so it can grow further"Max: "Fuk dat. If blocks are not 100% full then Bitcoin is not popular"Max: "Popular is better than useful"
+0	1525788540	3	Proof that this meme isn’t “weak” like the trolls are saying:Brian Armstrong, CEO of Coinbase on the Core devs at the Satoshi Roundtable in 2015, where the community asked Greg Maxwell and others to please consider a compromise:——-*”They prefer ‘perfect’ solutions to ‘good enough’. ***And if no perfect solution exists they seem ok with inaction, even if that puts bitcoin at risk.***”They seem to have a strong belief that bitcoin will not be able to scale long term, and any block size increase is a slippery slope to a future that they are  ***unwilling to allow**.”*”Even though core says they are ok with a hard fork to 2MB (they have it on their own roadmap, just very far in the future), ***they refuse to prioritize it**”. *”They prefer to withhold something that could help the network now, because ***they don’t trust the community to make educated decisions in the future**”. *”They view themselves as the central planners of the network, and protectors of the people. ***They seem ok with watching bitcoin fail, as long as they don’t compromise on their principles”.**Source:  https://blog.coinbase.com/what-happened-at-the-satoshi-roundtable-6c11a10d8cdf
+0	1525795913	3	This is some top quality echo chamber material. 
+0	1525773109	2	 give him some antidote instead 
+1	1525773218	1	???
+2	1525773294	1	Solution !? antidote !?You get it right !?!!
+3	1525773554	1	The solution is the antidote ... to the incongruent ideas of Core!
+4	1525773861	1	Of core principles don't validate .
+1	1525783099	1	BTC is not antidote but rat poison for the banks
+2	1525788368	6	Blockstream is rat poison for BTC.  
+0	1525772750	2	weak
+1	1525773094	10	https://i.imgflip.com/29uloa.jpg
+0	1525787787	1	I just lurk here and at /r/Bitcoin. These kinds of posts make both subs look like they're not serious. The only people you're impressing are others who are invested in these personal attacks. Those of us just watching the tech and news are turned off by this nonsense. 
+1	1525788621	-2	Solution: don’t lurk here anymore. Then you don’t have to complain. Then we don’t have to read your posts. Then you’re happy. Then we are happy. Win-win.
+2	1525791641	5	There's lots of good stuff here though and I like to keep up with what's happening in the BTC world. Are you happy that this sort of childish memery is what gets presented from one of the biggest btc communities? I go to other crypto subs and the vast majority of the up voted posts are info about tech, adoption news, etc. It makes them look much more serious. The BTC bickering looks like two factions bitching at eachother while they get eaten up by competition. 
+0	1525780744	2	What a weak ass meme.
+1	1525783060	1	yep, biggest issue is lack of humor ... closely followed by being not funny with a lie as greg helped develop Bitcoins blockweight limit increase 
+2	1525785374	1	> blockweight limit increaseWell then, problem solved.
+0	1525791934	1	https://i.imgur.com/dKRLgES.png
+0	1525787413	1	Greg maxwell needs to google the word "Shave".Scruffy bastard.
+1	1525793376	2	He’s doing a facial hair size increase 
+0	1525777605	1	I've asked this many times before, but what incentive does anyone have breaking Bitcoin?
+1	1525778434	14	In his case? Ego. He said it couldn't work as designed, it worked. He then had to break it in line with his predictions and turn it into something based on Gregonomics instead because otherwise he, the great Greg Maxwell, would have been wrong and that just doesn't happen in his world.His Wikipedia vandalism highlighted the exact same character flaw: he persistently edited based on his own personal interpretation even after being told it conflicted with policy.
+0	1525804017	0	The most important aspect of Bitcoin is decentralization, period.  
+1	1525804255	1	Show me where in the whitepaper it says decentralized.[Don't worry, I'll wait.](https://i.imgflip.com/29vt4t.jpg)
+0	1525775353	-7	Sad to see such blatant character assassination.
+1	1525782352	5	Of whom? This is so exactly how gmaxwell has behaved. It's not funny, just a repetition of facts. It's certainly not a character assassination.
+1	1525788647	3	Read the second and third paragraph on this page if you would please:https://blog.coinbase.com/what-happened-at-the-satoshi-roundtable-6c11a10d8cdf
+0	1525786139	-1	Best meme ever. Idea for the next one: A webcomic in which Adam Back stares silently at you for three panels. Finally, in the fourth panel, he says, "I am a banker fiend and I'm comin' to **git ya**."

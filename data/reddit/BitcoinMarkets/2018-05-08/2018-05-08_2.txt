@@ -1,0 +1,29 @@
+File created at: 1525804718
+Subreddit: BitcoinMarkets
+Submission title: The simple backtest for rebalancing a crypto portfolio
+Submission created utc: 1525743952
+Submission score: 20
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525752761	6	Does this tool take taxes into consideration?
+1	1525753539	2	The specific tool does not take into account taxes. We have done a further analysis here which you can see which does discuss taxes: [https://medium.com/@ShrimpyApp/rebalance\-vs\-hodl\-a\-technical\-analysis\-6f341b0db9cd](https://medium.com/@ShrimpyApp/rebalance-vs-hodl-a-technical-analysis-6f341b0db9cd)
+2	1525756339	3	Thanks! The difference between long and short term taxation in the US is cute though... In Germany you pay about 40% + for short term profits (less than a year) and 0% for long term... They really want us to become hodlers I guess.
+3	1525757549	2	I'm sorry to hear that. This is very unfortunate. This sounds like a difficult situation. I would be happy to take a look at the data at some point, but that is a massive difference to make up. The great thing with rebalancing is there are portions of your portfolio which isn't rebalanced. I believe there is a chance you can make money, but I haven't looked at that specific case.
+2	1525756331	1	[deleted]
+3	1525757417	1	What do you mean by trading costs? We take trades based on market data and include a standard .25&#37; fee in every trade. Please let me know, I would be happy to discuss more of the details!
+1	1525757147	0	you pay taxes on income. why would you tell the gov't how much you made? did they help?
+2	1525764372	2	Did they provide, directly or indirectly, the infrastructure that enabled the actions? Probably. 
+3	1525779637	2	This should be stickied on every crypto sub. 
+3	1525765230	-1	no, actually. we allow them to exist, not the other way around.
+4	1525765536	2	I don't disagree with that, nor does it contradict my claim. 
+5	1525766025	1	all companies responsible for the infrastructure that allows for the purchase of crypto are being compensated along the way, through use of their services.edit: i'm sensing that this will end up with either you or someone else's insistence that because the gov't exists and is all powerful then we should volunteer large percentages of our own money to them, which is simply not a view i hold.
+6	1525767237	1	> all companies responsible for 5h4 infrastructure that allows for the purchase of crypto are being compensated But not at wholly endogenous prices. Most of them were subsidized in some way by projects funded by tax revenue. >  because the government is all powerful we should volunteer ... Our own money. You are projecting. Governments are merely a social contract. They provide a framework for social consensus and decision making. Living in such an agreement, and profiting from the contract without contributing according to the contract is equivalent to theft. If you don't agree with the current contract, find a new one, or persuade others you to modify the existing one. It's fine not to agree with the current setup. That doesn't mean you stop keeping up your part of the contract. 
+7	1525767871	2	look, i get what you're saying. i pay taxes. i would advocate paying taxes on crypto if they were reasonable. but they are not. the gov't has been getting their cut my entire life. and those services they do provide, they get paid for. imagine the world without crypto. ok, now crypto exists. in the intervening time, how much responsibility did the gov't have for this development? if none, why should they profit off of it? if i put my own money at risk, the gov't gets almost half of what i make? with zero risk on their part? it's extortion.
+0	1525753565	1	Check out our detailed analysis comparing HODL and rebalancing here: [https://medium.com/@ShrimpyApp/rebalance\-vs\-hodl\-a\-technical\-analysis\-6f341b0db9cd](https://medium.com/@ShrimpyApp/rebalance-vs-hodl-a-technical-analysis-6f341b0db9cd)
+0	1525752188	-1	ive made article about this lately - https://steemit.com/steem/@kingscrown/haasbot-gui-options-part-1-making-steem-btc-bot
+0	1525745815	-27	Missing BCH, #2 currency. Not interested in your bs.
+1	1525748425	8	Also, to clarify. The Shrimpy application supports all coins on each exchange. The coins we support for backtest are different than those supported by our application.
+1	1525748844	11	#2 in which universe? Cause it isn't in this one.
+1	1525748281	9	Thank you for the concern. BCH was released on August 1st. This means our backtest cannot support this coin because it does not have a full year of data. Please let me know if you have other concerns.
+1	1525764474	2	Under what metric is BCH>ETH?
+1	1525753910	3	Who cares about bch :o

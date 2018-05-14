@@ -1,0 +1,41 @@
+File created at: 1525898415
+Subreddit: btc
+Submission title: A lot of hate out there for Bitcoin Cash but 142% in 30 days ain't too bad!
+Submission created utc: 1525863381
+Submission score: 101
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525869343	9	I'm more excited seeing some quite beautiful trends forming.
+1	1525870394	1	Can you enlighten me?
+2	1525877128	9	Growing adoption, signs of decoupling from the btc price, growing number of projects and dev interest.
+3	1525896957	1	Yet still empty blocks.  The window is closing fast! BTC chain weight is motoring away into the distance, taking any chance of BCH success with it! 
+0	1525870327	9	Anyone who hates Bitcoin Cash is scared or stupid, and probably both
+1	1525878698	2	They have every reason to be scared, they should be terrified. If it were to grow at between twice and three times this rate relative to BTC starting from a difficulty adjustment, BTC would completely cease to function. 
+2	1525885064	3	Given 99.5% of all bitcoins BCH were held before the fork. 99.5% of bitcoiners should have both and nothing to fear. Regret is the emotion those who've mad a mistake shod feel or anger towards the scammers who encouraged them to sell.New investors should invest where they think they'll get a good return. There is no need to be scared unless you are over-leveraged. If that's the case, they shouldn't invest more than they are willing to lose.
+3	1525885565	2	The core party line was sell all BCH instantly and trade it in for more BTC, they did that, BitMex Xapo and DCG did that, and basically everyone who viewed it similarly to that narrative did that and have viewed actually holding BCH as something only idiots who fell victim to a scam would do.Given that, those parties are all liable to be exposed to extreme loss with no upside when their tokens cease to function if the BTC chain collapses and is superceded by the BCH chain.
+4	1525896783	1	The people who followed those telling them to sell were scammed. the scammers were the ones spreading the idea that holding BCH as something only idiots who fell victim to a scam would do.I bet those scammers actually held their BCH and got others to sell theirs so they would not have too. 
+5	1525898018	1	bitmex, xapo and GBTC openly dumped last year.  now whether or not they secretly bought back in or sold to themselves is another question
+0	1525887861	2	Price increase should not be the metric by which we rate the merit of a coin
+1	1525890841	1	Depends how you define "merit".  If you use public interest as a measure of future growth and long term viability, then it is.  If you're looking for an investment opportunity, then obviously it is.  The technology isn't enough, you also need users.  Price increases are a sign that there are more users coming on board.
+2	1525891817	1	My point here is that saying “xyz coin increased by xx%, therefore it is a good/better coin” is a terrible argument. Given how highly manipulated the market is, price increase does not necessarily mean more users or more interest. Your average garden variety shitcoin can pump 10x in a week with barely any liquidity.
+0	1525871959	2	Was around 200% a few days ago when it was around $1800 though....Still happy with the progress though!
+0	1525886904	1	That's 80% vs BTC, 142% vs FIAT in the last 30 days. You should look at the bigger picture.BCH's price is $1650 now, it was $1650 back in January.
+0	1525889928	1	brehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+0	1525890696	1	Hey whatever works, don't get caught holding the bag at the end...
+0	1525864450	1	Thats great!
+0	1525888471	1	So price is important now?
+1	1525890915	1	When was it ever not?  We're talking about a currency, its value is obviously important...
+2	1525894430	1	If you buy it when you need it (which such low fees makes very practical) unless the price swings heavily while you're waiting on confirmations, price is less of concern. Otherwise BCH holders too are concerned with having a store of value.
+3	1525895751	1	It has to store value to be a currency, otherwise it's just a cumbersome transfer protocol.  The vision isn't fiat->btc->fiat, but you're right that under that model the price doesn't really matter.
+0	1525876525	-2	Hate is not because of it's price fluctuations. You need to get some clarity on your thoughts.
+0	1525874646	-7	The problem is Bitcoin Cash is a sad bubble. It's trying to draw in people and when it bursts many will fall into despair.
+1	1525883434	2	You've been saying this for 9 months now. Try better.
+2	1525890933	2	Sorry, but it's the first time I say this. Stop shilling.
+3	1525892292	1	Your likes have been predicting that BCH would fall to 0 (including on August 1st) every day. You sound like a broken record.
+0	1525877232	-4	BCH is handled by a small group of people. Remember Dr. Craig White is the main guy behind it. They play with this market 
+1	1525882426	-4	No! *fake satoshi* is just a rambling idiot... roger and jihan.. are the people behind BCH
+2	1525883562	7	No I am the man behind it.
+0	1525879997	0	the more they hate the higher it goes in the endfacts
+0	1525873266	-7	BCN just pumped over 200% in a day.Lol 142 In 30 days....
+1	1525873434	2	only because it got listed on an exchange. BCH went from 300 to stable 1600 now. Do the maths.
+2	1525877034	0	30 days ago it was in the $600 range 

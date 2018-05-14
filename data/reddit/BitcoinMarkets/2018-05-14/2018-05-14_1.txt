@@ -1,0 +1,17 @@
+File created at: 1526319343
+Subreddit: BitcoinMarkets
+Submission title: [Altcoin Discussion] Monday, May 14, 2018
+Submission created utc: 1526270791
+Submission score: 12
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526307226	4	Zcash, LTC, BCH getting added to Gemini May 19. zcash pumping.
+1	1526308158	4	I was really surprised by the Zcash addition.
+2	1526308468	2	yeah. I think we all were.
+1	1526319029	1	Friendly reminder that zcash is not private
+0	1526294482	3	Is TA on ETHBTC ever useful?
+1	1526314063	3	I really don't think so.
+1	1526317832	2	This call from a month ago was pretty good:https://www.tradingview.com/chart/ETHBTC/70K0x1Ek-ETHBTC/
+0	1526270954	6	Consensus 2018 > Coachella 2018
+0	1526300021	0	What do you guys think about gridcoin (GRC). It has a good potential and it's seems legit... any reason not to expect good returns?
+1	1526309488	1	Gridcoin is cool, and I have participated in GRC mining (through BOINC research). That being said, the coin/token does not inherently have any value/utility from what I see. What do you consider the GRC coin's "potential"?

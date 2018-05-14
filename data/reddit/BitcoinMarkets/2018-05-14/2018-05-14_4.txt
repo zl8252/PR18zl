@@ -1,0 +1,10 @@
+File created at: 1526319345
+Subreddit: BitcoinMarkets
+Submission title: Gdax site not updating?
+Submission created utc: 1526284746
+Submission score: 0
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526284926	2	Same on my end as well... quick gasp until I reloaded the page 
+0	1526304180	1	Yep, me too...really annoying
+0	1526310252	1	yeah this has been happening as of recent, v annoying

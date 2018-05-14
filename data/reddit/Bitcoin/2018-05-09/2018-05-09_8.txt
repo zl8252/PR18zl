@@ -1,0 +1,20 @@
+File created at: 1525898399
+Subreddit: Bitcoin
+Submission title: Bitcoin Lightning Payments Are Slowly Becoming Less Reckless
+Submission created utc: 1525843183
+Submission score: 135
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525867080	10	This site is ridiculously filled with ad ridden spyware.
+1	1525871952	6	I use Brave :) 22 trackers detected and blocked!
+2	1525873245	3	Oh yeah for sure, just letting people know that if they load this up that's whats going on underneath. A lot of this garbage sites do this.
+3	1525880081	1	Coindesk has become a Gobernmint honeypot to track IPs of crypto infidels... err  enthusiasts.
+2	1525883969	1	Brave stole my bitcoins and won't release them. I loaded up some BTC in the wallet before they even considered the ICO and they gave no indication that my btc would be frozen or converted into an illegal security when I loaded my walletExtremely unethical
+3	1525891645	1	why did you put some BTC on a browser-wallet?
+4	1525891915	1	Brave was initially promoted using and supporting BTC only and I was led to believe that they would allow me to tip people in BTC and eventually withdraw the BTC... they kept delaying this and than pivoted launching an ICO and than converted my BTC to the illegal security called BAT without my consent
+1	1525876424	2	Sorry, I also block everything so I wasn’t aware. Will take note next time 
+2	1525883875	1	No worries, nowadays I run three ad-blocker programs on every browser and have modified my host files to block TONS of known bad IP's and recommend everyone to do the same.
+0	1525869595	3	What happened to coin desk.... 
+1	1525879832	1	From the comments, I'd say it's gotten worse. I haven't read an article there in over a year. And I havn't been in the space much longer. Garbage
+0	1525872736	2	Eclair LN wallet is pretty cool, but it's still basically useless until you can also receive payments. There is no way to top up your lightning channels or do peer-to-peer transactions; you have to create a new channel (new on-chain tx) with an existing business that supports LN every time you want to add funds to your wallet. I'm waiting patiently for this feature to be added. 
+0	1525890990	1	It concerns me that we say things like 'one day it'll be good enough for Amazon'Amazon is just another environmentally plundering scummy corporation.Bitcoin is Bitcoin. When will Amazon be good enough for bitcoin.Screw ALL corporations and even the lame as corporate model.They all deserve to perish. 

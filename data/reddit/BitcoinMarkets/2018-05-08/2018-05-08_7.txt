@@ -1,0 +1,16 @@
+File created at: 1525804720
+Subreddit: BitcoinMarkets
+Submission title: Anyone interested in marketing and monetizing a Crypto Tracker Platform?
+Submission created utc: 1525775859
+Submission score: 0
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525776843	1	Theres already like 500 coinmarket cap clones and portfolio trackers, i dont think ppl need another tbh
+0	1525778210	1	might wanna try r/startups or r/entrepreneur and perhaps even r/seo
+1	1525778285	2	Thanks, will do that!
+2	1525778447	1	also, some of the top exchanges do not yet have their own mobile app: e.g. Bittrex. perhaps you could sell / license to them as a "white" box app.
+0	1525780301	1	Interested in a usability report / heuristic analysis ? 
+1	1525789435	1	We most certainly are!
+2	1525793892	1	Do you have GitHub page I could contribute to? Or should I do these usability evaluations and just send to your email? Edit: words 
+3	1525794202	1	As of now it's not on github because the project is a fork of our company's main product. If you are so kind to feedback via email or PM that would be awesome
+4	1525796090	1	Sounds good! Expect that by end of week :) 

@@ -1,0 +1,13 @@
+File created at: 1526319344
+Subreddit: BitcoinMarkets
+Submission title: Living in the USA... How can I short/go long BTC/ETH/LTC?
+Submission created utc: 1526231333
+Submission score: 1
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526232845	3	Kraken
+1	1526238692	1	Kraken is confusing me...When I long or short BTC (haven't done anything yet, just signed up today), it doesnt give me a liquidation price. Is this possible? The position just stays open? I am confused.
+2	1526245746	1	It's low margin so I don't see why adding it would matter, other than convince, since the market will have to move a whole lot for people to get called on low margin. You can do the math very quickly if you are concerned.
+0	1526246347	2	For ETH, maker cdp for going leveraged long. Can trade for DAI to go short.
+0	1526264307	1	Since you are interested in Bitmex, I assume you're looking for futures. Kraken is a spot exchange.CME and CBOE offer bitcoin futures to Americans. You can use your traditional futures broker to place these trades. 
+0	1526301065	0	You can do it [Here](https://www.bitmex.com/register/NPRkp9)  

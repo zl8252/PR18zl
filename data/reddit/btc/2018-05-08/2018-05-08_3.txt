@@ -1,0 +1,17 @@
+File created at: 1525804690
+Subreddit: btc
+Submission title: People said the memo protocol was hard to implement, so here's a dirty 30-minute Python client that watches for new memo's.
+Submission created utc: 1525734239
+Submission score: 121
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525735215	17	Should do a .encode() on your message to handle unicode and output as text and not bytes.EDIT: oops meant .decode() of course :)
+0	1525734347	10	Really dirty as I gave myself a firm time limit to show that's it's actually not that hard to implement. So ~~yes, the reply to addresses are still the wrong endian'd~~ and everything else besides New Memos and replies are unhandled.Edit: Fixed that issue with a short line.Example output:    ➜  memocash python client.py        ----------    TX: f8ca50021e8e83bc45f38b2b1d087c4e165cc81b2d6b665aaad900a588ec2115    Script: 6a026d03209ac0e0469df55efda42c29884db5fab8ba8674b4bcc8b1608d8f15c3975ffe86085265706c7920546f    To: 86fe5f97c3158f8d60b1c8bcb47486bab8fab54d88292ca4fd5ef59d46e0c09a    Length: 08    Message: b'Reply To'
+0	1525735159	9	u/chaintip
+1	1525735283	8	***u/OverlordQ, you've [been sent](https://explorer.bitcoin.com/bch/address/bitcoincash:qrelay2v9lzls022awwct4s5u5kzzeg00qdfk9uxps) `0.01227928 BCH`| `~  19.98 USD` by u/barcode_guyvia [chaintip](http://www.chaintip.org). Please [claim it!](http://www.chaintip.org/#claim)***
+0	1525739692	5	Amazing!! Thanks for doing this. 
+0	1525742831	3	$0.50 u/tippr
+1	1525742883	1	u/OverlordQ, you've received `0.00029768 BCH ($0.5 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+0	1525739090	5	The complaints I read were about using the protocol to post messages and have them show up on the memo.cash website... Not about reading messages off the blockchain.
+1	1525759976	-1	if you have read it from the blockchain in  python, you can use interfaces from  php/js to python to post it on your website. I am a noob in web dev, but I know, that from here it's pretty easy.
+2	1525801169	1	The issue was the official memo.cash site wouldn't show posts made through other clients (i.e. posts not made through the memo.cash site).

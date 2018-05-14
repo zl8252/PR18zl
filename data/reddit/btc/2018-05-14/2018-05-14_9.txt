@@ -1,0 +1,25 @@
+File created at: 1526319302
+Subreddit: btc
+Submission title: BCHpizza already has 4 bounties posted. It's also no longer needed to sign a message to post a bounty.
+Submission created utc: 1526261755
+Submission score: 83
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526283059	11	Having to email you after we do a transaction to tell where we want to send the money isn't very crypto friendly. I think you should create one address per city and let people give in one click without having to contact you or fill a form.
+1	1526300794	2	The problem with that is we are not experts in server security. That approach would require making sure no hackers can penetrate the web server. No small task.
+2	1526301043	3	You could generate 100 addresses, whose private keys would stay in a wallet like blockchain.info, and only put the public addresses on the server. Then you do the transaction manually from your wallet (since you have to do some manual verifications when a bounty is requested, doing the transaction manually isn't a problem) 
+3	1526304775	1	the issue is not sending but receiving.  An intruder with access to the server could swap out the receiving addresss.  A single vanity address makes this much more difficult.
+4	1526306785	1	Why not use memo.cash to post the public keys ? That way, it’s tamper-free. And you can easily prove your memo.cash by linking it to reddit & twitter with 2fa
+5	1526307019	3	good suggestion.  i think there are lots of ways to improve.  my motto is: good now, better later.
+4	1526305287	0	Well I think your threat model (being able to defend against server intrusion) is a bit unreasonable. I don't know how you connect to your server (ssh?) but I wouldn't assume that random hackers are able to edit your website — and if that's the case, you're in a bad situation anyway, whether you have just one address or many doesn't change anything.
+2	1526305692	1	Isn't there a way to add a comment to transactions?
+3	1526306554	2	op\_return :\)  but most wallets dont support as standard feature
+0	1526292839	6	Might be cooler to allow people to post bounties for cities not on the list.  Some people might just want to be able to buy pizza for BCH in their area and are willing to put the bounty up, but only for their own city. So there may be more bounties if the list were open to the city of the bounty giver's choice.
+0	1526277816	4	This looks like a good idea, this is the kind of thing that should be spearheaded by the Bitcoin Cash Fund.As soon as you guys get that multi-signature functionality up and running (that you mention in your FAQ) the Bitcoin Cash Fund should drop 0.1 BCH into each of the 100 cities you have listed. That would get the ball rolling.
+0	1526282908	3	Great concept. There's a cool pizza place in my town and the person in charge seems rather open minded, at least to go for the bitpay method. About that, if he were to collect the bounty, he would need a BCH address. Could that address be the one from bitpay? That way he could convert it to fiat as a well as the future payments.Also any ideas of the total fees (bch+bitpay)on a 10euro pizza? Compared to a Visa payment for example.
+1	1526291594	3	> Also any ideas of the total fees (bch+bitpay)on a 10euro pizza? Compared to a Visa payment for example.The merchant is charged 1% by Bitpay, and the transaction fees are less than a cent total. So for a €10,00 pizza, the customer would pay exactly €10,00 and the merchant would receive €9,90
+0	1526294664	3	Could you have the bounties for each city public? I don’t think a merchant adopt BCH for an unknown bounty. Am I misunderstanding something? 
+1	1526300829	3	They are public just look on the green on the homepage
+0	1526279530	2	You can see the incoming bounties on this address:  [1PizzAnwr7ApFJC2dZWAGJoNyPKBQwSF4p](https://explorer.bitcoin.com/bch/address/1PizzAnwr7ApFJC2dZWAGJoNyPKBQwSF4p)
+0	1526300867	2	Thanks guys for the pizza and the fun!
+0	1526306115	1	Good initiative!I just sent a tiny amount for bounty in a city I don't even live in just for "the hell of it".I really hope it will be claimed so I can spend some BCH whenever I visit that town :)

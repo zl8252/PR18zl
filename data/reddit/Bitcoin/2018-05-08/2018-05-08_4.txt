@@ -1,0 +1,116 @@
+File created at: 1525804682
+Subreddit: Bitcoin
+Submission title: Witness the future: Paying for coffee with LN in real life - Brisbane Airport
+Submission created utc: 1525745999
+Submission score: 327
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525758163	17	This was actually very impressive. The store owner has saved himself the credit card transaction. 
+1	1525759776	11	And the risk of chargeback. Even if for such a small transaction I'm not sure it happens really often.
+2	1525785334	4	If we have the option to have it secure, why settle for less 
+2	1525793428	1	I'd say risk is minimal for coffee, but still exists.I'm sure he is more happy with the 3% transaction fee he saved.
+3	1525796482	1	If we consider the fee of selling the coin immediately through a service like Bitpay what will the fee come out to?  Edit: Looks like 1% according to Bitpay's website
+4	1525797040	1	Yeah, still 1%.But what if some of the suppliers for the coffee shop decide to take Bitcoin payments to also avoid the 3% merchant fee?See where this is going?
+0	1525756301	52	Guys, I've been in Bitcoin for over 4 years now but a guy buying a real coffee, at a real bar, with real bitcoin over the lightning network is, by far, the biggest event in the history of Bitcoin!
+1	1525776687	8	And best of all, with microscopic invisible to the naked eye payment fees: he said on twitter he paid 1.6 sat, or ~$0.0001, a cent of a cent!
+1	1525761901	10	Indeed! This is bigger than the first Bitcoin pizza. 
+2	1525790360	1	So this dude is gonna seriously regret buying this coffee in a few years then! 
+2	1525763936	0	Those two pizzas weren't even paid directly with bitcoin but via a middle man who ordered the pizzas for the guy who paid him. They don't even count. I don't know who the first person was who bought something with bitcoin directly.
+3	1525779797	1	Blasphemy! 
+1	1525785703	4	I just got chills watching a guy buy coffee. The sheer potential of such a simple thing is amazing.
+1	1525779648	1	next: hookers
+0	1525766064	19	Wow, this is happening faster than expected.
+0	1525764139	19	It all starts with a small cup of coffee ...
+1	1525776405	2	Buh muh coffee.... Oh wait 
+0	1525747320	21	Awesome, airports should be the first adopters here, long stopovers in non-destination countries suck if you want to buy anything.
+1	1525762054	5	Also the whole currency exchange thing is a real hassle. In Dubai Airport for example, you can pay with many currencies. Great. But the change is always in Dubai currency. Not so great.I don't like to pay with credit card, but I'd love to pay with Bitcoin-LN.
+2	1525766918	3	> Also the whole currency exchange thing is a real hassle.That was my point.
+1	1525767936	3	yes this makes sense. it'd be great like the eurozone which makes life and traveling much easier.
+0	1525763099	6	Just a question- often at international airports the only way to access internet is through their free wifi- how safe is it to use your bitcoin wallets in these situations?
+1	1525769371	11	Your private keys shouldn't leave your phone, so intercepting your data wouldn't be enough.  But I wonder if there are other attack vectors.   But in any case, your ~~buffoons~~ Bitcoins in your phone should be safe as long as your phone is not compromised
+2	1525776433	3	This + use VPN guys.
+2	1525793142	1	Well as long as my buffoons are safe.
+3	1525794218	1	LOL, didn't notice the autocorrect typo. Thanks
+1	1525776523	3	Good thing is you're scanning the merchants screen, what leaves your phone is a actual signed Bitcoin transaction.
+1	1525768770	2	This
+1	1525786630	0	The  thing is, if you want to be safe from getting your stuff stolen then you’d only load a small amount of crypto on spending wallet, much like putting a small amount of cash in your wallet. What is baffling is that you have to pay a fee to put crypto money in your wallet. 
+2	1525792666	1	>What is baffling is that you have to pay a fee to put crypto money in your wallet.It cost me 5 cents to load a fully secure, lightweight, international, free and open digital cash into my wallet.Then it cost me 12 Satoshis (literally zero cents: https://imgur.com/uxAe2pp ) to order stickers from Blockstream.I'm baffled! 
+0	1525767231	7	In this video, did the user need to open a channel with the coffee shop first or was it routed through a hub?
+1	1525774195	10	You wouldn't need to open a channel directly with the coffee shop as you can route payments through other *hops*. Hubs is not the right word because it implies that there is some kind of privileged agents who are allowed to route payments while others are not, but in the lightning network, everyone with 2+ channels open is a 'hub'.
+2	1525790824	1	I understand, what's the correct nomenclature for a very well connected node then? To improve user experience, it seems like you want to be connected to a well connected node so that you are more likely to be able to route to whoever you are paying without opening a new channel. 
+3	1525791605	1	If LN sees success, most nodes will be well-connected. There might obviously be some more well connected than others (having thousands/millions of open channels), but it is never necessary to route payments through such nodes and there will always be alternative routes. "Hub" isn't a good word because it implies a hub and spoke network, where payments *must* be routed through the hub to reach another spoke, but this is simply not the case - the spokes can connect directly. It's more like a spider's orb web than a wheel, where the normally connected nodes are the radial threads, and the well-connected nodes are the circular threads which intersect a large number of them. There's multiple circular threads, if one is broken, the web still functions normally.
+4	1525796037	1	The way you are describing the network makes it sound like every node is equal which is not the case. Nodes that have more money tied up can support larger transactions, and the more nodes you need to route through, the more you will need to pay in fees for each transaction. It seems to me that there is a good incentive to connect to a large hub with transaction bandwidth to handle larger transactions and also reduce the hops necessary to reach whoever you are paying.
+5	1525797695	1	Every node is equal because every node can decide how much money to put into a channel. Just because somebody has more money or more channels open does not make them any more privileged, they just have a slight competitive advantage over a person who has little money.Remember these fees are tiny, and collecting fees by running your own node will probably not even cover the electricity cost of running a raspberry pi. If you have to route through a few extra hops, the additional fees are *millisatoshis*.Capacity of single channels does not necessarily mean anything anyway. If I want to pay say, 1 BTC to some node, but there's no single channel that has that capacity, there will be no reason I can't send 0.5 BTC through one route, and 0.5BTC through another route to cover the transaction, it will just mean paying double the fee, which is still tiny.There may be incentive to connect to some highly-connected nodes, and if someone can make a profit from these tiny fees, good on them. You can too! You don't need someone's permission to open a bunch of channels.
+1	1525785498	1	Can't say for this person in this case, but if he had other channels already open then no he wouldn't have to. I've bought 4 things during last month at different times to differen places with my only channel that I opened right after the last eclair version, and they have all worked first try. I'm very impressed
+1	1525791152	1	They opened a payment channel with LivingRoomOfSatoshi who is then paying the merchant Australian dollars, not cryptocurrency. LivingRoomOfSatoshi is a lightning network hub that is utilising the merchant network of a company called TravelbyBit.
+1	1525772964	-1	Does it matter?
+2	1525775686	5	Of course it matters. I think he was asking if you had to open a channel directly with the merchant in order to make the payment. The answer is obviously no, and we need to keep educating people of that.
+3	1525790714	1	It just seems like this video only shows the ltn transaction but doesn't show whatever setup was required. 
+4	1525794403	1	He also didn't show where he bought button from originally. Today's just as much part of the setup as the payment channel is. On the twitter thread the gentleman Saturday he set up a payment channel to the lightning network two months ago and has used it for fifty ln transactions since then.
+0	1525758340	4	I’ve started seeing those iPad tills everywhere. So I’m guessing it’s as easy as a software upgrade to start accepting Lightning with these POS tills! Can anyone tell me what tills these are?
+1	1525767690	2	the biggest hassle is probably the book keeping in FIAT.
+2	1525769441	2	But I didn't make any bitcoin transaction Mr. Taxman.
+3	1525770164	-1	if u r not stupid you integrate it into ur whole system. you can disregard taxes as much as you want, it doesnt make it right to evade it as you use infrastructure thats paid with it. 
+4	1525793757	1	You'll get downvoted by the libertarians and antisocials here, but you're right.If you want to EARN the right to pay no taxes, go for it! [Go buy an island, or build one, and declare your independence!](https://m.wikihow.com/Start-Your-Own-Country) Once people decide it's too much trouble, hopefully they'll just relax and enjoy the benefits of paying taxes.
+5	1525798010	1	I wonder if the Venezuelans still enjoy the benefits of paying taxes.
+6	1525800681	1	Maybe we can buy that country and declare it tax free? 
+2	1525793279	1	The point of sale system should be able to export an itemized list of transactions, times, exchange rates, dollar amounts in digital spreadsheet format.It should be significantly faster, cheaper and easier than cash.Even if the company converts the bitcoin to fiat to pay employees or rent or whatever, that should be as simple as exporting a spreadsheet and sending it to their accountant.Your accountant will love you for sending pre-entered data instead of a shoebox of receipts.
+1	1525796934	1	Most of them are using something like Square to accept payment on the ipad via a credit card reader. I believe square lets you write plugins for their platform, but I'm not sure if it is technically possible to write something like a lightning network plugin.To start you want something that allows merchants to accept lightning and get paid in USD so there's no extra bookkeeping required.
+0	1525769144	3	Serious question: what advantages does this have over cash?
+1	1525770243	5	You don’t have to carry cash, pockets full of change, counterfeits, or human error when making change. In international places, you won’t have to worry about having local currency.
+2	1525773157	2	Also the banks in the Netherlands are removing all withdraw machines.
+3	1525776679	2	Good luck with tourists getting money out 
+4	1525776954	2	Yeah I think they want everyone using plastic to compete with cryptocurrency
+2	1525774731	1	I can see how not having change could be good but I recon there are not many counterfeit small denomination bills that you’d typically use to pay for coffee or small purchases. Good point on local currency stuff I guess that would be useful in Europe, in the states this won’t be much of a selling point except for those who travel frequently.
+1	1525785218	1	Or over credit card? I like having the opportunity to dispute a charge if service/product does not meet agreed standards.
+2	1525789812	1	Furthermore retailers have to wait for their funds to settle and have to remit a few % to the credit card company with each transaction.
+2	1525786290	0	Exactly this. There is no transaction reversal on crypto. I don’t see how it can ever be meaningful without this functionality. 
+3	1525794650	1	Ever tried buying stuff from Amazon with bitcoin via Purse.io? They use multisig addresses to enable chargebacks and dispute resolution. It can be done if you are willing to let a third party mediate the dispute.
+4	1525797916	1	I’d rather use my Amazon visa and get 5% cash back. Further Amazon is great with returns so no need for a third party. I’m just struggling to see how this makes anything easier for the consumer. 
+1	1525798152	1	Not having to hold an asset that is guaranteed to depreciate in value.
+1	1525785652	0	It depends on the specific situation. Take cash, even USD, and start traveling the world, see how far you can go. But if you live and die within your birth town somewhere remote, then there's arguably no advantage. Just keep in mind that, like it or not, we live in a global economy and this ain't gonna change anytime too soon. Global cash seems like something useful.
+2	1525786402	-1	Most people in the states don’t go outside their state yet alone country. Those who travel usually have no problems transacting in cash or cards. Global economy does not need global money, exchange rates have been working just fine.
+3	1525790204	1	Exchange rates work well, if you're American and the reserve currency is the USD. Do you think China is happy about that? Russia? Europe?Most people in the US can stay right where they are, Bitcoin is not for them. For those who travel, on the other hand, it offers a lot. Not to mention that even those Americans with broad views above will benefit from lower prices that will come because of no charge backs and no credit card fees.Wake up buddy, your "most Americans don't travel" view of the world is outdated. The world is global.
+3	1525793875	1	lol
+0	1525758564	2	This. This is so exciting to see. Thank you for sharing.
+0	1525768730	2	Still little slower than cash/cc though
+1	1525773124	3	CC's were much slower than cash when they were first introduced, but they still took off because it was much more convenient than carrying around bundles of cash. As long as the convenience factor out-weighs the added transaction time, it shouldn't be a barrier.
+1	1525770057	2	With cash, depends on how much change or how fast the cashier can do. Sometimes they gotta bust out those quarter rolls when they run out. With cc, the point is the $ is exchanged. No banking wait time.
+1	1525795694	1	It does look like the PoS is a little laggy. It should acknowledge the payment *before* the mobile wallet, in about half the time actually.
+0	1525778767	2	Got you beat. Used lightning network to buy two brautwursts at savouryeats.com food truck in fort lauderdale last saturday. :)
+1	1525786230	1	Nice. Should have filmed that!!!
+0	1525785677	2	Great work Daniel!! (I wish you said “cost” instead of “fee”, but still great!)I reposted your Twitter link into /BTC, it was instantly downvoted for some reason:https://www.reddit.com/r/btc/comments/8hwkjg/1_satoshi_total_fee_instantaneous_coffee_purchase/
+0	1525794975	1	As I understand it, he is unable to receive payments since he is not running a node. That seems a pretty serious design issue that neuters the whole peer\-to\-peer part of this. What if he needs a refund from the merchant or was overcharged?
+0	1525753848	6	Instant, secure, cheap. Better than 0-conf.
+1	1525760051	7	Not really hard to be better than 0-conf, it's a marketing feature that only exists in practice under specific conditions that the network cannot guarantee to exist at any time.People who advertise it as a secure solution for instant payments generally omit to mention that the merchants/recipients assume all the risks which is not how a trustless system should work.
+2	1525769589	3	Can you give an example situation where 0-conf wouldn't work?What would the malicious party have to do to double spend?
+3	1525772588	6	1. Send your first transaction with a low fee with the output being a merchant that will deliver goods/services on 0-conf basis.2. Issue a second transaction to your own output(s) using the inputs from the first transaction, with a higher fee, to a part of the network that is not aware of the first transaction yet (or that is known to always favor higher fees transactions... it's part of the consensus that miners can make such choice without consequences or rather nothing prevents them from doing so). You could be in control of this part of the network too to make it even easier.3. If this second transaction gets mined before the first one, the first one will never get mined by other miners as this would render their block invalid and rejected by other nodes that included a transaction spending the same inputs previously.RBF, on Bitcoin's chain, makes this kind of activity easier to pull off but it is clearly displayed on the transaction itself and it has pretty much always been admitted that nobody should rely on 0-conf, with any kind of transaction (RBF or not). The recent push for 0-conf is only appearing because Bitcoin Cash has no counterpoint to Lightning Network "instantaneous" transactions otherwise, as I said, it is only a marketing "feature".I am in no way claiming that this can be pulled of by any user very easily, it is just not an unimaginable scenario and it is not just purely theoretical: https://doublespend.cash/
+4	1525774859	2	Wow, from what I had read, I thought it was way more secure than that!.But yeah, if it can happen then basically we're back to not being trustless instant confirmations.  If you get the software ready you could end up paying for something in a busy store with something and double spending with another phone in the other hand.  
+5	1525776919	2	Satoshi said in his own words that zero conf are second class citizens.
+5	1525786099	1	The BCash people will tell you that they got rid of RBF precisely because they want "0-conf to be safe". It's not, regardless. And RBF addresses other problems.The thing is, if it's profitable to do, it will become widespread. All you need is one coder/group of coders to put together a wallet that attempts double spends at every txs. Let's say your success rate is 15%. Well, that's gives you a nice discount on everything you buy!But guess what? Merchants won't be stupid for ever and will do one of two things - Stop accepting crypto payments, or raise prices to compensate the double spend attempts. Pick your poison.Or... dump BCash into the toilet, where it rightfully belongs, and use LN over Bitcoin.
+5	1525787084	1	Peter Todd even has a script on github that double spends for you (without rbf). He demonstrated using it to trick coinbase (but emailed them and told them about it), the bitcoin community is very honest and invested in the tech so people aren't trying to cheat eachother. But if we think down the line for mainstream, it's obvious 0-conf is not the solution for anything.Added: https://www.coingecko.com/buzz/peter-todd-explains-how-he-double-spent-coinbase?locale=en
+6	1525787254	1	Didn't peter get banned (temp) from reddit for demonstrating double spending to buy reddit gold?
+7	1525794675	1	As far as I understand he got banned from reddit for the coinbase double spend, since he announced it (fraud) on reddit. 
+6	1525788996	1	But if it's an invalid transaction, coinbase wouldn't get the necessary confirmations, right? so it wouldn't matter in the end for them.
+7	1525794619	1	I added the link to the story in my previous comment
+7	1525795158	1	Doublespent transactions are valid as long as the second one confirms first.
+8	1525797073	1	My point is that then the original transaction wouldn't be valid (the one that coinbase is expected), so coinbase doesn't get confirmations on their expected transaction, so there is no way to really scame coinbase (as long as they wait for X amount of confirmations)
+3	1525800126	1	0-conf on bitcoin cash is no different than 0-conf on Bitcoin. All of the nonsense you'll hear about replace by fee is just FUD. In order to use RBF you have to indicate it in the first transaction that the transaction is eligible for RBF. If you're a merchant, and you're willing to take the risk of accepting a 0-conf transaction just don't accept anything with RBF or with a tiny fee.There's nothing innovative about 0-conf on bitcoin cash, it's just putting lipstick on a pig and accepting potential double spends. There are plenty of cases where accepting a 0-conf transaction is fine but it is not "secure" in the sense of all other cryptocurrency transactions.
+0	1525757038	3	Holy fuck. Please please sticky this mods!!!!
+0	1525747728	2	Awesome!  Can’t wait for this to be the norm.  
+0	1525752355	1	Is the receiving wallet also on lightning? 
+1	1525753815	3	Has to be
+2	1525755130	1	I didn't know there were POS wallets ready to receive lightning, or am I missing something?
+3	1525755384	2	I think you're missing something. A desktop client like Zap or Eclair should be able to accept payments. I'm not sure why they couldn't set that up on a terminal like this.
+4	1525755516	2	Oh I didn't Eclair had a desktop client, makes sense now. 
+3	1525771190	2	He mentions a POS app here: https://twitter.com/mimbled/status/993693339668172805
+4	1525771200	1	[**@mimbled**](https://twitter.com/mimbled/)> [2018-05-08 03:25 +00:00](https://twitter.com/mimbled/status/993693339668172805)> @danielalexiuc @TravelbyBit @roomofsatoshi What point of sale app is handling this? This is awesome, thanks for sharing.----^This ^message ^was ^created ^by ^a ^bot[^[Contact&#32;creator]](http://np.reddit.com/message/compose/?to=jasie3k&amp;subject=TweetsInCommentsBot)[^[Source&#32;code]](https://github.com/janpetryk/reddit-bot)[**^[Donate&#32;to&#32;keep&#32;this&#32;bot&#32;going]**](https://www.paypal.com/pools/c/80YvGrbq35)[^[Read&#32;more&#32;about&#32;donation]](http://np.reddit.com/r/nfl/comments/7pwo2m/heres_an_interesting_one_league_source_says/dsmirtu/)
+0	1525765847	1	cool, bitcoffee
+0	1525773844	1	Adoption is coming 
+0	1525778337	1	LN is the biggest achievement so far for btc, well done
+0	1525791616	1	have you heard of alipay?
+0	1525794755	1	I'm not sure if I'm more impressed by the Lightning transaction or that bitcoin is being accepted in an airport. I hope there is something in Sydney when I go through next month.
+0	1525769011	1	How easy was that
+0	1525775909	1	If there's one thing I hate more than the name 'satoshi' for a payment unit, it's how people like this guy incorrectly pronounce it.
+1	1525789178	1	how do you say it?
+0	1525801952	1	Well defended Daniel, you clearly know your stuff.

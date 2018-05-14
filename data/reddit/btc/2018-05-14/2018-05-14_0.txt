@@ -1,0 +1,66 @@
+File created at: 1526319274
+Subreddit: btc
+Submission title: Answer to Luke Jr from a real life business: We can confirm that Paypal is at least 10x more expensive than bch. We lose ~10% in commissions on micropayments with paypal, whereas with bch there are basically no fees.
+Submission created utc: 1526294739
+Submission score: 314
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526298199	102	The tail end is the best part:>Luke: Do you pass on those savings to customers?>Merchant: Yes we offer 20% discounts on purchases in bitcoin cash##M-M-M-M-M-M-MONSTER KILL!!!!!!!!
+1	1526301815	20	Just wait for his inevitable reply that will either shift the goal posts or deflect to a different argument entirely ...That or he’ll just call them a liar or something similar.
+2	1526303373	12	Spoiler alert: he'll call them a liar.
+3	1526304736	12	It would be immaterial. Whether or not a given business offers discounts for BCH purchases, if it costs businesses in general less to accept BCH, some, if not most of those savings will get passed on to customers one way or another, especially in any competitive field, as failure to accept BCH will become a competitive disadvantage. 
+4	1526304879	3	Exactly.
+2	1526307553	9	>Just wait for his inevitable reply that will either shift the goal postsHe had already shifted the goalposts and it seems like very few people noticed. As soon as spamcleaner said that BCH was significantly cheaper than Paypal, it becomes a question of the moral integrity of the people who run spamcleaner as if that is in any way related. God damn /u/luke-jr is such a shithead.
+1	1526309507	8	Luke can use those savings to get himself some teeth
+1	1526305880	3	You nailed it...
+1	1526315579	2	yes a dollar off a year for a 5 dollar a year real life business is amazing especially since the price is so stable recently and will likely go up
+1	1526305723	1	Somehow I can't see that tweet.  Can you link to it?
+2	1526307825	2	https://twitter.com/SpamCleanerCo/status/995985053028159488
+0	1526299243	39	Funny how there was a suddenly someone(s) needlessly paying $100 fees on the BCH blockchain yesterday...  then "suddenly" Luke is claiming BCH fees are more expensive than Paypal...thank you for standing up to the idiotic propagandaedit: and a special thanks to Luke for using Bitcoin Cash!  Please come again, your **more** than welcome to use Bitcoin Cash, the miners will love you for sending them so much in fees!
+1	1526307197	6	He was here also https://www.reddit.com/r/btc/comments/8j64f4/explain_why_bch_bitcoin/dyxpf14/ seems he's all over the place now.
+2	1526312514	7	Luke'n'clique claimed/believed long ago that "bitcoin could never work" so he is trying to make his failed flat world vision of a failed Bitcoin come truetoo bad the world isn't flat, so all his other backwards ideas are just that, backwards
+0	1526295700	54	Of course PayPal isn't cheaper than BCH. Anyone that believes it is has never used PayPal to accept payments. 
+1	1526304971	12	Consider also the hidden cost of returns and charge back scams that are possible with PayPal
+2	1526307409	6	Absolutely. PayPal almost always sides with the buyer.
+1	1526306490	1	But to withdraw cryptocurrencies into US Dollars, the fees are atrocious. 
+2	1526307288	6	Most exchange maker fees are under .25%. The exchange I use has 0% maker fees and no fee to send fiat to the bank, so I can easily sell and put it in the bank without any fees whatsoever.Gdax is the exchange if you are wondering.
+0	1526298119	25	I love how he made a last ditch effort to turn them into a villain by asking if they pass the savings onto their customers."yah, 20%"
+1	1526306419	7	If they upfront responded saying that it went straight into widening their profit margin that wouldn't bother me either. Being the early adopter of money-saving technology gives you that advantage. 
+0	1526295939	20	I was expecting Luke to answer "Liar".
+1	1526309641	5	Just wait, that idiot cannot help himself but to lie about literally everything.
+2	1526313775	4	There is no doubt that this /u/luke-jr character is a compulsive pathological liar.
+3	1526315340	5	Its not a lie if God told him to do it.
+4	1526315887	2	I have never read the Bible but isn't the God dude telling people not lie?
+5	1526317691	4	God asks Abraham to sacrifice his son, Isaac. When he goes to comply a messenger from God stops Abraham at the last minute, saying "now I know you fear God." Abraham looks up and sees a ram and sacrifices it instead of Isaac.From this one account God lied about the commandment "thou shalt not kill" there is no stipulation "unless it is for me" \(holy wars...\). Lied about needing to kill Isaac. Also lied about being omniscience \(all knowing\) if he was all knowing he would not need to test since he knows the outcome.
+0	1526296691	38	Real life business: BS Core's greatest enemy.
+1	1526309785	8	Blockstream has waged a war on reality for years
+0	1526297390	15	In typical fashion, the response is a deflection on to a different topic.
+0	1526314024	7	I find it unbelievable that a rational cryptocurrency enthusiast would ever recommend a merchant adopt a fiat gateway over a cryptocurrency.I know the above doesn't necessarily apply to Luke.I mean, honestly, if I was approached with the question, for instance, "we have a bunch of customers who want to pay in Ethereum Classic.  Should we accept it?" my answer would be a resounding yes, even though ETC isn't one of my primary holdings and I wouldn't stand to benefit much directly.I believe that BCH has the best chance at world currency, but I see any successful cryptocurrency adoption as good, if it steers public perception away from cryptocurrency as a band of feuding tulip vendors towards cryptocurrency as a legitimate economy worth spending.I don't know how much of a foothold BCH can really take when so many people view cryptocurrency as a get\-rich\-quick scheme \(like BitConnect and BTC turned it into\) or as those fuckers who killed the GPU market \(even though that has nothing to do with us\).
+0	1526297271	5	Details details
+0	1526298802	4	Those PayPal fees... yikes!
+0	1526297461	8	He will DDOS them now.
+0	1526309125	2	The sellers pay all the buyer insurance costs.
+0	1526316687	2	This is awesome. Can't wait for more merchants to realize there is a big opportunity here. In the retail business, margins are extremely low, so a few percent is very significant. 
+0	1526314975	3	Wow this is amazing news from real life business!# HAHAHAHAA M-M-M-M-M-M-MONSTER KILL!!!!!!!!
+0	1526303561	1	That Star Wars background picture is hilarious no matter what "side" of the debate you are on. 
+1	1526306445	6	In any sane project that kind of move would severely undermine his reputation and standing, because photoshopping faces onto imperial characters is not only childish, but sends the message that he considers them evil adversaries and is unwilling to deal with them in any way. This kind of poison only really flies because there's been a very deliberate effort for upwards of 5+ years now from the current "Core dev" faction in creating this kind of atmosphere in order to use blocksize as a wedge issue to purge certain individuals that they perceive as enemies from the project.
+2	1526311735	4	There is a special word for people like him who still have a childish thinking
+1	1526314610	1	Greg is a Sith lord but somehow Gavin only became like an imperial Lt.
+0	1526311381	0	What's the minimum relay fee for BCH?
+1	1526319265	1	1 satoshi per byte. Works out to ~$0.003 USD (no typo- a third of a penny)
+0	1526301899	-4	Nano is free! lets all use nano....
+0	1526303922	-2	>	Not sure users running non mining nodes affects decentralisation. If btc is more decentralised then we should have more options to clear a tx. But this is not the case, if we use btc our hands are tied & forced to pay high tx fees. Hence more centralisation in btc from UX povI’m reading this very carefully and it seems like a lot of hogwash.  I’m really not understanding specifically what spamcleanbot is trying to say, and I’m not surprised Luke didn’t respond. “*If btc is more decentralised then we should have more options to clear a tx.”* ?? Like what does that even mean?
+1	1526316826	1	It means running a non mining node only gives you the illusion of control. In reality no one cares which transactions you accept or reject.The options the average user has with BTC and BCH are the same. Both involve a miner clearing your transaction but with BCH any miner can clear your transaction. With BTC miners are limited on how many transactions they can clear, thus are unable prevent economic censorship.
+1	1526317826	1	I think the suggestion is that btc’s uncompetitive fee market should be regarded as a symptom of insufficient m decentralization. Decentralization should ensure that an economically competitive fee, ie. one that pays the miners for the cost of blockspace, is accepted. But because block space has been regulated on the protocol level, this is not the case. Hence uncompetitive fees is a sign that btc lacks “decentralization”. I think it’s an interesting argument and prima face convincing. Certainly, competitiveness of mining fees is an intriguing metric for gauging the degree of decentralization. 
+0	1526316971	0	Worse still, BCH only really has one miner with more than enough hashrate to control the network
+0	1526297046	-10	[deleted]
+1	1526299951	8	How does that invalidate the point about fees?
+2	1526300397	-8	[deleted]
+3	1526301524	12	No it doesn't.
+4	1526303312	-5	[deleted]
+5	1526303747	9	Just because you aren't a customer, doesn't make the business any less real. 
+1	1526313555	2	It might just be a tiny startup or a side business or something like that. It is still a real business with a real product and and real customers.Doesn't matter anyways, anyone can check the Fee Structure of PayPal and compare that to BCH and see that he is right in saying that BCH is cheaper. 
+2	1526314937	2	I think it might be smaller than that, it's like some kid coded it in 10 minutes and called it a "business".
+1	1526306354	4	Do they buy and sell a product that some people pay for? Yes. Real life business.
+0	1526301885	-8	Except that once you factor in price volatility of crypto PayPal becomes cheaper.
+1	1526317460	1	Not really. Worst case, you can near instantly convert it to $ on an exchange if you want. The market is liquid. Although personally, I would hodl :-)

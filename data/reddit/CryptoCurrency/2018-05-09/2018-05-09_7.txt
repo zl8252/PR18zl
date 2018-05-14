@@ -1,0 +1,74 @@
+File created at: 1525898447
+Subreddit: CryptoCurrency
+Submission title: The unique anonymity concept of Oyster (PRL) storage.
+Submission created utc: 1525848990
+Submission score: 230
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525859480	17	There are absolutely no username, private details or security passwords applied in the storage. Every submitted record is given a one of a kind handle which works similar to the exclusive seed key. Any individual that owns the handle may get data by the Tangle, even though these folks were to work with their very own node tangle as well as the customized script. Those who settled and make payment for this storage may be covered by the contract mixers within the network.
+0	1525882056	17	I just with they would be listed on Binance. 
+1	1525894536	2	mike tython, is that you?
+2	1525894607	1	hahaha, whoops. 
+0	1525865289	15	Why is it controversial and comments sorted?
+1	1525870120	25	It is probably controversial because it runs on IOTA and this subreddit has very special relationship to tech that makes their investments look stupid.
+2	1525878039	5	For now they are using their own tangle and will pass onto iota only when they implement smart contracts, I seem to understand. Mainnet our end of May, and weekly updates coming in. We’ll know much more, as well as the initial GB peg, and which website have been testing Pearl - which are all over 1m views a month. 
+3	1525880505	6	They run on Ethereum smart contracts.It's sharding that PRL was waiting for Iota to implement. 
+4	1525880898	2	👍🏻👍🏻 True, thanks. 
+1	1525865868	14	It's been posted within 4 hours and has 8 comments, how is this controversial? Come on mods... Is this your new tactic with coins you don't like? First VEN last night, now this? smh. 
+2	1525869800	4	I wish they at least stickied a automoderator post in the comments when they change the default sorting, just like they did in the past
+3	1525879881	3	they did that yesterday with vendid NOT work out, it would have been better off if they didn't address us at all, another mod had to come in and fix the first one's mistakes
+4	1525880131	2	Do you mean the one mod (don't remember the name, _not_ the one who fixed it in the end) who posted and tried to explain his reasoning?  Agree, that was a shitshow.  I was refering to a system they used in the past, where there was simply a stickied automoderator comment pinned in the post, where it just stated "This post is sorted by controversial".    It's the least they could do IMHO.
+5	1525880428	3	yeah that oneI stil don't even understand the point of doing it at all, let alone the flair
+2	1525875834	-3	'Controversial' is not a subjective label, and it's got nothing to do with the specific coins that this applied to.  It's just posts that fall within certain upvote/downvote parameters.
+3	1525876293	7	That's BS. There are tons of posts that would fall within those parameters every day, and yet this is the first time I've seen a post marked "controversial" and likewise sorted within HOURS. Nothing about this posts metrics are controversial. This is not some automatic tagging.
+4	1525876698	-4	You don't know what the parameters are though.  
+1	1525865573	10	PRL posts tend to get a lot of upvotes quickly so the mods always treat it like manipulation even though there's the average 1 comment to every 10 upvotes in this thread
+2	1525878327	3	There's like 100 upvotes on this post. I wouldn't call that getting ton of upvotes quickly.
+0	1525860007	14	Ian Balina can store his MEW password here no worries from Evernote hacker 😂
+0	1525875340	26	PRL is actually quite a brilliant concept. I believe mainnet will come soon as well? Way to make this controversial mods, is this a communist subreddit?
+1	1525881031	8	Mainnet is suppose to be on May 29.It's controversial because they post weekly updates on medium, will have a working product in a few weeks.  While 3/4 of crypto is just roadmaps and speculation. Mods doesn't like crypto that is trying to solve real world problems. lol  But they sure love Verge, VeChain and Bytecoin.
+2	1525893314	1	Why don't you like VeChain? I have Pearl, but VeChain is too imo trying to solve real life problems.
+3	1525894276	1	Because "the rumor is true"
+4	1525894358	1	?
+5	1525894598	1	> "the rumor is true"https://twitter.com/vechainthorcom/status/968055956046303233?lang=enMost of the people here finds it cheesy and hypey. And hence sold their Vechain.
+6	1525895139	1	what the fuck are you even talking about? this was 2 months ago. the sell off had nothing to do with BMW.
+1	1525876732	1	“I thought this was America!” ;)
+0	1525853212	31	without doubt best real world use coin out there ! , imagine if this goes live.would u use it? , i definitlly will!  
+1	1525853938	15	Sure I will. Both for storage and web monetisation. Also they are planning Dropbox-like intelligent wrappers, which will boost the project further. 
+2	1525890596	2	Did you say Dropbox-like intelligent wrappers? Take my fucking money! EDIT: hope they won't forget to add a nice UI.
+3	1525890800	2	It’s in the pipeline. It’s also open source so if I am not wrong, any company or user can customise its own if necessary. I think more details on this can be asked at the r/Oyster sub. 
+1	1525863762	15	Never have I seen definitely spelled in such a way. 
+2	1525865356	10	im sorry , i am dutch . little typo
+3	1525866823	8	It's okay, English is one of the dumbest languages when it comes to spelling. 
+4	1525880438	1	For instance - the word dumb. WTF is that b doing in there?
+5	1525880987	1	I think it's put in there to cut the m-sound. 
+1	1525864084	10	PRL is the best of the best of the best coin out there
+0	1525873059	12	What if I store my private keys in an oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle in another oyster handle... 🤯🤔
+1	1525876672	7	That’s what I’d call being careful and diligent with private keys. 😂
+0	1525877745	-26	Am i the only one who doesn't see any need for this?
+1	1525878241	16	Can you be a bit more specific? I'm willing to discuss this with you. The key points to take from PRL is that it provides decentralized and anonymous storage. Think about it for a second. This means, your personal data (photos, videos, documents etc.) can be stored in a decentralized manner, meaning that you don't have to trust that Google or Dropbox take a sneak peak into your files. This also means, that content that governments would want to be censored can stay up indefinitely and be uploaded anonymously. Do you not think we need this sort of things? Do you still believe there is no value in this kind of features?
+2	1525880067	-3	Decentralized storage is cool, but they have a backup plan right? Or other goals? How does the token come in to this? Please don't tell me it costs a little PRL to store something...
+3	1525883641	6	Been a while since I read up on it so don't take this as a thorough or accurate explanation, I've forgotten a lot of the finer details by this point.Basically you pay with PRL tokens to store your files on the IOTA tangle, these tokens are then "buried" and web nodes (websites using PRL for monetisation) do the computational work required to prevent your data from being pruned from the tangle, by utilising a small amount of visitor's CPU power (supposedly the same as or less than what you'd use for an advert or ad blocker). This is called "diving" for the PRLs, which the website owner receives. There's a bunch of stuff about broker nodes and "treasure maps" which I can't remember, but hopefully this gives you a rough idea.
+4	1525883893	4	Thank you for the explanation :D
+3	1525880159	6	The whole economic model is that you pay PRL to get storage. That’s the whole point. 
+4	1525880456	2	I see, well hopefully this works out for the PRL holders, i've not looked into it yet, thanks
+4	1525883187	2	You also receive PRL as a web owner. 
+5	1525883430	2	If you implement the protocol script into your website, yes. The PRL you pay for storage buries some into the smart contract function and the rest pays for the nodes that support the storage.
+3	1525880303	5	PRL is used as an alternative to ads. If you want to browse adfree then you could let the website owner know that he can try out PRL and bam you will have an ad free experience with minimal effect on your device. Website owner will get the PRL coins.PRL is aiming disrupt or maybe coexist  with the whole ad industry and storage is just another use of PRL. There is also SHL for dapps.
+4	1525880488	0	I just use an adblocker though
+5	1525880609	6	Adblocker doesn't allows website owners to earn. There are certain restrictions nowadays if you use an adblocker. Also adblocker uses some computational power and even then some pop up or ads can't be blocked.PRL is a better way for the website owners to earn while also providing good content.
+6	1525880948	4	true, I guess i didn't think of lower income sites where my view actually matters, thanks for the info
+7	1525881372	3	Nah dude this isn't just beneficial for lower income sites. All those shitty ads that you see while playing some games can also be replaced by PRL. Any device that can use JavaScript will be able to handle PRL. Let it be mobiles or laptops or any other device you can think of.
+8	1525881536	2	>Nah dude this isn't just beneficial for lower income sites.right, sorry I meant those are the only ones that I care to disable adblock on, if WSJ say Youtube is asking me to disable it i ain't gonna budge
+5	1525887975	2	I do too. A lot of people will block ads and prolly will also block the PRL script. However not everybody uses them so for some visitors it will still work.
+3	1525888829	7	So it costs PRL to attach data to the tangle. Part of the PRL that you pay to store your data will be buried, and websites will be able to use their users PC's to dig for those buried PRL and make money without or in addition to ads.Part two concerns Oyster'a other currency SHL. Being able to decentralize data using PRL means people will be able to write and host decentralized apps. Say a private and decentralized messaging app. Which a lot of people might not see a need for, but some people care a lot about their privacy, some people are journalists talking to sources in countries that don't like journalists. Users would pay with SHL to access these dApps.It really is a pretty big and ambitious project, trying to do a few different things at once.
+3	1525887894	4	It costs PRL to store and website owners can gain PRL's by implementing a small piece of code on their website. Visitors will perform PoW (very small resource usage) and the website owner gains PRL's based on this. A nice little feature that may speed up adoption. They got a 2nd token they plan to use to build a decentralised internet. It's a bit more complicated then that. We are at the very early stages so it's too early to speculate how it will work or if it's even possible.
+4	1525887940	5	i've been putting off reading the whitepaper and learning more but i should really do so
+5	1525888669	0	I almost never read whitepapers. Not really relevant for me. I mean you could put all kinds of shit in there that you never end up implementing. The true test is the launch of the mainnet and how fast the speeds are going to be. Can you stream? Can you build video platforms on top of this thing? Dropbox like apps. It all depends on the mainnet which is very close. 
+6	1525888808	4	Of course, i only read them so I know what the goals are and how it's intended to work
+3	1525880266	3	Read into it, you will be amazed. This is one of those projects where the token is of actual use.  If you dont understand it please do come back and ask questions 👍
+3	1525883100	2	They also have a second token, Oyster Shell SHL, available on IDEX for now as it just launched, which will eventually lead to a decentralised internet mesh, is my understanding. In development now. First work in progress is Pearl anyway. 
+4	1525883910	2	interesting, thanks
+1	1525877915	12	Yes
+1	1525887333	5	With 19 downvotes your ignorant comment is outstanding 
+0	1525896412	-2	How is the anonymity "unique"? It sounds no more anonymous that existing distributed blockchain storage solutions that already exist (Sia, Storj).Also, this whole article seems like it was translated from another language using google translate and then pasted verbatim. Makes it hard to follow in some cases, I mean what does the following even mean?*"A Profit-giving Algorithm**The Oyster Net Nodes execute Proof of Work in order to look for inlayed Pearls in the Tangle which will commits unintentionally the user submitted data files to a certain Tangle. This is very similar to bees which unintentionally pollinate the pollen flowers while it is trying to obtain the flower’s nectar. Most action over the Oyster system is financially stimulated and no element of Protocol depends on non-profit actions."*Overall poor quality article IMO.

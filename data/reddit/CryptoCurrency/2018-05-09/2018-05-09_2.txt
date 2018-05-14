@@ -1,0 +1,145 @@
+File created at: 1525898438
+Subreddit: CryptoCurrency
+Submission title: Coinbase has seen 1000% increase in transaction capacity which it plans to double in the coming months. Has 1000 dedicated personnel and has recently valued itself at $8B up from $1.6B last year.
+Submission created utc: 1525876602
+Submission score: 687
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525886812	113	$38 of that valuation comes from the value their customer service provides.  
+1	1525894476	27	$2.3B of that's is money that they owe their customers too.
+1	1525894412	10	I left coinbase for gemini. The two experiences are not even comparable.  
+2	1525895236	4	How has gemini been for you?
+3	1525895551	9	Much better! My account was verified within 2 days and my money wire showed up on my account within an hour.  I haven't needed to contact customer support yet so it's already 10 times better lol.  
+4	1525895796	1	I'll have to look into to them. Thanks.
+4	1525895829	-1	And just think, you have half the crypto coins to trade between.
+5	1525897763	-1	As if anyone wants Bcash anyway
+6	1525898426	1	> As if anyone wants Bcash anywaySince Bitcoin Cash is a fork of Bitcoin that retains its functionality on-chain, and that’s the Bitcoin that is responsible for all of this “crypto” thing even happening, yes.  A lot of people want it.  Was just added to 100,000 merchants via BitPay last month as well.  Give it time.  People are going to wise up the to mess core has made of Bitcoin BTC soon enough.  
+6	1525897964	1	You realise it's peer to peer money right?Seems like a good thing to actually demand in the market place.  Any consume, or rather, sensible consumers desire to have quick and seamless transactions where they can get more bang for their buck.This is still possible with Bitcoin cash. Censorship less money FTW.
+3	1525896184	1	Definitely a better exchange, but unless you have a major bank, you will need to wire in some cash and that costs a bit. Mine was $25 to wire.
+1	1525896149	1	How can we scale customer service at minimal cost?  Chat bots. 
+0	1525885435	102	I see these posts on a regular basis, and then remember coinbase has my dad's 1200$ and refuses to credit his account/give his money back. He's been calling/emailing for 4 months to no avail. Crazy they can have such a huge support staff and still have such egregious customer support failures
+1	1525889919	50	They have the worst customer support of any exchange.  It took them two months to send me a copy paste response to my request.  I haven't used them since.
+2	1525891994	21	**Problem with that comparison is there isn't really any comparible exchange**. Any exchange without Fiat, like Binance or Bittrex wouldn't have anywhere near the level of support tickets \(*I doubt they get even a fifth of as much tickets per X new users, the research I've done on exchanges & support suggests non\-Fiat exchanges may get as much as 10x less requests per X users\)* 1\) Because fiat and advanced KYC/AML is complicated & usually add a big dependence on 3rd parties and 2\) Their users are mostly the general public / newbies looking to buy their first crypto, which means a ton more questions than the prosumer / pro traders that would be using non\-Fiat exchanges because they will get a ton of exchanges about general crypto questions and those users will be way more likely to do things wrong requiring support. \(Sending BTC to a BCH wallet etc.\)Adding 10M users in 6 months would be a struggle for any business but to have it happen in a new industry were your biggest new user demographic has little to no understanding of how that industry works and there's strict KYC required, honestly I don't think they've done too badly given the circumstances and that's coming from someone who had a 6\-figure withdrawal missing for 2\+ months with Coinbase.
+3	1525892406	5	Good points. I agree
+3	1525894673	2	Gdax,Gemini,kraken...
+4	1525895109	3	None of those can really be compared either.GDAX is Coinbase, same support issues apply but they do not deal with the newbie\-type users I talked of, their user demographic would be "prosumer" \(consumers with good crypto knowledge\) and institutional investors I'd say they get considerably less tickets per say 1M users of GDAX in comparison to Coinbase.Gemini is way smaller than Coinbase and deals more with institutional investors and prosumer investors than newcomers, so the same applies as with GDAX, they would get way less tickets per user.Kraken is just a mess. Constant downtime, bad UI, support is easily as bad as Coinbase's if not worse while they have a lot less users / volume, if all new users had gone to them instead of mostly Coinbase I don't think crypto would have gotten to where it is now.
+5	1525897245	1	Kraken has seen pretty good improvements, their support was alright for me as well
+5	1525896004	1	Hi shanecorry, it is very concerning reading your comments on our platform. That does not sound like a consistent view we get from most of our clients using our platform. We work hard to host the best crypto exchange, while recognizing this is a journey. Our trade engine coupled with our support are catalysts of our exchange and reading both were not up to your satisfaction is something that we would be interested in hearing your opinions on. https://support.kraken.com/hc/en-us/requests/newThank you. 
+1	1525891671	4	Message the coinbase subreddit Mods/ help team. They got me squared away fast
+1	1525887099	10	Dude, having the exact same issue. But for over a year now. Makes me want to pull my damn hair out
+1	1525890416	9	Seriously, fuck Coinbase. I don't understand the circlejerk for a company that has fucked over so many people and provides some of the worst customer service in the entire world. Their fees are insane and they only have 4 coins you can buy. Why anyone still uses this garbage service is beyond me. 
+2	1525894450	5	What are good fiat off-ramp alternatives?
+3	1525898166	1	https://www.kraken.com/https://gemini.com/https://localbitcoins.com/Binance is supposedly going to offer USD trading pairs soon
+2	1525897620	2	Totally, it’s  highway robbery. 
+2	1525891147	0	It's used by non-tech savvy people and others who just use it to cash out to their bank accounts.
+3	1525892832	2	It's the only option in the US for buying instant with a card and the only option period besides Gemini and they just jacked up their fees.
+2	1525897033	0	Insane fees... if you do market maker on gdax then its completely free lol. Including send transaction.
+0	1525877980	90	Coinbase understands that crypto is not a company but rather a network; and networks grow exponentially. Strap in bois, a new base from which we will ROCKET up has been established. 
+1	1525878515	42	The future looks bright for Crypto as a whole
+2	1525878848	37	God damn you boys are making me hard rn.
+3	1525886708	10	Picture or it didn't happen.
+4	1525890366	6	I pay you BTC to NOT send that picture!
+5	1525893827	2	but if I sent 0.1 btc instead, can i get that btc? ^(/s)
+2	1525894428	1	I think coinbase trying to get themself listed on a stock exchange such as the NYSE or NASDAQ. I know they are the exchange for cryptos.
+2	1525896839	1	For blockchain, yes, but for shit coins on coinmarketcap, no
+1	1525894210	5	Agreed. Between coinbase, wall street, OTCs drastically increasing minimum trade sizes, massive corps finally exploring blockchain and crypto, and now governments no longer treating it as a joke but begin to actually research how to treat the new asset class....2017 was special and imo cannot be repeated again in which the entire market went 40x. But 10x-20x overall cap is within the crosshairs over the next 1-2 years.
+1	1525893970	3	Wow that's fucking amazing.
+0	1525886604	40	I recently valued myself at 10 million but the bank handling my homeloan disagreed. 
+1	1525894846	3	But did you show them your bags of lambocoin?
+0	1525892178	6	They shouldve started a coinbase coin. They could be valued at 80b
+0	1525880914	37	Add NANO💚
+1	1525888706	14	Ok added, hope that makes you happy.
+2	1525888813	12	Wow that was quick. Nano you continue to astound me. 
+3	1525890106	6	No listing fee either! 😭😭🚀🚀💪💪
+1	1525892338	6	Plz come to BRazil!! <3
+1	1525892697	1	I think I saw some analysis a couple of months ago that showed Nano was close to being eligible based on Coinbase's public decision process, but was still missing a few key points (decentralization was the biggest one iirc).No idea if things have changed, and obviously meeting minimum requirements doesn't guarantee being added to the platform, but there is still work to be done.
+0	1525888318	9	I have to admit: Coinbase has been such an amazing force for moving crypto forward. At this rate, they're going to wind up as the "Apple" or "Microsoft" of crypto. Really looking forward to when the start adding some ERC-20s. 
+1	1525888750	8	They definitely are a force. Like ‘em or hate ‘em
+2	1525889083	2	Yep. Certainly there are some cons (fees, customer service), but overall they've been GREAT imo. 
+0	1525882788	4	Does coinbase offer anything in the way of a stock or some sort of asset in it? 
+1	1525887209	5	Unlikely.  Even VC firms can't get their hands on it anymore.> In an official statement, the company confirmed that they informed their shareholders that it was prohibited for them to trade their stock on the secondary market and that the company will take action if these policies are violated.[1]You're better off betting on the things that have to happen for Coinbase to continue growing: increased crypto adoption and trading volume, retail adoption of crypto for buying/selling goods, and the growth of the ethereum dApp userbase.[1] https://cryptoslate.com/coinbase-warn-vcs-back-off-booking-1-billion-revenue/
+2	1525887331	1	Ok cool! I honestly wouldn’t want any VCs to get their grubby hands on my crypto companies 
+3	1525888332	7	Huh? VCs have already funded Coinbase. That’s how they are as big as they are.
+4	1525888361	2	Ooooph 
+3	1525889286	2	Well... they've raised $225MM from ~50 investors across 5 fundraising cycles, so the VCs got their hands in a long time ago.  Just no one else can get in now.
+1	1525887539	1	It's value will basically follow the assets it sells.
+2	1525887765	1	Yes but I’m curious if there’s a means of capitalizing on their success beyond the assets I buy through them 
+0	1525893504	2	Omisego is comming... less workers less fees, and decentrelaized.....
+0	1525894064	2	Coinbase provides one thing that no other service does to the same capacity, it makes Bitcoin (and crypto) accessible to the layperson, and provides free, instant and feeless transfers of every crypto it supports, without having to actually create a new crypto for that purpose.
+0	1525877226	10	They should add Ripple, Stellar, Iota, EOS, ect. some of the top coins. No wonder Binance kicks everbodys ass. Its Cheap and they have countless coins to chose from.What can you pick from coinbase...fiat to btc, bch, eth, ltc...thats all....so much WOW !
+1	1525878487	26	Brian has stated multiple times they’re doubling down on Ethereum and adding it’s tokens next.They’re the smart money, and they clearly see Ethereum as the winner just like I do.
+2	1525879499	8	I'm holding ZRX and BAT for first round of ERC tokens..both are great projects...So far they have performed very well for me..
+3	1525889942	3	OMG for me. I think there’ll be a few staggered into GDAX but not onto the App. I remember they said they were layering their structure so custody > exchange > retail. They will then bring coins through ultimately ending up on the App but only if they hit certain criteria. First bet is we’ll hear an announcement on Coinbase Custody and being able to hold ERC20 tokens then a few key ones will be added to GDAX. I don’t think any will be added to Coinbase ‘App’ yet and if they did I don’t think they would be coins without their own chain. 
+3	1525883735	-7	I guarantee you XRP will still be added ahead of the low-volume ERC-20 tokens. 
+4	1525897836	1	I heard Ripple offered a loan of 100 million xrp for a listing, and still it’s not happening....
+4	1525887690	1	No it won't, it is centralized.
+5	1525888815	5	Does that matter for Coinbase? If they offer XRP they'll rake in the transaction fees. 
+6	1525889672	6	Yes it matters. Its not in their asset selection criteria and guidelines:https://blog.gdax.com/gdax-digital-asset-framework-c875988acce8
+7	1525891415	4	Not this convo again 🤦🏻‍♂️>This framework is not intended to be a definitive methodology, investment advice, or a commitment to support any specific asset. As the technology, use cases, and regulatory environment evolve, so too will this framework. 
+8	1525895855	0	>It could change, so it probably/definitely will!No.
+9	1525896024	1	Who said that? I'm only saying they left themselves that little wiggle room.
+5	1525889338	1	It's not centralized.  How about you take 5 minutes and do research on XRP?  
+5	1525897988	1	It aims to be fully decentralised soon.
+5	1525888137	-1	No, XRP is decentralized. Can you do some basic research?
+2	1525879885	2	Don't tell me Bcash is smart. And what other erc20 tokens are still im the top 20? Eos, Tron moving to their own network. They are stupid if they don't add ripple, stellar, eos, monero, ada ect. at some point as their market cap is big
+3	1525881353	14	If everyone wasn’t so tribal here in Cryptoland. so defensive of their coin and vehemently against others, they would understand that point of view. It’s not a coincidence that the 4 assets they sell are in the top 10. It only makes sense as a business to add coins with high MC’s and volume 
+4	1525891597	3	Yeah I mean I don't personally like ada or xrp but bitmex has them and they're good trading coins for when btc is boring/in a no trade zone so w/e, money is money.
+4	1525883651	5	A voice of reason, glad people like you are still around JomadoSumabi
+5	1525884315	8	Thank you kind sir! I hope all of the Crypto world gets healthy profits
+3	1525885885	-3	man bitcesh reel bitcoincore scem!! 
+1	1525881797	5	As a newbie though I’ll tell you we want to think in terms of fiat. As much as fiat fluctuates we all have a set of idea of the value. Once we get to Binance we need to try and understand two dynamic cryptos against one another and it’s daunting to start. We need entry points like Coinbase just to get our heads even slightly in the game.
+1	1525893210	3	Imagine Coinbase having EOS, IOTA, Ripple, and XML. I hope they are working towards this goal.
+2	1525893720	2	I hope too. And i don't see why they wouldn't... Business-wise it makes sense. Its like a stock broker that offers apple, amazon and coca cola stocks but you can't order Intel, Google or Netflix stocks. Makes no sense.
+1	1525893452	2	EOS? Lol.
+1	1525890770	2	eos, lmao
+2	1525893332	0	Why not. They are no. 5 market cap wise. Like them or not. Its like a stock broker adding coca cola and apple stocks but not intel microsoft google and other big players. 
+3	1525894757	1	It's there for now, it hasn't proven itself over any kind of long timeframe.  go look at snapshots of the cmc for a year, two years, 3 years ago.
+1	1525893235	1	> What can you pick from coinbaseA reputable regulated exchange that cares about its users, without the typical shady Chinese mentality of Binance. Might as well go to some shady hot-dog-stand-exchange ran in downtown Hong Kong. A hacker moves stolen MEW ether to Binance; what does Binance do? Lets him sell it, the hack didn't happen on their platform so they don't care. List a new coin, let it pump and dump to absurd numbers without stopping trading like Coinbase did with BCH. Pathetic.
+2	1525893928	1	Dude i don't say they should pick every one of the 2000 coins. But legit projects should be available. Its like you go to your stock broker and tell him i want to buy netflix stocks and he says we only have apple, intel and Amazon. 
+1	1525893723	1	it's a trader's paradise, crypto vs. (short term) stability.Check out xlm vs btc and xlm vs usd (calculated) charts sometime and you'll see the difference.I wouldn't mind them adding xmr, xlm and possibly ada myself but I'm also perfectly fine with them operating the way they do.  Shelter from the storm.
+1	1525890020	0	I wished they’d demote BCH for its scams and double talk. 
+2	1525893771	1	You won't be getting your wish
+3	1525897202	1	Well, one can hope.
+2	1525897879	1	For its tricking.
+0	1525887053	4	Yet my $300 that's been sitting in my "cash wallet" for OVER a year remains locked up.. no option to withdrawal. Been sending emails to support once a week for a year, the times I can get through via phone they have no idea how to help.
+1	1525888885	1	Can you send it to Kraken via crypto?
+2	1525891256	1	My account is locked in terms of use on Coinbase. The only thing I can access is the withdrawal page as they want me to clear out my funds. I was able to do it with Bitcoin and Eth, but the actual dollars in the cash wallet have no option for withdrawal. No PayPal, bank, card etc.. 
+1	1525888465	1	Yep.  They locked up all my bitcoin hodlings to pay for the fradulent charges they made to my bank in February rhat my bank reversed.Fuck Coinbase.  Its a timebomb waiting to happen if they keep adding new users and services and dont fix their systemic problems.
+0	1525888442	2	Ethos will topple them easily
+0	1525893023	1	Adding XRP will need all this capacity!
+0	1525892846	1	Where is the phone support? or support in general?
+0	1525893198	1	....and It can still go six months and counting without resolving an open ticket lol
+0	1525893848	1	0% makers fee ftw
+0	1525893874	1	Boy if they ever IPO ....But that would go against the whole spirit of BTC wouldnit it...
+1	1525896093	1	Nah.  They're not a coin or even a company that invented/runs a coin, they're just a business that *happens* to be situated around crypto.  As far as I'm concerned, and by the standards/philosophy generally espoused by the crypto community, it would be fine for them to go public.The people who disagree with this are almost entirely going to be those who don't correctly understand what the generally accepted standards/philosophy of crypto *are*.
+0	1525894274	1	Well this is a great thing to see crypto Is booming these days, I still think some projects are undervalued like Lamden TAU. The project is offering good features but still it’s very undervalued.
+0	1525894420	1	*1000% increase in tx capacity?* LOL it sounds like coinbase has exceeded the lightning network 😂🤣/joke I know it refers to service capacity on their end😛
+0	1525896440	1	Has anyone who uses Binance or another exchange gone back to coinbase, I know I haven't
+0	1525896830	1	I would sell asap if I owned Coinbase
+0	1525897558	1	$8B... I wonder how much that would increase if they went decentralized/hybrid
+0	1525898041	1	Yet I still can’t get a response to my ticket.
+0	1525881018	1	Not enough. 
+0	1525888412	-5	The problem with this $8Bn valuation is the fact that once the mainstream public starts using Coinbase that will probably become a fair estimate of the value, but when they realize what crypto currency is then they will quickly switch to Binance and we all rule the world together.Coinbase true 10 year valutation: $0
+1	1525889177	4	I disagree. Coinbase is much more user friendly than Binance, and thus I don't think a newbie to crypto will quickly switch to Binance. Plus, newbies aren't buying alts. They're more conservative, and don't want to invest in random alt coins.
+2	1525890808	-1	"Newbies" who can only handle 4 options and a UI made for geriatrics...is that really how low the bar has been set? Targeting people like that to invest huge sums of money seems awfully predatory. Not to mention the sheer number of people who have been completely ripped off by Coinbase. 
+3	1525891267	3	> UI made for geriatrics...is that really how low the bar has been set? Low? I wouldn't say the bar has been set "low". If anything, it is "grandma proof"...which is what we need for mass adoption. 
+4	1525893450	1	True that. 
+3	1525891958	2	Somebody willingly using a convenient and easy-to-use service is Coinbase being "predatory"? Are you for real? People have to start somewhere. My first crypto purchase was made on Coinbase. Are you saying I should go talk to Chris Hansen?
+4	1525892279	1	So you read my post and think I called you a child molester? In order for people to make money trading, other people have to lose money, right? You guys are advocating for people who can't research more than 4 coins and can only press three huge buttons in an app to come into this space with the sole intention of you making more money. You're not a child molester for saying this, but it is predatory. Please research the word 'predatory' before attempting another snarky response again. Still want to know why you people are shilling for a company that's ripped so many people off, too. 
+5	1525892704	0	Lol You misunderstood the joke. I was talking about Coinbase being the predators, not me. Plus there's nothing wrong with somebody using a service that's available if they choose to. I'm not advocating for it. I'm just saying it's easy and there aren't many options in the USA.
+6	1525893080	0	So you're basically just gonna keep repeating yourself and purposely misunderstand me while not addressing any of the points I brought up? Sounds like the /r/CryptoCurrency I know
+7	1525893653	0	And you keep misunderstanding. You must be a /biz/ poster
+5	1525894012	0	Woah! Don’t know how it got here but... as far as  “shilling” coinbase, I disagree that I or any commenters are shilling it. Many people view it as a way to gauge where Crypto is at as far as mainstream adoption. If coinbase is growing and hiring, it’s a good sign for all of Crypto 
+2	1525892380	0	I didn't say quickly - that's why I provided a 10 year outlook.People said the same thing about personal computers - no person wanted one in their home... in 1977 - by 1987 they were singing a different tune.  Crypto business investment by joe schmo will be the backbone of the entire crypto economy.  As it represents a level of freedom unknown to common people all across the world. Coinbase is not worth 8 billion in the long run.  You don't provide anything that can't be utilized without middlemen once you understand the basics of crypto.I would disagree with your counter argument. 
+3	1525892895	1	Lol, dude...Coinbase is a *huge*, multi-billion dollar company that attracts the *top* talent from numerous areas of study/experience. They're not just going to vanish overnight, like you seem to imply. Do you really think companies like Coinbase don't know how to adopt to changing market conditions? They understand DEX's and the impact that will follow. 
+0	1525879138	-3	That's why Kraken will suck forever. Because for almost a year now they're down on very frequent basis and of ocurse always when volume spikes. Terrible. 
+1	1525880533	8	I did not have a single problem with Kraken since their update in December (or was it January?), all worked perfectly fine. 
+2	1525893522	2	Me neither. Besides binance they are the best in my opinion. Just wish they woukd add more coins/tokens
+0	1525889099	-4	Wen REQ on Coinbase?
+0	1525888159	-1	Can we invest directly in Coinbase?
+0	1525889708	-1	valued itself? lol
+1	1525891569	1	It's commonplace in the business world. Ever watch shark tank?
+2	1525893161	2	yes and nope. the market prices you.
+0	1525892138	-2	Coinbase is filled with scum. I’ve seen them steal as well as delay incoming payments for no reason at all—the manner of both were executed it was clear they were behind it. Buy from them but don’t keep your coins with them and don’t use them as a wallet !!
+1	1525893899	1	I've had zero issues in 4 years. If anything they tend to overdeliver. Most deposits and withdrawals come before the estimated dates for me.
+1	1525896860	1	>  for no reason at allthere is actually always a reason...it's just that whoever the OP is bitching in his post on this sub about coinbase, fails to mention key details like...* name on account different from ID* sending crypto to banned/off limits wallets* etc.99.9% of the time there is a legitimate reason. I have yet to see 1 instance of them "stealing money". Slow support/responses at times? yes, but theft... noif not for coinbase, most of us would have no crypto

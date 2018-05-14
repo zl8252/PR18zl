@@ -1,0 +1,55 @@
+File created at: 1526319266
+Subreddit: Bitcoin
+Submission title: I gotta say, this parody is pretty funny
+Submission created utc: 1526242294
+Submission score: 228
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526248935	17	I still find the original TXHighway site quite funny.Whoever thought of the traffic lane metaphor hasn't been to Houston.
+1	1526308995	1	I've driven straight through on I-10 and it was the best intercity highway I've ever driven on.
+0	1526278155	6	Bitcoin Cash fees are cheaper than Bitcoin's, why pay more if it's the same Bitcoin? /sThis animation is nicely done.
+0	1526246979	18	The original also looks funny, 8 empty lanes and at the bottom one lane full of fast cars. I'm surprised nobody is generating lots of big tx for BCH to make it seems like something is happening since  the cost is almost zero. I guess some script died or somebody didn't bother. Either way both versions of visualisation look hilarious at the moment.
+1	1526258195	9	Lyin' Ver's fork is coming - May 16th. Then they jack their blocks to 32MB, even though they only get about 30 transactions per hour on their chain.Its like Chinese ghost cities, churning out roads and towerblocks even though nobody needs them, or really cares that they are there.It will end similarly, and the result should be hilarious.
+2	1526286318	-2	Do you really believe the Chinese are just building meaningless homes? then you do not seem to understand much of economics and Business (and chinese ppl)... look at where china was 20 years ago, and what will happen in the next 20 years... china is no longer a third world country, they will soon be first world and every chinese wants to live in a house and not in a Slum!  this is foresight, prepare what will come tomorrow or the day after tomorrow. If you have a company you know what I'm talking about. 1mb block it's like an Indian street, but it only works as long as there is no rush hour. (these roads were built 30-60 years ago)32mb block is the chinese ghost street. (it is currently in use but it is calculated that if 1 million people live in the city it still works)
+3	1526292784	7	32 lane highways are great, unless someone builds a decentralized subway system that doesnt need to tell all the other cars what they are doing all the time.  Highways are not the answer to congestion, not in real life nor in decentralized blockchain technology.
+3	1526307468	1	You are kinda there but you missed that you can’t consolidate 20-30 living people into one. You can consolidate transactions (LN). Many including myself agree that block sizes will need to increase *at some point*. But 32mb (even 8mb) blocks aren’t without their problems. 
+3	1526302056	0	Had they played fairly, the Chinese wouldn't have been able to steal their way to where they are now. They're going to have a hard time cheating at the level they have been for the past 20 years now that Trump is in office. MAGA
+4	1526308513	1	Replace Chinese with Americans and it's accurate haha
+4	1526304243	1	Uh......yea. Get off Reddit Donnie and go back to fucking prostitutes while pandering to Russian oligarchs for money to launder.
+4	1526303350	-1	no, but unfortunately that has nothing to do with the Topic.btw. not the chinese have cheated (not misrepresented), we have been cheated ... our whole economy has been sold to china. they were a third world country and thankfully accepted this work. In the meantime, production in china has become too expensive, because many Chinese have reached the middle class, so now production is moving to africa. Trump is now releasing on how we were being pulled over the table the last 25 years. 
+1	1526308436	1	At the moment...
+0	1526244518	17	Glad you got a chuckle out of it! Here's the accompanying tweet if you want to show it some love. https://twitter.com/BashCo_/status/995752627693596673
+1	1526249390	3	Yup, when I submitted this I was sure it had already been posted here. Very nicely done... down to the .cash domain ;)
+1	1526245673	-3	-> r/cryptocurrency
+0	1526244368	8	This is precious! I just spent 5 minutes watching it without realizing it.It’s funny and it’s true.
+0	1526252597	5	How is it able to monitor lightning transactions? Why are bcash vehicles slower than bitcoin transactions?
+1	1526256520	6	To the first question, I can only guess some lightning nodes broadcast transactions that goes through them? I wouldn’t know other way and of course that wouldn’t give a complete image. To the second point, because it’s trolling the original website which is hilarious to watch anyways.
+1	1526262614	7	There is no reliable way, the lightning lane is just for show. Regarding the vehicles, technically some of them should be faster and some should be slower, indicating that the bcash block time variance is larger than bitcoin's due to much smaller hash rate. 
+2	1526263144	8	I think it is basically all made up 
+1	1526285692	7	Bcash transactions are slow than Bitcoin, Bitcoin blockchain time is 10minutes and a block is enforced by over 90% of available hash power, bcash requires 100minutes for the same security
+1	1526284599	5	The original site was biased in that it provided a disadvantage for Bitcoin transactions and a speed multiplier for Bcash transactions. The multipliers are now flipped. Lightning Transactions are purely illustrative (as is the entire site). Basically every new Bitcoin transaction that is found has a 20% chance of being spawned as a Lightning Express. The Lambos and Teslas operate similarly, just for fun. The Segwit racecars are indeed Segwit transactions. 
+1	1526297086	2	It doesn’t monitor anything it’s just an animation.
+1	1526284027	-1	The bcash vehicles are probably slower to reflect the fact that there should be 32 lanes (after the hard fork). Since there is still only 8 lanes, the author chose to make the vehicle 4 times slower. probably?
+0	1526248175	3	Perfect! How about Ethereum? I know it's not a direct competition (different purposes), but lots of investors are confused too (my colleague).
+1	1526250311	3	I dont think it should be compared for transactions and payments, it does alot more
+2	1526302339	5	Best of luck with your PoS coin that issues dividends in its own units, increasing shares outstanding to infinity. Mmmmm I love the smell of rich statefulness in the morning.  
+1	1526304533	0	Here's a look at the [comparison chart](https://bitinfocharts.com/comparison/transactions-btc-eth.html).  Ethereum transactions are pretty fast (15 second block times).
+0	1526286411	3	I thought this was a frogger game at first.
+1	1526287155	1	There should be a FIAT frog hopping over and getting splattered...
+0	1526250984	4	This is probably the most funny bitcoin meme I have seen. But then again the original is also quite funny.
+0	1526258091	6	We need to be careful here because I wouldn't put it past them to spam thier own chain. They're already trying to push some bcash online casino and some social media site with on chain storage. 
+1	1526262657	6	Correct. 
+1	1526284658	5	I expect this site will probably backfire eventually, just like the original site backfired on them. 
+0	1526248100	2	Love it. Who made this?
+1	1526282195	2	You made this?
+2	1526294565	3	I made this
+0	1526272369	2	lmfao
+0	1526245220	1	haha !
+0	1526245412	1	love it
+0	1526264231	1	is this random data or is it reading actual transactions?
+1	1526284724	3	It's reading actual transactions, although the LN train is fake based on existing transactions.
+0	1526300829	1	This is great! How do I make it my phone/desktop wallpaper :-P
+0	1526309933	1	This reminds me of [Spy Hunter](https://www.youtube.com/watch?v=sJdlbC-1CnE), a great Spectrum 48k game from my childhood. :)
+0	1526270577	1	Reddit gold! Thanks, kind stranger!
+0	1526285560	-9	 Hello, i am newbie in cryptocurrency but want to earn some money. Is it too late? I think it would be good to buy Ethereum and Credits. 
+1	1526289193	4	Not newbie. This guy is shilling Credits all over the place. 

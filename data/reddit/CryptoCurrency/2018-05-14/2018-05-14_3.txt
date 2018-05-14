@@ -1,0 +1,79 @@
+File created at: 1526319328
+Subreddit: CryptoCurrency
+Submission title: CFO of Australia's largest bank quits for role at EOS
+Submission created utc: 1526259626
+Submission score: 240
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526270633	90	I dont know how much he is running towards EOS, probably running away from CBA. They're being investigated at the moment for money laundering, they lost of a bunch of personal data and so much more.https://www.google.com.au/search?q=commonwealth+bank+news&tbm=nws&source=univ&tbo=u&sa=X&ved=0ahUKEwi2kMHtqITbAhXBabwKHb5RATIQt8YBCDkoAQ&biw=1518&bih=931
+1	1526271909	34	Sounds like he is also running back to Hong Kong. He was relocated to Australia last year.
+2	1526292257	4	Maybe his money laundering racket is up? CBA is being investigated for 53,000 cases of illegal money laundering and terror financing.http://www.abc.net.au/news/2017-12-13/cba-breached-money-laundering,-counter-terrorism-laws/9257224
+1	1526276993	35	Not to mention, charging people that don't exist (because they're dead) for a service. Seems he decided to flip it around and instead charge for a service that doesn't exist.
+2	1526280674	-2	That’s AMP, not CBA.
+3	1526286543	11	CBA.https://www.theaustralian.com.au/news/latest-news/dead-cba-clients-charged-advice-fees/news-story/5c558de312906fb6b586eac825abab66
+4	1526295284	4	Wow, I stand corrected
+1	1526280255	4	Nice.Seriously, people should think about the whole ICO thing. Even with words its impossible to mention whos running the show, these people has been doing ponzi and IPO scams since nasdaq came about. 
+1	1526281452	2	I guess EOS has to spend their billions somehow ... so win/win ???
+2	1526292303	4	They decided to hire a money laundering expert to hide their ICO billions? lol
+3	1526313498	1	Haha. Should have partnered with the former CEO of a mattress manufacturing company.
+0	1526275480	71	Scummy banker who left CBA facing money laundering charges & apparently lost the personal details of 20 million Australians is joining an over valued centralised hype coin, who would had thought.Probably because no one in the banking industry would ever touch him again.
+1	1526289354	7	The guy joined CBA less than a year ago and in no way was responsible for the loss of data. Your comments are extremely ill informed and misguided.
+1	1526301965	0	Does Australia have 20 million Bank account holders ?
+2	1526304665	4	Not 20 million customers, 20 million accounts (so a transaction + credit card = 2 accounts). 
+2	1526303166	1	That’s our entire population I don’t think that number is correct lol
+1	1526282268	-8	Yes, EOS is more centralised than non dPoW platforms, but so what? Why does every blockchain need maximal decentralisation to be of any value?We don't know yet how much decentralisation is necessary in order to form a robust network. If it turns out EOS needs to increase its number of block producers by 400%, that can be done in the future. This is an evolving space.
+2	1526285813	13	The point here is less about centralization and more about EOS taking in a (another) shady character...
+2	1526293983	4	What's the point of any of this if it isn't decentralisation.If you don't care about decentralisation, get out of crypto.
+3	1526296665	-1	You're completely mischaracterising my point.Look, unless every node on a given blockchain is a full-node, the blockchain falls short of total decentralisation. As a community, we don't fault blockchains for not meeting this criteria. Therefore, we clearly do accept some level of deviation away from total decentralisation.You and I differ on where we believe this deviation should lie. I'm simply admitting I don't know the answer and suggesting we be open minded about it. These projects need to be tested in the field and then course adjusted as new learnings emerge.EOS is entirely open source and you're at total liberty to improve whatever aspects of it you believe are lacking.
+4	1526297065	3	That wasn't a bash against EOS, I don't know enough to make comments like that about it.Your statement just came across to me that you didn't care about decentralisation.My bad.From the little research I have done, I've read that they have a small number of delegated miners and the incentives to mine honestly are greater than to try to cheat the system.But again, not enough to comment on the technological aspects behind EOS's ecosystem.
+0	1526267530	77	be funny when he learns EOS is a shitcoin
+1	1526269569	34	Hmm... who should we trust... the random people on reddit with minimal skin in the game, doesn't work in the industry, and only obtain information via third parties and rumours on the internet OR... someone who is intelligent and industrious enough to be the CFO of a top bank of Australia....Hmm.... I hold zero EOS btw. 
+2	1526271952	14	Hey come work for us we will give you millions! 
+2	1526278702	10	Note he was the CFO of a bank under a royal commission for shady practices. So...
+3	1526294081	4	EOS was in the market for a money laundering expert.http://www.abc.net.au/news/2017-12-13/cba-breached-money-laundering,-counter-terrorism-laws/9257224
+3	1526284645	5	he'll fit right into the crypto sphere!
+3	1526289608	1	When the too big to fail firm you work for misleads regulators so many times they no longer know how many times they mislead regulators.
+2	1526271849	13	you should trust anonymous teenagers and their arrogant 6 word handwaves.
+3	1526278109	5	I only follow the gospel of CryptoNick
+4	1526287266	3	He could be the CFO's advisor. And let's not forget the head of their marketing Carlos Matos. 
+4	1526305980	1	> I only follow the gospel of CryptoNickHallowed be his name. ^Hey^hey^heyyyyy
+2	1526276585	1	Trust no one
+2	1526277458	1	Oh they have skin in the game. BTC skin.
+1	1526271554	-1	what is your definition of a shitcoin and why does the 5th highest marketcap, 2nd highest volume coin, that just raised a couple billion dollars, qualify?before you dismiss it as a token, you may wish to know the token is a placeholder and it'll be it's own coin in june.
+2	1526276816	7	TRX is high mcap, high volume and raised tons of money.  Still a shitcoin. 
+3	1526289102	-2	If everything is a shitcoin, nothing is
+4	1526310637	1	No there’s a lot of great projects but that doesn’t change the fact that the top 50 has to many shit coins 
+2	1526272299	-9	Haha it's still a shitcoin. I mean look how they made ads when they were just beginning. Horribly bad spoken by a known scammer 🤣. Buuuut if you look at holo you will see there are still ethical people around. Holo is going to come and eat eos as a snack. And that's only a very small part of what it can do. Already testing alpha. Already works 10000 more efficient than ethereum 🤗
+3	1526272909	7	I actually lost brain cells reading this 
+4	1526273759	-7	Ok sorry I'm not native. Aber macht nichts. Bei den paar die du noch hast kann ja nich viel schief gehen 😂🤣
+5	1526286615	1	Du hörst dich dennoch sehr naiv an. Ich habe selber Holo, aber bitte sei nicht so naiv in dem Glauben, dass holo alles zerstören wird. Du wirst hart auf dem Boden der Realität fallen, wenn du nicht kritisch bleibst. 
+6	1526287540	-2	Alle positiven Punkte in einem Post zu bringen ist fast unmöglich und um es so kurz wie möglich zu halten muss man ein paar große Wörter raushauen. Ich bin kritisch und das hat mich dorthin geführt. Vergleiche es bitte mit allen Projekten. 90% kannst du auf der Holochain machen und besser. Ich versuche nur so viele Leute wie möglich aufzuklären :). Once the Train leaves the station its gone
+7	1526287860	0	Woher willst du wissen, dass man 90% auf holochain besser machen kann? Hast du es probiert? Theorie ist nicht das selbe wie tatsächliche Praxis. Ich hoffe, dass holo das raushaut, was sie versprechen, aber wie gesagt, du wirst dich mit deinen Erwartungen verbrennen. 
+8	1526291016	0	Meine Erwartungen sind schon mehr als erfüllt. Naja die haben schon so einiges auf holochain gebaut. Wir haben einen Twitter, wikipedia clone. Ethereum läuft schon darauf. Und ja du kannst es testen. Einfach runterladen und rumspielen. Wir reden hier nicht von tron oder cardano. Hier steht was hinter dem Projekt und es sind nicht nur Worte. Und die Damen und Herren die dahinterstehen sind schon sehr lange im Business. 
+9	1526293689	1	Jeder kann einen Klon von einem Produkt programmieren, aber wie viele nutzen es, 20 Leute? Holochain hat kein fertiges Produkt, erst in nem halben Jahr, wenn die Ports und nanos released werden, kann man von einem fertigen Produkt reden. Ich hoffe das beste für holo, aber es ist nicht lange kein eth oder btc Killer 
+9	1526293774	1	Jeder kann einen Klon von einem Produkt programmieren, aber wie viele nutzen es, 20 Leute? Holochain hat kein fertiges Produkt, erst in nem halben Jahr, wenn die Ports und nanos released werden, kann man von einem fertigen Produkt reden. Ich hoffe das beste für holo, aber es ist nicht lange kein eth oder btc Killer 
+3	1526272578	2	So your definition of a shitcoin is any coin you perceive as a threat to holo.Got it.
+4	1526273651	9	We have an ico that went for 1 fucking year and raised 1.5 billion dollars. How much eos do the founders keep? Google brock pierce. You want to support people who support somebody who is accused of molesting kids? If you look at the fine print eos does and will not use their token on the mainnet.Haha nothing can compare to holo so I'm not scared. At least they had an ethical ico. With no presales, no bonuses. 3 months of the team's salary was paid in tokens (25%) of the ico and are not locked away :). If your whole spiel sounds like a moneygrab than it most likely is 😅
+5	1526282577	0	A year long ico makes it the most distributed token out there. You don’t like eos, fine, don’t buy it. We’ve heard the rumours about Btock Pierce, and if he’s found guilty of it I hope he rots in jail. However, there has been no charges pressed by the military junta FBI, or whichever agency looks into that in America, so I will not judge him just because a documentary says he’s a pervert. Anyway, he has been relieved of his position at eos. If he decides to keep his investment/tokens, that’s up to him only.
+2	1526272464	-1	It's just the edgy thing to do. 
+0	1526277427	9	Some of these CEOs departing banks and other companies (look at the CEO resignations in the last year - tons of them) are doing it out of necessity. Because they're fucking scumbags. Same with US politician "retirements." Buyer beware.
+0	1526274521	14	I used to work in this blokes greater team. Really switched on guy .. however, yes i do think he was tapped on the shoulder to leave. The new CEO is cleaning the house and this was from the old regime. regardless, we should acknowledge that top tier talent from FS is moving to the crypto space
+1	1526276571	5	This could be more due to the Royal Banking Commission than anything else. The banks are finally getting properly scrutinised and as a result they'll continue to hemorrhage key players as more evidence turns up
+2	1526277487	14	You misspelled criminals
+0	1526282294	7	Probably wants a credible job in a credible industry after the Australian Royal Commission into banking exposed systemic fraud and corruption in the sector.
+1	1526317360	1	I think the crypto industry is the furthest thing from credible at this point in time.
+0	1526281830	6	This only means he is money hungry. Things at CBA aren´t looking great at the moment either. Of course we´re only gonna use this to validate our very speculative investments.
+0	1526299011	2	They lost my personal data. probably left to avoid actions from the government.
+0	1526291770	4	Another red flag for EOS.
+0	1526295768	1	It's very interesting to see what will happen next.
+0	1526298943	1	The cryptocurrency and blockchain industry is attracting a lot of positive attention.  With more established & talented individuals joining this ever-growing space, it is gaining a lot more legitimacy in the process. 
+0	1526306227	1	this may be a right decision from him.
+0	1526318083	1	Does this mean banks are going to end? I’m bullish about this whole thing and supporting Cryptocurrency. Projects like EOS and Lamden doing really great, I’m sure that Lamden’s mainnet will uplift the value very soon.
+0	1526280407	0	Great news for EOS. I think that we should understand a bit since everyone has fucked up once or twice in his life. Now a mistake or a fail can't drag you down for life. I will do some research to see what this guy has done since I see some negative comments.
+1	1526280911	1	He was the driver of CBA’s acquisition of BankWest following the GFC. Worked for I think Deutche at the time? Ian Narev led it on CBA’s side as head of strategy. Narev became CEO, hired Jesusason into Strategy role. Smart guy apparently.
+0	1526278799	-6	The bigger story here is the CFO from one of Australia's largest bank is moving to crypto. Sign of mass adoption coming.
+1	1526286929	7	There is ZERO correlation between cfo of australian bank joining an overhyped coin and mass adoption. ZERO. 
+1	1526282304	2	That's literally the crux of this story. 
+1	1526317413	1	This is literally the entirety of the story.
+0	1526302336	-1	This is good for EOS since it brings expertise to the game and I'm pretty sure the difference between a centralized bank and a decentralized operating system that will be used for plenty of uses, financial among them, will be seen.
+1	1526302880	1	yep! :)

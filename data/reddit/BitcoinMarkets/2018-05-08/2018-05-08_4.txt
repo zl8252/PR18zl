@@ -1,0 +1,10 @@
+File created at: 1525804719
+Subreddit: BitcoinMarkets
+Submission title: Can someone confirm that otc@circle.com and https://www.circletrade.com/en/ are indeed the right email and website for circle.com OTC trading?
+Submission created utc: 1525742969
+Submission score: 10
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1525743900	4	Their WHOIS lookups are quite different, and the one for circletrade.com is just hidden behind a privacy guard. This seems extremely fishy... *but* https://www.circletrade.com/ is linked from the footer of circle.com, so I suppose it's legit.Circle.com resolves to 104.16.40.9, while Circletrade.com resolves to 104.17.62.21 . Both are cloudflare IPs, which doesn't tell you much. 
+0	1525748333	1	Unless circle.com is compromised, that website is associated with circle.  
+0	1525779025	1	Maybe try to ask the admins

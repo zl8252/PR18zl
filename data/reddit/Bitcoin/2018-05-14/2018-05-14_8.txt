@@ -1,0 +1,28 @@
+File created at: 1526319269
+Subreddit: Bitcoin
+Submission title: German bank replaces SWIFT with Bitcoin for international loan transfers
+Submission created utc: 1526294966
+Submission score: 186
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526306987	1	Bitbond is not a bank! In fact our early-days tagline used to be "the unbank"!https://twitter.com/robzon/status/995743639862169600
+1	1526314115	1	Good fucking job on that platform. Next beer in Munich is on me! 
+0	1526297773	10	If all banks did this then bitcoin marketcap grows to value of all bank depositer and customer assets so Trillions and trillions of dollars.This is winning.
+1	1526314443	1	This is not true at all. If all banks did this demand would increase but bitcoin's value wouldn't increase to incorporate all the assets. It's like saying I am willing to sell an apple for bitcoin thus bitcoin market cap increased. 
+2	1526316495	1	> I am willing to sell an apple for bitcoin thus bitcoin market cap increased.Ya.. And that's true...
+2	1526314686	1	Something is worth what it is traded for.If it is being traded as a substitute for a banks assets then it is worth the banks assets.
+3	1526316600	1	Well not all the bank's assets. If it's used as an ephemeral part of a transfer, it will increase the price a bit but won't increase it a sustained amount by the full value being transferred
+0	1526307941	1	México swift local system has being under attack heavily plus this weekend citi group blocked all withdrawals... The fan is prepared let the shit come.... https://www.google.com.mx/amp/s/www.bloomberg.com/amp/news/articles/2018-05-13/mexico-says-possible-bank-hack-led-to-large-cash-withdrawals
+1	1526314216	1	The article you link mentions neither Citi group or Swift?Edit: Nvm, I was wrong.
+2	1526316397	1	Swift local system is called SPEI my good man, and citibanamex is a Citigroup Mexican branch, both are referenced in the article you didn't read, as well as me being a citibanamex customer who suffered the issues of not having access to my money via app nor atm nor directly at the branch. 
+3	1526317532	1	Ok my bad. 
+3	1526318830	1	SPEI has nothing to do with Swift. While they are similar things they work differently, are organized differently and are run by different independent organizations.Saying SPEI is like Swift is like saying Bitcoin is like Ethereum. Yes, similar but definitely not the same.
+0	1526316076	1	I don't understand I though swift was a transfer system that processes transactions where bitcoin is just a currency.
+0	1526316622	1	This is what wyre does
+0	1526306822	1	And so it begins... :D
+0	1526311104	1	Banking on the Best... Bitcoin
+0	1526311699	1	I've seen this pop up on various german start up newspapers. Seem's very interesting. 
+0	1526315252	1	HighFeeSegshitCoin, making international loans more expensive with it's floppy disk transaction cap and a mempool that moons when people use it, limiting adoption and use cases, with a centralized banking like system as the "solution".Can't wait for moon and lambo! /s
+1	1526316086	1	How much does Roger pay for 1 day old account psyops? Asking for unemployed friend
+2	1526316518	1	Assuming I even like cryptocurrency. Ever heard of [/r/Buttcoin](https://np.reddit.com/r/buttcoin)? 
+3	1526318236	1	Just asking you what the pay is

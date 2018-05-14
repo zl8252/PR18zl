@@ -1,0 +1,130 @@
+File created at: 1526319324
+Subreddit: CryptoCurrency
+Submission title: 2018 will be the biggest bull year in crypto yet. A large reason for this will be the emergence of security tokens.
+Submission created utc: 1526280330
+Submission score: 439
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526287387	98	Finally a "biggest bullrun" post that somewhat makes sense.
+1	1526315749	9	Are you sure. He says:"Coming back from the CryptoInvest Summit in LA, there was one resounding theme throughout the conference."Not an uncommon thing to come home from a circle jerk and think the light has been seen.
+1	1526301041	9	REALS not FEELS?!
+2	1526315923	1	nah this is still feels
+1	1526290814	-21	yes, because we haven't been on a decade long bull run without them. 
+2	1526292571	12	I don't need to explain the context of my reply, right?
+3	1526295996	-18	Of course not, it is obvious: You like the idea so it "makes sense" to you.
+4	1526296462	17	No. Even though I like the idea of a bullrun, the usual "biggest bullrun incoming" posts are pure trash. This article had a little more substance.
+2	1526295906	0	You sound sarcastic but you're right. 
+3	1526296587	1	With pun intended there, I bet!
+4	1526297162	0	Haha
+2	1526298880	-1	Ftw, why all the downvotes?!
+3	1526305286	-1	Wallstreeters mad they missed the boat, trying to convince us we need them to succeed. I scrooge mcduck into the downvotes.. MAKE IT RAIN! ;)
+4	1526305657	1	I see.
+0	1526296153	10	Looking forward to seeing ERC721 being used for more than just cryptokitties.Bring on the tokenised assets.
+1	1526316691	1	At the moment someone can steal your identity and literally sell your house. This emerging security market will be massive when it finally happens.
+2	1526318406	1	Lol! I’ve always wanted to rent an Airbnb and do that. Seriously, how will a security token help prevent this.
+2	1526319193	1	>At the moment someone can steal your identity and literally sell your house.And with STs, anyone can steal your private key and literally sell your house.
+0	1526294557	16	Pls mention few security tokens for sake of newbies like me
+1	1526310515	5	First registered security token is probably NEX. They are waiting approval from  [FMA](https://www.fma-li.li/en/).
+2	1526314947	2	Not true. Lykke LKK is the first. 
+3	1526319246	1	Thx TIL
+2	1526310532	2	It seems that your comment contains 1 or more links that are hard to tap for mobile users. I will extend those so they're easier for our sausage fingers to click![Here is link number 1](https://www.fma-li.li/en/) - Previous text "FMA"----^Please ^PM ^/u/eganwall ^with ^issues ^or ^feedback! ^| ^[Delete](https://reddit.com/message/compose/?to=FatFingerHelperBot&subject=delete&message=delete%20dyynibr)
+1	1526311582	5	A blockchain token that is licensed as a security by a securities regulator and provides stock-like benefits like a contractual ownership stake in an enterprise and dividends.By making ownership fluid and easily exchangeable, tokenization will enable much higher volumes of investment per capita, which will provide a fundamental boost to economic development.There are three projects that I know of that are pursuing this:https://harbor.comhttps://www.polymath.networkhttps://jibrel.networkAll are utilizing ERC20 tokens or some variation of it, which will make their tokens widely tradeable on decentralized exchanges and usable with existing token wallets.Jibrel Network even created its own ERC20-token wallet, JWallet: https://jwallet.network/
+2	1526312652	1	\> Jibrel Network even created its own ERC20\-token wallet, JWallet: [https://jwallet.network/](https://jwallet.network/) would of been nice to have a desktop alternative, was bummed out for a minute, will keep an eye out on it thanks
+1	1526310575	7	Modum is a Security token working in the huge pharmaceutical industry :)
+1	1526311737	6	Poly
+1	1526319163	1	Polymath is a security platform. If you are getting into securities, poly should have a large part of those holdings
+1	1526305528	0	Check out RVN, Ravencoin. There's a great AMA with crypto/Wall St. legend Bruce Fenton that was on front page of this subreddit a couple weeks back where he goes into RVN and why he's invested. 
+2	1526310330	1	and it's mineable! 
+0	1526298626	18	Every year will be a big year. Sell your shitcoins at a loss, buy the new hotness, Hodl to the bottom, sell your shitcoins at a loss, buy the new hotness, Hodl to the bottom... Repeat 
+1	1526309308	8	Hey I think you're onto something there 
+1	1526309441	4	I feel attacked 
+0	1526285748	36	Oh, crypto currencies are so exciting, so different, so liberating so let's just get in there and dick around with the space and see how we can morph it into another Wall St. where it feels so good to bend over for the SEC, the great protector of small investors.  What a great idea!/s 
+1	1526290694	22	Right? It's like we've all been over here minding our business, playing beer pong. Them telling us how stupid we are for playing beer pong. It's a joke, never going to amount to anything, they said.Now beer pong is worth a lot of money. They show up very late to the party and yell at everyone and tell them to stop playing beer pong. You can only play twister, and it's by our rules!You see, you can't succeed without us. The bull run can only happen if you let Wallstreet make the rules!Game. Set. Match. We Win.
+2	1526290913	-8	BytecoinMtGOXBitconnectBitgrailCoincheckCTRNope, no regulation needed in this space. 
+3	1526291287	26	I had no problems pulling my coins out of Mt. Gox.. If you were actually a part of the scene at the time, you would know the only people that got stuck with money in Gox were the greedy ones.. The writing was on the wall for MONTHS before the collapse. There were literal posts on bitcointalk for weeks telling people to get their money out, it's about to collapse.We don't need to regulate for stupidity... EnronBernie MadoffFederal ReserveBayou Hedge Fund GroupQwest Communications InternationalWorld ComAll happened in a regulated envrionment... WHATS YOUR POINT?
+4	1526292408	11	> WHATS YOUR POINT?I want two things only out of regulation:1. Tracking and verification of ICOs to prevent fraud and criminal funding.2. Clear and common sense rules for fiat gateways and exchanges so that banks will stop being dicks to their customers because of legal gray areas and exchange customers have the assurance that they won't lose their investment to loss of liquidity on the platform. That is all of the regulation I want. 
+5	1526292797	2	I'm fine with all of that unless they try and assign an asset class to ICO's as they're able to morph from one class to another.The regulation needs to be essentially a sandbox, with no rules until we even figure this technology out. Its purpose is to give them a "regulated envrionment" to work from where the projects are validated to not be exit scams, but aren't confined to horrible securities laws which will just crush innovation.What I'm not willing to give up is;1. Anyone should be free to invest as much or as little as they like2. No one should be barred from investing regardless of their "accredited status"
+6	1526293828	1	I agree with those things. I'm quite miffed that the U.S. blanket labeled everything a security. 
+6	1526299488	1	This is perfect. I agree with everything you listed here 
+6	1526300876	1	What I would like to see with exchanges is more like an *option* for *them* to be "accredited".  I have some issues with Coinbase but I think it's fantastic that they are FDIC insured.  They could have steps for an exchange to be "accredited".  That would be a great draw for the normies but still leave the rest of us the option to knowingly take risks with the smaller, newer exchanges and ICOs.
+3	1526291201	9	You can’t protect people from their stupidity 
+4	1526297711	3	I transferred btc to bitgrail to buy xrb then the site went black, fuck me right, im just stupid. 
+4	1526302348	0	Scammers love to say this too.
+3	1526295852	5	1930's/1940's regs for equities are not what it needs. The SEC is not what it needs, either. Something that makes sense and has a chance of actually protecting the small investor would be good, though.
+3	1526295988	1	^ found the new guy. Fuck off, we dont magically.need regulation all of a sudden. If idiots want to give up their money they have the right to  
+4	1526297598	0	Fuck regulation? Governments can just ban it and punish anyone caught trading it. Say goodbye to any institutions ever getting onboard with adoption. Banks will then fucking report you for buying crypto. The NSA will 10x the size of their crypto division and it can become the next war on drugs. The U.S. was in need of a new crusade anyway.You're a fucking moron if that is the path you'd choose just to thumb your nose at some fucking rules.  
+5	1526298348	1	Holy fucking false dichotomy batman. I'll have what you're smoking. 
+6	1526299432	3	You're either inclusive or you are not. Being inclusive of government and institutions means adhering to rules. This space has changed in fundamental ways over the past few years. It is time for clear rules that light the boundaries between functional technology and illicit activity. 
+3	1526292257	-4	Dear goverment, please rub your boot all over my face.....How did you even end up in a space that thrives for decentralisation ?
+4	1526292553	3	How the fuck are you this bipolar. You know there is a middle ground, right?Don't throw the baby out with the bathwater. When leaders in the community say that some regulation is good, examine those statements. 
+5	1526314767	0	> middle groundSelf-regulation?
+4	1526292778	3	lol... you are dumb.
+5	1526293213	-1	lol XD, kys please.
+6	1526298975	0	No u 
+0	1526287490	16	What are your favorite security tokens for 2018?
+1	1526290807	96	Hold on a moment let me just list all the coins in my portfolio.  
+2	1526309023	20	Thanks, bought 100k.
+2	1526313327	2	Give me a sec to pull up my Blockfolio so I can shill you on coins that have absolutely nothing to do with security tokens
+2	1526306925	1	[deleted]
+3	1526309267	5	All people asking for recommendations get is a long list of people shilling coins.  I am really not sure how useful that is to anyone.If you like that type of stuff I have good news for you.  You will never find yourself short of reading matter.
+1	1526289973	11	NEX
+2	1526291101	-11	NEXO
+3	1526292586	10	No just NEX actually.
+4	1526317315	1	Actually NEXO shares 30% of its revenue with the token holders so o think that qualifies??
+1	1526288678	3	Polymath! 
+2	1526290483	8	polymath is a protocol that allows companies to launch security tokens with a few clicks. is it a security by itself? not clear 
+1	1526303859	1	SXDT
+2	1526307624	1	scem!!
+1	1526313110	0	Polymath is the best in the space in my opinion. Many would agree.
+2	1526315115	1	I aggree ;\-\)
+1	1526291131	-6	NEXO
+2	1526298984	2	People that downvote a answer because they don't like it, not because it's a bad answer = smfh
+1	1526291855	-3	ThinkcoinBrickblock
+2	1526306050	1	Do you have any info on brick block? Cant seem to find much about them...
+1	1526300872	-9	[deleted]
+2	1526305246	4	They are probably downvoting you because you are not answering the question but diverting it to something else. 
+0	1526314229	4	Lykke (LKK) is a security token.Doesn’t look promising at all
+0	1526292758	13	Someone I demand you to explain to me what's the meaning of security token.
+1	1526297910	10	Instead of being used to purchase a product/service/access to network (utility token), a security token is basically a tradable asset in a company, or a share.Now I am not sure how this will work legally.  As a US resident, I assume anyone doing a security here means that owning a token would grant you the same rights as a share of a company.
+2	1526304026	4	> Instead of being used to purchase a product/service/access to network (utility token), a security token is basically a tradable asset in a company, or a share.Except for all the transparency, investor protection and accountability that comes with a share.  
+3	1526311796	1	Plus much lower friction in exchange, providing much greater potential liquidity.
+4	1526311930	1	Oh right, and the company's own share of tokens *not* being locked up to prevent insider trading.  
+5	1526312080	1	I meant the fact that it uses an open standard that is accessible to a large pool of ancillary service providers and can be transferred at next to zero cost without a third party intermediary.
+1	1526296034	11	Don't expect anyone here to explain why blockchain is useful for non currency applications.The crypto technology Reddit is the only place that isn't entirely hype.
+2	1526296268	5	Yup, this place is mostly shill users, paid and owners, both with agendas for their own and their coin.
+0	1526303954	6	The flair says 'security' even though a 'security token' has nothing to do with security.  
+1	1526309633	3	The one time we can actually use that modbot autopost link about an inaccurately flaired post!
+2	1526309683	2	Tru dat, but I´m way too lazy for exerting that kind of effort.  
+0	1526302860	4	Security tokens mostly represent external value (like an apartment or a share in company), and hence will mostly bring *new* value to the market. While contributing *indirectly* to the overall market growth, they won't necessarily increase *directly* the net worth of existing networks.    The exception is platform networks like Ethereum, which will benefit directly from the creation of such tokens, as it enables them to exist. Those presumed $100T will be divided between millions of tokens/"coins" - a reflection of the value heterogeneity in the real world.   
+0	1526289409	5	Raven Coin all the way :D 
+0	1526295976	3	*cough* THEKEY *cough*
+0	1526298825	2	Nex 😎
+1	1526302017	0	Are there any other such coins? 
+0	1526305088	1	i am ready
+0	1526305528	1	regardless any year coming, still there is a crash as every year, right??
+0	1526309613	1	Feels good. I've been anticipating the rise of asset backed tokens as the next wave in crypto and spent the bear seeking out and accumulating my top picks. Bullish as fuck. Two things I see coming that are going to be big.... fractional real estate ownership solutions, and crypto based investment platforms. 
+0	1526315758	1	> **So why do we need security tokens?**> Currently, the assets that ST's are in the process of tokenizing are either centralized on fee intensive platforms or are illiquid and difficult to physically transfer or subdivide. Security tokens would allow for these trades to be done faster, cheaper, with less paperwork and across a transparent and traceable global decentralized market that operates 24/7._NEVER_ stop with one "why"! Why are those platforms fee intensive? Why are they difficult to subdivide? Why do they require so much paperwork? Why was it opaque? And most importantly, if there's money to be made by lifting these restrictions, then why didn't Wall Street allow it 20 years ago?The part about cryptocurrency that's innovative and disruptive is its ability to avoid censorship. It doesn't provide any benefit to centralized securities, just a fancy API from its central issuer who is just as subject to regulation as ever. It doesn't matter how much "decentralized" wrapping is around a security - ultimately it's either vulnerable to threats or it's not.You folks should be ashamed of yourselves. This is pure buzzwords and doesn't offer anything interesting whatsoever.
+0	1526316475	1	Ravencoin unique asset tokens..  Coming from devs soon. Check out the whitepaper to review the tokens features.  ;]
+0	1526317463	1	Just wait for end of Chinese New Year and till the Wall Street bonuses are in.
+0	1526284954	-5	Polymath....
+1	1526286502	14	is a straight up scam 
+2	1526290837	2	Really, why? 
+2	1526292556	3	Elaborate?
+2	1526313215	1	Not a scam. 👆🏼 This comment is a scam. Careful with your wallet as you read it...!
+2	1526288617	0	why do you think so? 
+3	1526315944	0	Don’t even bother listening to the fud. Polymath has the first mover advantage and best connections screen cap this. You’ll be furious if you miss this opportunity by Christmas 
+0	1526287178	-8	there is a lot of talk about Circle/VeChain trying to become leader in that
+1	1526304110	6	Vechain is  an utility token, not a security token.
+1	1526288935	0	VeChain?  LMAO!!  Don’t think so pal.
+1	1526291162	-6	Vechain 😂😂😂
+0	1526283131	0	Quite a useful and enlightning post.Thanks for sharing.I wish this article gave more details about how such platforms plan to function.Polymath for instamce is an ERC20 token so how would they have a separate platform when they are obviously already on the ETH platform?
+0	1526296422	0	Heavily invested dude 
+0	1526306370	0	I love how everyone keeps saying 2018 will be the biggest bull year ever as if we are just entering 2018. News flash: 2018 is half way over and we are still 50% from ATH.
+1	1526310911	3	Do I need to remind you when the bull run happened in 2017?Also, May is not halfway through the year, and we're only just halfway through May LOL
+2	1526317879	1	Exactly, there weren't any large bull-runs at this point in any of the past 5 years, don't see why 2018 would be any different.  If anything it's reassuring to see things hold course.
+0	1526287843	-7	Polymath
+0	1526289663	-2	I hope you’re right but so far we are almost halfway through 2018 and down about 50% across the board?
+1	1526290029	8	Little over 1/3 actually. 2 weeks into the 5th month...
+0	1526304006	0	This will change the game a lot, 2017 was a great year but 2018 will be the year.
+0	1526307755	0	jeez when i started with crypto exactly this was in my mind and now they steal my ideas. Gotta Step up and not be Lazy anymore
+0	1526312717	0	Can someone explain the difference between a security token and main coins like ETH and BTC?

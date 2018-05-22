@@ -1,0 +1,38 @@
+File created at: 1526936900
+Subreddit: Bitcoin
+Submission title: Chinese restaurant near me accepts Bitcoin. Pretty cool!
+Submission created utc: 1526863309
+Submission score: 104
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526905238	13	So they offer both Bitcoin and Bitcoin Cash, though I heard Chinese restaurants don't like forks.
+0	1526864182	7	Via Bitpay
+0	1526883232	4	City Wok?
+0	1526884821	2	Very cool, now would you spend your Bitcoins for a noodle? 
+1	1526896200	2	definitely ... spend and replace!
+0	1526909617	2	Its actually to app Menufy that accepts it
+0	1526875899	7	they need to ditch BCH
+1	1526878864	11	Maybe btc should just work on adoption.
+2	1526883625	-6	Wut?
+3	1526889849	2	Sounds like that guy was pretty clear in what he said
+1	1526912136	3	Why? 
+2	1526930795	1	BCH is crap tech. 
+3	1526931949	1	BCH is the same tech BTC was prior to August...
+1	1526881033	3	Why?
+1	1526926058	1	But why? 
+1	1526900746	0	They just want to unite the two fanbases for more possible money. It's like serving both Coke and Pepsi - we all know which one is better.
+1	1526891608	-2	When BTC will fix its block size problem BCH will be useless, until then ...
+0	1526885059	1	I thought Venmo is strictly for private usage not business to consumer. 
+1	1526900976	2	https://help.venmo.com/hc/en-us/articles/217042898-Purchasing-with-Venmo-FAQ-> You may only use Venmo to pay for goods or services using a Venmo card at merchants that accept the card or through mobile websites or apps that are approved to offer Venmo as a payment option. If available, the option to pay using Venmo will appear as a Venmo-branded payment button at checkout or, in some cases, may appear after you first select PayPal as your payment method.
+0	1526890529	1	That's great you just scan your QR code then done.
+0	1526903552	1	Good! It is necessary to use bitcoin in many places.
+0	1526922035	1	Hello fellow Washingtonian! I am also a resident of Everett!
+0	1526922080	1	Looks like Menufy that processes the transactions. One of our Chinese restaurants here in Austin uses Menufy (which allows for Bitcoin payments).
+0	1526932812	1	Greek restaurant near me accepts only cash....Not even card \(VISA, Mastercard etc.\). LOL 
+0	1526897809	1	problem is most people could finish a meal in less time than it takes for 6 confirmations
+1	1526903872	1	U dont need 6 confirmations. Still 1 takes 10 mins that's why it will most likely be the currency of the internet and with future software hardware inprovements could replace all fiat
+2	1526904246	0	0 takes up to 10 minutes, 1 takes another 10 minutes after that. [but that's not always enough](https://en.bitcoin.it/wiki/Irreversible_Transactions#Attack_vectors). and who is going to wait 20 minutes for their payment to go through after finishing a meal? edit: yeah downvote me, that'll fix the problems with the current system and speed up adoption.
+3	1526906335	1	> 0 takes up to 10 minutes, 1 takes another 10 minutes after that.That is completely incorrect.Zero confirmations takes a few seconds - as in, the time it takes for the transaction to propagate across the network and be "seen" by the person you're paying.The first confirmation will happen when it's first included in a block.  New blocks are generated - on average - every 10 minutes, however whether your transaction is in the next block or not depends on several factors (most important in general being the fee compared to the number of other higher/equal fees of the current pool of transactions that are not yet in a block).> edit: yeah downvote me, that'll fix the problems with the current system and speed up adoption.I believe you're being downvoted because the information you're stating as fact is wrong, not because people don't like what you have to say.
+4	1526907118	2	my bad.
+0	1526876650	0	They are doing it wrong... tbf there aren't a lot of good options for a fiat gate. 
+0	1526885506	-5	More importantly, bCash

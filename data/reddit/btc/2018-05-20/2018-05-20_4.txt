@@ -1,0 +1,32 @@
+File created at: 1526848595
+Subreddit: btc
+Submission title: Memo.Cash will win! Twitter censorship is getting crazier
+Submission created utc: 1526823994
+Submission score: 94
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526824766	28	Facebook, Twitter, Youtube... they are all fucked as they are all controlled by the same group of globalists / corporatists.
+1	1526834027	4	blockchain is powerful.What will happen when those big company you mention use blockchain tech?
+2	1526839248	3	Their business models relay on centralized control over data: u're their product. Why would they need any decentralization? YouTube may further implement BitTorrent-like solutions to speed up videos' downloading, but it won't give up the control over information flow
+3	1526842247	3	Exactely
+3	1526845240	3	decentralization would be more secure as data is spread out. They just need info for advertisment. In fact if they go decentralize then have then 0 accountability. Company pivot...It takes only 1 breach and 1 write to the blockchain and thats it. Its a open book to everyone.The more i think about it. the more i think it cant be stop and it will happen.
+1	1526834190	1	What does globalist even mean anymore? We are dealing with a currency that is bound to no country. So am I a globalist?
+2	1526838959	1	> What does globalist even mean anymore?Politically correct: companies can't afford to be the targets of discrimination, obscenity or hate speech lawsuits, they don't want to lose money and (presumed) customers over moral outrages, so they predictably just deleting everything that's not PG-13 and tweaking algorithms. Free speech, adult fun - all is off the window. Reddit slowly falls into the same bucket. Some industries like gaming misread customer base and lose money when they welcome PC, but it's not the case with social mediaThis hideous hydra will be crushed by two swords: exposed ineffectiveness of direct advertising and uncensorable speech. Don't hope to revivify Google, improve Memo instead> So am I a globalist?Bitcoiners are the opposite of globalists - pure capitalists. Unrbeakable free association
+0	1526825673	19	It’s ironic. /r/btc is seasoned and well experienced when it comes to being censored on other social media platforms. We know first hand after years of being censored on \/r\/Bitcoin, Bitcoin.it wiki, BitcoinTalk, now Twitter and even Facebook, that the only way for true censorship resistance is to use a social network based on Bitcoin’s immutability. That’s why sites like Memo and BlockPress built on top of Bitcoin Cash are critical to maintaining free speech. 
+1	1526829769	10	I have been critical of intermingling nonmonetary and monetary uses of the blockchain but uncensorable Twitter is simply something the world needs. So it's hard to argue with the momentum and enthusiasm for routing around censorship and authoritarianism when it originates spontaneously out of legitimate need.
+2	1526836032	4	It’s not just about Twitter though. It’s all information networks that needs censorship resistance. Social media is an easy target because they are all run by special interests (Facebook, YouTube, Reddit, Twitter, etc). If they don’t like you, agree with you, or whatever, they can censor you and you have no recourse. With a decentralized immutable global social network nobody can stop your freedom to speak. 
+2	1526830926	4	I agree. Tiny requirement of money also deters bots spamming, which is absolutely a huge problem on Twitter.
+2	1526839805	2	> nonmonetary and monetary usesI ask u to rethink that. Money is just a form of speech. A message, a text, an image, an audio or a video - also forms of speechCensorship-resistant money is the same concept as uncensorable speech
+1	1526838100	0	>It’s ironic. /r/btc is seasoned and well experienced when it comes to...   Apparently censoring people yourself...    https://np.reddit.com/r/Bitcoin/comments/8h2yqd/that_other_sub_who_claims_to_be_against/
+1	1526834820	-9	/r/BTC is basically /r/The_Donald. Fascists/Nazis.
+2	1526839475	3	Nazis were never in favor of free speech
+2	1526841164	2	Fake news
+0	1526830844	7	Speech cannot be censored on Memo.Cash. But images can, since memo.cash just host the link, and the server that hosts the image can take it down.
+1	1526833621	5	That may be a good thing in practice. Images can be used as an attack vector. Someone could spam rightfully illegal images if you catch my drift and give the government an excuse to crack down on crypto, playing to the narrative that crypto is for illegal activity.
+2	1526839652	4	> That may be a good thing in practiceNo, it's just an unsolved problem for now> give the government an excuseIt doesn't need any excuse to crack down on anything
+1	1526839556	3	Even more important - videos. BitTorrent, IPFS, LBRY. Someone will figure it out
+1	1526835603	2	Check out http://spee.ch
+0	1526843658	2	Yes with only 500 million tweets per day, I'm sure memo.cash will completely take over twitter. We just need to raise the blocksize a little more, but that should be fine.
+0	1526842087	1	The problem is that Memo.cash will not be mainstream in the near future. It's something for geeks. Basically it'll be like Gab.ai. Everyone shares the same opinion and there's no discussion. Twitter might be crap and censored but even Paul Joseph Watson posts there to redpill people. Because there's no need to redpill people who use decentralized social networks.
+0	1526843397	1	I re-tweet, reply and comment on numerous posts by @Bitcoin. I've never run into this problem. 
+0	1526844516	1	Got banned from Twitter. Asked them why, and they just send automated replies every time. Now trying to have my account fully deleted, but it's taking ages. I hate Twitter so much

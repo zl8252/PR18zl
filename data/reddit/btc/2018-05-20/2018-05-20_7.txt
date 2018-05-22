@@ -1,0 +1,20 @@
+File created at: 1526848598
+Subreddit: btc
+Submission title: Using BCH is not even a compromise to get control and security. It is literally 10x easier to use than a Credit Card - just topped off my Yours.org with $15 BCH - easy as it gets!
+Submission created utc: 1526785390
+Submission score: 70
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526790984	9	Making payments with Bitcoin is actually fun. That's what converts, the using.
+0	1526803187	6	I do have to say, as much as I love BCH and how easy it is, it really isn't any easier that paying directly with my bank (iDEAL).It's a lot cooler to pay with BCH though
+1	1526816556	1	On a positive note, you can make BCH work as a credit card bit not the other way around. There are some ideas that I would like to see take off like NFC signing devices (eg. Ka-ching) so you can carry your wallet as a credit card, a ring, sun classes, belt, or any other accessory. 
+0	1526789562	6	It's mind boggling how we don't have QR codes for CC entry today.
+1	1526790872	6	Yes! CCs are as lazy as taxi companies.
+2	1526804455	1	Because they make a ton of money as middlemen
+0	1526825729	2	It's also far cheaper for small merchants.    
+0	1526841658	1	Yeah, typing in all the information off the card every time is annoying.
+0	1526819201	1	Wait, why do you have to keep money at yours?
+1	1526840894	1	when you tip or vote for somebody it comes out of your balance.  it would have been nice also to do an onchain transaction everytime you wanted to tip as well.
+2	1526841748	1	My impression was that yours was showing off how cheap BCH transactions are. If it holds your keys instead and no onchain transactions apart from topping up are involved - what’s the point?
+0	1526827662	-1	Sorry but credit cards don't require tracking and reporting every transaction to the IRS, not to mention having to pay capital gains taxes in the process. The painful truth will get downvoted, but bch payments will never take off with the tax situation the way it is. 
+1	1526840865	1	> but bch payments will never take off with the tax situation the way it isBitcoin is borderless and fiat systems are inevitably burn in hyperinflation. Patience

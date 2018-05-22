@@ -1,0 +1,61 @@
+File created at: 1526936921
+Subreddit: CryptoCurrency
+Submission title: ECC Releases Sapphire, “The Most Elegant Wallet in Crypto”
+Submission created utc: 1526853447
+Submission score: 96
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526859349	25	Looks awesome
+1	1526885911	2	What percentage of your holdings are ECC? by Sirgeezer in ecc[–]KebabEnthusiast 2 points 3 months ago 60%/Nuffsaid
+2	1526898040	6	Nuffsaid indeed, real supporter.
+0	1526892208	7	Looks great!
+0	1526863492	19	ECC ftw! Excited to see where this project goes. 
+1	1526886080	-4	Just going to leave this shill proof here: http://prntscr.com/jkiqg1For anyone seriously reading this thread, please move on .. just another pump and dump shill fest. Cringeworthy as fuck.
+2	1526898192	7	Pump and dump you say, can you explain  how so? I don't mind having a conversation. 
+0	1526908607	5	ECC is one of the many coins I hold. I haven't used the wallet yet as I've got all my coins stored long\-term elsewhere, but from being part of their Slack community \(in and out due to work commitments admittedly\) and watching the videos and seeing the images of the wallet through development, I'm really pleased for the team. Hard workers, and I'm excited to see where price goes for ECC in the coming months. All the best, guys.
+1	1526923624	1	Why would you need ecc tokens
+2	1526923775	1	Why would you need any choice of crypto?
+0	1526854286	13	Nice looking wallet, sadly the ANS is not out yet for "sapphire", only for the daemon. We'll see how it goes paired with the messaging and file storage might give SIA coin a run for it's money.
+1	1526863187	16	Been helping with the beta testing and I have to say I'm more excited than I expected about messaging integration. Even the mockup is very slick right now, and is already setup to live on your desktop like slack or another native messaging app.  I'm hoping ANS is activated shortly and messaging follow soon after, I also expect sapphire is going to continue to get sexier as the devs are being incredibly responsive to outside feedback.  Cheers to ECC for powering through and releasing a really nice product. Even if you aren't invested, this is one to root for, open source, volunteer and community driven and sticking to the original satoshi vision.
+0	1526858358	17	This wallet is so sexy 🤩Now let's see what ANS and file storage can get out of it 💪
+0	1526895808	4	Super sexy wallet, but is it doing his job?
+0	1526908250	4	Best wallet in crypto!
+0	1526870218	9	Up and running and 100% synced,  great effort guys!
+0	1526870768	10	I'm glad that Sapphire is front and center now. I've been with this projects with the ups and downs and now I feel like a proud parent lol. I cant wait to finally show people how simple crypto can be with ANS
+0	1526883801	5	The design looks awesome, let's see it's functionality.
+0	1526886854	6	Good job! Will try it out later today, can't wait. I really like the demo video too. https://youtu.be/OZzjfDSMk6Q
+0	1526865838	8	Great job to the team and community
+0	1526869734	8	Ecc is awesome!
+0	1526904477	6	ECC is one of my favorite projects. Great job, guys!It's hard to understand how projects like these are so undervalued. 27 M market cap and 15.000 USD daily volume. When this lifts off, it's gonna go 10x in 2\-3 days. 
+0	1526867053	9	Guys hurry and buys before ECC catches people eyes! Its on Coinexchange.io !!
+1	1526883675	2	Do your own research first though.
+2	1526884217	11	Nahh sell your kids and buy ecc, I say
+3	1526904697	3	The potential reward here is higher than the potential loss :D
+0	1526871766	3	Beautiful.  Great job team!
+0	1526881715	3	Sexy wallet is Ark that I have tried so far but I'll check it out. 
+0	1526880146	3	The comment here look very sus.
+1	1526883343	9	How so, most of us here support the project it's all pretty much community based, were just showing our support. You're allowed to decide for yourself no one here is forcing you to buy. Do your own research and decide for yourself.
+1	1526904530	1	Definitely agree. Some of these accounts look like bots (which is really annoying), considering this project already has a ton of great community support. 
+0	1526864315	3	>ECC is the first crypto to have a decentralized address name service, (think of sending currency to Steve, rather than a long wallet address).Well that's a lie.  Ethereum has had their ENS running for over a year now.
+1	1526864495	20	Nope.  No lie. Note that I said ECC is the first one that is completely decentralized.Ethereum name service is very similar, but it is not totally decentralized.As stated on their website (https://ens.domains/), it does not seem secure as a small group of people have control over the information stored in the blockchain (they own keys that allow them access to all the info in it):_"... the ENS root will initially be owned by a multisig, with members of the Ethereum dev community as keyholders. In the long term, we would like to see the root multisig replaced by some form of distributed decision making process, but developing such a process will require time ..."As far as everyone in the community is aware, ECC is the first to offer this in a completely decentralized way.
+2	1526865492	12	Fair enough then.
+2	1526878827	1	And what about Monero’s OpenAlias?
+3	1526894639	3	As far as I can see you actually need to buy a domain to get it to work?  Don’t get me wrong though, I like what Monero is all about.
+4	1526903607	1	Not necessarily, you can register subdomains easily. It’s still the first decentralized address alias system.
+5	1526904780	2	Thanks for the info - I don’t mind editing my post, it was just a feature that myself and others were not aware of.Just so I’m clear, want to make sure it works the same way - if you had a monero wallet, and someone wanted to send you coins, or if you were sending coins from an exchange to your wallet, you could just put your open alias name in place of your wallet address.  Is that active or in development?
+6	1526905132	1	You can send coins to an OpenAlias name instead of a wallet address in the stock Monero GUI or CLI right now. You can try sending some coins to `donate.getmonero.org` if you’d like to test the feature.
+7	1526905365	2	Of course I can :).I just edited the post, thanks for the lesson and quality post.  Good for everyone to learn from each other, and you can’t expect everyone to know everything about every coin!  My mistake!
+0	1526886620	1	Wish my coins are listed here, I still feel some projects like Lamden and others are undervalued. Lamden needs to be on a good exchange.
+0	1526868263	-5	It looks like a wallet... well done?
+1	1526883184	7	The wallet serves as a starting point to the next things that will come out of this project ANS (address name service) is pretty much done next is messaging and file storage. This is all done on a multichain which is already laid out. So you saying this is just a wallet is correct it's what will become of this wallet is what you should be looking at. Also it's all decentralized.
+0	1526894092	-6	This thread stinks of shill
+1	1526898259	10	How so, care to explain? Just looking at your comments it looks like you like bash on coins but no real reason as to why.
+0	1526899429	-2	Most beautiful wallet is Ledger Nano or Trezor.
+0	1526906966	-7	Can we PLEASE get this post to top so everyone can see it?People, look at the comments. This is the worst case of paid shilling I've ever seen.This project REEKS of scam and pump and dump.
+1	1526907646	9	This is an actual news release of a platform that several developers have worked months on to come to fruition.  If that doesn’t represent a newsworthy item in the crypto world, frankly I don’t know what does.I can’t control what people write in the comments.  But you are the first person I’ve ever seen say that the project reeks of a scam. 
+1	1526908804	5	Coming from someone that said this:"Bitcoin is one out pf 1000’s of cryptocurrencies. The value itself is in the blockchain tech, not the currency .Mass adoption will come. Not as in a global currency, but as in tech all people will use wether or not they know it themselves."Maybe you could think for 2 minutes before jumping to conclusions.
+2	1526916975	1	And you are not concerned about the fact that 90% of the comments here are ”ECC for the win!”, ”Most undervalued coin. ECC is amazing!”,”great product. Amazing!”You dont have to use 50% of your brain cells to see that they are purchased reddit accounts to spread shill. The fact that someone uses that kind of marketing is alarming.
+3	1526919820	1	I will be honest with you.  I hate the replies without substance as well - it adds no value to the conversation and puts red flags up.  In the world of crypto, it’s ok to be defensive with all of the crap out thereWith a coin that is somewhere in the 300 range in total market cap, you can realize that having a big enough news event to get to the front page of r/cryptocurrency is a big thing to some of the holders. It brings out some of the members who are generally just posting in the ecc subreddit, or never posting at all.That being said, I was just talking to our head of marketing (he doesn’t have a Reddit account, but he’s always available on slack). He hasn’t even seen this reddit post since he is so busy working on getting on better exchanges at the moment.  He told me they don’t and have never purchased any accounts on any platform to shill anything.  It’s not their style.  Something like that would bite you in the ass in the long run.
+4	1526925990	1	I was under the impression that it was the people behind the product itself that usually paid for the shill. When thinking about it it might just be third party people trying to pump a coin for their own benefit.I apologize for me being rude. Also, people, DYOR.
+5	1526926219	1	All good brother.  DYOR as always!
+1	1526916840	1	I see.  It's not one of your coins or a reddit meme coin so it HAS to be a scam. /s   Nobody has to buy this coin or any other coin.  As a matter of fact, I would recommend anybody interested in ECC to checkout the website, www.ecc.network, visit us on Slack and check out the new sapphire wallet.  If you like it, buy some.  If you don't like it, don't buy.

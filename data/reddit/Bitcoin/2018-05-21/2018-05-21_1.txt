@@ -1,0 +1,119 @@
+File created at: 1526936895
+Subreddit: Bitcoin
+Submission title: If Bitcoin & other Cryptocurrencies are decentralized, Why we are keep using centralized exchanges? The complete guide to Decentralized Crypto Exchanges
+Submission created utc: 1526889381
+Submission score: 626
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526890534	30	Few exchanges just disappeared and it's like people are not learning the lesson. Use Decentralized exchange or keep most of your money at a cold wallet. 
+1	1526892209	37	Besides my girlfriend , People have a short memory. 
+2	1526903894	27	Women have 10,000 times better memory than men. It’s a scientific fact. They are like human blockchains and can remember everything men said throughout history, forever. 
+3	1526906558	25	This guy marries. 
+4	1526921183	2	r/MGTOW/
+3	1526919693	1	Guys gain the ability to pack all the bullshit in a box and push it to the back of the brain to never be opened unless provoked to do so.  There's actually a funny-as-hell skit about the difference in the way men and women's brains store info somewhere out there in the internets.
+4	1526928837	1	Share if you find it please!
+5	1526931753	1	Since there was some cunt downvoting me, hopefully some people will get to see this since it'll probably be buried now.  I found the link for you.  Here it is.https://youtu.be/3XjUFYxSxDk
+1	1526906217	5	Even assuming the risk of an exchange going under is high, they're still the best option for most people, you can make your exchange, then withdraw asap to mitigate most of the risk, and the prices you get on regular exchanges are generally a lot better than anywhere else. edit: is/are
+1	1526911113	2	Here's a fun one: [https://bitcointalk.org/index.php?topic=418700.new#new](https://bitcointalk.org/index.php?topic=418700.new#new) C\-CEX is scamming people like no tomorrow. Ran away with all the XVG and many more beginning of December last year. Never to be seen again...
+1	1526915442	1	Just because it is decentralized, doesn't mean it's secure...
+1	1526924404	1	Give me at least one reason TO use a dex. What do I get.
+1	1526911591	0	Bitshares offers significant liquidity and trades between a pegged usd asset. Maybe worth checking out for those of us in this thread. 
+0	1526897971	73	Because we're exchanging back and forth between type of money that is centralized by design.
+1	1526905871	24	In a word...liquidity. 
+1	1526905803	5	That's not why.It's because most folks don't understand how to do peer-to-peer trades.  Find people you know, or get to know, and trade with them directly, for whatever you both want to trade.
+2	1526921353	2	this is the ticket.  People just using crypto for exchanges, in *private* life too.Not just things that need a signature and address.
+2	1526912926	1	Price discovery.
+2	1526924671	1	There's a reason ragnarok online had people sitting on the street selling and guild wars 2 had cross server global auction house. One sucks and the other doesn't.
+2	1526928376	1	Most people do understand how to do peer-to-peer trades and that is why they don't do them - because they know it cannot be done safely over the internet or with strangers.
+3	1526936358	1	You seem to have given up before the third sentence I wrote there. :P> Find people you know, or get to know, and trade with them directly
+1	1526910038	4	Crypto only exchanges exist.
+2	1526910553	3	Year but that doesn't help much in the real world where fiat is required for so many things. 
+1	1526900109	2	Interesting POV and maybe DEX is our home field where Centralized is Fiats'
+1	1526901344	1	Would add "for now"I only use it one way, and that is out of fiat.Even if I hear all doubts I do not understand so little people use this escape.Since I see the same for PM I tend to think most people just don't really understand fiat?Perhaps I should change that to "don't really understand money"?
+2	1526904465	0	If you are continuously moving all your fiat into BC then I would suggest maybe you don't understand money.
+3	1526905635	7	Why?Bitcoin is my day to day currency where ever and whenever possible.  I convert all of my fiat income minus a reserved amount for planned monthly fiat payments in to bitcoin.  I am actively trying to reduce the number of monthly fiat payments by pushing for the recipients to accept bitcoin instead (preferably via Lightning Network in the mid-term of course).I do have a "safety net" account in fiat in the extremely unlikely event of a catastrophic failure of bitcoin, but I honestly consider a catastrophic failure of my local fiat (euro) to be more likely, so I also think of that "safety net" as being money that I have effectively thrown away and am willing to lose.I also do use a fiat based credit card, but I pay that card off (immediately; well before it accrues any interest) using bitcoin.  Thanks to a stint of living in Australia for a while, it's an Australian credit card and I can use LivingRoomOfSatoshi to effortlessly pay it.Essentially, I follow the "don't put in more than you're willing to lose" approach... but to fiat, not bitcoin.It is worth noting that I'm currently not interested in a decentralised exchange personally, but I'll strongly support efforts in that direction.  This is mainly because my euro->BTC exchange is handled by bitcoin.de which has close ties to my bank (fidor.de), making it significantly more effortless than is really possible with a decentralised system.  Since I only need it once per month and nothing stays on the exchange for more than a few minutes at absolute most, I can't see myself needing a decentralised exchange for anything currently.
+4	1526915368	2	>I honestly consider a catastrophic failure of my local fiat (euro) to be more likelyI rest my case
+0	1526890546	14	I can recommend cryptobridge and bisq, decent ui, many coins, good devs and so far everything worked fine for me.
+1	1526893096	1	how's the trading volume over there?
+2	1526894303	6	Volume on bisq is very low sadly. On cryptobridge it is also low compared to large exchanges but I believe it is the largest decentralized exchange by volume and at least for the more active pairs it is ok.
+3	1526899966	5	Volume is low and it's weird because it works just as good as LBC and is just the way a bitcoin exchange is supposed to be. Double Deposit Escrows make it 'relatively safe'.
+0	1526893398	19	Check out Bisq: https://bisq.network
+1	1526899847	4	Just used it for first time couple hundo worth. Works ok.
+0	1526893628	5	BitShares is the oldest and the best!
+1	1526900032	3	Yep Once you have bitcoin bitshares is pretty good but for fiat exchange bisq is the only workable DEX solution AFAIK
+0	1526896907	4	Waves Plattform is decent and has fiat also. Bisq is great one with tor integrated. 
+0	1526899379	5	the main issue is liquidity! You won't get it unless there are better UI/UX as a start. 
+1	1526900384	3	The UX of bisq is fine.. maybe someone can volunteer to SKIN it .. that would be about all.. I would prefer bigger fonts.. stuff like that.. It's not for DAY TRADING lol its a 'commodity spot market' / on onramp offramp 
+0	1526917631	3	Well for one, these models cannot work with Fiat. I just watched someone I know get burned on a 2k + transaction through paxful. Guy provided I'd, selfie, phone number before the wire, had a good rep,and ended up getting returned within 2 weeks after the wire deposited. And the sad part is is that it could have been 2 weeks, 2 months, or six months and the bank would have still demanded the money back since it was fraud. There is no way any buyer would let you hold escrow on a transaction for months to make sure that you are safe against fraud.He did everything he was supposed to do to prevent fraud and still got fucked. There is no way for any centralized entity to prevent bank fraud unless they act as the broker and absorb the risk. You cannot do this in a decentralized way.He's been waiting for months for Gemini to improve his institutional account and as an attempt to make the transaction in a peer-to-peer fashion resulted in him getting fucked. So fuck Gemini, fuck paxful, and fuck fraudsters. The worst part is he's probably going to get his bank account closed over this all because some asshole scammer double fucked him.But for crypto to crypto? Hell yes, everyone should be using bisq! But clearly this model does not work for the current Legacy Financial system. And we have to be honest with ourselves we are not to that point yet where we can ditch the existing Financial system.
+0	1526898569	10	Good question. Without regulation, such processes are impossible?
+1	1526909792	1	Yes 
+0	1526889841	7	Mt.gox hmm hmmm
+0	1526893304	5	The problem right now is the lack of liquidity and speed. Still waiting for a decent DEX.
+1	1526893373	5	yep. that's why we as a community need to support the decentralized exchanges 
+2	1526894032	1	Agree, altcoin.io also looks promising.
+1	1526900246	6	Agree but I hear this all the time.. In fact If everyone who bitched about liquidity would actually 'make an offer' the problem would disappear.  It's up to us to make markets which serve us properly. Privacy is a matter of dignity and freedom. Theives prefer to know your physical address \(scary more people don't see this obvious fact\)
+2	1526900737	1	I agree but this is a chicken and the egg problem. People don’t want to use an exchange that doesn’t have liquidity and you don’t get liquidity unless people start using the exchange. So it’s going to take time and a really good exchange with speed and some good marketing. 
+1	1526896526	-1	The real DEX will be made on EOS just saying.
+2	1526897645	3	Yes, Eosfinex.
+3	1526933079	1	EOSDT
+0	1526895613	3	A cryptocurrency exchange or a digital currency exchange is a platform that allows investors to convert fiat currency into cryptocurrency tokens and vice versa. 
+0	1526907939	3	decentralised exchanges are coming, too many get "hacked"
+0	1526902813	5	Becausw they are slow as fuck and have high fees
+1	1526911391	1	B-b-b-ut the article says they are much faster and have lower fees!
+1	1526911922	1	Switcheo is neither of those in my experience 
+2	1526923848	1	Can't truly be said until there is high volume
+1	1526904534	-4	So like bitcoin? :P
+2	1526928457	1	It's almost as if a decentralized solution is always inherently more expensive than a centralized solution for any given problem.
+3	1526931544	1	It will always be more expensive because of the overhead of decentralization 
+0	1526898622	2	Everyone should start using decentralized exchanges as they are way better than centralized exchanges
+0	1526919029	2	This article does a great job laying out the high level pros and cons of decentralized exchanges. As the founder of a decentralized exchange called DDEX, I spend a lot of time thinking about "why aren't more people using dexs?". Here are some additional information on the key challenges mentioned in the article:**Usability - A dex can only control part of the user experience:**As the article and many comments point out, the average decentralized exchange is hard to use. Some of it is just poor UI/UX design, but another reason is that decentralized exchanges rely on third party wallets such as MetaMask, Trust, or Brave. Have you ever tried to complete a transaction on MetaMask and see a scary screen full of gibberish? (This is not a knock on the MetaMask team or the other open source teams that are creating a ton of value for the ecosystem, but it's still early, and there's lots of room for improvements)**Liquidity - Harder for market makers:**One important but rarely discussed reason for liquidity issues is that it takes more effort for market makers to integrate their program to work on decentralized exchanges. For example, it requires a slow, expensive on-chain transaction to cancel orders for older decentralized exchanges. This may not be a deal-breaker for the average trader, but is a huge problem for the market making algorithms.**Familiarity**For every person who can wield a ledger, there's 100 users who feel imitated by the thought of managing their own private keys. MakerDao and Basecoin may be more  decentralized than the notorious Tether, but its a lot easier to explain to new comers that 1 USDT is 1 USD. The easy and popular answer is "liquidity and usability, duh...", but there's no fundamental law of the universe that says it has to be so. We are working hard to solve of these problems. [Try us out](https://ddex.io/trade). I'd love to hear what you think, and would be happy to answer any questions on all things related to decentralized exchanges!
+1	1526929775	1	This is interesting, thanks for sharing. I took a quick glance at your site - looks like there is no order cancelling fees on your platform?
+0	1526921055	2	They each have their uses.  Crypto is not going to completely replace fiat.  Might help knock the "banker" abuse down a notch though.
+0	1526892306	1	Banks are old and easy, exchanges are a bit newer, every good thing takes time. I really can't even start to imagine how hard it will be to explain my grandma about Crypto Xd
+0	1526898690	1	To exchange to fiat?
+0	1526904761	1	No mention of BitShares, the first and oldest decentralized exchange?
+0	1526905680	1	Soon.
+0	1526905690	1	Technically Bitcoin isn't decentralized in the important way (it's still controlled by a central authority/rule, it's just that that authority is open to anyone who wants to join and has the resources to do it, unlike in a mainstream bank).But the real difference that we're sort of losing out on when we use middlemen exchanges is the peer-to-peer transactions.  Any exchange will naturally remove the peer-to-peer element of Bitcoin.  So really what we ideally want to do is to trade with people we already know or at least get to know reasonably well.
+0	1526906065	1	You should read Jimmy Song's article about blockchains and how decentralization is the holy grail. Making these decentralized is extremely difficult. 
+0	1526906414	1	"Why we are keep using" 🤨
+0	1526906472	1	Omisego is building a DEX. What dou you think about it ?
+0	1526908596	1	Aren't you guys worried about taint? Bitcoin is not 100% fungible so with DEx you can end up with Bitcoins from criminals.
+0	1526908748	1	Why are we still on centralized reddit!
+0	1526910015	1	I think partially because payment methods that aren’t cash suck. I’ve tried selling on LocalBitcoins via interac etransfer and have had my bank frozen because the sender claimed fraud after I send my btc. 
+0	1526911024	1	Liquidity.
+0	1526911978	1	It is a good question though even though the only reason I use them is to exchange fiat currency.   You will see more of a push to use exchanges because the is the way Wall Street and other entities want it.
+0	1526913378	1	Using decentralized exchanges is a service to the community, do your part if you can
+0	1526926607	1	Because the vast majority of my living expenses, including taxes, are denominated in USD.
+0	1526930908	1	Most exchange activity are from users who love their centralized fiat. They just want to go the moon and be rich in centralized fiat. Even if they proclaim the decentralized benefits, they really don't care. Remember, if the vegan is hot enough, plenty of guys will stop eating meat long enough to give her the meat. 
+0	1526931833	1	because Fiat.
+0	1526932899	1	Only Bitcoin is truly decentralized. The problem you bring up may be alleviated by using atomic swaps on LN and buying bTC via LocalBitcoins and similar services
+0	1526933713	1	I don't know why I keep getting downvoted when I mention that the current exchanges are making crypto more centralized than it should be. If they keep becoming more powerful, they effectively become the new central banks. 
+0	1526891073	2	the old generation are old in there mind, it will take a little while until crypto become a worldwide consensus, but it will happen eventually
+1	1526891344	7	It’s not that. The UX in most of the platforms in our industry is kinda bad.I can’t imagine my ant scanning barcodes or copy paste a long address in order to make payments.It should be easier for people that are not that technical to get involved in our industry 
+2	1526898452	2	My ant couldn’t scan codes. 
+3	1526900547	2	Actually I find people under age 90 all find it kinda fun after trying it ONCE
+4	1526905895	2	Are there ants older than a few years?  How long to ants live?
+0	1526907427	1	You can NOW stop using Centralized Exchanges...We are on the NOW... NOWYou need to look on the right place...https://www.airswap.io/
+0	1526889736	-4	Things are sometimes centralized for a reason.You want someone to be in charge in case your money is at risk
+1	1526889832	4	But if someone is in charge over your monies, you introduce third party risk?
+2	1526889902	5	I think he missed the point behind the crypto market. It built to be decentralized. 
+3	1526900737	2	But not built with converting centralised fiat in mind
+3	1526906037	0	It's built to be peer-to-peer, not decentralized.  If it were decentralized there would be no single form of Bitcoin, and anyone could use any rules they want for generating it.
+2	1526890364	1	What do you mean?
+3	1526890526	2	Well if someone can reverse your transactions for example (like a bank can), you automatically have a risk of this power being misused (for censorship purposes f.ex, or simply for scams)
+4	1526890673	2	Yes. Some people are feeling more secured when they know that there is someone they can blame in case something happend/can support them
+4	1526890875	1	I know dozens of people (like my parents and some of my friends) that feel secured when there is a third party company they can blame or relay on 
+5	1526890960	3	That's great and it's your choice. It doesn't change anything in my statement - it's a third party risk. :)
+6	1526891888	3	lol xD i guess you're right. I just wanted to speak with someone... That's what happend when you dont have friends :(
+7	1526900487	4	I'll be your friend.
+7	1526894855	2	Looking for friends is also a choice you can make :) I'm sure you have many awesome character traits already, which make people feel good around you, and also you can keep on developing them more, as well as grow your social circle, if you feel like it. Go for it :)
+4	1526904634	1	This is a negligible risk tho. Here in Norway there is a government fund that insures any money in a bank account up to $250k per account.
+5	1526906319	2	Sure, that's good for Norwegians  :)  It's not your world's avg country though.  Btw, in Greece they also had insurance on people's money in bank accounts (afaik)...
+1	1526891350	4	I don't want anyone in charge so that there's no risk to my money. 
+1	1526898811	1	That's true 
+1	1526905218	1	/r/lostredditors
+0	1526892719	-1	Decentralized exchanges are shit and will all be forbidden unless they have a centralized kyc system. 
+1	1526892795	1	Can you elaborate? Sound like an interesting opinion but i don't understand why you must have a kyc system
+2	1526894263	-4	Tax purposes....whats stopping me from dumping my money on a decentralised exchange without government knowing about it? I can just say it went to a dead account
+3	1526901715	1	if you get audited, won't you have to prove it though?
+4	1526910498	1	That's the problem with the IRS. How convenient is it that in every other court your innocent until proven guilty except when it comes to them. You're literally guilty until you prove your innocence.

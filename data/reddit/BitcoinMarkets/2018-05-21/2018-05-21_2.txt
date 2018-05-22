@@ -1,0 +1,19 @@
+File created at: 1526936927
+Subreddit: BitcoinMarkets
+Submission title: [Altcoin Discussion] Monday, May 21, 2018
+Submission created utc: 1526875584
+Submission score: 8
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526880749	2	Has the Tron hype train left? Is this a bad entry point now?
+1	1526901385	8	Any entry into that turd is a bad entry unless it's a scalp trade.
+2	1526903566	-1	Of course, who needs that shit. Just trying to scalp the mainnet news. 
+1	1526913387	3	This is around the time most news pumps peak (7-10 days before the news) so yes it is quite a gamble.
+0	1526933694	2	Bought some alts yesterday by feeling the fomo because of BTC breaking its trendline. I got XMR, IOTA, ADA, NANO, MAN. Now I feel quite bearish after today btc movement and it feels quite contradictory to hodl alts and short bitcoin at the same time. Do you think it is a good idea to move them back to BTC (or fiat) and wait for this bearish trend to finish? Or just hodl? I was buying this stack carefully, most of these coins are at the lowest btc price they have been ever. 
+1	1526934467	2	I think it is almost impossible to do what you are attempting, which is time the market, unless you are one of the whales in control of where the coins go.  
+0	1526917548	1	It looks like Decred is holding its value better than any other crypto right now during this bear market.
+0	1526891119	1	https://www.reddit.com/r/BitcoinMarkets/comments/8kqehv/altcoin_discussion_sunday_may_20_2018/dzalhcx/ TRX  moved over 80c as I wanted yesterday. Now also the moving average cross is forming on 12h https://www.tradingview.com/x/TGAUtT9x
+0	1526902183	1	Is there anywhere to see how much bitcoin and ETH is locked up in ICOs?
+1	1526905288	3	check here  https://sanbase-low.santiment.net/projects
+2	1526915589	1	thank you thank you
+0	1526925609	0	For ppl trading tron, r u selling before mainnet?

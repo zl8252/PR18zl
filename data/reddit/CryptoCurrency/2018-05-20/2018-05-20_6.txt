@@ -1,0 +1,58 @@
+File created at: 1526848612
+Subreddit: CryptoCurrency
+Submission title: Just a heads up that there is a blockchain company that is manufacturing crypto Point of Sale devices that work a lot like the devices made by Square. They are targeting the retail business market as a way of allowing vendors to accept payment for everyday items using Crypto.
+Submission created utc: 1526768791
+Submission score: 138
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526769552	18	I believe in pundi X, love the project can't wait to see where this goes in the future.
+0	1526769348	11	This is a very interesting project, thanks for the insight
+0	1526778360	10	yupp... got in on Pundi at .004 ... u forgot to mention their monthly airdrops, this first year is 7% and next year is 2% ... They are a damn solid team and Pundi will one day be top 10
+1	1526784969	2	How do u get monthly airdrops?
+2	1526786571	2	just gotta have them in a wallet... having it in your Myether wallet is fine, its like the last day of the month you need to haVE it in your wallet i believe, read the website on airdrop or chexk out the sub and there's a bunch of those questions being answered
+3	1526824128	1	Do you know if  PundiX have their own wallet? I am not a fan of MEW and would prefer another if possible. I 've submitted a question to them about this but haven't yet heard back \(probably because it's been the weekend\). 
+3	1526825699	1	Pretty impressive. Unfortunately I am in USA and looks like I am not eligible 
+4	1526846389	1	Must be frustrating. What is it with the US and these prohibitions on trading some crypto currencies and using some exchanges? Is it to do with regulation?  One other thing too: the tax system of taking each transaction into consideration must be a nightmare. Surely the more efficient way would be to levy taxes on profit each year from the difference in what fiat was invested cryptowhat profit was made when crypto was converted to fiat?  Sorry if this sounds as if it's somehow down to you!
+1	1526824372	1	I agree. It's the maturity of the project's real world applications that impressed me  And at the moment it's on only small exchanges. 
+2	1526830585	1	What’s the most legit exchange to use that it’s traded on?
+3	1526841511	1	I signed up to Coinbene. But have no idea how reliable it is. Am not even sure how to pronounce it!
+1	1526787135	1	Yeah I was mostly focusing on the tech and the partnerships in that OP. The airdrops are pretty sweet though, a nice reward to those who HODL. 
+0	1526788794	3	How do they confirm payments? Do they use a second layer protocol like lightning or is it just random off\-chain databases?
+0	1526803214	3	r/pundix
+0	1526783077	2	Thoughts on graft?  Smaller market cap targeting same use case through vendor integrations.  In beta with Verifone.
+1	1526786876	4	Not really directly competing with Pundi as they are looking to integrate with existing POS devices whereas Pundi has made its own. I would say that Graft looks very promising if they can pull off some big-time POS integrations. No one is going to trust a retailer that receives payment on their personal cell phone. Not gonna happen. Good for yard sales maybe but not for retail an certainly not for chain retail or bigger stores. If they do integrate with existing POS devices that would be pretty cool - but - then they will always be at the mercy of those POS device companies to keep their business going. TBH I think graft looks pretty interesting and I am surprised at how low their market cap is.
+2	1526801053	2	Square does payments on cell phones, tablets etc at retailers all over. Saying that, the POS is an app on the pre existing machines, but you can use the phone app to make payments or accept payments as well.  They are already approved for integration into verifone and are expected to have some news for ingenico soon. The one thing that I would say that they have over PundiX is that merchants dont need to buy their POS or update anything for graft if they already have a contract with the company, can just simply upgrade their machine. I think both projects are great and any competition is only going to make this technology better to bridge the gap between fiat and crypto payments as an every day occurance
+2	1526818025	2	Solid.  I've been following graft for a while but Pundi is new to me.  Kind of funny since Pundi is 100x the market cap.POS integration is the killer app and it's what everyone I talk to about crypto as a form of payment is concerned with. \(can I buy a hamburger with it?\)
+3	1526829964	1	Why do you think graft doesn't have a bigger market cap?
+2	1526824917	1	lots of stores accept payment on iPad -- that's close enough
+3	1526830108	3	Yeah, that's a fair point. Actually, I would love to see PundiX and Graft form a partnership for interoperability. Win win win. The last win is for the consumers
+2	1526835423	1	Soon when Graft app becomes available on Verifone market place, it can be used on existing verifone PoS terminals. Considering Verifone being the 3rd largest PoS terminal provider, reach will be huge as the Merchants need not bear any additional terminal hardware cost and the trust on Verifone cascades to Graft as well. Will be interesting to follow Graft's progress in this year. It's visibility is low due to lack of exchanges and of course it's just a 3 month old baby! 
+0	1526800763	2	And btw they are rolling out 100,000 devices in June according to their CEO https://www.youtube.com/watch?v=tqSc0j8FFVQ&feature=youtu.beAnd this is globally. 
+0	1526816142	2	Wanchain + Pundi x.  Going to be a good summer.
+0	1526824068	2	Yes I have recently noticed PundiX and how well advanced their project is in Asia for reall world usage. My first reaction was that they are treading on Nano's toes but perhaps if Nano can be accepted on the platform   there may turn out to be plenty of synergy here. After all, Nano has the instantaneous transactions that  will suit PundiX'sr retail operations very well.  
+1	1526829902	1	Yeah. They are doing a good job at making lots of alliances with like-minded companies.
+0	1526803128	1	I think one problem is that it's not traded on any exchange that's popular in the West and dexes are confusing to the average person.
+1	1526820171	1	Yeah good point. I wonder what the delay is? Pundi has been vq top 50 coin for 3 weeks now
+0	1526804655	1	I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:- [/r/nanocurrency] [We should try to convince Pundi to accept NANO! Read this:](https://www.reddit.com/r/nanocurrency/comments/8krelt/we_should_try_to_convince_pundi_to_accept_nano/)&nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
+1	1526804655	1	If any brigades are found in the TotesMessenger x-post list above, report it to [the modmail](https://www.reddit.com/message/compose?to=%2Fr%2FCryptoCurrency).  Also please use our [vote tracking tool](https://www.reddit.com/r/CryptoCurrency/wiki/resources) to analyze the vote behavior on this post. If you find suspicious vote numbers in a short period of time, report it to [the modmail](https://www.reddit.com/message/compose?to=%2Fr%2FCryptoCurrency). Thank you in advance for your help.*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+1	1526829651	1	Can someone please explain the purpose of this bot?
+0	1526815200	1	I'm going to theit Meetup in Amsterdam today. I'm excited to see a real demo for the XPOS and XPASS
+1	1526820111	1	How was it? 
+2	1526821785	1	Its at 16:00 CEST, Will let you know how it was
+3	1526829727	1	It would be cool if you could take some videos and put them on YouTube and then share them here. I would love to see more shots of the device in action. Also haha see if you can find out when the devices are supposed to hit retailers
+4	1526837052	1	It should've been livestreamed. I Will look for a link when im back home so you can rewatch it.
+4	1526838123	1	https://www.pscp.tv/w/bdGqIjFXTEVSQXZtTWVtamJ8MW5BS0VSWXJQUGdHTPBKF9HxNLAj1oPfjWYD6pgLzrZ1C4BVuo7ENd2hP-lZ?t=2sHere's a link to the livestream!
+0	1526769889	0	Everybody knows about PundiX, that’s why their market cap is approximately 639,000,000 and they are positioned around #36 on CMC (although temporary not actually listed in that spot due to the coin swap). 
+1	1526781571	7	They are such a new company in this space that I don't think many have had a chance to learn about them. Plus, for most of their post\-ICO life their market cap was quite low so they weren't on the top 100. Now that they have a top 50 market cap they *should* be getting a lot of visibility on CMC but their market cap was removed because apparently CMC can't do pretty simple math. So yeah, for those reasons I kinda suspect that many many people who would be shocked at what this company is achieving if they knew about it still don't know about it.
+2	1526784329	5	Never knew about these guys. Ty
+2	1526789454	1	nah even though I hate CMC and have vowed to not use them anymore after the whole Bitcoin Private debacle and them still having Bitconnect ads running after it was exposed, they removed it because of the swap that's still ongoing, so literally we may not have a clear market cap position on CMC until September when the swap ends.. BUT watch when that time comes how much more Pundi will explode... If you think this like 200% gain was a lot the last few weeks
+3	1526806542	1	Sorry, I don't know the bitcoin private debacle related to cmc. Can someone please explain?
+1	1526803123	2	Everybody knows about 2 months old crypto ?:D Are you kidding?:D 
+0	1526799494	0	Centralized crap...I rather pay with cash until there's a system out  that makes me stay anonymous.
+1	1526801064	1	What if they add monero 
+2	1526802127	-1	Apparently monero isn't even truly anonymous..
+3	1526807738	1	I mean, technically, I'm not sure "truly anonymous" is possible. "Sufficiently anonymous" is what people are shooting for. 
+1	1526829790	1	Fair enough. No project is going to satisfy everyone's needs and Wants.
+0	1526806023	-2	There are multiple companies doing this
+1	1526811783	1	Name them
+1	1526829861	1	Yeah, please list them. I was under the impression that there were no direct competitors in this space. I would love to be shown otherwise.

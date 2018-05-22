@@ -1,0 +1,17 @@
+File created at: 1526936927
+Subreddit: BitcoinMarkets
+Submission title: Bithumb now also enforcing KYC and AML
+Submission created utc: 1526920934
+Submission score: 29
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526922697	10	I hope decentralized exchanges develop more. It may taking all the regular exchanges becoming unusable for people to give them more volume and such.And most trader pay their taxes, but they also care about financial privacy to some degree.   It's absurd that we can't even trade these digital tokens without having the gov't in our business.  But that's the way it is and just have to roll with the punches as best possible.
+1	1526934804	2	EOSfinex on the EOS chain is sounding like it's gonna be a powerhouse by end of year. The team that made eos and bitfinex are in cahoots through some obscure business connections, and both want to create a high volume DEX. Should be exciting to see how it plays out. 
+2	1526935099	1	I hadn't heard of that, but does sound exciting.
+3	1526936914	1	Yeah it's pretty interesting because bitshares proved that it can be done through bridging and other shit, and also served as a proof of concept for the Algo that eos runs on to work well for DEXs. The only downside was bitshares got caught up in banking bullshit and never got enough volume. With bitfinex putting more pressure on customers to find a Dex alternative, we might witness a flippening of bitfinex users going there; I'll definitely be testing out some trading on there assuming the fees are decent. 
+0	1526928426	2	Hide your BTC before they do it
+0	1526933981	1	Sounds like CRS :/.
+0	1526922386	-8	I'm becoming slowly convinced this is related to QASH Worldbook rollout. All of these exchanges suddenly requiring KYC *just before* Worldbook launches in early June just seems too coincidental.Any other thoughts? Is this just self\-regulation / tightening of exchange guidelines and its merely a coincidence?
+1	1526924983	5	...it’s for regulation and compliance that’s been in the works for some time now. Not because of some unproven shitcoin. 
+2	1526927637	2	LOL
+1	1526927997	2	Umm...no

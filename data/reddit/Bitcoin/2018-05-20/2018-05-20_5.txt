@@ -1,0 +1,31 @@
+File created at: 1526848588
+Subreddit: Bitcoin
+Submission title: CoinGate is launching Bitcoin Lightning Network payment processing for merchants
+Submission created utc: 1526828051
+Submission score: 166
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526835192	1	Excellent news.
+0	1526838089	1	wow .. great 
+0	1526837462	1	gz! i have use coingate several times and imo is one of the best payment providers not only for bitcoin 
+0	1526828659	4	Sweet! Hope you make it become more user-friendly and not just leave it alone saying you'll get to it.
+0	1526843112	1	This is just the beginning. It's starting get exciting now. Looking forward to 2018-2020
+0	1526845560	1	Wow.. $3 for adding whipped cream to my espresso.
+0	1526845831	1	/u/coingateWith the "Lightning Bitcoin" payment option you make it sound like you're paying with some altcoin. I know its for advanced users and nobody is confused, but sooner or later we'll have to find a good way to inform users of how to pay with bitcoin. Maybe "Bitcoin (over Lightning Network) or something like that. Maybe a flag you tick when you select bitcoin. Like Bitcoin (☑ LN)
+0	1526848089	1	thank you!
+0	1526828493	-5	>it is not yet user-friendly, and really more suited to advanced (technical) users, though we are sure this will change soon with growing adoptionWell it should be other way around, it needs to change first, then adoption. 
+1	1526831487	3	Hey, it's open source... why don't you start writing code?
+2	1526832027	-7	I am not a programmer, why don't you start working on a drug candidate for amyotrophic lateral sclerosis? What a fucking moron.
+3	1526833811	3	The point being, backend stability and functionality takes precedence over a user experience (and a lot of time to get right) just as I'm sure synthesizing new drugs does. User experience can always be enhanced later.
+3	1526842596	1	> I am not a programmer, why don't you start working on a drug candidate for amyotrophic lateral sclerosis?I can't, I'm not a chemistry/pharma/medicine expert. But I'm also not complaining about it, you >fucking moron.
+3	1526835268	1	>why don't you start working on a drug candidate for amyotrophic lateral sclerosisBecause that would take nearly a decade of schooling to learn, where as programming can be learned by simply purchasing a book or doing an online course. There's quite a difference between programming and creating a new pharmaceutical
+4	1526848459	1	buys booksets book on tableno visible code appearsgoes back to experimenting with drugs
+1	1526833663	2	It's going to be a bit if both. Nothing will become user-friendly before users become involved. For the developers and geeks among us, a command line interface and total control is pretty much the ultimate in userfriendliness!Yet It's going to be developers and geeks that drive the technical progress.Everything starts geejfruendly, non-geek-friendliness always comes later, as things progresses
+2	1526834596	1	> It's going to be a bit if both. Nothing will become user-friendly before users become involved.Why the hell not? That doesn't make any sense at all.
+3	1526835512	1	Well, because the developers need users to give feedback to get the userfriendlyness correct.It's something you can't get correct without users giving actual, valuable, feedback!
+4	1526836032	1	Holy crap, no. It is 2018 and we have had decades of User Interface design and feedback. We aren't embarking on the first graphical operating system here. To kick the can down the road because you think *USERS* have to tell you what they think they want? PfffffEdit: a word
+5	1526836280	1	But UX is improving all the time. Have you looked at Eclair? And there's a ton of small corrections/clarification changes in LND. But LND is a command line client, and I think consensus is that command line interfaces are not beginner friendly.The lightning-app, that lives on top of LND, isn't bad either - though it's outdated right now. Work is ongoing.But true userfriendliness is a process, and has to come gradually. And will require end user involvement.
+6	1526847231	1	Ok, tweaking some small bits is a totally different thing than "Nothing will become user-friendly before users become involved". Having something user-friendly out of the gates isn't unfathomable, or even uncommon. Outside of a terminal, it is quite frankly the norm. I would argue that making something functional and usable are two different things. Like your command line lightning app, it is there for a functional implementation, NOT for people to actually *use*. However, this digresses into a philosophical and technical discussion
+7	1526847394	1	It is uncommon in open source. And do bear in mind that all lightning network implementations is no further than beta at best. You'd not wait until v1.0 with an open source release.
+1	1526842863	1	I don't think most anyone reasonable would disagree with this.  We aren't pushing for mass adoption right now, but rather for early beta users to give it a try and give feedback, those who are willing to take some risk (because it's still risky as they pointed out) and do some testing to improve it before it's ready for primetime.
+2	1526846777	1	> I don't think most anyone reasonable would disagree with thisHis score as of right now is -5. The people in this sub don't make sense sometimes

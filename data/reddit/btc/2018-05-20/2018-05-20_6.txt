@@ -1,0 +1,55 @@
+File created at: 1526848597
+Subreddit: btc
+Submission title: An important reminder from one of the greatest minds in Crypto. (x-post r/CryptoCurrency)
+Submission created utc: 1526806269
+Submission score: 71
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526811425	55	Andreas is a public speaker and he is radio silent about this subject.
+1	1526834884	-20	because he knows bcash is toxic. He knows bcash is a deep state attack on Bitcoin, to infiltrate and fracture bitcoin. Dilute the community into smaller groups so they can be more easily attacked. 
+2	1526837499	14	Hmm.Core did it differently. Basically all voices of discontent or even different ideas were banned from public discussion. Only one vision of infallible core devs was allowed.That lead to creating unified but false voice that was heard.All the ideas went different way. Some to ETH, some elsewhere, but most fascinated by original vision went to bitcoin cash.In fact, bitcoin cash is an attempt to save bitcoin as we are decentralized and not coordinated, but stronger apart. Bitcoin core is toxic and time will show it. Andreas probably feels something is wrong with only second layer approach but is willing to continue regardless as that also fascinates him. He is not a leader, he doesn't understand what damage was done to bitcoin by core on social level.
+0	1526817471	48	If Bitcoin Cash is successful, there won't be a purpose for Bitcoin Core that isn't better served by Bitcoin Cash.
+1	1526826641	10	Yep. Spot on
+0	1526831952	12	And he is certainly not neutral, he has been advocating for off chain solutions for years, and think bch has no good devs. 
+1	1526835650	-10	yeah, what does he know?? Hunk_Quark is the real Crypto Expert. You know this stuff way better than him. How many books have you written about bitcoin again?
+2	1526838337	5	Nice appeal to authority there
+3	1526848070	1	No, its an appeal to knowledge. 
+2	1526847784	1	Andreas doesn't write any either dipshit. Other people write it for him online then he profits as the author 
+0	1526816721	42	So we should just ignore the censorship of r\bitcoin and the massive troll armies? The destruction of Bitcoin itself through corruption or incompetence? I agree that the focus needs to lie on adoption and building but never forget how Bitcoin was sabotaged.
+1	1526816887	21	I have not forgotten. 
+1	1526830821	3	I don't think r\bitcoin will let us forget.
+0	1526829432	7	Pretending that it's impossible that one side has better merits than the other is fallacious.If his position is legitimate, he should explain what he thinks the merits of each side are, and how they lead to him being neutral. Because right now all I see is him signalling the virtue of neutrality.
+0	1526825942	13	It actually is a zero sum game. Andreas is wrong.And just like others have said in this thread, Andreas lost 100% of my respect many many years ago.
+0	1526810415	27	But this only reinforces he is nothing but an opportunist... It'd be better for him to defend himself not taking sides by saying "let the best fork win".    
+1	1526811004	12	Andreas is very much a crook.
+2	1526814561	13	Why do you say that?
+3	1526819837	24	Because I have picked up on him shilling for Core & Blockstream, doing same propaganda and name calling that Core, Blockstream themselves, and all of their shills, are doing. Also looking at what he was saying few years ago, before Blockstream got involved in Bitcoin, he was singing a different tune back then.That's why. Some people son't see it, but I see it.
+4	1526829338	4	Source on the name calling? 
+4	1526833763	-1	How's that tin foil hat fitting? 
+1	1526834310	1	> It'd be better for him to defend himself not taking sides by saying "let the best fork win".    In his defense, he has said exactly this on the Let’s Talk Bitcoin podcast a few times.  
+0	1526822611	24	"One of the greatest minds" thinks that the greatest threat to crypto *isn't* hostile takeover by financial interests.Triple-A lost my respect a long time ago.
+0	1526807317	11	Looks like only one coin followed the advice
+1	1526808019	-2	[Of course, the first two replies are... more infighting.](https://i.imgur.com/p2MCzTs.png)*sigh...*
+2	1526809547	11	You do realize Bitcoin would be in a significantly better position to help the world if it wasn't so fragmented and was able to scale when people started using it right? And idk why you accuse me of infighting for that comment
+0	1526813594	21	He's a sellout hack. What a waste. Fence sitting is for idiots.
+0	1526825539	7	For me, to qualify as a greatest mind, you'd need to have presented the greatest ideas.
+0	1526811319	10	Sounds like rats abandoning a sinking ship to me.
+0	1526823515	11	Greatest minds?! Hardly
+0	1526828198	3	I thought that the reason hash rate follows price is that it *is* a zero sum game (between BTC and BCH). Or am I mistaken? 
+0	1526831823	3	This is a silly view by Andreas. He might understand technology but he doesn't understand money. Any early Bitcoin adapter who's broke in 2017 has nobody but themselves to blame and should not be doling out monetary advice. Btc and bch are both fighting for the same sh256 hashrate, with more transaction capacity, bch will attract more hashrate and btc will be dead. 
+0	1526837050	3	Oh hes one of those "thought leaders" that said forks were dangerous and everything bigger than 1mb was unnecessary while people were told to install full nodes running shitty qt-wallets.. or do I remember incorrectly?
+0	1526811681	11	"one of the greatest minds in Crypto"
+0	1526822796	8	Why do we care what this banker shill says?
+0	1526806408	2	I agree with him. It's an important discussion to have, of course, but let's not forget that it's primarily us against the authoritarian government fiat system, not us against each other. The victory of any coin would be infinitely better than the domination of the authoritarian government fiat system. 
+1	1526809579	19	>The victory of any coin would be infinitely better than the domination of the authoritarian government fiat system. I agree as long as this coin doesn’t reproduce authoritarian government fiat system methods (like core dev did)
+1	1526815343	12	Any coin? I don't think the victory of something like XRP would be a victory at all
+2	1526815840	2	Fair point. I mean coins like BTC, BCH, ETH, LTC, XMR, DOGE etc. 
+3	1526825347	6	Without the ability to cheaply mix your coins on chain, or use privacy methods like those that XMR or Zcash have then there will be no fungibility, everything will be fully trackable right from the moment you bought your coins from an exchange with ID. Lightning is also highly trackable.This means BTC is useless with its unpredictable fees. DOGE is useless because it's inflationary and worthless. ETH is for apps and not really a currency. LTC is just a clone of BTC with a PoW change and no on-chain scaling plan. XMR would work fine but their mobile wallets need to come a long way. It takes too long to sync as well.
+1	1526809396	24	But BTC seems to be the authoritarian government fiat system now. 
+2	1526809502	-6	Not compared to the actual government. 
+3	1526810936	19	No? Core & Blockstream sure act like one.
+1	1526809164	0	Well said
+0	1526837362	1	Bitcoin and Bitcoin Cash are in DIRECT competition unlike BTC/ETH. 
+0	1526837582	1	here is an old one but good one. Even though I don't like segwit:[https://twitter.com/aantonop/status/681967343107465216](https://twitter.com/aantonop/status/681967343107465216)
+0	1526840359	1	You said mind, but what you meant was cult of personality. AA hasn't made a single intellectual contribution to this space ever.
+0	1526844577	1	If bitcoin cash succeeds then I dont see anyone trading bitcoin cash for bitcoin core so what purpose will bitcoin core serve once its value is gone?

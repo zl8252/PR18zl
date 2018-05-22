@@ -1,0 +1,11 @@
+File created at: 1526936929
+Subreddit: BitcoinMarkets
+Submission title: Weekend growth stopped by wall street money during the week
+Submission created utc: 1526922487
+Submission score: 0
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526923699	1	Must it? Why?Also what’s happening on the 25th?
+1	1526930378	2	CME futures expire
+2	1526932677	1	Ah ok. Not really clear why OP thinks that will make a difference or could be used to “fight back”.
+3	1526934348	1	Do you have around $100 million to spare?

@@ -1,0 +1,66 @@
+File created at: 1526936919
+Subreddit: CryptoCurrency
+Submission title: Let's face it, We expect the world to adopt our ecosystem but Only 0.01% of the people in the world ever used anything more than Coinbase. The main problem? Bad UX that makes it difficult to adopt( much than the smartphone era e.g.) That’s exactly what CardStack want to change
+Submission created utc: 1526903426
+Submission score: 183
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526905368	23	In a nutshell here is what they are trying to do(from what I have understood):"What’s even more exciting: our system lets users design incredible new workflows — joining services from different layers of the Internet — that simply wouldn’t have been possible in a centralized world."They will give any users in their project an option to integrate with multiple service and designtheir own personal workflows in order to use different layers for the internet. It's convenience for both developers and users to use this platform.Now the only thing that will need to prove is if they have this ability or not.Will have to wait and see.
+1	1526912096	21	In a nutshell, what they try to do i still impossible to understand for 99.99% of the people
+2	1526919076	1	In a nutshell, if they design it correctly no one will care why it works because using it will be easy. Kind of like the way nobody knew how the technology behind pinch to zoom worked but everyone loved it and Apple's iPhone succeeded because of it. 
+3	1526931772	1	In a nutshell, there are shill posters in this thread.
+4	1526934096	2	In a nutshell, this dude is correct.
+5	1526935775	1	Where can I buy this "Nutshell" everyone's talking about? Must be the next big thing!
+6	1526936033	1	An acorn is an oak tree, in a nutshell.
+0	1526906103	26	I must be in the 0.01 percent because I have never used coinbase
+1	1526906653	7	you are special :) 
+2	1526906957	3	I feel it thanks! 
+3	1526907897	8	you 2 are a good match. any decentralized tinder suggestions?
+4	1526927845	3	I hear it's a lot easier on Grinder.
+2	1526930186	2	Believe it or not but Coinbase is not even available in many countries so nobody uses it there.
+1	1526930248	1	he means that 0.01 of the world population used cryptocurrencies for something. More than 0.1 percent used coinbase. 
+1	1526909147	1	Do you own cryptocurrencies?  How did you obtain them?
+2	1526923706	1	Probably one of the many other services to buy crypto?
+0	1526905114	11	It's not about tech, it's about fragmentation.Every week a company comes out with their amazing solution and it keeps adding to the problem.This just adds to the fact that the learning curve needed to operate (as a user) outside of coinbase is unbelievable high
+1	1526921781	2	can someone link that xkcd?
+2	1526923381	4	This one?https://xkcd.com/927/
+3	1526923622	2	perfect
+3	1526925378	1	"Blockchain of blockchains""Side chains""ERC-20, NEP5, etc.""Sharding""Lightning Network"
+0	1526910843	11	When I can buy DOGE from an app on my phone that's when we're free. But yeah rollout is complicated as fuck right now. 
+1	1526925466	2	So when Coinbase lists them.....
+1	1526911365	3	That’s exactly the point.Make it easy for anyone, not only for the technical people 
+1	1526934154	1	This will be possible soon. The Ethos Universal Wallet.
+0	1526904847	5	Did i got it straight? They are the Wordpress of the blockchain world?
+1	1526904991	5	In a way , yes.Wordpress made the website building process easy for millions of people around the world. Before it you needed to know how to code.
+2	1526907626	-5	i hate wordpress but ok
+3	1526908123	8	It's a metaphor but ok
+0	1526905700	9	Coinbase does not have bad UX at all. Not the best but definitely not bad.
+1	1526906280	11	Maybe my title wad confusing. Coinbase actually has one of the best UX in the industry. Most of the people that adopt our eco system familiar mostly with coinbase and not with other amazing project.The reason is that these projects have a great tech but they don’t put any attention to the UX. So we are not attracting new people to the crypto ecosystem.
+1	1526914820	5	Agreed, UX is not the issue here. Traditional ways of making transactions is the issue. Think Apple Pay. Many people are confident using smart phones. People easily understand how to link a card to an account and even then the adoption was difficult.Now remove cards completely from the equation and replace it with crypto. The mass population are not aware of how crypto works, nor do they care. They want to be able to trade a currency for goods and services. They just want something to work. CB simplifies the process by trading FIAT for crypto in as few steps as possible. Many mass uses (whilst we saw the late 2017 surge) haven’t a clue about confirmations or the block chain tech. God forbid you ask them about alternative coins or moving money across exchanges.This is why we see BTC and ETH continue to maintain the market percentage. Retailers have grown to accept them. Consumers know how to purchase them. The bit in the middle where crypto is exchanged for goods and services is mostly done behind the scenes with an app or payment system so people do not need to intervene to make the transaction happen.Crypto is new. Past generations have not grown up with the tech. It does requires some technological knowledge, especially when dealing with alts. It is considerably different from traditional transactions.You also have to consider safety and insurance. Consumers trust credit cards because in the light of fraud, one can be compensated by their bank. One cannot be compensated if their crypto wallet is compromised or they incorrectly send payment to a wrong address. Securing your coins again requires knowledge and technical ability, something many people wouldn’t not do.This is why we are quite a way from mass adoption. The tech savy guys are confident. The technology is proven. However making that transition from tech to mass adoption is the obstacle. Something that will improve in time. However there is dependencies from multiple parties; from retailers, consumers to exchanges.
+2	1526921850	1	True! However many wallets are trying to bridge the gap for newcomers which helps a lot. Exodus for example, even if many don‘t like it. What we would need for mass adoption is an App that let‘s you pay with QR codes or beacons easily in my opinion. Because many people already learned how to use that and also RFID is coming up like crazy.
+1	1526936593	3	>After reading [https://en.bitcoinwiki.org/wiki/Coinbase](https://ru.bitcoinwiki.org/wiki/Coinbase) article , I did not like that they began to cooperate with the tax authorities.
+1	1526923018	1	It is by far the best honestly for mainstream adoption. Coinbase is the only app or website i would ever recommend to non techy people.
+0	1526903865	4	Sry but I didn't fully understand what they are offering, it was kinda general. Are they trying to do some kind of decentralize internet? Like in "Silicon Valley" ?
+1	1526904699	4	"Someone can explain me the movie"
+2	1526906831	3	It's more difficult from David Lynch movies
+0	1526906654	2	80M it's fine by me
+1	1526906864	3	fine by you? You already have your Lambo i guess
+2	1526907062	1	lol :p don't be jealous
+0	1526916905	2	There are many countries that don't have Coinbase, where did you get that 0.01% lol.. 
+0	1526934210	2	UX is only a small part IMO. When the use\-cases become clear to everyone, adoption will follow regardless of the UX.
+0	1526903949	1	There will be many projects coming out to solve this problem. All the best 
+1	1526904034	2	can you name few?
+2	1526927463	1	DIVI got a great team and tech coming out Q3
+2	1526934167	1	Ethos
+2	1526904292	-1	You can easily found a few just using google.To be honest, this is the first thing that comes on mind (to create separate internet on blockchain) when you learn about crypto.
+1	1526904194	1	It's good. Till not projects focused only on great tech. The ux might be even more important when you want more and more people to get into the crypto world
+0	1526917064	1	Just give it time. Computers were not widely accepted until we got past using dos. Same with any other new tech. It never gets adopted until you don't have to be at least a little tech savvy to use.it. 
+0	1526924349	1	A bigger barrier is the banking regulations that forces coinbase and others to freeze accounts for doing anything suspicious like buying too much crypto, and imposing low limits, not to mention fees (lower if you know to use GDAX).
+0	1526926213	1	0.01% of people in the world using Coinbase is exactly why any coin that wants to be a straight up currency (Bitcoin, NANO, Litecoin, etc.) is so far away from being a global currency, if it even will become one. People talk about how some coins are long term HODLs. A majority are.
+0	1526928036	1	Coin Metro! 
+0	1526931781	1	Where does that number come from, that's a lot.
+0	1526933629	1	The author is using existing software stack frameworks to describe the vision of Cardstack.Basically he is describing microservices, containers, or serverless platforms.He is building a marketplace that will reward developers for creating solutions. These solutions can be reused and plugged into other solutions, which the developer gets rewarded for.TLDR: He's building an app store, expect even better, you can re-use apps within other apps because the original creator of the app gets rewarded for it.
+0	1526934120	1	Ever heard of Ethos? It perfectly solves the problem. 
+0	1526915084	0	Lets face it... ShmulWuli will bring world adoption. They are the only one who understood crypto.
+0	1526904546	-5	Announcing my new tech!! oh and my shitty new token... thanks for looking.
+1	1526905697	4	Do you offer any airdrop?

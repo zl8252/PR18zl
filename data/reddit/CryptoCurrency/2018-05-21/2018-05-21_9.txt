@@ -1,0 +1,31 @@
+File created at: 1526936922
+Subreddit: CryptoCurrency
+Submission title: From Facebook to Yahoo and eBay, around 4 Billion users have already been victims of data Thefts- Here are the Top 5 data scandals of the Century, And what blockchain can do to stop it?
+Submission created utc: 1526882052
+Submission score: 83
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526884266	10	So those guys are trying to make Google and Facebook pay us for our data? LOL... good luck
+1	1526886964	1	Very far from really happening, but it's a good start.
+1	1526889730	0	not really, from what i understood they are paying you. for the sharing of your data anonymously.
+0	1526901264	5	Use browser Brave to safe nav and the advertisers will use basic attention token (BAT)
+0	1526882292	7	And they didn't mention Google in the article. Those guys are the worst
+1	1526882800	3	I run here into an article about the GPDR, when it applies one can ask from Google/Yahoo/Twitter and so...  all the data they have on him. Imagine that, It's going to be ridiculed
+2	1526883583	4	Mabey then people woke up and understand that we are just tools in the there game, a bit anarchistic I know, but still true.
+3	1526889658	3	once you pull the data they have on you you will be amazed by the scope of it. 
+0	1526895704	4	Nothing. Blockchains don't solve problems like this...
+1	1526929079	2	Haven't you heard around here? Blockchain will cure cancer, solve world hunger, and bring peace on earth.Please^buy^my^bags
+1	1526919253	1	Seriously what the fuck does blockchain has to do with protecting my data? Having my data on a blockchain sounds way more scary than having it on some shitty server for a few months.
+0	1526898727	2	Apex (CPX)
+0	1526896455	1	Ok, but how blockchain could solve something like this??
+1	1526897017	5	From what I understanding, they (Liberty, that powered by blockchain ) is Trying to make google/facebook and so to pay us for our data they are using, some kind of open contract that says that the data it's ours and if they wanna use it they will have to pay. Kinda optimistic if you ask me, but with all the scandals that happen lately and combine the new GPDR regulation that actually can work
+2	1526897087	1	Probably, we will see how the things will go :)
+2	1526923331	1	Or they're trying to scam us.No company can force Google to pay us. Wtf does this even mean?
+0	1526902711	1	This article doesn't mention 'Aadhar' leaks. 
+0	1526906421	1	Blockchain brought us bitconnect 
+0	1526909814	1	Blockchain can do jack shit about this
+0	1526912811	1	Just remember: in traditional tech they steal your data. In blockchain they steal your life savings. 
+0	1526926146	1	Algebraix (https://algebraix.io) is trying to do something to fix data sovereignty in the ad space. 
+0	1526885151	-1	Check out Digi-ID. It's solved authentication security: www.digi-id.ioBuilt on the DigiByte blockchain...
+1	1526900246	1	[deleted]
+2	1526903021	1	Well ...Last commit 5 months ago, 7 commits in total.

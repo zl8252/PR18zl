@@ -1,0 +1,117 @@
+File created at: 1526848609
+Subreddit: CryptoCurrency
+Submission title: NANO Universal Block canary has been released!
+Submission created utc: 1526828712
+Submission score: 458
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526828714	1	**Nano (NANO) Basic Info:** [Website](https://www.nano.org/) - r/NanoCurrency - [Abstract](https://www.reddit.com/r/CryptoWikis/wiki/nano_basicinfo#wiki_short_description) - [History](https://www.reddit.com/r/CryptoWikis/wiki/nano_basicinfo#wiki_history) - [Exchanges](https://www.reddit.com/r/CryptoWikis/wiki/nano_basicinfo#wiki_exchanges) - [Wallets](https://www.reddit.com/r/CryptoWikis/wiki/nano_basicinfo#wiki_wallets)  **Biases:** [Arguments For](https://www.reddit.com/r/CryptoWikis/wiki/nano_pros) & [Arguments Against](https://www.reddit.com/r/CryptoWikis/wiki/nano_cons) | **CryptoWikis:** [Policy](https://www.reddit.com/r/CryptoCurrency/wiki/policy#wiki_cryptowikis_program_-_.28work_in_progress.29) - [Contribute Content](https://www.reddit.com/r/CryptoWikis/wiki/contributing)---*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+0	1526829420	182	*Why should we care?*This makes NANO even faster, more scalable, more secure, and less expensive to run the network - prior to universal blocks it cost only about $5 to run a node per month. A node is an entity used to decentralize control and verify transactions within the network - keep in mind transacting with NANO is, and will always remain, completely fee-less.Presumably this also makes NANO and it’s network even more green as electricity and bandwidth usage should decrease overall - prior to universal blocks NANO’s network consumed 99.99% less electricity than Bitcoin’s network. The implementation of universal blocks also signals the release of official and final version mobile and desktop wallets, along with Nano Ledger hardware integration, both happening sometime in the near future. Once these are completed, the devs will finally start their marketing push, and I’m confident they have some interesting plans for adoption.
+1	1526838759	12	For scale, I’m pretty sure a single transaction on the Nano network uses 0.112 Wh (0.000112 KWh), while Bitcoin uses over 200 KWh per transaction.edit: fixed my figures (1.12 Wh -> 0.112 Wh)
+2	1526844313	5	You're out by a factor of 10. Nano transactions are approx 0.112Wh (0.000112 kWh). Shameless plug, but you can see how this is calculated in the *Calculations* section of https://isnanogreenyet.com
+3	1526847030	2	Oh, thanks. I knew it was something super low. I will edit my comment to make sure it is accurate.
+4	1526848532	1	No worries, thanks for commenting in the first place, and for editing :) I love that it's now getting more and more common knowledge that Nano is super efficient!
+1	1526830342	16	As a laymen, aren't fees meant to stop people from spamming the network? I know nano is unique in that each wallet has it's own blockchain (or something like that) but how does that solve this issue? 
+2	1526830892	28	There's a small PoW you need to complete before outgoing transactions. If you want technical specifics or defense against more varied attack scenarios, I reckon it's pretty easy to google it.
+2	1526833594	11	On top of the small PoW to make it computationally unreasonable you also would only be spamming yourself, in a sense. So counter productive to spend the electricity to do so
+2	1526830701	41	A Nano transaction requires a PoW calculation beforehand and this makes it computationally expensive to spam the network.
+3	1526833535	4	This PoW is almost non existant.
+4	1526838662	10	As is intended.  More anti\-spam measures can be done that dont majorly impact the service still.  One example \(which I think is already implemented\) is ignoring TXNs below a certain threshold.  That will assist receive nodes so they don't process TXNs worth fractions of a penny.For protection of the network on disk usage, that is planned as pruning.  It will no longer need to record old transactions.For protection on the bandwith side, I'm not sure the exact plans of that beyond potentially better compression algorithms \(not sure what is currently used if any\), packing algorithms, or just straight up changes to the underlying protocol \(unlikely because that is essentially UB\)\-\-Increasing the PoW also increases costs for merchants as they also need to do a PoW for receiving.  As the goal is to be a fast currency, increasing it too much would be against the goal of Nano so there has to be a trade off somewhere.
+4	1526837596	3	Yes, I know they are working on this. I heard they may start prioritizing larger transactions over small/micro transactions, in some way. QoS implementation. Many different things being thrown around regarding this. I know it's not something they've brushed off. 
+5	1526843064	1	How would prioritizing larger transactions stop spam tho? Since there's no fees I could have a few wallets passing around $30,000 between themselves very rapidly and still spam the network. Since there's no fees I wouldnt be losing anything. Or is the assumption that spammers don't have a lot of money?
+6	1526843245	1	Sending $30,000 rapidly wouldn't increase transactions per second. Plus you'd have to own much of the supply. The penny spend attacks is what this would help against.. which requires much less of the market share. Worth asking in the Discord. Many people working on various things, along with the core team. This is just one thing I saw in the development channel.
+4	1526834229	3	PoW for a send/receive block consumes approximately 69 mAh for about 3 seconds. Not sure if that has changed for universal blocks.
+2	1526833613	11	As everyone else mentioned, each transaction requires a PoW or Proof of Work.  This is fairly light for non\-spam uses but if you plan to do a lot it will scale up costs quickly.  A Nvidia V100 GPU \(Costs around $10k USD\) does \~6 TPS.  Previous tests have tested the network up to 300 TPS.Edit:  Had the wrong price, corrected to 10k.
+3	1526839855	3	That’s interesting insight! So you mean somebody using that GPU cannot spam more than 6 tps?
+4	1526840285	5	Correct.  They could of course use more of them \(2=12 TPS, 4 = 24TPS etc\).  Consumer\-like cards are around 1\-3 TPS.  CPUs are around 0.3.  The white paper has the benchmarks for TPS on the last page: [https://nano.org/en/whitepaper](https://nano.org/en/whitepaper)
+5	1526840960	1	Great, thanks for this :)
+2	1526832577	5	Nano has a basic PoW implementation for spam prevention
+2	1526836682	3	There is a short description of attack vectors and defenses on the GitHub [here](https://github.com/nanocurrency/raiblocks/wiki/Attacks).
+2	1526830660	-13	Read the whitepaper
+1	1526836167	3	So what is the new TPS?
+1	1526833086	-6	How to run node? And will make money? 
+2	1526833782	9	How to run a node: https://github.com/nanocurrency/raiblocks/wiki/Guide:-Quickstart-to-running-a-node-(Ubuntu-16.04)You will not earn money with it. But on the other hand you can run a node for 5$ a month. And there are more and more people who do this.
+3	1526834921	6	Is there any benefit at all to the node runner?
+4	1526835069	11	Not at the moment. You do it voluntarily. And as mentioned before there are many people who do it.At least it isn’t that energy wasting as other nodes.
+5	1526846240	3	I think of it as being in the spirit of Wikipedia, Patreon and co. It turns out people are actually willing to contribute to something they like without any (big) incentive.
+6	1526847489	1	true 
+4	1526839264	11	Same benefit that 1000's of Bitcoin node runners get: i.e. nothing but the satisfaction of helping the currency out.
+4	1526840007	2	Yes, there is! The benefit of feeless transactions. What would you prefer in an ideal currency? Paying for EACH and EVERY transaction at the store, to friends & family, for monthly bills, for rent, etc? Or running a low cost node irrespective of how many txs you make?
+5	1526840383	1	Can I spend 10$ and receive double power per month? 1000$ and receive 200 nodes?
+6	1526841100	1	Idk if you’re sarcastic or no. What power are you talking about? And yes you can have 200 nodes, but that means nothing if you want to attack the system.
+7	1526841999	0	>  And yes you can have 200 nodes, but that means nothing if you want to attack the system.I don't know. I'm worried.Essentially the network is not really secure, is it?It is completely run by "free will". No incentive. That sounds very dangerous to me, if you can pretty much own as many nodes as you want. That feels like, if a person really wanted to buy the network, they likely could, because whale money would just faceslap volunteer money, every single day? How does Nano deal with that? Are you telling me, that running a node, gets you nothing in return other than being healthy part of the economy? Further you have to pay 5$ monthly, to keep that thing going? These nodes secure the network? 
+8	1526843675	4	The network is secure.  Your worries are unfounded.  Whether a malicious attacker owns 49% or 51%  of the nodes makes no difference to the security of the Nano network.   A node has no voting power except for its stake in Nano held, plus any delegated Representative votes.  An attacker would need to buy half the market circulating supply of Nano in order to destroy it and everyone else's.  Or persuade half the network's Wallet stakeholders to set them as their delegated Representative. 
+9	1526845069	1	Yes, this is the crucial thing here. Each wallet delegated a representative node. You can see the distribution of voting weight here: https://www.nanode.co/representatives
+6	1526841130	1	You setup a vps at some provider for 5 bucks or less. There you install the node software and let it do its thing. How many of these vps you wanna run is your decision.
+2	1526837857	3	At the moment there is no incentive to run nodes other than to secure the network. That said, the team has stated they are working on incentives for nodes. We'll have to wait and see.
+2	1526839785	2	https://nanotools.github.io/easy-nano-node/
+0	1526832558	18	Price is so low right now. 
+1	1526832892	10	So buy more :DYou should be happy :D
+2	1526833954	8	I can't, i got family to support. 
+3	1526834246	43	Fuck'em. Get Nano.
+4	1526842275	3	lol
+1	1526834253	3	yup, it's down 50% from a few months ago =(
+2	1526846173	2	80%
+1	1526847579	0	Somehow I feel that the price is forced to stay so low. Maybe some big whales accumulating !
+0	1526829253	31	What does this mean for those who don't really follow the project? 
+1	1526829540	45	It's a technical roadblock they solved that makes coding Nano easier for the developers. It's kind of like a self-future investment for the project.
+1	1526829594	37	[Universal blocks will allow higher TPS, simplify code, and simplify hardware wallet integration.](https://twitter.com/colinlemahieu/status/997104224734412800?s=21) 
+1	1526829301	31	Even faster transactions and less load on system !
+2	1526829373	24	And better integration with hardware wallets. Simpler code, faster code, more understandable code. 
+3	1526837747	2	In other words: [Everything is awesome] (https://youtu.be/StTqXEQ2l-Y) ? 
+0	1526829326	76	Nice! Now wallets will be incoming very soon and then mass adoption as people realize how awesome NANO is!
+1	1526829700	-19	And the price will continue to sink 😟
+2	1526833661	4	Everything will unless Grandpa Bitcoin can get off it's lift seat!
+2	1526830000	5	Hopefully, waiting for it to hit sub 4€ mark.
+0	1526834282	14	So this makes Nano more faster and scalable like it wasn't fast enough before :P
+0	1526834917	15	Loading up on nano and eth this month 
+0	1526829263	31	Great job Colin!
+0	1526830011	33	Great! Nano team continues to deliver. They are so dedicated 
+0	1526829816	65	Come on, can the price ever reflect the developments of this coin? Coin is undervalued af right now
+1	1526830126	32	Buy buy buy. 
+1	1526831425	34	I'm more excited about the tech than the price.  The price will come, but how exciting to present a tech to the world that solves blockchain energy waste, solves the slow transaction time, solves the ridiculous fees involved in a transaction.  Everything solved at once, with 3rd gen blockchain tech.
+2	1526834909	12	Block *lattice*! It definitely is cool to see how different the tech is, and the benefits it already provides (fast and free). The next items in their roadmap are really cool too, integrating it into Point of Sales terminals
+2	1526831727	-1	The 3rd or nth gen thing is just marketing talk. Don't buy into it. Every blockchain, even including bitcoin, evolves continuously. There are no generations like consoles, instead imagine it's like pc.
+1	1526834600	6	Lol how is this a problem?!  Load up! 
+1	1526840189	4	Because the market only cares about hype. Tell everyone you've got a main net coming and it'll shoot up. Then dump on you after.
+1	1526843216	4	Undervalued how? Nobody even uses these coins for anything except to sell to other people for hopefully more than they payed.
+2	1526843514	6	I'm not going to argue that people aren't here to make a profit, but Nano is different in that they actually have a product released that delivers what the devs say it can do. Many other coins (including multiple top 15 coins) have nothing to show for their investors. I agree many coins are scams or too risky at this point, but Nano is not just another shitcoin
+3	1526843905	1	dont get me wrong i like nano i just hate the when people say these coins are undervalued
+2	1526843568	4	You just described every cryptocurrency currently. Remember we are in a very early stage in the lifetime of this new invention.
+3	1526848412	1	Not really anymore, we're not. You could've said that 5, or even 3 years ago, but now, when there are so many blockchain implementations up and running, this ain't early stage anymore.
+1	1526831655	3	The development status is irrelevant to the price.  Two factors matter - speculation and adoption.  The adoption is still close to zero and won't go up any time soon, and most speculators already jumped ship to new emerging projects.
+2	1526835181	4	could be said for most of crypto but yeah, a lot like Monero's slogan, "don't buy Monero." Keep the speculators away. Let those who want to use it and foster adoption accumulate. The speculators will hop from project to project as the always do. Let beta wallets get finalized, Ledger hardware wallet get implemented, point of sale systems be made, then those who adopted and accumulated can begin to actually use their Nano. All this takes time, not a lot people in crypto have time for that. Think years not weeks/months down the road.
+1	1526838295	-8	Coin is overvalued. It's only use case is to be a currency and it's right now almost nobody outside of small hobbyist shops accept nano as a payment method. When its only a currency and nobody accepts it as one then it's failed. 
+2	1526845224	2	>almost nobody outside of small hobbyist shops accept nano    It's only fucking MAY. Back in NOVEMBER less than a thousand people in the world had even heard of it!  Adoption is already starting. Marketing hasn't even started yet.  Give it time.
+2	1526838948	1	You are being overvalued by yourself
+3	1526840179	2	amazing and relevant counter-argument wow 
+1	1526840396	-6	Undervalued? Why? It lacks the network effect of Bitcoin, Eth, or Litecoin. At this point it's just a "faster" coin with no real adoption. There were tons of other auction sites that popped up when Ebay came into being but ONLY ebay won out. It had the market won already. 
+2	1526840487	1	Better tech than any of the coins listed above, instant transactions, far less energy usage, better in every objective way other than name recognition, thus undervalued 
+3	1526841244	-6	Better tech? Can you build dapps on it? And none of the claims you make have been proven. The coin was hacked on an exchange a few months back. Not to mention it hasn't had to survive the years and years of a high volume/extreme usage, attacks, fud, etc that Bitcoin and Litecoin has to be valued where it is. At this point Nano is just another coin in a sea of coins in an over saturated "peer to peer" currency market. The value is exactly where it needs to be if not over valued. 
+4	1526841697	9	> coin was hacked on an exchange a few months backYou're either deliberately being misleading or you don't know what the fuck you're talking about. Nano offers instant feeless transactions right now. Which other coins offer that exactly?
+0	1526843623	10	NANO is now the fastest protocol on the market
+0	1526829642	12	Awesome!!
+0	1526829666	38	Another reason why Nano is better than Ethereum, IOTA, Stellar and Bit~~Shit~~coin
+1	1526833441	1	I have faith in the project technically speaking and I may not be helping it by saying it, but I fear the community won't be adopting it. I'm afraid it's going to be one of those scenarios where the better tech gets left behind
+2	1526837348	4	Any particular reason for your worries? 
+3	1526838702	4	The bitgrail issue really set it back I think, and I feel like with crypto space being so saturated it'll fall to the way side unfortuantely even though like I said I believe it to be one of the most technically strong coins
+4	1526839026	5	Mt Gox happened to bitcoin - still going strong
+5	1526840351	3	and that's my hopes as well, however with bitcoin though it has the huge advantage that it is the first coin
+6	1526843205	1	Well, ETH also has had its hacks...
+2	1526833759	12	That would be a true travesty for the world if they adopted Bitcoin over something more efficient like Nano. RIP our energy resources.
+3	1526843088	3	I keep seeing people who are on the left on twitter saying things like "If you're some libertarian dudebro who uses Bitcoin, fuck  you, you hate the planet, all crypto is trash." And then someone responds there are energy efficient coins and they're like "I don't care about your Bitcoin wannabe coins." :\\ I hope eventually people smarten up a bit and realize that crypto enthusiasts acknowledge the energy inefficiency issue with Bitcoin and the "clones/wannabes/whatever" are attempts at resolving it. Hell it might even be possible for cryptocurrency to be more energy efficient than traditional banking systems.
+4	1526846170	3	Nano is more energy efficient than traditional banking systems.Right now there are 685 Nodes running, each consuming about 24W of power. That's a total of 16.4 kW. This is relatively speaking insanely low, and transaction power is so low that it's almost negligible.Imagine head quarters of a traditional bank, maybe going to have 15 floors each with 50 light bulbs. Give them the benefit of the doubt, they have LEDs. that's 75 times 25W, they use 18.75 kW just on lighting the HQ during the day. Then add on top of that, * computers * computer screens* serversAnd this is just the HQ. You're going to need to factor in different branches.I'm going to go out on a limb and say I would eat my dick if you can show me a traditional banking system that is more efficient than Nano.
+5	1526847835	1	Piggy bank.
+6	1526848169	1	haha :)
+2	1526841090	7	I don't understand how Litecoin has a cap *so much higher* than Nano. They are both 'just' fast and cheap value transfer. But Nano is *so much better at it.* It's a lot faster and it's actually free to move.
+3	1526843218	4	coinbase...
+3	1526841562	2	Proof of Network, more mass adoption on exchanges and the fact Litecoin is tied to Bitcoin.  It also has survived years of bear / bull markets so it's not some scam/vaporware coin that could dissapear next year when the devs leave ship. That sort of sustained development over the years shows why Litecoin is higher.  
+0	1526836126	14	Buy now and you can also lock in your Nanos for whenever the Taraxa airdrop or captchas come exclusively for Nano holders. Taraxa is a fork of Nano that supports smart contracts, similar to Iota, that ~~is being developed~~ seems to be supported by Gary Tan, early seed investor of Coinbase and partner at Y Combinator.
+1	1526838766	7	I think Gary is just invested in both.
+1	1526837966	5	Link? 
+2	1526838198	3	http://taraxa.io
+3	1526838372	2	I don’t see Gary T’s name anywhere on the website though? 
+4	1526839020	3	I even don’t see his name on the website. But have a look at this tweet for example: https://mobile.twitter.com/garrytan/status/969682254090813440
+4	1526845216	3	Seems I was wrong. He isn't leading it.>So, nothing confirmed, but Pu loves the Nano community, and wants to give back to them in some way.  Where does Garry Tan fit into all of this? “Garry isn’t formally involved yet (we’re still talking) – he’s an old friend and a classmate from Stanford”  Pu wrote in the Discord conversation. Questions about Charlie Lee’s potential involvement in the project arose, and Pu responded by saying he didn’t think Charlie was involved – but he may reach out to him down the road.http://nanopost.org/what-we-know-about-the-nano-fork-taraxa/
+0	1526831203	12	Nano is an amazing project, glad to see this update. 
+0	1526843308	3	Great project. 

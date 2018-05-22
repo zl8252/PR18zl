@@ -1,0 +1,78 @@
+File created at: 1526936901
+Subreddit: btc
+Submission title: This week....
+Submission created utc: 1526893136
+Submission score: 178
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526896872	44	I'm clueless as to the swimming reference...
+1	1526897320	64	buncha coreys attacking coingeek attendees because some of them were women wearing bikinis on a boat at a party outside of the conference
+2	1526910128	34	It makes it even worse that this wasn’t even an afterparty. It was Calvin Ayers’ birthday celebration and unrelated to the conference! The people who are there from the Bitcoin Cash community are there cos they’re all mates!
+3	1526915366	13	Exactly. No private parties for like minded people! 
+4	1526926231	3	Envy abounds! 
+2	1526903558	17	My name is Corey and that confused me for a moment.
+3	1526903683	25	Would you like us to call you Cashey from now on? 
+4	1526906797	9	Naw, over here we got Trevors.
+2	1526902884	10	uh, I still can't see a reason to attack. People doing people stuff, what's the problem here?
+3	1526903787	13	yeah thats why the meme is making fun of them
+3	1526905818	8	We are dealing with dogmatic cult followers here ...
+3	1526903752	13	You can't let people do people stuff! What a disgrace, apaling I must say! /s
+3	1526908862	2	Had the same thing with our bananos women’s beauty contest. We originally had a dress, swimsuit, and talent competition. Had to remove both dress and swimsuit because four people in the whole community lost their goddam minds about it.So instead we had no dress rules, which made everyone nervous but ended up being ok.The men’s beauty contest is gonna be interesting. A bunch of dudes promising to outgross each other, but be within the rules.
+4	1526914579	8	You should never cater to the minority, no matter how outspoken. It's not a smart thing to do. The effects might not be immediate but they will show themselves eventually, and it will be bad.
+3	1526904142	-34	The scammy image that BCH has to the wider world, and the general reaction of people that this is not a serious technical project in contrast to BTC/ETH etc. TBH the problem isn't the bikinis but the association with proven con-men. It really is not a good look for BCH devs and investors. 
+4	1526905014	29	The wider world doesn’t see it as a scam. The wider world sees bitcoin whining about the cash fork. Disclaimer: I don’t hold bitcoin or bitcoin cash.I see one that functions as a currency, and one that does not.
+5	1526906366	6	now you do.well depending on my fund situation.30 bits u/tippr
+6	1526906405	2	u/MartinD738, you've received `0.00003 BCH ($0.037692 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+7	1526927263	1	Dude hes going to be rich400 bits u/tippr
+8	1526927283	1	u/tippr, you've received `0.0004 BCH ($0.492292 USD)`!***[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^r/tippr  ^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+5	1526906702	-23	>The wider world doesn’t see it as a scam. What he's saying is that the public image associated with BCH is dodgy, and you can't deny that. Calvin Ayre was on the FBI or CIA top most wanted list for money laundering. Roger has a criminal record. CSW's own mother called him a liar, though in a milder way. These are facts, and people see them.>The wider world sees bitcoin whining about the cash fork.There is no whining about the cash fork. But there **is** push back on the attempts to misappropriate the Bitcoin name, and the scammy attempts by bitcoin,com to confuse people. (The most obvious ones have been removed, though it still makes various false claims.) Nobody would care about the cash fork were it not for that, much like no one cares about the other ~50 forks.>I see one that functions as a currency, and one that does not.You will need to get your eyes checked. Both can be easily used as currency now. Neither network is under strain and can be used with minimal cost. In the mean time, there is so much development around LN it's bloody hard to keep up with it, both technical and theoretical. All these advances will address the congested network once adoption picks up.
+6	1526908777	17	> misappropriate Implies ownership.  That is completely wrong.  Most of the people in this subreddit and involved in BCH were also involved in BTC in years past.  They DO have as much right to the non-owned name as anyone.Yes, bitcoin.com is misleading when they drop the "cash" portion of the name during marketing attempts.  The distinction should be clear.  "Bitcoin Cash maintains the ideals of Bitcoin" is much clearer than "Selling Bitcoin (BCH)".
+6	1526910698	8	anti money laundering is anti crypto and everything about Roger's criminal record just makes him look like an anarchist bad ass.   In what bizarro world would a "free money" person consider these things to be negatives?
+6	1526909645	4	NO whining?  Ahhahahahahahhahhahhhahhahhhahahahhahhahahhahahhahahhahahahahahahaahhaha ^hahahaah^^ahahahah^^^ahahahahahaa
+7	1526912744	-18	You can laugh as much as you want. If you drop the attacks on Bitcoin, you can be guaranteed nobody would give a shit about BCH. Because really not Bitcoin supporter gives a shit. And that is something Roger know very well - Without the confusion around the name, Bitcoin Cash would quickly fade into irrelevance, much like Bitcoin Gold and the [other 43 forks](https://blog.bitmex.com/44-bitcoin-fork-coins/). That's the only reason why this community is so attached to the name, there's absolutely no other reason. And so long as this continues, we'll be pushing back.
+8	1526914079	11	I am laughing because you said there has be 0 whining. Bitcoin cash is a fork of bitcoin going all the way back to genesis. It is one of the many versions of bitcoin. You need to get over it. But no worries! You have lightning now. So no point in wasting your time here. We have BCH you have LN. Lets both enjoy our easy to use, fast, safe, on chain crypto systems. 
+9	1526920929	-5	Lol Do you know what's whining? "It's not BCash, it's Bitcoin Cash!!!" (Flipping people)Again, what you call whining is just Bitcoin's immune system getting activated and pushing back. And do you know why all the down votes? Because you, as a community, know that without the name, you have nothing. Nobody gives a shit about yet altcoin, so you need that name to stay relevant.But you're right, you have big blocks and Bitcoin has a growing LN. Have fun.
+8	1526926728	1	What's clear is you're afraid you made a mistake dumping all your free BCH. You impulsively made a choice thinking you knew better but now we're at 1300, well above it's starting price and you're freaking out. The smart ones at minimum stayed neutral and held both equally. 
+6	1526925167	1	There are as many as 100k new customers per week signing up to Bitstamp alone. Coinbase have millions of users. /r/bitcoin has 835k users. Outside of a relatively small group (compared to the entirety of users) everyone else is blissfully unaware of the BTC/BCH showdown. So the case is going to be settled with actual use, not propaganda. In the end miners are going to mine what is most profitable and no amount of whining [insert special interest group] will change that.
+6	1526928436	1	Right.  You don't care at ALL that BCH took 15% of the hash power.
+6	1526932308	1	If you were around before December of 2017 then you would already know that the community has been fine with Rogers "criminal" record for the past seven years. It is only since the split suddenly this is an issue. 
+6	1526936497	1	Promises, promises... Fool me once.... P.S. Core stole the name for their unreliable experiment.
+4	1526909794	3	You are totally missing the point. That is not the issue at all. The issue is on every thread people assumed the women were paid models and openly called prostitutes at worst and at best said they had no right to be there because... what? 
+5	1526911376	-10	I'm not missing the point at all. The people assuming that conference attendees were paid/prostitutes were wrong and out of order, I agree. But why do you think they assumed that? Do you think it might be because the man who is hosting the party is usually pictured with paid models and prostitutes?
+6	1526912909	6	Usually? Often? Sometimes?  The assumptions keep coming. But by all means continue to discount people and make conclusions based on your preconceptions if it makes you happy. 
+7	1526913956	-9	Trust me pal. They aint preconceptions. 
+8	1526914994	6	Im not your pal buddy. I don't trust you. Nor do I trust anyone that starts a sentence with "Trust me". You just said he USUALLY pictured with prostitutes/paid models. Which is also not mathmatically correct. * 1.   He is free to do what he wants with his money. * 2.   A woman is also free to make money however she wants and it is not up to you to decide what is appropriate or not for her to do with her own body.* 3.  How do you know they (other than the women in branded promotional clothing) were paid models/prostitutes and not club owners / business people? Crypto Enthusiasts? Did you ask them? Are they your friends? * 4.  If you look at his timeline https://twitter.com/CalvinAyre/media A very small percentage of his media is with any women who are scantily clad. But as we already established they are free to make their own choices. At any rate you are defending the people that said people I know personally must be paid because women don't deserve/belong to be in crypto. 
+9	1526914999	3	Hi not your pal buddy, I'm Dad!
+9	1526926847	1	Rekt
+9	1526916706	-2	Chill out fella. I've got nothing against prostitutes and I haven't defended anyone. I also have several PhDs in mathematics, so I don't think you want to challenge me on the subject of mathematical correctness. 
+4	1526921548	-1	You have no say in anything you pedophile scumbag. You need to be locked up. 
+5	1526924768	1	Steady on fella. Bit rude. 
+5	1526922333	1	What what now?
+6	1526923214	1	oh what we can't just throw wild accusations? You calling me and everyone here a scammer, aren't you? 
+7	1526923445	1	I would prefer if no one made wild accusations, even against trolls. 
+2	1526907896	10	Wasn't the after party at Consensus 2018 crazier. Business Insider did a write up and it was like straight out of Wolf of Wall Street
+3	1526919500	11	http://www.businessinsider.com/consensus-crowd-celebrates-cryptocurrency-at-after-party-with-drugs-and-naked-dancers-2018-5?op=1> Onstage, two naked women simulate fellatio as the crowd roars in approval. At one point, one of the women eats something seemingly designed to look like feces from the other's rear. A half-naked man wearing an enormous bear head gyrates against a woman whose breasts are ensconced in two clear plastic Madonna-style triangles.WOW. And these core trolls were trying to shame the BCH community for wearing bikinis on a hot day.Edit: btw do whatever the hell you want with your parties, idc myself.
+4	1526921803	2	Damn. That sounds like a fucking party. I wanna be part of that one. 
+3	1526913392	5	Yeah there was strictly no pictures at that party though
+3	1526934834	2	Always accuse others of doing what you're doing 10x more. - that's the Core motto basically.
+2	1526910007	4	Pics or it didn't happen.
+3	1526915388	1	This?  https://twitter.com/alansilbert/status/998031273846329345
+4	1526915775	1	I'll be in my bunk.
+1	1526915332	2	https://twitter.com/alansilbert/status/998031273846329345
+0	1526913815	9	For reference: https://imgur.com/a/WBgoxwU
+1	1526915292	11	No the offending picture is this one:https://twitter.com/alansilbert/status/998031273846329345
+2	1526919951	7	Somebody *please* tweet him this!! 😂http://www.businessinsider.com/consensus-crowd-celebrates-cryptocurrency-at-after-party-with-drugs-and-naked-dancers-2018-5?op=1> Onstage, two naked women simulate fellatio as the crowd roars in approval. At one point, one of the women eats something seemingly designed to look like feces from the other's rear. A half-naked man wearing an enormous bear head gyrates against a woman whose breasts are ensconced in two clear plastic Madonna-style triangles.
+3	1526920099	2	Done!
+3	1526935822	1	Got McAfee written all over it
+1	1526913829	0	^(Hi, I'm a bot for linking direct images of albums with only 1 image)**https://i.imgur.com/RaFvCjF.jpg**^^[Source](https://github.com/AUTplayed/imguralbumbot) ^^| ^^[Why?](https://github.com/AUTplayed/imguralbumbot/blob/master/README.md) ^^| ^^[Creator](https://np.reddit.com/user/AUTplayed/) ^^| ^^[ignoreme](https://np.reddit.com/message/compose/?to=imguralbumbot&subject=ignoreme&message=ignoreme) ^^| ^^[deletthis](https://np.reddit.com/message/compose/?to=imguralbumbot&subject=delet%20this&message=delet%20this%20dzc19yf) 
+0	1526916408	3	This is some legit comedy. I'd tip but I don't have it setup. Do you have a blockpress account?
+1	1526917736	2	I had been meaning to but put it off. I do now though!https://www.blockpress.com/qzgvzyczaq6nj8he0269680xcpfljyvy5vkn4h0p36I also have memo.cash https://memo.cash/profile/1DRxjisxYxUTnEB1M6Hzu1yZ5VF4fPEiDGThanks for motivating me to finally sign up.
+2	1526918036	2	Dank, post that pic on block press. It should get much lolz
+0	1526904118	7	Another shitpost?
+1	1526915307	2	You must be new
+1	1526913672	0	Another meme. There goes the neighborhood. Next time I'll wanna share ideas I'll go to self\-hosted BCH fora.
+0	1526928689	1	Not sure about that.... Haha 
+0	1526928902	1	Every time i go away from the cryptosphere, and come back a month later, shit’s even more outrageous than before. And every time i think it has to be satire, but it ain’t.
+0	1526907825	0	hahaha so true
+0	1526909337	-29	[removed]
+1	1526913075	3	Nah

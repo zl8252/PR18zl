@@ -1,0 +1,58 @@
+File created at: 1526848595
+Subreddit: btc
+Submission title: A matter of time folks 😉
+Submission created utc: 1526817341
+Submission score: 98
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526820070	16	If the price of btc ever goes below that of bch, this will happen right away.
+1	1526826480	3	Not necessarily.It’s a ratio of price/difficulty that determines profit parity between BCH and BTC.As a matter of fact, it’s almost a weekly occurrence that BcH becomes more profitable to mine than Bitcoin...
+2	1526833700	3	That's misleading, because the only reason that profitability ever swings back to BTC is because of the price being higher. BTC has no inherent mechanism to avoid becoming a zombie coin should price parity flip and BTC remain largely unmined for a significant amount of time.
+3	1526846825	2	>That's misleading, because the only reason that profitability ever swings back to BTC is because of the price being higher. BTC has no inherent mechanism to avoid becoming a zombie coin should price parity flip.Clueless. You describe the very concept of a fee market that will always keep BTC profitable. The slower the chain gets the higher the fees, then the difficulty adjusts and its back to normal. The spammers finally realized that because of this they can't make a "death chain spiral" (after the huge spam attack towards the end of the 20k usd rally that was meant to instigate the "flippening") that you idiots in r/btc used to predict every other day and gave up. Fees have been sub 1USD, generally under 10c since. Bcash believers literally have been brainwashed and manipulated.
+3	1526836784	1	Since both BTC and BCH have lIquidity on exchanges; are accepted at major pools, and share he same mining algo, then their profit parity will converge to zero since difficulty compensates for any price fluctuation 
+4	1526842503	1	> difficulty compensates for any price fluctuationsWhat? Difficulty algo doesn't give two shits about price.
+5	1526846325	1	Not what I meant.Difficulty varies inversely between competing coins of the same algo as miners switch between them based on their profitability 
+2	1526827878	-10	>  more profitable to mine than Bitcoin..."Bitcoin Core".... we have to be precise 🧐
+0	1526825666	12	Ty for shitpost.    
+0	1526841496	2	[it's already happening](https://www.reddit.com/r/btc/comments/8kudtk/added_a_new_140_ths_to_help_bitcoin_cashs/)
+0	1526845107	2	My guess is most of them are mining BTC to sell it for bch and they'll continue to do so until bch is worth more and then just mine that.
+0	1526835968	3	Few days ago I listened an interview with Roger on official podcast. That dude is not so bad.... 
+0	1526825695	4	[Core Trolls right now...](https://ih0.redbubble.net/image.279609144.1050/flat,800x800,070,f.u1.jpg)
+1	1526829845	-6	[More like... ](https://i.giphy.com/media/xjve2iD3I5Xpe/giphy.webp)
+2	1526838410	8	Nervous laughter perhaps.You wouldn't fight us so hard if you weren't afraid.
+3	1526846525	1	Yeah, if certain trolls wouldn't be afraid if BCH, they would just ignore us.
+0	1526828426	5	\(◕◡◕\)
+0	1526827145	3	hahahaa
+0	1526844667	1	Matter of time...for? Sounds like a hit it and quit it, then back with the one that cooked and washed the dishes
+0	1526845183	1	I've already switched from mining Core to Bitcoin Cash. 
+0	1526846234	1	The moment you find out that this subreddit is r/BTC
+0	1526846385	0	This is delusional. The wider community wouldn't switch to something so centralized 
+0	1526847757	1	why bro why?
+0	1526822271	-16	This sub is called BTC. Oh, the irony
+1	1526822300	15	Redditor /u/Southofsouth has low karma in this subreddit.
+2	1526822305	-2	Please remember not to upvote or downvote comments based on the user's karma value in any particular subreddit. Downvotes should only be used if the comment is something completely off-topic, and even if you disagree with the comment (or dislike the user who wrote it), please abide by [reddiquette](https://www.reddit.com/wiki/reddiquette) the best you possibly can.Thanks for being an awesome redditor, and showing respect to the others on this site.
+3	1526839404	6	Bad bot
+3	1526846403	1	I would create an anti-anti echochamberbot but, the universe can't even calculate that amount of irony.
+1	1526823684	-1	/u/cryptochecker
+2	1526823709	1	Of [u/Southofsouth](https://www.reddit.com/u/Southofsouth)'s last **72** posts and **1000** comments, I found **5** posts and **354** comments in cryptocurrency-related subreddits. Average sentiment (in the interval -1 to +1, with -1 **most negative** and +1 **most positive**) and karma counts are shown for each subreddit:Subreddit|No. of comments|Avg. comment sentiment|Total comment karma|No. of posts|Avg. post sentiment|Total post karma:--|:--|:--|:--|:--|:--|:--r/Tronix|2|0.15|14|0|0.0|0r/NEO|161|0.04|700|1|0.0|12r/factom|1|0.0|1|0|0.0|0r/CryptoMarkets|6|0.08|42|0|0.0|0r/Bitcoin|3|0.17|5|1|0.31 **(quite positive)**|71r/EnjinCoin|1|0.0|4|0|0.0|0r/CryptoCurrency|146|-0.0|519|1|0.0|1r/ethereum|2|0.0|27|0|0.0|0r/ethtrader|3|0.04|8|0|0.0|0r/btc|9|0.02|-41|0|0.0|0r/icocrypto|1|0.0|0|0|0.0|0r/omise_go|1|0.0|3|0|0.0|0r/Crypto_Currency_News|3|0.0|3|0|0.0|0r/DeepBrainChain|3|0.0|6|0|0.0|0r/Neotrader|12|0.13|46|2|0.0|30***^(Bleep, bloop, I'm a bot trying to help inform cryptocurrency discussion on Reddit.) ^| [^About](https://www.reddit.com/user/cryptochecker/comments/7q3jum/faq_about_ucryptochecker/) ^| [^Feedback](https://www.reddit.com/message/compose?to=jamcowl&subject=cryptochecker%20bot) 
+0	1526824044	-21	Average Bcash block size has dropped to 40kb. Nobody is using Bcash.Bcash is trash. Everybody knows that.
+1	1526824140	16	you win
+1	1526825494	3	/u/ian_bondz said:> Average Bcash block size has dropped to 40kb. Nobody is using Bcash.[Bcash Bcash...](https://i.redd.it/n3bb9zgywmk01.jpg)
+2	1526829533	4	Nice meme in this post. 
+2	1526833659	-1	same thing could be said of the people here spewing bcore and bitcoin core constantly...how is this any different? 
+2	1526830028	-11	It's never too late to get rid of your Bcash bags.Bcash is on the verge of collapse.
+3	1526838449	7	Go all in short then.
+3	1526844137	2	What makes you think so? Seems the ecosystem gets stronger every month. Really really curious if you have any reason at all for this opinion.
+0	1526819873	-34	Bch is a shitcoin.
+1	1526823048	11	Because reasons?
+1	1526819980	17	Will be fine sweetheart 😘 ... But please don't forget to take your pills.
+2	1526822036	-20	Hey there old fart, I see you are still trying to stay in touch with the youth. Good for you.
+3	1526823708	4	😘
+4	1526824994	-5	🏥
+1	1526831383	3	You may go back to r/bitcoin now. 
+1	1526845160	0	The more you troll, the more we grow as a community.
+2	1526845230	1	Just because I think bch is a shit I'm a troll? You bch fanboys are all stupid as fuck.
+3	1526845657	1	You've come to bash on Bitcoin Cash without backing up your claim its a "shit coin." You're only making yourself look bad lol. 
+4	1526845908	1	Bch still remains a shitcoin
+1	1526820003	-1	/u/cryptochecker
+2	1526820011	-1	Of [u/astroandrea20](https://www.reddit.com/u/astroandrea20)'s last **2** posts and **29** comments, I found **2** posts and **29** comments in cryptocurrency-related subreddits. Average sentiment (in the interval -1 to +1, with -1 **most negative** and +1 **most positive**) and karma counts are shown for each subreddit:Subreddit|No. of comments|Avg. comment sentiment|Total comment karma|No. of posts|Avg. post sentiment|Total post karma:--|:--|:--|:--|:--|:--|:--r/CryptoCurrency|2|-0.2|2|1|0.0|1r/ethereum|1|0.0|1|1|0.0|1r/Monero|4|0.19|4|0|0.0|0r/Bitcoin|12|-0.06|21|0|0.0|0r/btc|10|0.02|-37|0|0.0|0***^(Bleep, bloop, I'm a bot trying to help inform cryptocurrency discussion on Reddit.) ^| [^About](https://www.reddit.com/user/cryptochecker/comments/7q3jum/faq_about_ucryptochecker/) ^| [^Feedback](https://www.reddit.com/message/compose?to=jamcowl&subject=cryptochecker%20bot) 

@@ -1,0 +1,21 @@
+File created at: 1526936904
+Subreddit: btc
+Submission title: You can't regulate social media if it's decentralized like Memo and Blockpress.
+Submission created utc: 1526851456
+Submission score: 118
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526854382	7	wow, no shit?
+0	1526855590	20	Memo & Blockpress aren't decentralized, until Memo users can see & respond to Blockpress users, and vice versa.There needs to be multiple websites & UIs that all communicate with each other on the BCH blockchain.  Sort of like all the BitTorrent clients sharing files between each other.
+1	1526862159	15	It sounds like there needs to be an op_code message standardization.
+1	1526896178	7	Well it is Decentralised. The UI is not.However the protocol *is* known, meaning you can post to memo without using memo...Sure it'd be nicer to have a downloadable app - but one step at a time.
+1	1526871676	6	At least nothing *prevents* other parties from mimicking and expanding on the Memo and BP protocols. They're open.
+1	1526872530	7	This doesn't make sense to me. You could argue that memo is not decentralized until there are many competing sites that implement the memo protocol, and that blockpress isn't decentralized until there are many sites that implement the blockpress protocol, but why would the two protocols being able to interact with one another be a deciding factor on whether they are decentralized?
+2	1526874249	-4	Because of the power of network effects. If memo.cash gains a lot of users it could decide to censor messages from certain users (they would simply not show them even thought they are in the blockchain) and people would have no choice but to keep using it.
+3	1526875159	8	That's exactly the point I'm making. For it to become decentralized, you need \*more implementations\* of that protocol. You \*don't specifically need\* people using other protocols to switch to yours, do you?
+4	1526915148	3	Yes, I misunderstood your comment. I agree.
+1	1526874298	2	Such schelling points need a bit of diversification before they settle... It is early times, we need to have a bit of patience :-)
+1	1526874605	3	This guy has some ideas on how to improve it, still midway through watching:https://youtu.be/WARI1Bt3BJY
+2	1526896266	3	Such a bullshit. Don’t waste your time clicking, the man does not understand what he is talking about.
+0	1526901195	2	The sites are still vulnerable. The block chain not so much.
+0	1526909669	1	It's nice that spam is somewhat regulated though, through the small fee.    No bad/wrong censorship like with twitter. 

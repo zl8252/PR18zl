@@ -1,0 +1,89 @@
+File created at: 1526848587
+Subreddit: Bitcoin
+Submission title: Just a reminder that Genesis Mining is a total scam. Nobody should 'invest' with them.
+Submission created utc: 1526814030
+Submission score: 255
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526818343	15	You will likely have fewer bitcoins. Genesis mining is not profitable. They are marketing pros but not mining professionals. They relocate a huge portion of your money towards marketing(remember the billboards). You actually make more BTC with them if you find others to buy a contract. Genesis is a service that the world doesn't need.For example:The first day of zcash mining I did mine with a homemade rig 160 h/s 0.015 zcash,Genesis-mining did mine me 0.0075 zcash with the same hash rate.They can't compete with amateurs... If you mine with your own card you can still sell the card later on or play video games.
+1	1526838488	1	Not to defend them, but maybe they are holding the electricity costs back from the payout. If you mine with your own rig you should subtract the electricity cost to make an effective comparison
+2	1526839652	1	The side-costs arent a matter in a direct hash/reward comparison. Otherwise, you can add the people they have to hire, add the facility cost, marketing... and you will end up with the same result... they are not profitable in the first place.
+0	1526814129	55	All cloud mining is bs.
+1	1526834305	1	Can confirm. Source: Lost a bunch of money cloud-mining. Lesson: Just buy your btc outright.
+0	1526814761	27	Cloud mining fails the howey test.
+1	1526845775	1	Interesting. Hopefully there will be a class action one day and Greasy Marco will end up doing favors in a German prison. 
+1	1526847454	1	What big mommy government says is not the reason cloud mining sucks
+0	1526827241	23	I invest 4000 USD genesis minig on \*\*a monero contract.\*\*They use ASICS machine to mine it which they didnt comment on aggrement of contract.Monero hardforked and became ASIC\-resistant.They change our coin Monero to Electroneum without asking or permission. Now I am getting only 1/14 of my actual payment.Plus \+ They did not pay 40 day monero payment on past.They don't answer tickets.So 4000 dollar\(5000 hash monero\) investment turned to 340 dollar\(2 year electroneum\).I can proof my words but nevermind Just don't invest in this scam company.they don't payback.they don't fix issue.they don't pay looses though.they don't answer tickets.genesis subreddit moderator banned me for this issue.
+1	1526845457	1	> genesis subreddit moderator banned me for this issue.Not surprised at all.
+1	1526842341	1	Same thing happened to me, fucking crooks should be dragged through the streets. Anyone have an address for their offices?
+2	1526842824	1	i had no idea Genesis Minig was going so bad. they are like the most rated for cloud mining in every search that you make. how come all this uncontent users?
+3	1526843137	1	Paid reviews, affiliate shills and gamed rankings. 
+1	1526838370	1	Why the fuck did you invest 4k before researching. Just buy 4k of crypto and hold.
+2	1526841574	1	my friend was getting payment now we both get nothing.also i invest 4k more crpto and hodl.
+0	1526815052	21	Genesis is bullshit and should be shut down. 
+1	1526835265	1	Or people should do their own research and realize buying the coins will be more efficient. 
+0	1526817618	16	This post should be a TOP upvoted post. He is so right.
+0	1526817687	24	This has been said multiple times, but is worth repeating: cloud mining is a scam. Anything promising consistent returns is a scam. Anything promising returns *period* is a scam. Don't give strangers on the internet your money or crypto.If you want to profit off crypto, the safest method is just to buy and hodl. Anything else is a gamble and anyone who says differently is selling something.
+1	1526829666	4	>If you want to profit off crypto, the safest method is just to buy and hodl. Anything else is a gamble and anyone who says differently is selling something.How about using it to trade goods and services?
+2	1526839712	1	Or charging bitcoin for your own goods and services.
+1	1526821410	6	"If you want to profit off crypto, the safest method is just to buy and hodl. Anything else is a gamble...""Anything promising returns period is a scam."You just contradicted yourself. Holding is a gamble too.
+2	1526823682	5	he said buy and hodl is the safest method to profit in his opinion. he did not claim that there is no risks involved. 
+3	1526826340	2	He said all other methods are a gamble. Holding is a gamble too.
+4	1526830824	1	Let's not split hairs over wording... we all know what he meant. Anything involving cryptos as an investment is gambling. Only the safest lowest return conventional investments would be considered a sure thing.
+2	1526825105	2	No one can promise you returns on Bitcoin, because no one controls Bitcoin. It's an asset that has particular attributes, that's all.
+1	1526825501	1	Thanks for the reminder! We heard about people who know nothing about cryptocurrency, but they were being convinced by some frauds to invest in cloud mining and promised a 100&#37; return. Make sure your family or friends knows about such scams
+1	1526842502	1	since you have 0 profit if you never sell... no
+0	1526816499	5	Thanks for this, my friend went to a course yesterday and they recommended cloud mining and sent him a link that has a referral code included, been looking into it and came to same conclusion, they pay in usd that they convert to btc at the time and send btc, so your not really earning btc. 
+1	1526832180	2	Hopefully they didn’t pay any money for that “course”. Sounds like more scammers 
+0	1526828528	3	As someone who is just getting into crypto and was about to buy bitcoin with genesis, is there somewhere else I should buy it from?
+1	1526832631	3	An actual exchange, perhaps. Or straight P2P at a bitcoin meetup. Do your homework before putting your money into something like cryptocurrency, else you get rekt by some cloud mining ponzi or the like
+2	1526833042	1	I've read a ton  about it but the more I read the more I don't understand. Thanks for the advice!
+3	1526833407	2	It’s definitely a complex subject. I’d recommend poking around here: https://lopp.net/bitcoin.htmlVideos by Andreas Antonopoulos are pretty informative and enjoyable to watch. Some of his material is linked to at the url above. I’d also recommend checking out his channel on YouTube 
+3	1526847704	1	Cloud mining companies start out with good intentions but because there is zero transparency I think it’s hard for them to resist taking money for things they cannot deliver on. Never seen a cloud mining company work out. Just buy from local bitcoins or coinbase
+1	1526834583	1	localbitcoins.com or a reputable exchange.  Coinbase is the easiest.  Make sure you read everything you hit "I agree" on.  Be prepared to authenticate yourself when using an exchange.  This is known as "know your customer(kyc for short)".If you're going to be hodling for a  long time, look at a hardware wallet(Trezor/Ledger Nano), pending the value of your investment.
+2	1526834818	1	Thanks!
+3	1526835556	1	You're welcome.  Stay safe, bookmark the page of the exchange you choose and never navigate to it through a google search.  That's an easy way to get phished.  Enable 2 factor authentication wherever possible, write down the recovery seeds on a piece of paper and put them somewhere safe(but no so safe that you'll forget where you put them).  Do not take pictures of your recovery seeds on your phone, WRITE IT DOWN.  Yes that 50 character string, write it down with nice writing.
+1	1526834835	1	Genesis exchange is fine but be weary of Genesis Mining
+2	1526847750	1	What is Genesis exchange?
+1	1526833100	1	Check the sidebar of this subreddit or just https://www.bitcoin.org/ which has nice tutorials and resources per country on where/how to buy Bitcoin and also how you should store it.The website is not official (there is no such thing for a truly decentralized cryptocurrency, for example the .com domain is owned by a for-profit company which does not support BTC) but it is community-driven, open source, and not seeking to profit from its visitors.
+2	1526833289	2	Thanks! I've looked through the sidebar before but still had trouble.  I'll check out the website
+0	1526818399	13	> It is a clear ponzi. This company's operational costs are obviously in fiat. They rent IT spaces in various countries, buy servers and graphics cards and netwoking equipment, pay salaries, advertising, travel, etc.None of those points suggest it's a Ponzi. Maybe it's just a bad investment, not a Ponzi?
+1	1526845682	1	It does suggest a ponzi. They are only taking crypto payments, and only paying out in crypto, but their operational costs are in fiat. It is much more likely that they are just redirecting the crypto 'investments' they receive than bothering to convert to fiat to pay electricity bills at their 'secret mining locations'.
+2	1526847110	1	Ponzi would require someone somewhere to generate a profit. But they just sell what they advertise, mining contract with high fees. And if you'd spent a few seconds looking at numbers you'd realize there is no way to gain anything from it.And they do have mining locations. Why bother running something illegal, when enough people throw money at you while you are operating legally.No one would pay them if they advertise with:> Pay us 1 BTC we will give you 0.5 BTC.But in simple terms, thats what they are offering.
+0	1526829428	2	I started a genesis mining account in July and have received back my initial contract amount and still getting payouts. They’re small but they’re coming in. It’s more about timing.... if u got in at December, then yea... tough for you. If u got in during last summer’s levels, you should be good. 
+1	1526830160	2	How does that compare to just buying the coins?
+2	1526832750	2	Poorly. They’re getting duped and they don’t realize it because of this perception of gainz by reaching their initial ROI. That’s why genesis mining still exists. Stupid people keep giving them money. Plenty of examples in this thread alone
+1	1526845416	1	You haven't gotten your initial crypto payment back. You are getting fractions back, the price has just gone up. 
+0	1526834620	1	And people fall for this geez
+0	1526835115	1	Yep, cloud mining is a scam. 
+0	1526822995	3	I've invested in Genesis for almost a year and I can't argue against this point.
+0	1526820545	3	I made a small order at Genesis Mining in December 2016. Payouts still coming regularly. I didn't made back in bitcoin, but in fiat in profit. Wouldn't say it a "total" scam.
+1	1526845561	1	> I didn't made back in bitcoin, but in fiat in profit.Do you realise how much more you would have made if you had just kept your bitcoin? You only made 'profit' on the conversion rate. Genesis actually held you back from doing this, because you never got your initial crypto investment back and never will. 
+1	1526826187	2	Yeah, it's not as scam, just a very bad investment.
+0	1526825671	2	They still invest in them hoping for bigger fools. Just like everybody knows altcoins are scam but nobody cares. We get in hoping for some pump, raking profit 
+0	1526822109	3	I signed up to it a year ago and i made 3 times my 80€
+1	1526823294	10	Simply buying btc and you would have made 5 times. 
+2	1526830413	-2	i know, i'm just saying
+1	1526845488	1	You received back a fraction of your original crypto investment. The price just went up. 
+2	1526845828	1	i invested fiat
+3	1526846418	1	As far as I'm aware, they only take crypto as payment. 
+0	1526835689	1	>There isn't a single 'investor' who has ever received a break\-even ROI. This is a fact. Everybody who has ever given them money has ended up with less than they gave.I'm the one who has breaken even \(in BTC\) already and still receiving payouts every single day with life time cloud mining contract bought last year. Buying those contracts now \(if you can\) is surely non\-profitable in terms of BTC or even fiat, just validate that early investors always win bigger.>It is a clear ponzi.Please read the definition of a 'ponzi'. You're like those who refer Bitcoin as a ponzi while not understanding what even a ponzi is.>This company's operational costs are obviously in fiat. They rent IT spaces in various countries, buy servers and graphics cards and netwoking equipment, pay salaries, advertising, travel, etc.which company isn't?>So they're taking all your money in bitcoin and then what? Converting it to Fiat so that they can mine bitcoin again?Someone has to do it \(mine bitcoin\) eventually, otherwise no one will be mining BTC but all be hodling, making the mining difficulty drop and then mining will be more profitable than hodling again. It's an auto\-adjust open transparent dynamic market. People invest into things that they think that are profitable, with risk.>Marco Streng is a liar and a fraud.\[Insert any businessman's name here\] is a liar and a fraud.Perhaps cloud mining contract is less profitable than hodling bitcoin now, but you really can't say anything that is not the most profitable a scam or a fraud. I really don't understand why you hate it so much.
+1	1526839916	1	You are right about the - any business man is a liar And a fraud. If you wear a suit, you are a sellout. End of story
+2	1526842939	1	Totally agree. Have worked on Wall Street as in intern...100% of those suits could give two shits about anything but money. They’re just salespeople that add zero value to anyone but themselves. This entire industry has tried to monopolize the concept of investing. Truly want to invest? Invest in yourself, your skills or your own property. Don’t give your money to someone else. 
+3	1526844022	1	Spot on mate !!!
+1	1526845997	1	You haven't received your initial crypto amount back. The price just went up. You'd have been better off holding it. It's likely all they did is hold it for you. Hence a Ponzi. 
+0	1526832308	1	I have invested something around USD200(in fiat) in them sometime last year. If the coins they have sent to my wallet are being converted to their fiat value at the time of transaction, I have already gotten that USD200 back. And I'm still receiving trickles every now and then as I haven't invested anything more. However, if I just have spent that USD200 back then to directly buy and hold coins, at the moment, the coins would be worth more(in fiat value). But since what I got is a "lifetime" contract, I'll probably get some more trickles until maybe 2 years more, or at least until the time when BTC mining rewards half. So, I might actually end up getting a bit more BTC than what the USD200 may have bought back then. Just a tiny bit more, probably.
+1	1526845374	1	You don't invest in Fiat, You can only give them crypto. Have you gotten back your initial crypto payment? No you haven't. Don't feel bad. Nobody does. 
+0	1526833221	1	Investing in cloud mining is merely being a sucker, blinded by your own greed. Just think about it. Someone has a cash-printing machine. In what world is it more profitable for them to lease it out and take a small lease fee than it is to run the same machine and keep 100% of the cash?
+0	1526834381	1	Genesis is the most legit cloudminer you can find. But personally I try to invest in BTC and ETH. Prices are still so low, I don't want to miss this. 
+0	1526836329	1	I must be the first one to make 200% profit..
+0	1526836947	1	So... i will be the 1st to roi... soon very soon
+0	1526839426	1	No one should invest in any of these mining contract companies lol
+0	1526845286	1	Ive been with genesis mining for a year and a half. Not a single payment has been unaccounted for. Of course it’s less profitable than mining yourself, you pay for them to do everything! There have been times where the profitability hasn’t matched up, but it’s far exceeded my expectations from cloud mining. Just playing devils advocate to OPs opinion. 
+1	1526846391	1	You won't break even on your crypto investment. i.e. If you invested 1 btc you won't have received 1 btc back yet. And you never will. 
+0	1526845852	1	Many people said, that cloud mining is a scam. Anything promising consistent returns is a scam. All times the price in crypto is change and no one don't can not promise the stabile percent.If you want to profit from crypto, is only one method: buy new token in ICO and hold. Now i buy this token https://syntheticsai.com/I think that this coin is for future and price was be more then 5 dollar after ICO
+0	1526846523	1	Cloud mining is not worth it, almost every time you would have more bitcoin of you had just used your capital to buy bitcoin directly than mine. That being said, genesis mining is probably one of the most legit cloud mining companies out there... At least they really have a mine and mining equipment, which a lot of cloud mining website / companies don't have. Still, given the choice, DON'T bother mining 
+0	1526847349	1	Yup. They locked up my buddy’s alt coin (a very small amount) after he paid them 0.5 btc to mine it. Told him not to in the first place but I guess I shouldn’t be shocked that after paying in what is now worth 4k, they won’t release $100 to him. Total scam. Stay far away.
+0	1526848219	1	It was shilled by the same people that shilled bitconnect. (Cryptonick, Ryan Hildreth et al), as far as I'm aware it operates on a similar system of referreral based bonuses and so is just another MLM ponzi scheme. There's probably not even any mining actually happening.
+0	1526848570	1	I bought genesis hashpower with my bank card.. so far I’ve been happy with the returns.. 
+0	1526819290	1	Oh so my 401k is not safe with genesis?

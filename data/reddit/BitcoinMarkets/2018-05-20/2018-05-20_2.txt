@@ -1,0 +1,9 @@
+File created at: 1526848619
+Subreddit: BitcoinMarkets
+Submission title: Open source bittrex/binance bots
+Submission created utc: 1526844854
+Submission score: 5
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526847774	1	There are plenty, but all the open source ones do not make any money. Just google "binance trading bot github" and you'll find tons of links.
+1	1526848539	1	just curious, aside from the trading strategy itself, what would be the difference (in your opinion) between ones that are open source, and ones that make money? just speed?

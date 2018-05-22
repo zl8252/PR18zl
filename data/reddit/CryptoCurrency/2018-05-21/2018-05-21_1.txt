@@ -1,0 +1,177 @@
+File created at: 1526936914
+Subreddit: CryptoCurrency
+Submission title: Yelp CEO seen using BAT's Brave browser on last night's 60 Minutes (CBS) special about Google
+Submission created utc: 1526897765
+Submission score: 496
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526915729	66	More adoption and popularity for Brave, it's growing faster than expected.
+1	1526930153	13	I genuinely tried using Brave and I understand it's early development but it didn't run well for me at all
+2	1526930250	3	It worked well during my tests.What were you trying to do with it?
+3	1526930412	4	It felt really sluggish and slow for general browsing, I'm willing to give it another shot
+4	1526931746	1	It really shouldn't feel that way. I have it as my second browser and it's faster than chrome and ff for me. Not using it as main though, I need the extensions I know and use every day on chrome, but they're planning to support those in the future.
+5	1526932280	1	What're some extensions you really like? 
+6	1526932779	1	I use a lot of them, for example ublock origins, punycode alert, linkclump, RES, f*ck overlays, gmail checker plus, pushbullet, and a few more. I'm kind of a hoarder with that.
+6	1526934352	1	I agree with boobcopter. Most of my extensions are for blocking websites bad behavior. - ublock origin- popup blocker pro- alertblock- ghostery (blocks tracking cookies)- https everywhere
+4	1526930562	1	well, with tor implemented it can only get slower.
+5	1526932256	2	Why do you bring up tor in this situation? 
+6	1526932849	1	If the slowness he was complaining about was related to latency its relevant 
+7	1526933594	2	This. If tor is being implemented as a natural part of the process, it will slow down. Tor is inherently slower due it structure. 
+8	1526935008	1	Tor tabs will be like Chrome incognito mode - not the standard browsing experience. 
+2	1526930784	2	Some users \(particularly on Windows\) can run into issues with it. I think it will all be fixed with the Brave v1.0 rewrite coming out in several months, though, since it will be front and back\-end Chromium.That said, you should try it on mobile at least too, since \>75&#37; of users are on mobile anyway and things tend to work pretty well there. We don't hear many issues. People love it on Android, especially since they can stream YouTube even with their screen locked. New software is new software, but millions of people using Brave as their daily mobile driver \(2.3 million total active monthly users right now\).
+3	1526936594	1	I'll give that another look as well as I had some slight issues with it on android but can't recall what exactly
+2	1526932050	1	Same to me...and I have to be honest, I use lots of useful extensions on Chrome, and on Brave I didn't understand how to install it.
+2	1526934138	1	I noticed that sometimes it takes a few seconds to start loading a page, but since I'm usually multitasking, that's about the only thing I've noticed and the only issue I ever had with it. Has anyone else noticed this?
+2	1526935708	1	It ran well for me, but there is a bug that prevent google logins from working, when using the confirm from device method. I use google to log into many things, I need it to work. Until then, I'm waiting
+1	1526934128	1	What is brave?
+0	1526903047	77	This is good for bitcoin
+1	1526912272	54	This is better for BAT
+2	1526926659	18	This is great for blockchain.
+3	1526931541	3	Why is brave browser good for blockchain and bitcoin?  I'm not seeing the connection.  I use it and I'm genuinely curious.
+4	1526933104	4	It will be for a lot of people their first time actually using crypto. If the ad system works out well there will also be a lot more money entering the crypto economy. Right now all of the cash entering the space is from investors, people buying drugs, people playing games etc. Currently there isn't any money being deposited into the economy from advertising agencies. If ad companies dump 100's of billions into ad campaigns on the brave browser, you will see billions of dollars enter the crypto market. Some will stay in BAT, but some will also go to other projects. Take me for example. Once BAT starts moving, i will take profit eventually and start investing in other projects. This is also one of the few projects with a working use case. Currently a lot of blockchain projects are speculation. If brave/bat gains more adoption it will add a lot of legitimacy to the space.
+2	1526926854	6	I'm pretty shocked BAT hasn't seen more of a price jump.
+2	1526928858	0	You mean the "private" browser token that doesn't allow you to withdraw coins without giving them your private data and identity? Sounds like a useless token to me. 
+3	1526930041	2	Expand on that please. Genuinely curious.
+4	1526930929	3	David Hay broke it down very well, give it a watch: [https://www.youtube.com/watch?v=Tf8F1wb3JhI&t=221s](https://www.youtube.com/watch?v=Tf8F1wb3JhI&t=221s)
+5	1526936530	1	New software is new software. Right now the only way to exchange your BAT for USD is through a single company, Uphold. Some of the problems he mentions with Uphold (such as the dormancy fee) have been fixed. At the end of the day though how else are you going to exchange your BAT for USD without KYC/AML? In the world we live in today that would be illegal. Not that big of a deal though because there will be more fiat onramps to buy BAT such as Coinbase/GDAX. The problems mentioned in this video are either temporary or have already been fixed. 
+5	1526932743	0	I watched the video in full and that was a very clear analysis. Here, have my upvote!
+3	1526930483	2	You have a very limited understanding of Basic Attention Token. This statement is factually false. The brave browser is literally developed to protect your identity and will even have Tor built into the browser in the next month or so.
+4	1526930752	1	What's the advantage over Firefox in terms of privacy? 
+5	1526931223	-2	Nothing. Earning bat tokens while browsing is useless because of kyc laws you have to enter your private info/ID etc to be able to withdraw tokens. So basically they're forced to track your data. Whole concept is bunk. 
+6	1526934799	1	Customers have rights. Data farms do not.  I am just a casual observer but that seems like the take-away. People don't want to be followed and stalked on line without their consent and have that data and behaviors monetized without being cut in.
+3	1526930460	3	Its call kyc and its because they want to be in compliance with US law. Try harder next time. 
+4	1526931056	-2	Exactly kyc which means the entire concept behind bat tokens as private is meaningless. Try harder.
+5	1526931492	2	Check Eich’s tweets; fiat conversion requires KYC; however they are looking at different verification measures for crypto-to-crypto.
+5	1526932436	-2	They can't track who or what you send them to dipshit. Its only when you want to cash out. Try harder. 
+6	1526933199	-2	Shill those bags harder.
+7	1526933592	0	Must be a salty PRL holder.  Nice deflection though, guess you realized you were wrong. 
+0	1526920531	18	Is Yelp still an extortion scam? It always bothered me how much people still use it. 
+1	1526927209	15	Yep, got a friend that works as an "account manager" there. It's basically cold-calling 30 or so businesses a day and bugging them to pay for Yelp's services. If you don't want to pay, they threaten to let bad reviews rise to the top so the business seems bad. I've even heard of some salespeople threatening to write bad reviews themselves to really hurt the company. It's straight up extortion
+2	1526928106	0	As a business owner \(thankfully not on yelp\), this is really sad to hear... 
+3	1526928455	14	it's also just one random guy's story on reddit, so maybe take it with a grain of salt. 
+4	1526929066	4	Meh, can't disagree with you on that. This is just what I've been told from my friend who works there. Maybe that's just how his team runs things
+5	1526929382	2	I have a buddy who owns a restaurant who basically says Yelp saved his business. He took over a restaurant that had bad reviews and put it under new management and Yelpers started giving him good reviews and things turned around. The place is a huge sucess now and he's got a big Yelp plaque with his rating right behind the counter.  And this is just my one anecdotal story of course, but it's hard for me to imagine Yelp is out there trying to extort everyone when the only person I know closely involed with that has a great experience with them. 
+6	1526932197	1	"Only person" = Sample size of 1
+4	1526929018	5	I've had my business facebook page blasted with fake reviews in the past and can relate to threats like this. Facebook does nothing to fix it. I've learned it's not always better to offer your products or services on third-party websites since you cannot control or sensor the fake or invalid reviews.
+4	1526930340	2	More than 1 at this point
+1	1526922761	1	The problem is there really isn't a great alternative yet that has nearly as many users. Off the top of my head, google reviews is the closest, but it is pretty lacking in the features that I use on yelp (Menu's for nearly every restaurant, is it good for kids, Recommended food to order, etc.). Would love to hear of good alternatives though to try out.
+2	1526926926	5	This 100x.Foursquare died. Google is unreliable. Urbanspoon is hit/miss.
+1	1526930311	1	Yes for the most part
+1	1526926910	-1	I feel like Yelp has gotten a hell of a lot better lately at removing extortion accounts. 
+2	1526935724	1	Extortion accounts? Yelp is the one committing extortion, not sure what you're talking about.
+0	1526927700	5	I wonder if this also resulted in the 5\+ million play store downloads of brave.
+0	1526912169	19	The ONLY thing that has bothered me about Brave is that it is a version of chromium that is incompatible with most extensions. If I get extension support for things like lastpass, RES, MEW, and NEX, I will never look back. 
+1	1526920415	32	>Brave is that it is a version of chromium that is incompatible with most extensions.Good observation. This is because our front\-end is not Chromium, but our backend is! But with Brave v1.0 \(rewrite of the browser that's coming in several months\), it will have a full Chromium front\-end, which means full Chrome extension coverage :\).Our CTO explains:>**Extensions:**  >  >In the current Brave desktop browser, we need to implement extension APIs and make them work with our UI. We’ve added support for various extensions in this way, but it’s a lot of work. In the new method we’ll have full extension API support and we’ll be able to support every Chrome extension. The Chrome extensions are still planned to come from our servers though and not from the Chrome Web Store.So bear with us!In the meantime, you can try to manually install Chrome extensions by following this guide: [https://medium.com/@jonathansampson/testing\-chrome\-extensions\-in\-brave\-8e25d1f7386d](https://medium.com/@jonathansampson/testing-chrome-extensions-in-brave-8e25d1f7386d)
+1	1526912307	20	Extension support is coming.
+2	1526914977	9	I actually just installed RES!I used: https://medium.com/@jonathansampson/testing-chrome-extensions-in-brave-8e25d1f7386dNow I just need Grammarly, metacert, and NEX.
+3	1526930200	1	I need session buddy :s
+1	1526918034	2	> lastpassI'd start using KeePassX instead if I were you, since it's not a web-service like Lastpass is.
+2	1526918558	3	I actually enjoy that about LastPass. Being able to install on any device and log in from anywhere is insanely useful. I do, however, have a backup of my passwords on an encrypted drive just in case LastPass ever bites the big one.I am also a strong believer in 2FA and use it on any site available. I started using LastPass to randomize my passwords and prevent being hacked after my Yahoo account password was hacked many years ago during a data breach. I can't wait until we have integration for a decentralized IDV system that can use my biometrics as an encrypted password. Then I can finally say goodbye to all of the hoops I must jump through to pretend I have security. 
+3	1526927330	5	Biometrics are a really bad way to store a password. Can be hacked rather easy and once compromised you can not change your password/biometrics. But there needs to be a way to improve current password handling.   
+3	1526919746	2	Hmm, having an encrypted drive of my passwords sounds like something I should do. But yeah I do the same thing, since 2 of my social media accounts were both hacked recently because it shared a password with a third website that was hacked. Now I use every password once and I like that if I'm logging into a website from a different computer or something I can still access my passwords
+3	1526931979	1	Fuck biometerics, last thing i want is some company selling my finger print. You know it will get there one day, just like social media credit score, like in china. Its coming to a country near you!
+2	1526932510	1	what's the difference between KeepassX and KeePass2Android?
+3	1526933526	1	KeePassX is for desktop.
+0	1526917888	15	I Brave for a year now and I find it slow, and not very good if they want to compete with Google, despite the manipulation of information Brave needs to bring a better service to the table
+1	1526919782	11	Use it on mobile especially. Lots of benefits on mobile, and 75,5% of users are on mobile anyway! 
+2	1526921200	3	sorry, I thought that was another conversation, I actually used brave on my mac because when building erc20 platforms using solidity, I haven't used it on my phone yet. I going to try. Thank you!
+3	1526928265	4	It is clearly the best mobile browser available. The desktop browser needs some work, but it's still in beta, and all the juicy updates are coming with version 1.0. 
+4	1526930265	2	I going to try thank you!
+2	1526922694	2	Sorry, I am out of the loop. What are the benefits?
+3	1526927393	7	As I understand it, the mobile version works exactly like Chrome except it natively blocks ads and trackers. It is therefore faster, uses less battery and data  and safeguards your privacy. The same advantages apply to the Desktop version, however it only shares Chrome's back-end, not its front-end, and therefore e.g. many Chrome extensions don't work on it. 
+2	1526930183	2	I found it slow on mobile too.I like the idea behind BAT. 
+3	1526932465	1	Me too
+0	1526916582	8	I still don't understand BAT. Can someone clarify do I need to put money into my browser to browse?
+1	1526918354	13	Simple answer: No, you do not.
+1	1526916766	18	You don't need to put any money to browse.
+2	1526926654	3	So how does the cryptocurrency generate any sort of revenue? Or how does the BAT token become valuable?
+3	1526927234	8	Advertisers will have to buy it to show ads to users (who have opted in to watching ads and who will get paid for that in BAT). 
+3	1526926756	4	You'll be able to earn BAT later this year when Brave browser offers it, I think they said Q3 but I could be mistaken. 
+4	1526926933	2	Any user gains BAT tokens just by using it?
+5	1526927026	4	I believe so and then you can pay your favorite sites or YouTubers with it. I don't know how much you'll earn though.
+6	1526927448	11	It would be nice if you could use the BAT to pay for one article without subscribing \(i'm talking about articles on nyt, the economist etc\)
+7	1526929993	2	I believe premium content purchases are something they're aiming for too
+6	1526928639	3	Why would you pay your favorite sites with their tokens?
+7	1526932121	1	You know because they sell content, and anal beads, whatever your fancy...
+4	1526931020	1	It will be abused like hell and fall apart. You can't trust client side code, we have decades of defeated videogame DRM to prove it. 
+0	1526929801	6	How am I just now hearing about (Literally today) about Brave? Cant wait to get this on my desktop at home..
+1	1526930158	2	It's still in its infancy, but growing and improving rapidly
+2	1526930220	3	Just got it for mobile, already much better (and cleaner) than anything else I've used. 
+3	1526930293	3	Yeah I love it on mobile it's my only browser there now, I haven't experience much in the way of the bugginess on desktop that others complain about but I will be happy when it gets the chromium front end.
+0	1526930140	2	Please fix the feature that opens up the address bar anytime you scroll up even a millimeter on mobile. That alone makes brave unusable imo
+0	1526931112	2	I used to use Brave, but it was slow at loading videos and eventually i got fed up, Now I am using Firefox....so yeah. Lets see how long this goes for.
+0	1526921666	4	Started using Brave a few months ago and so far I'm overall pleased with the browser, though it still has a way to go.  A handful of pages aren't treated well, missing sync to mobile is a gigantic shortcoming, and a few things I take for granted in other browsers such as saving images doesn't work as well on Brave (attempts to save html instead).  Still, it's a snappy browser that I use as my main, but not solid enough that I can uninstall Chrome just yet.  Hoping it continues to improve.
+0	1526925721	3	Love the Brave browser.
+0	1526914172	3	What is BAT?
+1	1526919680	8	Batman’s coin, you aint heard about it yet?
+2	1526926791	-1	Someone should come up with a blockchain for comics.
+1	1526928347	3	[This](https://vimeo.com/209336437) should answer your questions. 
+1	1526914336	-15	Try googling it
+2	1526918292	17	seems to be some rat-looking creature with wings. 
+3	1526927109	2	https://cdn.theatlantic.com/assets/media/img/mt/2014/10/batboy1_1/lead_large.jpg?1522685246
+2	1526917342	6	^^ the crypto community in a nutshell. This is why no new money is coming in.
+3	1526918606	4	Those damn Dogecoin fans 😔
+4	1526920889	2	😔
+3	1526919220	1	Yea but the acronym is sick bro!
+3	1526919178	-5	Because no one is intelligent enough to google things? Okay 
+4	1526922153	4	I googled it, and didn't have much luck. There's nothing about it on the brave browser page. Nevermind though, if you're not going to help, try shutting the fuck up instead? Thanks!
+5	1526929073	1	"Bat token" literally brings up any result you'd need.[but since you need to be spoonfed, here you go.](http://basicattentiontoken.org/faq/)
+6	1526932385	0	Redditards need to be spoonfed... Don't give them honey, sonny.
+1	1526930902	-1	No clue what BAT or Brave is, should be at the top of this thread, the one comment I find useful in the whole thing is all the way at the bottom :/Edit: Oh, and no one's actually answered this question, it's just a bunch of joke replies.  Meh, nevermind then, not worth the trouble, I'm out.
+0	1526916046	2	buy, buy, BUY! 
+1	1526927488	1	Says the lite coin fan!
+2	1526932466	1	Sell your LTC for BAT!  Charley did it! Charley wreeeeeeeeeeeeeeeeeeeeee!
+0	1526933969	1	I'm kind of out of the loop. What is so good about brave browser? 
+0	1526934364	1	I like Brave for when I want to do things without being bugged by a ton of video ads. Sure, it needs some polishing, but I figure that's normal for a new thing.
+0	1526936078	1	Aaaaand just downloaded Brave on my iPhone. I don't see any reason not to use it exclusively. Anyone have some constructive criticism on the app?
+0	1526918418	1	has anybody successfully withdraw BAT tokens through experience from the browser?
+1	1526919725	2	The wallet built into the Brave browser currently is only one way (donations only, not withdrawals). We will release an update with withdrawal capability soon. For now, the program that lets you earn BAT for browsing and viewing ads has not been released yet, but look forward to it quite soon! Once that earning program is out, you will be able to withdraw :).
+2	1526921081	-13	You must be desperate  if you have to shill to people about somebody using your browser on /r/cryptocurrency Not being able to withdraw bat tokens seems a bit scammy - why is there no warning about this?
+3	1526928790	6	>Calling a project scammy that's backed by Peter Thiel and has a well known Silicon Valley CEO and innovator at the helmThe absolute state of r/cryptocurrency. 
+4	1526932593	1	Someone should make a meme ..
+4	1526932669	2	Shitcoin shitcoin bcash bcash scam scam lightning lightning.
+3	1526927372	5	There is no warning needed when the info has been available and completely transparent forever 
+3	1526928469	2	Which part is a scam?
+4	1526931239	3	The part where he scammed the majority of developers into having to learn Javascript. I mean, fuck, we're only now starting to see a way out with web assembly. 
+3	1526927526	1	The only way you would have BAT in your wallet currently is from free hand-outs by the team. Hardly scammy. And Brave adoption is growing by millions of users per year. That said, I agree this is not front page cryptocurrency news. 
+0	1526931087	1	Huh... Have a pretty crazy story to share. I was trying to buy my mom a flight back to Chicago about 30 minutes ago and she said she checked last week and saw one for like $65. She didn't buy it because we were still unsure about a few details for her trip. Anyhow, I check today and tickets are $120\+ and I remember an article I read a while back about how the airlines jack up prices when they see you've been looking before. So I tried a few tricks, got on a different wifi, tried Safari instead of Chrome, cleared cache, etc but the prices are still in that $120\+ range. I thought maybe if we went to Starbucks or something, the location would be different enough to mark me as a new visitor so I said screw it, let's check back later. 5 minutes go by and i'm procrastinating on reddit and see this post and decide to give it a go out of curiosity and sure enough, there's the $65 flight. I know this sounds like a bad testimonial, but I just save $60 on my flight by switching to Brave. Whatever it is they're doing, they're doing it right. 
+1	1526932589	1	Damn right, i just saved tonnes on my car insurance, i simply switched to brave.
+1	1526934981	1	also could try grabbing a cookie from their competitors site 
+0	1526927389	-1	What does this have to do with crypto? I might add that from experience, the Brave browser is quite buggy.
+0	1526931061	0	Please at least go to brave.com and click features. 
+0	1526904218	-78	How can Google be a monopoly when their product is free. lol. 
+1	1526905044	56	If service is free, you're the product
+2	1526906294	10	This. It's the equivalent of Freemium - you just pay with your information such as geolocation, preferences, browsing history, purchase history etc. Big data will be scary once they harness it.
+3	1526912830	5	>once they harness itLol where you been dude? 
+4	1526920371	2	You have not seen anything yet. This is merely the tip of the iceberg, lol
+5	1526922343	1	lol tru
+1	1526904892	63	I cant tell if this is sarcasm or just the dumbest thing I’ve ever read on the internet
+1	1526905758	17	“We run ads senator”
+1	1526905584	9	Nothing is free. 
+1	1526911805	2	Are you being serious? Jesus 
+1	1526928612	2	If you have to give something to the company in exchange for their service, then it is not free. 
+1	1526928002	1	Consumer products are free technically. ( Just use an adblocker )Developer products are not free.
+1	1526933268	1	Their services like ads are not twat waffle.Your like that fuck i met today, i said something about nsa and mass surviellance but hey, why care about that if you have nothing to hide?Why give a shit about your 4th amendment rights if you dont do anything illegal?Who needs freedom of speech, fuck i aint got anything to say except, more doughnuts baby!Who here has tax problems? Me no! This year I got money back!End welfare for the poor, prop up the corporations!Bailout the bankers, reward them for wrecking the economy!Brilliant good sir!
+1	1526905087	0	My guess is domination of the advertising on the Internet - which keeps it all free. Someone correct me if I'm wrong though. 
+2	1526906364	1	99% of their profits are from advertising. Once VR goes mainstream they are fucked. Why do you think they are trying to diversity into so many different areas? They know time is running out.
+3	1526907257	5	Honestly I think that advertising in VR will be just as prevailant and Google's current advertising platform will continue as it has for the most part, if not leading the way. 
+4	1526907747	3	Yea and no. Their monopoly is coming to an end with platforms operating their own ads (Twitter, Facebook, Vimeo) etc. While cryptocurrency platforms such as Basic Attention Token are focused on enabling users to benefit from their information and to pay/reward users for their content. Everything goes to Google now. Decentralisation and reengineering the advertisement model will have ripple effects.
+5	1526909220	1	I don't think enough general users care who provides the ads, but Google is a well established household name at this point. Likewise I don't know anyone outside of crypto that gives a damn about decentralisation, never mind understands what it means. Of course this is the argument for adoptions, but it will be a long road. 
+6	1526919463	3	But more people than you realize care about privacy and the control of their data. If most people knew exactly how grossly their data is siphoned and handled and sold they'd be utterly disgusted. 
+6	1526910092	3	For sure, it will take time to topple the giant. But users growing up now are a different breed and I think that privacy and control over personal information  is one of the big obstacles in our time.
+7	1526910403	1	I don't know about you, but the "next generation" of kids growing up don't appear to care about anything, unfortunately. Sure you get the odd person actually interested in technology and development and in turn privacy. But it terms of the masses, its really a lost battle. It will be interesting to see how it pans out in the long run. 
+8	1526910682	2	One can hope.But I know what you mean. Everyone is more preoccupied with managing their social media life. Sigh.I had a chat with a mate the other day about the state of the world. Getting a job is the old world and for the most part it is merely glorified slavery. The new world is creating your own jobs or improving the world. I'm not going to spend my life making money for the capitalistic overlords..Common sense is anything but common.
+8	1526919515	2	If you're talking about gen z I can see it, but millenials are actually at the forefront of privacy protection.
+9	1526934880	1	Gen .zZ .zZ .zZ
+8	1526934570	1	The new generation and those after it are very retarded. I cannot believe how little the people only 5 years younger than me seem to know or care about. They have such terrible taste in music to boot.God dammit.Fucking bullshit, im only 30.Yet everyone is autistic as fuck.There must have been a common sense cut off since the start of the 90s, no one has it anymore so it seems.
+6	1526914012	4	>People will never switch from Mosaic to Netscape>People will never switch from Netscape to AOL>People will never switch from AOL to Internet Explorer>People will never switch from Internet Explorer to FireFox>People will never switch from Firefox to Chrome&nbsp;*you are here*&nbsp;>people will never switch from Chrome to Brave
+7	1526914383	6	Au contraire, i switched from chrome to firefox
+7	1526915416	0	I didn't say it would never happen. I'm just being realistic.AOL died because it didn't jump on the broadband bandwagon, no other reason. Firefox has never had more market share than IE/Edge and is slowly losing the extension war to Chrome. While Microsoft Windows controls the market share of desktops IE/Edge will be 2nd in market share - no doubts - because people either don't know, don't care or just don't change their browser. If Apple rise further, then so too will Safari for the same reasons.Meanwhile Chrome gets its usage from people literally going to Google for every thought in their head - and because its a good browser performance-wise, extension-wise and sync-wise with the Android market share being what it is. "Google it" is a common phrase. No one says "bing it" or "duck duck go it". Bing is decent for images, gifs, videos, but it's rare to meet many who actually use it, or any other search engine, more than Google - save some privacy conscious outliers.Brave, OK I've heard of it, used it once or twice, but it's still just a browser at the end of the day. It doesn't have anywhere near the sort of following or development required for mass adoption, yet, of course yet, maybe that will change. But let's be honest 90% of people only want it to succeed because they hold BAT, as with all crypto, mass majority are in it for the money. I am in it for the money. No shame in it as far as I am concerned. I'm not saying that Brave isn't going to make it, but the original statements were that Google was disappearing and I disagree, at least for the foreseeable.Edit:Not to mention Google own YouTube and this that and the other that everyone uses. Not to mention they're at the bleeding edge of new technology, which yeah the original statement about them diversifying is right. 
+8	1526927613	2	Google shill. Chrome is spyware. You can't trust anything Google develops. They aren't your friend. 
+9	1526931935	1	I agree, but you also can't deny reality... Or at least, shouldn't deny reality. Google aren't going anywhere. Which was the whole starting point of this shit. 
+9	1526934863	1	Agreed
+7	1526918355	0	>people will never switch from Chrome to Bravewhy the hell would people switch though? I just use an adblocker. Other people do as well, if they even care about ads at all.
+8	1526918907	3	Ad-blockers aren't going to be around for much longer. Or they'll eventually be compromised as well, as we've already seen. Websites aren't going to roll over and take it anymore. Its only a matter of time before they're obsolete plugins. 
+9	1526919028	0	I don't mind having to install a new adblocker:pif Brave is one day a better alternative browser i'm sure many will adopt it though
+6	1526934358	1	Decentralization is the right hand of crypto like cryptography/ledger is the left.The two come together to make bitcoin and much of what blockchain is.It is rather unfortunate that people in general dont understand this. Yet have such strong opinions for currencies like xrp.Redditards. Fuck.
+5	1526934150	1	Xrp effects? 

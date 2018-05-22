@@ -1,0 +1,44 @@
+File created at: 1526936906
+Subreddit: btc
+Submission title: Earn.com balance - $.65. BTC network fee $.56
+Submission created utc: 1526887215
+Submission score: 94
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526887808	18	I imagine there are thousands of wallets in a similar situation. It's kind of ridiculous that the fees are too high to withdraw. 
+1	1526906660	9	That's their business model. They won't have to pay people out as often if its not worth their time. 
+0	1526898667	12	I agree totally.  Now that Coinbase has bought Earn.com, hopefully GDAX cryptos will be allowed for cashout
+0	1526888707	11	i was more surprised they didn't allow for custom fee.
+1	1526891348	3	I felt the same.  Surprised they have one fee locked in.
+0	1526891597	4	The BTC network fee is currently at:1 Satoshis/vbyte | 0.00001 BTC/KvBverify it yourself at https://btc.com/stats/unconfirmed-txIf earn.com has decided to charge an additional fee or you have a wallet with gazzilion inputs it is not going to be the BTC's network issue. As a reminder, BCH also has a minimum fee of 1 sat/byte.
+1	1526901457	13	> vbyteLOL. vbytes. Over 60 years of computer science history and never a vbyte. Suddenly North Corea invents the vbyte.
+2	1526903976	13	I had to look it up. What in the ever loving shit. Oh, segwit bollocks. Right.https://en.bitcoin.it/wiki/Weight_unitshttps://i.imgur.com/0RJP0Fp.png
+2	1526919465	3	OMG. I did not even see that the Orwellian ministry of truth is changing words again.
+2	1526903297	2	Yes, bitcoin core have invented new features. Yet in your mentality that's a bad thing.
+3	1526904889	5	I think you're really pulling at strings here trying to imply a vbyte is something that actually exists (and thus was invented) and also that if it were to exist if it were actually a feature as you suggest.It's just a LOL. That's all it is and all it ever will be.
+2	1526902185	1	Thanks for your contribution to this subject.
+1	1526898344	4	This is the same as refusing to take customers in your restaurant and then promoting it by telling how fast your service is.
+1	1526919407	2	If the fee stays there, BTC will collapse. We need economies of scale and much cheaper fees if bitcoin is going to sustain its self. You are blowing the wrong horn, its just a matter of time until the transaction subsidy is halved. 
+1	1526893515	5	>If earn.com has decided to charge an additional fee or you have a wallet with gazzilion inputs it is not going to be the BTC's network issue. As a reminder, BCH also has a minimum fee of 1 sat/byte.BTC 1sat Transactions fee are not a premanent state.
+2	1526903335	2	Is it a permanent state in BCH? How can this be confirmed? 
+3	1526904827	2	It is not,But BCH upgraded to 32MB to ensure fees stay low while BTC work under diferent assumption.
+3	1526906525	3	Here is a real time visualization of both networks: https://txhighway.com/
+2	1526894291	5	> The BTC network fee is currently at:The BTC network fee is **currently at**Do you have anything else to say or you just randomly shitpost?
+3	1526897641	4	>&amp;gt; The BTC network fee is currently at:>The BTC network fee is **currently at**It is an anomaly of the bitcoin core design. It is designed to run on permanent backlog and high fees.>Do you have anything else to say or you just randomly shitpost?No, just saying that BTC is not a suitable tool for the service OPC ise.
+4	1526900603	2	> BTC 1sat Transactions fee are not a premanent state.Enlighten me, is BCH 1 sat/b "*premanent*" ? https://bch.btc.com/stats/fee says nope.
+5	1526901322	4	>&gt; BTC 1sat Transactions fee are not a premanent state.>Enlighten me, is BCH 1 sat/b "*premanent*" ? https://bch.btc.com/stats/fee says nope.True it is not but BCH any to have capacity and cheap transactions (original bitcoin design) while BTC aim to run on low capacity and fee market.Do you deny that.
+3	1526896216	3	It doesn't matter, if the network is unstable fee wise, then companies have to uphold user expectation. Shit can't just hit the fan when everyone starts to use the network. This is why BCH is Bitcoin and BTC no longer is.
+1	1526925926	1	It's definitely the ${NOT_BLOCKSTREAM}'s fault for not using the perfect and glorious technology correctly
+1	1526906619	1	you should really observe the mempool more closely.
+2	1526907193	2	I will, would you next time read the part where it says (first sentence)> The BTC network fee is currently at# The BTC network fee is currently atThanks.
+3	1526912664	1	I just looked and it is at 6 s/b at the time of writing — https://btc.com/stats/unconfirmed-txI agree that it was probably 1 s/b at the time you posted. But this proves the problem — if the service (earn.com or any other) were to put the recommended minimum 1 s/b fee, and right after they initiated this, more transactions came into mempool and/or miners were unlucky, the transactions would get stuck. Maybe for one block, maybe for an hour, maybe for days — you can never be sure, you can just hope that it will clear soon. For a service, this means angry clients and furious support tickets to deal with. So it makes sense to put a much higher fee.I'm not just theorizing, in my personal experience several BTC transactions have gotten stuck for multiple blocks, hours and even days (when mempool was constantly full), even though I always put a fee higher than the minimum required at the time.
+4	1526913812	1	This is the type of constructive argument that I welcome and agree with, you are entirely right that this is not "sustainable". What I really dislike is this whole negative attitude towards Bitcoin. Bitcoin Cash can strive, it is important to work on it rather than spent countless hours bashing Bitcoin in general. This sub is filled with hate and vitriol, one can only take a screenshot of the frontpage on daily basis and realise how much bashing and rehashing it has...Both of the projects have different paths for achieving scaling Offchain vs Onchain, nobody knows which one will be successful, none of them will be if the sun explodes for instance.I welcome your positive attitude and invite any other hater of cgminer to take note, when you do bring a constructive arguments and views, you will get an acknowledgement.Thanks /u/Mythoranium !
+0	1526911650	2	I just pulled my first payment off the site a couple weeks ago. Cleared a cool $100 CAD worth of BTC and paid $0.32 in networking fees. \^\^ Can't really complain about that one
+1	1526917363	2	Yikes, that’s a high fee for crypto land.
+2	1526919733	1	If you are consolidating many inputs there is a high fee. But relative to the $50 fees I've paid in BTC it's insignificant. 
+0	1526919119	1	Shapeshift to BCH.
+1	1526920563	2	How does that help? Shapeshift takes a fee too. Now they have even less money. 
+2	1526925923	1	Yes there is no solution to the problem they are screwed. If they Shapeshift they will have less value if converted at today's fiat rate, but they will have BCH (ie money) 
+0	1526902264	1	You should get a real job and buy BCH
+0	1526903531	0	Or maybe switch to litecoin being that it's cheaper than bch. Or maybe give users the ability to set the fee rate so that they don't overpay and then proceed to come onto r/btc to claim that btc fees can't be sent for lower than that. You know they can. 
+0	1526899493	-8	why would you want to cash out a dollar you jew

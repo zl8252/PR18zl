@@ -1,0 +1,103 @@
+File created at: 1526936903
+Subreddit: btc
+Submission title: The battle over bitcoin: Scandal and infighting as ‘bitcoin cash’ threatens to overthrow the most famous cryptocurrency
+Submission created utc: 1526897572
+Submission score: 147
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526905496	77	Bitcoin is being restored, not overthrown.The persons that Bitcoin's designer entrusted the continuation of Bitcoin **were** overthrown years ago and Bitcoin was almost lostBitcoin Cash is the continuation of Bitcoin as it was always designed since the chain before the fork is now forever tainted as even a single missing signature **anywhere** on the network breaks the **complete** chain of signatures
+1	1526918714	4	And not the "most famous cryptocurrency", which glosses over the reality, which is the fact that it is the "most undermined and sabotaged cryptocurrency".
+1	1526915648	3	> Bitcoin is being restored, not overthrown.> > The persons that Bitcoin's designer entrusted the continuation of Bitcoin were overthrown years ago and Bitcoin was almost lost>>Bitcoin Cash is the continuation of Bitcoin as it was always designedAgree.>since the chain before the fork is now forever tainted as even a single missing signature anywhere on the network breaks the complete chain of signaturesI don't get this argument. If you trust majority of miners are honest (as you should if you believe Bitcoin is sound) a 6+ confirmations tx is valid even though the signature is no longer available.
+2	1526916164	13	I do not trust the miners have been working on the **complete** chain of signatures meaning the chain is broken and the miners are only mining the most profitable thing as they are following an exchange rate and not the technologyAs someone said recently, the miners are just doing what is most profitable.  this was always an attack vector of Bitcoin (there is **much** more fiat out there that can be dumped into distracting people from the goal of **peer to peer cash**)many others do not trust the old chain for various reasons, this is just one of them.  If more and more users are not actually **using** the currency it is no longer a currency an it will fail like any other fiat that has no actual foundation of value and is just smoke and mirrorsedit: the confirmations also can not be trusted if you are not able to verify the **complete** chain of signatures.  this is also an attack vector of Bitcoin as people will just claim "the transaction was fine and you are just converting to fiat anyway".  I have bitcoin from 7 years ago I am 100% confident they are verifiable to the genesis block.  it is **impossible** to have that confidence in BTC anymore
+3	1526927570	1	I don't understand your statement: >I have bitcoin from 7 years ago(sic) I am 100% confident they are verifiable to the genesis block. it is impossible to have that confidence in BTC anymore.I want to be on the chain where I can verify the origins of my BTC/BCH (so, non-SW). What is affecting your confidence?
+3	1526917393	1	> the miners are just doing what is most profitable. this was always an attack vector of BitcoinThis is not an attack vector. It is the primary design goal of Bitcoin. Miners protect the network by maximizing their own profit.If you don't trust the fact that miners have in their best interest to preserve people's money then what difference does it make whether the chain has the signatures?
+4	1526918107	3	Maximizing profit is not the problem, fiat that is pulled from thin air to influence perceived exchange rates **is** the problem (I may not have phrased the original comment properly)The problem is not with Bitcoins design, the problem is with the manipulated systems external to Bitcointhe solution to the problem was always on-chain exchanges, and "somehow" that was all forgotten
+2	1526917619	6	Miners are not trusted. Miners are predicted to cooperate honestly miners are trusted to act in their best interests. I trust miners to choose to stay in business over choosing to lose everything. I can't trust them otherwise.
+3	1526917700	5	Yes, I believe that is what Satoshi meant when he used the word 'honest'.
+4	1526925191	3	17x no less in the WP 
+1	1526929592	1	Signatures aren't mandatory. There are quite a lot of Bitcoins that aren't the tip of a chain of signatures due to puzzle outputs or anyonecanspend outputs.
+1	1526923292	0	"threatens to overthrow"...Right.
+2	1526925219	3	Your presence is evidence of your concern
+3	1526925246	0	My boredom.
+4	1526926131	4	I know. Btc price is dead. 
+5	1526932765	1	Oh snap, you are right, I completely forgot, entertainment value is indeed what characterizes sound money.
+6	1526933819	2	no, sound money is not controlled by centralized dev teams like Bcore and Blockstream.
+7	1526935089	1	Sorry buddy I can't stick around, I've got some chemtrailing to do.I won't stay on Bildercore's payroll for very long if I keep spending my time on reddit.
+1	1526921559	-14	There is no such thing as bitcoincash.There is just Bcash.
+2	1526922444	8	So how is the new Purse.io bcash client working?
+3	1526923985	-15	I wouldn't know.I don't touch shitcoins like Bcash BCH.
+4	1526924506	11	Looking at your post history, you only post here.  You must care quite a lot to be here so much.I don't go to /r/BikiniBottomTwitter because I don't care about them.  But here you are...Feeling threatened? Scared that you picked the wrong team?  Trying to convince others to side with you to gain affirmation?
+5	1526925266	7	Rekt
+6	1526932476	-1	This is a sub for BTC. You're in the wrong sub.If you want to shill for your favorite shitcoin Bcash, go to r/bcash or r/bch
+7	1526933762	2	no, this is a sub created for censored/banned big blockists who helped build r/bitcoin past popularity.  too bad you guys made it a shithole, just like your SOV BTC.
+7	1526932499	1	Here's a sneak peek of /r/bcash using the [top posts](https://np.reddit.com/r/bcash/top/?sort=top&t=all) of all time!\#1: [The name is Bitcoin Cash! Nothing else!](https://np.reddit.com/r/bcash/comments/6r6hul/the_name_is_bitcoin_cash_nothing_else/)  \#2: [Welcome to r/bcash, the subreddit for the fork of bitcoin with base-block scalability!](https://np.reddit.com/r/bcash/comments/6pyl4a/welcome_to_rbcash_the_subreddit_for_the_fork_of/)  \#3: [Gavin Andresen on Twitter: "If BCH hashpower > BTC, I'll start referring to it as just 'Bitcoin' : https://t.co/vHChNvu7SJ"](https://twitter.com/gavinandresen/status/892717872442683392) | [19 comments](https://np.reddit.com/r/bcash/comments/6r4ijv/gavin_andresen_on_twitter_if_bch_hashpower_btc/)----^^I'm ^^a ^^bot, ^^beep ^^boop ^^| ^^Downvote ^^to ^^remove ^^| [^^Contact ^^me](https://www.reddit.com/message/compose/?to=sneakpeekbot) ^^| [^^Info](https://np.reddit.com/r/sneakpeekbot/) ^^| [^^Opt-out](https://np.reddit.com/r/sneakpeekbot/comments/7o7jnj/blacklist/)
+2	1526921752	3	sure, whatever you saybe careful not to fall off your flat earth
+3	1526922287	-9	The empty Bcash blocks and non\-existent transactions suggest otherwise.If you want to live in a fantasy, go ahead.Good luck.
+4	1526924942	2	Strange to believe others are in a fantasy from your fantasies...good luck with you fantasy as well!   
+4	1526925407	2	The slow drop in btc relative to BCH suggests otherwise
+1	1526908813	-63	Bcash is a joke. Nobody is using it. Blocks are empty. Transactions are non\-existent.
+2	1526908833	26	Redditor /u/ian_bondz has low karma in this subreddit.
+3	1526910476	17	good bot
+3	1526911905	16	Good bot.
+3	1526908837	-27	Please remember not to upvote or downvote comments based on the user's karma value in any particular subreddit. Downvotes should only be used if the comment is something completely off-topic, and even if you disagree with the comment (or dislike the user who wrote it), please abide by [reddiquette](https://www.reddit.com/wiki/reddiquette) the best you possibly can.Thank you, friends.
+4	1526909421	19	Bad bot
+5	1526909425	9	Thank you, BitcoinXio, for voting on AntiEchoChamberBot.  This bot wants to find the best and worst bots on Reddit. [You can view results here](https://goodbot-badbot.herokuapp.com/).   ***  ^^Even ^^if ^^I ^^don't ^^reply ^^to ^^your ^^comment, ^^I'm ^^still ^^listening ^^for ^^votes. ^^Check ^^the ^^webpage ^^to ^^see ^^if ^^your ^^vote ^^registered!
+5	1526913638	5	tbh it’s not wrong, although it’s unlikely someone with low karma in this sub would pull their head out of their ass and say something worth upvoting
+5	1526911881	7	Can we ban that Core trollbot?
+5	1526913649	4	Why don't you ban this trash spammy bot?
+6	1526914405	6	It's easily one of the worst bots I've ever seen
+6	1526926972	1	Yes. Bots are not a free speech issue, particularly when they always repost the exact same content.
+6	1526933138	0	Because r/btc is an echo chamber.
+5	1526929521	1	Just ban the bot, it's spammy and worthless.
+4	1526912697	7	shit bot
+4	1526911846	4	Bad bot. Can we ban this Core trollbot?
+2	1526909312	23	Bcash is a client implementation that has not even been released for Bitcoin CashBitcoin Cash has the same/more volume as Bitcoin had before all of the crap startedBitcoin Cash has multiple decentralized development teams that existed in Bitcoin before all the crap startedbut you can't even get a name right so I don't even know why I am telling you any of this
+3	1526919651	4	Actually, the 'bcash' client has been released (is alpha stage though)https://github.com/bcoin-org/bcash
+2	1526917942	6	btc is a joke, literally changed to destroy bitcoin, and dumb censorship supporters like you help it
+2	1526917925	4	The bcash is a JS implementation of bitcoin and was was only just released last week.What makes you say it is a joke?
+2	1526913977	4	Presuming you mean bitcoin cash...  if such a joke it is, then why comment?
+3	1526914432	5	That is the puzzling part, isn't it?Looking at the frequency of comments and the effort (always trying to capture the top comment, etc.) it is evidently worth more of their time than mine, and I am a proud Bitcoin Cash user.
+2	1526930745	1	https://www.gdax.com/trade/BCH-USD
+0	1526907183	16	Interesting article. More eyes on BCH.
+0	1526915649	10	Do supporters of censorship, denial of service attacks, character assassinations and in general the maxim of 'might makes right' get to call others Orwellian? Apparently they do...> The entire scenario is very much like the propaganda you'd read from the Ministry of Truth in George Orwell's "Nineteen Eighty-Four"They forced dissenters from the communities and websites they control, and when we built our own to talk freely, they call us Orwellian. So bizarre...
+1	1526918254	5	"not bizarre, not bizarre, you're bizarre"       "deny, deny, reflect"   (snore, same old pattern)     
+1	1526919710	3	They can call us whatever, but they don't get to dictate the blockchainThe dumb among them sold their Bitcoin Cash already
+1	1526933386	0	That statement doesn't appear to be aimed at the BCH community, but rather to provide a summary of the situation as a whole.Could be a bit clearer, though, as the preceding paragraph was a quote was from a core supporter, which may make it seem like commentary on the quote.
+2	1526934066	2	It is a direct quote from the "The Flaws Of Bitcoin Cash" part of the post. You can find the link to it in the article.
+3	1526936131	1	Thanks, missed that it was another quote from the same article. Really bizarre
+0	1526911023	12	My favorite:"The issues with bitcoin that bitcoin cash claims to solve are actually already being solved by bitcoin developers," Michael Jackson, a cryptocurrency expert and the former COO of Skype, tells The Independent. "Bitcoin is still by far the best known and there is so much talent in the crypto space that **any issues arising with bitcoin will be solved because they have to be**." Wow, that's a huge disconnect coming from someone who should be more in tune with what is going on. Maybe he's referring to Lightning, lol
+1	1526913478	18	My Favourite “Bitcoin core has leaned towards catering to investors and financial companies and is no longer interested in being a usable day-to-day cryptocurrency, but wants to stay as a store of value. Unfortunately, it is the use-case as digital cash that gives it the store of value in the first place. If you cannot easily transact with bitcoin due to high fees, then how can it be a good store of value? Bitcoin cash is both.”
+2	1526913496	8	[Literally the title of the whitepaper](https://i.imgur.com/aYkiTUE.png)
+2	1526925748	2	That's not quite correct. The fixed supply is a big determinate of sov that applies equally to both chains. 
+1	1526911635	10	> "Bitcoin is still by far the best known and there is so much talent in the crypto space that any issues arising with bitcoin will be solved because they have to be."Exactly how humanity has solved all other past issues.  That's why today we have no war, famine, or disease.
+2	1526925248	2	As a human, I feel so burned. 
+1	1526927090	5	> any issues arising with bitcoin will be solved because they have to be.He's absolutely correct. Hence Bitcoin Cash. He just expected it to be done by the wrong developers.
+1	1526925651	1	"The routing problem will be solved because it has to be". 
+0	1526900257	3	[deleted]
+1	1526901385	10	boy you gonna have a mental breakdown very soon 😂😂
+2	1526904241	5	What was his comment? Loved the article… Nice to see some impartiality
+3	1526906685	8	Screenshot: https://i.imgur.com/LVEYMhl.pngThat hahaha, links to https://coinmarketcap.com/source: https://www.removeddit.com/r/btc/comments/8kzq6u/the_battle_over_bitcoin_scandal_and_infighting_as/
+0	1526906484	-14	Do people really call Roger Ver "Bitcoin Jesus?"That's so embarrassing
+1	1526910600	15	Yes he has been called that for many years. It was a name given to him because he was out there hustling 24/7 for bitcoin adoption. Then there was the great split. He is still out there hustling 24/7 for bitcoin.
+1	1526907165	20	I don't like it either, but I'm pretty sure he was called that long before the Bitcoin cash era by lots of different people in the crypto community, both of which are bch and btc supporters now 
+2	1526907988	-7	the fact that anyone would be called "bitcoin jesus" is embarrassing, roger ver or otherwise 
+3	1526910479	15	Why's it embarrassing?? It was a humorous name given to him because he was (still is) an extremely enthusiastic bitcoin evangelist.
+4	1526914916	5	And benefactor.
+3	1526908663	5	The fact that your only retort is over something that Ver has been called for Years? That surly doesn't say anything about you. /s
+1	1526912475	5	You obviously don’t know your history at all. Please stop posting in this subreddit. Thank you in advance.
+1	1526917831	6	You probably wouldn't know about bitcoin if it wasn't for Bitcoin Jesus 
+1	1526918585	4	Only those who wish to diminish his influence call him Bitcoin Jesus. Those same people also call him bitcoin Judas. I and 99% of people here know him as Roger Ver the CEO of bitcoin.com.Most people just call him Roger.
+2	1526921398	2	Rogeredit: it's a funny. re: https://en.wikipedia.org/wiki/Radiotelephony_procedure
+3	1526921577	2	From the wiki:>> ROGER	This is a method of receipt. I have received your last transmission satisfactorily.[9]This usage comes from the Morse code prosign "R", which means "received": from 1943 to early 1956, the code word for R was Roger in the Allied Military phonetic spelling alphabets in use by the armed forces, including the Joint Army/Navy Phonetic Alphabet and RAF phonetic alphabet.[40][41] Roger was used because it was, from 1943 to early 1956, the Allied Military. This use was officially continued even after the spelling word for R was changed to ROMEO.[42] Contrary to popular belief, Roger does not mean or imply both "received" and "I will comply." That distinction goes to the contraction wilco (from, "will comply"), which is used exclusively if the speaker intends to say "received and will comply". The phrase "Roger Wilco" is procedurally incorrect, as it is redundant with respect to the intent to say "received".[43][9]
+1	1526918006	3	well he did try to get people into bitcoin for many years, back when btc was bitcoin
+1	1526918086	3	That nickname was given to Roger. He didn't choose it. I don't think he is embarrassed by it.  You don't earn such a nickname for anything negative.
+0	1526924319	-4	It won't, Bitcoin Cash fame is all about "we are going to overthrow BTC!" which I find pretty bad.
+0	1526931195	-1	You guys are barely beating doge, and you want to overthrow the ( real ) Bitcoin? How cute.
+1	1526935568	0	Bitcoin Cash marketcap  $21,322,112,289 Doge Market cap  $482,340,382 Another imbecilic prick from Bcore debunked.
+0	1526910950	-21	Well it's funny but bcash has less transactions than doge coin
+1	1526926464	2	https://s17.postimg.cc/ewylnvdyn/IMG_20180417_225327.jpg
+1	1526916177	2	DOGE has been around for more than four years - BCH less than one. The fact that BCH has just as many transactions is impressive to say the least 
+0	1526916228	-11	Bitcoin cash will never be anything other than a shitty altcoin.  Overthrow Bitcoin LOL.
+1	1526918391	6	People say words like this, but they can't even explain why Bitcoin BCH exists or how it fails but somehow are confident Bitcoin BTC is flawless. 
+2	1526926994	4	It's utter desperation.   They have no technical counterarguments.  They have nothing,  so they just smear and attack.
+0	1526930378	-2	Sad how the bcash groupies take over a BTC forum, talk about scandal & deception.

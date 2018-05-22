@@ -1,0 +1,12 @@
+File created at: 1526936928
+Subreddit: BitcoinMarkets
+Submission title: How to Achieve 50x Faster Bitcoin Price Data for AI Trading
+Submission created utc: 1526924189
+Submission score: 0
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526927182	2	Looks like this is for ohlc data. What if you need live data?
+1	1526931010	1	This is actually LIVE ohlc data. Additionally, tick data is also supported.
+2	1526932306	1	How is ohlc data live? Does it include unfinished candles?
+0	1526928387	2	also, kudos to the designer(s)
+1	1526931093	1	Thanks so much!! Our designer surely appreciates it a lot!!

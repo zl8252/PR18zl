@@ -1,0 +1,24 @@
+File created at: 1526936897
+Subreddit: Bitcoin
+Submission title: Twitter CEO Jack's FinTech App Square is Surpassing Competitors like Venmo With Bitcoin
+Submission created utc: 1526904220
+Submission score: 135
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526907582	20	Title gore 
+0	1526911622	5	This article sounds like it was written by someone who cobbled together some news articles related to the narrative they wanted to create without understanding ANY of the underlying content.In other words, it's a really garbage article. 
+0	1526911538	6	Venmo is literally a useless app.I will never understand: - how it gained traction as the defacto P2P cash app amongst millennials- why people who use it think it's better than PayPal- why you cannot send money from PayPal to a Venmo account (or vice versa) when they are backed by the same company
+1	1526914460	10	Venmo is stupid simple to use. That's it.
+2	1526932571	1	That’s the ticket. Ease of use. I’m not a designer so I wouldn’t know what they’re doing right specifically, but it seemed very familiar even the first time I used it. I think *maybe* it’s sort of like the old Mac/PC debate. A lot of PC users couldn’t wrap their heads around the fact that people’s priorities may be different - and that it wasn’t as much about possibilities as it was about ease of use. Windows was a much more open OS, but that didn’t matter to everybody. I read this once (many years ago, obviously) and while it’s obvious hyperbole, I think it illustrated some of the issues: Windows was created by dumb people for smart people to use, and OSX was created by smart people for dumb people to use. A lot of people just want something that’s easy to use and Venmo is a great example of that. 
+1	1526925350	1	Venmo is useless? I feel like its probably one of the most useful apps I have. Amongst my friends whenever we go out for dinner or on a trip we just Venmo each other what we owe. Takes 2 seconds. How is this useless?Have we not heard stories about paypal suspending accounts or being overly zealous with their Terms of Service policies? Ive never hear of such things from Venmo. I dunno I'm just surprised to hear complaints about Venmo I guess.
+2	1526926639	1	Paypal owns Venmo.https://en.wikipedia.org/wiki/VenmoYou haven't heard of such things because it's a new service and Paypal is being very careful not to let it get any bad press. Give it a few years and the same arbitrary freezes with zero customer support will be the norm because it's too difficult to switch to something else.
+3	1526927428	1	I understand Paypal owns Venmo. But it seems that PayPal the site/app whatever is more suited for the business/customer relationship model. I've done VERY few P2P payments with PayPal. Venmo literally just lists my contact, I click the right one, and send the money. It's what I wish bitcoin would become and if more of my friends would jump on the bitcoin bandwagon that's how I would want to use it.
+4	1526927523	1	Most of my friends are happy to accept bitcoin for splitting checks. A lot of them want a little to "invest" in but don't want to go through the whole process of getting a coinbase account.
+1	1526933719	1	Have you never used Venmo?  2 taps, and cash out is available next business day. 
+1	1526914054	1	Venmo became popular for the social media aspect.
+2	1526918346	1	Such a weird thing to add a social component to, but people seem to love it.
+3	1526920754	2	Quite the contrary, money in and of itself is a social network. A social context is key to Bitcoin adoption as it allows a way native to most users to masquerade the technical elements.I'm soliciting support for this project: https://shocknet.github.io
+4	1526934995	1	Oh looks cool-post it on reddit when more info is available 
+0	1526910505	2	Bitcoin = Growth^2
+1	1526911741	1	Bitcoin = Growth^20Fixed 
+0	1526911579	2	How is Square surpassing Venmo when it has less users?Also, this whole article seems to suggest that Square's stock price was a result of bitcoin integration. No fucking way. Correlation does not imply causation.

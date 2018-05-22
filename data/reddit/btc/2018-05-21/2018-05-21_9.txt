@@ -1,0 +1,10 @@
+File created at: 1526936907
+Subreddit: btc
+Submission title: CryptoGraffiti.info has just added CashAddr support
+Submission created utc: 1526852327
+Submission score: 76
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526852376	6	    https://CryptoGraffiti.info v0.96 RELEASED    ==========================================    * Added CashAddr support.    * Fixed more bugs in OP_RETURN decoding.    * Bitcoin unit denomination is now flipping between BTC and BCH.    * Fixed a bug in the parsing of invalid ANSI ESC sequences.    * Removed obsolete known issues and info from the help tab.    * Disabled bch-bitcore2.trezor.io Bitcoin Cash API due to CORS errors.
+0	1526891236	4	Finally! I knew you'd come around some day =)/u/chaintip
+1	1526893373	3	Thanks :) tipping people like you are the reason why cryptograffiti.info will always be free of ads and google analytics.

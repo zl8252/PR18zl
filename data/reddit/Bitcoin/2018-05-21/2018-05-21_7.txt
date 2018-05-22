@@ -1,0 +1,75 @@
+File created at: 1526936899
+Subreddit: Bitcoin
+Submission title: Turkey Repatriates All Gold From The US In Attempt To Ditch The Dollar
+Submission created utc: 1526853832
+Submission score: 111
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526859971	37	Was the repatriated gold melted down and sculpted into that totally sweet throne?
+1	1526862248	20	He also needed some for his new goat harem.
+2	1526906323	3	Whores with twice the legs charge twice the price.
+2	1526910564	-1	Casual racism, nice!
+3	1526915890	2	https://i.imgur.com/Lhbnof7.jpg
+4	1526919782	0	I'm sure you prefer your cousin 
+5	1526920500	1	I enjoyed your cousin just like your father did.
+6	1526932230	1	Awww did I hit a nerve you stale piece of white bread?
+7	1526932380	1	Not really, the only way you could offend me is by cutting in. Germans really don't like that. That and Turks.
+1	1526906295	3	No, but some of it looks like erdogan is gearing up to take it for himself, as per the article. 
+0	1526881831	11	> Turkey Repatriates All Gold From The USWhat will the transaction time and fee be? For bitcoin it would be about $0.25 to get in the first block, so 10 minutes on average.
+1	1526882576	7	This is why a new sound money standard will be a Bitcoin standard. How can the storage, transport & security costs of physical settlement in a neo gold standard possibly compete! A typical transaction fee vs the cost of sending a Naval Armada in a multi-polar world in the midst of a trade war. Look at how that turned out for the British Empire during WW2 thanks to German U-Boats.
+2	1526883028	6	On top of that they could even do something useful with bitcoin, like send to or receive from other countries on-chain or via the Lightning Network
+3	1526883616	6	Imagine Nation States opening up lightning payment channels with each other.
+4	1526884295	5	Why not? As you know, they are just smart Bitcoin contracts that can always be settled on-chain if necessary.
+5	1526884565	1	They could be used to signal trade relationships/agreements.
+6	1526885207	2	That would still require third party trust. Only a real payment is trustless.
+7	1526885526	1	True. But still cheaper than sending ships.
+8	1526888982	2	And paying salaries to secure and transport.
+9	1526900399	1	And audit.
+2	1526892484	2	On the other hand, stealing such a large amount of gold it similarly cumbersome. You need transportation, a lot of people and and large army to get the gold out of Ft. Knox.With bitcoin, all you might need is for one Ft. Knox employee to make a critical security error and a single clever hacker from an evil state can get to the money without leaving his office.
+3	1526901550	3	Or you could set off a nuke in fort Knox, radiating the gold and thereby making it worthless. Thus making your own gold reserves worth more.
+4	1526933382	1	Not unlike what the U-Boats did to Germany & Europes gold while sinking the British Empire's gold into the briny depths.
+3	1526900217	3	No gold in ft Knox anymore.
+4	1526906904	1	The perfect heist!
+3	1526898899	2	Such large amounts of bitcoin should be kept in cold storage. You can generate a wallet on a computer that has never been connected to the internet and put the private key in a safe protected just like the gold in Ft. Knox. Then there’s nothing for a clever hacker to steal as a thief would need physical access to the safe.
+4	1526934028	1	I know, but that offline computer still sometimes has to interact with the world. Maybe they'll occasionally use some kind of information carrier to copy transactions to the outside world to be transmitted to the network.Or it runs on Intel (the Intel management Engine is able make connections), etc. etc.History shows that it is next to impossible to 100% secure digital systems.
+3	1526908951	2	> With bitcoin, all you might need is for one Ft. Knox employee to make a critical security error and a single clever hacker from an evil state can get to the money without leaving his office.Just require like 80 out of 100 multisignature.
+1	1526902391	2	This is one of my dreams though.Imagine some countries would say "keep your gold (tungsten bars) but please transfer the equivalent in BTC"....What would that do to BTC,  the dollar, gold, etc.?Once this has started will there be a way back, could it be done without war?Mind boggling it is.
+1	1526889933	1	The article states a 7 year estimate but reduced to 4 years for Germany to repatriate 300 Tons. Doesn’t say the transport cost but assume that cost is negligible to associated ongoing security and storage fees. 
+2	1526890503	1	To be honest, it's also not really fair to compare gold and bitcoin. Gold is still much more intrinsically safe (laws of physics) than bitcoin (protocol).
+3	1526900466	2	The protocol is also subject to the laws of physics.
+4	1526902124	1	as well, but not exclusively like gold.
+5	1526902873	1	Which laws of physics can the bitcoin protocol ignore?
+6	1526905308	1	Maybe my English is not clear: I mean laws of physics + protocol for Bitcoin.
+1	1526921019	0	They should tokenize Gold on Ethereum, and send it to themselves.
+1	1526897711	-3	10 minutes maximum. not average. 
+2	1526899729	2	lol wut?
+3	1526900349	-1	a block is mined every 10 minutes. So 10 minutes is the maximum time someone have to wait for their transaction to be included in the next block not the average time. 
+4	1526900682	2	You are [cute](https://www.reddit.com/r/Bitcoin/comments/6gjfgw/latest_block_mined_for_over_an_hour/).
+4	1526910845	2	That is not accurate at all times.
+4	1526914567	2	If hashrate drops, then it will take longer for each block to be mined (until the next difficulty adjustment). Also, as often is the case, if there are more transactions in the mempool than can fit in one block, some of those transactions won't get placed in the next block. So your statement theoretically holds true only if hashrate doesn't decrease and all the transactions in the mempool can fit into the next block. Furthermore, there isn't a timer set to 10 minutes; rather, all the miners are trying to find the nonce, and when it's found the next bock is mined. So even if the hashpower is steady and the mempool is almost empty, it could, and often does, take longer than 10 minutes to mine a block. Disclaimer: This is all my current understanding, and may not be accurate, I'm no expert.
+5	1526921629	1	His statement never holds true for Bitcoin. Mining is inherently stochastic, always.
+4	1526921084	1	It's the opposite 
+2	1526900514	2	Nope
+0	1526876635	5	Erdie baby, what are you doing huh?Now all the world leaders will want a chair like that!
+1	1526911035	2	Well, one we know of at least. 
+0	1526888144	9	Expect some freedom bombing soon.
+1	1526904845	4	On such a close ally? No, why?USG foreign policy is stupid, arbitrary and neocolonialistic, but not as  stupid, arbitrary or neocolonialistic as you think.
+0	1526903800	3	" However, in a strange twist, instead of moving the physical gold to Istanbul as the Turkish press reported in April, the Swiss newspaper notes that around 19 tons of Turkish gold is now stored at the Basel-based Bank for International Settlements.It was not immediately clear why Turkey would shift its gold from the NY Fed to the BIS, whose historical "gold rehypothecation" tendencies have been well documented over the years.
+0	1526859012	8	Gaddafi much?
+0	1526879094	6	They are getting Iraqi and Libyan gold. USA has no gold left to give the other countries they owe = this is the beginning of the end of USD.P.S Now you can all see the real reason for the coup in 2016.
+1	1526906390	1	What are you talking about? They're getting their own gold mate. Read the article? Read the wikipedia page on the NY Federal Rserve Bank?
+2	1526933761	1	whoosh
+1	1526889965	0	That's If they are getting "gold"Most likely tungsten bars.
+2	1526892932	8	Wtf? Never ceases to amaze how ignorant or conspiracy driven some in the crypto community can be. Gives the movement a bad name. The US handing out fake gold to another nation is about as likely as a major US financial institution knowingly transferring large amounts of counterfeit cash to another financial institution.
+3	1526906463	2	Are these guys trying to suggest that upon receipt of the gold, Turkey won't check to see if it's gold?
+2	1526890427	1	Do you really think this is possible? There would be global war.
+3	1526891684	1	I don't believe they can check every bar one by one, break em and see whats inside.So yes, that's possible but there won't be a war because nobody will notice it.
+4	1526892460	2	I'm sure there's many ways to check if it's gold or not or impure etc. After all, gold has been checked for it's purity for millenias
+0	1526890975	4	Why does Germany have so much gold ? Its like 40% of what  the US has and the second biggest goldreserve of any nation. 11 times more than UK. But its only the 4th biggest Economy. 
+1	1526892391	11	4th largest economy to have 2nd largest stock of gold, doesn't sound too bad.
+1	1526893518	2	Look up Rothschild family and Eustace Mullins
+0	1526916308	1	Why do country's leave there gold in america? 
+1	1526920517	1	It's presumed safe.Also, FYI it'd be "countries" and "their".
+2	1526920839	1	Okay, thnx!
+0	1526921117	1	PREPARE TO BE FREEDOMIZED!
+0	1526872187	1	> In other news, Erdogan announces a new tungsten-based currency...***> Wow... Theres Canada again with Nuffin ...***> if you dont hold it you dont own it.***> Ft Knox is empty and the the Treasury is filled with IOUs.***> The Turkey that Laid the Golden Eggs. Classic.***> Erdogan is not fair. He knows exactly, that US have to plunder at least 3 countries to bring up the Turkish gold.

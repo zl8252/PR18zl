@@ -1,0 +1,28 @@
+File created at: 1526936900
+Subreddit: Bitcoin
+Submission title: Andreas breaks down BTC Script and stack language in an incredibly digestable format.
+Submission created utc: 1526856943
+Submission score: 96
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526884391	7	i'm so glad there are people smarter and more passionate than me working on the bitcoin protocol. we're all just a bunch of apes and don't deserve to complain about anything or the price. this is high computer science and cryptography \- they're not building an app. this is launching man to the moon.
+1	1526900366	2	They’re also apes tho :-P
+0	1526857902	3	This is great stuff, and thanks for editing 
+1	1526865822	3	Wasn't me. :\-P  I just posted the link. lol.
+2	1526909364	1	Good lecture you have there though.
+0	1526919609	2	I'm very glad to see so many videos recently discussing script. There are countless people who seem to think Bitcoin is incapable of smart contracts, like it isn't programmable money. How the hell did they get involved in the first place?
+1	1526919721	1	Honestly it’s the term “smart contract”.  It’s misleading.  People think it’s a separate layer on top of sending txs or something when in reality it’s just the expansion of script.  
+0	1526881338	2	I remember watching this a while ago, and it was one of the, ohh, I really need to re-evaluate what I know about Bitcoin.I know at some point during the seminar, he explains SegWit (not sure if it was video 1 or 2) and then it really clicked.  I know people have this narrative that SFs are a hack, but they are actually kinda elegant.  How can you add functionality to anything, without breaking the current structure.  The idea can be applied all over the place, not just bitcoin, even not just software.
+1	1526883300	2	Yea I really appreciated this video.  I had to mull it over several times.  The blockchain space itself is still 1mb.  But the tx's hashed into what's left in the blockspace push it to potentially 4mb.  Really something else.
+0	1526866838	2	The real Bitcoin Jesus
+1	1526870403	2	and Jilfoyle is the Bitcoin Satan?
+2	1526903856	1	No Roger is.
+0	1526883213	1	My head hurts
+1	1526883318	1	That my friend, is the feeling of your bitcoin knowledge expanding. :-D 
+0	1526906088	1	I was just watching that yesterday. Highly recommend.
+0	1526857130	1	Andreas is my dad.
+1	1526857169	1	I wish he was my dad.
+2	1526871998	2	It's never too late. 
+0	1526857765	1	> incredibly digestable formatSo you're telling me he offered free coffee and donuts?
+1	1526875201	3	…two semi-foodstuffs that are comparatively quite hard on the digestive system.
+0	1526879351	-1	Andreas the ETH shiller.

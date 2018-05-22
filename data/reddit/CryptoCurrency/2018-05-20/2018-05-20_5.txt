@@ -1,0 +1,33 @@
+File created at: 1526848611
+Subreddit: CryptoCurrency
+Submission title: Coinance Update: Official Launch of Portfolio Management for Android and iOS!
+Submission created utc: 1526801183
+Submission score: 258
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526825451	24	Next up: 🅱oinbase
+0	1526811517	29	Coinance? Name appropriation much? lol.
+1	1526811836	24	My culture is not your god damn app name!
+1	1526824111	9	Tbf, Binance doesn't have a monopoly on the word "finance"
+1	1526823635	7	They made a hybrid name from two famous exchanges (Coinbase and Binance). Good stuff.
+0	1526829362	3	Sure wish Kucoin had an API and could be tracked...
+0	1526820182	2	And still no option to view all currencies? When will this be added? 
+1	1526829798	1	>🅱You mean more coins? We have a ticket open to increase up to 1000 coins. Need to make some changes in the backend, it just wasn't a top priority. Sorry about that, it will come!
+2	1526831137	3	Yes, and to be honest, this should be your top priority.You can't compete with the others if you don't flat out have the option to view EVERY coin, simple as that. This same thing was said by many others in the previous launch thread.
+3	1526838042	2	This is correct I will not use a place if they are missing even one Coin I have because I don’t want to go from place to place. If they want people to use it they need the top 300 atleast
+4	1526841945	1	We are having the top 500 so far.
+3	1526841980	1	Alright we‘ll push it up in the priority then for you. Will be kn the next Release!
+0	1526809790	2	Tried the application on Android and the UI looks pretty sick and over-all design is pretty fine.
+1	1526829629	1	Thank you so much!
+0	1526819071	1	When I want to open my wallet, the app keeps closing after entering my PIN in Android.
+1	1526829859	1	We will investigate that immediately. Can you send me more details how to reproduce per PM please, like if you have connected a wallet or which one or just signed up?
+2	1526838103	1	If you added more coins I would use you, until then I think you’ll find it hard to get many people
+3	1526842055	1	Okay we‘ll add more in the next release!
+0	1526834030	1	for some reason a gdax view only api key isn't work here 
+1	1526842007	1	Are you on Android or iOS?
+2	1526842919	1	sorry my bad I should have been more specific, I'm running on Android 6.0.1
+0	1526836307	1	Why didn't you plan to call it cortfolio
+0	1526837295	1	Man imagine how much more money that hand model would have if she had some Eth lol
+0	1526848580	1	Is there no way to just add a wallet address to be monitored? 
+0	1526801503	0	I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:- [/r/bitcoin] [Coinance Update: Official Launch of Portfolio Management for Android and iOS! • r\/CryptoCurrency](https://www.reddit.com/r/Bitcoin/comments/8kr83q/coinance_update_official_launch_of_portfolio/)- [/r/ethereum] [Coinance Update: Official Launch of Portfolio Management for Android and iOS! • r\/CryptoCurrency](https://www.reddit.com/r/ethereum/comments/8kr9il/coinance_update_official_launch_of_portfolio/)- [/r/litecoin] [Coinance Update: Official Launch of Portfolio Management for Android and iOS! • r\/CryptoCurrency](https://www.reddit.com/r/litecoin/comments/8krc2g/coinance_update_official_launch_of_portfolio/)- [/r/monero] [Coinance Update: Official Launch of Portfolio Management for Android and iOS! • r\/CryptoCurrency](https://www.reddit.com/r/Monero/comments/8krarr/coinance_update_official_launch_of_portfolio/)&nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*
+1	1526801504	0	If any brigades are found in the TotesMessenger x-post list above, report it to [the modmail](https://www.reddit.com/message/compose?to=%2Fr%2FCryptoCurrency).  Also please use our [vote tracking tool](https://www.reddit.com/r/CryptoCurrency/wiki/resources) to analyze the vote behavior on this post. If you find suspicious vote numbers in a short period of time, report it to [the modmail](https://www.reddit.com/message/compose?to=%2Fr%2FCryptoCurrency). Thank you in advance for your help.*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*

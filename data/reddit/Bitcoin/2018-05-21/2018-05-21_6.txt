@@ -1,0 +1,37 @@
+File created at: 1526936898
+Subreddit: Bitcoin
+Submission title: Bitcoin Improvement Proposal 118: SIGHASH_NOINPUT (eltoo precursor soft-fork)
+Submission created utc: 1526907332
+Submission score: 125
+comments: (level	created_utc	comment_score	comment_body)
+
+0	1526914366	21	Great post. Thanks for this. We just went over eltoo in yesterday’s Seoul Bitcoin meetup.We’re going to try and come up with a better TL;DR though. ;)
+1	1526914946	7	Ha, I admit mine could use some work.
+0	1526918135	17	I strongly, strongly support this BIP. This is necessary for managing offchain state and maturing sidechains. Lets get this passed as quickly as possible.
+1	1526921321	2	How does it help with sidechains?
+2	1526922559	1	Sidechains/offchain transactions can have their transaction process abbreviated onchain by dynamically linking the start and end states as opposed to using every intermediary state.Someone correct me if that's not a fair enough simplification.
+3	1526925607	1	I would imagine this could benefit federated sidechains that use a form of multisig to distributed the federation process.
+0	1526908557	13	Let’s hope this doesn’t become unnecessarily controversial now...
+1	1526916807	8	I don't hope we have go through a years long activation process again.
+2	1526918582	6	The probability is probably high that it will. Simply because bitcoin is so decentralized.
+2	1526921510	0	A Core-endorsed UASF might be a nice precedent.
+3	1526929710	1	Core doesn't endorse anything, contributors do.
+4	1526930340	1	In case anyone else doesn't understand, I'm referring to the inclusion of UASF code within Bitcoin Core.
+5	1526930766	1	I don't think you understand what a user activated soft fork is. It's just the activation flag. Someone writes the code regardless, and if it gets merged it is in the client again regardless of activation mechanism. SF, HF, UASF. Doesn't matter except in triggering the activation.
+6	1526931320	1	Why did you think I was talking about something other than activation code being merged into Core?
+7	1526931460	1	Because activation code is a near meaningless flag that requires no endorsement or core developer consensus to include in a client. It's why the planned segwit SF could so easily be configured as a UASF by users. Why would you be talking about it like it needs a "Core endorsement" whatever that means?
+8	1526932182	1	> Because activation code is a near meaningless flag that requires no endorsement or core developer consensus to include in a client.What? Merging any code whatsoever into the Core repository requires consensus.> so easily be configuredWhat was the easiest way to [add this code](https://github.com/bitcoin/bips/blob/master/bip-0148.mediawiki#Reference_implementation) to Bitcoin Core? The easiest way I was aware of at the time was installing Bitcoin Knots or another modified client instead.>"Core endorsement" whatever that means?>> I'm referring to the inclusion of UASF code within Bitcoin Core.
+1	1526920391	3	B-B-B-but it doesn't follow Satoshi's Vision!!! 
+0	1526915848	5	TLDR: Right on
+0	1526918426	5	Is this going to be activated via BIP9 miner signaling?  Or via a flag day activation like BIP8?
+1	1526920119	4	Good question I don't have an answer to and I think is still up for discussion as it's not specified in the draft.I'd like to see a flag day reasonably far enough into the future. 6 months - 1 year unless shown data otherwise proving this to be a bad time range.
+2	1526927670	1	I just have a feeling that certain miners (specifically Jihan or Ver's pools) are going to hold this back intentionally, just out of spite.
+3	1526932254	1	Other miners will gladly mine those blocks while Jihan loses money.
+3	1526933116	1	If they do and it has consensus that will just paint them in the bad light and increase the likely hood of a pow change or at least a split with Bitcoin Jihan on one side and Bitcoin on the other.. the question is if this bip is worth splitting over because that is what things ultimately come down to.. even if it's a soft fork.
+0	1526925717	1	Other SIGHASH_NOINPUT stuff:http://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-August/010759.htmlhttps://github.com/Roasbeef/btcd/commit/67830e506fa135d5239177340918cea39909e6a4https://github.com/Roasbeef/bitcoin/commit/4b3c3f1baf7985208ceb6887261ee150ab6e3328
+0	1526919583	4	I support it, let's do it with a UASF!
+0	1526926028	1	what are we waiting for to get this integrated into bitcoin? it's a soft fork so no brainer...
+1	1526928470	1	It was just given a BIP number today.BIPs have relatively low requirements for getting a number assigned. It still needs to undergo the BIP process:https://github.com/bitcoin/bips/blob/master/bip-0001.mediawiki
+0	1526934887	1	I shall be upgrading my node to this when it comes out :)aka I support this soft fork. 
+0	1526935609	1	I hope we activate this with a UASF and not miner signaling. We all know what happened last time
+0	1526932357	1	Just implement it. Bcash fanboys have their own toy, hopefully they won't care.
